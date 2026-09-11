@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215045299"
+        "value": "1114035102"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629044961"
+        "value": "1215045299"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,17 +26,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114035102"
+        "value": "1629044961"
       }
     ],
     "address": [
       {
         "line": [
-          "100 W 16th St."
+          "100 W. 16th Street"
         ],
         "city": "EUREKA",
         "state": "KS",
         "postalCode": "67045-1064"
+      },
+      {
+        "line": [
+          "1020 N SCHOOL"
+        ],
+        "city": "EUREKA",
+        "state": "KS",
+        "postalCode": "67045-1106"
       },
       {
         "line": [
@@ -56,19 +64,11 @@
       },
       {
         "line": [
-          "100 W. 16th Street"
+          "100 W 16th St."
         ],
         "city": "EUREKA",
         "state": "KS",
         "postalCode": "67045-1064"
-      },
-      {
-        "line": [
-          "1020 N SCHOOL"
-        ],
-        "city": "EUREKA",
-        "state": "KS",
-        "postalCode": "67045-1106"
       }
     ],
     "extension": [

@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649501347"
+        "value": "1750814737"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750814737"
+        "value": "1649501347"
       }
     ],
     "address": [
-      {
-        "line": [
-          "400 W Arbrook Blvd"
-        ],
-        "city": "ARLINGTON",
-        "state": "TX",
-        "postalCode": "76014-3175"
-      },
       {
         "line": [
           "2700 E Broad Street"
@@ -40,12 +32,11 @@
       },
       {
         "line": [
-          "400 West Arbrook Blvd",
-          "Ste 201"
+          "280 Regency Parkway"
         ],
-        "city": "ARLINGTON",
+        "city": "MANSFIELD",
         "state": "TX",
-        "postalCode": "76014-3176"
+        "postalCode": "76063-7823"
       },
       {
         "line": [
@@ -58,35 +49,11 @@
       },
       {
         "line": [
-          "3301 Matlock Rd"
+          "400 W Arbrook Blvd"
         ],
         "city": "ARLINGTON",
         "state": "TX",
-        "postalCode": "76015-2908"
-      },
-      {
-        "line": [
-          "2300 LONE STAR RD"
-        ],
-        "city": "MANSFIELD",
-        "state": "TX",
-        "postalCode": "76063-8744"
-      },
-      {
-        "line": [
-          "900 8th Avenue"
-        ],
-        "city": "FORT WORTH",
-        "state": "TX",
-        "postalCode": "76104-3902"
-      },
-      {
-        "line": [
-          "3501 Matlock Rd"
-        ],
-        "city": "ARLINGTON",
-        "state": "TX",
-        "postalCode": "76015-3604"
+        "postalCode": "76014-3175"
       },
       {
         "line": [
@@ -98,11 +65,44 @@
       },
       {
         "line": [
-          "280 Regency Parkway"
+          "900 8th Avenue"
+        ],
+        "city": "FORT WORTH",
+        "state": "TX",
+        "postalCode": "76104-3902"
+      },
+      {
+        "line": [
+          "400 West Arbrook Blvd",
+          "Ste 201"
+        ],
+        "city": "ARLINGTON",
+        "state": "TX",
+        "postalCode": "76014-3176"
+      },
+      {
+        "line": [
+          "2300 LONE STAR RD"
         ],
         "city": "MANSFIELD",
         "state": "TX",
-        "postalCode": "76063-7823"
+        "postalCode": "76063-8744"
+      },
+      {
+        "line": [
+          "3301 Matlock Rd"
+        ],
+        "city": "ARLINGTON",
+        "state": "TX",
+        "postalCode": "76015-2908"
+      },
+      {
+        "line": [
+          "3501 Matlock Rd"
+        ],
+        "city": "ARLINGTON",
+        "state": "TX",
+        "postalCode": "76015-3604"
       }
     ],
     "extension": [

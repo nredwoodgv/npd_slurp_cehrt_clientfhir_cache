@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689942542"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548569361"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861894982"
+        "value": "1376079590"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,10 +22,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376079590"
+        "value": "1548569361"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689942542"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861894982"
       }
     ],
     "address": [
+      {
+        "line": [
+          "254 Easton Avenue"
+        ],
+        "city": "NEW BRUNSWICK",
+        "state": "NJ",
+        "postalCode": "08901-1766"
+      },
       {
         "line": [
           "294 Applegarth Road",
@@ -42,14 +50,6 @@
         "city": "MONROE TOWNSHIP",
         "state": "NJ",
         "postalCode": "08831-3809"
-      },
-      {
-        "line": [
-          "254 Easton Avenue"
-        ],
-        "city": "NEW BRUNSWICK",
-        "state": "NJ",
-        "postalCode": "08901-1766"
       }
     ],
     "extension": [

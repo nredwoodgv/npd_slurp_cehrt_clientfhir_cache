@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457382947"
+        "value": "1801808571"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801808571"
+        "value": "1457382947"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2602 St Michael Dr Ste 302A"
-        ],
-        "city": "TEXARKANA",
-        "state": "TX",
-        "postalCode": "75503-5215"
-      },
-      {
-        "line": [
-          "2602 St. Michael Dr. Ste 302B"
-        ],
-        "city": "TEXARKANA",
-        "state": "TX",
-        "postalCode": "75503-2387"
-      },
       {
         "line": [
           "2602 SAINT MICHAEL DR STE 400"
@@ -48,7 +32,23 @@
       },
       {
         "line": [
+          "2602 St. Michael Dr. Ste 302A"
+        ],
+        "city": "TEXARKANA",
+        "state": "TX",
+        "postalCode": "75503-2387"
+      },
+      {
+        "line": [
           "2602 ST MICHAEL DR STE 201B"
+        ],
+        "city": "TEXARKANA",
+        "state": "TX",
+        "postalCode": "75503-2387"
+      },
+      {
+        "line": [
+          "2602 St. Michael Dr. Ste 302B"
         ],
         "city": "TEXARKANA",
         "state": "TX",
@@ -65,11 +65,11 @@
       },
       {
         "line": [
-          "2602 St. Michael Dr. Ste 302A"
+          "2602 St Michael Dr Ste 302A"
         ],
         "city": "TEXARKANA",
         "state": "TX",
-        "postalCode": "75503-2387"
+        "postalCode": "75503-5215"
       }
     ],
     "extension": [

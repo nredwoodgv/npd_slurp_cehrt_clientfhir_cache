@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447524392"
+        "value": "1598958431"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598958431"
+        "value": "1447524392"
       }
     ],
     "address": [
       {
         "line": [
-          "820 Camelot Drive"
+          "3810 Hale Ave"
         ],
         "city": "HARLINGEN",
         "state": "TX",
-        "postalCode": "78550-8400"
+        "postalCode": "78550-9230"
       },
       {
         "line": [
@@ -37,14 +37,6 @@
         "city": "HARLINGEN",
         "state": "TX",
         "postalCode": "78550-8308"
-      },
-      {
-        "line": [
-          "3810 Hale Ave"
-        ],
-        "city": "HARLINGEN",
-        "state": "TX",
-        "postalCode": "78550-9230"
       },
       {
         "line": [
@@ -61,6 +53,14 @@
         "city": "HARLINGEN",
         "state": "TX",
         "postalCode": "78550-8738"
+      },
+      {
+        "line": [
+          "820 Camelot Drive"
+        ],
+        "city": "HARLINGEN",
+        "state": "TX",
+        "postalCode": "78550-8400"
       }
     ],
     "extension": [

@@ -5,8 +5,23 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.5375"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1194732438"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1639185457"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1932107612"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174594469"
       }
     ],
     "name": "Allen County Regional Hospital",

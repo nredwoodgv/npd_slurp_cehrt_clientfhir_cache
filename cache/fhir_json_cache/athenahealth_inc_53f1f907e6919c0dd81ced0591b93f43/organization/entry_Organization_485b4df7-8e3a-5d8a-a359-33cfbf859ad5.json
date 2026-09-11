@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134855711"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1174299333"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1528728375"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1134855711"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,19 +32,19 @@
     "address": [
       {
         "line": [
-          "2175 PARK PL"
-        ],
-        "city": "EL SEGUNDO",
-        "state": "CA",
-        "postalCode": "90245-4705"
-      },
-      {
-        "line": [
           "33 ARCH ST"
         ],
         "city": "BOSTON",
         "state": "MA",
         "postalCode": "02110-1424"
+      },
+      {
+        "line": [
+          "1251 STAFFORD ST STE B UNIT 6"
+        ],
+        "city": "MONROE",
+        "state": "NC",
+        "postalCode": "28110-3350"
       },
       {
         "line": [
@@ -72,14 +72,6 @@
       },
       {
         "line": [
-          "155 E BRUSH HILL RD"
-        ],
-        "city": "ELMHURST",
-        "state": "IL",
-        "postalCode": "60126-5658"
-      },
-      {
-        "line": [
           "6400 EDGELAKE DR"
         ],
         "city": "SARASOTA",
@@ -88,51 +80,11 @@
       },
       {
         "line": [
-          "145 W OSTEND ST"
-        ],
-        "city": "BALTIMORE",
-        "state": "MD",
-        "postalCode": "21230-3764"
-      },
-      {
-        "line": [
-          "1251 STAFFORD ST STE B UNIT 6"
-        ],
-        "city": "MONROE",
-        "state": "NC",
-        "postalCode": "28110-3350"
-      },
-      {
-        "line": [
-          "1341 W MOCKINGBIRD LN STE 600W"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75247-6904"
-      },
-      {
-        "line": [
-          "820 BEAR TAVERN RD"
-        ],
-        "city": "Ewing",
-        "state": "NJ",
-        "postalCode": "08628-1021"
-      },
-      {
-        "line": [
-          "28062 BAXTER RD"
+          "39755 MURRIETA HOT SPRINGS RD STE E130"
         ],
         "city": "MURRIETA",
         "state": "CA",
-        "postalCode": "92563-1401"
-      },
-      {
-        "line": [
-          "1200 S PINE ISLAND RD"
-        ],
-        "city": "PLANTATION",
-        "state": "FL",
-        "postalCode": "33324-4413"
+        "postalCode": "92563-9116"
       },
       {
         "line": [
@@ -153,11 +105,59 @@
       },
       {
         "line": [
-          "39755 MURRIETA HOT SPRINGS RD STE E130"
+          "1200 S PINE ISLAND RD"
+        ],
+        "city": "PLANTATION",
+        "state": "FL",
+        "postalCode": "33324-4413"
+      },
+      {
+        "line": [
+          "155 E BRUSH HILL RD"
+        ],
+        "city": "ELMHURST",
+        "state": "IL",
+        "postalCode": "60126-5658"
+      },
+      {
+        "line": [
+          "2175 PARK PL"
+        ],
+        "city": "EL SEGUNDO",
+        "state": "CA",
+        "postalCode": "90245-4705"
+      },
+      {
+        "line": [
+          "1341 W MOCKINGBIRD LN STE 600W"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75247-6904"
+      },
+      {
+        "line": [
+          "28062 BAXTER RD"
         ],
         "city": "MURRIETA",
         "state": "CA",
-        "postalCode": "92563-9116"
+        "postalCode": "92563-1401"
+      },
+      {
+        "line": [
+          "820 BEAR TAVERN RD"
+        ],
+        "city": "Ewing",
+        "state": "NJ",
+        "postalCode": "08628-1021"
+      },
+      {
+        "line": [
+          "145 W OSTEND ST"
+        ],
+        "city": "BALTIMORE",
+        "state": "MD",
+        "postalCode": "21230-3764"
       }
     ],
     "extension": [

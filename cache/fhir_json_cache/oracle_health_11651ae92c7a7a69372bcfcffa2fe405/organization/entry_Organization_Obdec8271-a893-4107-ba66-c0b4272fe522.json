@@ -5,8 +5,23 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.4707"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1841752375"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104383371"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720540255"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962455832"
       }
     ],
     "name": "Bosque County Hospital District D/B/A Goodall-Witcher Hospital",

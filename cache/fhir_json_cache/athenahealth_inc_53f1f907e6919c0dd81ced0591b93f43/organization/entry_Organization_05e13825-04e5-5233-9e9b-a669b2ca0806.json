@@ -14,19 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962924928"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447841945"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669150876"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1063211944"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962924928"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1912598418"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447841945"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -40,78 +44,6 @@
     "address": [
       {
         "line": [
-          "3707 HWY 114"
-        ],
-        "city": "HESSMER",
-        "state": "LA",
-        "postalCode": "71341-4143"
-      },
-      {
-        "line": [
-          "7408 Hwy 1"
-        ],
-        "city": "MANSURA",
-        "state": "LA",
-        "postalCode": "71350-4204"
-      },
-      {
-        "line": [
-          "2200 Memorial Dr."
-        ],
-        "city": "ALEXANDRIA",
-        "state": "LA",
-        "postalCode": "71301-3611"
-      },
-      {
-        "line": [
-          "1515 Hwy 107"
-        ],
-        "city": "CENTER POINT",
-        "state": "LA",
-        "postalCode": "71323-0128"
-      },
-      {
-        "line": [
-          "351 WINDERMERE BLVD"
-        ],
-        "city": "ALEXANDRIA",
-        "state": "LA",
-        "postalCode": "71303-2600"
-      },
-      {
-        "line": [
-          "323 Evergreen Hwy"
-        ],
-        "city": "BUNKIE",
-        "state": "LA",
-        "postalCode": "71322-2305"
-      },
-      {
-        "line": [
-          "5100 JACKSON ST."
-        ],
-        "city": "ALEXANDRIA",
-        "state": "LA",
-        "postalCode": "71303-2317"
-      },
-      {
-        "line": [
-          "2200 MEMORIAL DR"
-        ],
-        "city": "ALEXANDRIA",
-        "state": "LA",
-        "postalCode": "71301-3611"
-      },
-      {
-        "line": [
-          "5877 Aimwell Rd"
-        ],
-        "city": "JENA",
-        "state": "LA",
-        "postalCode": "71342-6001"
-      },
-      {
-        "line": [
           "5682 HWY 107"
         ],
         "city": "DUPONT",
@@ -120,51 +52,11 @@
       },
       {
         "line": [
-          "PO BOX 500"
-        ],
-        "city": "PINE PRAIRIE",
-        "state": "LA",
-        "postalCode": "70576-0500"
-      },
-      {
-        "line": [
-          "5201 SHREVEPORT HWY"
-        ],
-        "city": "PINEVILLE",
-        "state": "LA",
-        "postalCode": "71360-3527"
-      },
-      {
-        "line": [
-          "PO BOX 112"
-        ],
-        "city": "PALMETTO",
-        "state": "LA",
-        "postalCode": "71358-0112"
-      },
-      {
-        "line": [
-          "1630 PRISON RD"
-        ],
-        "city": "COTTONPORT",
-        "state": "LA",
-        "postalCode": "71327-4055"
-      },
-      {
-        "line": [
-          "5723 JACKSON ST EXTENTION"
+          "5100 JACKSON ST."
         ],
         "city": "ALEXANDRIA",
         "state": "LA",
-        "postalCode": "71303-2079"
-      },
-      {
-        "line": [
-          "16 Heyman Lane"
-        ],
-        "city": "ALEXANDRIA",
-        "state": "LA",
-        "postalCode": "71303-3523"
+        "postalCode": "71303-2317"
       },
       {
         "line": [
@@ -184,14 +76,6 @@
       },
       {
         "line": [
-          "5877 AIMWELL RD"
-        ],
-        "city": "JENA",
-        "state": "LA",
-        "postalCode": "71342-6001"
-      },
-      {
-        "line": [
           "5201 Shreveport Hwy"
         ],
         "city": "PINEVILLE",
@@ -208,11 +92,27 @@
       },
       {
         "line": [
-          "1515 Hwy 107"
+          "323 Evergreen Hwy"
         ],
-        "city": "CENTER POINT",
+        "city": "BUNKIE",
         "state": "LA",
-        "postalCode": "71323-0123"
+        "postalCode": "71322-2305"
+      },
+      {
+        "line": [
+          "1630 PRISON RD"
+        ],
+        "city": "COTTONPORT",
+        "state": "LA",
+        "postalCode": "71327-4055"
+      },
+      {
+        "line": [
+          "5723 JACKSON ST EXTENTION"
+        ],
+        "city": "ALEXANDRIA",
+        "state": "LA",
+        "postalCode": "71303-2079"
       },
       {
         "line": [
@@ -224,11 +124,51 @@
       },
       {
         "line": [
-          "16 HEYMAN LN"
+          "5201 SHREVEPORT HWY"
+        ],
+        "city": "PINEVILLE",
+        "state": "LA",
+        "postalCode": "71360-3527"
+      },
+      {
+        "line": [
+          "1515 Hwy 107"
+        ],
+        "city": "CENTER POINT",
+        "state": "LA",
+        "postalCode": "71323-0123"
+      },
+      {
+        "line": [
+          "PO BOX 500"
+        ],
+        "city": "PINE PRAIRIE",
+        "state": "LA",
+        "postalCode": "70576-0500"
+      },
+      {
+        "line": [
+          "PO BOX 112"
+        ],
+        "city": "PALMETTO",
+        "state": "LA",
+        "postalCode": "71358-0112"
+      },
+      {
+        "line": [
+          "7408 Hwy 1"
+        ],
+        "city": "MANSURA",
+        "state": "LA",
+        "postalCode": "71350-4204"
+      },
+      {
+        "line": [
+          "2200 MEMORIAL DR"
         ],
         "city": "ALEXANDRIA",
         "state": "LA",
-        "postalCode": "71303-3523"
+        "postalCode": "71301-3611"
       },
       {
         "line": [
@@ -248,6 +188,14 @@
       },
       {
         "line": [
+          "1515 Hwy 107"
+        ],
+        "city": "CENTER POINT",
+        "state": "LA",
+        "postalCode": "71323-0128"
+      },
+      {
+        "line": [
           "3707 Hwy 114"
         ],
         "city": "HESSMER",
@@ -256,11 +204,59 @@
       },
       {
         "line": [
-          "PO Box 112"
+          "3707 HWY 114"
         ],
-        "city": "PALMETTO",
+        "city": "HESSMER",
         "state": "LA",
-        "postalCode": "71358-0112"
+        "postalCode": "71341-4143"
+      },
+      {
+        "line": [
+          "5877 Aimwell Rd"
+        ],
+        "city": "JENA",
+        "state": "LA",
+        "postalCode": "71342-6001"
+      },
+      {
+        "line": [
+          "5877 AIMWELL RD"
+        ],
+        "city": "JENA",
+        "state": "LA",
+        "postalCode": "71342-6001"
+      },
+      {
+        "line": [
+          "2200 Memorial Dr."
+        ],
+        "city": "ALEXANDRIA",
+        "state": "LA",
+        "postalCode": "71301-3611"
+      },
+      {
+        "line": [
+          "16 HEYMAN LN"
+        ],
+        "city": "ALEXANDRIA",
+        "state": "LA",
+        "postalCode": "71303-3523"
+      },
+      {
+        "line": [
+          "597 TUNICA DRIVE W"
+        ],
+        "city": "MARKSVILLE",
+        "state": "LA",
+        "postalCode": "71351-2628"
+      },
+      {
+        "line": [
+          "351 WINDERMERE BLVD"
+        ],
+        "city": "ALEXANDRIA",
+        "state": "LA",
+        "postalCode": "71303-2600"
       },
       {
         "line": [
@@ -272,11 +268,19 @@
       },
       {
         "line": [
-          "597 TUNICA DRIVE W"
+          "PO Box 112"
         ],
-        "city": "MARKSVILLE",
+        "city": "PALMETTO",
         "state": "LA",
-        "postalCode": "71351-2628"
+        "postalCode": "71358-0112"
+      },
+      {
+        "line": [
+          "16 Heyman Lane"
+        ],
+        "city": "ALEXANDRIA",
+        "state": "LA",
+        "postalCode": "71303-3523"
       }
     ],
     "extension": [

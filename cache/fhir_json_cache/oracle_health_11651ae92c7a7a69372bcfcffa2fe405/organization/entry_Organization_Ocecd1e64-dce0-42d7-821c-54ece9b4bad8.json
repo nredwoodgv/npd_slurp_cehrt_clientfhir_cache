@@ -5,8 +5,28 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.5089"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700890530"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376979955"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902236573"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467888040"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821424409"
       }
     ],
     "name": "Creek Nation Community Hospital",

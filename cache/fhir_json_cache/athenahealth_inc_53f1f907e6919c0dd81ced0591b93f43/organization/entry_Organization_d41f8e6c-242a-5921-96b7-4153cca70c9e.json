@@ -14,19 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083328843"
+        "value": "1649405150"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841757242"
+        "value": "1881624161"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245944008"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013620160"
+        "value": "1114631967"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,19 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407560261"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356055107"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043902752"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841904612"
+        "value": "1245260645"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,11 +42,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649405150"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053878967"
+        "value": "1639295314"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -70,15 +50,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073745345"
+        "value": "1356055107"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811928732"
+        "value": "1407560261"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285185173"
+        "value": "1245944008"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -86,23 +66,39 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073745345"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1841903895"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881624161"
+        "value": "1053878967"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639295314"
+        "value": "1285185173"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114631967"
+        "value": "1043902752"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487111639"
+        "value": "1841757242"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811928732"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1841904612"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013620160"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -110,7 +106,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245260645"
+        "value": "1083328843"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487111639"
       }
     ],
     "address": [
@@ -124,20 +124,20 @@
       },
       {
         "line": [
+          "1025 N Wall St, Room 102"
+        ],
+        "city": "CARBONDALE",
+        "state": "IL",
+        "postalCode": "62901-1737"
+      },
+      {
+        "line": [
           "1301 E Walnut St",
           "Room J120"
         ],
         "city": "CARBONDALE",
         "state": "IL",
         "postalCode": "62901-5004"
-      },
-      {
-        "line": [
-          "1150 E Grand Ave, Room 127"
-        ],
-        "city": "CARBONDALE",
-        "state": "IL",
-        "postalCode": "62901-3422"
       },
       {
         "line": [
@@ -149,11 +149,11 @@
       },
       {
         "line": [
-          "1025 N Wall St, Room 102"
+          "1150 E Grand Ave, Room 127"
         ],
         "city": "CARBONDALE",
         "state": "IL",
-        "postalCode": "62901-1737"
+        "postalCode": "62901-3422"
       }
     ],
     "extension": [

@@ -5,8 +5,33 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.3185"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1518968767"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1942217088"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1508137209"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245986975"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225438104"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1841964624"
       }
     ],
     "name": "Copper Queen Community Hospital",

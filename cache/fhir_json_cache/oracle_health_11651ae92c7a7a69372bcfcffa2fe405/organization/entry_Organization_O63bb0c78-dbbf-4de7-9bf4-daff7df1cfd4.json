@@ -5,8 +5,28 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.6596"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1356899777"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114367497"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1346082294"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669344149"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306496641"
       }
     ],
     "name": "Martin Luther King Jr. Community Hospital",

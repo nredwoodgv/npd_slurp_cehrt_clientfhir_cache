@@ -15,9 +15,21 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1972983872"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487310629"
       }
     ],
     "address": [
+      {
+        "line": [
+          "5115 N. PALAFOX STREET"
+        ],
+        "city": "PENSACOLA",
+        "state": "FL",
+        "postalCode": "32505-2932"
+      },
       {
         "line": [
           "1138 Main St",
@@ -29,14 +41,6 @@
       },
       {
         "line": [
-          "1138 MAIN ST"
-        ],
-        "city": "CHIPLEY",
-        "state": "FL",
-        "postalCode": "32428-2463"
-      },
-      {
-        "line": [
           "12889 US HWY-98 W, STE 107B"
         ],
         "city": "MIRAMAR BEACH",
@@ -45,11 +49,11 @@
       },
       {
         "line": [
-          "5115 N. PALAFOX STREET"
+          "1138 MAIN ST"
         ],
-        "city": "PENSACOLA",
+        "city": "CHIPLEY",
         "state": "FL",
-        "postalCode": "32505-2932"
+        "postalCode": "32428-2463"
       }
     ],
     "extension": [

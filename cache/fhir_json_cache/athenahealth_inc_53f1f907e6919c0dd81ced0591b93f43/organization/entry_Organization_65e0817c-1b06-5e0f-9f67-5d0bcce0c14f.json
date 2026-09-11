@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124248752"
+        "value": "1750166898"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750166898"
+        "value": "1124248752"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1306 KANAWHA BLVD"
+        ],
+        "city": "CHARLESTON",
+        "state": "WV",
+        "postalCode": "25301-3000"
+      },
       {
         "line": [
           "1400 HOSPITAL DR"
@@ -29,6 +37,22 @@
         "city": "HURRICANE",
         "state": "WV",
         "postalCode": "25526-9202"
+      },
+      {
+        "line": [
+          "3200 MACCORKLE AVE SE"
+        ],
+        "city": "CHARLESTON",
+        "state": "WV",
+        "postalCode": "25304-1227"
+      },
+      {
+        "line": [
+          "800 PENNSYLVANIA AVE"
+        ],
+        "city": "CHARLESTON",
+        "state": "WV",
+        "postalCode": "25302-3351"
       },
       {
         "line": [
@@ -48,46 +72,6 @@
       },
       {
         "line": [
-          "1311 VIRGINIA ST E"
-        ],
-        "city": "CHARLESTON",
-        "state": "WV",
-        "postalCode": "25301-3011"
-      },
-      {
-        "line": [
-          "3200 MACCORKLE AVE SE"
-        ],
-        "city": "CHARLESTON",
-        "state": "WV",
-        "postalCode": "25304-1227"
-      },
-      {
-        "line": [
-          "424 DIVISION ST"
-        ],
-        "city": "SOUTH CHARLESTON",
-        "state": "WV",
-        "postalCode": "25309-1400"
-      },
-      {
-        "line": [
-          "800 PENNSYLVANIA AVE"
-        ],
-        "city": "CHARLESTON",
-        "state": "WV",
-        "postalCode": "25302-3351"
-      },
-      {
-        "line": [
-          "1306 KANAWHA BLVD"
-        ],
-        "city": "CHARLESTON",
-        "state": "WV",
-        "postalCode": "25301-3000"
-      },
-      {
-        "line": [
           "9 courtney drive"
         ],
         "city": "CHARLESTON",
@@ -96,11 +80,11 @@
       },
       {
         "line": [
-          "9 COURTNEY DR"
+          "1311 VIRGINIA ST E"
         ],
         "city": "CHARLESTON",
         "state": "WV",
-        "postalCode": "25304-2699"
+        "postalCode": "25301-3011"
       },
       {
         "line": [
@@ -117,6 +101,22 @@
         "city": "CHARLESTON",
         "state": "WV",
         "postalCode": "25302-3351"
+      },
+      {
+        "line": [
+          "9 COURTNEY DR"
+        ],
+        "city": "CHARLESTON",
+        "state": "WV",
+        "postalCode": "25304-2699"
+      },
+      {
+        "line": [
+          "424 DIVISION ST"
+        ],
+        "city": "SOUTH CHARLESTON",
+        "state": "WV",
+        "postalCode": "25309-1400"
       },
       {
         "line": [

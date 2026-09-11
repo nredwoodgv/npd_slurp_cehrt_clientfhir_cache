@@ -14,46 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649501347"
+        "value": "1750814737"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750814737"
+        "value": "1649501347"
       }
     ],
     "address": [
-      {
-        "line": [
-          "6800 Scenic Dr"
-        ],
-        "city": "ROWLETT",
-        "state": "TX",
-        "postalCode": "75088-4552"
-      },
-      {
-        "line": [
-          "3150 Horizon Rd"
-        ],
-        "city": "ROCKWALL",
-        "state": "TX",
-        "postalCode": "75032-7805"
-      },
-      {
-        "line": [
-          "5250 Medical Dr"
-        ],
-        "city": "ROCKWALL",
-        "state": "TX",
-        "postalCode": "75032-5001"
-      },
-      {
-        "line": [
-          "825 E Yellow Jacket Lane"
-        ],
-        "city": "ROCKWALL",
-        "state": "TX",
-        "postalCode": "75087-4818"
-      },
       {
         "line": [
           "4215 Joe Ramsey Blvd"
@@ -64,21 +32,19 @@
       },
       {
         "line": [
-          "2201 K Avenue",
-          "Suite B-100"
+          "1101 N Galloway Ave"
         ],
-        "city": "PLANO",
+        "city": "MESQUITE",
         "state": "TX",
-        "postalCode": "75074-5941"
+        "postalCode": "75149-2435"
       },
       {
         "line": [
-          "6257 FM 2647",
-          "Suite 102"
+          "825 E Yellow Jacket Lane"
         ],
-        "city": "ROYSE CITY",
+        "city": "ROCKWALL",
         "state": "TX",
-        "postalCode": "75189-3223"
+        "postalCode": "75087-4818"
       },
       {
         "line": [
@@ -91,20 +57,20 @@
       },
       {
         "line": [
-          "3201 E President George Bush Hwy",
-          "Suite 100"
+          "2201 K Avenue",
+          "Suite B-100"
         ],
-        "city": "RICHARDSON",
+        "city": "PLANO",
         "state": "TX",
-        "postalCode": "75082-3568"
+        "postalCode": "75074-5941"
       },
       {
         "line": [
-          "1101 N Galloway Ave"
+          "6800 Scenic Dr"
         ],
-        "city": "MESQUITE",
+        "city": "ROWLETT",
         "state": "TX",
-        "postalCode": "75149-2435"
+        "postalCode": "75088-4552"
       },
       {
         "line": [
@@ -114,6 +80,40 @@
         "city": "GARLAND",
         "state": "TX",
         "postalCode": "75044-2208"
+      },
+      {
+        "line": [
+          "6257 FM 2647",
+          "Suite 102"
+        ],
+        "city": "ROYSE CITY",
+        "state": "TX",
+        "postalCode": "75189-3223"
+      },
+      {
+        "line": [
+          "3150 Horizon Rd"
+        ],
+        "city": "ROCKWALL",
+        "state": "TX",
+        "postalCode": "75032-7805"
+      },
+      {
+        "line": [
+          "3201 E President George Bush Hwy",
+          "Suite 100"
+        ],
+        "city": "RICHARDSON",
+        "state": "TX",
+        "postalCode": "75082-3568"
+      },
+      {
+        "line": [
+          "5250 Medical Dr"
+        ],
+        "city": "ROCKWALL",
+        "state": "TX",
+        "postalCode": "75032-5001"
       }
     ],
     "extension": [

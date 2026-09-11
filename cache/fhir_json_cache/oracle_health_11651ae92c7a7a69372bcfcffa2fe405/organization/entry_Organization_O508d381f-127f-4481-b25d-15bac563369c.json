@@ -5,8 +5,18 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.8606"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1234567844"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1234567866"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1134273964"
       }
     ],
     "name": "County of San Diego Federal",

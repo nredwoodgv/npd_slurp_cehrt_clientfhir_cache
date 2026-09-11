@@ -4,8 +4,7 @@
     "id": "117",
     "meta": {
       "versionId": "1",
-      "lastUpdated": "2025-11-19T14:19:46.2599209+00:00",
-      "source": "#E1VolYkq84D3M96u",
+      "lastUpdated": "2026-09-09T17:35:44.926Z",
       "profile": [
         "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization"
       ]
@@ -16,8 +15,8 @@
         "value": "36a5d4f5-d6dc-4826-9911-e8aebd976be8"
       },
       {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467772293"
+        "system": "http://hl7.org/fhir/sid/us-ein",
+        "value": "815143225"
       }
     ],
     "active": true,
@@ -34,19 +33,15 @@
       }
     ],
     "name": "Community Home Physicians LLC",
-    "telecom": [
-      {
-        "system": "phone",
-        "value": "14265365789"
-      }
-    ],
     "address": [
       {
         "line": [
           "1S450 Summit Ave Suite 165"
         ],
-        "state": "Oakbrook Terrace",
-        "postalCode": "IL"
+        "city": "Oakbrook Terrace",
+        "state": "IL",
+        "postalCode": "60181",
+        "country": "USA"
       }
     ],
     "endpoint": [

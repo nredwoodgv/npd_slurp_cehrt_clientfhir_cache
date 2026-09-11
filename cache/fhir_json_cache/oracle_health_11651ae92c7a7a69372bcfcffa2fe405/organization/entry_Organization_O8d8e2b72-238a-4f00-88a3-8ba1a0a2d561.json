@@ -5,18 +5,23 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.1693"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588612832"
       },
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.1807"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831219450"
       },
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.660"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487664561"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1982724894"
       }
     ],
     "name": "Cook County Health and Hospitals System",

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447524392"
+        "value": "1598958431"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598958431"
+        "value": "1447524392"
       }
     ],
     "address": [
@@ -29,6 +29,15 @@
         "city": "BROWNSVILLE",
         "state": "TX",
         "postalCode": "78520-8816"
+      },
+      {
+        "line": [
+          "844 Central Blvd",
+          "Suite 140"
+        ],
+        "city": "BROWNSVILLE",
+        "state": "TX",
+        "postalCode": "78520-7535"
       },
       {
         "line": [
@@ -53,15 +62,6 @@
         "city": "HARLINGEN",
         "state": "TX",
         "postalCode": "78550-7993"
-      },
-      {
-        "line": [
-          "844 Central Blvd",
-          "Suite 140"
-        ],
-        "city": "BROWNSVILLE",
-        "state": "TX",
-        "postalCode": "78520-7535"
       }
     ],
     "extension": [

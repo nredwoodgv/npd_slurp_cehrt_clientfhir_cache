@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376618843"
+        "value": "1417959701"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417959701"
+        "value": "1376618843"
       }
     ],
     "address": [
+      {
+        "line": [
+          "171 Lake George Ave."
+        ],
+        "city": "Ticonderoga",
+        "state": "NY",
+        "postalCode": "12883-1328"
+      },
       {
         "line": [
           "401 E. German Street",
@@ -38,14 +46,6 @@
         "city": "Granville",
         "state": "NY",
         "postalCode": "12832-1028"
-      },
-      {
-        "line": [
-          "171 Lake George Ave."
-        ],
-        "city": "Ticonderoga",
-        "state": "NY",
-        "postalCode": "12883-1328"
       }
     ],
     "extension": [

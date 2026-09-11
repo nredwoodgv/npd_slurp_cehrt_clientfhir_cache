@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073643987"
+        "value": "1902946163"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902946163"
+        "value": "1073643987"
       }
     ],
     "address": [
@@ -33,21 +33,21 @@
       },
       {
         "line": [
-          "637 DUNN ROAD",
-          "SUITE 144"
-        ],
-        "city": "HAZELWOOD",
-        "state": "MO",
-        "postalCode": "63042-1755"
-      },
-      {
-        "line": [
           "5992 HOWDERSHELL RD.",
           "SUITE 106"
         ],
         "city": "HAZELWOOD",
         "state": "MO",
         "postalCode": "63042-4109"
+      },
+      {
+        "line": [
+          "637 DUNN ROAD",
+          "SUITE 144"
+        ],
+        "city": "HAZELWOOD",
+        "state": "MO",
+        "postalCode": "63042-1755"
       }
     ],
     "extension": [

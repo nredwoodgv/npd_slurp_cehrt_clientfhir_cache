@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285931089"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932402484"
       },
       {
@@ -27,6 +23,10 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1013031368"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285931089"
       }
     ],
     "address": [
@@ -40,19 +40,11 @@
       },
       {
         "line": [
-          "414 park avenue"
+          "1613 oakwood street suite 201"
         ],
-        "city": "DANVILLE",
+        "city": "BEDFORD",
         "state": "VA",
-        "postalCode": "24541-9998"
-      },
-      {
-        "line": [
-          "800 OAK STREET"
-        ],
-        "city": "FARMVILLE",
-        "state": "VA",
-        "postalCode": "23901-1199"
+        "postalCode": "24523-1213"
       },
       {
         "line": [
@@ -80,11 +72,19 @@
       },
       {
         "line": [
-          "1613 oakwood street suite 201"
+          "414 park avenue"
         ],
-        "city": "BEDFORD",
+        "city": "DANVILLE",
         "state": "VA",
-        "postalCode": "24523-1213"
+        "postalCode": "24541-9998"
+      },
+      {
+        "line": [
+          "800 OAK STREET"
+        ],
+        "city": "FARMVILLE",
+        "state": "VA",
+        "postalCode": "23901-1199"
       }
     ],
     "extension": [

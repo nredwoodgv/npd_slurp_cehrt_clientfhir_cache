@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285931089"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932402484"
       },
       {
@@ -27,17 +23,13 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649228966"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285931089"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1901 TATE SPRINGS ROAD"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24501-1109"
-      },
       {
         "line": [
           "125 NATIONWIDE DRIVE"
@@ -45,6 +37,14 @@
         "city": "LYNCHBURG",
         "state": "VA",
         "postalCode": "24502-9998"
+      },
+      {
+        "line": [
+          "1901 TATE SPRINGS ROAD"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24501-1109"
       },
       {
         "line": [

@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1134632045"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1154834083"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730692641"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154972883"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,19 +30,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013399625"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1699093690"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134632045"
+        "value": "1013399625"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285662486"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730692641"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -55,6 +51,10 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1487167375"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154972883"
       }
     ],
     "address": [
@@ -68,19 +68,19 @@
       },
       {
         "line": [
-          "820 West Washington Street"
-        ],
-        "city": "EUFAULA",
-        "state": "AL",
-        "postalCode": "36027-1822"
-      },
-      {
-        "line": [
           "324 MACON ST"
         ],
         "city": "EUFAULA",
         "state": "AL",
         "postalCode": "36027-1810"
+      },
+      {
+        "line": [
+          "820 West Washington Street"
+        ],
+        "city": "EUFAULA",
+        "state": "AL",
+        "postalCode": "36027-1822"
       }
     ],
     "extension": [

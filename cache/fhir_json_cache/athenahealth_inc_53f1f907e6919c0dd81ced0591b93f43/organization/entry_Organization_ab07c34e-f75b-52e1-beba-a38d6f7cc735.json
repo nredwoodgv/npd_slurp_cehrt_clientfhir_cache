@@ -14,96 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548624984"
+        "value": "1144818436"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144818436"
+        "value": "1548624984"
       }
     ],
     "address": [
-      {
-        "line": [
-          "43475 DALCOMA DR",
-          "STE 100"
-        ],
-        "city": "CLINTON TOWNSHIP",
-        "state": "MI",
-        "postalCode": "48038-3593"
-      },
-      {
-        "line": [
-          "44201 Dequindre Rd"
-        ],
-        "city": "TROY",
-        "state": "MI",
-        "postalCode": "48085-1117"
-      },
-      {
-        "line": [
-          "375 BARCLAY CIR"
-        ],
-        "city": "ROCHESTER",
-        "state": "MI",
-        "postalCode": "48307-4511"
-      },
-      {
-        "line": [
-          "34020 7 Mile #101"
-        ],
-        "city": "LIVONIA",
-        "state": "MI",
-        "postalCode": "48152-3093"
-      },
-      {
-        "line": [
-          "34020 7 MILE RD STE 101"
-        ],
-        "city": "LIVONIA",
-        "state": "MI",
-        "postalCode": "48152-3093"
-      },
-      {
-        "line": [
-          "27101 SCHOENHERR RD",
-          "STE 300"
-        ],
-        "city": "WARREN",
-        "state": "MI",
-        "postalCode": "48088-4700"
-      },
-      {
-        "line": [
-          "36401 VAN DYKE AVE"
-        ],
-        "city": "STERLING HEIGHTS",
-        "state": "MI",
-        "postalCode": "48312-2763"
-      },
-      {
-        "line": [
-          "36475 Five Mile Rd"
-        ],
-        "city": "LIVONIA",
-        "state": "MI",
-        "postalCode": "48154-1971"
-      },
-      {
-        "line": [
-          "18101 Oakwood Blvd"
-        ],
-        "city": "DEARBORN",
-        "state": "MI",
-        "postalCode": "48124-4089"
-      },
-      {
-        "line": [
-          "1560 E MAPLE RD"
-        ],
-        "city": "TROY",
-        "state": "MI",
-        "postalCode": "48083-1135"
-      },
       {
         "line": [
           "42645 GARFIELD RD",
@@ -112,23 +30,6 @@
         "city": "CLINTON TOWNSHIP",
         "state": "MI",
         "postalCode": "48038-5022"
-      },
-      {
-        "line": [
-          "25500 Meadowbrook Rd",
-          "Ste 110"
-        ],
-        "city": "NOVI",
-        "state": "MI",
-        "postalCode": "48375-1879"
-      },
-      {
-        "line": [
-          "1213 MASON ST"
-        ],
-        "city": "DEARBORN",
-        "state": "MI",
-        "postalCode": "48124-2841"
       },
       {
         "line": [
@@ -141,6 +42,22 @@
       },
       {
         "line": [
+          "36401 VAN DYKE AVE"
+        ],
+        "city": "STERLING HEIGHTS",
+        "state": "MI",
+        "postalCode": "48312-2763"
+      },
+      {
+        "line": [
+          "1213 MASON ST"
+        ],
+        "city": "DEARBORN",
+        "state": "MI",
+        "postalCode": "48124-2841"
+      },
+      {
+        "line": [
           "19000 St Joes Pkwy Ste 100"
         ],
         "city": "LIVONIA",
@@ -149,11 +66,94 @@
       },
       {
         "line": [
+          "1560 E MAPLE RD"
+        ],
+        "city": "TROY",
+        "state": "MI",
+        "postalCode": "48083-1135"
+      },
+      {
+        "line": [
+          "375 BARCLAY CIR"
+        ],
+        "city": "ROCHESTER",
+        "state": "MI",
+        "postalCode": "48307-4511"
+      },
+      {
+        "line": [
+          "34020 7 MILE RD STE 101"
+        ],
+        "city": "LIVONIA",
+        "state": "MI",
+        "postalCode": "48152-3093"
+      },
+      {
+        "line": [
+          "34020 7 Mile #101"
+        ],
+        "city": "LIVONIA",
+        "state": "MI",
+        "postalCode": "48152-3093"
+      },
+      {
+        "line": [
+          "44201 Dequindre Rd"
+        ],
+        "city": "TROY",
+        "state": "MI",
+        "postalCode": "48085-1117"
+      },
+      {
+        "line": [
+          "36475 Five Mile Rd"
+        ],
+        "city": "LIVONIA",
+        "state": "MI",
+        "postalCode": "48154-1971"
+      },
+      {
+        "line": [
           "21230 DEQUINDRE RD"
         ],
         "city": "WARREN",
         "state": "MI",
         "postalCode": "48091-2279"
+      },
+      {
+        "line": [
+          "43475 DALCOMA DR",
+          "STE 100"
+        ],
+        "city": "CLINTON TOWNSHIP",
+        "state": "MI",
+        "postalCode": "48038-3593"
+      },
+      {
+        "line": [
+          "27101 SCHOENHERR RD",
+          "STE 300"
+        ],
+        "city": "WARREN",
+        "state": "MI",
+        "postalCode": "48088-4700"
+      },
+      {
+        "line": [
+          "18101 Oakwood Blvd"
+        ],
+        "city": "DEARBORN",
+        "state": "MI",
+        "postalCode": "48124-4089"
+      },
+      {
+        "line": [
+          "25500 Meadowbrook Rd",
+          "Ste 110"
+        ],
+        "city": "NOVI",
+        "state": "MI",
+        "postalCode": "48375-1879"
       }
     ],
     "extension": [

@@ -14,31 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750814737"
+        "value": "1649501347"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649501347"
+        "value": "1750814737"
       }
     ],
     "address": [
       {
         "line": [
-          "1200 Soldiers Fld Dr",
-          "Ste 201"
+          "8000 Research Forest Dr",
+          "Ste 250"
         ],
-        "city": "SUGAR LAND",
+        "city": "SPRING",
         "state": "TX",
-        "postalCode": "77479-4323"
-      },
-      {
-        "line": [
-          "2701 S Hampton Rd",
-          "Ste 220B"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75224-2363"
+        "postalCode": "77382-1507"
       },
       {
         "line": [
@@ -58,24 +49,6 @@
       },
       {
         "line": [
-          "23510 KINGSLAND BLVD",
-          "STE 100"
-        ],
-        "city": "KATY",
-        "state": "TX",
-        "postalCode": "77494-4125"
-      },
-      {
-        "line": [
-          "8000 Research Forest Dr",
-          "Ste 250"
-        ],
-        "city": "SPRING",
-        "state": "TX",
-        "postalCode": "77382-1507"
-      },
-      {
-        "line": [
           "3107 W Camp Wisdom Rd, Ste 110"
         ],
         "city": "DALLAS",
@@ -89,6 +62,33 @@
         "city": "DESOTO",
         "state": "TX",
         "postalCode": "75115-2939"
+      },
+      {
+        "line": [
+          "23510 KINGSLAND BLVD",
+          "STE 100"
+        ],
+        "city": "KATY",
+        "state": "TX",
+        "postalCode": "77494-4125"
+      },
+      {
+        "line": [
+          "1200 Soldiers Fld Dr",
+          "Ste 201"
+        ],
+        "city": "SUGAR LAND",
+        "state": "TX",
+        "postalCode": "77479-4323"
+      },
+      {
+        "line": [
+          "2701 S Hampton Rd",
+          "Ste 220B"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75224-2363"
       }
     ],
     "extension": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881392058"
+        "value": "1497305791"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497305791"
+        "value": "1114553948"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114553948"
+        "value": "1881392058"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,7 +36,8 @@
     "address": [
       {
         "line": [
-          "390 Erie Ave STE A"
+          "390 Erie Ave",
+          "Suite A"
         ],
         "city": "CONNERSVILLE",
         "state": "IN",
@@ -44,8 +45,7 @@
       },
       {
         "line": [
-          "390 Erie Ave",
-          "Suite A"
+          "390 Erie Ave STE A"
         ],
         "city": "CONNERSVILLE",
         "state": "IN",

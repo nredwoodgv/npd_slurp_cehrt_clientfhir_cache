@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1407469166"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1699383794"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1295392645"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407469166"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -48,19 +48,19 @@
       },
       {
         "line": [
-          "2440 S Titanium Pl"
-        ],
-        "city": "MERIDIAN",
-        "state": "ID",
-        "postalCode": "83642-6703"
-      },
-      {
-        "line": [
           "302 W 5400 S STE 201"
         ],
         "city": "SALT LAKE CITY",
         "state": "UT",
         "postalCode": "84107-8431"
+      },
+      {
+        "line": [
+          "2440 S Titanium Pl"
+        ],
+        "city": "MERIDIAN",
+        "state": "ID",
+        "postalCode": "83642-6703"
       },
       {
         "line": [

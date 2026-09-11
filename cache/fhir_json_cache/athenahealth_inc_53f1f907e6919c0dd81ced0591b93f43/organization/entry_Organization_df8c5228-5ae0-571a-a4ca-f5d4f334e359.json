@@ -14,39 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609714203"
+        "value": "1275040925"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275040925"
+        "value": "1609714203"
       }
     ],
     "address": [
-      {
-        "line": [
-          "981 SH 121 #3100"
-        ],
-        "city": "ALLEN",
-        "state": "TX",
-        "postalCode": "75013-6149"
-      },
-      {
-        "line": [
-          "5500 FRISCO SQUARE BLVD"
-        ],
-        "city": "FRISCO",
-        "state": "TX",
-        "postalCode": "75034-3305"
-      },
-      {
-        "line": [
-          "6201 DALLAS PKWY",
-          "STE 210"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75024-4181"
-      },
       {
         "line": [
           "981 TX-121 #3100"
@@ -57,28 +32,11 @@
       },
       {
         "line": [
-          "3901 W 15th St"
+          "12400 Dallas Pkwy"
         ],
-        "city": "PLANO",
+        "city": "FRISCO",
         "state": "TX",
-        "postalCode": "75075-7738"
-      },
-      {
-        "line": [
-          "6200 W Parker Rd."
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75093-8185"
-      },
-      {
-        "line": [
-          "981 STATE HIGHWAY 121",
-          "STE 3100"
-        ],
-        "city": "ALLEN",
-        "state": "TX",
-        "postalCode": "75013-6149"
+        "postalCode": "75033-4224"
       },
       {
         "line": [
@@ -99,53 +57,21 @@
       },
       {
         "line": [
-          "13080 DALLAS PKWY",
-          "STE 310 BLDG 300"
+          "981 State Highway 121",
+          "#3100"
         ],
-        "city": "FRISCO",
+        "city": "ALLEN",
         "state": "TX",
-        "postalCode": "75033-4242"
+        "postalCode": "75013-6117"
       },
       {
         "line": [
-          "1100 Allied Dr"
+          "981C State Highway 121",
+          "#3100"
         ],
-        "city": "PLANO",
+        "city": "ALLEN",
         "state": "TX",
-        "postalCode": "75093-5348"
-      },
-      {
-        "line": [
-          "500 W Main St"
-        ],
-        "city": "LEWISVILLE",
-        "state": "TX",
-        "postalCode": "75057-3629"
-      },
-      {
-        "line": [
-          "12400 Dallas Pkwy"
-        ],
-        "city": "FRISCO",
-        "state": "TX",
-        "postalCode": "75033-4224"
-      },
-      {
-        "line": [
-          "1128 N I 35"
-        ],
-        "city": "CARROLLTON",
-        "state": "TX",
-        "postalCode": "75010-4603"
-      },
-      {
-        "line": [
-          "6201 DALLAS PKWY",
-          "STE 201"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75024-3698"
+        "postalCode": "75013-6117"
       },
       {
         "line": [
@@ -157,29 +83,11 @@
       },
       {
         "line": [
-          "6201 Dallas Parkway",
-          "#210"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75093-4742"
-      },
-      {
-        "line": [
-          "6201 DALLAS PARKWAY",
-          "SUITE 210"
+          "6201 DALLAS PKWY STE 210"
         ],
         "city": "PLANO",
         "state": "TX",
         "postalCode": "75024-4181"
-      },
-      {
-        "line": [
-          "1128 N I 35"
-        ],
-        "city": "CARROLLTON",
-        "state": "TX",
-        "postalCode": "75006-3803"
       },
       {
         "line": [
@@ -192,12 +100,46 @@
       },
       {
         "line": [
-          "981 State Highway 121",
-          "#3100"
+          "13080 DALLAS PKWY",
+          "STE 310 BLDG 300"
+        ],
+        "city": "FRISCO",
+        "state": "TX",
+        "postalCode": "75033-4242"
+      },
+      {
+        "line": [
+          "981 STATE HIGHWAY 121",
+          "STE 3100"
         ],
         "city": "ALLEN",
         "state": "TX",
-        "postalCode": "75013-6117"
+        "postalCode": "75013-6149"
+      },
+      {
+        "line": [
+          "3901 W 15th St"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75075-7738"
+      },
+      {
+        "line": [
+          "6201 Dallas Parkway",
+          "#210"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75093-4742"
+      },
+      {
+        "line": [
+          "1100 Allied Dr"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75093-5348"
       },
       {
         "line": [
@@ -206,6 +148,14 @@
         "city": "LEWISVILLE",
         "state": "TX",
         "postalCode": "75057-3629"
+      },
+      {
+        "line": [
+          "981 SH 121 #3100"
+        ],
+        "city": "ALLEN",
+        "state": "TX",
+        "postalCode": "75013-6149"
       },
       {
         "line": [
@@ -218,12 +168,61 @@
       },
       {
         "line": [
-          "981C State Highway 121",
-          "#3100"
+          "6201 DALLAS PARKWAY",
+          "SUITE 210"
         ],
-        "city": "ALLEN",
+        "city": "PLANO",
         "state": "TX",
-        "postalCode": "75013-6117"
+        "postalCode": "75024-4181"
+      },
+      {
+        "line": [
+          "6200 W Parker Rd."
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75093-8185"
+      },
+      {
+        "line": [
+          "5500 FRISCO SQUARE BLVD"
+        ],
+        "city": "FRISCO",
+        "state": "TX",
+        "postalCode": "75034-3305"
+      },
+      {
+        "line": [
+          "6201 DALLAS PKWY",
+          "STE 201"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75024-3698"
+      },
+      {
+        "line": [
+          "1128 N I 35"
+        ],
+        "city": "CARROLLTON",
+        "state": "TX",
+        "postalCode": "75010-4603"
+      },
+      {
+        "line": [
+          "1128 N I 35"
+        ],
+        "city": "CARROLLTON",
+        "state": "TX",
+        "postalCode": "75006-3803"
+      },
+      {
+        "line": [
+          "500 W Main St"
+        ],
+        "city": "LEWISVILLE",
+        "state": "TX",
+        "postalCode": "75057-3629"
       }
     ],
     "extension": [

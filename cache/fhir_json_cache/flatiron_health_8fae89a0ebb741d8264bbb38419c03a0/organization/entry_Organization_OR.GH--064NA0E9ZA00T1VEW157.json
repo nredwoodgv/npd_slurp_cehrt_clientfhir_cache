@@ -50,15 +50,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154452035"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710160254"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "000000000"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1111111"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154452035"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,7 +66,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1111111"
+        "value": "1710160254"
       }
     ],
     "active": true,
@@ -126,19 +126,19 @@
       },
       {
         "system": "phone",
-        "value": "(561)732-2440"
-      },
-      {
-        "system": "phone",
-        "value": "(561)793-0106"
-      },
-      {
-        "system": "phone",
         "value": "(561)965-1864"
       },
       {
         "system": "phone",
         "value": "(561)749-9650"
+      },
+      {
+        "system": "phone",
+        "value": "(561)732-2440"
+      },
+      {
+        "system": "phone",
+        "value": "(561)793-0106"
       }
     ],
     "address": [
@@ -234,30 +234,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "2300 South Congress Avenue",
-          "Suite 103"
-        ],
-        "city": "Boynton Beach",
-        "state": "FL",
-        "postalCode": "33426",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "12993 Southern Blvd",
-          "Suite B"
-        ],
-        "city": "Loxahatchee",
-        "state": "FL",
-        "postalCode": "33470",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "3450 LANTANA ROAD"
         ],
         "city": "LAKE WORTH",
@@ -291,12 +267,36 @@
         "use": "work",
         "type": "postal",
         "line": [
+          "2300 South Congress Avenue",
+          "Suite 103"
+        ],
+        "city": "Boynton Beach",
+        "state": "FL",
+        "postalCode": "33426",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
           "3450 Lantana Rd",
           "Suite 100"
         ],
         "city": "Lake Worth",
         "state": "FL",
         "postalCode": "33462",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "12993 Southern Blvd",
+          "Suite B"
+        ],
+        "city": "Loxahatchee",
+        "state": "FL",
+        "postalCode": "33470",
         "country": "USA"
       },
       {

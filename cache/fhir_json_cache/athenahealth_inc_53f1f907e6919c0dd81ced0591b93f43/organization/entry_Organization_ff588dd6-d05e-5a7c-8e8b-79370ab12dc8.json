@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770988990"
+        "value": "1649324278"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649324278"
+        "value": "1770988990"
       }
     ],
     "address": [
+      {
+        "line": [
+          "6101 BLUE LAGOON DR STE 200"
+        ],
+        "city": "MIAMI",
+        "state": "FL",
+        "postalCode": "33126-3168"
+      },
       {
         "line": [
           "8100 N LOOP DR",
@@ -30,6 +38,14 @@
         "city": "EL PASO",
         "state": "TX",
         "postalCode": "79907-0006"
+      },
+      {
+        "line": [
+          "5595 SE GROUPER AVE"
+        ],
+        "city": "STUART",
+        "state": "FL",
+        "postalCode": "34997-3203"
       },
       {
         "line": [
@@ -42,19 +58,19 @@
       },
       {
         "line": [
-          "6101 BLUE LAGOON DR STE 200"
+          "2427 ENTERPRISE RD"
         ],
-        "city": "MIAMI",
+        "city": "ORANGE CITY",
         "state": "FL",
-        "postalCode": "33126-3168"
+        "postalCode": "32763-7964"
       },
       {
         "line": [
-          "3702 Washington Street"
+          "2029 N UNIVERSITY DR"
         ],
-        "city": "HOLLYWOOD",
+        "city": "Coral Springs",
         "state": "FL",
-        "postalCode": "33021-8283"
+        "postalCode": "33071-6132"
       }
     ],
     "extension": [

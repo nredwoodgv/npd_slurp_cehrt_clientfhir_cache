@@ -66,10 +66,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881665164"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1548796378"
       },
       {
@@ -267,6 +263,22 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1619155124"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1659941458"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1003244781"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1801825005"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598766495"
       }
     ],
     "active": true,
@@ -339,10 +351,6 @@
       {
         "system": "phone",
         "value": "(318)253-8611"
-      },
-      {
-        "system": "phone",
-        "value": "(318)239-5360"
       },
       {
         "system": "phone",
@@ -627,6 +635,18 @@
       {
         "system": "phone",
         "value": "(726)780-2175"
+      },
+      {
+        "system": "phone",
+        "value": "(504)688-3390"
+      },
+      {
+        "system": "phone",
+        "value": "(318)239-5360"
+      },
+      {
+        "system": "phone",
+        "value": "(318)992-9200"
       }
     ],
     "address": [
@@ -894,17 +914,6 @@
         "city": "Ringgold",
         "state": "LA",
         "postalCode": "71108",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1020 W FERTIITTA BLD"
-        ],
-        "city": "Leesville",
-        "state": "LA",
-        "postalCode": "71446",
         "country": "USA"
       },
       {
@@ -1566,17 +1575,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1104 West Highway 30"
-        ],
-        "city": "Gonzales",
-        "state": "LA",
-        "postalCode": "70737",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "500 Rue de la Vie"
         ],
         "city": "Baton Rouge",
@@ -1994,6 +1992,73 @@
         "city": "Gonzales",
         "state": "LA",
         "postalCode": "70737",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2551 Metairie Rd",
+          "Suite 101"
+        ],
+        "city": "Metairie",
+        "state": "LA",
+        "postalCode": "70001",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1104 West Highway 30"
+        ],
+        "city": "Gonzales",
+        "state": "LA",
+        "postalCode": "70737",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1020 W FERTIITTA BLD"
+        ],
+        "city": "Leesville",
+        "state": "LA",
+        "postalCode": "71446",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "187 NINTH ST"
+        ],
+        "city": "JENA",
+        "state": "LA",
+        "postalCode": "71371",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "4801 AMBASSADOR CAFFERY PKWY"
+        ],
+        "city": "LAFAYETTE",
+        "state": "LA",
+        "postalCode": "70508",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "187 Ninth St"
+        ],
+        "city": "Jena",
+        "state": "LA",
+        "postalCode": "71371",
         "country": "USA"
       }
     ],

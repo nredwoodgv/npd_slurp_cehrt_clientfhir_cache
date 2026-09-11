@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467332312"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649875816"
       },
       {
@@ -30,18 +26,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467332312"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952252330"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1309 HUNT ST"
-        ],
-        "city": "NEWBERRY",
-        "state": "SC",
-        "postalCode": "29108-3035"
-      },
       {
         "line": [
           "1 Still Hopes Drive"
@@ -49,22 +41,6 @@
         "city": "WEST COLUMBIA",
         "state": "SC",
         "postalCode": "29169-7164"
-      },
-      {
-        "line": [
-          "214 Innovation Drive"
-        ],
-        "city": "GREENVILLE",
-        "state": "SC",
-        "postalCode": "29607-5254"
-      },
-      {
-        "line": [
-          "701 Grove Road"
-        ],
-        "city": "GREENVILLE",
-        "state": "SC",
-        "postalCode": "29607-4210"
       },
       {
         "line": [
@@ -84,45 +60,11 @@
       },
       {
         "line": [
-          "10 Enterprise Boulevard",
-          "Suite 209"
-        ],
-        "city": "GREENVILLE",
-        "state": "SC",
-        "postalCode": "29615-3554"
-      },
-      {
-        "line": [
           "950 N Glebe"
         ],
         "city": "ARLINGTON",
         "state": "VA",
         "postalCode": "22203-1824"
-      },
-      {
-        "line": [
-          "101 East Wood Street"
-        ],
-        "city": "SPARTANBURG",
-        "state": "SC",
-        "postalCode": "29303-3040"
-      },
-      {
-        "line": [
-          "2755 South Highway 14",
-          "Entrance A"
-        ],
-        "city": "GREER",
-        "state": "SC",
-        "postalCode": "29650-4926"
-      },
-      {
-        "line": [
-          "250 Westmoreland Road"
-        ],
-        "city": "GREER",
-        "state": "SC",
-        "postalCode": "29651-9013"
       },
       {
         "line": [
@@ -143,11 +85,69 @@
       },
       {
         "line": [
+          "10 Enterprise Boulevard",
+          "Suite 209"
+        ],
+        "city": "GREENVILLE",
+        "state": "SC",
+        "postalCode": "29615-3554"
+      },
+      {
+        "line": [
+          "101 East Wood Street"
+        ],
+        "city": "SPARTANBURG",
+        "state": "SC",
+        "postalCode": "29303-3040"
+      },
+      {
+        "line": [
+          "2755 South Highway 14",
+          "Entrance A"
+        ],
+        "city": "GREER",
+        "state": "SC",
+        "postalCode": "29650-4926"
+      },
+      {
+        "line": [
           "3 St. Francis Drive"
         ],
         "city": "GREENVILLE",
         "state": "SC",
         "postalCode": "29601-3971"
+      },
+      {
+        "line": [
+          "250 Westmoreland Road"
+        ],
+        "city": "GREER",
+        "state": "SC",
+        "postalCode": "29651-9013"
+      },
+      {
+        "line": [
+          "214 Innovation Drive"
+        ],
+        "city": "GREENVILLE",
+        "state": "SC",
+        "postalCode": "29607-5254"
+      },
+      {
+        "line": [
+          "1309 Hunt Street"
+        ],
+        "city": "NEWBERRY",
+        "state": "SC",
+        "postalCode": "29108-3035"
+      },
+      {
+        "line": [
+          "701 Grove Road"
+        ],
+        "city": "GREENVILLE",
+        "state": "SC",
+        "postalCode": "29607-4210"
       }
     ],
     "extension": [

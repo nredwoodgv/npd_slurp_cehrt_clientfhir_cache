@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427604198"
+        "value": "1295223279"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295223279"
+        "value": "1427604198"
       }
     ],
     "address": [
+      {
+        "line": [
+          "350 East Tickle Street"
+        ],
+        "city": "DYERSBURG",
+        "state": "TN",
+        "postalCode": "38024-3118"
+      },
       {
         "line": [
           "117 N Main Street"
@@ -37,14 +45,6 @@
         "city": "RIDGELY",
         "state": "TN",
         "postalCode": "38080-1316"
-      },
-      {
-        "line": [
-          "350 East Tickle Street"
-        ],
-        "city": "DYERSBURG",
-        "state": "TN",
-        "postalCode": "38024-3118"
       }
     ],
     "extension": [

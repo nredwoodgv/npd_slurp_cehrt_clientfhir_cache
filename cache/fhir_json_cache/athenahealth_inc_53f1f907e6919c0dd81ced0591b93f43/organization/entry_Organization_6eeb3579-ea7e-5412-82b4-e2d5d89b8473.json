@@ -14,7 +14,51 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306613880"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336914662"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1841184306"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861371718"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225917164"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1295629756"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629830807"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1295614147"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750335741"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1679467138"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1427823749"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306612817"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +70,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083480081"
+        "value": "1689449910"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,47 +78,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629843933"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336914662"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922034503"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548035876"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750335741"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295629756"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225917164"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053298711"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689449910"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306613880"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295614147"
+        "value": "1518732833"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -82,11 +86,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841184306"
+        "value": "1053298711"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427823749"
+        "value": "1083480081"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1922034503"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -94,7 +102,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518732833"
+        "value": "1629843933"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -102,35 +110,33 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306612817"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861371718"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679467138"
+        "value": "1548035876"
       }
     ],
     "address": [
       {
         "line": [
-          "4001 Commercial Ctr Dr",
-          "Ste 2"
+          "112 N Bettis St"
         ],
-        "city": "Marion",
+        "city": "Pocahontas",
         "state": "AR",
-        "postalCode": "72364-9616"
+        "postalCode": "72455-3301"
       },
       {
         "line": [
-          "2420 Linwood Dr",
-          "Ste. 1 & 2"
+          "2200 East Matthews"
         ],
-        "city": "Paragould",
+        "city": "Jonesboro",
         "state": "AR",
-        "postalCode": "72450-6122"
+        "postalCode": "72401-4347"
+      },
+      {
+        "line": [
+          "1108 Poplar Place"
+        ],
+        "city": "Rogers",
+        "state": "AR",
+        "postalCode": "72756-4249"
       },
       {
         "line": [
@@ -143,20 +149,28 @@
       },
       {
         "line": [
-          "5395 W Ash St"
+          "2200 E MATTHEWS AVE"
         ],
-        "city": "Pottsville",
+        "city": "JONESBORO",
         "state": "AR",
-        "postalCode": "72858-9170"
+        "postalCode": "72401-4347"
       },
       {
         "line": [
-          "809 W. Main St",
-          "Ste C-D"
+          "4001 Commercial Ctr Dr",
+          "Ste 2"
         ],
-        "city": "Trumann",
+        "city": "Marion",
         "state": "AR",
-        "postalCode": "72472-2611"
+        "postalCode": "72364-9616"
+      },
+      {
+        "line": [
+          "2020 E Joyce Blvd"
+        ],
+        "city": "FAYETTEVILLE",
+        "state": "AR",
+        "postalCode": "72703-6254"
       },
       {
         "line": [
@@ -169,27 +183,19 @@
       },
       {
         "line": [
-          "2200 E MATTHEWS AVE"
+          "514 Chickasawba St"
         ],
-        "city": "JONESBORO",
+        "city": "Blytheville",
         "state": "AR",
-        "postalCode": "72401-4347"
+        "postalCode": "72315-2722"
       },
       {
         "line": [
-          "80 GUEST ST"
+          "5395 W Ash St"
         ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2071"
-      },
-      {
-        "line": [
-          "112 N Bettis St"
-        ],
-        "city": "Pocahontas",
+        "city": "Pottsville",
         "state": "AR",
-        "postalCode": "72455-3301"
+        "postalCode": "72858-9170"
       },
       {
         "line": [
@@ -202,35 +208,29 @@
       },
       {
         "line": [
-          "2200 East Matthews"
+          "2420 Linwood Dr",
+          "Ste. 1 & 2"
         ],
-        "city": "Jonesboro",
+        "city": "Paragould",
         "state": "AR",
-        "postalCode": "72401-4347"
+        "postalCode": "72450-6122"
       },
       {
         "line": [
-          "2020 E Joyce Blvd"
+          "809 W. Main St",
+          "Ste C-D"
         ],
-        "city": "FAYETTEVILLE",
+        "city": "Trumann",
         "state": "AR",
-        "postalCode": "72703-6254"
+        "postalCode": "72472-2611"
       },
       {
         "line": [
-          "514 Chickasawba St"
+          "80 GUEST ST"
         ],
-        "city": "Blytheville",
-        "state": "AR",
-        "postalCode": "72315-2722"
-      },
-      {
-        "line": [
-          "1108 Poplar Place"
-        ],
-        "city": "Rogers",
-        "state": "AR",
-        "postalCode": "72756-4249"
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2071"
       }
     ],
     "extension": [

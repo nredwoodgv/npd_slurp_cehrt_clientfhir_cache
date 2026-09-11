@@ -14,26 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1740166255"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720404494"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1821079088"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1276 N CLYBOURN AVE"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60610-2003"
-      },
-      {
-        "line": [
-          "1276 N. Clybourn Ave"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60610-2089"
-      },
       {
         "line": [
           "3753 S COTTAGE GROVE AVE"
@@ -48,7 +40,7 @@
         ],
         "city": "CHICAGO",
         "state": "IL",
-        "postalCode": "60610-2089"
+        "postalCode": "60610-2003"
       },
       {
         "line": [
@@ -57,6 +49,14 @@
         "city": "CHICAGO",
         "state": "IL",
         "postalCode": "60612-3640"
+      },
+      {
+        "line": [
+          "1276 N CLYBOURN AVE"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60610-2089"
       }
     ],
     "extension": [

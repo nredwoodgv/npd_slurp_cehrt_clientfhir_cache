@@ -14,27 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235601238"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932623857"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598289209"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1972027688"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952825655"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518481225"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083138770"
+        "value": "1235601238"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,51 +30,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699278895"
+        "value": "1639695927"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588694111"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447776729"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104342583"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689227209"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255857538"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952828550"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285158105"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710403191"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972029254"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619493996"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427575026"
+        "value": "1932623857"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -110,11 +50,71 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639695927"
+        "value": "1710403191"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689227209"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588694111"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1083138770"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1255857538"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104342583"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1699278895"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1275059651"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1427575026"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447776729"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1972029254"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1518481225"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619493996"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952825655"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598289209"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285158105"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952828550"
       }
     ],
     "address": [
@@ -124,11 +124,19 @@
         ],
         "city": "DARBY",
         "state": "PA",
+        "postalCode": "19023-1333"
+      },
+      {
+        "line": [
+          "1500 Lansdowne Ave"
+        ],
+        "city": "DARBY",
+        "state": "PA",
         "postalCode": "19023-1330"
       },
       {
         "line": [
-          "1500 Lansdowne Avenue"
+          "1500 Lansdowne Ave"
         ],
         "city": "DARBY",
         "state": "PA",
@@ -136,7 +144,7 @@
       },
       {
         "line": [
-          "1500 Lansdowne Ave"
+          "1500 Lansdowne Avenue"
         ],
         "city": "DARBY",
         "state": "PA",
@@ -149,26 +157,18 @@
         "city": "DARBY",
         "state": "PA",
         "postalCode": "19023-1330"
+      },
+      {
+        "line": [
+          "1500 Lansdowne Avenue"
+        ],
+        "city": "DARBY",
+        "state": "PA",
+        "postalCode": "19023-1200"
       },
       {
         "line": [
           "1501 Lansdowne Ave"
-        ],
-        "city": "DARBY",
-        "state": "PA",
-        "postalCode": "19023-1333"
-      },
-      {
-        "line": [
-          "1500 Lansdowne Ave"
-        ],
-        "city": "DARBY",
-        "state": "PA",
-        "postalCode": "19023-1200"
-      },
-      {
-        "line": [
-          "1500 Lansdowne Avenue"
         ],
         "city": "DARBY",
         "state": "PA",

@@ -2,6 +2,9 @@
   "resource": {
     "resourceType": "Organization",
     "id": "systemedx",
+    "meta": {
+      "lastUpdated": "2026-08-04T00:00:00.000Z"
+    },
     "active": true,
     "type": [
       {
@@ -19,7 +22,8 @@
     "telecom": [
       {
         "system": "phone",
-        "value": "(+1) 256-739-1398"
+        "value": "+1-256-739-1398",
+        "use": "work"
       },
       {
         "system": "email",
@@ -44,5 +48,5 @@
       }
     ]
   },
-  "fullUrl": "https://webservices2.systemedx.com/xnet/api/fhir/Organization/systemedx"
+  "fullUrl": "https://www.systemedx.com/API/endpoint.json/Organization/systemedx"
 }

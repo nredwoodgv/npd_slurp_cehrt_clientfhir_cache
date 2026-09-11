@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215079678"
+        "value": "1669708467"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669708467"
+        "value": "1215079678"
       }
     ],
     "address": [
@@ -32,19 +32,19 @@
       },
       {
         "line": [
-          "1290 E 32ND ST"
-        ],
-        "city": "SILVER CITY",
-        "state": "NM",
-        "postalCode": "88061-7229"
-      },
-      {
-        "line": [
           "3514 FOWLER AVE"
         ],
         "city": "SILVER CITY",
         "state": "NM",
         "postalCode": "88061-7210"
+      },
+      {
+        "line": [
+          "1290 E 32ND ST"
+        ],
+        "city": "SILVER CITY",
+        "state": "NM",
+        "postalCode": "88061-7229"
       }
     ],
     "extension": [

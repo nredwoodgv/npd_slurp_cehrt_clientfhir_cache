@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861382004"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417683707"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730903675"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861382004"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,45 +32,12 @@
     "address": [
       {
         "line": [
-          "8101 BOAT CLUB RD STE 318"
-        ],
-        "city": "FORT WORTH",
-        "state": "TX",
-        "postalCode": "76179-3633"
-      },
-      {
-        "line": [
           "4711 CURRY FORD RD",
           "STE B"
         ],
         "city": "ORLANDO",
         "state": "FL",
         "postalCode": "32812-2704"
-      },
-      {
-        "line": [
-          "4300 PARK RD"
-        ],
-        "city": "CHARLOTTE",
-        "state": "NC",
-        "postalCode": "28209-2271"
-      },
-      {
-        "line": [
-          "606 N 1ST ST"
-        ],
-        "city": "ALBEMARLE",
-        "state": "NC",
-        "postalCode": "28001-3300"
-      },
-      {
-        "line": [
-          "3800 W EAU GALLIE BLVD",
-          "STE 105"
-        ],
-        "city": "MELBOURNE",
-        "state": "FL",
-        "postalCode": "32934-3285"
       },
       {
         "line": [
@@ -83,12 +50,45 @@
       },
       {
         "line": [
+          "606 N 1ST ST"
+        ],
+        "city": "ALBEMARLE",
+        "state": "NC",
+        "postalCode": "28001-3300"
+      },
+      {
+        "line": [
+          "4300 PARK RD"
+        ],
+        "city": "CHARLOTTE",
+        "state": "NC",
+        "postalCode": "28209-2271"
+      },
+      {
+        "line": [
           "4540 SOUTHSIDE BLVD",
           "STE 401"
         ],
         "city": "JACKSONVILLE",
         "state": "FL",
         "postalCode": "32216-5488"
+      },
+      {
+        "line": [
+          "8101 BOAT CLUB RD STE 318"
+        ],
+        "city": "FORT WORTH",
+        "state": "TX",
+        "postalCode": "76179-3633"
+      },
+      {
+        "line": [
+          "3800 W EAU GALLIE BLVD",
+          "STE 105"
+        ],
+        "city": "MELBOURNE",
+        "state": "FL",
+        "postalCode": "32934-3285"
       },
       {
         "line": [

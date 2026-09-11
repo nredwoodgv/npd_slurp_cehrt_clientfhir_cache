@@ -14,14 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104412931"
+        "value": "1326107657"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326107657"
+        "value": "1104412931"
       }
     ],
     "address": [
+      {
+        "line": [
+          "550 S Mesa Hills",
+          "STE A-4"
+        ],
+        "city": "EL PASO",
+        "state": "TX",
+        "postalCode": "79912-5758"
+      },
       {
         "line": [
           "5915 SILVER SPRINGS DR"
@@ -29,14 +38,6 @@
         "city": "EL PASO",
         "state": "TX",
         "postalCode": "79912-4117"
-      },
-      {
-        "line": [
-          "5915 SILVER SPRINGS BUILDING 3 SUITE A"
-        ],
-        "city": "EL PASO",
-        "state": "TX",
-        "postalCode": "79912-4126"
       },
       {
         "line": [],
@@ -54,12 +55,11 @@
       },
       {
         "line": [
-          "550 S Mesa Hills",
-          "STE A-4"
+          "5915 SILVER SPRINGS BUILDING 3 SUITE A"
         ],
         "city": "EL PASO",
         "state": "TX",
-        "postalCode": "79912-5758"
+        "postalCode": "79912-4126"
       }
     ],
     "extension": [

@@ -14,37 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205388071"
+        "value": "1801673405"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801673405"
+        "value": "1205388071"
       }
     ],
     "address": [
       {
         "line": [
-          "2837 MALVERN AVE"
+          "2614 Hwy 27 N"
         ],
-        "city": "HOT SPRINGS NATIONAL PARK",
+        "city": "KIRBY",
         "state": "AR",
-        "postalCode": "71901-8321"
-      },
-      {
-        "line": [
-          "135 School Drive"
-        ],
-        "city": "ODEN",
-        "state": "AR",
-        "postalCode": "71961-0121"
-      },
-      {
-        "line": [
-          "142 School St."
-        ],
-        "city": "UMPIRE",
-        "state": "AR",
-        "postalCode": "71971-0121"
+        "postalCode": "71950-9007"
       },
       {
         "line": [
@@ -56,69 +40,11 @@
       },
       {
         "line": [
-          "755 HIGHWAY 8 E"
-        ],
-        "city": "AMITY",
-        "state": "AR",
-        "postalCode": "71921-8562"
-      },
-      {
-        "line": [
           "1124 Main Avenue"
         ],
         "city": "DIERKS",
         "state": "AR",
-        "postalCode": "71833-0416"
-      },
-      {
-        "line": [
-          "408 N. 1St Street Suite. C",
-          "408 N. 1St Street Suite C"
-        ],
-        "city": "GLENWOOD",
-        "state": "AR",
-        "postalCode": "71943-2142"
-      },
-      {
-        "line": [
-          "1124",
-          "1124 Main Avenue"
-        ],
-        "city": "DIERKS",
-        "state": "AR",
-        "postalCode": "71833-0416"
-      },
-      {
-        "line": [
-          "12492 State Hwy 196"
-        ],
-        "city": "TEXARKANA",
-        "state": "AR",
-        "postalCode": "71854-2183"
-      },
-      {
-        "line": [
-          "1400 LESLIE ST"
-        ],
-        "city": "NASHVILLE",
-        "state": "AR",
-        "postalCode": "71852-4027"
-      },
-      {
-        "line": [
-          "605 3RD AVE"
-        ],
-        "city": "MURFREESBORO",
-        "state": "AR",
-        "postalCode": "71958-9302"
-      },
-      {
-        "line": [
-          "900 OLD HWY 70 W"
-        ],
-        "city": "DIERKS",
-        "state": "AR",
-        "postalCode": "71833-8828"
+        "postalCode": "71833-9421"
       },
       {
         "line": [
@@ -138,6 +64,14 @@
       },
       {
         "line": [
+          "101 N NINTH ST DE QUEEN, AR"
+        ],
+        "city": "DE QUEEN",
+        "state": "AR",
+        "postalCode": "71832-0920"
+      },
+      {
+        "line": [
           "2268 HIGHWAY 8 E"
         ],
         "city": "NORMAN",
@@ -146,11 +80,28 @@
       },
       {
         "line": [
-          "1101 METCALF"
+          "408 N. 1St Street Suite. C",
+          "408 N. 1St Street Suite C"
         ],
-        "city": "HORATIO",
+        "city": "GLENWOOD",
         "state": "AR",
-        "postalCode": "71842-8976"
+        "postalCode": "71943-2142"
+      },
+      {
+        "line": [
+          "605 3RD AVE"
+        ],
+        "city": "MURFREESBORO",
+        "state": "AR",
+        "postalCode": "71958-9302"
+      },
+      {
+        "line": [
+          "1400 LESLIE ST"
+        ],
+        "city": "NASHVILLE",
+        "state": "AR",
+        "postalCode": "71852-4027"
       },
       {
         "line": [
@@ -162,19 +113,51 @@
       },
       {
         "line": [
-          "2614 Hwy 27 N"
+          "2837 MALVERN AVE"
         ],
-        "city": "KIRBY",
+        "city": "HOT SPRINGS NATIONAL PARK",
         "state": "AR",
-        "postalCode": "71950-9007"
+        "postalCode": "71901-8321"
       },
       {
         "line": [
-          "101 N NINTH ST DE QUEEN, AR"
+          "900 OLD HWY 70 W"
         ],
-        "city": "DE QUEEN",
+        "city": "DIERKS",
         "state": "AR",
-        "postalCode": "71832-0920"
+        "postalCode": "71833-8828"
+      },
+      {
+        "line": [
+          "142 School St."
+        ],
+        "city": "UMPIRE",
+        "state": "AR",
+        "postalCode": "71971-0121"
+      },
+      {
+        "line": [
+          "135 School Drive"
+        ],
+        "city": "ODEN",
+        "state": "AR",
+        "postalCode": "71961-0121"
+      },
+      {
+        "line": [
+          "1101 METCALF"
+        ],
+        "city": "HORATIO",
+        "state": "AR",
+        "postalCode": "71842-8976"
+      },
+      {
+        "line": [
+          "12492 State Hwy 196"
+        ],
+        "city": "TEXARKANA",
+        "state": "AR",
+        "postalCode": "71854-2183"
       },
       {
         "line": [
@@ -182,7 +165,24 @@
         ],
         "city": "DIERKS",
         "state": "AR",
-        "postalCode": "71833-9421"
+        "postalCode": "71833-0416"
+      },
+      {
+        "line": [
+          "755 HIGHWAY 8 E"
+        ],
+        "city": "AMITY",
+        "state": "AR",
+        "postalCode": "71921-8562"
+      },
+      {
+        "line": [
+          "1124",
+          "1124 Main Avenue"
+        ],
+        "city": "DIERKS",
+        "state": "AR",
+        "postalCode": "71833-0416"
       }
     ],
     "extension": [

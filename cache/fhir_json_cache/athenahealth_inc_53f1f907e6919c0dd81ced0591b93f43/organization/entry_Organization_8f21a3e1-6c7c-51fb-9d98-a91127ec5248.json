@@ -14,14 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821151572"
+        "value": "1053783449"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053783449"
+        "value": "1821151572"
       }
     ],
     "address": [
+      {
+        "line": [
+          "77 EAST MERRIMACK STREET",
+          "SUITE 6"
+        ],
+        "city": "LOWELL",
+        "state": "MA",
+        "postalCode": "01852-1900"
+      },
       {
         "line": [
           "1101 BEACON STREET 7TH FLR"
@@ -29,14 +38,6 @@
         "city": "BROOKLINE",
         "state": "MA",
         "postalCode": "02446-5587"
-      },
-      {
-        "line": [
-          "77 EAST MERRIMACK ST STE 6"
-        ],
-        "city": "LOWELL",
-        "state": "MA",
-        "postalCode": "01852-1251"
       },
       {
         "line": [
@@ -48,12 +49,11 @@
       },
       {
         "line": [
-          "77 EAST MERRIMACK STREET",
-          "SUITE 6"
+          "77 EAST MERRIMACK ST STE 6"
         ],
         "city": "LOWELL",
         "state": "MA",
-        "postalCode": "01852-1900"
+        "postalCode": "01852-1251"
       }
     ],
     "extension": [

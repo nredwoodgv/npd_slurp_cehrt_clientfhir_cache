@@ -18,14 +18,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174977433"
+        "value": "1144844606"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144844606"
+        "value": "1174977433"
       }
     ],
     "address": [
+      {
+        "line": [
+          "4100 STATE HIGHWAY 66"
+        ],
+        "city": "STEVENS POINT",
+        "state": "WI",
+        "postalCode": "54482-8410"
+      },
       {
         "line": [
           "500 Vincent St."
@@ -49,14 +57,6 @@
         "city": "WAUSAU",
         "state": "WI",
         "postalCode": "54401-4707"
-      },
-      {
-        "line": [
-          "4100 STATE HIGHWAY 66"
-        ],
-        "city": "STEVENS POINT",
-        "state": "WI",
-        "postalCode": "54482-8410"
       }
     ],
     "extension": [

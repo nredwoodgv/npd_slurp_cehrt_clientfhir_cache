@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023199544"
+        "value": "1578727947"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578727947"
+        "value": "1023199544"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -35,12 +35,6 @@
         "postalCode": "85374-2470"
       },
       {
-        "line": [],
-        "city": "SURPRISE",
-        "state": "AZ",
-        "postalCode": "85374-2470"
-      },
-      {
         "line": [
           "6320-A W Union Hills Dr.",
           "Suite 210"
@@ -48,6 +42,12 @@
         "city": "Glendale",
         "state": "AZ",
         "postalCode": "85308-7177"
+      },
+      {
+        "line": [],
+        "city": "SURPRISE",
+        "state": "AZ",
+        "postalCode": "85374-2470"
       },
       {
         "line": [

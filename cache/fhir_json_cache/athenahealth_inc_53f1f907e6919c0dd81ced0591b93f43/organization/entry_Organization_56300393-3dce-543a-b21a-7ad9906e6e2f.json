@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1558797118"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417297847"
       },
       {
@@ -23,21 +27,9 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1912264862"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558797118"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3751 Katella Ave"
-        ],
-        "city": "LOS ALAMITOS",
-        "state": "CA",
-        "postalCode": "90720-3113"
-      },
       {
         "line": [
           "17100 Euclid St"
@@ -53,6 +45,14 @@
         "city": "WESTMINSTER",
         "state": "CA",
         "postalCode": "92683-7099"
+      },
+      {
+        "line": [
+          "3751 Katella Ave"
+        ],
+        "city": "LOS ALAMITOS",
+        "state": "CA",
+        "postalCode": "90720-3113"
       }
     ],
     "extension": [

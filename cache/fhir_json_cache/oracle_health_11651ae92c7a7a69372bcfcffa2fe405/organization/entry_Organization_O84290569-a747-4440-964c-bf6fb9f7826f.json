@@ -5,17 +5,22 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.4655"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1740372754"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689618324"
       }
     ],
     "name": "Sheridan Community Hospital",
     "address": [
       {
         "line": [
-          "228 Business Center Drive"
+          "Non-GNR Dummy"
         ],
-        "city": "Reisterstown",
+        "city": "Philipsburg",
         "state": "MD",
         "postalCode": "21136",
         "country": "United States of America"

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184164014"
+        "value": "1366243768"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366243768"
+        "value": "1184164014"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,7 +32,55 @@
     "address": [
       {
         "line": [
+          "1627 Kenilworth Ave NE"
+        ],
+        "city": "WASHINGTON",
+        "state": "DC",
+        "postalCode": "20019-2010"
+      },
+      {
+        "line": [
+          "11890 HEALING WAY"
+        ],
+        "city": "SILVER SPRING",
+        "state": "MD",
+        "postalCode": "20904-7917"
+      },
+      {
+        "line": [
+          "901 HARRY S TRUMAN DR N"
+        ],
+        "city": "UPPER MARLBORO",
+        "state": "MD",
+        "postalCode": "20774-5477"
+      },
+      {
+        "line": [
+          "1627 KENILWORTH AVE NE"
+        ],
+        "city": "WASHINGTON",
+        "state": "DC",
+        "postalCode": "20019-0001"
+      },
+      {
+        "line": [
           "10001 RHODE ISLAND AVE"
+        ],
+        "city": "COLLEGE PARK",
+        "state": "MD",
+        "postalCode": "20740-1141"
+      },
+      {
+        "line": [
+          "1627 Kenilworth Avenue, NE"
+        ],
+        "city": "WASHINGTON",
+        "state": "DC",
+        "postalCode": "20019-2010"
+      },
+      {
+        "line": [
+          "10001 Rhode Island Avenue"
         ],
         "city": "COLLEGE PARK",
         "state": "MD",
@@ -45,54 +93,6 @@
         "city": "COLLEGE PARK",
         "state": "MD",
         "postalCode": "20740-1141"
-      },
-      {
-        "line": [
-          "10001 Rhode Island Avenue"
-        ],
-        "city": "COLLEGE PARK",
-        "state": "MD",
-        "postalCode": "20740-1141"
-      },
-      {
-        "line": [
-          "1627 Kenilworth Ave NE"
-        ],
-        "city": "WASHINGTON",
-        "state": "DC",
-        "postalCode": "20019-2010"
-      },
-      {
-        "line": [
-          "901 HARRY S TRUMAN DR N"
-        ],
-        "city": "UPPER MARLBORO",
-        "state": "MD",
-        "postalCode": "20774-5477"
-      },
-      {
-        "line": [
-          "11890 HEALING WAY"
-        ],
-        "city": "SILVER SPRING",
-        "state": "MD",
-        "postalCode": "20904-7917"
-      },
-      {
-        "line": [
-          "1627 Kenilworth Avenue, NE"
-        ],
-        "city": "WASHINGTON",
-        "state": "DC",
-        "postalCode": "20019-2010"
-      },
-      {
-        "line": [
-          "1627 KENILWORTH AVE NE"
-        ],
-        "city": "WASHINGTON",
-        "state": "DC",
-        "postalCode": "20019-0001"
       }
     ],
     "extension": [

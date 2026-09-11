@@ -18,10 +18,47 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1205651510"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1740960434"
       }
     ],
     "address": [
+      {
+        "line": [
+          "53 Gordon Road, Suite 102"
+        ],
+        "city": "JASPER",
+        "state": "GA",
+        "postalCode": "30143-7104"
+      },
+      {
+        "line": [
+          "290 HERITAGE WALK STE B"
+        ],
+        "city": "WOODSTOCK",
+        "state": "GA",
+        "postalCode": "30188-6402"
+      },
+      {
+        "line": [
+          "320 HOSPITAL RD"
+        ],
+        "city": "CANTON",
+        "state": "GA",
+        "postalCode": "30114-2410"
+      },
+      {
+        "line": [
+          "73 PRESTIGE LANE",
+          "SUITE 205"
+        ],
+        "city": "DAWSONVILLE",
+        "state": "GA",
+        "postalCode": "30534-8952"
+      },
       {
         "line": [
           "101 GREENFIELD DR",
@@ -39,55 +76,6 @@
         "city": "DULUTH",
         "state": "GA",
         "postalCode": "30097-2644"
-      },
-      {
-        "line": [
-          "53 Gordon Road, Suite 102"
-        ],
-        "city": "JASPER",
-        "state": "GA",
-        "postalCode": "30143-7104"
-      },
-      {
-        "line": [
-          "3905 BROOKSIDE PKWY STE 101"
-        ],
-        "city": "ALPHARETTA",
-        "state": "GA",
-        "postalCode": "30022-4429"
-      },
-      {
-        "line": [
-          "73 PRESTIGE LANE",
-          "SUITE 205"
-        ],
-        "city": "DAWSONVILLE",
-        "state": "GA",
-        "postalCode": "30534-8952"
-      },
-      {
-        "line": [
-          "3970 DEP BILL CANTRELL MEMORIAL RD"
-        ],
-        "city": "CUMMING",
-        "state": "GA",
-        "postalCode": "30040-2824"
-      },
-      {
-        "line": [
-          "3905 BROOKSIDE PKWY STE 202"
-        ],
-        "city": "ALPHARETTA",
-        "state": "GA",
-        "postalCode": "30022-4429"
-      },
-      {
-        "line": [
-          "3970 Dep Bill Cantrell Memorial Rd"
-        ],
-        "city": "CUMMING",
-        "state": "GA",
-        "postalCode": "30040-2824"
       },
       {
         "line": [
@@ -109,19 +97,35 @@
       },
       {
         "line": [
-          "320 HOSPITAL RD"
+          "3905 BROOKSIDE PKWY STE 202"
         ],
-        "city": "CANTON",
+        "city": "ALPHARETTA",
         "state": "GA",
-        "postalCode": "30114-2410"
+        "postalCode": "30022-4429"
       },
       {
         "line": [
-          "290 HERITAGE WALK STE B"
+          "3905 BROOKSIDE PKWY STE 101"
         ],
-        "city": "WOODSTOCK",
+        "city": "ALPHARETTA",
         "state": "GA",
-        "postalCode": "30188-6402"
+        "postalCode": "30022-4429"
+      },
+      {
+        "line": [
+          "3970 Dep Bill Cantrell Memorial Rd"
+        ],
+        "city": "CUMMING",
+        "state": "GA",
+        "postalCode": "30040-2824"
+      },
+      {
+        "line": [
+          "3970 DEP BILL CANTRELL MEMORIAL RD"
+        ],
+        "city": "CUMMING",
+        "state": "GA",
+        "postalCode": "30040-2824"
       }
     ],
     "extension": [

@@ -18,19 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508305293"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417495516"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184163883"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659810455"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,7 +26,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962940064"
+        "value": "1184163883"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316485410"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,26 +38,33 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316485410"
+        "value": "1962940064"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1508305293"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1659810455"
       }
     ],
     "address": [
       {
         "line": [
-          "4546 Hwy 87 S"
+          "1125 CARTHAGE ST"
         ],
         "city": "SANFORD",
         "state": "NC",
-        "postalCode": "27330-0212"
+        "postalCode": "27330-4162"
       },
       {
         "line": [
-          "1139 CARTHAGE ST",
-          "STE 110B"
+          "101 CHURCH ST"
         ],
-        "city": "SANFORD",
+        "city": "BROADWAY",
         "state": "NC",
-        "postalCode": "27330-4105"
+        "postalCode": "27505-9394"
       },
       {
         "line": [
@@ -85,27 +84,11 @@
       },
       {
         "line": [
-          "1125 CARTHAGE ST"
+          "1139 CARTHAGE ST STE 105"
         ],
         "city": "SANFORD",
         "state": "NC",
-        "postalCode": "27330-4162"
-      },
-      {
-        "line": [
-          "1135 CARTHAGE STREET"
-        ],
-        "city": "SANFORD",
-        "state": "NC",
-        "postalCode": "27330-0212"
-      },
-      {
-        "line": [
-          "2412 Wilkins Drive"
-        ],
-        "city": "SANFORD",
-        "state": "NC",
-        "postalCode": "27330-7268"
+        "postalCode": "27330-4144"
       },
       {
         "line": [
@@ -117,8 +100,25 @@
       },
       {
         "line": [
+          "1135 CARTHAGE STREET"
+        ],
+        "city": "SANFORD",
+        "state": "NC",
+        "postalCode": "27330-0212"
+      },
+      {
+        "line": [
           "1139 CARTHAGE ST",
           "STE 110-A"
+        ],
+        "city": "SANFORD",
+        "state": "NC",
+        "postalCode": "27330-4144"
+      },
+      {
+        "line": [
+          "1139 CARTHAGE ST",
+          "STE 101"
         ],
         "city": "SANFORD",
         "state": "NC",
@@ -142,19 +142,20 @@
       },
       {
         "line": [
-          "101 CHURCH ST"
-        ],
-        "city": "BROADWAY",
-        "state": "NC",
-        "postalCode": "27505-9394"
-      },
-      {
-        "line": [
-          "1139 CARTHAGE ST STE 105"
+          "2412 Wilkins Drive"
         ],
         "city": "SANFORD",
         "state": "NC",
-        "postalCode": "27330-4144"
+        "postalCode": "27330-7268"
+      },
+      {
+        "line": [
+          "1139 CARTHAGE ST",
+          "STE 110B"
+        ],
+        "city": "SANFORD",
+        "state": "NC",
+        "postalCode": "27330-4105"
       }
     ],
     "extension": [

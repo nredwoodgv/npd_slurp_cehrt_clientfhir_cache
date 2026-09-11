@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104496819"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1902347438"
       },
       {
@@ -27,17 +23,20 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1104367630"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104496819"
       }
     ],
     "address": [
       {
         "line": [
-          "77 Warren Street",
-          "5th Floor"
+          "7765 144th Street, Suite 6"
         ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-3601"
+        "city": "SEBASTIAN",
+        "state": "FL",
+        "postalCode": "32958-3206"
       },
       {
         "line": [
@@ -49,31 +48,8 @@
       },
       {
         "line": [
-          "7765 144th Street, Suite 6"
-        ],
-        "city": "SEBASTIAN",
-        "state": "FL",
-        "postalCode": "32958-3206"
-      },
-      {
-        "line": [
-          "13840 US HWY 1"
-        ],
-        "city": "SEBASTIAN",
-        "state": "FL",
-        "postalCode": "32958-3296"
-      },
-      {
-        "line": [
-          "3745 11TH CIR STE 105"
-        ],
-        "city": "VERO BEACH",
-        "state": "FL",
-        "postalCode": "32960-4838"
-      },
-      {
-        "line": [
-          "77 Warren Street"
+          "77 Warren Street",
+          "5th Floor"
         ],
         "city": "BRIGHTON",
         "state": "MA",
@@ -86,6 +62,30 @@
         "city": "ROCKLEDGE",
         "state": "FL",
         "postalCode": "32955-5908"
+      },
+      {
+        "line": [
+          "3745 11TH CIR STE 105"
+        ],
+        "city": "VERO BEACH",
+        "state": "FL",
+        "postalCode": "32960-4838"
+      },
+      {
+        "line": [
+          "13840 US HWY 1"
+        ],
+        "city": "SEBASTIAN",
+        "state": "FL",
+        "postalCode": "32958-3296"
+      },
+      {
+        "line": [
+          "77 Warren Street"
+        ],
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-3601"
       },
       {
         "line": [

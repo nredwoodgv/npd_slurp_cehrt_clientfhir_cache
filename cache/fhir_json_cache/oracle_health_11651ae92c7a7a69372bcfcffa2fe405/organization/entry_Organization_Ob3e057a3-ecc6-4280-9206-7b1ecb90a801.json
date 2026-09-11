@@ -5,8 +5,23 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.9865"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487764064"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376164749"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487669032"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326146333"
       }
     ],
     "name": "Last Frontier Healthcare District d.b.a. Modoc Medical Center",

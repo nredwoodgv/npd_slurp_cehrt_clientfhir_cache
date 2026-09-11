@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972597060"
+        "value": "1508850520"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,18 +22,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508850520"
+        "value": "1972597060"
       }
     ],
     "address": [
-      {
-        "line": [
-          "302 Broadway St"
-        ],
-        "city": "Mount Vernon",
-        "state": "IL",
-        "postalCode": "62864-5116"
-      },
       {
         "line": [
           "4113 South Water Tower Place"
@@ -41,14 +33,6 @@
         "city": "Mount Vernon",
         "state": "IL",
         "postalCode": "62864-6293"
-      },
-      {
-        "line": [
-          "1201 Ricker Dr"
-        ],
-        "city": "Salem",
-        "state": "IL",
-        "postalCode": "62881-4263"
       },
       {
         "line": [
@@ -73,6 +57,22 @@
         "city": "Mount Vernon",
         "state": "IL",
         "postalCode": "62864-6545"
+      },
+      {
+        "line": [
+          "302 Broadway St"
+        ],
+        "city": "Mount Vernon",
+        "state": "IL",
+        "postalCode": "62864-5116"
+      },
+      {
+        "line": [
+          "1201 Ricker Dr"
+        ],
+        "city": "Salem",
+        "state": "IL",
+        "postalCode": "62881-4263"
       }
     ],
     "extension": [

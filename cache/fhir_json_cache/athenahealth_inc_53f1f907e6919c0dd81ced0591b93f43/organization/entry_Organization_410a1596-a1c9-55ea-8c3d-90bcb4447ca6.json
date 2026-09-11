@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578646774"
+        "value": "1699444976"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699444976"
+        "value": "1578646774"
       }
     ],
     "address": [
-      {
-        "line": [
-          "406 TAYLOR ST STE A"
-        ],
-        "city": "SCOTTSBORO",
-        "state": "AL",
-        "postalCode": "35768-2406"
-      },
       {
         "line": [
           "406-A TAYLOR STREET"
@@ -40,11 +32,11 @@
       },
       {
         "line": [
-          "3621 Winchester Road"
+          "406 TAYLOR ST STE A"
         ],
-        "city": "NEW MARKET",
+        "city": "SCOTTSBORO",
         "state": "AL",
-        "postalCode": "35761-9405"
+        "postalCode": "35768-2406"
       },
       {
         "line": [
@@ -53,6 +45,14 @@
         "city": "SCOTTSBORO",
         "state": "AL",
         "postalCode": "35768-4264"
+      },
+      {
+        "line": [
+          "3621 Winchester Road"
+        ],
+        "city": "NEW MARKET",
+        "state": "AL",
+        "postalCode": "35761-9405"
       }
     ],
     "extension": [

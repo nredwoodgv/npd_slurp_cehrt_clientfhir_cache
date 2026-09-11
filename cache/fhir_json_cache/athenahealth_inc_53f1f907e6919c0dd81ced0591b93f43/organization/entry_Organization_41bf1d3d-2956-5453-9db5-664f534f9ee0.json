@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215287362"
+        "value": "1730437245"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073861431"
+        "value": "1215287362"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,21 +26,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730437245"
+        "value": "1265780621"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265780621"
+        "value": "1073861431"
       }
     ],
     "address": [
       {
         "line": [
-          "3401 LUDINGTON STREET"
+          "1414 W FAIR AVE",
+          "SUITE 344"
         ],
-        "city": "ESCANABA",
+        "city": "MARQUETTE",
         "state": "MI",
-        "postalCode": "49829-1300"
+        "postalCode": "49855-5407"
       },
       {
         "line": [
@@ -52,12 +53,11 @@
       },
       {
         "line": [
-          "1414 W FAIR AVE",
-          "SUITE 344"
+          "3401 LUDINGTON STREET"
         ],
-        "city": "MARQUETTE",
+        "city": "ESCANABA",
         "state": "MI",
-        "postalCode": "49855-5407"
+        "postalCode": "49829-1300"
       }
     ],
     "extension": [

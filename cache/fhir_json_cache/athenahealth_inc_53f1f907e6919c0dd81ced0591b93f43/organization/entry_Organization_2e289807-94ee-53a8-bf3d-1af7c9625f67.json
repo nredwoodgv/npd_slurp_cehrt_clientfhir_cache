@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
+        "value": "1053373951"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669801585"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1881656247"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730484031"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,7 +38,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
+        "value": "1649232984"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,18 +50,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
+        "value": "1962602300"
       }
     ],
     "address": [
-      {
-        "line": [
-          "601 E San Antonio Ste 204 W"
-        ],
-        "city": "VICTORIA",
-        "state": "TX",
-        "postalCode": "77901-0001"
-      },
       {
         "line": [
           "1601 Main St, Ste 204"
@@ -69,6 +61,14 @@
         "city": "RICHMOND",
         "state": "TX",
         "postalCode": "77469-3230"
+      },
+      {
+        "line": [
+          "601 E San Antonio Ste 204 W"
+        ],
+        "city": "VICTORIA",
+        "state": "TX",
+        "postalCode": "77901-0001"
       }
     ],
     "extension": [

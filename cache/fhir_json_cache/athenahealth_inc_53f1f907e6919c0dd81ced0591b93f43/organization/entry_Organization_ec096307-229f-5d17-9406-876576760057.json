@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063712701"
+        "value": "1841234671"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841234671"
+        "value": "1063712701"
       }
     ],
     "address": [
-      {
-        "line": [
-          "49 Ky 15 N"
-        ],
-        "city": "CAMPTON",
-        "state": "KY",
-        "postalCode": "41301-8834"
-      },
       {
         "line": [
           "540 JETT DRIVE"
@@ -37,6 +29,14 @@
         "city": "JACKSON",
         "state": "KY",
         "postalCode": "41339-9622"
+      },
+      {
+        "line": [
+          "49 Ky 15 N"
+        ],
+        "city": "CAMPTON",
+        "state": "KY",
+        "postalCode": "41301-8834"
       }
     ],
     "extension": [

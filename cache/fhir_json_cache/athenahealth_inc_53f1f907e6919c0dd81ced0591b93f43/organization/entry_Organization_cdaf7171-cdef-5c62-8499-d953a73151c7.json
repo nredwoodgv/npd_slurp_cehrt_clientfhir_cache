@@ -18,11 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205698479"
+        "value": "1235990011"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447137740"
+        "value": "1205698479"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,36 +30,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235990011"
+        "value": "1447137740"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1736 Divisadero St"
-        ],
-        "city": "SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94115-3012"
-      },
-      {
-        "line": [
-          "7777 Fay Ave",
-          "Ste 205"
-        ],
-        "city": "LA JOLLA",
-        "state": "CA",
-        "postalCode": "92037-4324"
-      },
-      {
-        "line": [
-          "2011 Forest Ave",
-          "Ste 10"
-        ],
-        "city": "SAN JOSE",
-        "state": "CA",
-        "postalCode": "95128-4832"
-      },
       {
         "line": [
           "100 Bush St",
@@ -68,23 +42,6 @@
         "city": "SAN FRANCISCO",
         "state": "CA",
         "postalCode": "94104-3916"
-      },
-      {
-        "line": [
-          "2095 Van Ness Ave"
-        ],
-        "city": "SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94109-3009"
-      },
-      {
-        "line": [
-          "100 Meadowcreek Dr",
-          "Ste 115, 225"
-        ],
-        "city": "CORTE MADERA",
-        "state": "CA",
-        "postalCode": "94925-1230"
       },
       {
         "line": [
@@ -97,11 +54,27 @@
       },
       {
         "line": [
+          "1736 Divisadero St"
+        ],
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94115-3012"
+      },
+      {
+        "line": [
           "80 Guest ST"
         ],
         "city": "BRIGHTON",
         "state": "MA",
         "postalCode": "02135-2071"
+      },
+      {
+        "line": [
+          "2095 Van Ness Ave"
+        ],
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94109-3009"
       },
       {
         "line": [
@@ -111,6 +84,33 @@
         "city": "BEVERLY HILLS",
         "state": "CA",
         "postalCode": "90212-1910"
+      },
+      {
+        "line": [
+          "7777 Fay Ave",
+          "Ste 205"
+        ],
+        "city": "LA JOLLA",
+        "state": "CA",
+        "postalCode": "92037-4324"
+      },
+      {
+        "line": [
+          "100 Meadowcreek Dr",
+          "Ste 115, 225"
+        ],
+        "city": "CORTE MADERA",
+        "state": "CA",
+        "postalCode": "94925-1230"
+      },
+      {
+        "line": [
+          "2011 Forest Ave",
+          "Ste 10"
+        ],
+        "city": "SAN JOSE",
+        "state": "CA",
+        "postalCode": "95128-4832"
       }
     ],
     "extension": [

@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790433803"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932496932"
       },
       {
@@ -30,18 +26,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1790433803"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1336842160"
       }
     ],
     "address": [
-      {
-        "line": [
-          "ONE GENESYS PARKWAY SUITE 4642"
-        ],
-        "city": "GRAND BLANC",
-        "state": "MI",
-        "postalCode": "48439-8065"
-      },
       {
         "line": [
           "3452 GENESYS PARKWAY"
@@ -49,6 +41,14 @@
         "city": "GRAND BLANC",
         "state": "MI",
         "postalCode": "48439-4843"
+      },
+      {
+        "line": [
+          "ONE GENESYS PARKWAY SUITE 4642"
+        ],
+        "city": "GRAND BLANC",
+        "state": "MI",
+        "postalCode": "48439-8065"
       }
     ],
     "extension": [

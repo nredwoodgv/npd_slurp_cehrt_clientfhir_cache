@@ -14,14 +14,30 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548293640"
+        "value": "1750873337"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750873337"
+        "value": "1548293640"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3130 GRAND CONCOURSE"
+        ],
+        "city": "BRONX",
+        "state": "NY",
+        "postalCode": "10458-1213"
+      },
+      {
+        "line": [
+          "4564 FRANCIS LEWIS BLVD STE 200"
+        ],
+        "city": "BAYSIDE",
+        "state": "NY",
+        "postalCode": "11361-3085"
+      },
       {
         "line": [
           "1101 Pelham Pkwy N."
@@ -32,11 +48,19 @@
       },
       {
         "line": [
-          "930 East Tremont Avenue"
+          "1625 SAINT PETERS AVE STE MAIN"
         ],
         "city": "BRONX",
         "state": "NY",
-        "postalCode": "10460-4363"
+        "postalCode": "10461-3000"
+      },
+      {
+        "line": [
+          "2525 KINGS HWY"
+        ],
+        "city": "BROOKLYN",
+        "state": "NY",
+        "postalCode": "11229-1705"
       },
       {
         "line": [
@@ -49,35 +73,11 @@
       },
       {
         "line": [
-          "2525 KINGS HWY"
-        ],
-        "city": "BROOKLYN",
-        "state": "NY",
-        "postalCode": "11229-1705"
-      },
-      {
-        "line": [
-          "4564 FRANCIS LEWIS BLVD STE 200"
-        ],
-        "city": "BAYSIDE",
-        "state": "NY",
-        "postalCode": "11361-3085"
-      },
-      {
-        "line": [
-          "3130 GRAND CONCOURSE"
+          "930 East Tremont Avenue"
         ],
         "city": "BRONX",
         "state": "NY",
-        "postalCode": "10458-1213"
-      },
-      {
-        "line": [
-          "1625 SAINT PETERS AVE STE MAIN"
-        ],
-        "city": "BRONX",
-        "state": "NY",
-        "postalCode": "10461-3000"
+        "postalCode": "10460-4363"
       },
       {
         "line": [

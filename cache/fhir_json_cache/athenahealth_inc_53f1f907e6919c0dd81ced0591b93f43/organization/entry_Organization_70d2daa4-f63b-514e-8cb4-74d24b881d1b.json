@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285931089"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649228966"
       },
       {
@@ -26,34 +22,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285931089"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932402484"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1300 Enterprise Drive"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24502-5768"
-      },
-      {
-        "line": [
-          "1901 Tate Springs Road"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24501-1109"
-      },
-      {
-        "line": [
-          "3300 Rivermont Avenue"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24503-2030"
-      },
       {
         "line": [
           "1902 Grace Street"
@@ -69,6 +45,30 @@
         "city": "BEDFORD",
         "state": "VA",
         "postalCode": "24523-1213"
+      },
+      {
+        "line": [
+          "1901 Tate Springs Road"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24501-1109"
+      },
+      {
+        "line": [
+          "1300 Enterprise Drive"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24502-5768"
+      },
+      {
+        "line": [
+          "3300 Rivermont Avenue"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24503-2030"
       }
     ],
     "extension": [

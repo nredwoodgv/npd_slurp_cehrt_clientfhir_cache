@@ -14,46 +14,70 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649501347"
+        "value": "1750814737"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750814737"
+        "value": "1649501347"
       }
     ],
     "address": [
       {
         "line": [
-          "4759 South Fwy",
-          "Ste B"
+          "648 E BUTLER ST"
         ],
         "city": "FORT WORTH",
         "state": "TX",
-        "postalCode": "76115-3655"
+        "postalCode": "76110-5523"
       },
       {
         "line": [
-          "3424 W Interstate 20 Highway"
+          "3501 Matlock Rd"
         ],
         "city": "ARLINGTON",
         "state": "TX",
-        "postalCode": "76017-1898"
+        "postalCode": "76015-3604"
       },
       {
         "line": [
-          "900 8TH AVE"
+          "3301 Matlock Rd"
         ],
-        "city": "FORT WORTH",
+        "city": "ARLINGTON",
         "state": "TX",
-        "postalCode": "76104-3902"
+        "postalCode": "76015-2908"
       },
       {
         "line": [
-          "2698 S Hulen St"
+          "731 PLAZA BLVD"
+        ],
+        "city": "COPPELL",
+        "state": "TX",
+        "postalCode": "75019-6685"
+      },
+      {
+        "line": [
+          "4400 LONG PRAIRIE RD"
+        ],
+        "city": "FLOWER MOUND",
+        "state": "TX",
+        "postalCode": "75028-1892"
+      },
+      {
+        "line": [
+          "3600 Matlock Rd",
+          "Ste 104"
+        ],
+        "city": "ARLINGTON",
+        "state": "TX",
+        "postalCode": "76015-3679"
+      },
+      {
+        "line": [
+          "6799 Granbury Rd"
         ],
         "city": "FORT WORTH",
         "state": "TX",
-        "postalCode": "76109-5552"
+        "postalCode": "76133-4949"
       },
       {
         "line": [
@@ -66,27 +90,35 @@
       },
       {
         "line": [
-          "1257 Kilpatrick"
-        ],
-        "city": "CLEBURNE",
-        "state": "TX",
-        "postalCode": "76033-7421"
-      },
-      {
-        "line": [
-          "701 Saint Louis Ave"
+          "900 8TH AVE"
         ],
         "city": "FORT WORTH",
         "state": "TX",
-        "postalCode": "76104-3324"
+        "postalCode": "76104-3902"
       },
       {
         "line": [
-          "648 E BUTLER ST"
+          "297 NW 25th St"
+        ],
+        "city": "GRAND PRAIRIE",
+        "state": "TX",
+        "postalCode": "75050-4804"
+      },
+      {
+        "line": [
+          "3424 W Interstate 20 Highway"
+        ],
+        "city": "ARLINGTON",
+        "state": "TX",
+        "postalCode": "76017-1898"
+      },
+      {
+        "line": [
+          "6201 Plaza Parkway"
         ],
         "city": "FORT WORTH",
         "state": "TX",
-        "postalCode": "76110-5523"
+        "postalCode": "76116-2012"
       },
       {
         "line": [
@@ -98,11 +130,27 @@
       },
       {
         "line": [
-          "3301 Matlock Rd"
+          "701 Saint Louis Ave"
         ],
-        "city": "ARLINGTON",
+        "city": "FORT WORTH",
         "state": "TX",
-        "postalCode": "76015-2908"
+        "postalCode": "76104-3324"
+      },
+      {
+        "line": [
+          "1771 Country Club Dr"
+        ],
+        "city": "MANSFIELD",
+        "state": "TX",
+        "postalCode": "76063-6607"
+      },
+      {
+        "line": [
+          "1257 Kilpatrick"
+        ],
+        "city": "CLEBURNE",
+        "state": "TX",
+        "postalCode": "76033-7421"
       },
       {
         "line": [
@@ -123,35 +171,11 @@
       },
       {
         "line": [
-          "8701 McCart Ave"
+          "2312 Michigan Court"
         ],
-        "city": "FORT WORTH",
+        "city": "Dalworthington Gardens",
         "state": "TX",
-        "postalCode": "76123-2386"
-      },
-      {
-        "line": [
-          "3501 Matlock Rd"
-        ],
-        "city": "ARLINGTON",
-        "state": "TX",
-        "postalCode": "76015-3604"
-      },
-      {
-        "line": [
-          "1771 Country Club Dr"
-        ],
-        "city": "MANSFIELD",
-        "state": "TX",
-        "postalCode": "76063-6607"
-      },
-      {
-        "line": [
-          "4400 LONG PRAIRIE RD"
-        ],
-        "city": "FLOWER MOUND",
-        "state": "TX",
-        "postalCode": "75028-1892"
+        "postalCode": "76016-5870"
       },
       {
         "line": [
@@ -163,14 +187,6 @@
       },
       {
         "line": [
-          "731 PLAZA BLVD"
-        ],
-        "city": "COPPELL",
-        "state": "TX",
-        "postalCode": "75019-6685"
-      },
-      {
-        "line": [
           "2600 W Pleasant Run Rd"
         ],
         "city": "LANCASTER",
@@ -179,12 +195,28 @@
       },
       {
         "line": [
-          "3600 Matlock Rd",
-          "Ste 104"
+          "8701 McCart Ave"
         ],
-        "city": "ARLINGTON",
+        "city": "FORT WORTH",
         "state": "TX",
-        "postalCode": "76015-3679"
+        "postalCode": "76123-2386"
+      },
+      {
+        "line": [
+          "4759 South Fwy",
+          "Ste B"
+        ],
+        "city": "FORT WORTH",
+        "state": "TX",
+        "postalCode": "76115-3655"
+      },
+      {
+        "line": [
+          "2698 S Hulen St"
+        ],
+        "city": "FORT WORTH",
+        "state": "TX",
+        "postalCode": "76109-5552"
       },
       {
         "line": [
@@ -193,38 +225,6 @@
         "city": "LEWISVILLE",
         "state": "TX",
         "postalCode": "75057-3629"
-      },
-      {
-        "line": [
-          "6201 Plaza Parkway"
-        ],
-        "city": "FORT WORTH",
-        "state": "TX",
-        "postalCode": "76116-2012"
-      },
-      {
-        "line": [
-          "2312 Michigan Court"
-        ],
-        "city": "Dalworthington Gardens",
-        "state": "TX",
-        "postalCode": "76016-5870"
-      },
-      {
-        "line": [
-          "297 NW 25th St"
-        ],
-        "city": "GRAND PRAIRIE",
-        "state": "TX",
-        "postalCode": "75050-4804"
-      },
-      {
-        "line": [
-          "6799 Granbury Rd"
-        ],
-        "city": "FORT WORTH",
-        "state": "TX",
-        "postalCode": "76133-4949"
       },
       {
         "line": [

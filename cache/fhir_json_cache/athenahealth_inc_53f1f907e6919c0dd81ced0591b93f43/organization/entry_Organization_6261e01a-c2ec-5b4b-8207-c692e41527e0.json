@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447630538"
+        "value": "1891155974"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,14 +22,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891155974"
+        "value": "1003139387"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003139387"
+        "value": "1447630538"
       }
     ],
     "address": [
+      {
+        "line": [
+          "Primary Care and Diabetes Associates"
+        ],
+        "city": "LAKE HAVASU CITY",
+        "state": "AZ",
+        "postalCode": "86403-5681"
+      },
       {
         "line": [
           "1851 Mesquite Ave"
@@ -42,14 +50,6 @@
         "line": [
           "1851 Mesquite Ave",
           "Ste 202"
-        ],
-        "city": "LAKE HAVASU CITY",
-        "state": "AZ",
-        "postalCode": "86403-5681"
-      },
-      {
-        "line": [
-          "Primary Care and Diabetes Associates"
         ],
         "city": "LAKE HAVASU CITY",
         "state": "AZ",

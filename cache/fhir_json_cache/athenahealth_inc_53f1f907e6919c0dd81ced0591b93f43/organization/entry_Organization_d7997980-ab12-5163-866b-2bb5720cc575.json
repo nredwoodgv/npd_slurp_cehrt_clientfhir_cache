@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245975135"
+        "value": "1376297119"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376297119"
+        "value": "1245975135"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,22 +26,6 @@
       }
     ],
     "address": [
-      {
-        "line": [
-          "154 Hansen Access Rd"
-        ],
-        "city": "KING OF PRUSSIA",
-        "state": "PA",
-        "postalCode": "19406-2402"
-      },
-      {
-        "line": [
-          "35 W 35th Street, FL 6th"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10001-2205"
-      },
       {
         "line": [
           "35 W 35th Street",
@@ -53,11 +37,11 @@
       },
       {
         "line": [
-          "55 LANE RD STE 300"
+          "35 W 35th Street, FL 6th"
         ],
-        "city": "FAIRFIELD",
-        "state": "NJ",
-        "postalCode": "07004-1015"
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10001-2205"
       },
       {
         "line": [
@@ -66,6 +50,22 @@
         "city": "NASHVILLE",
         "state": "TN",
         "postalCode": "37210-4703"
+      },
+      {
+        "line": [
+          "55 LANE RD STE 300"
+        ],
+        "city": "FAIRFIELD",
+        "state": "NJ",
+        "postalCode": "07004-1015"
+      },
+      {
+        "line": [
+          "154 Hansen Access Rd"
+        ],
+        "city": "KING OF PRUSSIA",
+        "state": "PA",
+        "postalCode": "19406-2402"
       }
     ],
     "extension": [

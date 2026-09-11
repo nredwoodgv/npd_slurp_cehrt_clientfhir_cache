@@ -5,13 +5,13 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.1509"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1609280635"
       },
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.2400"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144228446"
       }
     ],
     "name": "Lakeland Regional Health Systems, Inc.",

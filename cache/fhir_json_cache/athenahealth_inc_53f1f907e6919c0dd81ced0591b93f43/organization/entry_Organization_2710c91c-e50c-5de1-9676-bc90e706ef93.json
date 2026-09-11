@@ -14,21 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457491789"
+        "value": "1558868141"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558868141"
+        "value": "1457491789"
       }
     ],
     "address": [
       {
         "line": [
-          "330 MOUNT AUBURN STREET"
+          "21 Main Street",
+          "Suite 2A"
         ],
-        "city": "CAMBRIDGE",
+        "city": "NORTH READING",
         "state": "MA",
-        "postalCode": "02138-5502"
+        "postalCode": "01864-5001"
       },
       {
         "line": [
@@ -40,12 +41,11 @@
       },
       {
         "line": [
-          "21 Main Street",
-          "Suite 2A"
+          "330 MOUNT AUBURN STREET"
         ],
-        "city": "NORTH READING",
+        "city": "CAMBRIDGE",
         "state": "MA",
-        "postalCode": "01864-5001"
+        "postalCode": "02138-5502"
       }
     ],
     "extension": [

@@ -5,8 +5,13 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.779"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1184679482"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1043270564"
       }
     ],
     "name": "Navicent Health",

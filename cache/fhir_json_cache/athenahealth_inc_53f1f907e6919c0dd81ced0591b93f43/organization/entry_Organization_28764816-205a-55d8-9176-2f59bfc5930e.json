@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417457250"
+        "value": "1417476920"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417476920"
+        "value": "1518194166"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518194166"
+        "value": "1417457250"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -40,20 +40,28 @@
     "address": [
       {
         "line": [
-          "1717 HARPER ROAD",
-          "Second Floor Suite A"
-        ],
-        "city": "BECKLEY",
-        "state": "WV",
-        "postalCode": "25801-3373"
-      },
-      {
-        "line": [
           "1710 HARPER ROAD"
         ],
         "city": "BECKLEY",
         "state": "WV",
         "postalCode": "25801-3357"
+      },
+      {
+        "line": [
+          "1600 Industrial Park Rd"
+        ],
+        "city": "BEAVER",
+        "state": "WV",
+        "postalCode": "25813-1717"
+      },
+      {
+        "line": [
+          "1717 Harper Rd",
+          "3rd FL Ste A & B"
+        ],
+        "city": "BECKLEY",
+        "state": "WV",
+        "postalCode": "25801-1717"
       },
       {
         "line": [
@@ -74,11 +82,12 @@
       },
       {
         "line": [
-          "1600 Industrial Park Rd"
+          "1717 HARPER ROAD",
+          "Second Floor Suite A"
         ],
-        "city": "BEAVER",
+        "city": "BECKLEY",
         "state": "WV",
-        "postalCode": "25813-1717"
+        "postalCode": "25801-3373"
       }
     ],
     "extension": [

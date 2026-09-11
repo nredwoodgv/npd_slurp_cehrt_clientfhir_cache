@@ -18,15 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326099763"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1144271586"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043261498"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306363007"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,15 +30,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588180475"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1619928165"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326099763"
+        "value": "1619494366"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619494366"
+        "value": "1043261498"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,13 +54,13 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588180475"
+        "value": "1306363007"
       }
     ],
     "address": [
       {
         "line": [
-          "1000 W MORENO ST"
+          "1000 W Moreno St"
         ],
         "city": "PENSACOLA",
         "state": "FL",
@@ -68,7 +68,7 @@
       },
       {
         "line": [
-          "1000 W Moreno St"
+          "1000 W MORENO ST"
         ],
         "city": "PENSACOLA",
         "state": "FL",
@@ -92,6 +92,14 @@
       },
       {
         "line": [
+          "1717 North \"E\" Street"
+        ],
+        "city": "PENSACOLA",
+        "state": "FL",
+        "postalCode": "32501-2347"
+      },
+      {
+        "line": [
           "1000 WEST MORENO STREET"
         ],
         "city": "PENSACOLA",
@@ -101,14 +109,6 @@
       {
         "line": [
           "1000 W Moreno Street"
-        ],
-        "city": "PENSACOLA",
-        "state": "FL",
-        "postalCode": "32501-2347"
-      },
-      {
-        "line": [
-          "1717 North \"E\" Street"
         ],
         "city": "PENSACOLA",
         "state": "FL",

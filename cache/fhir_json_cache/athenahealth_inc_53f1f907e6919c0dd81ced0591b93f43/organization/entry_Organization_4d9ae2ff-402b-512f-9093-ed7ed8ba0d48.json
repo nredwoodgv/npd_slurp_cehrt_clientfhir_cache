@@ -14,10 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316154958"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1295776243"
       }
     ],
     "address": [
+      {
+        "line": [
+          "401 Corbett Street",
+          "STE 330"
+        ],
+        "city": "CLEARWATER",
+        "state": "FL",
+        "postalCode": "33756-1679"
+      },
       {
         "line": [
           "401 CORBETT ST",

@@ -3,8 +3,8 @@
     "resourceType": "Endpoint",
     "id": "ADV227591",
     "meta": {
-      "versionId": "62",
-      "lastUpdated": "2026-07-08T12:00:01.911+00:00"
+      "versionId": "81",
+      "lastUpdated": "2026-08-02T12:00:21.071+00:00"
     },
     "extension": [
       {
@@ -16,7 +16,7 @@
         "valueString": "2.59.3"
       }
     ],
-    "status": "active",
+    "status": "error",
     "connectionType": {
       "system": "http://terminology.hl7.org/CodeSystem/endpoint-connection-type",
       "code": "hl7-fhir-rest"

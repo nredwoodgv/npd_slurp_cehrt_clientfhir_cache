@@ -30,11 +30,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861629156"
+        "value": "1457456279"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1902901333"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861629156"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -98,11 +102,15 @@
       },
       {
         "system": "phone",
-        "value": "(973)450-2000"
+        "value": "(973)322-5200"
       },
       {
         "system": "phone",
-        "value": "(973)322-5200"
+        "value": "(551)996-2000"
+      },
+      {
+        "system": "phone",
+        "value": "(973)450-2000"
       },
       {
         "system": "phone",
@@ -176,22 +184,44 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1 Clara Maass Drive"
+          "94 Old Short Hills Road"
         ],
-        "city": "Belleville",
+        "city": "Livingston",
         "state": "NJ",
-        "postalCode": "07109",
+        "postalCode": "07039",
         "country": "USA"
       },
       {
         "use": "work",
         "type": "postal",
         "line": [
-          "94 Old Short Hills Road"
+          "30 Prospect Avenue"
         ],
-        "city": "Livingston",
+        "city": "Hackensack",
         "state": "NJ",
-        "postalCode": "07039",
+        "postalCode": "07601",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "30 Prospect Avenue"
+        ],
+        "city": "Hackensack",
+        "state": "NJ",
+        "postalCode": "07601",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1 Clara Maass Drive"
+        ],
+        "city": "Belleville",
+        "state": "NJ",
+        "postalCode": "07109",
         "country": "USA"
       },
       {

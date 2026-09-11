@@ -5,11 +5,11 @@
     "identifier": [
       {
         "system": "urn:ietf:rfc:3986",
-        "value": "urn:uuid:b33dc41d-9295-4a90-b3fc-81bec18f743e"
+        "value": "urn:uuid:4828feef-fe1f-4a90-9700-3cb7bc622a25"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "cf1166cc-68b2-41dc-84fe-cfb970a9a6de"
+        "value": "93f2ad12-20d3-40df-8ea1-f040362961d0"
       }
     ],
     "active": true,
@@ -41,7 +41,8 @@
       {
         "use": "work",
         "line": [
-          "2150 Lake Road"
+          "2150 Lake Road",
+          "1234 Lake  Road"
         ],
         "city": "Delray Beach",
         "state": "FL",

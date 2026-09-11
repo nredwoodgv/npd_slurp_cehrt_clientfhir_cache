@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457746661"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295868008"
+        "value": "1972634889"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,11 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417023904"
+        "value": "1568414373"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972634889"
+        "value": "1295868008"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,15 +34,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104868892"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1144251059"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568414373"
+        "value": "1457746661"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104868892"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417023904"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -60,7 +60,7 @@
     "address": [
       {
         "line": [
-          "189 Prouty Drive"
+          "Patient's Place of Residence"
         ],
         "city": "NEWPORT",
         "state": "VT",
@@ -68,11 +68,11 @@
       },
       {
         "line": [
-          "2853 US Route 5"
+          "25 Bel-Aire Drive"
         ],
-        "city": "DERBY",
+        "city": "NEWPORT",
         "state": "VT",
-        "postalCode": "05829-9833"
+        "postalCode": "05855-9326"
       },
       {
         "line": [
@@ -84,22 +84,6 @@
       },
       {
         "line": [
-          "149 Prouty Drive"
-        ],
-        "city": "NEWPORT",
-        "state": "VT",
-        "postalCode": "05855-9326"
-      },
-      {
-        "line": [
-          "60 Maple Lane"
-        ],
-        "city": "BARTON",
-        "state": "VT",
-        "postalCode": "05822-8637"
-      },
-      {
-        "line": [
           "Outside Facility"
         ],
         "city": "NEWPORT",
@@ -108,15 +92,23 @@
       },
       {
         "line": [
-          "3086 Glover Street"
+          "149 Prouty Drive"
         ],
-        "city": "GLOVER",
+        "city": "NEWPORT",
         "state": "VT",
-        "postalCode": "05839-9701"
+        "postalCode": "05855-9326"
       },
       {
         "line": [
-          "25 Bel-Aire Drive"
+          "189 Prouty Drive"
+        ],
+        "city": "NEWPORT",
+        "state": "VT",
+        "postalCode": "05855-9326"
+      },
+      {
+        "line": [
+          "180 Prouty Drive"
         ],
         "city": "NEWPORT",
         "state": "VT",
@@ -132,19 +124,27 @@
       },
       {
         "line": [
-          "Patient's Place of Residence"
+          "60 Maple Lane"
         ],
-        "city": "NEWPORT",
+        "city": "BARTON",
         "state": "VT",
-        "postalCode": "05855-9326"
+        "postalCode": "05822-8637"
       },
       {
         "line": [
-          "180 Prouty Drive"
+          "2853 US Route 5"
         ],
-        "city": "NEWPORT",
+        "city": "DERBY",
         "state": "VT",
-        "postalCode": "05855-9326"
+        "postalCode": "05829-9833"
+      },
+      {
+        "line": [
+          "3086 Glover Street"
+        ],
+        "city": "GLOVER",
+        "state": "VT",
+        "postalCode": "05839-9701"
       }
     ],
     "extension": [

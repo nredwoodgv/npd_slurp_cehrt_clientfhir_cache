@@ -14,22 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821349317"
+        "value": "1629398219"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629398219"
+        "value": "1821349317"
       }
     ],
     "address": [
       {
         "line": [
-          "70 EAST STREET",
-          "1ST FLOOR CANCER MGMT BUILDING"
+          "1 PEARL STREET, SUITE 1800"
         ],
-        "city": "METHUEN",
+        "city": "BROCKTON",
         "state": "MA",
-        "postalCode": "01844-4597"
+        "postalCode": "02301-2867"
       },
       {
         "line": [
@@ -41,19 +40,20 @@
       },
       {
         "line": [
+          "70 EAST STREET",
+          "1ST FLOOR CANCER MGMT BUILDING"
+        ],
+        "city": "METHUEN",
+        "state": "MA",
+        "postalCode": "01844-4597"
+      },
+      {
+        "line": [
           "736 CAMBRIDGE STREET"
         ],
         "city": "BRIGHTON",
         "state": "MA",
         "postalCode": "02135-2907"
-      },
-      {
-        "line": [
-          "1 PEARL STREET, SUITE 1800"
-        ],
-        "city": "BROCKTON",
-        "state": "MA",
-        "postalCode": "02301-2867"
       }
     ],
     "extension": [

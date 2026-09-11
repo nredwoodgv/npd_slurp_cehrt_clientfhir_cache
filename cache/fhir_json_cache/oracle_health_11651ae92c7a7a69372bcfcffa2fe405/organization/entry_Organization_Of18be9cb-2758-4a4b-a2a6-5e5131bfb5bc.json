@@ -5,8 +5,18 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.8996"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1184844185"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720169048"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457420218"
       }
     ],
     "name": "Douglas, Grant, Lincoln & Okanogan Counties Public Hospital District #6 d/b/a Coulee Medical Center",

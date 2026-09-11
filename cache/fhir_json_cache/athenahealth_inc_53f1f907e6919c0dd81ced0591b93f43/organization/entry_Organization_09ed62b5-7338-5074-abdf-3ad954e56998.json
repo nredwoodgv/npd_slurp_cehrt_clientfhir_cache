@@ -14,14 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396798302"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881981033"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1437194669"
       },
       {
@@ -30,7 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881981033"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1598929135"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396798302"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -40,11 +40,11 @@
     "address": [
       {
         "line": [
-          "77 Belinda Pkwy Ste 202"
+          "108 Providence Trl, Ste 201"
         ],
         "city": "MOUNT JULIET",
         "state": "TN",
-        "postalCode": "37122-4399"
+        "postalCode": "37122-6578"
       }
     ],
     "extension": [

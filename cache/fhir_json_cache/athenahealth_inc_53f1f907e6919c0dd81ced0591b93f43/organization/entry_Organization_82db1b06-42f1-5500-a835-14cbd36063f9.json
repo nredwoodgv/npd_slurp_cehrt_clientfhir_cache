@@ -18,6 +18,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124012935"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235435892"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861958274"
       },
       {
@@ -27,14 +35,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1699134882"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235435892"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124012935"
       }
     ],
     "address": [
@@ -45,14 +45,6 @@
         "city": "GREENVILLE",
         "state": "TX",
         "postalCode": "75401-7852"
-      },
-      {
-        "line": [
-          "2800 STATE HIGHWAY 24 STE A"
-        ],
-        "city": "COMMERCE",
-        "state": "TX",
-        "postalCode": "75428-2017"
       },
       {
         "line": [
@@ -68,7 +60,15 @@
         ],
         "city": "GREENVILLE",
         "state": "TX",
-        "postalCode": "75401-6010"
+        "postalCode": "75401-7852"
+      },
+      {
+        "line": [
+          "2800 STATE HIGHWAY 24 STE A"
+        ],
+        "city": "COMMERCE",
+        "state": "TX",
+        "postalCode": "75428-2017"
       },
       {
         "line": [
@@ -76,7 +76,7 @@
         ],
         "city": "GREENVILLE",
         "state": "TX",
-        "postalCode": "75401-7852"
+        "postalCode": "75401-6010"
       }
     ],
     "extension": [

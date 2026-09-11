@@ -18,6 +18,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1508240482"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730532003"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376884692"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1265071765"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1740368877"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1821176934"
       },
       {
@@ -26,31 +46,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730532003"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962004093"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508240482"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1144782632"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174976492"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740368877"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265071765"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,31 +54,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376884692"
+        "value": "1962004093"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174976492"
       }
     ],
     "address": [
       {
         "line": [
           "1661 AIRPORT RD STE D"
-        ],
-        "city": "HOT SPRINGS NATIONAL PARK",
-        "state": "AR",
-        "postalCode": "71913-8184"
-      },
-      {
-        "line": [
-          "2268 HIGHWAY 8 E",
-          "RM 200"
-        ],
-        "city": "NORMAN",
-        "state": "AR",
-        "postalCode": "71960-8508"
-      },
-      {
-        "line": [
-          "1661 Airport Road",
-          "SUITE F"
         ],
         "city": "HOT SPRINGS NATIONAL PARK",
         "state": "AR",
@@ -103,6 +85,32 @@
         "city": "AMITY",
         "state": "AR",
         "postalCode": "71921-8562"
+      },
+      {
+        "line": [
+          "507 MOUNTAIN VIEW RD"
+        ],
+        "city": "GLENWOOD",
+        "state": "AR",
+        "postalCode": "71943-9147"
+      },
+      {
+        "line": [
+          "1661 Airport Road",
+          "SUITE F"
+        ],
+        "city": "HOT SPRINGS NATIONAL PARK",
+        "state": "AR",
+        "postalCode": "71913-8184"
+      },
+      {
+        "line": [
+          "2268 HIGHWAY 8 E",
+          "RM 200"
+        ],
+        "city": "NORMAN",
+        "state": "AR",
+        "postalCode": "71960-8508"
       }
     ],
     "extension": [

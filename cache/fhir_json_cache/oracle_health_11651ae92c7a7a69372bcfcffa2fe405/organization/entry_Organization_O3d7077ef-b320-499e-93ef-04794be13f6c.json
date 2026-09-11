@@ -5,8 +5,18 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.1056"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1407886385"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104856095"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1477584993"
       }
     ],
     "name": "Tenet HealthSystem Medical",

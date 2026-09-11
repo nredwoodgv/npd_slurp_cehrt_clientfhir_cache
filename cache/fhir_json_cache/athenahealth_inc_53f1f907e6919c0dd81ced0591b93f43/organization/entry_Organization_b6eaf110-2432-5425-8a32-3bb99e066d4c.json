@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619517521"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1013312594"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1437536521"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619517521"
       }
     ],
     "address": [
@@ -36,22 +36,6 @@
       },
       {
         "line": [
-          "1011 RANCHO CONEJO BLVD"
-        ],
-        "city": "NEWBURY PARK",
-        "state": "CA",
-        "postalCode": "91320-1718"
-      },
-      {
-        "line": [
-          "2975 SYCAMORE DR"
-        ],
-        "city": "SIMI VALLEY",
-        "state": "CA",
-        "postalCode": "93065-1201"
-      },
-      {
-        "line": [
           "9003 RESEDA BLVD STE 110"
         ],
         "city": "NORTHRIDGE",
@@ -60,11 +44,20 @@
       },
       {
         "line": [
-          "400 CAMARILLO RANCH RD STE 101"
+          "1510 E MAIN ST",
+          "STE 103"
         ],
-        "city": "CAMARILLO",
+        "city": "SANTA MARIA",
         "state": "CA",
-        "postalCode": "93012-5901"
+        "postalCode": "93454-4826"
+      },
+      {
+        "line": [
+          "1011 RANCHO CONEJO BLVD"
+        ],
+        "city": "NEWBURY PARK",
+        "state": "CA",
+        "postalCode": "91320-1718"
       },
       {
         "line": [
@@ -85,11 +78,36 @@
       },
       {
         "line": [
+          "2975 SYCAMORE DR"
+        ],
+        "city": "SIMI VALLEY",
+        "state": "CA",
+        "postalCode": "93065-1201"
+      },
+      {
+        "line": [
           "674 COUNTY SQUARE DR STE 105"
         ],
         "city": "VENTURA",
         "state": "CA",
         "postalCode": "93003-9014"
+      },
+      {
+        "line": [
+          "862 AEROVISTA PL",
+          "STE 210"
+        ],
+        "city": "SAN LUIS OBISPO",
+        "state": "CA",
+        "postalCode": "93401-8759"
+      },
+      {
+        "line": [
+          "400 CAMARILLO RANCH RD STE 101"
+        ],
+        "city": "CAMARILLO",
+        "state": "CA",
+        "postalCode": "93012-5901"
       }
     ],
     "extension": [

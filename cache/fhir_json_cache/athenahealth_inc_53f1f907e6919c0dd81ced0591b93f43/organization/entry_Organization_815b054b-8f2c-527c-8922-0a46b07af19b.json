@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144250176"
+        "value": "1144409194"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,37 +22,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780225326"
+        "value": "1144250176"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144409194"
+        "value": "1780225326"
       }
     ],
     "address": [
       {
         "line": [
-          "900 Caton Avenue"
-        ],
-        "city": "Baltimore",
-        "state": "MD",
-        "postalCode": "21229-5201"
-      },
-      {
-        "line": [
-          "4502 Park Heights Ave"
-        ],
-        "city": "Baltimore",
-        "state": "MD",
-        "postalCode": "21215-6330"
-      },
-      {
-        "line": [
-          "3407 Wilkens Ave Suite 300"
+          "3701 Eldorado Ave"
         ],
         "city": "BALTIMORE",
         "state": "MD",
-        "postalCode": "21229-5222"
+        "postalCode": "21207-7658"
       },
       {
         "line": [
@@ -64,11 +48,11 @@
       },
       {
         "line": [
-          "3701 Eldorado Ave"
+          "900 Caton Avenue"
         ],
-        "city": "BALTIMORE",
+        "city": "Baltimore",
         "state": "MD",
-        "postalCode": "21207-7658"
+        "postalCode": "21229-5201"
       },
       {
         "line": [
@@ -86,6 +70,22 @@
         "city": "BALTIMORE",
         "state": "MD",
         "postalCode": "21229-1811"
+      },
+      {
+        "line": [
+          "4502 Park Heights Ave"
+        ],
+        "city": "Baltimore",
+        "state": "MD",
+        "postalCode": "21215-6330"
+      },
+      {
+        "line": [
+          "3407 Wilkens Ave Suite 300"
+        ],
+        "city": "BALTIMORE",
+        "state": "MD",
+        "postalCode": "21229-5222"
       }
     ],
     "extension": [

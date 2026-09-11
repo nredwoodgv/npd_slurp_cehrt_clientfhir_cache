@@ -14,19 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285614834"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1407194319"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942508379"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437557519"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,29 +22,33 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1942508379"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962752998"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285614834"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1154794261"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437557519"
       }
     ],
     "address": [
       {
         "line": [
-          "386 Washington Street"
+          "201 Boston Post Rd. West"
         ],
-        "city": "WELLESLEY HILLS",
+        "city": "MARLBOROUGH",
         "state": "MA",
-        "postalCode": "02481-6213"
-      },
-      {
-        "line": [
-          "133 Littleton Road"
-        ],
-        "city": "WESTFORD",
-        "state": "MA",
-        "postalCode": "01886-3115"
+        "postalCode": "01752-3200"
       },
       {
         "line": [
@@ -76,11 +68,19 @@
       },
       {
         "line": [
-          "201 Boston Post Rd. West"
+          "386 Washington Street"
         ],
-        "city": "MARLBOROUGH",
+        "city": "WELLESLEY HILLS",
         "state": "MA",
-        "postalCode": "01752-3200"
+        "postalCode": "02481-6213"
+      },
+      {
+        "line": [
+          "133 Littleton Road"
+        ],
+        "city": "WESTFORD",
+        "state": "MA",
+        "postalCode": "01886-3115"
       }
     ],
     "extension": [

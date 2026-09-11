@@ -14,37 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568858686"
+        "value": "1942254347"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942254347"
+        "value": "1568858686"
       }
     ],
     "address": [
       {
         "line": [
-          "29 MERIDAN ROAD"
-        ],
-        "city": "EDISON",
-        "state": "NJ",
-        "postalCode": "08820-2823"
-      },
-      {
-        "line": [
-          "1529 North Broad Street"
-        ],
-        "city": "HILLSIDE",
-        "state": "NJ",
-        "postalCode": "07205-1603"
-      },
-      {
-        "line": [
-          "1200 RANDOLPH ROAD"
+          "1260 US HIGHWAY 22"
         ],
         "city": "PLAINFIELD",
         "state": "NJ",
-        "postalCode": "07060-3361"
+        "postalCode": "07060-3518"
       },
       {
         "line": [
@@ -56,19 +40,11 @@
       },
       {
         "line": [
-          "1260 US HIGHWAY 22"
+          "375 Mount Pleasant"
         ],
-        "city": "PLAINFIELD",
+        "city": "WEST ORANGE",
         "state": "NJ",
-        "postalCode": "07060-3518"
-      },
-      {
-        "line": [
-          "900 Lanidex Plaza"
-        ],
-        "city": "PARSIPPANY",
-        "state": "NJ",
-        "postalCode": "07054-2707"
+        "postalCode": "07052-2750"
       },
       {
         "line": [
@@ -80,22 +56,6 @@
       },
       {
         "line": [
-          "434-436 Broadway"
-        ],
-        "city": "BAYONNE",
-        "state": "NJ",
-        "postalCode": "07002-3628"
-      },
-      {
-        "line": [
-          "25 E Willow Street Suite 2"
-        ],
-        "city": "MILLBURN",
-        "state": "NJ",
-        "postalCode": "07041-1416"
-      },
-      {
-        "line": [
           "100 Madison Ave"
         ],
         "city": "MORRISTOWN",
@@ -104,19 +64,27 @@
       },
       {
         "line": [
-          "175 Righter Road"
+          "1200 RANDOLPH ROAD"
         ],
-        "city": "SUCCASUNNA",
+        "city": "PLAINFIELD",
         "state": "NJ",
-        "postalCode": "07876-1324"
+        "postalCode": "07060-3361"
       },
       {
         "line": [
-          "1139 SPRUCE DRIVE"
+          "29 MERIDAN ROAD"
         ],
-        "city": "MOUNTAINSIDE",
+        "city": "EDISON",
         "state": "NJ",
-        "postalCode": "07092-2221"
+        "postalCode": "08820-2823"
+      },
+      {
+        "line": [
+          "434-436 Broadway"
+        ],
+        "city": "BAYONNE",
+        "state": "NJ",
+        "postalCode": "07002-3628"
       },
       {
         "line": [
@@ -128,6 +96,14 @@
       },
       {
         "line": [
+          "900 Lanidex Plaza"
+        ],
+        "city": "PARSIPPANY",
+        "state": "NJ",
+        "postalCode": "07054-2707"
+      },
+      {
+        "line": [
           "241 Durham Ave"
         ],
         "city": "SOUTH PLAINFIELD",
@@ -136,11 +112,35 @@
       },
       {
         "line": [
-          "375 Mount Pleasant"
+          "25 E Willow Street Suite 2"
         ],
-        "city": "WEST ORANGE",
+        "city": "MILLBURN",
         "state": "NJ",
-        "postalCode": "07052-2750"
+        "postalCode": "07041-1416"
+      },
+      {
+        "line": [
+          "1139 SPRUCE DRIVE"
+        ],
+        "city": "MOUNTAINSIDE",
+        "state": "NJ",
+        "postalCode": "07092-2221"
+      },
+      {
+        "line": [
+          "1529 North Broad Street"
+        ],
+        "city": "HILLSIDE",
+        "state": "NJ",
+        "postalCode": "07205-1603"
+      },
+      {
+        "line": [
+          "175 Righter Road"
+        ],
+        "city": "SUCCASUNNA",
+        "state": "NJ",
+        "postalCode": "07876-1324"
       }
     ],
     "extension": [

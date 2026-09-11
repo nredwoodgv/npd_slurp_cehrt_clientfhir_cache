@@ -5,13 +5,28 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.1984"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013017839"
       },
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.787"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1265577191"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376644385"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1164530465"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1265465439"
       }
     ],
     "name": "Ascension Alexian Brothers Behavioral Health Hospital",

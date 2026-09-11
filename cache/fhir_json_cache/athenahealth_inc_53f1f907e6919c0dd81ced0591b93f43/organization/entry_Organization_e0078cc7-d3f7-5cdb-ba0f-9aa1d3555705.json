@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689890675"
+        "value": "1164714234"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164714234"
+        "value": "1689890675"
       }
     ],
     "address": [
@@ -29,14 +29,6 @@
         "city": "ERWIN",
         "state": "TN",
         "postalCode": "37650-9378"
-      },
-      {
-        "line": [
-          "880 South Mohawk Drive"
-        ],
-        "city": "ERWIN",
-        "state": "TN",
-        "postalCode": "37650-2125"
       },
       {
         "line": [
@@ -53,6 +45,14 @@
         "city": "ERWIN",
         "state": "TN",
         "postalCode": "37650-2177"
+      },
+      {
+        "line": [
+          "880 South Mohawk Drive"
+        ],
+        "city": "ERWIN",
+        "state": "TN",
+        "postalCode": "37650-2125"
       }
     ],
     "extension": [

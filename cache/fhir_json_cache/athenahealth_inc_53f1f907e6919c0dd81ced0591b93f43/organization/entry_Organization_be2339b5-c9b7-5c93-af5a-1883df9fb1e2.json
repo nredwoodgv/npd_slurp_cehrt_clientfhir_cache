@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841234671"
+        "value": "1063712701"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063712701"
+        "value": "1841234671"
       }
     ],
     "address": [
+      {
+        "line": [
+          "271 EAST MAIN ST"
+        ],
+        "city": "HAZARD",
+        "state": "KY",
+        "postalCode": "41701-1939"
+      },
       {
         "line": [
           "726 Highway 15 N",
@@ -30,14 +38,6 @@
         "city": "JACKSON",
         "state": "KY",
         "postalCode": "41339-8601"
-      },
-      {
-        "line": [
-          "271 EAST MAIN ST"
-        ],
-        "city": "HAZARD",
-        "state": "KY",
-        "postalCode": "41701-1939"
       }
     ],
     "extension": [

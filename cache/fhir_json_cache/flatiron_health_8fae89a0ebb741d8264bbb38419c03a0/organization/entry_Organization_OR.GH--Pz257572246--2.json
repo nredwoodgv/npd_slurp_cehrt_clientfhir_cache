@@ -26,11 +26,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1111111111"
+        "value": "1467800367"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467800367"
+        "value": "1111111111"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -194,10 +194,6 @@
       },
       {
         "system": "phone",
-        "value": "(555)867-5309"
-      },
-      {
-        "system": "phone",
         "value": "(732)431-8400"
       },
       {
@@ -278,6 +274,14 @@
       },
       {
         "system": "phone",
+        "value": "(555)867-5309"
+      },
+      {
+        "system": "phone",
+        "value": "(732)530-8666"
+      },
+      {
+        "system": "phone",
         "value": "(732)431-2000"
       },
       {
@@ -315,10 +319,6 @@
       {
         "system": "phone",
         "value": "(908)813-0790"
-      },
-      {
-        "system": "phone",
-        "value": "(732)530-8666"
       },
       {
         "system": "phone",
@@ -696,17 +696,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "123 Main St."
-        ],
-        "city": "New Brunswick",
-        "state": "NJ",
-        "postalCode": "08088",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "Corporate Office"
         ],
         "city": "Freehold",
@@ -1053,6 +1042,29 @@
         "use": "work",
         "type": "postal",
         "line": [
+          "123 Main St."
+        ],
+        "city": "New Brunswick",
+        "state": "NJ",
+        "postalCode": "08088",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "180 White Road",
+          "Suite 101"
+        ],
+        "city": "Little Silver",
+        "state": "NJ",
+        "postalCode": "07739",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
           "5454 Wisconsin Avenue Suite 1300"
         ],
         "city": "Chevy Chase",
@@ -1272,18 +1284,6 @@
         "city": "Cape May Court House",
         "state": "NJ",
         "postalCode": "08210",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "180 White Road",
-          "Suite 101"
-        ],
-        "city": "Little Silver",
-        "state": "NJ",
-        "postalCode": "07739",
         "country": "USA"
       },
       {

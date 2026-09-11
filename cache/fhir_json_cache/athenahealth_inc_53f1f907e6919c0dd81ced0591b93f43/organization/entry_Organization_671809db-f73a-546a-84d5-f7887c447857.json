@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538630827"
+        "value": "1508041427"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508041427"
+        "value": "1538630827"
       }
     ],
     "address": [
-      {
-        "line": [
-          "30 GLENNIE ST"
-        ],
-        "city": "WORCESTER",
-        "state": "MA",
-        "postalCode": "01605-3924"
-      },
       {
         "line": [
           "148 chestnut street"
@@ -42,49 +34,25 @@
         "line": [
           "736 CAMBRIDGE ST"
         ],
-        "city": "BOSTON",
-        "state": "MA",
-        "postalCode": "02135-2907"
-      },
-      {
-        "line": [
-          "49 PEARL ST."
-        ],
-        "city": "BROCKTON",
-        "state": "MA",
-        "postalCode": "02301-2878"
-      },
-      {
-        "line": [
-          "923 HYDE PARK AVE"
-        ],
-        "city": "HYDE PARK",
-        "state": "MA",
-        "postalCode": "02136-3371"
-      },
-      {
-        "line": [
-          "736 CAMBRIDGE ST"
-        ],
         "city": "BRIGHTON",
         "state": "MA",
         "postalCode": "02135-2907"
       },
       {
         "line": [
-          "840 Winter Street"
+          "71 BORDER RD"
         ],
         "city": "WALTHAM",
         "state": "MA",
-        "postalCode": "02451-1433"
+        "postalCode": "02451-1037"
       },
       {
         "line": [
-          "49 Pearl Street"
+          "736 CAMBRIDGE ST"
         ],
-        "city": "BROCKTON",
+        "city": "BOSTON",
         "state": "MA",
-        "postalCode": "02301-2817"
+        "postalCode": "02135-2907"
       },
       {
         "line": [
@@ -96,12 +64,44 @@
       },
       {
         "line": [
+          "49 Pearl Street"
+        ],
+        "city": "BROCKTON",
+        "state": "MA",
+        "postalCode": "02301-2817"
+      },
+      {
+        "line": [
+          "49 PEARL ST."
+        ],
+        "city": "BROCKTON",
+        "state": "MA",
+        "postalCode": "02301-2878"
+      },
+      {
+        "line": [
           "71 BORDER RD",
           "STE 101"
         ],
         "city": "WALTHAM",
         "state": "MA",
         "postalCode": "02451-1044"
+      },
+      {
+        "line": [
+          "30 GLENNIE ST"
+        ],
+        "city": "WORCESTER",
+        "state": "MA",
+        "postalCode": "01605-3924"
+      },
+      {
+        "line": [
+          "923 HYDE PARK AVE"
+        ],
+        "city": "HYDE PARK",
+        "state": "MA",
+        "postalCode": "02136-3371"
       }
     ],
     "extension": [

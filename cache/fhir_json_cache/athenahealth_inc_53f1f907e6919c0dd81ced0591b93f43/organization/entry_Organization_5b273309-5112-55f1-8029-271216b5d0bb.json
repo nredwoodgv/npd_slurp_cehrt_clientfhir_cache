@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902043433"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1437194669"
       },
       {
@@ -26,11 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033294673"
+        "value": "1881981033"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881981033"
+        "value": "1902043433"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033294673"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -40,7 +40,23 @@
     "address": [
       {
         "line": [
-          "300 Steam Plant Rd, Ste 470"
+          "110 St Blaise Road"
+        ],
+        "city": "Gallatin",
+        "state": "TN",
+        "postalCode": "37066-4426"
+      },
+      {
+        "line": [
+          "300 STREAM PLANT RD, STE 300"
+        ],
+        "city": "GALLATIN",
+        "state": "TN",
+        "postalCode": "37066-3089"
+      },
+      {
+        "line": [
+          "300 Steam Plant Rd, Ste 300"
         ],
         "city": "GALLATIN",
         "state": "TN",
@@ -64,23 +80,7 @@
       },
       {
         "line": [
-          "300 Steam Plant Rd, Ste 300"
-        ],
-        "city": "GALLATIN",
-        "state": "TN",
-        "postalCode": "37066-3089"
-      },
-      {
-        "line": [
-          "110 St Blaise Road"
-        ],
-        "city": "Gallatin",
-        "state": "TN",
-        "postalCode": "37066-4426"
-      },
-      {
-        "line": [
-          "300 STREAM PLANT RD, STE 300"
+          "300 Steam Plant Rd, Ste 470"
         ],
         "city": "GALLATIN",
         "state": "TN",

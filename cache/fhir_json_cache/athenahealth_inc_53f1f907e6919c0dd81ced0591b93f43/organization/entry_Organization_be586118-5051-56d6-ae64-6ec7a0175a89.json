@@ -14,23 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407518780"
+        "value": "1326434440"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952993065"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801526009"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336738350"
+        "value": "1427668169"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1598357600"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1972192987"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1407518780"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,51 +42,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326434440"
+        "value": "1336738350"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427668169"
+        "value": "1952993065"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972192987"
+        "value": "1801526009"
       }
     ],
     "address": [
       {
         "line": [
-          "470 NOOR AVE",
-          "Suite B. #1057"
+          "188 VALLEY STREET",
+          "SUITE 201"
         ],
-        "city": "SOUTH SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94080-5957"
+        "city": "PROVIDENCE",
+        "state": "RI",
+        "postalCode": "02909-2458"
       },
       {
         "line": [
-          "6112 N Mesa Street #6092"
+          "6 LIBERTY SQUARE #2694"
         ],
-        "city": "EL PASO",
-        "state": "TX",
-        "postalCode": "79912-4516"
-      },
-      {
-        "line": [
-          "101 N 1st Ave"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85003-1902"
-      },
-      {
-        "line": [
-          "613 Washington Blvd",
-          "#1151"
-        ],
-        "city": "JERSEY CITY",
-        "state": "NJ",
-        "postalCode": "07310-2900"
+        "city": "BOSTON",
+        "state": "MA",
+        "postalCode": "02109-5800"
       },
       {
         "line": [
@@ -95,6 +78,23 @@
         "city": "DOUGLAS",
         "state": "GA",
         "postalCode": "31533-5254"
+      },
+      {
+        "line": [
+          "1500 CHESTNUT ST # 2420"
+        ],
+        "city": "PHILADELPHIA",
+        "state": "PA",
+        "postalCode": "19102-2737"
+      },
+      {
+        "line": [
+          "470 NOOR AVE",
+          "Suite B. #1057"
+        ],
+        "city": "SOUTH SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94080-5957"
       },
       {
         "line": [
@@ -115,28 +115,28 @@
       },
       {
         "line": [
-          "188 VALLEY STREET",
-          "SUITE 201"
+          "613 Washington Blvd",
+          "#1151"
         ],
-        "city": "PROVIDENCE",
-        "state": "RI",
-        "postalCode": "02909-2458"
+        "city": "JERSEY CITY",
+        "state": "NJ",
+        "postalCode": "07310-2900"
       },
       {
         "line": [
-          "6 LIBERTY SQUARE #2694"
+          "6112 N Mesa Street #6092"
         ],
-        "city": "BOSTON",
-        "state": "MA",
-        "postalCode": "02109-5800"
+        "city": "EL PASO",
+        "state": "TX",
+        "postalCode": "79912-4516"
       },
       {
         "line": [
-          "1500 CHESTNUT ST # 2420"
+          "101 N 1st Ave"
         ],
-        "city": "PHILADELPHIA",
-        "state": "PA",
-        "postalCode": "19102-2737"
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85003-1902"
       }
     ],
     "extension": [

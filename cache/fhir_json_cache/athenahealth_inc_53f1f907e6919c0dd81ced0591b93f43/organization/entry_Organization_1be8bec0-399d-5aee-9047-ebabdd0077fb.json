@@ -22,11 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073615456"
+        "value": "1548211311"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548211311"
+        "value": "1073615456"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -48,7 +48,7 @@
         ],
         "city": "COLUMBUS",
         "state": "OH",
-        "postalCode": "43213-1502"
+        "postalCode": "43213-1503"
       },
       {
         "line": [
@@ -68,6 +68,22 @@
       },
       {
         "line": [
+          "6001 E. Broad Street"
+        ],
+        "city": "COLUMBUS",
+        "state": "OH",
+        "postalCode": "43213-1504"
+      },
+      {
+        "line": [
+          "6001 E. Broad Street"
+        ],
+        "city": "COLUMBUS",
+        "state": "OH",
+        "postalCode": "43213-1502"
+      },
+      {
+        "line": [
           "6001 East Broad Street"
         ],
         "city": "COLUMBUS",
@@ -84,27 +100,11 @@
       },
       {
         "line": [
-          "6001 E. Broad Street"
-        ],
-        "city": "COLUMBUS",
-        "state": "OH",
-        "postalCode": "43213-1504"
-      },
-      {
-        "line": [
           "6001 E Broad Street"
         ],
         "city": "COLUMBUS",
         "state": "OH",
         "postalCode": "43213-5120"
-      },
-      {
-        "line": [
-          "6001 E. Broad Street"
-        ],
-        "city": "COLUMBUS",
-        "state": "OH",
-        "postalCode": "43213-1503"
       }
     ],
     "extension": [

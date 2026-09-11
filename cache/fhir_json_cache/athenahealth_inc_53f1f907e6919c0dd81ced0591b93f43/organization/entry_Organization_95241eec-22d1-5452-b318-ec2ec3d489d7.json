@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629398219"
+        "value": "1821349317"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821349317"
+        "value": "1629398219"
       }
     ],
     "address": [
       {
         "line": [
-          "101 STATION DR"
+          "60 East Street"
         ],
-        "city": "WESTWOOD",
+        "city": "METHUEN",
         "state": "MA",
-        "postalCode": "02090-2391"
+        "postalCode": "01844-4500"
       },
       {
         "line": [
@@ -48,11 +48,19 @@
       },
       {
         "line": [
-          "60 East Street"
+          "101 STATION DR"
         ],
-        "city": "METHUEN",
+        "city": "WESTWOOD",
         "state": "MA",
-        "postalCode": "01844-4500"
+        "postalCode": "02090-2391"
+      },
+      {
+        "line": [
+          "736 CAMBRIDGE ST"
+        ],
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2907"
       },
       {
         "line": [
@@ -64,14 +72,6 @@
       },
       {
         "line": [],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2907"
-      },
-      {
-        "line": [
-          "736 CAMBRIDGE ST"
-        ],
         "city": "BRIGHTON",
         "state": "MA",
         "postalCode": "02135-2907"

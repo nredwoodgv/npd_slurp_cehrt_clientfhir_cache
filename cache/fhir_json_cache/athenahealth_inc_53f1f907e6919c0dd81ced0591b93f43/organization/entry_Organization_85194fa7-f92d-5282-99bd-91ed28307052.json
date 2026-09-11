@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568846962"
+        "value": "1356910426"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356910426"
+        "value": "1922761600"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,26 +26,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922761600"
+        "value": "1568846962"
       }
     ],
     "address": [
-      {
-        "line": [
-          "128 N BENT"
-        ],
-        "city": "POWELL",
-        "state": "WY",
-        "postalCode": "82435-2712"
-      },
-      {
-        "line": [
-          "126 N. Bent St"
-        ],
-        "city": "POWELL",
-        "state": "WY",
-        "postalCode": "82435-2712"
-      },
       {
         "line": [
           "229 E Main St"
@@ -53,6 +37,22 @@
         "city": "LOVELL",
         "state": "WY",
         "postalCode": "82431-2101"
+      },
+      {
+        "line": [
+          "444 Greybull Ave"
+        ],
+        "city": "GREYBULL",
+        "state": "WY",
+        "postalCode": "82426-2037"
+      },
+      {
+        "line": [
+          "128 N BENT"
+        ],
+        "city": "POWELL",
+        "state": "WY",
+        "postalCode": "82435-2712"
       },
       {
         "line": [
@@ -65,11 +65,11 @@
       },
       {
         "line": [
-          "444 Greybull Ave"
+          "126 N. Bent St"
         ],
-        "city": "GREYBULL",
+        "city": "POWELL",
         "state": "WY",
-        "postalCode": "82426-2037"
+        "postalCode": "82435-2712"
       }
     ],
     "extension": [

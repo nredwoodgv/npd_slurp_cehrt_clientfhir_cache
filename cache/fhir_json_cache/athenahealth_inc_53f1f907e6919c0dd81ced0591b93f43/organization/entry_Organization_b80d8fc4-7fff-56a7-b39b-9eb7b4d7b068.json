@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013346113"
+        "value": "1205265303"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,10 +22,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205265303"
+        "value": "1013346113"
       }
     ],
     "address": [
+      {
+        "line": [
+          "6801 AIRPORT BOULEVARD"
+        ],
+        "city": "MOBILE",
+        "state": "AL",
+        "postalCode": "36608-3709"
+      },
       {
         "line": [
           "6701 Airport Blvd AT06",
@@ -34,14 +42,6 @@
         "city": "Mobile",
         "state": "AL",
         "postalCode": "36608-3796"
-      },
-      {
-        "line": [
-          "6801 AIRPORT BOULEVARD"
-        ],
-        "city": "MOBILE",
-        "state": "AL",
-        "postalCode": "36608-3709"
       }
     ],
     "extension": [

@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447524392"
+        "value": "1598958431"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598958431"
+        "value": "1447524392"
       }
     ],
     "address": [
       {
         "line": [
-          "4920 NE Stallings Dr"
+          "1201 W Frank Ave"
         ],
-        "city": "NACOGDOCHES",
+        "city": "LUFKIN",
         "state": "TX",
-        "postalCode": "75965-1254"
+        "postalCode": "75904-3357"
       },
       {
         "line": [
@@ -40,27 +40,11 @@
       },
       {
         "line": [
-          "501 Timpson St"
-        ],
-        "city": "CENTER",
-        "state": "TX",
-        "postalCode": "75935-3439"
-      },
-      {
-        "line": [
           "17580 I-45 South"
         ],
         "city": "The Woodlands",
         "state": "TX",
         "postalCode": "77384-0001"
-      },
-      {
-        "line": [
-          "1201 W Frank Ave"
-        ],
-        "city": "LUFKIN",
-        "state": "TX",
-        "postalCode": "75904-3357"
       },
       {
         "line": [
@@ -72,27 +56,19 @@
       },
       {
         "line": [
-          "501 Timpson St"
-        ],
-        "city": "CHESTER",
-        "state": "TX",
-        "postalCode": "75936-3439"
-      },
-      {
-        "line": [
-          "280 Moffet Drive"
-        ],
-        "city": "CENTER",
-        "state": "TX",
-        "postalCode": "75935-8520"
-      },
-      {
-        "line": [
-          "1204 N MOUND ST"
+          "712 Hayter Street"
         ],
         "city": "NACOGDOCHES",
         "state": "TX",
-        "postalCode": "75961-4027"
+        "postalCode": "75965-1111"
+      },
+      {
+        "line": [
+          "4920 NE Stallings Dr"
+        ],
+        "city": "NACOGDOCHES",
+        "state": "TX",
+        "postalCode": "75965-1254"
       },
       {
         "line": [
@@ -104,6 +80,14 @@
       },
       {
         "line": [
+          "501 Timpson St"
+        ],
+        "city": "CENTER",
+        "state": "TX",
+        "postalCode": "75935-3439"
+      },
+      {
+        "line": [
           "1020 North St."
         ],
         "city": "NACOGDOCHES",
@@ -112,11 +96,27 @@
       },
       {
         "line": [
-          "712 Hayter Street"
+          "280 Moffet Drive"
+        ],
+        "city": "CENTER",
+        "state": "TX",
+        "postalCode": "75935-8520"
+      },
+      {
+        "line": [
+          "501 Timpson St"
+        ],
+        "city": "CHESTER",
+        "state": "TX",
+        "postalCode": "75936-3439"
+      },
+      {
+        "line": [
+          "1204 N MOUND ST"
         ],
         "city": "NACOGDOCHES",
         "state": "TX",
-        "postalCode": "75965-1111"
+        "postalCode": "75961-4027"
       }
     ],
     "extension": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093263501"
+        "value": "1831782614"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831782614"
+        "value": "1093263501"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,6 +26,30 @@
       }
     ],
     "address": [
+      {
+        "line": [
+          "734 W COMMERCE ST"
+        ],
+        "city": "FAIRFIELD",
+        "state": "TX",
+        "postalCode": "75840-1428"
+      },
+      {
+        "line": [
+          "884 Hwy 84"
+        ],
+        "city": "TEAGUE",
+        "state": "TX",
+        "postalCode": "75860-5142"
+      },
+      {
+        "line": [
+          "125 Newman Street"
+        ],
+        "city": "FAIRFIELD",
+        "state": "TX",
+        "postalCode": "75840-1419"
+      },
       {
         "line": [
           "103 Teakwood Road"
@@ -44,22 +68,6 @@
       },
       {
         "line": [
-          "604 Main Street"
-        ],
-        "city": "TEAGUE",
-        "state": "TX",
-        "postalCode": "75860-1628"
-      },
-      {
-        "line": [
-          "734 W COMMERCE ST"
-        ],
-        "city": "FAIRFIELD",
-        "state": "TX",
-        "postalCode": "75840-1428"
-      },
-      {
-        "line": [
           "601 East Reunion Street"
         ],
         "city": "FAIRFIELD",
@@ -68,19 +76,11 @@
       },
       {
         "line": [
-          "125 Newman Street"
-        ],
-        "city": "FAIRFIELD",
-        "state": "TX",
-        "postalCode": "75840-1419"
-      },
-      {
-        "line": [
-          "884 Hwy 84"
+          "604 Main Street"
         ],
         "city": "TEAGUE",
         "state": "TX",
-        "postalCode": "75860-5142"
+        "postalCode": "75860-1628"
       }
     ],
     "extension": [

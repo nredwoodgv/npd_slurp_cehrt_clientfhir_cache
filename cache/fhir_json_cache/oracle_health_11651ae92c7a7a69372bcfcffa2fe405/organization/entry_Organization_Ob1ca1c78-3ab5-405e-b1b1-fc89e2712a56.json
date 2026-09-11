@@ -5,8 +5,13 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.4689"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1518253194"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245526961"
       }
     ],
     "name": "Swisher Memorial Hospital",

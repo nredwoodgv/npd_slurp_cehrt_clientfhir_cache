@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821349317"
+        "value": "1629398219"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629398219"
+        "value": "1821349317"
       }
     ],
     "address": [
@@ -29,14 +29,6 @@
         "city": "HAVERHILL",
         "state": "MA",
         "postalCode": "01832-2527"
-      },
-      {
-        "line": [
-          "172 LAWRENCE STREET"
-        ],
-        "city": "LAWRENCE",
-        "state": "MA",
-        "postalCode": "01841-3849"
       },
       {
         "line": [
@@ -53,6 +45,14 @@
         "city": "METHUEN",
         "state": "MA",
         "postalCode": "01844-4020"
+      },
+      {
+        "line": [
+          "172 LAWRENCE STREET"
+        ],
+        "city": "LAWRENCE",
+        "state": "MA",
+        "postalCode": "01841-3849"
       }
     ],
     "extension": [

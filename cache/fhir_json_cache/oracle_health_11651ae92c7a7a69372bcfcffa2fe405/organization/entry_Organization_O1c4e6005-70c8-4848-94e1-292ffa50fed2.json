@@ -5,13 +5,28 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.7122"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1679926992"
       },
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.14"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386401560"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154324952"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1508931940"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1558717827"
       }
     ],
     "name": "Liberty Dayton Regional Medical Center",

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871439414"
+        "value": "1699171611"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699171611"
+        "value": "1871439414"
       }
     ],
     "address": [
@@ -29,14 +29,6 @@
         "city": "MOUNT VERNON",
         "state": "TX",
         "postalCode": "75457-3607"
-      },
-      {
-        "line": [
-          "502 MEADOW PARK"
-        ],
-        "city": "MOUNT VERNON",
-        "state": "TX",
-        "postalCode": "75457-0600"
       },
       {
         "line": [
@@ -53,6 +45,14 @@
         "city": "WINNSBORO",
         "state": "TX",
         "postalCode": "75494-3125"
+      },
+      {
+        "line": [
+          "502 MEADOW PARK"
+        ],
+        "city": "MOUNT VERNON",
+        "state": "TX",
+        "postalCode": "75457-0600"
       }
     ],
     "extension": [

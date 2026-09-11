@@ -14,42 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861082117"
+        "value": "1487126124"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487126124"
+        "value": "1861082117"
       }
     ],
     "address": [
       {
         "line": [
-          "509 N Sable Blvd"
-        ],
-        "city": "AURORA",
-        "state": "CO",
-        "postalCode": "80011-0801"
-      },
-      {
-        "line": [
-          "750 W Hampden Ave",
-          "Suite 110"
-        ],
-        "city": "ENGLEWOOD",
-        "state": "CO",
-        "postalCode": "80110-2165"
-      },
-      {
-        "line": [
-          "755 S Colorado Blvd"
-        ],
-        "city": "DENVER",
-        "state": "CO",
-        "postalCode": "80246-8005"
-      },
-      {
-        "line": [
-          "4352 Trail Boss Drive"
+          "4348 Woodlands Blvd",
+          "Suite 131"
         ],
         "city": "CASTLE ROCK",
         "state": "CO",
@@ -65,48 +41,21 @@
       },
       {
         "line": [
-          "4348 Woodlands Blvd",
-          "Suite 131"
-        ],
-        "city": "CASTLE ROCK",
-        "state": "CO",
-        "postalCode": "80104-2814"
-      },
-      {
-        "line": [
-          "1750 Pierce Street",
-          "Suite C"
+          "4600 Hale Pkwy",
+          "Suite 120"
         ],
         "city": "DENVER",
         "state": "CO",
-        "postalCode": "80214-1434"
+        "postalCode": "80220-4020"
       },
       {
         "line": [
-          "730 SUMMIT BLVD",
-          "SUITE 101"
-        ],
-        "city": "FRISCO",
-        "state": "CO",
-        "postalCode": "80443-4250"
-      },
-      {
-        "line": [
-          "1057 S Wadsworth Blvd",
-          "Suite 100"
-        ],
-        "city": "DENVER",
-        "state": "CO",
-        "postalCode": "80226-4361"
-      },
-      {
-        "line": [
-          "9777 South Yosemite Street",
+          "750 W Hampden Ave",
           "Suite 110"
         ],
-        "city": "LONE TREE",
+        "city": "ENGLEWOOD",
         "state": "CO",
-        "postalCode": "80124-3191"
+        "postalCode": "80110-2165"
       },
       {
         "line": [
@@ -119,6 +68,15 @@
       },
       {
         "line": [
+          "1057 S Wadsworth Blvd",
+          "Suite 100"
+        ],
+        "city": "DENVER",
+        "state": "CO",
+        "postalCode": "80226-4361"
+      },
+      {
+        "line": [
           "18320 Cottonwood Dr",
           "Suite C"
         ],
@@ -128,12 +86,11 @@
       },
       {
         "line": [
-          "1444 South Potomac st",
-          "SUITE 215"
+          "1411 S Potomac Street"
         ],
         "city": "AURORA",
         "state": "CO",
-        "postalCode": "80012-4508"
+        "postalCode": "80012-4536"
       },
       {
         "line": [
@@ -146,12 +103,21 @@
       },
       {
         "line": [
-          "4600 Hale Pkwy",
-          "Suite 120"
+          "1750 Pierce Street",
+          "Suite C"
         ],
         "city": "DENVER",
         "state": "CO",
-        "postalCode": "80220-4020"
+        "postalCode": "80214-1434"
+      },
+      {
+        "line": [
+          "1421 S POTOMAC ST",
+          "STE 240"
+        ],
+        "city": "AURORA",
+        "state": "CO",
+        "postalCode": "80012-4512"
       },
       {
         "line": [
@@ -164,20 +130,46 @@
       },
       {
         "line": [
-          "1411 S Potomac Street"
+          "7465 E 1st Ave",
+          "Suite A"
         ],
-        "city": "AURORA",
+        "city": "DENVER",
         "state": "CO",
-        "postalCode": "80012-4536"
+        "postalCode": "80230-6877"
       },
       {
         "line": [
-          "8601 W Cross Drive",
-          "Unit C-2"
+          "9777 South Yosemite Street",
+          "Suite 110"
         ],
-        "city": "LITTLETON",
+        "city": "LONE TREE",
         "state": "CO",
-        "postalCode": "80123-0702"
+        "postalCode": "80124-3191"
+      },
+      {
+        "line": [
+          "755 S Colorado Blvd"
+        ],
+        "city": "DENVER",
+        "state": "CO",
+        "postalCode": "80246-8005"
+      },
+      {
+        "line": [
+          "730 SUMMIT BLVD",
+          "SUITE 101"
+        ],
+        "city": "FRISCO",
+        "state": "CO",
+        "postalCode": "80443-4250"
+      },
+      {
+        "line": [
+          "509 N Sable Blvd"
+        ],
+        "city": "AURORA",
+        "state": "CO",
+        "postalCode": "80011-0801"
       },
       {
         "line": [
@@ -190,12 +182,20 @@
       },
       {
         "line": [
-          "7465 E 1st Ave",
-          "Suite A"
+          "8601 W Cross Drive",
+          "Unit C-2"
         ],
-        "city": "DENVER",
+        "city": "LITTLETON",
         "state": "CO",
-        "postalCode": "80230-6877"
+        "postalCode": "80123-0702"
+      },
+      {
+        "line": [
+          "4352 Trail Boss Drive"
+        ],
+        "city": "CASTLE ROCK",
+        "state": "CO",
+        "postalCode": "80104-2814"
       }
     ],
     "extension": [

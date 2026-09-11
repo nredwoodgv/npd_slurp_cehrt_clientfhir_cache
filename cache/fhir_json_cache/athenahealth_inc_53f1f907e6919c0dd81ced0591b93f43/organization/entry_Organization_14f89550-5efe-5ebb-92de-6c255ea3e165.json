@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952816225"
+        "value": "1851806079"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487869467"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,25 +26,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1851806079"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1881109007"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487869467"
+        "value": "1952816225"
       }
     ],
     "address": [
       {
         "line": [
-          "2613 S MONROE ST"
+          "872 West Orange Avenue"
         ],
         "city": "TALLAHASSEE",
         "state": "FL",
-        "postalCode": "32301-6308"
+        "postalCode": "32310-6123"
       },
       {
         "line": [
@@ -52,11 +52,11 @@
       },
       {
         "line": [
-          "604 East 5th Avenue"
+          "872 W Orange Ave"
         ],
-        "city": "HAVANA",
+        "city": "TALLAHASSEE",
         "state": "FL",
-        "postalCode": "32333-1442"
+        "postalCode": "32310-6123"
       },
       {
         "line": [
@@ -68,11 +68,11 @@
       },
       {
         "line": [
-          "872 W Orange Ave"
+          "2295 Pasco Street"
         ],
         "city": "TALLAHASSEE",
         "state": "FL",
-        "postalCode": "32310-6123"
+        "postalCode": "32310-0908"
       },
       {
         "line": [
@@ -84,19 +84,19 @@
       },
       {
         "line": [
-          "2295 Pasco Street"
+          "2613 S MONROE ST"
         ],
         "city": "TALLAHASSEE",
         "state": "FL",
-        "postalCode": "32310-0908"
+        "postalCode": "32301-6308"
       },
       {
         "line": [
-          "872 West Orange Avenue"
+          "604 East 5th Avenue"
         ],
-        "city": "TALLAHASSEE",
+        "city": "HAVANA",
         "state": "FL",
-        "postalCode": "32310-6123"
+        "postalCode": "32333-1442"
       }
     ],
     "extension": [

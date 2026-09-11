@@ -14,26 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114809241"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1275975104"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1811230741"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114809241"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1310 W Stewart Drive Suite 508"
-        ],
-        "city": "ORANGE",
-        "state": "CA",
-        "postalCode": "92868-3856"
-      },
       {
         "line": [
           "4980 BARRANCA PKWY Suite 220"
@@ -57,6 +49,14 @@
         "city": "ORANGE",
         "state": "CA",
         "postalCode": "92868-4505"
+      },
+      {
+        "line": [
+          "1310 W Stewart Drive Suite 508"
+        ],
+        "city": "ORANGE",
+        "state": "CA",
+        "postalCode": "92868-3856"
       }
     ],
     "extension": [

@@ -5,7 +5,7 @@
     "identifier": [
       {
         "system": "http://fhir.developer.allscripts.com/systems/Pro/identifier",
-        "value": "10030532"
+        "value": "56362"
       }
     ],
     "active": true,
@@ -22,6 +22,9 @@
       }
     ],
     "endpoint": [
+      {
+        "reference": "Endpoint/8e49d8c0-6a35-461c-a3b0-df91efc7946f"
+      },
       {
         "reference": "Endpoint/46e89f58-ec20-4bc7-b13e-e66048658289"
       }

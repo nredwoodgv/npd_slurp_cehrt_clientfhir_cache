@@ -14,19 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275290694"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1588997233"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730412388"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629538491"
+        "value": "1275290694"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -35,77 +27,24 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962025148"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629538491"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730412388"
       }
     ],
     "address": [
       {
         "line": [
-          "201 University Oaks Blvd",
-          "Suite 1260"
+          "1909 SW HK Dodgen loop"
         ],
-        "city": "ROUND ROCK",
-        "state": "TX",
-        "postalCode": "78665-2437"
-      },
-      {
-        "line": [
-          "800 W Central TX Expressway",
-          "STE 155"
-        ],
-        "city": "HARKER HEIGHTS",
-        "state": "TX",
-        "postalCode": "76548-1995"
-      },
-      {
-        "line": [
-          "5103 Kyle Center Drive Suite 108"
-        ],
-        "city": "KYLE",
-        "state": "TX",
-        "postalCode": "78640-6164"
-      },
-      {
-        "line": [
-          "5103 Kyle Center Dr",
-          "STE 108"
-        ],
-        "city": "KYLE",
-        "state": "TX",
-        "postalCode": "78640-6164"
-      },
-      {
-        "line": [
-          "1101 Wolf Lake Dr",
-          "STE 100"
-        ],
-        "city": "GEORGETOWN",
-        "state": "TX",
-        "postalCode": "78628-3778"
-      },
-      {
-        "line": [
-          "1905 SW H K  Dodgen Loop"
-        ],
-        "city": "TEMPLE",
+        "city": "Temple",
         "state": "TX",
         "postalCode": "76502-1814"
-      },
-      {
-        "line": [
-          "1004 W 32nd St  Ste 110"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78705-1915"
-      },
-      {
-        "line": [
-          "1101 Wolf Lake Dr",
-          "STE 225"
-        ],
-        "city": "GEORGETOWN",
-        "state": "TX",
-        "postalCode": "78628-3778"
       },
       {
         "line": [
@@ -118,6 +57,57 @@
       },
       {
         "line": [
+          "1101 Wolf Lake Dr",
+          "STE 100"
+        ],
+        "city": "GEORGETOWN",
+        "state": "TX",
+        "postalCode": "78628-3778"
+      },
+      {
+        "line": [
+          "1004 W 32nd St  Ste 110"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78705-1915"
+      },
+      {
+        "line": [
+          "1905 SW H K  Dodgen Loop"
+        ],
+        "city": "TEMPLE",
+        "state": "TX",
+        "postalCode": "76502-1814"
+      },
+      {
+        "line": [
+          "1101 Wolf Lake Dr",
+          "STE 225"
+        ],
+        "city": "GEORGETOWN",
+        "state": "TX",
+        "postalCode": "78628-3778"
+      },
+      {
+        "line": [
+          "201 University Oaks Blvd",
+          "Suite 1260"
+        ],
+        "city": "ROUND ROCK",
+        "state": "TX",
+        "postalCode": "78665-2437"
+      },
+      {
+        "line": [
+          "5103 Kyle Center Drive Suite 108"
+        ],
+        "city": "KYLE",
+        "state": "TX",
+        "postalCode": "78640-6164"
+      },
+      {
+        "line": [
           "11111 Research Blvd",
           "Suite 210"
         ],
@@ -127,11 +117,21 @@
       },
       {
         "line": [
-          "1909 SW HK Dodgen loop"
+          "800 W Central TX Expressway",
+          "STE 155"
         ],
-        "city": "Temple",
+        "city": "HARKER HEIGHTS",
         "state": "TX",
-        "postalCode": "76502-1814"
+        "postalCode": "76548-1995"
+      },
+      {
+        "line": [
+          "5103 Kyle Center Dr",
+          "STE 108"
+        ],
+        "city": "KYLE",
+        "state": "TX",
+        "postalCode": "78640-6164"
       }
     ],
     "extension": [

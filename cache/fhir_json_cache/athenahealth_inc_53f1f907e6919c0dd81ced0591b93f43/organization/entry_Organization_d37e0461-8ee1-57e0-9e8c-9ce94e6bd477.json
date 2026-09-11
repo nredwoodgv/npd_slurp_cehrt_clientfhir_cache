@@ -14,21 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861072647"
+        "value": "1124739313"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124739313"
+        "value": "1861072647"
       }
     ],
     "address": [
       {
         "line": [
-          "400 E ROYAL LN STE 290 BLDG 3"
+          "611 GATEWAY BLVD",
+          "STE 120 SOUTH"
         ],
-        "city": "IRVING",
-        "state": "TX",
-        "postalCode": "75039-3602"
+        "city": "SOUTH SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94080-7017"
       },
       {
         "line": [
@@ -40,12 +41,11 @@
       },
       {
         "line": [
-          "611 GATEWAY BLVD",
-          "STE 120 SOUTH"
+          "400 E ROYAL LN STE 290 BLDG 3"
         ],
-        "city": "SOUTH SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94080-7017"
+        "city": "IRVING",
+        "state": "TX",
+        "postalCode": "75039-3602"
       }
     ],
     "extension": [

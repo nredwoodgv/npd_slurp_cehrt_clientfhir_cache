@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316485410"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417495516"
       },
       {
@@ -22,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508305293"
+        "value": "1215476908"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205375953"
+        "value": "1508305293"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,26 +42,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215476908"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316485410"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1184163883"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1205375953"
       }
     ],
     "address": [
-      {
-        "line": [
-          "855 EAST ST"
-        ],
-        "city": "PITTSBORO",
-        "state": "NC",
-        "postalCode": "27312-5655"
-      },
       {
         "line": [
           "1139 CARTHAGE ST STE 110B"
@@ -65,6 +57,14 @@
         "city": "SANFORD",
         "state": "NC",
         "postalCode": "27330-4111"
+      },
+      {
+        "line": [
+          "855 EAST ST"
+        ],
+        "city": "PITTSBORO",
+        "state": "NC",
+        "postalCode": "27312-5655"
       }
     ],
     "extension": [

@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780638478"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528782042"
+        "value": "1992752224"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992752224"
+        "value": "1780638478"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528782042"
       }
     ],
     "address": [
@@ -34,7 +34,7 @@
         "line": [
           "1100 E Lincolnshire Blvd"
         ],
-        "city": "SPRINGFIELD",
+        "city": "Springfield",
         "state": "IL",
         "postalCode": "62703-5950"
       },
@@ -42,7 +42,7 @@
         "line": [
           "1100 E Lincolnshire Blvd"
         ],
-        "city": "Springfield",
+        "city": "SPRINGFIELD",
         "state": "IL",
         "postalCode": "62703-5950"
       }

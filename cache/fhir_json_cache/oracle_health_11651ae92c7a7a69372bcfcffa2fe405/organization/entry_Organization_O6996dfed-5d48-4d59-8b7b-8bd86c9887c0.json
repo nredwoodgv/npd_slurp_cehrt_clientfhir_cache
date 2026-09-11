@@ -5,18 +5,23 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.3180"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417979402"
       },
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.3178"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598784720"
       },
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.3179"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1194744326"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1770578999"
       }
     ],
     "name": "Southeast Georgia Health System Inc.",

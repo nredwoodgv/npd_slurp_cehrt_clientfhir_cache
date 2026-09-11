@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528785284"
+        "value": "1316663602"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316663602"
+        "value": "1528785284"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,43 +28,11 @@
     "address": [
       {
         "line": [
-          "1001 S 34th"
+          "1700 White St."
         ],
         "city": "MOUNT VERNON",
         "state": "IL",
-        "postalCode": "62864-6232"
-      },
-      {
-        "line": [
-          "1209 W ROBINSON ST"
-        ],
-        "city": "WAYNE CITY",
-        "state": "IL",
-        "postalCode": "62895-9672"
-      },
-      {
-        "line": [
-          "#5 Doctors Park"
-        ],
-        "city": "MOUNT VERNON",
-        "state": "IL",
-        "postalCode": "62864-6251"
-      },
-      {
-        "line": [
-          "600 New Fairfield Rd."
-        ],
-        "city": "MOUNT VERNON",
-        "state": "IL",
-        "postalCode": "62864-9998"
-      },
-      {
-        "line": [
-          "902 S Mcleansboro St"
-        ],
-        "city": "BENTON",
-        "state": "IL",
-        "postalCode": "62812-3413"
+        "postalCode": "62864-4349"
       },
       {
         "line": [
@@ -76,6 +44,30 @@
       },
       {
         "line": [
+          "902 S Mcleansboro St"
+        ],
+        "city": "BENTON",
+        "state": "IL",
+        "postalCode": "62812-3413"
+      },
+      {
+        "line": [
+          "1933 S. 42nd St."
+        ],
+        "city": "MOUNT VERNON",
+        "state": "IL",
+        "postalCode": "62864-6251"
+      },
+      {
+        "line": [
+          "1001 S 34th"
+        ],
+        "city": "MOUNT VERNON",
+        "state": "IL",
+        "postalCode": "62864-6232"
+      },
+      {
+        "line": [
           "208 Zachery Drive"
         ],
         "city": "MOUNT VERNON",
@@ -84,11 +76,11 @@
       },
       {
         "line": [
-          "1700 White St."
+          "#5 Doctors Park"
         ],
         "city": "MOUNT VERNON",
         "state": "IL",
-        "postalCode": "62864-4349"
+        "postalCode": "62864-6251"
       },
       {
         "line": [
@@ -108,11 +100,19 @@
       },
       {
         "line": [
-          "1933 S. 42nd St."
+          "600 New Fairfield Rd."
         ],
         "city": "MOUNT VERNON",
         "state": "IL",
-        "postalCode": "62864-6251"
+        "postalCode": "62864-9998"
+      },
+      {
+        "line": [
+          "1209 W ROBINSON ST"
+        ],
+        "city": "WAYNE CITY",
+        "state": "IL",
+        "postalCode": "62895-9672"
       }
     ],
     "extension": [

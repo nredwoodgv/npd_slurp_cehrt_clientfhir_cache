@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194320267"
+        "value": "1144797614"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144797614"
+        "value": "1194320267"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,6 +26,22 @@
       }
     ],
     "address": [
+      {
+        "line": [
+          "10532 N. Port Washington Rd, Ste 1A"
+        ],
+        "city": "Mequon",
+        "state": "WI",
+        "postalCode": "53092-5563"
+      },
+      {
+        "line": [
+          "2593 Development Dr, Ste 270"
+        ],
+        "city": "GREEN BAY",
+        "state": "WI",
+        "postalCode": "54311-4296"
+      },
       {
         "line": [
           "13000 Technology Drive"
@@ -38,25 +54,9 @@
         "line": [
           "10532 N. Port Washington Rd, Ste 1A"
         ],
-        "city": "Mequon",
-        "state": "WI",
-        "postalCode": "53092-5563"
-      },
-      {
-        "line": [
-          "10532 N. Port Washington Rd, Ste 1A"
-        ],
         "city": "MEQUON",
         "state": "WI",
         "postalCode": "53092-5563"
-      },
-      {
-        "line": [
-          "2593 Development Dr, Ste 270"
-        ],
-        "city": "GREEN BAY",
-        "state": "WI",
-        "postalCode": "54311-4296"
       },
       {
         "line": [

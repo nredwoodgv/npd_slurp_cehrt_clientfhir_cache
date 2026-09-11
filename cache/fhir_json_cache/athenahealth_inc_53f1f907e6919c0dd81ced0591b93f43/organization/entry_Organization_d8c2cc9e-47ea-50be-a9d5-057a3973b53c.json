@@ -14,19 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265705156"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396068318"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861765364"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083987978"
+        "value": "1396068318"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -41,6 +33,18 @@
         "value": "1255848719"
       },
       {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1265705156"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1083987978"
+      },
+      {
+        "system": "urn:oid:2.16.840.1.113883.4.7",
+        "value": "19D2001637"
+      },
+      {
         "system": "urn:oid:2.16.840.1.113883.4.7",
         "value": "19D2001634"
       },
@@ -51,10 +55,6 @@
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
         "value": "19D2001635"
-      },
-      {
-        "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "19D2001637"
       }
     ],
     "address": [
@@ -76,6 +76,14 @@
       },
       {
         "line": [
+          "8080 Bluebonnet Blvd."
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70810-7827"
+      },
+      {
+        "line": [
           "7145 Perkins Rd."
         ],
         "city": "BATON ROUGE",
@@ -84,7 +92,7 @@
       },
       {
         "line": [
-          "5000 hennessey blvd"
+          "5000 Hennessy Blvd."
         ],
         "city": "BATON ROUGE",
         "state": "LA",
@@ -100,15 +108,7 @@
       },
       {
         "line": [
-          "8080 Bluebonnet Blvd."
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70810-7827"
-      },
-      {
-        "line": [
-          "5000 Hennessy Blvd."
+          "5000 hennessey blvd"
         ],
         "city": "BATON ROUGE",
         "state": "LA",

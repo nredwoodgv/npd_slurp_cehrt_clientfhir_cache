@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487902995"
+        "value": "1730437245"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,25 +22,33 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073861431"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730437245"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215287362"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487902995"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073861431"
       }
     ],
     "address": [
       {
         "line": [
-          "500 Campus Drive"
+          "1721 S. Stephenson Ave."
         ],
-        "city": "HANCOCK",
+        "city": "IRON MOUNTAIN",
         "state": "MI",
-        "postalCode": "49930-1452"
+        "postalCode": "49801-3637"
+      },
+      {
+        "line": [
+          "N15995 MAIN ST"
+        ],
+        "city": "POWERS",
+        "state": "MI",
+        "postalCode": "49874-9608"
       },
       {
         "line": [
@@ -52,30 +60,6 @@
       },
       {
         "line": [
-          "18341 US 41"
-        ],
-        "city": "LANSE",
-        "state": "MI",
-        "postalCode": "49946-8024"
-      },
-      {
-        "line": [
-          "1721 S. Stephenson Ave."
-        ],
-        "city": "IRON MOUNTAIN",
-        "state": "MI",
-        "postalCode": "49801-3637"
-      },
-      {
-        "line": [
-          "1500 Sand Point Rd"
-        ],
-        "city": "MUNISING",
-        "state": "MI",
-        "postalCode": "49862-1406"
-      },
-      {
-        "line": [
           "7870 US 2"
         ],
         "city": "MANISTIQUE",
@@ -84,11 +68,27 @@
       },
       {
         "line": [
-          "N15995 MAIN ST"
+          "500 Campus Drive"
         ],
-        "city": "POWERS",
+        "city": "HANCOCK",
         "state": "MI",
-        "postalCode": "49874-9608"
+        "postalCode": "49930-1452"
+      },
+      {
+        "line": [
+          "18341 US 41"
+        ],
+        "city": "LANSE",
+        "state": "MI",
+        "postalCode": "49946-8024"
+      },
+      {
+        "line": [
+          "1500 Sand Point Rd"
+        ],
+        "city": "MUNISING",
+        "state": "MI",
+        "postalCode": "49862-1406"
       }
     ],
     "extension": [

@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902831514"
+        "value": "1114809241"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1275975104"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,21 +26,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114809241"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275975104"
+        "value": "1902831514"
       }
     ],
     "address": [
       {
         "line": [
-          "4980 Barranca Parkway Suite 220"
+          "555 S MAIN ST"
         ],
-        "city": "IRVINE",
+        "city": "ORANGE",
         "state": "CA",
-        "postalCode": "92604-8656"
+        "postalCode": "92868-4505"
+      },
+      {
+        "line": [
+          "1310 W STEWART DRIVE SUITE 508"
+        ],
+        "city": "ORANGE",
+        "state": "CA",
+        "postalCode": "92868-3856"
       },
       {
         "line": [
@@ -48,11 +56,11 @@
       },
       {
         "line": [
-          "1310 W STEWART DRIVE SUITE 508"
+          "4980 Barranca Parkway Suite 220"
         ],
-        "city": "ORANGE",
+        "city": "IRVINE",
         "state": "CA",
-        "postalCode": "92868-3856"
+        "postalCode": "92604-8656"
       }
     ],
     "extension": [

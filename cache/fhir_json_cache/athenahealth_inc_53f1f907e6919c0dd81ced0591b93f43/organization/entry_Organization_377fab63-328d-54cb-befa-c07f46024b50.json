@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801063441"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700062296"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336316975"
+        "value": "1487087078"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487087078"
+        "value": "1801063441"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336316975"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700062296"
       }
     ],
     "address": [
@@ -44,23 +44,15 @@
       },
       {
         "line": [
+          "440 S MAIN ST"
+        ],
+        "city": "RICHFIELD",
+        "state": "UT",
+        "postalCode": "84701-2855"
+      },
+      {
+        "line": [
           "376 N Paiute Drive"
-        ],
-        "city": "CEDAR CITY",
-        "state": "UT",
-        "postalCode": "84721-6181"
-      },
-      {
-        "line": [
-          "6109 W 3700 N"
-        ],
-        "city": "IVINS",
-        "state": "UT",
-        "postalCode": "84738-6663"
-      },
-      {
-        "line": [
-          "376 N PAIUTE DR"
         ],
         "city": "CEDAR CITY",
         "state": "UT",
@@ -73,22 +65,6 @@
         "city": "CEDAR CITY",
         "state": "UT",
         "postalCode": "84721-6181"
-      },
-      {
-        "line": [
-          "440 S Main"
-        ],
-        "city": "RICHFIELD",
-        "state": "UT",
-        "postalCode": "84701-2070"
-      },
-      {
-        "line": [
-          "157 North Reservation Drive"
-        ],
-        "city": "KANOSH",
-        "state": "UT",
-        "postalCode": "84637-0007"
       },
       {
         "line": [
@@ -109,11 +85,35 @@
       },
       {
         "line": [
-          "440 S MAIN ST"
+          "157 North Reservation Drive"
+        ],
+        "city": "KANOSH",
+        "state": "UT",
+        "postalCode": "84637-0007"
+      },
+      {
+        "line": [
+          "376 N PAIUTE DR"
+        ],
+        "city": "CEDAR CITY",
+        "state": "UT",
+        "postalCode": "84721-6181"
+      },
+      {
+        "line": [
+          "6109 W 3700 N"
+        ],
+        "city": "IVINS",
+        "state": "UT",
+        "postalCode": "84738-6663"
+      },
+      {
+        "line": [
+          "440 S Main"
         ],
         "city": "RICHFIELD",
         "state": "UT",
-        "postalCode": "84701-2855"
+        "postalCode": "84701-2070"
       }
     ],
     "extension": [

@@ -5,17 +5,17 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.9414"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821155284"
       }
     ],
     "name": "Mercy Medical Center - Des Moines",
     "address": [
       {
         "line": [
-          "1111 6th Ave"
+          "Non-GNR Dummy"
         ],
-        "city": "Des Moines",
+        "city": "Philipsburg",
         "state": "IA",
         "postalCode": "50314",
         "country": "United States of America"

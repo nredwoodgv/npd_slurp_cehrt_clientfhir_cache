@@ -5,18 +5,33 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.3176"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1851323257"
       },
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:1.3.6.1.4.1.56505"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902412950"
       },
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.5644"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1265558852"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1003933797"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1568553519"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689791360"
       }
     ],
     "name": "SILVER CROSS HOSPITAL",

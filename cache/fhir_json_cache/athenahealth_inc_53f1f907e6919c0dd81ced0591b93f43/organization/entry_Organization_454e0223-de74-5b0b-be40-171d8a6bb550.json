@@ -14,29 +14,45 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396732335"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932191822"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952336869"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396732335"
       }
     ],
     "address": [
       {
         "line": [
-          "778 Scroggins Drive"
+          "3333 Springhill Drive"
         ],
-        "city": "MONTICELLO",
+        "city": "NORTH LITTLE ROCK",
         "state": "AR",
-        "postalCode": "71655-5729"
+        "postalCode": "72117-2922"
+      },
+      {
+        "line": [
+          "800 Fair Park Blvd"
+        ],
+        "city": "LITTLE ROCK",
+        "state": "AR",
+        "postalCode": "72204-1720"
       },
       {
         "line": [
           "4202 South University Ave"
+        ],
+        "city": "LITTLE ROCK",
+        "state": "AR",
+        "postalCode": "72202-3500"
+      },
+      {
+        "line": [
+          "800 Marshall St"
         ],
         "city": "LITTLE ROCK",
         "state": "AR",
@@ -49,22 +65,6 @@
         "city": "LITTLE ROCK",
         "state": "AR",
         "postalCode": "72204-1720"
-      },
-      {
-        "line": [
-          "800 Fair Park Blvd"
-        ],
-        "city": "LITTLE ROCK",
-        "state": "AR",
-        "postalCode": "72204-1720"
-      },
-      {
-        "line": [
-          "3333 Springhill Drive"
-        ],
-        "city": "NORTH LITTLE ROCK",
-        "state": "AR",
-        "postalCode": "72117-2922"
       },
       {
         "line": [
@@ -84,11 +84,11 @@
       },
       {
         "line": [
-          "800 Marshall St"
+          "778 Scroggins Drive"
         ],
-        "city": "LITTLE ROCK",
+        "city": "MONTICELLO",
         "state": "AR",
-        "postalCode": "72202-3500"
+        "postalCode": "71655-5729"
       }
     ],
     "extension": [

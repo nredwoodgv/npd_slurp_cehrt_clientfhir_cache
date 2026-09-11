@@ -5,8 +5,13 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.3666"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1427295872"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588160774"
       }
     ],
     "name": "Cleveland Area Hospital Holdin",

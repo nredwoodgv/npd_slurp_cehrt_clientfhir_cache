@@ -14,11 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245964931"
+        "value": "1154012185"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154012185"
+        "value": "1821819665"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1942181276"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821819665"
+        "value": "1245964931"
       }
     ],
     "address": [
@@ -40,11 +44,11 @@
       },
       {
         "line": [
-          "411 E Vaughn Ave Suite 104"
+          "1745 BAILEY AVE"
         ],
-        "city": "RUSTON",
+        "city": "HAYNESVILLE",
         "state": "LA",
-        "postalCode": "71270-5975"
+        "postalCode": "71038-5411"
       },
       {
         "line": [
@@ -56,19 +60,19 @@
       },
       {
         "line": [
+          "6942 HIGHWAY 79"
+        ],
+        "city": "HOMER",
+        "state": "LA",
+        "postalCode": "71040-2023"
+      },
+      {
+        "line": [
           "1405 WHITE ST"
         ],
         "city": "RUSTON",
         "state": "LA",
         "postalCode": "71270-7213"
-      },
-      {
-        "line": [
-          "1745 BAILEY AVE"
-        ],
-        "city": "HAYNESVILLE",
-        "state": "LA",
-        "postalCode": "71038-5411"
       },
       {
         "line": [
@@ -80,19 +84,19 @@
       },
       {
         "line": [
-          "6942 HIGHWAY 79"
-        ],
-        "city": "HOMER",
-        "state": "LA",
-        "postalCode": "71040-2023"
-      },
-      {
-        "line": [
           "3720 HIGHWAY 80"
         ],
         "city": "RUSTON",
         "state": "LA",
         "postalCode": "71270-8943"
+      },
+      {
+        "line": [
+          "411 E Vaughn Ave Suite 104"
+        ],
+        "city": "RUSTON",
+        "state": "LA",
+        "postalCode": "71270-5975"
       }
     ],
     "extension": [

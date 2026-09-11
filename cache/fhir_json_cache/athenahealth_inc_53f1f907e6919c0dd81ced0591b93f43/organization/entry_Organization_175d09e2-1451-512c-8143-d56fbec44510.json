@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891933560"
+        "value": "1659316008"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,17 +22,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659316008"
+        "value": "1891933560"
       }
     ],
     "address": [
       {
         "line": [
-          "485 S. Dobson Road Suite 105"
+          "1501 North Gilbert Road",
+          "Suite 207"
         ],
-        "city": "CHANDLER",
+        "city": "GILBERT",
         "state": "AZ",
-        "postalCode": "85224-5603"
+        "postalCode": "85234-2390"
       },
       {
         "line": [
@@ -53,12 +54,11 @@
       },
       {
         "line": [
-          "1501 North Gilbert Road",
-          "Suite 207"
+          "485 S. Dobson Road Suite 105"
         ],
-        "city": "GILBERT",
+        "city": "CHANDLER",
         "state": "AZ",
-        "postalCode": "85234-2390"
+        "postalCode": "85224-5603"
       }
     ],
     "extension": [

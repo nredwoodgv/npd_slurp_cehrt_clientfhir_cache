@@ -14,27 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770778920"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285674572"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447474069"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417142662"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902991789"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457551533"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,7 +26,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447474069"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1194949701"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417142662"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902991789"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,18 +46,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457551533"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1770778920"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1033374244"
       }
     ],
     "address": [
-      {
-        "line": [
-          "104 Saluda Pointe Drive"
-        ],
-        "city": "LEXINGTON",
-        "state": "SC",
-        "postalCode": "29072-7295"
-      },
       {
         "line": [
           "14 Medical Park",
@@ -77,11 +69,11 @@
       },
       {
         "line": [
-          "741 Fashion Drive"
+          "104 Saluda Pointe Drive"
         ],
-        "city": "COLUMBIA",
+        "city": "LEXINGTON",
         "state": "SC",
-        "postalCode": "29229-7936"
+        "postalCode": "29072-7295"
       },
       {
         "line": [
@@ -91,6 +83,14 @@
         "city": "IRMO",
         "state": "SC",
         "postalCode": "29063-2871"
+      },
+      {
+        "line": [
+          "741 Fashion Drive"
+        ],
+        "city": "COLUMBIA",
+        "state": "SC",
+        "postalCode": "29229-7936"
       }
     ],
     "extension": [

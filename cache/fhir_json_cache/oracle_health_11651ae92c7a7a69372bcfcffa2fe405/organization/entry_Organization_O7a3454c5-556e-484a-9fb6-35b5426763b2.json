@@ -5,17 +5,52 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.7580"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1871720540"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104998624"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386749893"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1356435341"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1609960046"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316324403"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386028439"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1710924089"
       }
     ],
     "name": "Indiana Spine Group, P.C.",
     "address": [
       {
         "line": [
-          "13225 North Meridian Street"
+          "Non-GNR Dummy"
         ],
-        "city": "Carmel",
+        "city": "Philipsburg",
         "state": "IN",
         "postalCode": "46032",
         "country": "United States of America"

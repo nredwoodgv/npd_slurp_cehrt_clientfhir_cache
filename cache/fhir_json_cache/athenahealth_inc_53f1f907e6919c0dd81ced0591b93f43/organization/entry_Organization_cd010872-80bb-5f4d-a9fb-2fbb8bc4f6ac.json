@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609281641"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932925062"
+        "value": "1407962046"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,14 +22,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407962046"
+        "value": "1609281641"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1932925062"
       }
     ],
     "address": [
       {
         "line": [
-          "80 HEALTHCARE DRIVE",
-          "SUITE 101"
+          "80 HEALTHCARE DR STE 101"
         ],
         "city": "SYLVA",
         "state": "NC",
@@ -41,7 +40,8 @@
       },
       {
         "line": [
-          "80 HEALTHCARE DR STE 101"
+          "80 HEALTHCARE DRIVE",
+          "SUITE 101"
         ],
         "city": "SYLVA",
         "state": "NC",

@@ -18,26 +18,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760857734"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1972951242"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1922401264"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1760857734"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1401 JOHNSTON WILLIS DRIVE"
-        ],
-        "city": "RICHMOND",
-        "state": "VA",
-        "postalCode": "23235-4730"
-      },
       {
         "line": [
           "7101 JAHNKE ROAD"
@@ -48,11 +40,11 @@
       },
       {
         "line": [
-          "7700 EAST PARHAM ROAD"
+          "1401 JOHNSTON WILLIS DRIVE"
         ],
         "city": "RICHMOND",
         "state": "VA",
-        "postalCode": "23294-4301"
+        "postalCode": "23235-4730"
       },
       {
         "line": [
@@ -61,6 +53,14 @@
         "city": "MIDLOTHIAN",
         "state": "VA",
         "postalCode": "23113-2349"
+      },
+      {
+        "line": [
+          "7700 EAST PARHAM ROAD"
+        ],
+        "city": "RICHMOND",
+        "state": "VA",
+        "postalCode": "23294-4301"
       }
     ],
     "extension": [

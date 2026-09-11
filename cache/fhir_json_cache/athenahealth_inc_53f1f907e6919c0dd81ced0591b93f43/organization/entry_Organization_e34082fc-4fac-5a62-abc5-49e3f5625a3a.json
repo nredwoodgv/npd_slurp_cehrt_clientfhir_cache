@@ -14,18 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548211311"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1073615456"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1457617235"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548211311"
       }
     ],
     "address": [
+      {
+        "line": [
+          "5965 East Broad Street Suite 200"
+        ],
+        "city": "COLUMBUS",
+        "state": "OH",
+        "postalCode": "43213-1562"
+      },
       {
         "line": [
           "7100 Graphics Way Suite 1500"
@@ -36,19 +44,11 @@
       },
       {
         "line": [
-          "477 Cooper Road Suite 200"
-        ],
-        "city": "WESTERVILLE",
-        "state": "OH",
-        "postalCode": "43081-8055"
-      },
-      {
-        "line": [
-          "5965 East Broad Street Suite 200"
+          "745 West State Suite 750"
         ],
         "city": "COLUMBUS",
         "state": "OH",
-        "postalCode": "43213-1562"
+        "postalCode": "43213-1515"
       },
       {
         "line": [
@@ -61,11 +61,11 @@
       },
       {
         "line": [
-          "745 West State Suite 750"
+          "477 Cooper Road Suite 200"
         ],
-        "city": "COLUMBUS",
+        "city": "WESTERVILLE",
         "state": "OH",
-        "postalCode": "43213-1515"
+        "postalCode": "43081-8055"
       }
     ],
     "extension": [

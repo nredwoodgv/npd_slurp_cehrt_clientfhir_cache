@@ -14,14 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396315321"
+        "value": "1659711687"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659711687"
+        "value": "1396315321"
       }
     ],
     "address": [
+      {
+        "line": [
+          "711 N Lynndale Dr.",
+          "Suite 1A"
+        ],
+        "city": "APPLETON",
+        "state": "WI",
+        "postalCode": "54914-3078"
+      },
       {
         "line": [
           "2323 W EVERETT ST"
@@ -37,15 +46,6 @@
         "city": "APPLETON",
         "state": "WI",
         "postalCode": "54914-4749"
-      },
-      {
-        "line": [
-          "711 N Lynndale Dr.",
-          "Suite 1A"
-        ],
-        "city": "APPLETON",
-        "state": "WI",
-        "postalCode": "54914-3078"
       }
     ],
     "extension": [

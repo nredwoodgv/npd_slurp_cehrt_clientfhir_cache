@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629398219"
+        "value": "1821349317"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821349317"
+        "value": "1629398219"
       }
     ],
     "address": [
@@ -32,12 +32,11 @@
       },
       {
         "line": [
-          "1 PEARL ST",
-          "STE 1500"
+          "63 PLEASANT ST"
         ],
-        "city": "BROCKTON",
+        "city": "WATERTOWN",
         "state": "MA",
-        "postalCode": "02301-2872"
+        "postalCode": "02472-2386"
       },
       {
         "line": [
@@ -57,11 +56,12 @@
       },
       {
         "line": [
-          "63 PLEASANT ST"
+          "1 PEARL ST",
+          "STE 1500"
         ],
-        "city": "WATERTOWN",
+        "city": "BROCKTON",
         "state": "MA",
-        "postalCode": "02472-2386"
+        "postalCode": "02301-2872"
       }
     ],
     "extension": [

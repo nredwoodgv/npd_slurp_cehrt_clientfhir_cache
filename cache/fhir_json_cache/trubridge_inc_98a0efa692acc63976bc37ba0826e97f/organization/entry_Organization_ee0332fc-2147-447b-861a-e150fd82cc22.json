@@ -3,16 +3,28 @@
     "resourceType": "Organization",
     "id": "ee0332fc-2147-447b-861a-e150fd82cc22",
     "meta": {
-      "versionId": "2",
-      "lastUpdated": "2024-10-21T16:29:58.524+00:00"
+      "versionId": "3",
+      "lastUpdated": "2026-08-08T14:36:48.018+00:00"
     },
     "extension": [
       {
         "url": "https://trubrudge.com/r4/StructureDefinition/feature",
-        "valueString": "unify"
+        "valueString": "unify fhir-dir"
+      },
+      {
+        "url": "https://trubrudge.com/r4/StructureDefinition/chpl-product",
+        "valueString": "ehr"
       }
     ],
     "identifier": [
+      {
+        "system": "http://terminology.hl7.org/NamingSystem/CMSCertificationNumber",
+        "value": "111336"
+      },
+      {
+        "system": "urn:oid:2.16.840.1.113883.4.4",
+        "value": "422532499"
+      },
       {
         "system": "https://cpsi.com/chbase/79e45771-7dea-407a-bfae-42edc736ae40",
         "value": "id-osfac.e17d4cba-8f90-413d-aea5-3f9fe4d17418"
@@ -30,7 +42,7 @@
         ]
       }
     ],
-    "name": "MOUNTAIN LAKES MEDICAL CENTER",
+    "name": "WELLSTAR MOUNTAIN LAKES MEDICAL CENTER",
     "address": [
       {
         "line": [

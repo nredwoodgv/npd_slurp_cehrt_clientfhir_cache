@@ -5,8 +5,18 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.8022"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689769382"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457745119"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1508956467"
       }
     ],
     "name": "Fillmore County Hospital",

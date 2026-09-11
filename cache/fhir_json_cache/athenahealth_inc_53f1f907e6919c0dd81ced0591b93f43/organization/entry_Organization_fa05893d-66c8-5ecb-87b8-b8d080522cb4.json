@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366909277"
+        "value": "1124668660"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124668660"
+        "value": "1366909277"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1800 ATRIUM PKWY"
+        ],
+        "city": "NAPA",
+        "state": "CA",
+        "postalCode": "94559-4837"
+      },
       {
         "line": [
           "1 DANIEL BURNHAM CT",
@@ -33,21 +41,21 @@
       },
       {
         "line": [
-          "6500 COYLE AVE",
-          "SUITE 1"
-        ],
-        "city": "CARMICHAEL",
-        "state": "CA",
-        "postalCode": "95608-0301"
-      },
-      {
-        "line": [
           "1300 S ELISEO DR",
           "STE 203"
         ],
         "city": "GREENBRAE",
         "state": "CA",
         "postalCode": "94904-2015"
+      },
+      {
+        "line": [
+          "6500 COYLE AVE",
+          "SUITE 1"
+        ],
+        "city": "CARMICHAEL",
+        "state": "CA",
+        "postalCode": "95608-0301"
       },
       {
         "line": [

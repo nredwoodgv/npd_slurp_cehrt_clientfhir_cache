@@ -5,13 +5,23 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.1504"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811948862"
       },
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.1576"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1891895538"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902882939"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720220098"
       }
     ],
     "name": "University Hospitals Samaritan Medical Center",

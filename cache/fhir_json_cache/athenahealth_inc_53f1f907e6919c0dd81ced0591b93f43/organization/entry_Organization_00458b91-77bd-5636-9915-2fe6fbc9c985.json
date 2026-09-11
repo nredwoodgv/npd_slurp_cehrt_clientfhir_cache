@@ -14,18 +14,27 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235920372"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578353835"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1972394773"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235920372"
       }
     ],
     "address": [
+      {
+        "line": [
+          "230 PARK AVENUE",
+          "THIRD FLOOR WEST, SUITE 324"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10169-0018"
+      },
       {
         "line": [
           "525 ROUTE 73 N",
@@ -43,15 +52,6 @@
         "city": "STAMFORD",
         "state": "CT",
         "postalCode": "06902-3758"
-      },
-      {
-        "line": [
-          "230 PARK AVENUE",
-          "THIRD FLOOR WEST, SUITE 324"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10169-0018"
       }
     ],
     "extension": [

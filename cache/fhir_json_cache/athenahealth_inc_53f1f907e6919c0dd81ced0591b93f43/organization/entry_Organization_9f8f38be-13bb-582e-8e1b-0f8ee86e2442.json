@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811942451"
+        "value": "1730136474"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730136474"
+        "value": "1811942451"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1000 Commerce Ct",
-          "Suite 101"
-        ],
-        "city": "BENSENVILLE",
-        "state": "IL",
-        "postalCode": "60106-2007"
-      },
       {
         "line": [
           "17130 Prime Blvd",
@@ -39,6 +30,15 @@
         "city": "LOCKPORT",
         "state": "IL",
         "postalCode": "60441-1311"
+      },
+      {
+        "line": [
+          "1000 Commerce Ct",
+          "Suite 101"
+        ],
+        "city": "BENSENVILLE",
+        "state": "IL",
+        "postalCode": "60106-2007"
       }
     ],
     "extension": [

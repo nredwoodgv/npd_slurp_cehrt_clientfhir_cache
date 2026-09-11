@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750560009"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861400095"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1558588772"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750560009"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,43 +32,27 @@
     "address": [
       {
         "line": [
-          "2900 N LAKE SHORE DR"
+          "28050 GRAND RIVER AVE"
         ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60657-5640"
-      },
-      {
-        "line": [
-          "120 DODGE AVE"
-        ],
-        "city": "EVANSTON",
-        "state": "IL",
-        "postalCode": "60202-3622"
-      },
-      {
-        "line": [
-          "909 W Maple Rd, Ste 100"
-        ],
-        "city": "CLAWSON",
+        "city": "FARMINGTON HILLS",
         "state": "MI",
-        "postalCode": "48017-1000"
+        "postalCode": "48336-5919"
       },
       {
         "line": [
-          "39312 Woodward Ave"
+          "20300 FORT ST"
         ],
-        "city": "BLOOMFIELD HILLS",
+        "city": "RIVERVIEW",
         "state": "MI",
-        "postalCode": "48304-5007"
+        "postalCode": "48193-4560"
       },
       {
         "line": [
-          "908 W ARYGLE"
+          "16001 W 9 MILE RD"
         ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60640-3894"
+        "city": "SOUTHFIELD",
+        "state": "MI",
+        "postalCode": "48075-4818"
       },
       {
         "line": [
@@ -81,67 +65,11 @@
       },
       {
         "line": [
-          "16001 W 9 MILE RD"
+          "9912 E Grand River Rd, Ste 1000"
         ],
-        "city": "SOUTHFIELD",
+        "city": "BRIGHTON",
         "state": "MI",
-        "postalCode": "48075-4818"
-      },
-      {
-        "line": [
-          "28050 GRAND RIVER AVE"
-        ],
-        "city": "FARMINGTON HILLS",
-        "state": "MI",
-        "postalCode": "48336-5919"
-      },
-      {
-        "line": [
-          "1695 12 MILE RD STE 220"
-        ],
-        "city": "BERKLEY",
-        "state": "MI",
-        "postalCode": "48072-2100"
-      },
-      {
-        "line": [
-          "8401 HOLLY RD"
-        ],
-        "city": "GRAND BLANC",
-        "state": "MI",
-        "postalCode": "48439-1812"
-      },
-      {
-        "line": [
-          "20300 FORT ST"
-        ],
-        "city": "RIVERVIEW",
-        "state": "MI",
-        "postalCode": "48193-4560"
-      },
-      {
-        "line": [
-          "43494 WOODWARD AVE STE 208"
-        ],
-        "city": "BLOOMFIELD HILLS",
-        "state": "MI",
-        "postalCode": "48302-5054"
-      },
-      {
-        "line": [
-          "900 COOK RD"
-        ],
-        "city": "GROSSE POINTE",
-        "state": "MI",
-        "postalCode": "48236-2739"
-      },
-      {
-        "line": [
-          "5050 TOUHY AVE"
-        ],
-        "city": "SKOKIE",
-        "state": "IL",
-        "postalCode": "60077-3542"
+        "postalCode": "48116-1994"
       },
       {
         "line": [
@@ -153,6 +81,22 @@
       },
       {
         "line": [
+          "900 COOK RD"
+        ],
+        "city": "GROSSE POINTE",
+        "state": "MI",
+        "postalCode": "48236-2739"
+      },
+      {
+        "line": [
+          "1695 12 MILE RD STE 220"
+        ],
+        "city": "BERKLEY",
+        "state": "MI",
+        "postalCode": "48072-2100"
+      },
+      {
+        "line": [
           "909 W MAPLE RD STE 111"
         ],
         "city": "CLAWSON",
@@ -161,11 +105,19 @@
       },
       {
         "line": [
-          "9912 E Grand River Rd, Ste 1000"
+          "43494 WOODWARD AVE STE 208"
         ],
-        "city": "BRIGHTON",
+        "city": "BLOOMFIELD HILLS",
         "state": "MI",
-        "postalCode": "48116-1994"
+        "postalCode": "48302-5054"
+      },
+      {
+        "line": [
+          "5050 TOUHY AVE"
+        ],
+        "city": "SKOKIE",
+        "state": "IL",
+        "postalCode": "60077-3542"
       },
       {
         "line": [
@@ -177,11 +129,59 @@
       },
       {
         "line": [
+          "8401 HOLLY RD"
+        ],
+        "city": "GRAND BLANC",
+        "state": "MI",
+        "postalCode": "48439-1812"
+      },
+      {
+        "line": [
           "105 WATER ST"
         ],
         "city": "PLYMOUTH",
         "state": "IN",
         "postalCode": "46563-2148"
+      },
+      {
+        "line": [
+          "120 DODGE AVE"
+        ],
+        "city": "EVANSTON",
+        "state": "IL",
+        "postalCode": "60202-3622"
+      },
+      {
+        "line": [
+          "908 W ARYGLE"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60640-3894"
+      },
+      {
+        "line": [
+          "39312 Woodward Ave"
+        ],
+        "city": "BLOOMFIELD HILLS",
+        "state": "MI",
+        "postalCode": "48304-5007"
+      },
+      {
+        "line": [
+          "2900 N LAKE SHORE DR"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60657-5640"
+      },
+      {
+        "line": [
+          "909 W Maple Rd, Ste 100"
+        ],
+        "city": "CLAWSON",
+        "state": "MI",
+        "postalCode": "48017-1000"
       }
     ],
     "extension": [

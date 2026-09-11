@@ -14,19 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124907951"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790679264"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1154200970"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336932557"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,19 +22,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124907951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336932557"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1326810086"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1790679264"
       }
     ],
     "address": [
-      {
-        "line": [
-          "25 S River Rd",
-          "Ste 307"
-        ],
-        "city": "Bedford",
-        "state": "NH",
-        "postalCode": "03110-6716"
-      },
       {
         "line": [
           "11 Court St",
@@ -64,6 +55,15 @@
         "city": "Nashua",
         "state": "NH",
         "postalCode": "03062-2809"
+      },
+      {
+        "line": [
+          "25 S River Rd",
+          "Ste 307"
+        ],
+        "city": "Bedford",
+        "state": "NH",
+        "postalCode": "03110-6716"
       }
     ],
     "extension": [

@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205137536"
+        "value": "1194768721"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194768721"
+        "value": "1205137536"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,6 +30,14 @@
       }
     ],
     "address": [
+      {
+        "line": [
+          "451 S HOLLY ST"
+        ],
+        "city": "SILOAM SPRINGS",
+        "state": "AR",
+        "postalCode": "72761-3018"
+      },
       {
         "line": [
           "1801 FOREST HILLS BLVD STE 201"
@@ -41,14 +49,6 @@
       {
         "line": [
           "451 S. Holly St."
-        ],
-        "city": "SILOAM SPRINGS",
-        "state": "AR",
-        "postalCode": "72761-3018"
-      },
-      {
-        "line": [
-          "451 S HOLLY ST"
         ],
         "city": "SILOAM SPRINGS",
         "state": "AR",

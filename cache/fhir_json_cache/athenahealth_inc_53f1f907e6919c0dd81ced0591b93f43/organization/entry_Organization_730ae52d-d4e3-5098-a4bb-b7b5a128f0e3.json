@@ -14,22 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992792311"
+        "value": "1750546313"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750546313"
+        "value": "1992792311"
       }
     ],
     "address": [
       {
         "line": [
-          "800 W PLYMOUTH AVE",
-          "SUITE A"
+          "1015 N Stone St"
         ],
         "city": "DELAND",
         "state": "FL",
-        "postalCode": "32720-3215"
+        "postalCode": "32720-0802"
       },
       {
         "line": [
@@ -50,19 +49,20 @@
       },
       {
         "line": [
+          "800 W PLYMOUTH AVE",
+          "SUITE A"
+        ],
+        "city": "DELAND",
+        "state": "FL",
+        "postalCode": "32720-3215"
+      },
+      {
+        "line": [
           "2160 HOWLAND BLVD., STE. 110"
         ],
         "city": "DELTONA",
         "state": "FL",
         "postalCode": "32738-3468"
-      },
-      {
-        "line": [
-          "1015 N Stone St"
-        ],
-        "city": "DELAND",
-        "state": "FL",
-        "postalCode": "32720-0802"
       }
     ],
     "extension": [

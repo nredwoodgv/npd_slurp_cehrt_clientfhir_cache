@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992891014"
+        "value": "1134192727"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,18 +34,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134192727"
+        "value": "1992891014"
       }
     ],
     "address": [
-      {
-        "line": [
-          "7650 University Dr."
-        ],
-        "city": "WEST CHESTER",
-        "state": "OH",
-        "postalCode": "45069-2588"
-      },
       {
         "line": [
           "1075 Kemper Mesdows Dr."
@@ -53,6 +45,14 @@
         "city": "CINCINNATI",
         "state": "OH",
         "postalCode": "45240-1772"
+      },
+      {
+        "line": [
+          "7650 University Dr."
+        ],
+        "city": "WEST CHESTER",
+        "state": "OH",
+        "postalCode": "45069-2588"
       }
     ],
     "extension": [

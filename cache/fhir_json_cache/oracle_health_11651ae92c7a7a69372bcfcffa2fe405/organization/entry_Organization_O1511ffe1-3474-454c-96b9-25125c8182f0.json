@@ -5,8 +5,18 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.5765"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144300476"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598840258"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861409823"
       }
     ],
     "name": "El Centro Regional Medical Center",

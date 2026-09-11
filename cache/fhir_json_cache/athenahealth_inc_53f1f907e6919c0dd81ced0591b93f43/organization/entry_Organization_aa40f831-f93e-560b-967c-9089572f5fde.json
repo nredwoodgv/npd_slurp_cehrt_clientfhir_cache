@@ -14,26 +14,25 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780638478"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1528782042"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396782363"
+        "value": "1780638478"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1992752224"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396782363"
       }
     ],
     "address": [
       {
         "line": [
-          "301 N 8th St",
-          "5th Floor"
+          "301 N 8th St"
         ],
         "city": "SPRINGFIELD",
         "state": "IL",
@@ -41,7 +40,8 @@
       },
       {
         "line": [
-          "301 N 8th St"
+          "301 N 8th St",
+          "4th Floor"
         ],
         "city": "SPRINGFIELD",
         "state": "IL",
@@ -59,7 +59,7 @@
       {
         "line": [
           "301 N 8th St",
-          "1st floor"
+          "5th Floor"
         ],
         "city": "SPRINGFIELD",
         "state": "IL",
@@ -68,7 +68,7 @@
       {
         "line": [
           "301 N 8th St",
-          "4th Floor"
+          "1st floor"
         ],
         "city": "SPRINGFIELD",
         "state": "IL",

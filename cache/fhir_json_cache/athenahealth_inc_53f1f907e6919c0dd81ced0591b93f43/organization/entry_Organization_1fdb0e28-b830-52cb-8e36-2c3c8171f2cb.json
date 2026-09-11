@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952177446"
+        "value": "1619494366"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306363007"
+        "value": "1962453308"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,23 +26,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306363007"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1588180475"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043261498"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619494366"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326099763"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962453308"
+        "value": "1952177446"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,11 +46,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023506532"
+        "value": "1043261498"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528336302"
+        "value": "1326099763"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,21 +58,38 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912495375"
+        "value": "1982963344"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982963344"
+        "value": "1528336302"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1023506532"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912495375"
       }
     ],
     "address": [
       {
         "line": [
-          "5151 N 9th Ave"
+          "1549 Airport Blvd",
+          "Suite 320"
         ],
-        "city": "Pensacola",
+        "city": "PENSACOLA",
         "state": "FL",
-        "postalCode": "32504-8770"
+        "postalCode": "32504-8635"
+      },
+      {
+        "line": [
+          "7800 USHwy 98 West"
+        ],
+        "city": "Miramar Beach",
+        "state": "FL",
+        "postalCode": "32550-7228"
       },
       {
         "line": [
@@ -92,19 +101,11 @@
       },
       {
         "line": [
-          "5153 N. 9th Ave POB"
+          "5151 N 9th Ave"
         ],
         "city": "Pensacola",
         "state": "FL",
-        "postalCode": "32504-8785"
-      },
-      {
-        "line": [
-          "615 N Bonita Ave"
-        ],
-        "city": "Panama City",
-        "state": "FL",
-        "postalCode": "32401-3623"
+        "postalCode": "32504-8770"
       },
       {
         "line": [
@@ -124,28 +125,19 @@
       },
       {
         "line": [
-          "1549 AIRPORT BLVD",
-          "STE 320"
+          "615 N Bonita Ave"
         ],
-        "city": "PENSACOLA",
+        "city": "Panama City",
         "state": "FL",
-        "postalCode": "32504-8635"
+        "postalCode": "32401-3623"
       },
       {
         "line": [
-          "7800 USHwy 98 West"
+          "5153 N. 9th Ave POB"
         ],
-        "city": "Miramar Beach",
+        "city": "Pensacola",
         "state": "FL",
-        "postalCode": "32550-7228"
-      },
-      {
-        "line": [
-          "55 Avenue E"
-        ],
-        "city": "Apalachicola",
-        "state": "FL",
-        "postalCode": "32320-1763"
+        "postalCode": "32504-8785"
       },
       {
         "line": [
@@ -157,8 +149,16 @@
       },
       {
         "line": [
-          "1549 Airport Blvd",
-          "Suite 320"
+          "55 Avenue E"
+        ],
+        "city": "Apalachicola",
+        "state": "FL",
+        "postalCode": "32320-1763"
+      },
+      {
+        "line": [
+          "1549 AIRPORT BLVD",
+          "STE 320"
         ],
         "city": "PENSACOLA",
         "state": "FL",

@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285350504"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790401081"
+        "value": "1386361400"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,11 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417674185"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538886114"
+        "value": "1790401081"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,11 +34,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386361400"
+        "value": "1417674185"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184340408"
+        "value": "1538886114"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285350504"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316663602"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,26 +58,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316663602"
+        "value": "1184340408"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1305 BAILEY LN"
-        ],
-        "city": "BENTON",
-        "state": "IL",
-        "postalCode": "62812-2860"
-      },
-      {
-        "line": [
-          "521 N MAIN ST"
-        ],
-        "city": "ANNA",
-        "state": "IL",
-        "postalCode": "62906-1622"
-      },
       {
         "line": [
           "325 SPRING ST"
@@ -93,6 +77,22 @@
         "city": "MOUNT VERNON",
         "state": "IL",
         "postalCode": "62864-6224"
+      },
+      {
+        "line": [
+          "521 N MAIN ST"
+        ],
+        "city": "ANNA",
+        "state": "IL",
+        "postalCode": "62906-1622"
+      },
+      {
+        "line": [
+          "1305 BAILEY LN"
+        ],
+        "city": "BENTON",
+        "state": "IL",
+        "postalCode": "62812-2860"
       }
     ],
     "extension": [

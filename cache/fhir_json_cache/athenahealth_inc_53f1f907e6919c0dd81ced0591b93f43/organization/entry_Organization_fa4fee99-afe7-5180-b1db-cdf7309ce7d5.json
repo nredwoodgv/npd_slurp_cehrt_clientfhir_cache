@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710207360"
+        "value": "1205395704"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205395704"
+        "value": "1710207360"
       }
     ],
     "address": [
@@ -32,19 +32,19 @@
       },
       {
         "line": [
-          "4450 LOCKHILL SELMA RD STE 102"
-        ],
-        "city": "SHAVANO PARK",
-        "state": "TX",
-        "postalCode": "78249-4394"
-      },
-      {
-        "line": [
           "21 SPURS LANE"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
         "postalCode": "78240-1669"
+      },
+      {
+        "line": [
+          "4450 LOCKHILL SELMA RD STE 102"
+        ],
+        "city": "SHAVANO PARK",
+        "state": "TX",
+        "postalCode": "78249-4394"
       }
     ],
     "extension": [

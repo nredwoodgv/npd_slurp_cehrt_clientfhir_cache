@@ -14,23 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
+        "value": "1215348487"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,7 +22,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124080320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730484031"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215999511"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669801585"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962602300"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,21 +50,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
+        "value": "1053373951"
       }
     ],
     "address": [
       {
         "line": [
-          "1105 FITZGERALD ST"
+          "2700 MEMORIAL PARK DR"
         ],
-        "city": "BANGS",
+        "city": "BROWNWOOD",
         "state": "TX",
-        "postalCode": "76823-3232"
+        "postalCode": "76801-8481"
+      },
+      {
+        "line": [
+          "101 MILLER DR"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-5949"
       },
       {
         "line": [
@@ -72,43 +80,11 @@
       },
       {
         "line": [
-          "2410 SONG BIRD CIR"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-8413"
-      },
-      {
-        "line": [
-          "2400 W BROWN ST"
-        ],
-        "city": "SAN SABA",
-        "state": "TX",
-        "postalCode": "76877-3863"
-      },
-      {
-        "line": [
-          "2502 CROCKETT DR STE A"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-5900"
-      },
-      {
-        "line": [
           "2500 SONG BIRD CIR"
         ],
         "city": "BROWNWOOD",
         "state": "TX",
         "postalCode": "76801-6488"
-      },
-      {
-        "line": [
-          "2700 MEMORIAL PARK DR"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-8481"
       },
       {
         "line": [
@@ -128,19 +104,43 @@
       },
       {
         "line": [
-          "101 MILLER DR"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-5949"
-      },
-      {
-        "line": [
           "2501 Morris Sheppard Dr"
         ],
         "city": "BROWNWOOD",
         "state": "TX",
         "postalCode": "76801-5919"
+      },
+      {
+        "line": [
+          "2410 SONG BIRD CIR"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-8413"
+      },
+      {
+        "line": [
+          "2400 W BROWN ST"
+        ],
+        "city": "SAN SABA",
+        "state": "TX",
+        "postalCode": "76877-3863"
+      },
+      {
+        "line": [
+          "1105 FITZGERALD ST"
+        ],
+        "city": "BANGS",
+        "state": "TX",
+        "postalCode": "76823-3232"
+      },
+      {
+        "line": [
+          "2502 CROCKETT DR STE A"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-5900"
       }
     ],
     "extension": [

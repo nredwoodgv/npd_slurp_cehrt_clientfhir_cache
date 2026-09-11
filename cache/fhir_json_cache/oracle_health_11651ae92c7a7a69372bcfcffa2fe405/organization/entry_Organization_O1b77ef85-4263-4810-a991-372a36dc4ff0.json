@@ -5,13 +5,18 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.7807"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013173012"
       },
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.1970"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1477653889"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1538321674"
       }
     ],
     "name": "Little Colorado Medical Center",

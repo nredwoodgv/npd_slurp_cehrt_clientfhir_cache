@@ -5,8 +5,13 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.9.285"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174979108"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1427064211"
       }
     ],
     "name": "Beaver Valley Hospital",

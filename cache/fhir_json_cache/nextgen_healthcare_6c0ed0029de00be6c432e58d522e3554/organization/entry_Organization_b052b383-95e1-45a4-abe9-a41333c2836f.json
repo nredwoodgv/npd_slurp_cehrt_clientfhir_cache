@@ -4,22 +4,8 @@
     "id": "b052b383-95e1-45a4-abe9-a41333c2836f",
     "identifier": [
       {
-        "_system": {
-          "extension": [
-            {
-              "url": "http://hl7.org/fhir/StructureDefinition/data-absent-reason",
-              "valueCode": "unknown"
-            }
-          ]
-        },
-        "_value": {
-          "extension": [
-            {
-              "url": "http://hl7.org/fhir/StructureDefinition/data-absent-reason",
-              "valueCode": "unknown"
-            }
-          ]
-        }
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1205947132"
       }
     ],
     "active": true,

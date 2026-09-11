@@ -22,11 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922775956"
+        "value": "1245600493"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245600493"
+        "value": "1922775956"
       }
     ],
     "address": [
@@ -40,11 +40,11 @@
       },
       {
         "line": [
-          "308 Main St"
+          "1250 Valley View Dr."
         ],
-        "city": "OLATHE",
+        "city": "DELTA",
         "state": "CO",
-        "postalCode": "81425-4125"
+        "postalCode": "81416-2229"
       },
       {
         "line": [
@@ -56,11 +56,19 @@
       },
       {
         "line": [
-          "1250 Valley View Dr."
+          "308 Main St"
         ],
-        "city": "DELTA",
+        "city": "OLATHE",
         "state": "CO",
-        "postalCode": "81416-2229"
+        "postalCode": "81425-4125"
+      },
+      {
+        "line": [
+          "87 MERCHANT DR"
+        ],
+        "city": "MONTROSE",
+        "state": "CO",
+        "postalCode": "81401-3015"
       }
     ],
     "extension": [

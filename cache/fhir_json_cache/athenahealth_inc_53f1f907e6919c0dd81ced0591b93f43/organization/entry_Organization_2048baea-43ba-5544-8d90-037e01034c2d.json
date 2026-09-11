@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689994329"
+        "value": "1861956971"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861956971"
+        "value": "1689994329"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,31 +26,6 @@
       }
     ],
     "address": [
-      {
-        "line": [
-          "11234 ANDERSON ST RM 1150"
-        ],
-        "city": "LOMA LINDA",
-        "state": "CA",
-        "postalCode": "92354-2804"
-      },
-      {
-        "line": [
-          "25805 BARTON RD",
-          "# A106"
-        ],
-        "city": "LOMA LINDA",
-        "state": "CA",
-        "postalCode": "92354-3814"
-      },
-      {
-        "line": [
-          "2195 CLUB CENTER DR SUIT A"
-        ],
-        "city": "SAN BERNARDINO",
-        "state": "CA",
-        "postalCode": "92408-3760"
-      },
       {
         "line": [
           "2195 Club Center Dr.",
@@ -62,27 +37,27 @@
       },
       {
         "line": [
-          "10408 INDUSTRIAL CIRCLE"
-        ],
-        "city": "REDLANDS",
-        "state": "CA",
-        "postalCode": "92374-4548"
-      },
-      {
-        "line": [
-          "25915 BARTON RD"
+          "11234 ANDERSON ST RM 1150"
         ],
         "city": "LOMA LINDA",
         "state": "CA",
-        "postalCode": "92354-3813"
+        "postalCode": "92354-2804"
       },
       {
         "line": [
-          "3102 E HIGHLAND AVE"
+          "2195 CLUB CENTER DR SUIT A"
         ],
-        "city": "PATTON",
+        "city": "SAN BERNARDINO",
         "state": "CA",
-        "postalCode": "92369-7813"
+        "postalCode": "92408-3760"
+      },
+      {
+        "line": [
+          "350 TERRACINA BLVD"
+        ],
+        "city": "REDLANDS",
+        "state": "CA",
+        "postalCode": "92373-4850"
       },
       {
         "line": [
@@ -95,6 +70,14 @@
       },
       {
         "line": [
+          "1760 W 16TH ST"
+        ],
+        "city": "SAN BERNARDINO",
+        "state": "CA",
+        "postalCode": "92411-1160"
+      },
+      {
+        "line": [
           "1281 W C ST"
         ],
         "city": "COLTON",
@@ -103,11 +86,12 @@
       },
       {
         "line": [
-          "1805 MEDICAL CENTER DR"
+          "25805 BARTON RD",
+          "# A106"
         ],
-        "city": "SAN BERNARDINO",
+        "city": "LOMA LINDA",
         "state": "CA",
-        "postalCode": "92411-1217"
+        "postalCode": "92354-3814"
       },
       {
         "line": [
@@ -119,19 +103,35 @@
       },
       {
         "line": [
-          "1760 W 16TH ST"
-        ],
-        "city": "SAN BERNARDINO",
-        "state": "CA",
-        "postalCode": "92411-1160"
-      },
-      {
-        "line": [
-          "350 TERRACINA BLVD"
+          "10408 INDUSTRIAL CIRCLE"
         ],
         "city": "REDLANDS",
         "state": "CA",
-        "postalCode": "92373-4850"
+        "postalCode": "92374-4548"
+      },
+      {
+        "line": [
+          "3102 E HIGHLAND AVE"
+        ],
+        "city": "PATTON",
+        "state": "CA",
+        "postalCode": "92369-7813"
+      },
+      {
+        "line": [
+          "1805 MEDICAL CENTER DR"
+        ],
+        "city": "SAN BERNARDINO",
+        "state": "CA",
+        "postalCode": "92411-1217"
+      },
+      {
+        "line": [
+          "25915 BARTON RD"
+        ],
+        "city": "LOMA LINDA",
+        "state": "CA",
+        "postalCode": "92354-3813"
       }
     ],
     "extension": [

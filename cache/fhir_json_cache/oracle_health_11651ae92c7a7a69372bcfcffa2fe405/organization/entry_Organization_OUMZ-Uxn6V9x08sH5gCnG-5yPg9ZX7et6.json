@@ -5,13 +5,23 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.1046"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821147786"
       },
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.660"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1780736736"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811940661"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1003015843"
       }
     ],
     "name": "NorthBay Health",

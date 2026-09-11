@@ -22,15 +22,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "11111111111111111111"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1111111116"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1851112544"
+        "value": "1111111117"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "11111111111111111111"
+        "value": "1111111118"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548207889"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1851112544"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -71,10 +83,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1992756779"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1111111111"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -198,10 +206,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548207889"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1831589035"
       },
       {
@@ -302,15 +306,27 @@
       },
       {
         "system": "phone",
+        "value": "(615)111-1111"
+      },
+      {
+        "system": "phone",
         "value": "(629)401-0720"
       },
       {
         "system": "phone",
-        "value": "(931)454-9002"
+        "value": "(615)385-3751"
       },
       {
         "system": "phone",
-        "value": "(615)111-1111"
+        "value": "(931)563-1835"
+      },
+      {
+        "system": "phone",
+        "value": "(931)393-3143"
+      },
+      {
+        "system": "phone",
+        "value": "(931)454-9002"
       },
       {
         "system": "phone",
@@ -347,10 +363,6 @@
       {
         "system": "phone",
         "value": "(931)815-0032"
-      },
-      {
-        "system": "phone",
-        "value": "(611)111-1111"
       },
       {
         "system": "phone",
@@ -438,10 +450,6 @@
       },
       {
         "system": "phone",
-        "value": "(615)385-3751"
-      },
-      {
-        "system": "phone",
         "value": "(615)860-1556"
       },
       {
@@ -459,10 +467,6 @@
       {
         "system": "phone",
         "value": "(931)906-2004"
-      },
-      {
-        "system": "phone",
-        "value": "(931)393-3143"
       },
       {
         "system": "phone",
@@ -590,34 +594,11 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "204 Medical Drive",
-          "Suite 2"
-        ],
-        "city": "Lafayette",
-        "state": "TN",
-        "postalCode": "37083-1719",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "2305 Chambliss Ave NW"
         ],
         "city": "Cleveland",
         "state": "TN",
         "postalCode": "37311-3847",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "2114 North Jackson Street"
-        ],
-        "city": "Tullahoma",
-        "state": "TN",
-        "postalCode": "37388",
         "country": "USA"
       },
       {
@@ -630,6 +611,65 @@
         "city": "Nashville",
         "state": "TN",
         "postalCode": "37203",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "204 Medical Drive",
+          "Suite 2"
+        ],
+        "city": "Lafayette",
+        "state": "TN",
+        "postalCode": "37083-1719",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "4220 Harding Road",
+          "Suite 200"
+        ],
+        "city": "Nashville",
+        "state": "TN",
+        "postalCode": "37205",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2230 N. Jackson Street",
+          "Suite 100 A"
+        ],
+        "city": "Tullahoma",
+        "state": "TN",
+        "postalCode": "373388",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2230 N. Jackson Street",
+          "Suite 200"
+        ],
+        "city": "Tullahoma",
+        "state": "TN",
+        "postalCode": "37388",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2230 North Jackson Street"
+        ],
+        "city": "Tullahoma",
+        "state": "TN",
+        "postalCode": "37388",
         "country": "USA"
       },
       {
@@ -747,17 +787,6 @@
         "city": "McMinnville",
         "state": "TN",
         "postalCode": "37110",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "123 Hayes street"
-        ],
-        "city": "Nashville",
-        "state": "TN",
-        "postalCode": "37203",
         "country": "USA"
       },
       {
@@ -1134,18 +1163,6 @@
         "city": "Clarksville",
         "state": "TN",
         "postalCode": "37043",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1750 Cedar Lane",
-          "Suite 200"
-        ],
-        "city": "Tullahoma",
-        "state": "TN",
-        "postalCode": "37388",
         "country": "USA"
       },
       {

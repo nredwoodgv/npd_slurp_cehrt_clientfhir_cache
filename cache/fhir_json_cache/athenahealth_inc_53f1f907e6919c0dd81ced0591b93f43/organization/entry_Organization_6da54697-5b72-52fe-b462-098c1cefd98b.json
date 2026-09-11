@@ -14,30 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295578789"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689417172"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1740914324"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1295578789"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578885620"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689417172"
       }
     ],
     "address": [
-      {
-        "line": [
-          "106 Medical Center Blvd"
-        ],
-        "city": "FAYETTEVILLE",
-        "state": "TN",
-        "postalCode": "37334-2743"
-      },
       {
         "line": [
           "10 ELDAD RD"
@@ -45,6 +37,14 @@
         "city": "FAYETTEVILLE",
         "state": "TN",
         "postalCode": "37334-7005"
+      },
+      {
+        "line": [
+          "106 Medical Center Blvd"
+        ],
+        "city": "FAYETTEVILLE",
+        "state": "TN",
+        "postalCode": "37334-2743"
       },
       {
         "line": [

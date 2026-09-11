@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245686617"
+        "value": "1073679379"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073679379"
+        "value": "1245686617"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,19 +28,19 @@
     "address": [
       {
         "line": [
-          "4005 W. 15th St"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75093-5818"
-      },
-      {
-        "line": [
           "3901 W. 15th Street"
         ],
         "city": "PLANO",
         "state": "TX",
         "postalCode": "75075-7738"
+      },
+      {
+        "line": [
+          "4005 W. 15th St"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75093-5818"
       }
     ],
     "extension": [

@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760272645"
+        "value": "1750621769"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -23,9 +23,29 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1871516799"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1609892223"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1760272645"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174549786"
       }
     ],
     "address": [
+      {
+        "line": [
+          "6201 West Roosevelt Road"
+        ],
+        "city": "BERWYN",
+        "state": "IL",
+        "postalCode": "60402-1108"
+      },
       {
         "line": [
           "3 Erie Court"
@@ -49,14 +69,6 @@
         "city": "OAK PARK",
         "state": "IL",
         "postalCode": "60302-2606"
-      },
-      {
-        "line": [
-          "6201 West Roosevelt Road"
-        ],
-        "city": "BERWYN",
-        "state": "IL",
-        "postalCode": "60402-1108"
       }
     ],
     "extension": [

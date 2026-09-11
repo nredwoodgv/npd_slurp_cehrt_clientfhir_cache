@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639700107"
+        "value": "1093388159"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093388159"
+        "value": "1639700107"
       }
     ],
     "address": [
-      {
-        "line": [
-          "31005 JOHN R RD"
-        ],
-        "city": "MADISON HEIGHTS",
-        "state": "MI",
-        "postalCode": "48071-1907"
-      },
-      {
-        "line": [
-          "21057 Waltz rd."
-        ],
-        "city": "NEW BOSTON",
-        "state": "MI",
-        "postalCode": "48164-3200"
-      },
       {
         "line": [
           "31005 JOHN R RD",
@@ -54,6 +38,22 @@
         "city": "WESTLAND",
         "state": "MI",
         "postalCode": "48185-3808"
+      },
+      {
+        "line": [
+          "31005 JOHN R RD"
+        ],
+        "city": "MADISON HEIGHTS",
+        "state": "MI",
+        "postalCode": "48071-1907"
+      },
+      {
+        "line": [
+          "21057 Waltz rd."
+        ],
+        "city": "NEW BOSTON",
+        "state": "MI",
+        "postalCode": "48164-3200"
       }
     ],
     "extension": [

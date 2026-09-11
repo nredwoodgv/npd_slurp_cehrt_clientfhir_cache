@@ -14,42 +14,17 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063470235"
+        "value": "1356982599"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356982599"
+        "value": "1063470235"
       }
     ],
     "address": [
       {
         "line": [
-          "2700 South Haven Rd"
-        ],
-        "city": "ANNAPOLIS",
-        "state": "MD",
-        "postalCode": "21401-7122"
-      },
-      {
-        "line": [
-          "4797 Marlboro Pike"
-        ],
-        "city": "CAPITOL HEIGHTS",
-        "state": "MD",
-        "postalCode": "20743-5213"
-      },
-      {
-        "line": [
-          "10003 DEREKWOOD LN"
-        ],
-        "city": "LANHAM",
-        "state": "MD",
-        "postalCode": "20706-4362"
-      },
-      {
-        "line": [
-          "104 FORBES STREET",
-          "SUITE 102"
+          "104 FORBES ST STE 102"
         ],
         "city": "ANNAPOLIS",
         "state": "MD",
@@ -57,11 +32,11 @@
       },
       {
         "line": [
-          "835 BRIGHTSEAT RD"
+          "2700 South Haven Rd"
         ],
-        "city": "HYATTSVILLE",
+        "city": "ANNAPOLIS",
         "state": "MD",
-        "postalCode": "20785-4798"
+        "postalCode": "21401-7122"
       },
       {
         "line": [
@@ -74,6 +49,39 @@
       },
       {
         "line": [
+          "7651 MATAPEAKE BUSINESS DR",
+          "STE 206"
+        ],
+        "city": "BRANDYWINE",
+        "state": "MD",
+        "postalCode": "20613-3042"
+      },
+      {
+        "line": [
+          "835 BRIGHTSEAT RD"
+        ],
+        "city": "HYATTSVILLE",
+        "state": "MD",
+        "postalCode": "20785-4798"
+      },
+      {
+        "line": [
+          "4797 Marlboro Pike"
+        ],
+        "city": "CAPITOL HEIGHTS",
+        "state": "MD",
+        "postalCode": "20743-5213"
+      },
+      {
+        "line": [
+          "305 College Parkway"
+        ],
+        "city": "ARNOLD",
+        "state": "MD",
+        "postalCode": "21012-2912"
+      },
+      {
+        "line": [
           "163 Jennifer Rd"
         ],
         "city": "ANNAPOLIS",
@@ -82,20 +90,12 @@
       },
       {
         "line": [
-          "104 FORBES ST STE 102"
+          "104 FORBES STREET",
+          "SUITE 102"
         ],
         "city": "ANNAPOLIS",
         "state": "MD",
         "postalCode": "21401-1543"
-      },
-      {
-        "line": [
-          "7651 MATAPEAKE BUSINESS DR",
-          "STE 206"
-        ],
-        "city": "BRANDYWINE",
-        "state": "MD",
-        "postalCode": "20613-3042"
       },
       {
         "line": [
@@ -107,11 +107,11 @@
       },
       {
         "line": [
-          "305 College Parkway"
+          "10003 DEREKWOOD LN"
         ],
-        "city": "ARNOLD",
+        "city": "LANHAM",
         "state": "MD",
-        "postalCode": "21012-2912"
+        "postalCode": "20706-4362"
       }
     ],
     "extension": [

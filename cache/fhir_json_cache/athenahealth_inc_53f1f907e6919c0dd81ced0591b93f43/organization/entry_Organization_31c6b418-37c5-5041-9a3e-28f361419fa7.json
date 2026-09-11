@@ -18,6 +18,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386630028"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1760779466"
       },
       {
@@ -26,14 +30,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386630028"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1033459854"
       }
     ],
     "address": [
+      {
+        "line": [
+          "320 Loretto Rd"
+        ],
+        "city": "LEBANON",
+        "state": "KY",
+        "postalCode": "40033-1300"
+      },
       {
         "line": [
           "429 Walnut Street"
@@ -49,14 +57,6 @@
         "city": "SPRINGFIELD",
         "state": "KY",
         "postalCode": "40069-1516"
-      },
-      {
-        "line": [
-          "320 Loretto Rd"
-        ],
-        "city": "LEBANON",
-        "state": "KY",
-        "postalCode": "40033-1300"
       }
     ],
     "extension": [

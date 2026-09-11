@@ -46,6 +46,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1790612760"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417900713"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "000000000"
       },
       {
@@ -178,6 +186,14 @@
       },
       {
         "system": "phone",
+        "value": "(417)347-6678"
+      },
+      {
+        "system": "phone",
+        "value": "(479)553-1000"
+      },
+      {
+        "system": "phone",
         "value": "(555)867-5309"
       },
       {
@@ -271,10 +287,6 @@
       {
         "system": "phone",
         "value": "(479)713-1000"
-      },
-      {
-        "system": "phone",
-        "value": "(479)553-1000"
       },
       {
         "system": "phone",
@@ -429,6 +441,28 @@
         "city": "BENTONVILLE",
         "state": "AR",
         "postalCode": "72712-4900",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "609 W Maple Ave"
+        ],
+        "city": "Springdale",
+        "state": "AR",
+        "postalCode": "727645335",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "3000 Medical Center PKWY"
+        ],
+        "city": "Bentonville",
+        "state": "AR",
+        "postalCode": "72712",
         "country": "USA"
       },
       {

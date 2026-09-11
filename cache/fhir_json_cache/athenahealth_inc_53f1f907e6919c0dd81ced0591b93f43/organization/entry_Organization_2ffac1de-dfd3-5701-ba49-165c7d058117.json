@@ -18,19 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194398511"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1588237903"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578343497"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316660350"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,22 +26,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487357927"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316660350"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578343497"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1922532944"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487357927"
+        "value": "1194398511"
       }
     ],
     "address": [
       {
         "line": [
-          "40 N SWAN RD",
-          "Suite 55"
+          "4602 E. University Drive",
+          "Suite 150"
         ],
-        "city": "TUCSON",
+        "city": "PHOENIX",
         "state": "AZ",
-        "postalCode": "85711-3018"
+        "postalCode": "85034-7421"
       },
       {
         "line": [
@@ -74,12 +74,12 @@
       },
       {
         "line": [
-          "4602 E. University Drive",
-          "Suite 150"
+          "40 N SWAN RD",
+          "Suite 55"
         ],
-        "city": "PHOENIX",
+        "city": "TUCSON",
         "state": "AZ",
-        "postalCode": "85034-7421"
+        "postalCode": "85711-3018"
       }
     ],
     "extension": [

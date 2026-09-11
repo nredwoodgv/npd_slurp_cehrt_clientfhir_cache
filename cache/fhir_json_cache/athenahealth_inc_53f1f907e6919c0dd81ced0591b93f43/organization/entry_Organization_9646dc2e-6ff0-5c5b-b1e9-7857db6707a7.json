@@ -18,23 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720556541"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306319280"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457827693"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1912756164"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992206478"
+        "value": "1538622436"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,10 +30,38 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538622436"
+        "value": "1306319280"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992206478"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720556541"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457827693"
       }
     ],
     "address": [
+      {
+        "line": [
+          "123 Main St."
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10017-1020"
+      },
+      {
+        "line": [
+          "10 LANGLEY RD STE 400"
+        ],
+        "city": "NEWTON CENTER",
+        "state": "MA",
+        "postalCode": "02459-1972"
+      },
       {
         "line": [
           "7330 Staples Mill Rd"
@@ -65,37 +81,12 @@
       },
       {
         "line": [
-          "123 Main St."
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10017-1020"
-      },
-      {
-        "line": [
           "55 Chapel St.",
           "Suite 300"
         ],
         "city": "NEWTON",
         "state": "MA",
         "postalCode": "02458-1060"
-      },
-      {
-        "line": [
-          "10 CONCORD CROSSING",
-          "STE 250"
-        ],
-        "city": "CONCORD",
-        "state": "MA",
-        "postalCode": "01742-3499"
-      },
-      {
-        "line": [
-          "10 LANGLEY RD STE 400"
-        ],
-        "city": "NEWTON CENTER",
-        "state": "MA",
-        "postalCode": "02459-1972"
       },
       {
         "line": [
@@ -116,6 +107,15 @@
       },
       {
         "line": [
+          "6137 Crawfordsville Rd Ste F",
+          "Box 386"
+        ],
+        "city": "INDIANAPOLIS",
+        "state": "IN",
+        "postalCode": "46224-3730"
+      },
+      {
+        "line": [
           "4938 Hampden Lane",
           "Suite 296"
         ],
@@ -125,12 +125,12 @@
       },
       {
         "line": [
-          "6137 Crawfordsville Rd Ste F",
-          "Box 386"
+          "10 CONCORD CROSSING",
+          "STE 250"
         ],
-        "city": "INDIANAPOLIS",
-        "state": "IN",
-        "postalCode": "46224-3730"
+        "city": "CONCORD",
+        "state": "MA",
+        "postalCode": "01742-3499"
       }
     ],
     "extension": [

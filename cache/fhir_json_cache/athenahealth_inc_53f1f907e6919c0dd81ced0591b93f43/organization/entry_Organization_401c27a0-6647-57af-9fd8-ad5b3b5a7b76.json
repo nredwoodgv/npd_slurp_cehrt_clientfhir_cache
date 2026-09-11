@@ -14,18 +14,27 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962215277"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1801682257"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1104449560"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962215277"
       }
     ],
     "address": [
+      {
+        "line": [
+          "14749 W MOUNTAIN VIEW BLVD",
+          "STE 138"
+        ],
+        "city": "SURPRISE",
+        "state": "AZ",
+        "postalCode": "85374-2704"
+      },
       {
         "line": [
           "2500 ANTHEM VILLAGE DR",
@@ -42,15 +51,6 @@
         "city": "LOUISVILLE",
         "state": "KY",
         "postalCode": "40202-1349"
-      },
-      {
-        "line": [
-          "14749 W MOUNTAIN VIEW BLVD",
-          "STE 138"
-        ],
-        "city": "SURPRISE",
-        "state": "AZ",
-        "postalCode": "85374-2704"
       }
     ],
     "extension": [

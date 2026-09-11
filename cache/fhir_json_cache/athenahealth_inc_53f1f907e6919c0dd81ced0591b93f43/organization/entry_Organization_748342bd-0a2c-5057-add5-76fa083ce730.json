@@ -14,45 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356874374"
+        "value": "1780955898"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780955898"
+        "value": "1356874374"
       }
     ],
     "address": [
       {
         "line": [
-          "1011 Main Street"
+          "701 E Highway 70"
         ],
-        "city": "SPRING HILL",
-        "state": "TN",
-        "postalCode": "37174-4531"
-      },
-      {
-        "line": [
-          "1800 W. University"
-        ],
-        "city": "DURANT",
+        "city": "KINGSTON",
         "state": "OK",
-        "postalCode": "74701-3006"
-      },
-      {
-        "line": [
-          "901 S 5TH AVE"
-        ],
-        "city": "MADILL",
-        "state": "OK",
-        "postalCode": "73446-3640"
-      },
-      {
-        "line": [
-          "9009 CAROTHERS"
-        ],
-        "city": "FRANKLIN",
-        "state": "TN",
-        "postalCode": "37064-1704"
+        "postalCode": "73439-8253"
       },
       {
         "line": [
@@ -64,11 +40,35 @@
       },
       {
         "line": [
-          "701 E Highway 70"
+          "901 S 5TH AVE"
         ],
-        "city": "KINGSTON",
+        "city": "MADILL",
         "state": "OK",
-        "postalCode": "73439-8253"
+        "postalCode": "73446-3640"
+      },
+      {
+        "line": [
+          "1800 W. University"
+        ],
+        "city": "DURANT",
+        "state": "OK",
+        "postalCode": "74701-3006"
+      },
+      {
+        "line": [
+          "1011 Main Street"
+        ],
+        "city": "SPRING HILL",
+        "state": "TN",
+        "postalCode": "37174-4531"
+      },
+      {
+        "line": [
+          "9009 CAROTHERS"
+        ],
+        "city": "FRANKLIN",
+        "state": "TN",
+        "postalCode": "37064-1704"
       }
     ],
     "extension": [

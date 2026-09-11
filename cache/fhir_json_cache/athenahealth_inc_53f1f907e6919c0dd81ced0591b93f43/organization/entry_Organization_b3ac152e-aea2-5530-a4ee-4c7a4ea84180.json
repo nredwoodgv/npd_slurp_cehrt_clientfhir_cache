@@ -14,19 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417117912"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1245490747"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033943394"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922832286"
+        "value": "1417117912"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -35,6 +27,14 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1437160215"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1922832286"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033943394"
       }
     ],
     "address": [
@@ -66,20 +66,20 @@
       },
       {
         "line": [
-          "1350 East Lookout Drive"
-        ],
-        "city": "RICHARDSON",
-        "state": "TX",
-        "postalCode": "75082-4106"
-      },
-      {
-        "line": [
           "400 W ARBROOK BLVD",
           "STE 120"
         ],
         "city": "ARLINGTON",
         "state": "TX",
         "postalCode": "76014-3175"
+      },
+      {
+        "line": [
+          "1350 East Lookout Drive"
+        ],
+        "city": "RICHARDSON",
+        "state": "TX",
+        "postalCode": "75082-4106"
       }
     ],
     "extension": [

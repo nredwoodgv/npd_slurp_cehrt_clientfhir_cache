@@ -3,7 +3,7 @@
     "resourceType": "Endpoint",
     "id": "1cb51de1-cdbb-4ddc-baaa-209ae70f4715",
     "status": "active",
-    "address": "https://ndalive.meditech6.api.catholichealth.net/v1/uscore/R4",
+    "address": "https://ndalive-meditech6-api.catholichealth.net/v1/uscore/R4",
     "contact": [
       {
         "extension": [
@@ -33,7 +33,10 @@
           }
         ]
       }
-    ]
+    ],
+    "meta": {
+      "lastUpdated": "2026-08-12T13:44:13.891Z"
+    }
   },
   "fullUrl": "urn:uuid:1cb51de1-cdbb-4ddc-baaa-209ae70f4715"
 }

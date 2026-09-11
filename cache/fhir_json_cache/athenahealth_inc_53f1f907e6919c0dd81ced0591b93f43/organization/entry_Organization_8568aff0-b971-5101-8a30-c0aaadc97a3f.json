@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
+        "value": "1215348487"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,11 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114235918"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
+        "value": "1649232984"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,11 +34,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
+        "value": "1750302923"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
+        "value": "1053373951"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,25 +46,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
+        "value": "1962602300"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124080320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114235918"
       }
     ],
     "address": [
       {
         "line": [
-          "1400 FITZGERALD"
+          "1405 W STOREY ST"
         ],
-        "city": "BANGS",
+        "city": "SAN SABA",
         "state": "TX",
-        "postalCode": "76823-4000"
-      },
-      {
-        "line": [
-          "2500 SONG BIRD CIR"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-6488"
+        "postalCode": "76877-6422"
       },
       {
         "line": [
@@ -84,23 +76,23 @@
       },
       {
         "line": [
-          "200 CR 616"
+          "2500 SONG BIRD CIR"
         ],
         "city": "BROWNWOOD",
         "state": "TX",
-        "postalCode": "76802-3294"
+        "postalCode": "76801-6488"
       },
       {
         "line": [
-          "1405 W Storey"
+          "1514 INDIAN CREEK DR"
         ],
-        "city": "SAN SABA",
+        "city": "BROWNWOOD",
         "state": "TX",
-        "postalCode": "76877-6422"
+        "postalCode": "76801-6536"
       },
       {
         "line": [
-          "109 S PARK DR"
+          "109 Southpark Dr"
         ],
         "city": "BROWNWOOD",
         "state": "TX",
@@ -116,6 +108,22 @@
       },
       {
         "line": [
+          "109 S PARK DR"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-5917"
+      },
+      {
+        "line": [
+          "1400 FITZGERALD"
+        ],
+        "city": "BANGS",
+        "state": "TX",
+        "postalCode": "76823-4000"
+      },
+      {
+        "line": [
           "200 COUNTY ROAD 616"
         ],
         "city": "BROWNWOOD",
@@ -124,11 +132,19 @@
       },
       {
         "line": [
-          "1105 FITZGERALD ST"
+          "1405 W Storey"
         ],
-        "city": "BANGS",
+        "city": "SAN SABA",
         "state": "TX",
-        "postalCode": "76823-3232"
+        "postalCode": "76877-6422"
+      },
+      {
+        "line": [
+          "200 CR 616"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76802-3294"
       },
       {
         "line": [
@@ -140,35 +156,19 @@
       },
       {
         "line": [
-          "1405 W STOREY ST"
-        ],
-        "city": "SAN SABA",
-        "state": "TX",
-        "postalCode": "76877-6422"
-      },
-      {
-        "line": [
-          "109 Southpark Dr"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-5917"
-      },
-      {
-        "line": [
-          "1514 INDIAN CREEK DR"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-6536"
-      },
-      {
-        "line": [
           "2500 Songbird Circle"
         ],
         "city": "BROWNWOOD",
         "state": "TX",
         "postalCode": "76801-6488"
+      },
+      {
+        "line": [
+          "1105 FITZGERALD ST"
+        ],
+        "city": "BANGS",
+        "state": "TX",
+        "postalCode": "76823-3232"
       }
     ],
     "extension": [

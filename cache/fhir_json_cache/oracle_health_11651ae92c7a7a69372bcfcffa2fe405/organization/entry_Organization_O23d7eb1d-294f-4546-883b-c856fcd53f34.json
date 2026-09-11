@@ -5,8 +5,18 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.8223"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1063705341"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285995944"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417991159"
       }
     ],
     "name": "General John J. Pershing Memorial Hospital Association DBA Pershing Memorial Hospital",

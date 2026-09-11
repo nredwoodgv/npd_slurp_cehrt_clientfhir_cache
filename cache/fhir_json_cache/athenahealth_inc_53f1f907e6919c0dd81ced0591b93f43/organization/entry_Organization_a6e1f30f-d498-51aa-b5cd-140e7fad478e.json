@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396961322"
+        "value": "1346044401"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346044401"
+        "value": "1396961322"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1 Avenue N"
-        ],
-        "city": "HASKELL",
-        "state": "TX",
-        "postalCode": "79521-5415"
-      },
       {
         "line": [
           "1150 N 18th Street, Ste 300"
@@ -40,11 +32,11 @@
       },
       {
         "line": [
-          "200 S Geneva"
+          "301 JENNY GEORGE LN STE B"
         ],
-        "city": "BRECKENRIDGE",
+        "city": "SWEETWATER",
         "state": "TX",
-        "postalCode": "76424-4702"
+        "postalCode": "79556-7145"
       },
       {
         "line": [
@@ -56,11 +48,19 @@
       },
       {
         "line": [
-          "301 JENNY GEORGE LN STE B"
+          "1 Avenue N"
         ],
-        "city": "SWEETWATER",
+        "city": "HASKELL",
         "state": "TX",
-        "postalCode": "79556-7145"
+        "postalCode": "79521-5415"
+      },
+      {
+        "line": [
+          "200 S Geneva"
+        ],
+        "city": "BRECKENRIDGE",
+        "state": "TX",
+        "postalCode": "76424-4702"
       }
     ],
     "extension": [

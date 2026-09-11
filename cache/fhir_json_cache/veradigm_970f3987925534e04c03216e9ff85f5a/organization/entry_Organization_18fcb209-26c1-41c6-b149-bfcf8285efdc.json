@@ -5,7 +5,7 @@
     "identifier": [
       {
         "system": "http://fhir.developer.allscripts.com/systems/Pro/identifier",
-        "value": "10020578"
+        "value": "56176"
       }
     ],
     "active": true,
@@ -24,8 +24,11 @@
     "endpoint": [
       {
         "reference": "Endpoint/e98bc531-3087-4791-8b19-2dec68bf4d00"
+      },
+      {
+        "reference": "Endpoint/c78c1b3f-2f07-4e39-ae2a-a46d9f971161"
       }
     ]
   },
-  "fullUrl": "https://fhir.fhirpoint.open.allscripts.com/fhirroute/open/10020578/Organization/18fcb209-26c1-41c6-b149-bfcf8285efdc"
+  "fullUrl": "https://fhir.fhirpoint.open.allscripts.com/fhirroute/open/56176/Organization/18fcb209-26c1-41c6-b149-bfcf8285efdc"
 }

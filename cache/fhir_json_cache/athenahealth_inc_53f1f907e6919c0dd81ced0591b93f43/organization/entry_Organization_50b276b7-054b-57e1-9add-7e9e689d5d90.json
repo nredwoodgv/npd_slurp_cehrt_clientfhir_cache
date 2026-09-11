@@ -14,6 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104261890"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1740589860"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669422234"
       },
       {
@@ -23,14 +31,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1366689044"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104261890"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740589860"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -44,11 +44,11 @@
     "address": [
       {
         "line": [
-          "8424 Naab Rd #1H"
+          "2605 N LEBANON STREET"
         ],
-        "city": "INDIANAPOLIS",
+        "city": "LEBANON",
         "state": "IN",
-        "postalCode": "46260-1954"
+        "postalCode": "46052-1476"
       },
       {
         "line": [
@@ -60,11 +60,11 @@
       },
       {
         "line": [
-          "8414 NAAB RD"
+          "2605 N LEBANON ST"
         ],
-        "city": "INDIANAPOLIS",
+        "city": "LEBANON",
         "state": "IN",
-        "postalCode": "46260-1972"
+        "postalCode": "46052-1476"
       },
       {
         "line": [
@@ -76,19 +76,19 @@
       },
       {
         "line": [
-          "2605 N LEBANON ST"
+          "8424 Naab Rd #1H"
         ],
-        "city": "LEBANON",
+        "city": "INDIANAPOLIS",
         "state": "IN",
-        "postalCode": "46052-1476"
+        "postalCode": "46260-1954"
       },
       {
         "line": [
-          "2605 N LEBANON STREET"
+          "8414 NAAB RD"
         ],
-        "city": "LEBANON",
+        "city": "INDIANAPOLIS",
         "state": "IN",
-        "postalCode": "46052-1476"
+        "postalCode": "46260-1972"
       }
     ],
     "extension": [

@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164530234"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184635054"
+        "value": "1578545273"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,11 +26,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578545273"
+        "value": "1164530234"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285622688"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1184635054"
       }
     ],
     "address": [
@@ -45,6 +45,14 @@
         "city": "COLUMBUS",
         "state": "OH",
         "postalCode": "43215-5331"
+      },
+      {
+        "line": [
+          "210 North Main Street"
+        ],
+        "city": "LONDON",
+        "state": "OH",
+        "postalCode": "43140-1115"
       },
       {
         "line": [
@@ -64,14 +72,6 @@
       },
       {
         "line": [
-          "410 West Tenth Street"
-        ],
-        "city": "COLUMBUS",
-        "state": "OH",
-        "postalCode": "43210-1240"
-      },
-      {
-        "line": [
           "393 East Town Street"
         ],
         "city": "COLUMBUS",
@@ -80,19 +80,19 @@
       },
       {
         "line": [
+          "410 West Tenth Street"
+        ],
+        "city": "COLUMBUS",
+        "state": "OH",
+        "postalCode": "43210-1240"
+      },
+      {
+        "line": [
           "5005 Parkcenter Avenue"
         ],
         "city": "DUBLIN",
         "state": "OH",
         "postalCode": "43017-3582"
-      },
-      {
-        "line": [
-          "210 North Main Street"
-        ],
-        "city": "LONDON",
-        "state": "OH",
-        "postalCode": "43140-1115"
       }
     ],
     "extension": [

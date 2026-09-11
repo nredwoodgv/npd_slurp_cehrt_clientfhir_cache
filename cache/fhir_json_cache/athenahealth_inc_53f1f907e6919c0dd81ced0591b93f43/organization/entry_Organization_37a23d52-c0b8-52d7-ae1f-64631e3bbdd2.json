@@ -18,22 +18,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215999511"
       },
       {
@@ -42,7 +26,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
+        "value": "1649232984"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124080320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881656247"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,18 +42,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730484031"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215348487"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053373951"
       }
     ],
     "address": [
-      {
-        "line": [
-          "10700 MCPHERSON RD"
-        ],
-        "city": "LAREDO",
-        "state": "TX",
-        "postalCode": "78045-6268"
-      },
       {
         "line": [
           "4000 MERIDIAN"
@@ -69,46 +61,6 @@
         "city": "FRANKLIN",
         "state": "TN",
         "postalCode": "37067-6352"
-      },
-      {
-        "line": [
-          "4151 JAIME ZAPATA MEMORIAL HWY STE 101B"
-        ],
-        "city": "LAREDO",
-        "state": "TX",
-        "postalCode": "78043-4741"
-      },
-      {
-        "line": [
-          "1011 Main St"
-        ],
-        "city": "SPRING HILL",
-        "state": "TN",
-        "postalCode": "37174-4531"
-      },
-      {
-        "line": [
-          "1700 E SAUNDERS ST"
-        ],
-        "city": "LAREDO",
-        "state": "TX",
-        "postalCode": "78041-5474"
-      },
-      {
-        "line": [
-          "1710 E SAUNDERS ST STE B260"
-        ],
-        "city": "LAREDO",
-        "state": "TX",
-        "postalCode": "78041-5528"
-      },
-      {
-        "line": [
-          "1710 E SAUNDERS ST STE 385"
-        ],
-        "city": "LAREDO",
-        "state": "TX",
-        "postalCode": "78041-5443"
       },
       {
         "line": [
@@ -120,19 +72,19 @@
       },
       {
         "line": [
-          "1710 E Saunders Suite B260"
+          "1710 E SAUNDERS ST STE 385"
         ],
         "city": "LAREDO",
         "state": "TX",
-        "postalCode": "78041-5528"
+        "postalCode": "78041-5443"
       },
       {
         "line": [
-          "4151 JAIME ZAPATA MEMROIAL HWY STE 101B"
+          "1710 E SAUNDERS ST STE B460"
         ],
         "city": "LAREDO",
         "state": "TX",
-        "postalCode": "78043-4741"
+        "postalCode": "78041-5454"
       },
       {
         "line": [
@@ -144,11 +96,59 @@
       },
       {
         "line": [
-          "1710 E SAUNDERS ST STE B460"
+          "4151 JAIME ZAPATA MEMORIAL HWY STE 101B"
         ],
         "city": "LAREDO",
         "state": "TX",
-        "postalCode": "78041-5454"
+        "postalCode": "78043-4741"
+      },
+      {
+        "line": [
+          "10700 MCPHERSON RD"
+        ],
+        "city": "LAREDO",
+        "state": "TX",
+        "postalCode": "78045-6268"
+      },
+      {
+        "line": [
+          "1710 E Saunders Suite B260"
+        ],
+        "city": "LAREDO",
+        "state": "TX",
+        "postalCode": "78041-5528"
+      },
+      {
+        "line": [
+          "1011 Main St"
+        ],
+        "city": "SPRING HILL",
+        "state": "TN",
+        "postalCode": "37174-4531"
+      },
+      {
+        "line": [
+          "1710 E SAUNDERS ST STE B260"
+        ],
+        "city": "LAREDO",
+        "state": "TX",
+        "postalCode": "78041-5528"
+      },
+      {
+        "line": [
+          "1700 E SAUNDERS ST"
+        ],
+        "city": "LAREDO",
+        "state": "TX",
+        "postalCode": "78041-5474"
+      },
+      {
+        "line": [
+          "4151 JAIME ZAPATA MEMROIAL HWY STE 101B"
+        ],
+        "city": "LAREDO",
+        "state": "TX",
+        "postalCode": "78043-4741"
       }
     ],
     "extension": [

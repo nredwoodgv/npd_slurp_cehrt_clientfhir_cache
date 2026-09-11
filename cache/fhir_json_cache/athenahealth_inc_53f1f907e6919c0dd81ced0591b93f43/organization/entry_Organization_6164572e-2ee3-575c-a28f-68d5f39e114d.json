@@ -14,27 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891778114"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1104603620"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124533492"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114757754"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821838483"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437407582"
+        "value": "1194279554"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,15 +26,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508415274"
+        "value": "1437407582"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568120723"
+        "value": "1891778114"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588086771"
+        "value": "1821838483"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,30 +42,30 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447309885"
+        "value": "1588086771"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194279554"
+        "value": "1124533492"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1508415274"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114757754"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1568120723"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447309885"
       }
     ],
     "address": [
-      {
-        "line": [
-          "285 HOSPITAL DR"
-        ],
-        "city": "CHOWCHILLA",
-        "state": "CA",
-        "postalCode": "93610-2041"
-      },
-      {
-        "line": [
-          "344 E 6TH ST"
-        ],
-        "city": "MADERA",
-        "state": "CA",
-        "postalCode": "93638-3631"
-      },
       {
         "line": [
           "2520 E. Pacheco Blvd."
@@ -92,23 +76,7 @@
       },
       {
         "line": [
-          "344 E 6th Street"
-        ],
-        "city": "MADERA",
-        "state": "CA",
-        "postalCode": "93638-3631"
-      },
-      {
-        "line": [
-          "1245 E HERNDON AVE"
-        ],
-        "city": "FRESNO",
-        "state": "CA",
-        "postalCode": "93720-3235"
-      },
-      {
-        "line": [
-          "344 E 6TH STREET"
+          "344 E 6TH ST"
         ],
         "city": "MADERA",
         "state": "CA",
@@ -124,11 +92,43 @@
       },
       {
         "line": [
+          "285 HOSPITAL DR"
+        ],
+        "city": "CHOWCHILLA",
+        "state": "CA",
+        "postalCode": "93610-2041"
+      },
+      {
+        "line": [
+          "344 E 6TH STREET"
+        ],
+        "city": "MADERA",
+        "state": "CA",
+        "postalCode": "93638-3631"
+      },
+      {
+        "line": [
+          "344 E 6th Street"
+        ],
+        "city": "MADERA",
+        "state": "CA",
+        "postalCode": "93638-3631"
+      },
+      {
+        "line": [
           "700 E YOSEMITE AVE"
         ],
         "city": "MADERA",
         "state": "CA",
         "postalCode": "93638-3359"
+      },
+      {
+        "line": [
+          "1245 E HERNDON AVE"
+        ],
+        "city": "FRESNO",
+        "state": "CA",
+        "postalCode": "93720-3235"
       }
     ],
     "extension": [

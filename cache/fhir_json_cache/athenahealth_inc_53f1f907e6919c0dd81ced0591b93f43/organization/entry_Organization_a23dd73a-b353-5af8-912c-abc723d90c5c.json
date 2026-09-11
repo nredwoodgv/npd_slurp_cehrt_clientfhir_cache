@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1003318692"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1972005981"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760892921"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245236652"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,18 +26,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003318692"
+        "value": "1245236652"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1760892921"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1103 BIRCH"
-        ],
-        "city": "PERRY",
-        "state": "OK",
-        "postalCode": "73077-6269"
-      },
       {
         "line": [
           "501 14th"
@@ -49,6 +41,14 @@
         "city": "PERRY",
         "state": "OK",
         "postalCode": "73077-5021"
+      },
+      {
+        "line": [
+          "1103 BIRCH"
+        ],
+        "city": "PERRY",
+        "state": "OK",
+        "postalCode": "73077-6269"
       }
     ],
     "extension": [

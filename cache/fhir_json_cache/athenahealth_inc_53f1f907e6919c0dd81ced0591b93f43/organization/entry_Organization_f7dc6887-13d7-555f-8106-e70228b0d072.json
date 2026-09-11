@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407235971"
+        "value": "1174744379"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174744379"
+        "value": "1407235971"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,27 +28,19 @@
     "address": [
       {
         "line": [
-          "1030 RIVER OAKS DR"
-        ],
-        "city": "FLOWOOD",
-        "state": "MS",
-        "postalCode": "39232-9553"
-      },
-      {
-        "line": [
-          "2506 LAKELAND DR STE 600"
-        ],
-        "city": "FLOWOOD",
-        "state": "MS",
-        "postalCode": "39232-7640"
-      },
-      {
-        "line": [
           "1026 N FLOWOOD DR"
         ],
         "city": "FLOWOOD",
         "state": "MS",
         "postalCode": "39232-9532"
+      },
+      {
+        "line": [
+          "1030 RIVER OAKS DR"
+        ],
+        "city": "FLOWOOD",
+        "state": "MS",
+        "postalCode": "39232-9553"
       },
       {
         "line": [
@@ -65,6 +57,14 @@
         "city": "JACKSON",
         "state": "MS",
         "postalCode": "39202-2064"
+      },
+      {
+        "line": [
+          "2506 LAKELAND DR STE 600"
+        ],
+        "city": "FLOWOOD",
+        "state": "MS",
+        "postalCode": "39232-7640"
       }
     ],
     "extension": [

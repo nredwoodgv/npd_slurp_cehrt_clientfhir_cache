@@ -18,22 +18,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912504796"
+        "value": "1578702320"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578702320"
+        "value": "1912504796"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2201 K AVE STE B100"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75074-5941"
-      },
       {
         "line": [
           "7208 GLENVIEW Dr"
@@ -52,19 +44,27 @@
       },
       {
         "line": [
-          "4701 OLD SHEPARD PL STE 260"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75093-5250"
-      },
-      {
-        "line": [
           "2625 W PLANO PKWY"
         ],
         "city": "PLANO",
         "state": "TX",
         "postalCode": "75075-8201"
+      },
+      {
+        "line": [
+          "10441 International plaza dr"
+        ],
+        "city": "SAINT ANN",
+        "state": "MO",
+        "postalCode": "63074-1805"
+      },
+      {
+        "line": [
+          "4701 OLD SHEPARD PL STE 260"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75093-5250"
       },
       {
         "line": [
@@ -76,11 +76,11 @@
       },
       {
         "line": [
-          "10441 International plaza dr"
+          "2201 K AVE STE B100"
         ],
-        "city": "SAINT ANN",
-        "state": "MO",
-        "postalCode": "63074-1805"
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75074-5941"
       }
     ],
     "extension": [

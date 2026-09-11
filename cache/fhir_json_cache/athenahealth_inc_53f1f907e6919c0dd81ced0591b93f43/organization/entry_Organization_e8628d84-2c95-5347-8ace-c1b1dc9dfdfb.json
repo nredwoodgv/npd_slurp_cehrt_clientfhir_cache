@@ -14,10 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1356630990"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1811912611"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3200 DOWNWOOD CIRCLE NW",
+          "Suite 500"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30327-1610"
+      },
       {
         "line": [
           "3200 Downwood Circle",

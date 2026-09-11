@@ -14,6 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1538575386"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073992780"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1467791665"
       },
       {
@@ -30,14 +38,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073992780"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538575386"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1033873419"
       },
       {
@@ -46,30 +46,6 @@
       }
     ],
     "address": [
-      {
-        "line": [
-          "330 Mount Auburn Street"
-        ],
-        "city": "CAMBRIDGE",
-        "state": "MA",
-        "postalCode": "02138-5502"
-      },
-      {
-        "line": [
-          "330 MOUNT AUBURN STREET"
-        ],
-        "city": "CAMBRIDGE",
-        "state": "MA",
-        "postalCode": "02138-5502"
-      },
-      {
-        "line": [
-          "27 VILLAGE SQUARE"
-        ],
-        "city": "CHELMSFORD",
-        "state": "MA",
-        "postalCode": "01824-2712"
-      },
       {
         "line": [
           "154 EAST CENTRAL STREET",
@@ -81,11 +57,11 @@
       },
       {
         "line": [
-          "1440 MAIN STREET"
+          "330 MOUNT AUBURN STREET"
         ],
-        "city": "WALTHAM",
+        "city": "CAMBRIDGE",
         "state": "MA",
-        "postalCode": "02451-1631"
+        "postalCode": "02138-5502"
       },
       {
         "line": [
@@ -95,6 +71,30 @@
         "city": "ARLINGTON",
         "state": "MA",
         "postalCode": "02476-4784"
+      },
+      {
+        "line": [
+          "27 VILLAGE SQUARE"
+        ],
+        "city": "CHELMSFORD",
+        "state": "MA",
+        "postalCode": "01824-2712"
+      },
+      {
+        "line": [
+          "330 Mount Auburn Street"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-5502"
+      },
+      {
+        "line": [
+          "1440 MAIN STREET"
+        ],
+        "city": "WALTHAM",
+        "state": "MA",
+        "postalCode": "02451-1631"
       }
     ],
     "extension": [

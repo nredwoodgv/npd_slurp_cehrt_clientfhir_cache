@@ -14,45 +14,37 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215920285"
+        "value": "1033437116"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033437116"
+        "value": "1215920285"
       }
     ],
     "address": [
       {
         "line": [
-          "8400 CLEARVISTA PL"
+          "200 26TH ST"
         ],
-        "city": "INDIANAPOLIS",
+        "city": "LOGANSPORT",
         "state": "IN",
-        "postalCode": "46256-3700"
+        "postalCode": "46947-2063"
       },
       {
         "line": [
-          "1720 ALBER ST"
+          "500 WALKERTON TRL"
         ],
-        "city": "WABASH",
+        "city": "WALKERTON",
         "state": "IN",
-        "postalCode": "46992-1015"
+        "postalCode": "46574-1300"
       },
       {
         "line": [
-          "2901 WEST 37TH AVE"
+          "635 OAKHILL AVE"
         ],
-        "city": "HOBART",
+        "city": "PLYMOUTH",
         "state": "IN",
-        "postalCode": "46342-1727"
-      },
-      {
-        "line": [
-          "259 W HARRISON ST"
-        ],
-        "city": "MOORESVILLE",
-        "state": "IN",
-        "postalCode": "46158-1634"
+        "postalCode": "46563-3064"
       },
       {
         "line": [
@@ -64,19 +56,51 @@
       },
       {
         "line": [
-          "730 SCHOOL STREET"
+          "259 W HARRISON ST"
         ],
-        "city": "CULVER",
+        "city": "MOORESVILLE",
         "state": "IN",
-        "postalCode": "46511-1027"
+        "postalCode": "46158-1634"
       },
       {
         "line": [
-          "500 WALKERTON TRL"
+          "8400 CLEARVISTA PL"
         ],
-        "city": "WALKERTON",
+        "city": "INDIANAPOLIS",
         "state": "IN",
-        "postalCode": "46574-1300"
+        "postalCode": "46256-3700"
+      },
+      {
+        "line": [
+          "5909 LUTE RD"
+        ],
+        "city": "PORTAGE",
+        "state": "IN",
+        "postalCode": "46368-4824"
+      },
+      {
+        "line": [
+          "1900 ALBER ST"
+        ],
+        "city": "WABASH",
+        "state": "IN",
+        "postalCode": "46992-1018"
+      },
+      {
+        "line": [
+          "2901 WEST 37TH AVE"
+        ],
+        "city": "HOBART",
+        "state": "IN",
+        "postalCode": "46342-1727"
+      },
+      {
+        "line": [
+          "1720 ALBER ST"
+        ],
+        "city": "WABASH",
+        "state": "IN",
+        "postalCode": "46992-1015"
       },
       {
         "line": [
@@ -96,30 +120,6 @@
       },
       {
         "line": [
-          "5909 LUTE RD"
-        ],
-        "city": "PORTAGE",
-        "state": "IN",
-        "postalCode": "46368-4824"
-      },
-      {
-        "line": [
-          "635 OAKHILL AVE"
-        ],
-        "city": "PLYMOUTH",
-        "state": "IN",
-        "postalCode": "46563-3064"
-      },
-      {
-        "line": [
-          "1900 ALBER ST"
-        ],
-        "city": "WABASH",
-        "state": "IN",
-        "postalCode": "46992-1018"
-      },
-      {
-        "line": [
           "7440 NORTH 825 EAST"
         ],
         "city": "HOPE",
@@ -128,11 +128,11 @@
       },
       {
         "line": [
-          "200 26TH ST"
+          "730 SCHOOL STREET"
         ],
-        "city": "LOGANSPORT",
+        "city": "CULVER",
         "state": "IN",
-        "postalCode": "46947-2063"
+        "postalCode": "46511-1027"
       }
     ],
     "extension": [

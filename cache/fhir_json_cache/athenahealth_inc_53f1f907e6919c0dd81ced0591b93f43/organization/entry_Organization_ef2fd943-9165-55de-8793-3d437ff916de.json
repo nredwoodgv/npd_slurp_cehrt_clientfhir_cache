@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205844719"
+        "value": "1598788218"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,25 +22,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598788218"
+        "value": "1205844719"
       }
     ],
     "address": [
       {
         "line": [
-          "2905 East South Blvd"
+          "3350 S Court St"
         ],
         "city": "MONTGOMERY",
         "state": "AL",
-        "postalCode": "36116-2905"
+        "postalCode": "36105-1606"
       },
       {
         "line": [
-          "309 St. Lukes Drive"
+          "33 Salem Rd",
+          "#1"
+        ],
+        "city": "MONTEVALLO",
+        "state": "AL",
+        "postalCode": "35115-3586"
+      },
+      {
+        "line": [
+          "2905 E South Blvd"
         ],
         "city": "MONTGOMERY",
         "state": "AL",
-        "postalCode": "36117-7109"
+        "postalCode": "36116-2501"
       },
       {
         "line": [
@@ -52,11 +61,12 @@
       },
       {
         "line": [
-          "3058 Mobile Highway"
+          "2001 W FAIRVIEW AVE",
+          "RM A112"
         ],
         "city": "MONTGOMERY",
         "state": "AL",
-        "postalCode": "36108-4027"
+        "postalCode": "36108-4118"
       },
       {
         "line": [
@@ -76,61 +86,11 @@
       },
       {
         "line": [
-          "2001 W FAIRVIEW AVE",
-          "RM A112"
-        ],
-        "city": "MONTGOMERY",
-        "state": "AL",
-        "postalCode": "36108-4118"
-      },
-      {
-        "line": [
-          "1845 Cherry Street"
-        ],
-        "city": "MONTGOMERY",
-        "state": "AL",
-        "postalCode": "36107-2613"
-      },
-      {
-        "line": [
-          "2905 E South Blvd"
-        ],
-        "city": "MONTGOMERY",
-        "state": "AL",
-        "postalCode": "36116-2501"
-      },
-      {
-        "line": [
           "33 Salem"
         ],
         "city": "MONTEVALLO",
         "state": "AL",
         "postalCode": "35115-3586"
-      },
-      {
-        "line": [
-          "3350 S Court St"
-        ],
-        "city": "MONTGOMERY",
-        "state": "AL",
-        "postalCode": "36105-1606"
-      },
-      {
-        "line": [
-          "511 East Tuskeena"
-        ],
-        "city": "HAYNEVILLE",
-        "state": "AL",
-        "postalCode": "36040-2033"
-      },
-      {
-        "line": [
-          "4425 BREWBAKER DR",
-          "RM 1"
-        ],
-        "city": "MONTGOMERY",
-        "state": "AL",
-        "postalCode": "36116-4205"
       },
       {
         "line": [
@@ -142,11 +102,59 @@
       },
       {
         "line": [
+          "3058 Mobile Highway"
+        ],
+        "city": "MONTGOMERY",
+        "state": "AL",
+        "postalCode": "36108-4027"
+      },
+      {
+        "line": [
           "33 SALEM RD # 2"
         ],
         "city": "MONTEVALLO",
         "state": "AL",
         "postalCode": "35115-3586"
+      },
+      {
+        "line": [
+          "511 East Tuskeena"
+        ],
+        "city": "HAYNEVILLE",
+        "state": "AL",
+        "postalCode": "36040-2033"
+      },
+      {
+        "line": [
+          "2905 East South Blvd"
+        ],
+        "city": "MONTGOMERY",
+        "state": "AL",
+        "postalCode": "36116-2905"
+      },
+      {
+        "line": [
+          "1845 Cherry Street"
+        ],
+        "city": "MONTGOMERY",
+        "state": "AL",
+        "postalCode": "36107-2613"
+      },
+      {
+        "line": [
+          "309 St. Lukes Drive"
+        ],
+        "city": "MONTGOMERY",
+        "state": "AL",
+        "postalCode": "36117-7109"
+      },
+      {
+        "line": [
+          "1845 Cherry ST"
+        ],
+        "city": "MONTGOMERY",
+        "state": "AL",
+        "postalCode": "36107-2613"
       },
       {
         "line": [
@@ -158,11 +166,12 @@
       },
       {
         "line": [
-          "1845 Cherry ST"
+          "4425 BREWBAKER DR",
+          "RM 1"
         ],
         "city": "MONTGOMERY",
         "state": "AL",
-        "postalCode": "36107-2613"
+        "postalCode": "36116-4205"
       },
       {
         "line": [

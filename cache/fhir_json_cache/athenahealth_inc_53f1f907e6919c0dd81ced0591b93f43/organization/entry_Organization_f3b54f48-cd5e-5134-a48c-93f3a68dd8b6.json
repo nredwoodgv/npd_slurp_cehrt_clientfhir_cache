@@ -14,14 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003467440"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598620445"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1043936164"
       },
       {
@@ -30,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225840721"
+        "value": "1598620445"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,7 +30,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225840721"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1871144469"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1003467440"
       }
     ],
     "address": [
@@ -52,35 +52,11 @@
       },
       {
         "line": [
-          "3521 HIGHWAY 190 STE T"
-        ],
-        "city": "EUNICE",
-        "state": "LA",
-        "postalCode": "70535-5135"
-      },
-      {
-        "line": [
           "417 INDUSTRIAL DR"
         ],
         "city": "OBERLIN",
         "state": "LA",
         "postalCode": "70655-3519"
-      },
-      {
-        "line": [
-          "3859 HIGHWAY 190"
-        ],
-        "city": "EUNICE",
-        "state": "LA",
-        "postalCode": "70535-7900"
-      },
-      {
-        "line": [
-          "906 CHERRY ST"
-        ],
-        "city": "MAMOU",
-        "state": "LA",
-        "postalCode": "70554-2215"
       },
       {
         "line": [
@@ -92,6 +68,14 @@
       },
       {
         "line": [
+          "161 S BEADLE RD"
+        ],
+        "city": "LAFAYETTE",
+        "state": "LA",
+        "postalCode": "70508-4211"
+      },
+      {
+        "line": [
           "3521 HWY 190 SUITE T"
         ],
         "city": "EUNICE",
@@ -100,19 +84,19 @@
       },
       {
         "line": [
-          "630 S BROADWAY ST"
+          "828 CRESWELL LN"
         ],
-        "city": "CHURCH POINT",
+        "city": "OPELOUSAS",
         "state": "LA",
-        "postalCode": "70525-4016"
+        "postalCode": "70570-5882"
       },
       {
         "line": [
-          "2907 SCHAMBERS ST"
+          "3521 HIGHWAY 190 STE T"
         ],
-        "city": "BASILE",
+        "city": "EUNICE",
         "state": "LA",
-        "postalCode": "70515-5445"
+        "postalCode": "70535-5135"
       },
       {
         "line": [
@@ -124,15 +108,23 @@
       },
       {
         "line": [
-          "161 S BEADLE RD"
+          "830 S BROADWAY ST"
         ],
-        "city": "LAFAYETTE",
+        "city": "CHURCH POINT",
         "state": "LA",
-        "postalCode": "70508-4211"
+        "postalCode": "70525-4016"
       },
       {
         "line": [
-          "830 S BROADWAY ST"
+          "3859 HIGHWAY 190"
+        ],
+        "city": "EUNICE",
+        "state": "LA",
+        "postalCode": "70535-7900"
+      },
+      {
+        "line": [
+          "630 S BROADWAY ST"
         ],
         "city": "CHURCH POINT",
         "state": "LA",
@@ -148,7 +140,15 @@
       },
       {
         "line": [
-          "901 Cherry St"
+          "2907 SCHAMBERS ST"
+        ],
+        "city": "BASILE",
+        "state": "LA",
+        "postalCode": "70515-5445"
+      },
+      {
+        "line": [
+          "906 CHERRY ST"
         ],
         "city": "MAMOU",
         "state": "LA",
@@ -156,11 +156,11 @@
       },
       {
         "line": [
-          "828 CRESWELL LN"
+          "901 Cherry St"
         ],
-        "city": "OPELOUSAS",
+        "city": "MAMOU",
         "state": "LA",
-        "postalCode": "70570-5882"
+        "postalCode": "70554-2215"
       }
     ],
     "extension": [

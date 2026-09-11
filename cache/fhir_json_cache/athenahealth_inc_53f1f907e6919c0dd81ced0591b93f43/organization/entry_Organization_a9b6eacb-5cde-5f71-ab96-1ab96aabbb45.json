@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326099763"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619928165"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962453308"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144271586"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,7 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588180475"
+        "value": "1306363007"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,15 +38,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326099763"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730790551"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144271586"
+        "value": "1619928165"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306363007"
+        "value": "1588180475"
       }
     ],
     "address": [
@@ -64,9 +64,9 @@
       },
       {
         "line": [
-          "6002 BERRYHILL RD"
+          "5151 N 9th Ave"
         ],
-        "city": "MILTON",
+        "city": "Milton",
         "state": "FL",
         "postalCode": "32570-5062"
       },
@@ -80,9 +80,9 @@
       },
       {
         "line": [
-          "5151 N 9th Ave"
+          "6002 BERRYHILL RD"
         ],
-        "city": "Milton",
+        "city": "MILTON",
         "state": "FL",
         "postalCode": "32570-5062"
       }

@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043441694"
+        "value": "1821471780"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,18 +22,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821471780"
+        "value": "1043441694"
       }
     ],
     "address": [
-      {
-        "line": [
-          "12950 East Freeway"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77015-5710"
-      },
       {
         "line": [],
         "city": "BEAUMONT",
@@ -45,6 +37,14 @@
         "city": "PASADENA",
         "state": "TX",
         "postalCode": "77505-3140"
+      },
+      {
+        "line": [
+          "12950 East Freeway"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77015-5710"
       }
     ],
     "extension": [

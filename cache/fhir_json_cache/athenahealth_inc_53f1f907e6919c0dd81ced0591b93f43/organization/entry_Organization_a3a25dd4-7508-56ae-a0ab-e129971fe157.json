@@ -18,10 +18,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578139705"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1497095681"
       },
       {
@@ -34,13 +30,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578139705"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1811065220"
       }
     ],
     "address": [
       {
         "line": [
-          "417 N MARTIN LUTHER KING DR"
+          "417 N Martin Luther King Drive"
         ],
         "city": "SIMMESPORT",
         "state": "LA",
@@ -48,7 +48,7 @@
       },
       {
         "line": [
-          "417 N Martin Luther King Drive"
+          "417 N MARTIN LUTHER KING DR"
         ],
         "city": "SIMMESPORT",
         "state": "LA",

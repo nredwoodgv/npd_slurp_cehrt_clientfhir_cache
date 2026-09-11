@@ -14,19 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225467814"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1689061426"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700048360"
+        "value": "1689061467"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164961579"
+        "value": "1225467814"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,7 +34,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235278714"
+        "value": "1164961579"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700048360"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,13 +46,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689061467"
+        "value": "1235278714"
       }
     ],
     "address": [
       {
         "line": [
-          "775 S Main"
+          "14650 E. Old US HWY 12",
+          "Ste 101"
         ],
         "city": "CHELSEA",
         "state": "MI",
@@ -60,8 +61,7 @@
       },
       {
         "line": [
-          "14650 E. Old US HWY 12",
-          "Ste 101"
+          "775 S Main"
         ],
         "city": "CHELSEA",
         "state": "MI",

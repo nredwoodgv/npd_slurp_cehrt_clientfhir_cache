@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336368745"
+        "value": "1497988828"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497988828"
+        "value": "1336368745"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1015 HIGHWAY 248"
-        ],
-        "city": "BRANSON",
-        "state": "MO",
-        "postalCode": "65616-8001"
-      },
       {
         "line": [
           "929 E MONTCLAIR, STE 100"
@@ -40,11 +32,11 @@
       },
       {
         "line": [
-          "801 N LINCOLN"
+          "411 N MCCROSKY"
         ],
-        "city": "MONETT",
+        "city": "NIXA",
         "state": "MO",
-        "postalCode": "65708-1641"
+        "postalCode": "65714-9330"
       },
       {
         "line": [
@@ -56,11 +48,19 @@
       },
       {
         "line": [
-          "411 N MCCROSKY"
+          "1015 HIGHWAY 248"
         ],
-        "city": "NIXA",
+        "city": "BRANSON",
         "state": "MO",
-        "postalCode": "65714-9330"
+        "postalCode": "65616-8001"
+      },
+      {
+        "line": [
+          "801 N LINCOLN"
+        ],
+        "city": "MONETT",
+        "state": "MO",
+        "postalCode": "65708-1641"
       }
     ],
     "extension": [

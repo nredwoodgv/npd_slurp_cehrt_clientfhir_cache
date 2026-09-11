@@ -3,7 +3,7 @@
     "resourceType": "Endpoint",
     "id": "b0a34eaa-41db-4e6e-bafa-b282695c614a",
     "status": "active",
-    "address": "https://brylive.meditech6.api.catholichealth.net/v1/uscore/R4",
+    "address": "https://brylive-meditech6-api.catholichealth.net/v1/uscore/R4",
     "contact": [
       {
         "extension": [
@@ -33,7 +33,10 @@
           }
         ]
       }
-    ]
+    ],
+    "meta": {
+      "lastUpdated": "2026-08-12T13:50:19.805Z"
+    }
   },
   "fullUrl": "urn:uuid:b0a34eaa-41db-4e6e-bafa-b282695c614a"
 }

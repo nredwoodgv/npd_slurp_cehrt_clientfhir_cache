@@ -14,26 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235949553"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1477433183"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1780579797"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235949553"
       }
     ],
     "address": [
-      {
-        "line": [
-          "80 GUEST ST"
-        ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2071"
-      },
       {
         "line": [
           "820 Davis St",
@@ -42,24 +34,6 @@
         "city": "EVANSTON",
         "state": "IL",
         "postalCode": "60201-4445"
-      },
-      {
-        "line": [
-          "695 N Perryville Rd",
-          "Ste 4, 5 & 6"
-        ],
-        "city": "ROCKFORD",
-        "state": "IL",
-        "postalCode": "61107-6225"
-      },
-      {
-        "line": [
-          "180 N Michigan Ave",
-          "Ste 410"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60601-7488"
       },
       {
         "line": [
@@ -72,11 +46,12 @@
       },
       {
         "line": [
-          "6392 Linden Rd"
+          "180 N Michigan Ave",
+          "Ste 410"
         ],
-        "city": "ROCKFORD",
+        "city": "CHICAGO",
         "state": "IL",
-        "postalCode": "61109-2816"
+        "postalCode": "60601-7488"
       },
       {
         "line": [
@@ -86,6 +61,31 @@
         "city": "HUNTLEY",
         "state": "IL",
         "postalCode": "60142-7644"
+      },
+      {
+        "line": [
+          "695 N Perryville Rd",
+          "Ste 4, 5 & 6"
+        ],
+        "city": "ROCKFORD",
+        "state": "IL",
+        "postalCode": "61107-6225"
+      },
+      {
+        "line": [
+          "6392 Linden Rd"
+        ],
+        "city": "ROCKFORD",
+        "state": "IL",
+        "postalCode": "61109-2816"
+      },
+      {
+        "line": [
+          "80 GUEST ST"
+        ],
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2071"
       }
     ],
     "extension": [

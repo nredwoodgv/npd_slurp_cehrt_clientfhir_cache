@@ -14,7 +14,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467406918"
+        "value": "99999999999999999999"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,11 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "345678211"
+        "value": "1467406918"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "99999999999999999999"
+        "value": "345678211"
       }
     ],
     "active": true,
@@ -34,7 +34,7 @@
     "telecom": [
       {
         "system": "phone",
-        "value": "(803)461-3000"
+        "value": "(123)123-1231"
       },
       {
         "system": "phone",
@@ -42,43 +42,10 @@
       },
       {
         "system": "phone",
-        "value": "(123)123-1231"
+        "value": "(803)461-3000"
       }
     ],
     "address": [
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1105 North Lafayette Dr"
-        ],
-        "city": "Sumter",
-        "state": "SC",
-        "postalCode": "29150",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1105 North Lafayette Dr"
-        ],
-        "city": "Sumter",
-        "state": "SC",
-        "postalCode": "29150",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "166 Stoneridge Drive"
-        ],
-        "city": "Columbia",
-        "state": "SC",
-        "postalCode": "29210",
-        "country": "USA"
-      },
       {
         "use": "work",
         "type": "postal",
@@ -150,6 +117,28 @@
         "use": "work",
         "type": "postal",
         "line": [
+          "1105 North Lafayette Dr"
+        ],
+        "city": "Sumter",
+        "state": "SC",
+        "postalCode": "29150",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "166 Stoneridge Drive"
+        ],
+        "city": "Columbia",
+        "state": "SC",
+        "postalCode": "29210",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
           "166 Stoneridge Drive"
         ],
         "city": "Columbia",
@@ -177,6 +166,28 @@
         "city": "Columbia",
         "state": "SC",
         "postalCode": "29210",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "166 Stoneridge Drive"
+        ],
+        "city": "Columbia",
+        "state": "SC",
+        "postalCode": "29210",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1105 North Lafayette Dr"
+        ],
+        "city": "Sumter",
+        "state": "SC",
+        "postalCode": "29150",
         "country": "USA"
       },
       {

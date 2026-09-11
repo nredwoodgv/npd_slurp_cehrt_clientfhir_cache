@@ -18,15 +18,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306701966"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1639734338"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1750277406"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306701966"
       }
     ],
     "address": [
@@ -37,6 +37,54 @@
         "city": "NAPLES",
         "state": "FL",
         "postalCode": "34108-1868"
+      },
+      {
+        "line": [
+          "150 MORRIS AVE STE 102"
+        ],
+        "city": "SPRINGFIELD",
+        "state": "NJ",
+        "postalCode": "07081-1315"
+      },
+      {
+        "line": [
+          "13921 SHELL POINT PLZ"
+        ],
+        "city": "FORT MYERS",
+        "state": "FL",
+        "postalCode": "33908-2830"
+      },
+      {
+        "line": [
+          "1251 BUSINESS WAY"
+        ],
+        "city": "LEHIGH ACRES",
+        "state": "FL",
+        "postalCode": "33936-6046"
+      },
+      {
+        "line": [
+          "7173 CYPRESS DR"
+        ],
+        "city": "FORT MYERS",
+        "state": "FL",
+        "postalCode": "33907-2938"
+      },
+      {
+        "line": [
+          "75 HOLLY HILL LN"
+        ],
+        "city": "GREENWICH",
+        "state": "CT",
+        "postalCode": "06830-2944"
+      },
+      {
+        "line": [
+          "15000 SHELL POINT BLVD"
+        ],
+        "city": "FORT MYERS",
+        "state": "FL",
+        "postalCode": "33908-1754"
       },
       {
         "line": [
@@ -53,54 +101,6 @@
         "city": "DANBURY",
         "state": "CT",
         "postalCode": "06810-9001"
-      },
-      {
-        "line": [
-          "75 HOLLY HILL LN"
-        ],
-        "city": "GREENWICH",
-        "state": "CT",
-        "postalCode": "06830-2944"
-      },
-      {
-        "line": [
-          "13921 SHELL POINT PLZ"
-        ],
-        "city": "FORT MYERS",
-        "state": "FL",
-        "postalCode": "33908-2830"
-      },
-      {
-        "line": [
-          "7173 CYPRESS DR"
-        ],
-        "city": "FORT MYERS",
-        "state": "FL",
-        "postalCode": "33907-2938"
-      },
-      {
-        "line": [
-          "15000 SHELL POINT BLVD"
-        ],
-        "city": "FORT MYERS",
-        "state": "FL",
-        "postalCode": "33908-1754"
-      },
-      {
-        "line": [
-          "1251 BUSINESS WAY"
-        ],
-        "city": "LEHIGH ACRES",
-        "state": "FL",
-        "postalCode": "33936-6046"
-      },
-      {
-        "line": [
-          "150 MORRIS AVE STE 102"
-        ],
-        "city": "SPRINGFIELD",
-        "state": "NJ",
-        "postalCode": "07081-1315"
       }
     ],
     "extension": [

@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538112107"
+        "value": "1497378517"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497378517"
+        "value": "1538112107"
       }
     ],
     "address": [
+      {
+        "line": [
+          "876 Seven Hills Dr"
+        ],
+        "city": "HENDERSON",
+        "state": "NV",
+        "postalCode": "89052-4369"
+      },
       {
         "line": [
           "8280 W Warm Springs"
@@ -49,27 +57,19 @@
       },
       {
         "line": [
-          "10561 Jeffeys St"
-        ],
-        "city": "HENDERSON",
-        "state": "NV",
-        "postalCode": "89052-4266"
-      },
-      {
-        "line": [
-          "876 Seven Hills Dr"
-        ],
-        "city": "HENDERSON",
-        "state": "NV",
-        "postalCode": "89052-4369"
-      },
-      {
-        "line": [
           "8280 W Warm Springs Rd"
         ],
         "city": "LAS VEGAS",
         "state": "NV",
         "postalCode": "89113-3612"
+      },
+      {
+        "line": [
+          "10561 Jeffeys St"
+        ],
+        "city": "HENDERSON",
+        "state": "NV",
+        "postalCode": "89052-4266"
       }
     ],
     "extension": [

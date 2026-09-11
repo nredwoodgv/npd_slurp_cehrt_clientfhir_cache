@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366839185"
+        "value": "1316334139"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689051849"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,21 +30,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316334139"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689051849"
+        "value": "1366839185"
       }
     ],
     "address": [
       {
         "line": [
-          "3700 SOUTH MAIN STREET"
+          "1900 ELECTRIC ROAD"
         ],
-        "city": "BLACKSBURG",
+        "city": "SALEM",
         "state": "VA",
-        "postalCode": "24060-7017"
+        "postalCode": "24153-7474"
       },
       {
         "line": [
@@ -49,14 +49,6 @@
         "city": "ROANOKE",
         "state": "VA",
         "postalCode": "24018-0600"
-      },
-      {
-        "line": [
-          "1900 ELECTRIC ROAD"
-        ],
-        "city": "SALEM",
-        "state": "VA",
-        "postalCode": "24153-7474"
       },
       {
         "line": [
@@ -73,6 +65,14 @@
         "city": "LOW MOOR",
         "state": "VA",
         "postalCode": "24457-0007"
+      },
+      {
+        "line": [
+          "3700 SOUTH MAIN STREET"
+        ],
+        "city": "BLACKSBURG",
+        "state": "VA",
+        "postalCode": "24060-7017"
       }
     ],
     "extension": [

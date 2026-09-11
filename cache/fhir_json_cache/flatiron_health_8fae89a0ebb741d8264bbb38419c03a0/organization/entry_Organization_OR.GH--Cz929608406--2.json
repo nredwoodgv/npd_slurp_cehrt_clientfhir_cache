@@ -66,10 +66,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "74598631"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215490842"
       },
       {
@@ -79,6 +75,22 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1356692297"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "74598631"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "11111111"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1111111"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "111111111"
       }
     ],
     "active": true,
@@ -142,10 +154,6 @@
       },
       {
         "system": "phone",
-        "value": "(256)705-4294"
-      },
-      {
-        "system": "phone",
         "value": "(256)760-0422"
       },
       {
@@ -159,6 +167,22 @@
       {
         "system": "phone",
         "value": "(256)341-2010"
+      },
+      {
+        "system": "phone",
+        "value": "(256)536-9020"
+      },
+      {
+        "system": "phone",
+        "value": "(256)882-3605"
+      },
+      {
+        "system": "phone",
+        "value": "(256)705-4294"
+      },
+      {
+        "system": "phone",
+        "value": "(555)555-5555"
       }
     ],
     "address": [
@@ -411,17 +435,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "3601 CCI Dr"
-        ],
-        "city": "Huntsville",
-        "state": "AL",
-        "postalCode": "35805",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "3500 Hwy 78E"
         ],
         "city": "Jasper",
@@ -527,6 +540,52 @@
         "city": "Scottsboro",
         "state": "AL",
         "postalCode": "35768",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "825 Adams Street SE"
+        ],
+        "city": "Huntsville",
+        "state": "AL",
+        "postalCode": "35801",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "9238 Madison Blvd",
+          "Suite 114"
+        ],
+        "city": "Madison",
+        "state": "AL",
+        "postalCode": "35758",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "4704 Whitesburg Drive",
+          "Suite 100"
+        ],
+        "city": "Huntsville",
+        "state": "AL",
+        "postalCode": "35802",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "3601 CCI Dr"
+        ],
+        "city": "Huntsville",
+        "state": "AL",
+        "postalCode": "35805",
         "country": "USA"
       }
     ],

@@ -14,35 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033985726"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578325759"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528945623"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1447137542"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245117340"
+        "value": "1992598205"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285400978"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366329468"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144082322"
+        "value": "1134995822"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,11 +30,43 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992598213"
+        "value": "1548036239"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245117340"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144082322"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578325759"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1659250520"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285400978"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1609669902"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528945623"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1982470662"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952177644"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,38 +78,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548036239"
+        "value": "1033985726"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982470662"
+        "value": "1366329468"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134995822"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952177644"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659250520"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992598205"
+        "value": "1992598213"
       }
     ],
     "address": [
       {
         "line": [
-          "230 E 22nd St",
-          "Ste 5,"
+          "1501 THURSTON AVE"
         ],
-        "city": "FREMONT",
+        "city": "BELLEVUE",
         "state": "NE",
-        "postalCode": "68025-2661"
+        "postalCode": "68123-2498"
       },
       {
         "line": [
@@ -109,19 +108,20 @@
       },
       {
         "line": [
-          "80 GUEST ST"
-        ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2071"
-      },
-      {
-        "line": [
-          "8601 ARBOR ST"
+          "818 CRESTRIDGE RD"
         ],
         "city": "OMAHA",
         "state": "NE",
-        "postalCode": "68124-2149"
+        "postalCode": "68154-3409"
+      },
+      {
+        "line": [
+          "230 E 22nd St",
+          "Ste 5,"
+        ],
+        "city": "FREMONT",
+        "state": "NE",
+        "postalCode": "68025-2661"
       },
       {
         "line": [
@@ -133,19 +133,19 @@
       },
       {
         "line": [
-          "1501 THURSTON AVE"
-        ],
-        "city": "BELLEVUE",
-        "state": "NE",
-        "postalCode": "68123-2498"
-      },
-      {
-        "line": [
-          "818 CRESTRIDGE RD"
+          "8601 ARBOR ST"
         ],
         "city": "OMAHA",
         "state": "NE",
-        "postalCode": "68154-3409"
+        "postalCode": "68124-2149"
+      },
+      {
+        "line": [
+          "80 GUEST ST"
+        ],
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2071"
       }
     ],
     "extension": [

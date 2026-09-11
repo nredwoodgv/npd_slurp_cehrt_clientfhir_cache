@@ -5,18 +5,18 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.1029"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1851437719"
       },
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.1294"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1366515488"
       },
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.660"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154400232"
       }
     ],
     "name": "The Children's Mercy Hospital",

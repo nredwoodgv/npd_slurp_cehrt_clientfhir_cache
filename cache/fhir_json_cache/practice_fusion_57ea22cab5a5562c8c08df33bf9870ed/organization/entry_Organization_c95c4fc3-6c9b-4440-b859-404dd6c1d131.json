@@ -6,13 +6,22 @@
       {
         "value": "c95c4fc3-6c9b-4440-b859-404dd6c1d131",
         "system": "urn:oid:2.16.840.1.113883.3.3388.3.1"
+      },
+      {
+        "value": "1073431722",
+        "system": "http://hl7.org/fhir/sid/us-npi"
+      },
+      {
+        "value": "42-3655804",
+        "system": "urn:oid:2.16.840.1.113883.4.4"
       }
     ],
-    "name": "Elevated Spine Injury Group",
+    "name": "Elevated Spine Group, PLLC",
     "address": [
       {
         "line": [
-          "1121 E Twiggs St"
+          "1121 E Twiggs St",
+          "Suite 102"
         ],
         "city": "Tampa",
         "state": "FL",

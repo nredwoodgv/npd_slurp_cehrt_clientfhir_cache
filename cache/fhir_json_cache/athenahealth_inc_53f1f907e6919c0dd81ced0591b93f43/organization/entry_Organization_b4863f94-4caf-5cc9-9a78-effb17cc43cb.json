@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871589333"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831185065"
+        "value": "1952593915"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,10 +26,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952593915"
+        "value": "1831185065"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1871589333"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3600 E Harry St"
+        ],
+        "city": "Wichita",
+        "state": "KS",
+        "postalCode": "67218-3173"
+      },
       {
         "line": [
           "3600 E Harry St"
@@ -49,14 +57,6 @@
         "city": "Wichita",
         "state": "KS",
         "postalCode": "67218-3713"
-      },
-      {
-        "line": [
-          "3600 E Harry St"
-        ],
-        "city": "Wichita",
-        "state": "KS",
-        "postalCode": "67218-3173"
       }
     ],
     "extension": [

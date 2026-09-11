@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760566350"
+        "value": "1508818618"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508818618"
+        "value": "1760566350"
       }
     ],
     "address": [
@@ -32,20 +32,11 @@
       },
       {
         "line": [
-          "400 Waverly St"
+          "67 Union Street"
         ],
-        "city": "FRAMINGHAM",
+        "city": "NATICK",
         "state": "MA",
-        "postalCode": "01702-7033"
-      },
-      {
-        "line": [
-          "85 Lincoln Street",
-          "Ste 410"
-        ],
-        "city": "FRAMINGHAM",
-        "state": "MA",
-        "postalCode": "01702-8200"
+        "postalCode": "01760-7700"
       },
       {
         "line": [
@@ -66,11 +57,20 @@
       },
       {
         "line": [
-          "67 Union Street"
+          "85 Lincoln Street",
+          "Ste 410"
         ],
-        "city": "NATICK",
+        "city": "FRAMINGHAM",
         "state": "MA",
-        "postalCode": "01760-7700"
+        "postalCode": "01702-8200"
+      },
+      {
+        "line": [
+          "400 Waverly St"
+        ],
+        "city": "FRAMINGHAM",
+        "state": "MA",
+        "postalCode": "01702-7033"
       }
     ],
     "extension": [

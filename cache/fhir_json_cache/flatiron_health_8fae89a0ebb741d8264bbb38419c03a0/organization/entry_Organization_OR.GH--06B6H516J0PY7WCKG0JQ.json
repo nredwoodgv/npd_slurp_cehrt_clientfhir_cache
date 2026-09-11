@@ -14,10 +14,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609823004"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1111111"
       },
       {
@@ -59,15 +55,15 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669416442"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1609823004"
       }
     ],
     "active": true,
     "name": "United Urology Group",
     "telecom": [
-      {
-        "system": "phone",
-        "value": "(410)339-1680"
-      },
       {
         "system": "phone",
         "value": "(111)111-1111"
@@ -126,26 +122,18 @@
       },
       {
         "system": "phone",
+        "value": "(555)867-5309"
+      },
+      {
+        "system": "phone",
         "value": "(000)000-0000"
       },
       {
         "system": "phone",
-        "value": "(555)867-5309"
+        "value": "(410)339-1680"
       }
     ],
     "address": [
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "6535 N. Charles Street",
-          "Suite 500"
-        ],
-        "city": "Towson",
-        "state": "MD",
-        "postalCode": "21204",
-        "country": "USA"
-      },
       {
         "use": "work",
         "type": "postal",
@@ -350,6 +338,18 @@
         "city": "Mockingbird Heights",
         "state": "CA",
         "postalCode": "90210",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "6535 N. Charles Street",
+          "5th Floor"
+        ],
+        "city": "Towson",
+        "state": "MD",
+        "postalCode": "21204",
         "country": "USA"
       }
     ],

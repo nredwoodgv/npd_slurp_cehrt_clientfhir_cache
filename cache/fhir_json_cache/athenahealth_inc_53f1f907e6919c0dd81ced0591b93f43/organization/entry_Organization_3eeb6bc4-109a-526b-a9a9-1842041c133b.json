@@ -14,21 +14,37 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578585550"
+        "value": "1184875270"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184875270"
+        "value": "1578585550"
       }
     ],
     "address": [
       {
         "line": [
-          "200 S LOUISE ST"
+          "1509 Wilson Terrace"
         ],
         "city": "GLENDALE",
         "state": "CA",
-        "postalCode": "91205-1637"
+        "postalCode": "91206-4007"
+      },
+      {
+        "line": [
+          "51 NORTH 5TH STREET SUITE 301"
+        ],
+        "city": "ARCADIA",
+        "state": "CA",
+        "postalCode": "91006-3712"
+      },
+      {
+        "line": [
+          "1500 S CENTRAL AVE STE 101"
+        ],
+        "city": "GLENDALE",
+        "state": "CA",
+        "postalCode": "91204-3858"
       },
       {
         "line": [
@@ -40,11 +56,27 @@
       },
       {
         "line": [
-          "1509 Wilson Terrace"
+          "2020 Scott Rd."
+        ],
+        "city": "BURBANK",
+        "state": "CA",
+        "postalCode": "91504-2901"
+      },
+      {
+        "line": [
+          "200 S LOUISE ST"
         ],
         "city": "GLENDALE",
         "state": "CA",
-        "postalCode": "91206-4007"
+        "postalCode": "91205-1637"
+      },
+      {
+        "line": [
+          "43051 15th St. W"
+        ],
+        "city": "LANCASTER",
+        "state": "CA",
+        "postalCode": "93534-6906"
       },
       {
         "line": [
@@ -53,14 +85,6 @@
         "city": "GLENDALE",
         "state": "CA",
         "postalCode": "91206-4007"
-      },
-      {
-        "line": [
-          "2020 Scott Rd."
-        ],
-        "city": "BURBANK",
-        "state": "CA",
-        "postalCode": "91504-2901"
       },
       {
         "line": [
@@ -80,36 +104,12 @@
       },
       {
         "line": [
-          "51 NORTH 5TH STREET SUITE 301"
-        ],
-        "city": "ARCADIA",
-        "state": "CA",
-        "postalCode": "91006-3712"
-      },
-      {
-        "line": [
-          "43051 15th St. W"
-        ],
-        "city": "LANCASTER",
-        "state": "CA",
-        "postalCode": "93534-6906"
-      },
-      {
-        "line": [
           "41210 11TH STREET WEST",
           "SUITE K"
         ],
         "city": "PALMDALE",
         "state": "CA",
         "postalCode": "93551-1447"
-      },
-      {
-        "line": [
-          "1500 S CENTRAL AVE STE 101"
-        ],
-        "city": "GLENDALE",
-        "state": "CA",
-        "postalCode": "91204-3858"
       }
     ],
     "extension": [

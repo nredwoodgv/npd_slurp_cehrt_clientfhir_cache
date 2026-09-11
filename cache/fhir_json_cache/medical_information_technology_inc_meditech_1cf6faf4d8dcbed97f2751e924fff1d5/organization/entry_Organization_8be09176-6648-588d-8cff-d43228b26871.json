@@ -3,7 +3,7 @@
     "resourceType": "Organization",
     "id": "8be09176-6648-588d-8cff-d43228b26871",
     "meta": {
-      "lastUpdated": "2023-11-14T05:19:24.000Z"
+      "lastUpdated": "2026-07-22T22:51:34.000Z"
     },
     "name": "HCA GULF COAST 2 UNIVERSE",
     "active": true,
@@ -41,6 +41,12 @@
     "endpoint": [
       {
         "reference": "urn:uuid:b093fd97-3bfd-5949-918d-809fdd298d94"
+      },
+      {
+        "reference": "urn:uuid:ba9d421d-2a2f-5ed5-8f4a-a54636c262ba"
+      },
+      {
+        "reference": "urn:uuid:8c4ca191-9e42-5d25-b316-893024f5bb31"
       }
     ],
     "extension": [
@@ -51,6 +57,18 @@
             "url": "portalEndpoint",
             "valueReference": {
               "reference": "urn:uuid:b093fd97-3bfd-5949-918d-809fdd298d94"
+            }
+          },
+          {
+            "url": "portalEndpoint",
+            "valueReference": {
+              "reference": "urn:uuid:ba9d421d-2a2f-5ed5-8f4a-a54636c262ba"
+            }
+          },
+          {
+            "url": "portalEndpoint",
+            "valueReference": {
+              "reference": "urn:uuid:8c4ca191-9e42-5d25-b316-893024f5bb31"
             }
           }
         ]

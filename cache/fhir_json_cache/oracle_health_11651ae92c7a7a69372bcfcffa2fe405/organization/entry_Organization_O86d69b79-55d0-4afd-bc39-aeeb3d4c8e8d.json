@@ -5,23 +5,13 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.5816"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1477640258"
       },
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:1.3.6.1.4.1.42166"
-      },
-      {
-        "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.5817"
-      },
-      {
-        "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.660"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619032273"
       }
     ],
     "name": "St. Joseph's Medical Center",

@@ -26,11 +26,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447330451"
+        "value": "1730489840"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1437440054"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124441274"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417214669"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,11 +50,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730489840"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417214669"
+        "value": "1386999027"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,7 +58,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386999027"
+        "value": "1447330451"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -63,10 +67,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1174091383"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124441274"
       }
     ],
     "address": [
@@ -80,19 +80,19 @@
       },
       {
         "line": [
-          "1866 N Hwy 27"
-        ],
-        "city": "WHITLEY CITY",
-        "state": "KY",
-        "postalCode": "42653-1111"
-      },
-      {
-        "line": [
           "305 MEDPARK DR"
         ],
         "city": "SOMERSET",
         "state": "KY",
         "postalCode": "42503-2816"
+      },
+      {
+        "line": [
+          "1866 N Hwy 27"
+        ],
+        "city": "WHITLEY CITY",
+        "state": "KY",
+        "postalCode": "42653-1111"
       }
     ],
     "extension": [

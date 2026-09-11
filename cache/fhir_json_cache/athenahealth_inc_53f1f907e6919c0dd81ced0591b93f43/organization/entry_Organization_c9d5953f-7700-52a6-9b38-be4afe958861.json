@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326072943"
+        "value": "1790103869"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790103869"
+        "value": "1326072943"
       }
     ],
     "address": [
+      {
+        "line": [
+          "9101 Burnet Rd Ste 103"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78758-5260"
+      },
       {
         "line": [
           "1301 Barbara Jordan Blvd Ste 200"
@@ -32,19 +40,11 @@
       },
       {
         "line": [
-          "6101 Woodway Dr"
+          "1301 Medical Parkway Ste 200"
         ],
-        "city": "WOODWAY",
+        "city": "CEDAR PARK",
         "state": "TX",
-        "postalCode": "76712-6111"
-      },
-      {
-        "line": [
-          "9101 Burnet Rd Ste 103"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78758-5260"
+        "postalCode": "78613-2305"
       },
       {
         "line": [
@@ -56,11 +56,11 @@
       },
       {
         "line": [
-          "1301 Medical Parkway Ste 200"
+          "6101 Woodway Dr"
         ],
-        "city": "CEDAR PARK",
+        "city": "WOODWAY",
         "state": "TX",
-        "postalCode": "78613-2305"
+        "postalCode": "76712-6111"
       }
     ],
     "extension": [

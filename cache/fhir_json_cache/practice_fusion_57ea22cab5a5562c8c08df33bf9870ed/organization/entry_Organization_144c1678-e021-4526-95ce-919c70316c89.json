@@ -6,6 +6,14 @@
       {
         "value": "144c1678-e021-4526-95ce-919c70316c89",
         "system": "urn:oid:2.16.840.1.113883.3.3388.3.1"
+      },
+      {
+        "value": "1861372989",
+        "system": "http://hl7.org/fhir/sid/us-npi"
+      },
+      {
+        "value": "922506718",
+        "system": "urn:oid:2.16.840.1.113883.4.4"
       }
     ],
     "name": "Anti-Aging Center of Excellence",
@@ -17,7 +25,7 @@
         ],
         "city": "Evansville",
         "state": "IN",
-        "postalCode": "47715"
+        "postalCode": "477157835"
       }
     ],
     "endpoint": [

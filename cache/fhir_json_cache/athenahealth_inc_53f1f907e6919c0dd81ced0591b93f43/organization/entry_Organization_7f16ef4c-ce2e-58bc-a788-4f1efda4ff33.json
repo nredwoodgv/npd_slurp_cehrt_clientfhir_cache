@@ -22,11 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588997233"
+        "value": "1629538491"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962025148"
+        "value": "1588997233"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,10 +34,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629538491"
+        "value": "1962025148"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1201A Hill Rd"
+        ],
+        "city": "SMITHVILLE",
+        "state": "TX",
+        "postalCode": "78957-9533"
+      },
       {
         "line": [
           "1501 Dorothy Nichols Ln"
@@ -53,14 +61,6 @@
         "city": "SMITHVILLE",
         "state": "TX",
         "postalCode": "78957-1025"
-      },
-      {
-        "line": [
-          "1201A Hill Rd"
-        ],
-        "city": "SMITHVILLE",
-        "state": "TX",
-        "postalCode": "78957-9533"
       }
     ],
     "extension": [

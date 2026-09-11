@@ -22,6 +22,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386051035"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1205243961"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1427307222"
       },
       {
@@ -31,24 +39,16 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932516697"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205243961"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386051035"
       }
     ],
     "address": [
       {
         "line": [
-          "16921 MOUNTAINEER DRIVE"
+          "15 MOTT STREET"
         ],
-        "city": "RIVERTON",
+        "city": "HARMAN",
         "state": "WV",
-        "postalCode": "26814-0101"
+        "postalCode": "26270-0014"
       },
       {
         "line": [
@@ -60,11 +60,11 @@
       },
       {
         "line": [
-          "15 MOTT STREET"
+          "16921 MOUNTAINEER DRIVE"
         ],
-        "city": "HARMAN",
+        "city": "RIVERTON",
         "state": "WV",
-        "postalCode": "26270-0014"
+        "postalCode": "26814-0101"
       }
     ],
     "extension": [

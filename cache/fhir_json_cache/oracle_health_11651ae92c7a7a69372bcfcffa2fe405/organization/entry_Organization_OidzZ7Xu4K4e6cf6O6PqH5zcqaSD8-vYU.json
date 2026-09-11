@@ -5,23 +5,13 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.1447"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1871656082"
       },
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.1448"
-      },
-      {
-        "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.1446"
-      },
-      {
-        "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.2665"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316000706"
       }
     ],
     "name": "Columbia St Mary's",

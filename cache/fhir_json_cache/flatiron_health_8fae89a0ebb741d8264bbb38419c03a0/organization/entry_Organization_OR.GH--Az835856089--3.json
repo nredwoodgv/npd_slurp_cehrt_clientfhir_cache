@@ -22,15 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083661607"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669673646"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1104906569"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1083661607"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -207,10 +207,6 @@
       {
         "system": "phone",
         "value": "(555)867-5309"
-      },
-      {
-        "system": "phone",
-        "value": "(858)275-2626"
       },
       {
         "system": "phone",
@@ -454,6 +450,10 @@
       },
       {
         "system": "phone",
+        "value": "(858)275-2626"
+      },
+      {
+        "system": "phone",
         "value": "(559)447-4949"
       }
     ],
@@ -501,18 +501,6 @@
         "city": "Mockingbird Heights",
         "state": "CA",
         "postalCode": "90210",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "959 Lane Avenue Building B",
-          "Suite 100"
-        ],
-        "city": "Chula Vista",
-        "state": "CA",
-        "postalCode": "91914",
         "country": "USA"
       },
       {
@@ -1152,17 +1140,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "7675 Dagget Street Suite 370"
-        ],
-        "city": "San Diego",
-        "state": "CA",
-        "postalCode": "92111",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "200 MERCY CIRCLE"
         ],
         "city": "OCEANSIDE",
@@ -1392,6 +1369,29 @@
         "city": "Murrieta",
         "state": "CA",
         "postalCode": "92563",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "959 Lane Avenue Building B",
+          "Suite 100"
+        ],
+        "city": "Chula Vista",
+        "state": "CA",
+        "postalCode": "91914",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "7675 Dagget Street Suite 370"
+        ],
+        "city": "San Diego",
+        "state": "CA",
+        "postalCode": "92111",
         "country": "USA"
       },
       {

@@ -18,38 +18,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912305483"
+        "value": "1902279607"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902279607"
+        "value": "1912305483"
       }
     ],
     "address": [
-      {
-        "line": [
-          "21 Maefair Court"
-        ],
-        "city": "Trumbull",
-        "state": "CT",
-        "postalCode": "06611-4871"
-      },
-      {
-        "line": [
-          "2720 Main St"
-        ],
-        "city": "Bridgeport",
-        "state": "CT",
-        "postalCode": "06606-5301"
-      },
-      {
-        "line": [
-          "21 Maefair Ct"
-        ],
-        "city": "Trumbull",
-        "state": "CT",
-        "postalCode": "06611-4871"
-      },
       {
         "line": [
           "2800 Main St"
@@ -57,14 +33,6 @@
         "city": "Bridgeport",
         "state": "CT",
         "postalCode": "06606-4201"
-      },
-      {
-        "line": [
-          "400 Mill Plain Rd"
-        ],
-        "city": "Fairfield",
-        "state": "CT",
-        "postalCode": "06824-5048"
       },
       {
         "line": [
@@ -76,11 +44,11 @@
       },
       {
         "line": [
-          "300 Armory Road"
+          "400 Mill Plain Rd"
         ],
-        "city": "STRATFORD",
+        "city": "Fairfield",
         "state": "CT",
-        "postalCode": "06614-1752"
+        "postalCode": "06824-5048"
       },
       {
         "line": [
@@ -100,11 +68,43 @@
       },
       {
         "line": [
+          "21 Maefair Court"
+        ],
+        "city": "Trumbull",
+        "state": "CT",
+        "postalCode": "06611-4871"
+      },
+      {
+        "line": [
           "2890 Main St Ste 2A"
         ],
         "city": "Stratford",
         "state": "CT",
         "postalCode": "06614-4980"
+      },
+      {
+        "line": [
+          "21 Maefair Ct"
+        ],
+        "city": "Trumbull",
+        "state": "CT",
+        "postalCode": "06611-4871"
+      },
+      {
+        "line": [
+          "300 Armory Road"
+        ],
+        "city": "STRATFORD",
+        "state": "CT",
+        "postalCode": "06614-1752"
+      },
+      {
+        "line": [
+          "2720 Main St"
+        ],
+        "city": "Bridgeport",
+        "state": "CT",
+        "postalCode": "06606-5301"
       }
     ],
     "extension": [

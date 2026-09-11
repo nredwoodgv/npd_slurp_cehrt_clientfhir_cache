@@ -14,7 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1184786329"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376582775"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225071491"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1710928221"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215945456"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,37 +42,13 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225071491"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215945456"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184786329"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376582775"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1225075203"
       }
     ],
     "address": [
       {
         "line": [
-          "2301 N Lake Dr"
-        ],
-        "city": "MILWAUKEE",
-        "state": "WI",
-        "postalCode": "53211-4508"
-      },
-      {
-        "line": [
-          "13125 N PORT WOASHINGTON RD"
+          "13111 N PORT WASHINGTON ROAD"
         ],
         "city": "MEQUON",
         "state": "WI",
@@ -64,25 +56,19 @@
       },
       {
         "line": [
-          "1231 EISNER AVE"
+          "6729 W MEQUON ROAD"
         ],
-        "city": "SHEBOYGAN",
+        "city": "MEQUON",
         "state": "WI",
-        "postalCode": "53083-3060"
+        "postalCode": "53092-1818"
       },
       {
         "line": [
-          "2301 N LAKE DR"
+          "475 W River Woods Pkwy"
         ],
-        "city": "MILWAUKEE",
+        "city": "GLENDALE",
         "state": "WI",
-        "postalCode": "53211-4508"
-      },
-      {
-        "line": [],
-        "city": "MILWAUKEE",
-        "state": "WI",
-        "postalCode": "53212-1082"
+        "postalCode": "53212-1081"
       },
       {
         "line": [
@@ -94,59 +80,19 @@
       },
       {
         "line": [
+          "13111 N PORT WASHINGTON RD"
+        ],
+        "city": "MEQUON",
+        "state": "WI",
+        "postalCode": "53097-2416"
+      },
+      {
+        "line": [
           "2301 N LAKE DRIVE"
         ],
         "city": "MILWAUKEE",
         "state": "WI",
         "postalCode": "53211-4508"
-      },
-      {
-        "line": [
-          "2323 N LAKE DRIVE"
-        ],
-        "city": "MILWAUKEE",
-        "state": "WI",
-        "postalCode": "53211-4508"
-      },
-      {
-        "line": [
-          "6900 N PORT WASHINGTON RD"
-        ],
-        "city": "GLENDALE",
-        "state": "WI",
-        "postalCode": "53217-3921"
-      },
-      {
-        "line": [
-          "7300 W DEAN RD"
-        ],
-        "city": "MILWAUKEE",
-        "state": "WI",
-        "postalCode": "53223-2637"
-      },
-      {
-        "line": [
-          "475 W RIVER WOODS PKWY"
-        ],
-        "city": "GLENDALE",
-        "state": "WI",
-        "postalCode": "53212-1081"
-      },
-      {
-        "line": [
-          "7800 N GREEN BAY ROAD"
-        ],
-        "city": "GLENDALE",
-        "state": "WI",
-        "postalCode": "53217-2047"
-      },
-      {
-        "line": [
-          "2323 S 102ND ST"
-        ],
-        "city": "WEST ALLIS",
-        "state": "WI",
-        "postalCode": "53227-2103"
       },
       {
         "line": [
@@ -158,19 +104,19 @@
       },
       {
         "line": [
-          "13111 N PORT WASHINGTON RD"
+          "3237 S 16TH STREET"
         ],
-        "city": "MEQUON",
+        "city": "MILWAUKEE",
         "state": "WI",
-        "postalCode": "53097-2416"
+        "postalCode": "53215-4526"
       },
       {
         "line": [
-          "W176 N9430 RIVERCREST DR"
+          "2425 N LAKE DR"
         ],
-        "city": "MENOMONEE FALLS",
+        "city": "MILWAUKEE",
         "state": "WI",
-        "postalCode": "53051-1111"
+        "postalCode": "53211-4517"
       },
       {
         "line": [
@@ -182,59 +128,11 @@
       },
       {
         "line": [
-          "PO BOX 16523"
+          "3505 Cty Rd Y"
         ],
-        "city": "BELFAST",
-        "state": "ME",
-        "postalCode": "04915-4060"
-      },
-      {
-        "line": [
-          "1111 E CAPITAL DRIVE"
-        ],
-        "city": "SHOREWOOD",
+        "city": "SHEBOYGAN",
         "state": "WI",
-        "postalCode": "53211-1810"
-      },
-      {
-        "line": [
-          "10101 S 27TH STREET"
-        ],
-        "city": "FRANKLIN",
-        "state": "WI",
-        "postalCode": "53132-7209"
-      },
-      {
-        "line": [
-          "3800 N 92ND ST"
-        ],
-        "city": "MILWAUKEE",
-        "state": "WI",
-        "postalCode": "53222-2504"
-      },
-      {
-        "line": [
-          "13111 N Port Washington Rd"
-        ],
-        "city": "MEQUON",
-        "state": "WI",
-        "postalCode": "53097-2416"
-      },
-      {
-        "line": [
-          "2586 VALLEY ROAD"
-        ],
-        "city": "PLYMOUTH",
-        "state": "WI",
-        "postalCode": "53073-4964"
-      },
-      {
-        "line": [
-          "N109 W17525 VIRGINIA AVE"
-        ],
-        "city": "GERMANTOWN",
-        "state": "WI",
-        "postalCode": "53022-1111"
+        "postalCode": "53083-4932"
       },
       {
         "line": [
@@ -254,51 +152,11 @@
       },
       {
         "line": [
-          "3505 Cty Rd Y"
+          "W156N4881 PILGRIM ROAD"
         ],
-        "city": "SHEBOYGAN",
+        "city": "MENOMONEE FALLS",
         "state": "WI",
-        "postalCode": "53083-4932"
-      },
-      {
-        "line": [
-          "12600 N PORT WASHINGTON ROAD"
-        ],
-        "city": "MEQUON",
-        "state": "WI",
-        "postalCode": "53092-3469"
-      },
-      {
-        "line": [
-          "10101 S 27TH ST"
-        ],
-        "city": "FRANKLIN",
-        "state": "WI",
-        "postalCode": "53132-7209"
-      },
-      {
-        "line": [
-          "2115 E WOODSTOCK PLACE"
-        ],
-        "city": "MILWAUKEE",
-        "state": "WI",
-        "postalCode": "53202-1342"
-      },
-      {
-        "line": [
-          "10101 W WISCONSIN AVE"
-        ],
-        "city": "WAUWATOSA",
-        "state": "WI",
-        "postalCode": "53226-4861"
-      },
-      {
-        "line": [
-          "375 W RIVERWOODS PKWY"
-        ],
-        "city": "GLENDALE",
-        "state": "WI",
-        "postalCode": "53121-1081"
+        "postalCode": "53051-6920"
       },
       {
         "line": [
@@ -310,107 +168,19 @@
       },
       {
         "line": [
-          "6729 W MEQUON ROAD"
-        ],
-        "city": "MEQUON",
-        "state": "WI",
-        "postalCode": "53092-1818"
-      },
-      {
-        "line": [
-          "W76N677 Wauwatosa Rd"
-        ],
-        "city": "CEDARBURG",
-        "state": "WI",
-        "postalCode": "53012-1707"
-      },
-      {
-        "line": [
-          "10803 N PORT WASHINGTON RD"
-        ],
-        "city": "MEQUON",
-        "state": "WI",
-        "postalCode": "53092-5085"
-      },
-      {
-        "line": [
-          "12600 N PORT WASHINGTON RD"
-        ],
-        "city": "MEQUON",
-        "state": "WI",
-        "postalCode": "53092-3469"
-      },
-      {
-        "line": [
-          "1610 HOOVER STREET"
-        ],
-        "city": "NEW HOLSTEIN",
-        "state": "WI",
-        "postalCode": "53061-1636"
-      },
-      {
-        "line": [
-          "3237 SOUTH 16TH ST"
+          "2429 BRADFORD TERRACE"
         ],
         "city": "MILWAUKEE",
         "state": "WI",
-        "postalCode": "53215-4526"
+        "postalCode": "53211-4100"
       },
       {
         "line": [
-          "3237 S 16TH STREET"
-        ],
-        "city": "MILWAUKEE",
-        "state": "WI",
-        "postalCode": "53215-4526"
-      },
-      {
-        "line": [
-          "2462 N PROSPECT"
-        ],
-        "city": "MILWAUKEE",
-        "state": "WI",
-        "postalCode": "53211-4451"
-      },
-      {
-        "line": [
-          "7500 WEST NORTH AVE"
-        ],
-        "city": "MILWAUKEE",
-        "state": "WI",
-        "postalCode": "53213-1717"
-      },
-      {
-        "line": [
-          "2301 N Lake Dr."
+          "2301 N LAKE DR"
         ],
         "city": "MILWAUKEE",
         "state": "WI",
         "postalCode": "53211-4508"
-      },
-      {
-        "line": [
-          "W76N677 WAUWATOSA RD"
-        ],
-        "city": "CEDARBURG",
-        "state": "WI",
-        "postalCode": "53012-1707"
-      },
-      {
-        "line": [
-          "801 S 70th St"
-        ],
-        "city": "MILWAUKEE",
-        "state": "WI",
-        "postalCode": "53214-3147"
-      },
-      {
-        "line": [
-          "475 W River Woods Pkwy"
-        ],
-        "city": "GLENDALE",
-        "state": "WI",
-        "postalCode": "53212-1081"
       },
       {
         "line": [
@@ -422,27 +192,65 @@
       },
       {
         "line": [
-          "N113W16358 Sylvan Circle"
-        ],
-        "city": "GERMANTOWN",
-        "state": "WI",
-        "postalCode": "53022-6004"
-      },
-      {
-        "line": [
-          "9279 N PORT WASHINGTON RD"
-        ],
-        "city": "MILWAUKEE",
-        "state": "WI",
-        "postalCode": "53217-1254"
-      },
-      {
-        "line": [
           "7500 W NORTH AVE"
         ],
         "city": "MILWAUKEE",
         "state": "WI",
         "postalCode": "53213-1717"
+      },
+      {
+        "line": [
+          "3237 S 16TH ST"
+        ],
+        "city": "MILWAUKEE",
+        "state": "WI",
+        "postalCode": "53215-4526"
+      },
+      {
+        "line": [
+          "530 N 103RD ST"
+        ],
+        "city": "MILWAUKEE",
+        "state": "WI",
+        "postalCode": "53226-4375"
+      },
+      {
+        "line": [],
+        "city": "MILWAUKEE",
+        "state": "WI",
+        "postalCode": "53212-1082"
+      },
+      {
+        "line": [
+          "W176 N9430 RIVERCREST DR"
+        ],
+        "city": "MENOMONEE FALLS",
+        "state": "WI",
+        "postalCode": "53051-1111"
+      },
+      {
+        "line": [
+          "1231 EISNER AVE"
+        ],
+        "city": "SHEBOYGAN",
+        "state": "WI",
+        "postalCode": "53083-3060"
+      },
+      {
+        "line": [
+          "7300 W DEAN RD"
+        ],
+        "city": "MILWAUKEE",
+        "state": "WI",
+        "postalCode": "53223-2637"
+      },
+      {
+        "line": [
+          "13111 N Port Washington Rd"
+        ],
+        "city": "MEQUON",
+        "state": "WI",
+        "postalCode": "53097-2416"
       },
       {
         "line": [
@@ -454,19 +262,51 @@
       },
       {
         "line": [
-          "13111 N PORT WASHINGTON ROAD"
+          "7800 N GREEN BAY ROAD"
         ],
-        "city": "MEQUON",
+        "city": "GLENDALE",
         "state": "WI",
-        "postalCode": "53097-2416"
+        "postalCode": "53217-2047"
       },
       {
         "line": [
-          "1706 WASHINGTON ST"
+          "PO BOX 16523"
+        ],
+        "city": "BELFAST",
+        "state": "ME",
+        "postalCode": "04915-4060"
+      },
+      {
+        "line": [
+          "2061 CHEYENNE CT"
         ],
         "city": "GRAFTON",
         "state": "WI",
-        "postalCode": "53024-2101"
+        "postalCode": "53024-9368"
+      },
+      {
+        "line": [
+          "1610 HOOVER STREET"
+        ],
+        "city": "NEW HOLSTEIN",
+        "state": "WI",
+        "postalCode": "53061-1636"
+      },
+      {
+        "line": [
+          "11400 W LAKE PARK DRIVE"
+        ],
+        "city": "MILWAUKEE",
+        "state": "WI",
+        "postalCode": "53224-3035"
+      },
+      {
+        "line": [
+          "N113W16358 Sylvan Circle"
+        ],
+        "city": "GERMANTOWN",
+        "state": "WI",
+        "postalCode": "53022-6004"
       },
       {
         "line": [
@@ -478,75 +318,35 @@
       },
       {
         "line": [
-          "4848 S 6TH ST"
+          "10101 S 27TH ST"
+        ],
+        "city": "FRANKLIN",
+        "state": "WI",
+        "postalCode": "53132-7209"
+      },
+      {
+        "line": [
+          "3237 SOUTH 16TH ST"
         ],
         "city": "MILWAUKEE",
         "state": "WI",
-        "postalCode": "53221-2462"
+        "postalCode": "53215-4526"
       },
       {
         "line": [
-          "530 N 103RD ST"
+          "6900 N PORT WASHINGTON RD"
+        ],
+        "city": "GLENDALE",
+        "state": "WI",
+        "postalCode": "53217-3921"
+      },
+      {
+        "line": [
+          "2115 E WOODSTOCK PLACE"
         ],
         "city": "MILWAUKEE",
         "state": "WI",
-        "postalCode": "53226-4375"
-      },
-      {
-        "line": [
-          "5000 W Chambers St"
-        ],
-        "city": "Milwaukee",
-        "state": "WI",
-        "postalCode": "53210-1650"
-      },
-      {
-        "line": [
-          "2350 N LAKE DRIVE"
-        ],
-        "city": "MILWAUKEE",
-        "state": "WI",
-        "postalCode": "53211-4508"
-      },
-      {
-        "line": [
-          "10995 N Market St"
-        ],
-        "city": "Mequon",
-        "state": "WI",
-        "postalCode": "53092-4952"
-      },
-      {
-        "line": [
-          "201 N MAYFAIR ROAD"
-        ],
-        "city": "MILWAUKEE",
-        "state": "WI",
-        "postalCode": "53226-4216"
-      },
-      {
-        "line": [
-          "W76 N677 WAUWATOSA ROAD"
-        ],
-        "city": "CEDARBURG",
-        "state": "WI",
-        "postalCode": "53012-1707"
-      },
-      {
-        "line": [
-          "W76N677 WAUWATSA ROAD"
-        ],
-        "city": "CEDARBURG",
-        "state": "WI",
-        "postalCode": "53012-1707"
-      },
-      {
-        "line": [
-          "800 WALL STREET"
-        ],
-        "city": "ELM GROVE",
-        "state": "WI",
-        "postalCode": "53122-2631"
+        "postalCode": "53202-1342"
       },
       {
         "line": [
@@ -558,6 +358,70 @@
       },
       {
         "line": [
+          "10101 W WISCONSIN AVE"
+        ],
+        "city": "WAUWATOSA",
+        "state": "WI",
+        "postalCode": "53226-4861"
+      },
+      {
+        "line": [
+          "7500 WEST NORTH AVE"
+        ],
+        "city": "MILWAUKEE",
+        "state": "WI",
+        "postalCode": "53213-1717"
+      },
+      {
+        "line": [
+          "W76N677 WAUWATOSA RD"
+        ],
+        "city": "CEDARBURG",
+        "state": "WI",
+        "postalCode": "53012-1707"
+      },
+      {
+        "line": [
+          "3800 N 92ND ST"
+        ],
+        "city": "MILWAUKEE",
+        "state": "WI",
+        "postalCode": "53222-2504"
+      },
+      {
+        "line": [
+          "2301 N Lake Dr."
+        ],
+        "city": "MILWAUKEE",
+        "state": "WI",
+        "postalCode": "53211-4508"
+      },
+      {
+        "line": [
+          "2586 VALLEY ROAD"
+        ],
+        "city": "PLYMOUTH",
+        "state": "WI",
+        "postalCode": "53073-4964"
+      },
+      {
+        "line": [
+          "1111 E CAPITAL DRIVE"
+        ],
+        "city": "SHOREWOOD",
+        "state": "WI",
+        "postalCode": "53211-1810"
+      },
+      {
+        "line": [
+          "201 N MAYFAIR ROAD"
+        ],
+        "city": "MILWAUKEE",
+        "state": "WI",
+        "postalCode": "53226-4216"
+      },
+      {
+        "line": [
           "19475 W North Ave; Suite 303"
         ],
         "city": "BROOKFIELD",
@@ -566,35 +430,59 @@
       },
       {
         "line": [
-          "7325 N PORT WASHINGTON ROAD"
+          "N109 W17525 VIRGINIA AVE"
         ],
-        "city": "GLENDALE",
+        "city": "GERMANTOWN",
         "state": "WI",
-        "postalCode": "53217-3416"
+        "postalCode": "53022-1111"
       },
       {
         "line": [
-          "2429 BRADFORD TERRACE"
+          "10101 S 27TH STREET"
+        ],
+        "city": "FRANKLIN",
+        "state": "WI",
+        "postalCode": "53132-7209"
+      },
+      {
+        "line": [
+          "W76N677 WAUWATSA ROAD"
+        ],
+        "city": "CEDARBURG",
+        "state": "WI",
+        "postalCode": "53012-1707"
+      },
+      {
+        "line": [
+          "W76 N677 WAUWATOSA ROAD"
+        ],
+        "city": "CEDARBURG",
+        "state": "WI",
+        "postalCode": "53012-1707"
+      },
+      {
+        "line": [
+          "6800 NORTH 76TH STREET"
         ],
         "city": "MILWAUKEE",
         "state": "WI",
-        "postalCode": "53211-4100"
+        "postalCode": "53223-5002"
       },
       {
         "line": [
-          "2003 APPLE TREE ROAD"
+          "2462 N PROSPECT"
         ],
-        "city": "HOWARDS GROVE",
+        "city": "MILWAUKEE",
         "state": "WI",
-        "postalCode": "53083-1514"
+        "postalCode": "53211-4451"
       },
       {
         "line": [
-          "W156N4881 PILGRIM ROAD"
+          "375 W RIVERWOODS PKWY"
         ],
-        "city": "MENOMONEE FALLS",
+        "city": "GLENDALE",
         "state": "WI",
-        "postalCode": "53051-6920"
+        "postalCode": "53121-1081"
       },
       {
         "line": [
@@ -614,6 +502,78 @@
       },
       {
         "line": [
+          "2323 S 102ND ST"
+        ],
+        "city": "WEST ALLIS",
+        "state": "WI",
+        "postalCode": "53227-2103"
+      },
+      {
+        "line": [
+          "10995 N Market St"
+        ],
+        "city": "Mequon",
+        "state": "WI",
+        "postalCode": "53092-4952"
+      },
+      {
+        "line": [
+          "7325 N PORT WASHINGTON ROAD"
+        ],
+        "city": "GLENDALE",
+        "state": "WI",
+        "postalCode": "53217-3416"
+      },
+      {
+        "line": [
+          "2350 N LAKE DRIVE"
+        ],
+        "city": "MILWAUKEE",
+        "state": "WI",
+        "postalCode": "53211-4508"
+      },
+      {
+        "line": [
+          "9279 N PORT WASHINGTON RD"
+        ],
+        "city": "MILWAUKEE",
+        "state": "WI",
+        "postalCode": "53217-1254"
+      },
+      {
+        "line": [
+          "5000 W Chambers St"
+        ],
+        "city": "Milwaukee",
+        "state": "WI",
+        "postalCode": "53210-1650"
+      },
+      {
+        "line": [
+          "800 WALL STREET"
+        ],
+        "city": "ELM GROVE",
+        "state": "WI",
+        "postalCode": "53122-2631"
+      },
+      {
+        "line": [
+          "801 S 70th St"
+        ],
+        "city": "MILWAUKEE",
+        "state": "WI",
+        "postalCode": "53214-3147"
+      },
+      {
+        "line": [
+          "13125 N PORT WOASHINGTON RD"
+        ],
+        "city": "MEQUON",
+        "state": "WI",
+        "postalCode": "53097-2416"
+      },
+      {
+        "line": [
           "W72 N675 HARRISON AVE"
         ],
         "city": "CEDARBURG",
@@ -622,43 +582,83 @@
       },
       {
         "line": [
-          "6800 NORTH 76TH STREET"
+          "475 W RIVER WOODS PKWY"
         ],
-        "city": "MILWAUKEE",
+        "city": "GLENDALE",
         "state": "WI",
-        "postalCode": "53223-5002"
+        "postalCode": "53212-1081"
       },
       {
         "line": [
-          "2425 N LAKE DR"
+          "12600 N PORT WASHINGTON RD"
         ],
-        "city": "MILWAUKEE",
+        "city": "MEQUON",
         "state": "WI",
-        "postalCode": "53211-4517"
+        "postalCode": "53092-3469"
       },
       {
         "line": [
-          "2061 CHEYENNE CT"
+          "2003 APPLE TREE ROAD"
+        ],
+        "city": "HOWARDS GROVE",
+        "state": "WI",
+        "postalCode": "53083-1514"
+      },
+      {
+        "line": [
+          "2323 N LAKE DRIVE"
+        ],
+        "city": "MILWAUKEE",
+        "state": "WI",
+        "postalCode": "53211-4508"
+      },
+      {
+        "line": [
+          "4848 S 6TH ST"
+        ],
+        "city": "MILWAUKEE",
+        "state": "WI",
+        "postalCode": "53221-2462"
+      },
+      {
+        "line": [
+          "10803 N PORT WASHINGTON RD"
+        ],
+        "city": "MEQUON",
+        "state": "WI",
+        "postalCode": "53092-5085"
+      },
+      {
+        "line": [
+          "1706 WASHINGTON ST"
         ],
         "city": "GRAFTON",
         "state": "WI",
-        "postalCode": "53024-9368"
+        "postalCode": "53024-2101"
       },
       {
         "line": [
-          "11400 W LAKE PARK DRIVE"
+          "2301 N Lake Dr"
         ],
         "city": "MILWAUKEE",
         "state": "WI",
-        "postalCode": "53224-3035"
+        "postalCode": "53211-4508"
       },
       {
         "line": [
-          "3237 S 16TH ST"
+          "12600 N PORT WASHINGTON ROAD"
         ],
-        "city": "MILWAUKEE",
+        "city": "MEQUON",
         "state": "WI",
-        "postalCode": "53215-4526"
+        "postalCode": "53092-3469"
+      },
+      {
+        "line": [
+          "W76N677 Wauwatosa Rd"
+        ],
+        "city": "CEDARBURG",
+        "state": "WI",
+        "postalCode": "53012-1707"
       },
       {
         "line": [

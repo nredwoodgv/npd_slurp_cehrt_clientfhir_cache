@@ -14,30 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922071117"
+        "value": "1699892307"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699892307"
+        "value": "1922071117"
       }
     ],
     "address": [
       {
         "line": [
-          "34300 S Talkeetna Spur Rd",
-          "HC 89 Box 8190"
+          "2788 N SEWARD MERIDIAN PKWY"
         ],
-        "city": "TALKEETNA",
+        "city": "WASILLA",
         "state": "AK",
-        "postalCode": "99676-9701"
-      },
-      {
-        "line": [
-          "12801 W Hawk Lane"
-        ],
-        "city": "HOUSTON",
-        "state": "AK",
-        "postalCode": "99694-0001"
+        "postalCode": "99654-6690"
       },
       {
         "line": [
@@ -49,16 +40,16 @@
       },
       {
         "line": [
-          "1261 S SEWARD MERIDIAN PKWY",
-          "STE L"
+          "12345 Talkeetna Blvd"
         ],
-        "city": "WASILLA",
+        "city": "TALKEETNA",
         "state": "AK",
-        "postalCode": "99654-8372"
+        "postalCode": "99676-9701"
       },
       {
         "line": [
-          "12345 Talkeetna Blvd"
+          "34300 S Talkeetna Spur Rd",
+          "HC 89 Box 8190"
         ],
         "city": "TALKEETNA",
         "state": "AK",
@@ -74,11 +65,20 @@
       },
       {
         "line": [
-          "2788 N SEWARD MERIDIAN PKWY"
+          "1261 S SEWARD MERIDIAN PKWY",
+          "STE L"
         ],
         "city": "WASILLA",
         "state": "AK",
-        "postalCode": "99654-6690"
+        "postalCode": "99654-8372"
+      },
+      {
+        "line": [
+          "12801 W Hawk Lane"
+        ],
+        "city": "HOUSTON",
+        "state": "AK",
+        "postalCode": "99694-0001"
       }
     ],
     "extension": [

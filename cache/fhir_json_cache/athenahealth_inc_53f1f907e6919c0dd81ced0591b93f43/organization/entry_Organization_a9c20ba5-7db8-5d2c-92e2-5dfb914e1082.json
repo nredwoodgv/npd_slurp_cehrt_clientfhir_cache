@@ -18,7 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932402484"
+        "value": "1285931089"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285931089"
+        "value": "1932402484"
       }
     ],
     "address": [
@@ -37,6 +37,30 @@
         "city": "LYNCHBURG",
         "state": "VA",
         "postalCode": "24503-2030"
+      },
+      {
+        "line": [
+          "2410 Atherholt Rd."
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24501-2148"
+      },
+      {
+        "line": [
+          "1901 LANGHORNE ROAD"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24501-1109"
+      },
+      {
+        "line": [
+          "291 MCBRIDE LANE"
+        ],
+        "city": "GRETNA",
+        "state": "VA",
+        "postalCode": "24557-2773"
       },
       {
         "line": [
@@ -69,30 +93,6 @@
         "city": "LYNCHBURG",
         "state": "VA",
         "postalCode": "24501-9998"
-      },
-      {
-        "line": [
-          "1901 LANGHORNE ROAD"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24501-1109"
-      },
-      {
-        "line": [
-          "291 MCBRIDE LANE"
-        ],
-        "city": "GRETNA",
-        "state": "VA",
-        "postalCode": "24557-2773"
-      },
-      {
-        "line": [
-          "2410 Atherholt Rd."
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24501-2148"
       }
     ],
     "extension": [

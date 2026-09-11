@@ -14,19 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902428840"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881789659"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1821087230"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902428840"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285629535"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881789659"
       }
     ],
     "address": [
@@ -45,14 +45,6 @@
         "city": "OAKLEY",
         "state": "KS",
         "postalCode": "67748-1220"
-      },
-      {
-        "line": [
-          "211 Cherry Ave."
-        ],
-        "city": "OAKLEY",
-        "state": "KS",
-        "postalCode": "67748-1218"
       },
       {
         "line": [
@@ -78,6 +70,14 @@
         "city": "OAKLEY",
         "state": "KS",
         "postalCode": "67748-6061"
+      },
+      {
+        "line": [
+          "211 Cherry Ave."
+        ],
+        "city": "OAKLEY",
+        "state": "KS",
+        "postalCode": "67748-1218"
       }
     ],
     "extension": [

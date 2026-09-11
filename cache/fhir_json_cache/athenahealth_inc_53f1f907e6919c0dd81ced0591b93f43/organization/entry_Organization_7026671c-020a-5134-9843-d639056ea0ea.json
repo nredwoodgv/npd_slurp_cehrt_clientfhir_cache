@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
+        "value": "1881656247"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
+        "value": "1215999511"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
+        "value": "1962602300"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,7 +38,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
+        "value": "1750302923"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,26 +50,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
+        "value": "1215348487"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669801585"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
       }
     ],
     "address": [
-      {
-        "line": [
-          "101 Circle Dr"
-        ],
-        "city": "HILLSBORO",
-        "state": "TX",
-        "postalCode": "76645-2670"
-      },
       {
         "line": [
           "101 circle dr"
@@ -77,6 +69,14 @@
       {
         "line": [
           "101 CIRCLE DR"
+        ],
+        "city": "HILLSBORO",
+        "state": "TX",
+        "postalCode": "76645-2670"
+      },
+      {
+        "line": [
+          "101 Circle Dr"
         ],
         "city": "HILLSBORO",
         "state": "TX",

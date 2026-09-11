@@ -14,11 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225034234"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1174955256"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225034234"
+        "value": "1164698809"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396046637"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881850956"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -27,24 +39,12 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578725941"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396046637"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164698809"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881850956"
       }
     ],
     "address": [
       {
         "line": [
-          "3100 E Fletcher Ave"
+          "3100 E FLETCHER AVENUE"
         ],
         "city": "TAMPA",
         "state": "FL",
@@ -52,15 +52,15 @@
       },
       {
         "line": [
-          "7171 N Dale Mabry Highway"
+          "2901 Swann Avenue"
         ],
         "city": "TAMPA",
         "state": "FL",
-        "postalCode": "33614-2665"
+        "postalCode": "33609-4056"
       },
       {
         "line": [
-          "3100 E FLETCHER AVENUE"
+          "3100 E Fletcher Ave"
         ],
         "city": "TAMPA",
         "state": "FL",
@@ -76,11 +76,11 @@
       },
       {
         "line": [
-          "2901 Swann Avenue"
+          "7171 N Dale Mabry Highway"
         ],
         "city": "TAMPA",
         "state": "FL",
-        "postalCode": "33609-4056"
+        "postalCode": "33614-2665"
       }
     ],
     "extension": [

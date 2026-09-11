@@ -14,27 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184125924"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295236206"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1356592612"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760893275"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831188440"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225368988"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -43,9 +23,33 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952152530"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1184125924"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1295236206"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1760893275"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225368988"
       }
     ],
     "address": [
+      {
+        "line": [
+          "932  ELIZAVILLE AVE"
+        ],
+        "city": "FLEMINGSBURG",
+        "state": "KY",
+        "postalCode": "41041-9210"
+      },
       {
         "line": [
           "932 ELIZAVILLE AVE",
@@ -62,14 +66,6 @@
         "city": "FLEMINGSBURG",
         "state": "KY",
         "postalCode": "41041-1139"
-      },
-      {
-        "line": [
-          "932  ELIZAVILLE AVE"
-        ],
-        "city": "FLEMINGSBURG",
-        "state": "KY",
-        "postalCode": "41041-9210"
       }
     ],
     "extension": [

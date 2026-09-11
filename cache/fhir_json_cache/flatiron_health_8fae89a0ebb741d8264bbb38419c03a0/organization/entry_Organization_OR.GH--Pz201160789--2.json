@@ -30,10 +30,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013485697"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1619186640"
       },
       {
@@ -58,11 +54,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538175120"
+        "value": "1487690400"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487690400"
+        "value": "1013485697"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1538175120"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -146,15 +146,15 @@
       },
       {
         "system": "phone",
-        "value": "(865)862-3561"
-      },
-      {
-        "system": "phone",
         "value": "(423)224-4000"
       },
       {
         "system": "phone",
         "value": "(123)456-7890"
+      },
+      {
+        "system": "phone",
+        "value": "(865)862-3561"
       },
       {
         "system": "phone",
@@ -260,18 +260,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "2607 Kingston Pike",
-          "Suite 100 (OLD TYSON JR HIGH BUILDING)"
-        ],
-        "city": "Knoxville",
-        "state": "TN",
-        "postalCode": "37919-3333",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "1665 E. Andrew Johnson Hwy",
           "Suite 2"
         ],
@@ -342,17 +330,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1031 West Madison Avenue"
-        ],
-        "city": "Athens",
-        "state": "TN",
-        "postalCode": "37303-3498",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "130 West Ravine Road"
         ],
         "city": "Kingsport",
@@ -369,6 +346,29 @@
         "city": "X",
         "state": "TN",
         "postalCode": "11111",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2607 Kingston Pike",
+          "Suite 100 (OLD TYSON JR HIGH BUILDING)"
+        ],
+        "city": "Knoxville",
+        "state": "TN",
+        "postalCode": "37919-3333",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1031 West Madison Avenue"
+        ],
+        "city": "Athens",
+        "state": "TN",
+        "postalCode": "37303-3498",
         "country": "USA"
       },
       {

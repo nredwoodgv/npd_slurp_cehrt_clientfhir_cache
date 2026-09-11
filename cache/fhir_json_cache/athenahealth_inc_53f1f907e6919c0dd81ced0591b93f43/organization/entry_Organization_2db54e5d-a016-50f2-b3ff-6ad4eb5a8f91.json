@@ -18,37 +18,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558839076"
+        "value": "1285664763"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285664763"
+        "value": "1558839076"
       }
     ],
     "address": [
       {
         "line": [
-          "600 Interstate 20 East"
+          "400 Rosalind Redfern Suite 240"
         ],
-        "city": "STANTON",
+        "city": "Midland",
         "state": "TX",
-        "postalCode": "79782-9999"
-      },
-      {
-        "line": [
-          "400 S Ike Ave"
-        ],
-        "city": "Monohans",
-        "state": "TX",
-        "postalCode": "79756-4735"
-      },
-      {
-        "line": [
-          "720 Hospital Drive"
-        ],
-        "city": "Andrews",
-        "state": "TX",
-        "postalCode": "79714-3617"
+        "postalCode": "79701-5856"
       },
       {
         "line": [
@@ -60,11 +44,19 @@
       },
       {
         "line": [
-          "605 E 4th St Suite 301"
+          "720 Hospital Drive"
         ],
-        "city": "Odessa",
+        "city": "Andrews",
         "state": "TX",
-        "postalCode": "79761-5100"
+        "postalCode": "79714-3617"
+      },
+      {
+        "line": [
+          "600 Interstate 20 East"
+        ],
+        "city": "STANTON",
+        "state": "TX",
+        "postalCode": "79782-9999"
       },
       {
         "line": [
@@ -76,11 +68,19 @@
       },
       {
         "line": [
-          "400 Rosalind Redfern Suite 240"
+          "400 S Ike Ave"
         ],
-        "city": "Midland",
+        "city": "Monohans",
         "state": "TX",
-        "postalCode": "79701-5856"
+        "postalCode": "79756-4735"
+      },
+      {
+        "line": [
+          "605 E 4th St Suite 301"
+        ],
+        "city": "Odessa",
+        "state": "TX",
+        "postalCode": "79761-5100"
       }
     ],
     "extension": [

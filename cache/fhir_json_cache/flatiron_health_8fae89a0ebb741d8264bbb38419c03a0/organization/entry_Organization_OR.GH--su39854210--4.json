@@ -14,15 +14,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "3"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1457396079"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1111111111"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "3"
       }
     ],
     "active": true,
@@ -30,15 +30,7 @@
     "telecom": [
       {
         "system": "phone",
-        "value": "(770)417-4336"
-      },
-      {
-        "system": "phone",
         "value": "(770)963-8030"
-      },
-      {
-        "system": "phone",
-        "value": "(678)722-3940"
       },
       {
         "system": "phone",
@@ -46,7 +38,15 @@
       },
       {
         "system": "phone",
+        "value": "(678)722-3940"
+      },
+      {
+        "system": "phone",
         "value": "(770)623-6433"
+      },
+      {
+        "system": "phone",
+        "value": "(770)417-4336"
       }
     ],
     "address": [
@@ -54,12 +54,23 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "2800 Buford Drive",
-          "Suite 300"
+          "631 Professional Drive",
+          "Suite 450"
         ],
-        "city": "Buford",
+        "city": "Lawrenceville",
         "state": "GA",
-        "postalCode": "30519",
+        "postalCode": "30046",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2220 Wisteria Drive Suite 202"
+        ],
+        "city": "Snellville",
+        "state": "GA",
+        "postalCode": "30078",
         "country": "USA"
       },
       {
@@ -88,19 +99,19 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "631 Professional Drive, Suite 210"
+          "3855 Pleasant Hill Road",
+          "Suite 480"
         ],
-        "city": "Lawrenceville",
+        "city": "Duluth",
         "state": "GA",
-        "postalCode": "30046",
+        "postalCode": "30096",
         "country": "USA"
       },
       {
         "use": "work",
         "type": "postal",
         "line": [
-          "631 Professional Drive",
-          "Suite 450"
+          "631 Professional Drive, Suite 210"
         ],
         "city": "Lawrenceville",
         "state": "GA",
@@ -122,23 +133,12 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "2220 Wisteria Drive Suite 202"
+          "2800 Buford Drive",
+          "Suite 300"
         ],
-        "city": "Snellville",
+        "city": "Buford",
         "state": "GA",
-        "postalCode": "30078",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "3855 Pleasant Hill Road",
-          "Suite 480"
-        ],
-        "city": "Duluth",
-        "state": "GA",
-        "postalCode": "30096",
+        "postalCode": "30519",
         "country": "USA"
       }
     ],

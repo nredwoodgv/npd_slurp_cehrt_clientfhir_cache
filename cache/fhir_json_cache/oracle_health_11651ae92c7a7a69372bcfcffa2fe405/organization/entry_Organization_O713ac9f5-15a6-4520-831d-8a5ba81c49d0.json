@@ -5,13 +5,23 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.982"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104801349"
       },
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.6364"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386643294"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1063441640"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447233788"
       }
     ],
     "name": "Care New England Health System",

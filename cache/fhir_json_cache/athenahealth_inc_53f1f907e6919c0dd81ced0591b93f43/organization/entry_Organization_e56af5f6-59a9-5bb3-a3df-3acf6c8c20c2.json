@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548418742"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1720292261"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427075027"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,10 +22,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1427075027"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548418742"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1477995124"
       }
     ],
     "address": [
+      {
+        "line": [
+          "50 Hospital Dr Ste 5A"
+        ],
+        "city": "HENDERSONVILLE",
+        "state": "NC",
+        "postalCode": "28792-5247"
+      },
       {
         "line": [
           "266 Merrimon Ave"
@@ -49,14 +57,6 @@
         "city": "BREVARD",
         "state": "NC",
         "postalCode": "28712-8990"
-      },
-      {
-        "line": [
-          "50 Hospital Dr Ste 5A"
-        ],
-        "city": "HENDERSONVILLE",
-        "state": "NC",
-        "postalCode": "28792-5247"
       },
       {
         "line": [

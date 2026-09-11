@@ -18,23 +18,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205599578"
+        "value": "1881197192"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881197192"
+        "value": "1205599578"
       }
     ],
     "address": [
-      {
-        "line": [
-          "5470 Kietzke Lane",
-          "Suite 300"
-        ],
-        "city": "RENO",
-        "state": "NV",
-        "postalCode": "89511-2099"
-      },
       {
         "line": [
           "2001 Errecart Boulevard",
@@ -52,6 +43,15 @@
         "city": "FALLON",
         "state": "NV",
         "postalCode": "89406-3052"
+      },
+      {
+        "line": [
+          "5470 Kietzke Lane",
+          "Suite 300"
+        ],
+        "city": "RENO",
+        "state": "NV",
+        "postalCode": "89511-2099"
       }
     ],
     "extension": [

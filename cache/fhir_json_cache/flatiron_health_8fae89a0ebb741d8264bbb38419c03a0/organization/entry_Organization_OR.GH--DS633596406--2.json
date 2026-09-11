@@ -14,18 +14,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457979601"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912249590"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578981726"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669461281"
       },
       {
@@ -34,23 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538267539"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1518904630"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659325629"
+        "value": "1538267539"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1083611644"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003906868"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,7 +42,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316144868"
+        "value": "1659325629"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -70,32 +50,36 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578981726"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1740220458"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912249590"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1003906868"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457979601"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1821045584"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316144868"
       }
     ],
     "active": true,
     "name": "HCA Health ONE Gynecologic Oncology",
     "telecom": [
-      {
-        "system": "phone",
-        "value": "(303)955-7574"
-      },
-      {
-        "system": "phone",
-        "value": "(303)781-9090"
-      },
-      {
-        "system": "phone",
-        "value": "(720)455-5000"
-      },
-      {
-        "system": "phone",
-        "value": "(303)730-8900"
-      },
       {
         "system": "phone",
         "value": "(303)425-4500"
@@ -106,23 +90,15 @@
       },
       {
         "system": "phone",
-        "value": "(303)778-1955"
-      },
-      {
-        "system": "phone",
         "value": "(303)839-6000"
       },
       {
         "system": "phone",
-        "value": "(720)225-1000"
+        "value": "(303)778-1955"
       },
       {
         "system": "phone",
         "value": "(970)247-4311"
-      },
-      {
-        "system": "phone",
-        "value": "(719)867-7900"
       },
       {
         "system": "phone",
@@ -134,84 +110,38 @@
       },
       {
         "system": "phone",
+        "value": "(720)225-1000"
+      },
+      {
+        "system": "phone",
         "value": "(720)321-8311"
       },
       {
         "system": "phone",
+        "value": "(303)730-8900"
+      },
+      {
+        "system": "phone",
         "value": "(303)812-2000"
+      },
+      {
+        "system": "phone",
+        "value": "(720)455-5000"
+      },
+      {
+        "system": "phone",
+        "value": "(719)867-7900"
+      },
+      {
+        "system": "phone",
+        "value": "(303)955-7574"
+      },
+      {
+        "system": "phone",
+        "value": "(303)781-9090"
       }
     ],
     "address": [
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "4545 E. 9th Ave.",
-          "Suite #504"
-        ],
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80220",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "6965 Tutt Blvd.",
-          "Suite #200"
-        ],
-        "city": "Co.Springs",
-        "state": "CO",
-        "postalCode": "80923",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "701 E. Hampden Ave.",
-          "#210"
-        ],
-        "city": "Englewood",
-        "state": "CO",
-        "postalCode": "80113",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "9195 Grant St.",
-          "Suite #410"
-        ],
-        "city": "Thornton",
-        "state": "CO",
-        "postalCode": "80229",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "2350 Meadows Blvd"
-        ],
-        "city": "Castle Rock",
-        "state": "CO",
-        "postalCode": "80109-8405",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "7700 S Broadway"
-        ],
-        "city": "Littleton",
-        "state": "CO",
-        "postalCode": "80122-2602",
-        "country": "USA"
-      },
       {
         "use": "work",
         "type": "postal",
@@ -221,6 +151,17 @@
         "city": "Wheat Ridge",
         "state": "CO",
         "postalCode": "80033-6005",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "9395 Crown Crest Blvd."
+        ],
+        "city": "Parker",
+        "state": "CO",
+        "postalCode": "80138-8573",
         "country": "USA"
       },
       {
@@ -238,11 +179,11 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "2555 Downing Street"
+          "1719 E 19TH AVE"
         ],
-        "city": "Denver",
+        "city": "DENVER",
         "state": "CO",
-        "postalCode": "80210-5817",
+        "postalCode": "80218-1235",
         "country": "USA"
       },
       {
@@ -260,11 +201,22 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "10101 Ridgegate Pkwy"
+          "2555 S Downing Street"
         ],
-        "city": "Lone Tree",
+        "city": "Denver",
         "state": "CO",
-        "postalCode": "80124-5522",
+        "postalCode": "80210-5817",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2555 Downing Street"
+        ],
+        "city": "Denver",
+        "state": "CO",
+        "postalCode": "80210-5817",
         "country": "USA"
       },
       {
@@ -276,17 +228,6 @@
         "city": "Durango",
         "state": "CO",
         "postalCode": "81301",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "7700 S Broadway"
-        ],
-        "city": "Littleton",
-        "state": "CO",
-        "postalCode": "80122-2602",
         "country": "USA"
       },
       {
@@ -315,23 +256,11 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "10107 Ridgegate Parkway",
-          "#120"
+          "10101 Ridgegate Pkwy"
         ],
-        "city": "Lonetree",
+        "city": "Lone Tree",
         "state": "CO",
-        "postalCode": "80124",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "9395 Crown Crest Blvd."
-        ],
-        "city": "Parker",
-        "state": "CO",
-        "postalCode": "80138-8573",
+        "postalCode": "80124-5522",
         "country": "USA"
       },
       {
@@ -343,6 +272,17 @@
         "city": "LAKEWOOD",
         "state": "CO",
         "postalCode": "80228",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "7700 S Broadway"
+        ],
+        "city": "Littleton",
+        "state": "CO",
+        "postalCode": "80122-2602",
         "country": "USA"
       },
       {
@@ -371,6 +311,50 @@
         "use": "work",
         "type": "postal",
         "line": [
+          "1313 Mockingbird Lane"
+        ],
+        "city": "Mockingbird Heights",
+        "state": "CA",
+        "postalCode": "90210",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2350 Meadows Blvd"
+        ],
+        "city": "Castle Rock",
+        "state": "CO",
+        "postalCode": "80109-8405",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2350 Meadows Blvd"
+        ],
+        "city": "Castle Rock",
+        "state": "CO",
+        "postalCode": "80109-8405",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "7700 S Broadway"
+        ],
+        "city": "Littleton",
+        "state": "CO",
+        "postalCode": "80122-2602",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
           "8300 W 38th Ave"
         ],
         "city": "Wheat Ridge",
@@ -382,11 +366,12 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1719 E 19TH AVE"
+          "6965 Tutt Blvd.",
+          "Suite #200"
         ],
-        "city": "DENVER",
+        "city": "Co.Springs",
         "state": "CO",
-        "postalCode": "80218-1235",
+        "postalCode": "80923",
         "country": "USA"
       },
       {
@@ -405,33 +390,48 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "2555 S Downing Street"
+          "10107 Ridgegate Parkway",
+          "#120"
+        ],
+        "city": "Lonetree",
+        "state": "CO",
+        "postalCode": "80124",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "4545 E. 9th Ave.",
+          "Suite #504"
         ],
         "city": "Denver",
         "state": "CO",
-        "postalCode": "80210-5817",
+        "postalCode": "80220",
         "country": "USA"
       },
       {
         "use": "work",
         "type": "postal",
         "line": [
-          "2350 Meadows Blvd"
+          "9195 Grant St.",
+          "Suite #410"
         ],
-        "city": "Castle Rock",
+        "city": "Thornton",
         "state": "CO",
-        "postalCode": "80109-8405",
+        "postalCode": "80229",
         "country": "USA"
       },
       {
         "use": "work",
         "type": "postal",
         "line": [
-          "1313 Mockingbird Lane"
+          "701 E. Hampden Ave.",
+          "#210"
         ],
-        "city": "Mockingbird Heights",
-        "state": "CA",
-        "postalCode": "90210",
+        "city": "Englewood",
+        "state": "CO",
+        "postalCode": "80113",
         "country": "USA"
       }
     ],

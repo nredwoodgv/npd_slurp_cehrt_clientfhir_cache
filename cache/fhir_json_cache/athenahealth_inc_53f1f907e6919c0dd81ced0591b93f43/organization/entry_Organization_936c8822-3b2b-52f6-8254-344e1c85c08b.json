@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942622204"
+        "value": "1649551516"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649551516"
+        "value": "1942622204"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,6 +26,14 @@
       }
     ],
     "address": [
+      {
+        "line": [
+          "16420 RANCH ROAD 620 STE 104"
+        ],
+        "city": "ROUND ROCK",
+        "state": "TX",
+        "postalCode": "78681-5794"
+      },
       {
         "line": [
           "600 N BELL BLVD STE 100"
@@ -36,11 +44,11 @@
       },
       {
         "line": [
-          "4001 Cane Ridge Parkway"
+          "500 W WHITESTONE BLVD STE 100"
         ],
-        "city": "ANTIOCH",
-        "state": "TN",
-        "postalCode": "37013-2971"
+        "city": "CEDAR PARK",
+        "state": "TX",
+        "postalCode": "78613-2271"
       },
       {
         "line": [
@@ -52,19 +60,11 @@
       },
       {
         "line": [
-          "16420 RANCH ROAD 620 STE 104"
+          "4001 Cane Ridge Parkway"
         ],
-        "city": "ROUND ROCK",
-        "state": "TX",
-        "postalCode": "78681-5794"
-      },
-      {
-        "line": [
-          "500 W WHITESTONE BLVD STE 100"
-        ],
-        "city": "CEDAR PARK",
-        "state": "TX",
-        "postalCode": "78613-2271"
+        "city": "ANTIOCH",
+        "state": "TN",
+        "postalCode": "37013-2971"
       }
     ],
     "extension": [

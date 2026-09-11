@@ -14,41 +14,25 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467736603"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1003309444"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1801848163"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467736603"
       }
     ],
     "address": [
       {
         "line": [
-          "275 Sandwich Street"
-        ],
-        "city": "PLYMOUTH",
-        "state": "MA",
-        "postalCode": "02360-2183"
-      },
-      {
-        "line": [
-          "55 w. main street"
-        ],
-        "city": "NORTON",
-        "state": "MA",
-        "postalCode": "02766-1701"
-      },
-      {
-        "line": [
-          "88 Washington Street"
+          "725 Myles Standish Blvd"
         ],
         "city": "TAUNTON",
         "state": "MA",
-        "postalCode": "02780-3465"
+        "postalCode": "02780-7332"
       },
       {
         "line": [
@@ -60,27 +44,19 @@
       },
       {
         "line": [
-          "68 Allison Ave"
+          "88 Washington Street"
         ],
         "city": "TAUNTON",
         "state": "MA",
-        "postalCode": "02780-0161"
+        "postalCode": "02780-2465"
       },
       {
         "line": [
-          "97 Warren Ave."
+          "456 Mills St"
         ],
-        "city": "PLYMOUTH",
+        "city": "MARION",
         "state": "MA",
-        "postalCode": "02360-6861"
-      },
-      {
-        "line": [
-          "94 Obery Street"
-        ],
-        "city": "PLYMOUTH",
-        "state": "MA",
-        "postalCode": "02360-6861"
+        "postalCode": "02738-0006"
       },
       {
         "line": [
@@ -93,11 +69,11 @@
       },
       {
         "line": [
-          "17 Chipman Way"
+          "88 Washington Street"
         ],
-        "city": "KINGSTON",
+        "city": "TAUNTON",
         "state": "MA",
-        "postalCode": "02364-0001"
+        "postalCode": "02780-3465"
       },
       {
         "line": [
@@ -109,11 +85,11 @@
       },
       {
         "line": [
-          "88 Washington Street"
+          "68 Allison Ave"
         ],
         "city": "TAUNTON",
         "state": "MA",
-        "postalCode": "02780-2465"
+        "postalCode": "02780-0161"
       },
       {
         "line": [
@@ -133,11 +109,27 @@
       },
       {
         "line": [
-          "725 Myles Standish Blvd"
+          "55 w. main street"
         ],
-        "city": "TAUNTON",
+        "city": "NORTON",
         "state": "MA",
-        "postalCode": "02780-7332"
+        "postalCode": "02766-1701"
+      },
+      {
+        "line": [
+          "275 Sandwich Street"
+        ],
+        "city": "PLYMOUTH",
+        "state": "MA",
+        "postalCode": "02360-2183"
+      },
+      {
+        "line": [
+          "97 Warren Ave."
+        ],
+        "city": "PLYMOUTH",
+        "state": "MA",
+        "postalCode": "02360-6861"
       },
       {
         "line": [
@@ -149,19 +141,11 @@
       },
       {
         "line": [
-          "17 Chapman Way"
+          "94 Obery Street"
         ],
-        "city": "KINGSTON",
+        "city": "PLYMOUTH",
         "state": "MA",
-        "postalCode": "02364-0001"
-      },
-      {
-        "line": [
-          "456 Mills St"
-        ],
-        "city": "MARION",
-        "state": "MA",
-        "postalCode": "02738-0006"
+        "postalCode": "02360-6861"
       },
       {
         "line": [
@@ -170,6 +154,22 @@
         "city": "PLYMOUTH",
         "state": "MA",
         "postalCode": "02360-6861"
+      },
+      {
+        "line": [
+          "17 Chapman Way"
+        ],
+        "city": "KINGSTON",
+        "state": "MA",
+        "postalCode": "02364-0001"
+      },
+      {
+        "line": [
+          "17 Chipman Way"
+        ],
+        "city": "KINGSTON",
+        "state": "MA",
+        "postalCode": "02364-0001"
       }
     ],
     "extension": [

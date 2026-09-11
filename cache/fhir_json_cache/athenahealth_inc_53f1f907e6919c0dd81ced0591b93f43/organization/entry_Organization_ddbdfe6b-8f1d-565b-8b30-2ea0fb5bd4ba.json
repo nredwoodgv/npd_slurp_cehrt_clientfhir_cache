@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144252859"
+        "value": "1972922920"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972922920"
+        "value": "1144252859"
       }
     ],
     "address": [
-      {
-        "line": [
-          "12240 INDIAN CREEK CT # 130"
-        ],
-        "city": "BELTSVILLE",
-        "state": "MD",
-        "postalCode": "20705-1242"
-      },
       {
         "line": [
           "205 CENTER ST STE 301"
@@ -40,7 +32,16 @@
       },
       {
         "line": [
-          "10750 Columbia Pike 700"
+          "12240 INDIAN CREEK CT # 130"
+        ],
+        "city": "BELTSVILLE",
+        "state": "MD",
+        "postalCode": "20705-1242"
+      },
+      {
+        "line": [
+          "10750 Columbia Pike",
+          "Suite 700"
         ],
         "city": "SILVER SPRING",
         "state": "MD",
@@ -48,8 +49,7 @@
       },
       {
         "line": [
-          "10750 Columbia Pike",
-          "Suite 700"
+          "10750 Columbia Pike 700"
         ],
         "city": "SILVER SPRING",
         "state": "MD",

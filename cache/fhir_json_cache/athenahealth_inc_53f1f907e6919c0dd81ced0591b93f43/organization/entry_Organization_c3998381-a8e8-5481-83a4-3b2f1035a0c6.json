@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780638478"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1528782042"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396782363"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1780638478"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,20 +32,20 @@
     "address": [
       {
         "line": [
-          "355 W Carpenter Street"
-        ],
-        "city": "Springfield",
-        "state": "IL",
-        "postalCode": "62702-4902"
-      },
-      {
-        "line": [
           "355 W Carpenter Street",
           "Suite A"
         ],
         "city": "Springfield",
         "state": "IL",
         "postalCode": "62702-4922"
+      },
+      {
+        "line": [
+          "355 W Carpenter Street"
+        ],
+        "city": "Springfield",
+        "state": "IL",
+        "postalCode": "62702-4902"
       }
     ],
     "extension": [

@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801318928"
+        "value": "1013017839"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013017839"
+        "value": "1801318928"
       }
     ],
     "address": [
       {
         "line": [
-          "1041 W Stearns Road"
+          "12151 REGENCY PKWY"
         ],
-        "city": "BARTLETT",
+        "city": "HUNTLEY",
         "state": "IL",
-        "postalCode": "60103-4800"
+        "postalCode": "60142-7644"
       },
       {
         "line": [
@@ -40,19 +40,19 @@
       },
       {
         "line": [
-          "12151 REGENCY PKWY"
-        ],
-        "city": "HUNTLEY",
-        "state": "IL",
-        "postalCode": "60142-7644"
-      },
-      {
-        "line": [
           "460 QUAIL RIDGE DR"
         ],
         "city": "WESTMONT",
         "state": "IL",
         "postalCode": "60559-6145"
+      },
+      {
+        "line": [
+          "1041 W Stearns Road"
+        ],
+        "city": "BARTLETT",
+        "state": "IL",
+        "postalCode": "60103-4800"
       }
     ],
     "extension": [

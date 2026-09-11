@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861431116"
+        "value": "1831395912"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346263266"
+        "value": "1831145515"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477793172"
+        "value": "1801830807"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,21 +34,29 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801830807"
+        "value": "1477793172"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831145515"
+        "value": "1346263266"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831395912"
+        "value": "1861431116"
       }
     ],
     "address": [
       {
         "line": [
-          "208 E Church St Ste 300"
+          "24 Cree Drive"
+        ],
+        "city": "LOCK HAVEN",
+        "state": "PA",
+        "postalCode": "17745-2026"
+      },
+      {
+        "line": [
+          "24 Cree Drive"
         ],
         "city": "LOCK HAVEN",
         "state": "PA",
@@ -64,27 +72,19 @@
       },
       {
         "line": [
+          "208 E Church St Ste 300"
+        ],
+        "city": "LOCK HAVEN",
+        "state": "PA",
+        "postalCode": "17745-2025"
+      },
+      {
+        "line": [
           "24 Cree Dr"
         ],
         "city": "LOCK HAVEN",
         "state": "PA",
         "postalCode": "17745-2025"
-      },
-      {
-        "line": [
-          "24 Cree Drive"
-        ],
-        "city": "LOCK HAVEN",
-        "state": "PA",
-        "postalCode": "17745-2025"
-      },
-      {
-        "line": [
-          "24 Cree Drive"
-        ],
-        "city": "LOCK HAVEN",
-        "state": "PA",
-        "postalCode": "17745-2026"
       }
     ],
     "extension": [

@@ -3,7 +3,7 @@
     "resourceType": "Endpoint",
     "id": "16788de1-9926-42f0-ab68-4b6eb3fcad8f",
     "status": "active",
-    "address": "https://mnalive.meditech6.api.catholichealth.net/v1/uscore/R4",
+    "address": "https://mnalive-meditech6-api.catholichealth.net/v1/uscore/R4",
     "contact": [
       {
         "extension": [
@@ -33,7 +33,10 @@
           }
         ]
       }
-    ]
+    ],
+    "meta": {
+      "lastUpdated": "2026-08-12T13:43:50.879Z"
+    }
   },
   "fullUrl": "urn:uuid:16788de1-9926-42f0-ab68-4b6eb3fcad8f"
 }

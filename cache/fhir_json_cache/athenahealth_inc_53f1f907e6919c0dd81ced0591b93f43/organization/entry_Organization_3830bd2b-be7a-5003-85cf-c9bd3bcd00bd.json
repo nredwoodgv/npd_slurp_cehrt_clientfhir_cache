@@ -18,22 +18,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235659103"
+        "value": "1154841021"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154841021"
+        "value": "1235659103"
       }
     ],
     "address": [
-      {
-        "line": [
-          "316 CALHOUN STREET"
-        ],
-        "city": "CHARLESTON",
-        "state": "SC",
-        "postalCode": "29401-1113"
-      },
       {
         "line": [
           "2435 FOREST DRIVE"
@@ -41,14 +33,6 @@
         "city": "COLUMBIA",
         "state": "SC",
         "postalCode": "29204-2026"
-      },
-      {
-        "line": [
-          "2095 HENRY TECKLENBURG DRIVE"
-        ],
-        "city": "CHARLESTON",
-        "state": "SC",
-        "postalCode": "29414-5733"
       },
       {
         "line": [
@@ -68,19 +52,27 @@
       },
       {
         "line": [
-          "7832 RIVERS AVE"
+          "316 CALHOUN STREET"
         ],
         "city": "CHARLESTON",
+        "state": "SC",
+        "postalCode": "29401-1113"
+      },
+      {
+        "line": [
+          "7832 RIVERS AVE"
+        ],
+        "city": "NORTH CHARLESTON",
         "state": "SC",
         "postalCode": "29406-4016"
       },
       {
         "line": [
-          "730 STONEY LANDING ROAD"
+          "7832 RIVERS AVE"
         ],
-        "city": "MONCKS CORNER",
+        "city": "CHARLESTON",
         "state": "SC",
-        "postalCode": "29461-2950"
+        "postalCode": "29406-4016"
       },
       {
         "line": [
@@ -92,11 +84,19 @@
       },
       {
         "line": [
-          "7832 RIVERS AVE"
+          "2095 HENRY TECKLENBURG DRIVE"
         ],
-        "city": "NORTH CHARLESTON",
+        "city": "CHARLESTON",
         "state": "SC",
-        "postalCode": "29406-4016"
+        "postalCode": "29414-5733"
+      },
+      {
+        "line": [
+          "730 STONEY LANDING ROAD"
+        ],
+        "city": "MONCKS CORNER",
+        "state": "SC",
+        "postalCode": "29461-2950"
       }
     ],
     "extension": [

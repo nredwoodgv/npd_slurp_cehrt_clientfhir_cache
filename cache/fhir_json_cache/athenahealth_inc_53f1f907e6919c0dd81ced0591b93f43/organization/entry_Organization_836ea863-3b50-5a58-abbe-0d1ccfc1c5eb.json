@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962023663"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1386956290"
       },
       {
@@ -23,13 +27,17 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1801417449"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962023663"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1011 PENNSYLVANIA AVE STE B"
+        ],
+        "city": "OTTUMWA",
+        "state": "IA",
+        "postalCode": "52501-2129"
+      },
       {
         "line": [
           "1011 PENNSYLVANIA AVE",

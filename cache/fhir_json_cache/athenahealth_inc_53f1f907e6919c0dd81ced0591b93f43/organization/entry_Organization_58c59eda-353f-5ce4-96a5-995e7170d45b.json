@@ -14,17 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093307811"
+        "value": "1558711937"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558711937"
+        "value": "1093307811"
       }
     ],
     "address": [
       {
         "line": [
-          "730 MAIN ST STE 1D"
+          "730 MAIN ST",
+          "Ste 1D"
         ],
         "city": "MILLIS",
         "state": "MA",
@@ -50,8 +51,7 @@
       },
       {
         "line": [
-          "730 MAIN STREET",
-          "SUITE 1D"
+          "730 MAIN ST STE 1D"
         ],
         "city": "MILLIS",
         "state": "MA",
@@ -65,6 +65,14 @@
         "city": "MILLIS",
         "state": "MA",
         "postalCode": "02054-1613"
+      },
+      {
+        "line": [
+          "200 PROVIDENCE HWY STE 206"
+        ],
+        "city": "DEDHAM",
+        "state": "MA",
+        "postalCode": "02026-1881"
       },
       {
         "line": [
@@ -85,17 +93,8 @@
       },
       {
         "line": [
-          "730 main st",
-          "suite 1D"
-        ],
-        "city": "MILLIS",
-        "state": "MA",
-        "postalCode": "02054-1613"
-      },
-      {
-        "line": [
-          "730 MAIN ST",
-          "Ste 1D"
+          "730 MAIN STREET",
+          "SUITE 1D"
         ],
         "city": "MILLIS",
         "state": "MA",
@@ -103,11 +102,12 @@
       },
       {
         "line": [
-          "200 PROVIDENCE HWY STE 206"
+          "730 main st",
+          "suite 1D"
         ],
-        "city": "DEDHAM",
+        "city": "MILLIS",
         "state": "MA",
-        "postalCode": "02026-1881"
+        "postalCode": "02054-1613"
       }
     ],
     "extension": [

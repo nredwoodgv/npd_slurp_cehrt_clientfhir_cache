@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174744379"
+        "value": "1407235971"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407235971"
+        "value": "1174744379"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,14 +36,6 @@
       },
       {
         "line": [
-          "503 SILVER CROSS DR"
-        ],
-        "city": "BROOKHAVEN",
-        "state": "MS",
-        "postalCode": "39601-2326"
-      },
-      {
-        "line": [
           "1012 D A Biglane Dr"
         ],
         "city": "BROOKHAVEN",
@@ -52,7 +44,15 @@
       },
       {
         "line": [
-          "519 BROOKMAN DR"
+          "524 BROOKMAN DR"
+        ],
+        "city": "BROOKHAVEN",
+        "state": "MS",
+        "postalCode": "39601-2384"
+      },
+      {
+        "line": [
+          "503 SILVER CROSS DR"
         ],
         "city": "BROOKHAVEN",
         "state": "MS",
@@ -76,11 +76,11 @@
       },
       {
         "line": [
-          "524 BROOKMAN DR"
+          "519 BROOKMAN DR"
         ],
         "city": "BROOKHAVEN",
         "state": "MS",
-        "postalCode": "39601-2384"
+        "postalCode": "39601-2326"
       }
     ],
     "extension": [

@@ -14,33 +14,34 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184787731"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1912061706"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1487694345"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1184787731"
       }
     ],
     "address": [
       {
         "line": [
-          "100 Commerce Dr"
+          "20 Squadron Blvd"
         ],
-        "city": "NEW WINDSOR",
+        "city": "NEW CITY",
         "state": "NY",
-        "postalCode": "12553-6936"
+        "postalCode": "10956-5200"
       },
       {
         "line": [
-          "36 College Ave"
+          "972 Route 45",
+          "Suite 103"
         ],
-        "city": "NANUET",
+        "city": "POMONA",
         "state": "NY",
-        "postalCode": "10954-3093"
+        "postalCode": "10970-3566"
       },
       {
         "line": [
@@ -52,12 +53,27 @@
       },
       {
         "line": [
-          "972 Route 45",
-          "Suite 103"
+          "171 Ramapo Rd"
         ],
-        "city": "POMONA",
+        "city": "GARNERVILLE",
         "state": "NY",
-        "postalCode": "10970-3566"
+        "postalCode": "10923-1552"
+      },
+      {
+        "line": [
+          "257 Lafayette Ave"
+        ],
+        "city": "SUFFERN",
+        "state": "NY",
+        "postalCode": "10901-4830"
+      },
+      {
+        "line": [
+          "100 Commerce Dr"
+        ],
+        "city": "NEW WINDSOR",
+        "state": "NY",
+        "postalCode": "12553-6936"
       },
       {
         "line": [
@@ -79,27 +95,11 @@
       },
       {
         "line": [
-          "257 Lafayette Ave"
+          "36 College Ave"
         ],
-        "city": "SUFFERN",
+        "city": "NANUET",
         "state": "NY",
-        "postalCode": "10901-4830"
-      },
-      {
-        "line": [
-          "20 Squadron Blvd"
-        ],
-        "city": "NEW CITY",
-        "state": "NY",
-        "postalCode": "10956-5200"
-      },
-      {
-        "line": [
-          "171 Ramapo Rd"
-        ],
-        "city": "GARNERVILLE",
-        "state": "NY",
-        "postalCode": "10923-1552"
+        "postalCode": "10954-3093"
       }
     ],
     "extension": [

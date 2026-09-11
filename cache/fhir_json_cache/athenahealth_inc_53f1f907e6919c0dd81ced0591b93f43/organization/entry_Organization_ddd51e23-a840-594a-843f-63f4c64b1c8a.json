@@ -14,6 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447978358"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578281291"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1770201766"
       },
       {
@@ -22,29 +30,45 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578281291"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1275587826"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447978358"
       }
     ],
     "address": [
       {
         "line": [
-          "701 E 6th St"
+          "1309 10th Ave W"
         ],
-        "city": "MC LAUGHLIN",
+        "city": "MOBRIDGE",
         "state": "SD",
-        "postalCode": "57642-4545"
+        "postalCode": "57601-1146"
       },
       {
         "line": [
-          "900 E Broadway Ave"
+          "706 8th Ave NE"
+        ],
+        "city": "HAZEN",
+        "state": "ND",
+        "postalCode": "58545-4638"
+      },
+      {
+        "line": [
+          "1000 W Century Ave"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58503-1000"
+      },
+      {
+        "line": [
+          "609 4th Ave. NE"
+        ],
+        "city": "GARRISON",
+        "state": "ND",
+        "postalCode": "58540-7519"
+      },
+      {
+        "line": [
+          "401 N 9th St"
         ],
         "city": "BISMARCK",
         "state": "ND",
@@ -68,27 +92,19 @@
       },
       {
         "line": [
-          "500 N 8th St."
+          "301 Lorrain Dr"
         ],
         "city": "BISMARCK",
         "state": "ND",
-        "postalCode": "58501-4445"
+        "postalCode": "58503-0311"
       },
       {
         "line": [
-          "900 East Broadway Ave"
+          "1000 E Rosser Ave"
         ],
         "city": "BISMARCK",
         "state": "ND",
-        "postalCode": "58501-4507"
-      },
-      {
-        "line": [
-          "1007 4th Ave S."
-        ],
-        "city": "WISHEK",
-        "state": "ND",
-        "postalCode": "58495-7527"
+        "postalCode": "58501-4414"
       },
       {
         "line": [
@@ -100,11 +116,84 @@
       },
       {
         "line": [
-          "1011 Boundary St NW"
+          "900 East Broadway Ave"
         ],
         "city": "BISMARCK",
         "state": "ND",
-        "postalCode": "58554-1608"
+        "postalCode": "58501-4507"
+      },
+      {
+        "line": [
+          "2700 State St"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58503-0669"
+      },
+      {
+        "line": [
+          "900 East Broadway Ave."
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58501-4507"
+      },
+      {
+        "line": [
+          "7500 University Drive"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58504-9634"
+      },
+      {
+        "line": [
+          "3400 Nebraska Drive"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58503-1649"
+      },
+      {
+        "line": [
+          "500 N 8th St."
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58501-4445"
+      },
+      {
+        "line": [
+          "PO BOX J",
+          "10 N River RD"
+        ],
+        "city": "FORT YATES",
+        "state": "ND",
+        "postalCode": "58538-0527"
+      },
+      {
+        "line": [
+          "2500 Valleyview Ave"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58501-3056"
+      },
+      {
+        "line": [
+          "407 3rd Ave. SE"
+        ],
+        "city": "GARRISON",
+        "state": "ND",
+        "postalCode": "58540-7235"
+      },
+      {
+        "line": [
+          "4401 21st ST SE"
+        ],
+        "city": "MANDAN",
+        "state": "ND",
+        "postalCode": "58554-6425"
       },
       {
         "line": [
@@ -116,14 +205,6 @@
       },
       {
         "line": [
-          "1101 3rd Ave NW"
-        ],
-        "city": "BEULAH",
-        "state": "ND",
-        "postalCode": "58523-6215"
-      },
-      {
-        "line": [
           "437 3rd Ave SE"
         ],
         "city": "GARRISON",
@@ -132,31 +213,23 @@
       },
       {
         "line": [
-          "300 N 7th St"
+          "2111 Landmark Circle"
+        ],
+        "city": "MINOT",
+        "state": "ND",
+        "postalCode": "58703-1967"
+      },
+      {
+        "line": [
+          "401 N 9th St."
         ],
         "city": "BISMARCK",
         "state": "ND",
-        "postalCode": "58501-4439"
+        "postalCode": "58501-4507"
       },
       {
         "line": [
-          "301 Lorrain Dr"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58503-0311"
-      },
-      {
-        "line": [
-          "416 Kundert St."
-        ],
-        "city": "TURTLE LAKE",
-        "state": "ND",
-        "postalCode": "58575-4202"
-      },
-      {
-        "line": [
-          "900 East Broadway Ave."
+          "900 E Broadway Ave"
         ],
         "city": "BISMARCK",
         "state": "ND",
@@ -172,83 +245,11 @@
       },
       {
         "line": [
-          "2700 State St"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58503-0669"
-      },
-      {
-        "line": [
-          "407 3rd Ave. SE"
+          "407 3rd Ave. se"
         ],
         "city": "GARRISON",
         "state": "ND",
         "postalCode": "58540-7235"
-      },
-      {
-        "line": [
-          "1000 E Rosser Ave"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58501-4414"
-      },
-      {
-        "line": [
-          "1000 W Century Ave"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58503-1000"
-      },
-      {
-        "line": [
-          "401 N 9th St"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58501-4530"
-      },
-      {
-        "line": [
-          "4401 21st ST SE"
-        ],
-        "city": "MANDAN",
-        "state": "ND",
-        "postalCode": "58554-6425"
-      },
-      {
-        "line": [
-          "301 Lorainn Dr"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58503-0311"
-      },
-      {
-        "line": [
-          "900 E. BROADWAY AVE"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58501-4507"
-      },
-      {
-        "line": [
-          "727 Kirkwood Mall"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58504-5753"
-      },
-      {
-        "line": [
-          "509 Central Ave. N"
-        ],
-        "city": "BEULAH",
-        "state": "ND",
-        "postalCode": "58523-6134"
       },
       {
         "line": [
@@ -260,19 +261,11 @@
       },
       {
         "line": [
-          "7500 University Drive"
+          "900 E Broadway Ave."
         ],
         "city": "BISMARCK",
         "state": "ND",
-        "postalCode": "58504-9634"
-      },
-      {
-        "line": [
-          "407 3rd Ave. S"
-        ],
-        "city": "GARRISON",
-        "state": "ND",
-        "postalCode": "58540-7234"
+        "postalCode": "58501-4530"
       },
       {
         "line": [
@@ -292,19 +285,83 @@
       },
       {
         "line": [
-          "706 8th Ave NE"
-        ],
-        "city": "HAZEN",
-        "state": "ND",
-        "postalCode": "58545-4638"
-      },
-      {
-        "line": [
           "2425 Hillview Ave"
         ],
         "city": "BISMARCK",
         "state": "ND",
         "postalCode": "58501-3056"
+      },
+      {
+        "line": [
+          "1007 4th Ave S."
+        ],
+        "city": "WISHEK",
+        "state": "ND",
+        "postalCode": "58495-7527"
+      },
+      {
+        "line": [
+          "701 E 6th St"
+        ],
+        "city": "MC LAUGHLIN",
+        "state": "SD",
+        "postalCode": "57642-4545"
+      },
+      {
+        "line": [
+          "509 Central Ave. N"
+        ],
+        "city": "BEULAH",
+        "state": "ND",
+        "postalCode": "58523-6134"
+      },
+      {
+        "line": [
+          "1011 Boundary St NW"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58554-1608"
+      },
+      {
+        "line": [
+          "301 Lorainn Dr"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58503-0311"
+      },
+      {
+        "line": [
+          "1101 3rd Ave NW"
+        ],
+        "city": "BEULAH",
+        "state": "ND",
+        "postalCode": "58523-6215"
+      },
+      {
+        "line": [
+          "900 E. BROADWAY AVE"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58501-4507"
+      },
+      {
+        "line": [
+          "407 3rd Ave. S"
+        ],
+        "city": "GARRISON",
+        "state": "ND",
+        "postalCode": "58540-7234"
+      },
+      {
+        "line": [
+          "300 N 7th St"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58501-4439"
       },
       {
         "line": [
@@ -316,47 +373,6 @@
       },
       {
         "line": [
-          "3400 Nebraska Drive"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58503-1649"
-      },
-      {
-        "line": [
-          "1312 Highway 49 N"
-        ],
-        "city": "BEULAH",
-        "state": "ND",
-        "postalCode": "58523-6215"
-      },
-      {
-        "line": [
-          "PO BOX J",
-          "10 N River RD"
-        ],
-        "city": "FORT YATES",
-        "state": "ND",
-        "postalCode": "58538-0527"
-      },
-      {
-        "line": [
-          "407 3rd Ave. se"
-        ],
-        "city": "GARRISON",
-        "state": "ND",
-        "postalCode": "58540-7235"
-      },
-      {
-        "line": [
-          "900 E Broadway Ave."
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58501-4530"
-      },
-      {
-        "line": [
           "1021 N 26 St"
         ],
         "city": "BISMARCK",
@@ -365,11 +381,19 @@
       },
       {
         "line": [
-          "401 N 9th St."
+          "727 Kirkwood Mall"
         ],
         "city": "BISMARCK",
         "state": "ND",
-        "postalCode": "58501-4507"
+        "postalCode": "58504-5753"
+      },
+      {
+        "line": [
+          "416 Kundert St."
+        ],
+        "city": "TURTLE LAKE",
+        "state": "ND",
+        "postalCode": "58575-4202"
       },
       {
         "line": [
@@ -381,19 +405,19 @@
       },
       {
         "line": [
-          "2500 Valleyview Ave"
+          "4217 Montrail St."
         ],
         "city": "BISMARCK",
         "state": "ND",
-        "postalCode": "58501-3056"
+        "postalCode": "58503-4217"
       },
       {
         "line": [
-          "609 4th Ave. NE"
+          "1312 Highway 49 N"
         ],
-        "city": "GARRISON",
+        "city": "BEULAH",
         "state": "ND",
-        "postalCode": "58540-7519"
+        "postalCode": "58523-6215"
       },
       {
         "line": [
@@ -401,31 +425,7 @@
         ],
         "city": "BISMARCK",
         "state": "ND",
-        "postalCode": "58501-4507"
-      },
-      {
-        "line": [
-          "2111 Landmark Circle"
-        ],
-        "city": "MINOT",
-        "state": "ND",
-        "postalCode": "58703-1967"
-      },
-      {
-        "line": [
-          "1309 10th Ave W"
-        ],
-        "city": "MOBRIDGE",
-        "state": "SD",
-        "postalCode": "57601-1146"
-      },
-      {
-        "line": [
-          "4217 Montrail St."
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58503-4217"
+        "postalCode": "58501-4530"
       }
     ],
     "extension": [

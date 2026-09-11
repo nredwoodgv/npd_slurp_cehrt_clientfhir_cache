@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437194669"
+        "value": "1598929135"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,22 +22,30 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033294673"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598929135"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1902043433"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033294673"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1881981033"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437194669"
       }
     ],
     "address": [
+      {
+        "line": [
+          "301 21st Avenue N"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37203-1821"
+      },
       {
         "line": [
           "222 22nd Ave N",
@@ -46,14 +54,6 @@
         "city": "NASHVILLE",
         "state": "TN",
         "postalCode": "37203-1831"
-      },
-      {
-        "line": [
-          "301 21st Avenue N"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37203-1821"
       },
       {
         "line": [

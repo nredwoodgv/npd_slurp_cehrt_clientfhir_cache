@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720149222"
+        "value": "1457350951"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457350951"
+        "value": "1720149222"
       }
     ],
     "address": [
@@ -32,27 +32,11 @@
       },
       {
         "line": [
-          "2800 Westside Drive NW"
+          "7565 Dannaher Dr"
         ],
-        "city": "CLEVELAND",
+        "city": "POWELL",
         "state": "TN",
-        "postalCode": "37312-3501"
-      },
-      {
-        "line": [
-          "3530 KEITH ST NW"
-        ],
-        "city": "CLEVELAND",
-        "state": "TN",
-        "postalCode": "37312-4309"
-      },
-      {
-        "line": [
-          "975 E 3RD ST"
-        ],
-        "city": "CHATTANOOGA",
-        "state": "TN",
-        "postalCode": "37403-2147"
+        "postalCode": "37849-4029"
       },
       {
         "line": [
@@ -64,11 +48,19 @@
       },
       {
         "line": [
-          "555 Industrial Dr SW"
+          "4325 Old Tasso Rd NE"
         ],
         "city": "CLEVELAND",
         "state": "TN",
-        "postalCode": "37311-8263"
+        "postalCode": "37312-5836"
+      },
+      {
+        "line": [
+          "4000 MERIDIAN"
+        ],
+        "city": "FRANKLIN",
+        "state": "TN",
+        "postalCode": "37067-6325"
       },
       {
         "line": [
@@ -80,11 +72,11 @@
       },
       {
         "line": [
-          "4325 Old Tasso Rd NE"
+          "3530 KEITH ST NW"
         ],
         "city": "CLEVELAND",
         "state": "TN",
-        "postalCode": "37312-5836"
+        "postalCode": "37312-4309"
       },
       {
         "line": [
@@ -96,19 +88,19 @@
       },
       {
         "line": [
+          "555 Industrial Dr SW"
+        ],
+        "city": "CLEVELAND",
+        "state": "TN",
+        "postalCode": "37311-8263"
+      },
+      {
+        "line": [
           "10820 Parkside Drive"
         ],
         "city": "KNOXVILLE",
         "state": "TN",
         "postalCode": "37934-1956"
-      },
-      {
-        "line": [
-          "7565 Dannaher Dr"
-        ],
-        "city": "POWELL",
-        "state": "TN",
-        "postalCode": "37849-4029"
       },
       {
         "line": [
@@ -120,11 +112,19 @@
       },
       {
         "line": [
-          "4000 MERIDIAN"
+          "2800 Westside Drive NW"
         ],
-        "city": "FRANKLIN",
+        "city": "CLEVELAND",
         "state": "TN",
-        "postalCode": "37067-6325"
+        "postalCode": "37312-3501"
+      },
+      {
+        "line": [
+          "975 E 3RD ST"
+        ],
+        "city": "CHATTANOOGA",
+        "state": "TN",
+        "postalCode": "37403-2147"
       }
     ],
     "extension": [

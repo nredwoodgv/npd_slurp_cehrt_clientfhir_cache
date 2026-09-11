@@ -15,6 +15,10 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1114689320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053235911"
       }
     ],
     "address": [
@@ -29,12 +33,11 @@
       },
       {
         "line": [
-          "4349 MARTIN LUTHER KING BLVD",
-          "Health 2 Building, Suite 1001E"
+          "4349 MARTIN LUTHER KING BLVD STE 1001E"
         ],
         "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77204-3068"
+        "postalCode": "77204-3074"
       },
       {
         "line": [
@@ -46,11 +49,20 @@
       },
       {
         "line": [
-          "4349 MARTIN LUTHER KING BLVD STE 1001E"
+          "3000 TRULLEY ST"
         ],
         "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77204-3074"
+        "postalCode": "77004-1743"
+      },
+      {
+        "line": [
+          "4349 MARTIN LUTHER KING BLVD",
+          "Health 2 Building, Suite 1001E"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77204-3068"
       }
     ],
     "extension": [

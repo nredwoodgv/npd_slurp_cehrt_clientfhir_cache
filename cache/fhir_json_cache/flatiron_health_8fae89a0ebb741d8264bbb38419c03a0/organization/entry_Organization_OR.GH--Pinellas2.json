@@ -22,10 +22,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1111111"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "111111111"
       },
       {
@@ -47,6 +43,10 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1427155191"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1111111"
       }
     ],
     "active": true,
@@ -66,7 +66,7 @@
       },
       {
         "system": "phone",
-        "value": "(603)742-8787"
+        "value": "(941)200-1125"
       },
       {
         "system": "phone",
@@ -75,10 +75,6 @@
       {
         "system": "phone",
         "value": "(727)345-1234"
-      },
-      {
-        "system": "phone",
-        "value": "(727)803-4188"
       },
       {
         "system": "phone",
@@ -94,7 +90,7 @@
       },
       {
         "system": "phone",
-        "value": "(727)820-7714"
+        "value": "(603)742-8787"
       },
       {
         "system": "phone",
@@ -102,7 +98,11 @@
       },
       {
         "system": "phone",
-        "value": "(941)200-1125"
+        "value": "(727)820-7714"
+      },
+      {
+        "system": "phone",
+        "value": "(727)803-4188"
       }
     ],
     "address": [
@@ -110,12 +110,11 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1345 West Bay Drive",
-          "Suite 401/ 402"
+          "6555 Cortez Road West"
         ],
-        "city": "Largo",
+        "city": "Bradenton",
         "state": "FL",
-        "postalCode": "33770",
+        "postalCode": "34210",
         "country": "USA"
       },
       {
@@ -127,28 +126,6 @@
         "city": "Largo",
         "state": "FL",
         "postalCode": "33774",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "15211 Cortez Blvd"
-        ],
-        "city": "Brooksville",
-        "state": "FL",
-        "postalCode": "34613",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "789 Central Ave"
-        ],
-        "city": "Dover",
-        "state": "NH",
-        "postalCode": "03820",
         "country": "USA"
       },
       {
@@ -167,23 +144,80 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1609 Pasadena Ave. S. Suite 2E"
+          "15211 Cortez Blvd"
         ],
-        "city": "St. Petersburg",
+        "city": "Brooksville",
         "state": "FL",
-        "postalCode": "33707",
+        "postalCode": "34613",
         "country": "USA"
       },
       {
         "use": "work",
         "type": "postal",
         "line": [
-          "5000 Park Street North",
-          "Suite 1017"
+          "3611 Little Road"
+        ],
+        "city": "Trinity",
+        "state": "FL",
+        "postalCode": "34655",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "4114 Woodlands Parkway",
+          "Suite 301"
+        ],
+        "city": "Palm Harbor",
+        "state": "FL",
+        "postalCode": "34685",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1345 West Bay Drive",
+          "Suite 401/ 402"
+        ],
+        "city": "Largo",
+        "state": "FL",
+        "postalCode": "33770",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1217 East Ave S.  Suite 201"
+        ],
+        "city": "Sarasota",
+        "state": "FL",
+        "postalCode": "34239-2344",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "13733 Office Park Court",
+          "Suite B"
+        ],
+        "city": "Hudson",
+        "state": "FL",
+        "postalCode": "34667",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1609 Pasadena Ave. S. Suite 2E"
         ],
         "city": "St. Petersburg",
         "state": "FL",
-        "postalCode": "33709",
+        "postalCode": "33707",
         "country": "USA"
       },
       {
@@ -223,48 +257,23 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "12645 New Brittany Blvd",
-          "Building 15"
+          "5000 Park Street North",
+          "Suite 1017"
         ],
-        "city": "Ft. Myers",
+        "city": "St. Petersburg",
         "state": "FL",
-        "postalCode": "33907",
+        "postalCode": "33709",
         "country": "USA"
       },
       {
         "use": "work",
         "type": "postal",
         "line": [
-          "4114 Woodlands Parkway",
-          "Suite 301"
+          "789 Central Ave"
         ],
-        "city": "Palm Harbor",
-        "state": "FL",
-        "postalCode": "34685",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "603 7th Street South",
-          "Suite 560"
-        ],
-        "city": "St.Pete",
-        "state": "FL",
-        "postalCode": "33701",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "13733 Office Park Court",
-          "Suite B"
-        ],
-        "city": "Hudson",
-        "state": "FL",
-        "postalCode": "34667",
+        "city": "Dover",
+        "state": "NH",
+        "postalCode": "03820",
         "country": "USA"
       },
       {
@@ -283,44 +292,12 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1217 East Ave S.  Suite 201"
+          "12645 New Brittany Blvd",
+          "Building 15"
         ],
-        "city": "Sarasota",
+        "city": "Ft. Myers",
         "state": "FL",
-        "postalCode": "34239-2344",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "6555 Cortez Road West"
-        ],
-        "city": "Bradenton",
-        "state": "FL",
-        "postalCode": "34210",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "3000 US HWY 19"
-        ],
-        "city": "Holiday",
-        "state": "FL",
-        "postalCode": "34691",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "3611 Little Road"
-        ],
-        "city": "Trinity",
-        "state": "FL",
-        "postalCode": "34655",
+        "postalCode": "33907",
         "country": "USA"
       },
       {
@@ -340,6 +317,29 @@
         "type": "postal",
         "state": "FL",
         "postalCode": "34135",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "603 7th Street South",
+          "Suite 560"
+        ],
+        "city": "St.Pete",
+        "state": "FL",
+        "postalCode": "33701",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "3000 US HWY 19"
+        ],
+        "city": "Holiday",
+        "state": "FL",
+        "postalCode": "34691",
         "country": "USA"
       }
     ],

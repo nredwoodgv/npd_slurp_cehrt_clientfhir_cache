@@ -5,8 +5,13 @@
     "identifier": [
       {
         "use": "official",
-        "system": "urn:ietf:rfc:3986",
-        "value": "urn:oid:2.16.840.1.113883.3.1873"
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962560334"
+      },
+      {
+        "use": "official",
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1710939533"
       }
     ],
     "name": "Moundview Memorial Hospital",

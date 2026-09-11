@@ -14,6 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881656247"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053373951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962602300"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124080320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215348487"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1750302923"
       },
       {
@@ -22,7 +42,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
+        "value": "1215999511"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,27 +50,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
+        "value": "1669801585"
       }
     ],
     "address": [
@@ -64,19 +64,19 @@
       },
       {
         "line": [
-          "1608 W FM 700"
-        ],
-        "city": "BIG SPRING",
-        "state": "TX",
-        "postalCode": "79720-4105"
-      },
-      {
-        "line": [
           "3350 Executive Dr Ste 108"
         ],
         "city": "SAN ANGELO",
         "state": "TX",
         "postalCode": "76904-6878"
+      },
+      {
+        "line": [
+          "2600 Hwy 118 N"
+        ],
+        "city": "ALPINE",
+        "state": "TX",
+        "postalCode": "79830-2002"
       },
       {
         "line": [
@@ -88,11 +88,11 @@
       },
       {
         "line": [
-          "2600 Hwy 118 N"
+          "1608 W FM 700"
         ],
-        "city": "ALPINE",
+        "city": "BIG SPRING",
         "state": "TX",
-        "postalCode": "79830-2002"
+        "postalCode": "79720-4105"
       },
       {
         "line": [

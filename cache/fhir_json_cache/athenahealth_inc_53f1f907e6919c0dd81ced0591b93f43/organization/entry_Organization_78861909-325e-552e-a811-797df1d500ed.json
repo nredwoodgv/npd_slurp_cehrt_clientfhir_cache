@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013700327"
+        "value": "1578325759"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992598205"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,15 +26,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578325759"
+        "value": "1942076633"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659250520"
+        "value": "1144082322"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245117340"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1497517676"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285400978"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,27 +54,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982470662"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033985726"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992598205"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1992598213"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144082322"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245117340"
+        "value": "1659250520"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -78,27 +74,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942076633"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285400978"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1134995822"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013700327"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1982470662"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033985726"
       }
     ],
     "address": [
-      {
-        "line": [
-          "850 W Hind Dr",
-          "Ste 210"
-        ],
-        "city": "Honolulu",
-        "state": "HI",
-        "postalCode": "96821-1845"
-      },
       {
         "line": [
           "1130 N Nimitz Hwy",
@@ -107,6 +98,15 @@
         "city": "Honolulu",
         "state": "HI",
         "postalCode": "96817-4579"
+      },
+      {
+        "line": [
+          "970 N Kalaheo Ave",
+          "Ste A214"
+        ],
+        "city": "Kailua",
+        "state": "HI",
+        "postalCode": "96734-1857"
       },
       {
         "line": [
@@ -127,21 +127,21 @@
       },
       {
         "line": [
+          "850 W Hind Dr",
+          "Ste 210"
+        ],
+        "city": "Honolulu",
+        "state": "HI",
+        "postalCode": "96821-1845"
+      },
+      {
+        "line": [
           "438 Hobron Ln",
           "Ste 405"
         ],
         "city": "Honolulu",
         "state": "HI",
         "postalCode": "96815-1229"
-      },
-      {
-        "line": [
-          "970 N Kalaheo Ave",
-          "Ste A214"
-        ],
-        "city": "Kailua",
-        "state": "HI",
-        "postalCode": "96734-1857"
       }
     ],
     "extension": [

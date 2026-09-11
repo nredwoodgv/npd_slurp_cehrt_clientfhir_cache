@@ -14,6 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811065220"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1497095681"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1477724995"
       },
       {
@@ -22,25 +30,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811065220"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1487183612"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578139705"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497095681"
       }
     ],
     "address": [
       {
         "line": [
-          "214 E. RAILROAD AVENUE"
+          "214 E RAILROAD AVE"
         ],
         "city": "PALMETTO",
         "state": "LA",
@@ -48,7 +48,7 @@
       },
       {
         "line": [
-          "214 E RAILROAD AVE"
+          "214 E. RAILROAD AVENUE"
         ],
         "city": "PALMETTO",
         "state": "LA",

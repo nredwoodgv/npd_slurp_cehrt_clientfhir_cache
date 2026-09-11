@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205605342"
+        "value": "1205835485"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205835485"
+        "value": "1205605342"
       }
     ],
     "address": [
@@ -32,43 +32,11 @@
       },
       {
         "line": [
-          "45 SAINT PATRICKS DR"
-        ],
-        "city": "WALDORF",
-        "state": "MD",
-        "postalCode": "20603-4507"
-      },
-      {
-        "line": [
-          "9001 WOODYARD RD STE C"
-        ],
-        "city": "CLINTON",
-        "state": "MD",
-        "postalCode": "20735-4264"
-      },
-      {
-        "line": [
           "2100B WHITTIER DR"
         ],
         "city": "FREDERICK",
         "state": "MD",
         "postalCode": "21702-3188"
-      },
-      {
-        "line": [
-          "7610 CARROLL AVE STE 210"
-        ],
-        "city": "TAKOMA PARK",
-        "state": "MD",
-        "postalCode": "20912-6312"
-      },
-      {
-        "line": [
-          "2480 WATERSIDE DR"
-        ],
-        "city": "FREDERICK",
-        "state": "MD",
-        "postalCode": "21701-3445"
       },
       {
         "line": [
@@ -80,11 +48,11 @@
       },
       {
         "line": [
-          "20400 OBSERVATION DR STE 102"
+          "7610 CARROLL AVE STE 210"
         ],
-        "city": "GERMANTOWN",
+        "city": "TAKOMA PARK",
         "state": "MD",
-        "postalCode": "20876-4009"
+        "postalCode": "20912-6312"
       },
       {
         "line": [
@@ -93,6 +61,14 @@
         "city": "TAKOMA PARK",
         "state": "MD",
         "postalCode": "20912-7363"
+      },
+      {
+        "line": [
+          "45 SAINT PATRICKS DR"
+        ],
+        "city": "WALDORF",
+        "state": "MD",
+        "postalCode": "20603-4507"
       },
       {
         "line": [
@@ -109,6 +85,30 @@
         "city": "FREDERICK",
         "state": "MD",
         "postalCode": "21703-5116"
+      },
+      {
+        "line": [
+          "9001 WOODYARD RD STE C"
+        ],
+        "city": "CLINTON",
+        "state": "MD",
+        "postalCode": "20735-4264"
+      },
+      {
+        "line": [
+          "2480 WATERSIDE DR"
+        ],
+        "city": "FREDERICK",
+        "state": "MD",
+        "postalCode": "21701-3445"
+      },
+      {
+        "line": [
+          "20400 OBSERVATION DR STE 102"
+        ],
+        "city": "GERMANTOWN",
+        "state": "MD",
+        "postalCode": "20876-4009"
       }
     ],
     "extension": [
