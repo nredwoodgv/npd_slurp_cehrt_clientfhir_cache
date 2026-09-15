@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114484540"
+        "value": "1073467908"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073467908"
+        "value": "1114484540"
       }
     ],
     "address": [
-      {
-        "line": [
-          "6744 Highland Rd"
-        ],
-        "city": "WATERFORD",
-        "state": "MI",
-        "postalCode": "48327-2327"
-      },
       {
         "line": [
           "6744 HIGHLAND RD",
@@ -38,6 +30,14 @@
         "city": "WATERFORD",
         "state": "MI",
         "postalCode": "48327-1667"
+      },
+      {
+        "line": [
+          "6744 Highland Rd"
+        ],
+        "city": "WATERFORD",
+        "state": "MI",
+        "postalCode": "48327-2327"
       }
     ],
     "extension": [

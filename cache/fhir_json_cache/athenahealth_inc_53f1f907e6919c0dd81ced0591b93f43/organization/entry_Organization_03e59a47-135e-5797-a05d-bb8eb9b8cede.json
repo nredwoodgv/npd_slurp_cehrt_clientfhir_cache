@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992138820"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1598020679"
       },
       {
@@ -26,21 +22,106 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144887324"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1043955719"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144887324"
+        "value": "1992138820"
       }
     ],
     "address": [
       {
         "line": [
-          "11380 Iron Creek Rd"
+          "1380 N. Parham Road"
         ],
-        "city": "CHESTER",
+        "city": "HENRICO",
         "state": "VA",
-        "postalCode": "23831-1488"
+        "postalCode": "23229-5742"
+      },
+      {
+        "line": [
+          " 6296 Mechanicsville Turnpike"
+        ],
+        "city": "MECHANICSVILLE",
+        "state": "VA",
+        "postalCode": "23111-2140"
+      },
+      {
+        "line": [
+          "6100 Harbourside Centre Loop"
+        ],
+        "city": "MIDLOTHIAN",
+        "state": "VA",
+        "postalCode": "23112-2140"
+      },
+      {
+        "line": [
+          "6296 Mechanicsville Turnpike"
+        ],
+        "city": "MECHANICSVILLE",
+        "state": "VA",
+        "postalCode": "23111-4577"
+      },
+      {
+        "line": [
+          "5215 W. Broad St"
+        ],
+        "city": "RICHMOND",
+        "state": "VA",
+        "postalCode": "23230-3009"
+      },
+      {
+        "line": [
+          "6100 HARBOURSIDE CENTRE LOOP"
+        ],
+        "city": "MIDLOTHIAN",
+        "state": "VA",
+        "postalCode": "23112-2140"
+      },
+      {
+        "line": [
+          "12214 W. Broad Street"
+        ],
+        "city": "HENRICO",
+        "state": "VA",
+        "postalCode": "23233-1062"
+      },
+      {
+        "line": [
+          "2304 Matthews Township Parkway",
+          "Suite 104"
+        ],
+        "city": "MATTHEWS",
+        "state": "NC",
+        "postalCode": "28105-2311"
+      },
+      {
+        "line": [
+          "12214 W Broad Street"
+        ],
+        "city": "HENRICO",
+        "state": "VA",
+        "postalCode": "23233-1062"
+      },
+      {
+        "line": [
+          "300 N WASHINGTON HWY"
+        ],
+        "city": "ASHLAND",
+        "state": "VA",
+        "postalCode": "23005-1626"
+      },
+      {
+        "line": [
+          "1431 South boulevard"
+        ],
+        "city": "CHARLOTTE",
+        "state": "NC",
+        "postalCode": "28203-4211"
       },
       {
         "line": [
@@ -60,11 +141,19 @@
       },
       {
         "line": [
-          "300 N WASHINGTON HWY"
+          "11380 Iron Creek Rd"
         ],
-        "city": "ASHLAND",
+        "city": "CHESTER",
         "state": "VA",
-        "postalCode": "23005-1626"
+        "postalCode": "23831-1488"
+      },
+      {
+        "line": [
+          "1431 South Boulevard"
+        ],
+        "city": "CHARLOTTE",
+        "state": "NC",
+        "postalCode": "28203-4211"
       },
       {
         "line": [
@@ -84,100 +173,11 @@
       },
       {
         "line": [
-          "1380 N. Parham Road"
-        ],
-        "city": "HENRICO",
-        "state": "VA",
-        "postalCode": "23229-5742"
-      },
-      {
-        "line": [
           "4901 Plank Road"
         ],
         "city": "FREDERICKSBURG",
         "state": "VA",
         "postalCode": "22407-6626"
-      },
-      {
-        "line": [
-          "6100 Harbourside Centre Loop"
-        ],
-        "city": "MIDLOTHIAN",
-        "state": "VA",
-        "postalCode": "23112-2140"
-      },
-      {
-        "line": [
-          "12214 W Broad Street"
-        ],
-        "city": "HENRICO",
-        "state": "VA",
-        "postalCode": "23233-1062"
-      },
-      {
-        "line": [
-          "1431 South boulevard"
-        ],
-        "city": "CHARLOTTE",
-        "state": "NC",
-        "postalCode": "28203-4211"
-      },
-      {
-        "line": [
-          " 6296 Mechanicsville Turnpike"
-        ],
-        "city": "MECHANICSVILLE",
-        "state": "VA",
-        "postalCode": "23111-2140"
-      },
-      {
-        "line": [
-          "5215 W. Broad St"
-        ],
-        "city": "RICHMOND",
-        "state": "VA",
-        "postalCode": "23230-3009"
-      },
-      {
-        "line": [
-          "1431 South Boulevard"
-        ],
-        "city": "CHARLOTTE",
-        "state": "NC",
-        "postalCode": "28203-4211"
-      },
-      {
-        "line": [
-          "6100 HARBOURSIDE CENTRE LOOP"
-        ],
-        "city": "MIDLOTHIAN",
-        "state": "VA",
-        "postalCode": "23112-2140"
-      },
-      {
-        "line": [
-          "6296 Mechanicsville Turnpike"
-        ],
-        "city": "MECHANICSVILLE",
-        "state": "VA",
-        "postalCode": "23111-4577"
-      },
-      {
-        "line": [
-          "12214 W. Broad Street"
-        ],
-        "city": "HENRICO",
-        "state": "VA",
-        "postalCode": "23233-1062"
-      },
-      {
-        "line": [
-          "2304 Matthews Township Parkway",
-          "Suite 104"
-        ],
-        "city": "MATTHEWS",
-        "state": "NC",
-        "postalCode": "28105-2311"
       }
     ],
     "extension": [

@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043058738"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1992372403"
       },
       {
@@ -26,10 +22,30 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1043058738"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1073367546"
       }
     ],
     "address": [
+      {
+        "line": [
+          "69 Grove Street"
+        ],
+        "city": "NEW CANAAN",
+        "state": "CT",
+        "postalCode": "06840-5325"
+      },
+      {
+        "line": [
+          "148 E 38TH ST"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10016-2607"
+      },
       {
         "line": [
           "584 Castro Dr #2095"
@@ -49,14 +65,6 @@
       },
       {
         "line": [
-          "148 E 38TH ST"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10016-2607"
-      },
-      {
-        "line": [
           "1001 FISCHER BLVD SUITE 3 PMB 1048"
         ],
         "city": "TOMS RIVER",
@@ -71,14 +79,6 @@
         "city": "ATLANTA",
         "state": "GA",
         "postalCode": "30349-5593"
-      },
-      {
-        "line": [
-          "69 Grove Street"
-        ],
-        "city": "NEW CANAAN",
-        "state": "CT",
-        "postalCode": "06840-5325"
       }
     ],
     "extension": [

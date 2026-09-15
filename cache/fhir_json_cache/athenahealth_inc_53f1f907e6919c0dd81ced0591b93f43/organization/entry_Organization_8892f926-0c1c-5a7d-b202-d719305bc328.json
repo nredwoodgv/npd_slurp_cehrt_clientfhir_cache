@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598715401"
+        "value": "1356391247"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356391247"
+        "value": "1598715401"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -44,11 +44,11 @@
       },
       {
         "line": [
-          "201 HOSPITAL RD"
+          "401 W MOHAWK DR"
         ],
-        "city": "EAGLE RIVER",
+        "city": "TOMAHAWK",
         "state": "WI",
-        "postalCode": "54521-9368"
+        "postalCode": "54487-2273"
       },
       {
         "line": [
@@ -68,14 +68,6 @@
       },
       {
         "line": [
-          "1065 W PIONEER ST"
-        ],
-        "city": "CRANDON",
-        "state": "WI",
-        "postalCode": "54520-1554"
-      },
-      {
-        "line": [
           "240 MAPLE ST"
         ],
         "city": "WOODRUFF",
@@ -84,7 +76,7 @@
       },
       {
         "line": [
-          "401 W MOHAWK DR"
+          "401 W MOHAWK DR STE 100"
         ],
         "city": "TOMAHAWK",
         "state": "WI",
@@ -100,6 +92,30 @@
       },
       {
         "line": [
+          "717 INDIANA ST"
+        ],
+        "city": "EAGLE RIVER",
+        "state": "WI",
+        "postalCode": "54521-8408"
+      },
+      {
+        "line": [
+          "201 HOSPITAL RD"
+        ],
+        "city": "EAGLE RIVER",
+        "state": "WI",
+        "postalCode": "54521-9368"
+      },
+      {
+        "line": [
+          "1065 W PIONEER ST"
+        ],
+        "city": "CRANDON",
+        "state": "WI",
+        "postalCode": "54520-1554"
+      },
+      {
+        "line": [
           "4288 S MAPLE ROAD"
         ],
         "city": "PHELPS",
@@ -108,11 +124,11 @@
       },
       {
         "line": [
-          "240 MAPLE ST"
+          "401 W MOHAWK STE 100"
         ],
-        "city": "WOODRUFF",
+        "city": "TOMAHAWK",
         "state": "WI",
-        "postalCode": "54568-9190"
+        "postalCode": "54487-2273"
       },
       {
         "line": [
@@ -124,19 +140,11 @@
       },
       {
         "line": [
-          "401 W MOHAWK DR STE 100"
+          "240 MAPLE ST"
         ],
-        "city": "TOMAHAWK",
+        "city": "WOODRUFF",
         "state": "WI",
-        "postalCode": "54487-2273"
-      },
-      {
-        "line": [
-          "717 INDIANA ST"
-        ],
-        "city": "EAGLE RIVER",
-        "state": "WI",
-        "postalCode": "54521-8408"
+        "postalCode": "54568-9190"
       },
       {
         "line": [
@@ -145,14 +153,6 @@
         "city": "EAGLE RIVER",
         "state": "WI",
         "postalCode": "54521-8174"
-      },
-      {
-        "line": [
-          "401 W MOHAWK STE 100"
-        ],
-        "city": "TOMAHAWK",
-        "state": "WI",
-        "postalCode": "54487-2273"
       }
     ],
     "extension": [

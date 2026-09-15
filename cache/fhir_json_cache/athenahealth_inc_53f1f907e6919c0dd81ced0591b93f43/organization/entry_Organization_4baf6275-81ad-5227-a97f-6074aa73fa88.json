@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407469166"
+        "value": "1295392645"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295392645"
+        "value": "1407469166"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -40,11 +40,11 @@
       },
       {
         "line": [
-          "2000 S Colorado Blvd Ste 100"
+          "1240 E 100 S STE 119"
         ],
-        "city": "DENVER",
-        "state": "CO",
-        "postalCode": "80222-7917"
+        "city": "SAINT GEORGE",
+        "state": "UT",
+        "postalCode": "84790-3079"
       },
       {
         "line": [
@@ -56,19 +56,19 @@
       },
       {
         "line": [
+          "2000 S Colorado Blvd Ste 100"
+        ],
+        "city": "DENVER",
+        "state": "CO",
+        "postalCode": "80222-7917"
+      },
+      {
+        "line": [
           "2440 S Titanium Pl"
         ],
         "city": "MERIDIAN",
         "state": "ID",
         "postalCode": "83642-6703"
-      },
-      {
-        "line": [
-          "1240 E 100 S STE 119"
-        ],
-        "city": "SAINT GEORGE",
-        "state": "UT",
-        "postalCode": "84790-3079"
       }
     ],
     "extension": [

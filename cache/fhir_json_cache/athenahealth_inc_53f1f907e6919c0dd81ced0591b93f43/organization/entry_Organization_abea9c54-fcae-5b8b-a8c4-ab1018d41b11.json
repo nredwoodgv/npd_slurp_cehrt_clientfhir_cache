@@ -18,30 +18,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225251432"
+        "value": "1285785089"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285785089"
+        "value": "1225251432"
       }
     ],
     "address": [
-      {
-        "line": [
-          "139 MCFATTER STREET"
-        ],
-        "city": "REEVES",
-        "state": "LA",
-        "postalCode": "70658-4500"
-      },
-      {
-        "line": [
-          "13938 HIGHWAY 165"
-        ],
-        "city": "KINDER",
-        "state": "LA",
-        "postalCode": "70648-5856"
-      },
       {
         "line": [
           "417 INDUSTRIAL DR"
@@ -57,6 +41,22 @@
         "city": "KINDER",
         "state": "LA",
         "postalCode": "70648-3187"
+      },
+      {
+        "line": [
+          "139 MCFATTER STREET"
+        ],
+        "city": "REEVES",
+        "state": "LA",
+        "postalCode": "70658-4500"
+      },
+      {
+        "line": [
+          "13938 HIGHWAY 165"
+        ],
+        "city": "KINDER",
+        "state": "LA",
+        "postalCode": "70648-5856"
       }
     ],
     "extension": [

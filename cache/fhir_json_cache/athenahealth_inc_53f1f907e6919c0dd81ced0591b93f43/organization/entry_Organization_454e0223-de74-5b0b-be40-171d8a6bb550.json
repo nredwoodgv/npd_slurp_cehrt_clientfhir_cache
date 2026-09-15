@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396732335"
+        "value": "1952336869"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,10 +22,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952336869"
+        "value": "1396732335"
       }
     ],
     "address": [
+      {
+        "line": [
+          "800 Fair Park Blvd."
+        ],
+        "city": "LITTLE ROCK",
+        "state": "AR",
+        "postalCode": "72204-1720"
+      },
+      {
+        "line": [
+          "800 Marshall St"
+        ],
+        "city": "LITTLE ROCK",
+        "state": "AR",
+        "postalCode": "72202-3500"
+      },
+      {
+        "line": [
+          "800 FAIR PARK BLVD"
+        ],
+        "city": "LITTLE ROCK",
+        "state": "AR",
+        "postalCode": "72204-1720"
+      },
       {
         "line": [
           "3333 Springhill Drive"
@@ -44,27 +68,11 @@
       },
       {
         "line": [
-          "4202 South University Ave"
+          "778 Scroggins Drive"
         ],
-        "city": "LITTLE ROCK",
+        "city": "MONTICELLO",
         "state": "AR",
-        "postalCode": "72202-3500"
-      },
-      {
-        "line": [
-          "800 Marshall St"
-        ],
-        "city": "LITTLE ROCK",
-        "state": "AR",
-        "postalCode": "72202-3500"
-      },
-      {
-        "line": [
-          "800 Fair Park Blvd."
-        ],
-        "city": "LITTLE ROCK",
-        "state": "AR",
-        "postalCode": "72204-1720"
+        "postalCode": "71655-5729"
       },
       {
         "line": [
@@ -76,19 +84,11 @@
       },
       {
         "line": [
-          "800 FAIR PARK BLVD"
+          "4202 South University Ave"
         ],
         "city": "LITTLE ROCK",
         "state": "AR",
-        "postalCode": "72204-1720"
-      },
-      {
-        "line": [
-          "778 Scroggins Drive"
-        ],
-        "city": "MONTICELLO",
-        "state": "AR",
-        "postalCode": "71655-5729"
+        "postalCode": "72202-3500"
       }
     ],
     "extension": [

@@ -14,23 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437199742"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063932929"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801836341"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1538214077"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194596759"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,18 +22,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1194596759"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1801836341"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1366495525"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437199742"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1063932929"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1st and Brannon Street"
-        ],
-        "city": "East Bank",
-        "state": "WV",
-        "postalCode": "25067-6217"
-      },
       {
         "line": [
           "1 WARRIOR WAY",
@@ -58,6 +50,14 @@
         "city": "BELLE",
         "state": "WV",
         "postalCode": "25015-1356"
+      },
+      {
+        "line": [
+          "1st and Brannon Street"
+        ],
+        "city": "East Bank",
+        "state": "WV",
+        "postalCode": "25067-6217"
       }
     ],
     "extension": [

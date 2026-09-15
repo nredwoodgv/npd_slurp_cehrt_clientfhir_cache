@@ -14,11 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316253875"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1548739170"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598225021"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861118846"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285388546"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -27,21 +39,17 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396201000"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316253875"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598225021"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285388546"
       }
     ],
     "address": [
+      {
+        "line": [
+          "12 Dallaire Ave"
+        ],
+        "city": "CHICOPEE",
+        "state": "MA",
+        "postalCode": "01020-1237"
+      },
       {
         "line": [
           "462 Hegeman Ave"
@@ -52,12 +60,29 @@
       },
       {
         "line": [
-          "655 Main Street",
-          "Suite 2"
+          "402 Bna Dr",
+          "Suite 112"
         ],
-        "city": "BENNINGTON",
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37217-2519"
+      },
+      {
+        "line": [
+          "214 Main St"
+        ],
+        "city": "VERGENNES",
         "state": "VT",
-        "postalCode": "05201-2225"
+        "postalCode": "05491-1157"
+      },
+      {
+        "line": [
+          "409 Alfred St",
+          "Units 4 & 5"
+        ],
+        "city": "BIDDEFORD",
+        "state": "ME",
+        "postalCode": "04005-3756"
       },
       {
         "line": [
@@ -79,32 +104,6 @@
       },
       {
         "line": [
-          "12 Dallaire Ave"
-        ],
-        "city": "CHICOPEE",
-        "state": "MA",
-        "postalCode": "01020-1237"
-      },
-      {
-        "line": [
-          "402 Bna Dr",
-          "Suite 112"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37217-2519"
-      },
-      {
-        "line": [
-          "77 Hospital Ave",
-          "Suite 104"
-        ],
-        "city": "NORTH ADAMS",
-        "state": "MA",
-        "postalCode": "01247-2550"
-      },
-      {
-        "line": [
           "41 Acme Rd",
           "Suite 3"
         ],
@@ -114,20 +113,21 @@
       },
       {
         "line": [
-          "409 Alfred St",
-          "Units 4 & 5"
+          "655 Main Street",
+          "Suite 2"
         ],
-        "city": "BIDDEFORD",
-        "state": "ME",
-        "postalCode": "04005-3756"
+        "city": "BENNINGTON",
+        "state": "VT",
+        "postalCode": "05201-2225"
       },
       {
         "line": [
-          "214 Main St"
+          "77 Hospital Ave",
+          "Suite 104"
         ],
-        "city": "VERGENNES",
-        "state": "VT",
-        "postalCode": "05491-1157"
+        "city": "NORTH ADAMS",
+        "state": "MA",
+        "postalCode": "01247-2550"
       }
     ],
     "extension": [

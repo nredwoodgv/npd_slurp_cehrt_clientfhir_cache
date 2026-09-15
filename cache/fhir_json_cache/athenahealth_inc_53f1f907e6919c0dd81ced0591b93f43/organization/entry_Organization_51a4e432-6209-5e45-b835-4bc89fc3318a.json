@@ -18,11 +18,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720857584"
+        "value": "1770119588"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326726563"
+        "value": "1518729623"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316704000"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518729623"
+        "value": "1134908437"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,7 +46,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891551818"
+        "value": "1437622743"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326726563"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720857584"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,23 +62,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316704000"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1437527900"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437622743"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134908437"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770119588"
+        "value": "1891551818"
       }
     ],
     "address": [
@@ -80,43 +80,11 @@
       },
       {
         "line": [
-          "30789 N. Range Ave."
-        ],
-        "city": "DENHAM SPRINGS",
-        "state": "LA",
-        "postalCode": "70726-8973"
-      },
-      {
-        "line": [
           "9516 AIRLINE HWY"
         ],
         "city": "BATON ROUGE",
         "state": "LA",
         "postalCode": "70815-5501"
-      },
-      {
-        "line": [
-          "7648 PICARDY AVE Ste. 300"
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70808-4694"
-      },
-      {
-        "line": [
-          "153 N 17th St."
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70802-3800"
-      },
-      {
-        "line": [
-          "3801 NORTH Blvd"
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70806-4043"
       },
       {
         "line": [
@@ -128,75 +96,11 @@
       },
       {
         "line": [
-          "12121 TAMS DR"
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70815-2654"
-      },
-      {
-        "line": [
-          "855 PROGRESS RD"
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70807-3319"
-      },
-      {
-        "line": [
-          "15755 JEFFERSON HWY"
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70817-6313"
-      },
-      {
-        "line": [
-          "2585 BRIGHTSIDE DR"
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70820-3504"
-      },
-      {
-        "line": [
-          "9002 WHITEHALL AVE"
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70806-8649"
-      },
-      {
-        "line": [
-          "3849 North Blvd"
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70806-4340"
-      },
-      {
-        "line": [
           "1735 THOMAS H DELPIT DR"
         ],
         "city": "BATON ROUGE",
         "state": "LA",
         "postalCode": "70802-6633"
-      },
-      {
-        "line": [
-          "5100 GREENWELL SPRINGS RD"
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70806-1603"
-      },
-      {
-        "line": [
-          "781 COLONIAL DR"
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70806-6512"
       },
       {
         "line": [
@@ -216,11 +120,19 @@
       },
       {
         "line": [
-          "751 W Oak Ave"
+          "9002 WHITEHALL AVE"
         ],
-        "city": "EUNICE",
+        "city": "BATON ROUGE",
         "state": "LA",
-        "postalCode": "70535-5252"
+        "postalCode": "70806-8649"
+      },
+      {
+        "line": [
+          "781 COLONIAL DR"
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70806-6512"
       },
       {
         "line": [
@@ -232,11 +144,75 @@
       },
       {
         "line": [
+          "30789 N. Range Ave."
+        ],
+        "city": "DENHAM SPRINGS",
+        "state": "LA",
+        "postalCode": "70726-8973"
+      },
+      {
+        "line": [
           "6450 Guynell Dr."
         ],
         "city": "BATON ROUGE",
         "state": "LA",
         "postalCode": "70811-2335"
+      },
+      {
+        "line": [
+          "855 PROGRESS RD"
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70807-3319"
+      },
+      {
+        "line": [
+          "7648 PICARDY AVE Ste. 300"
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70808-4694"
+      },
+      {
+        "line": [
+          "751 W Oak Ave"
+        ],
+        "city": "EUNICE",
+        "state": "LA",
+        "postalCode": "70535-5252"
+      },
+      {
+        "line": [
+          "12121 TAMS DR"
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70815-2654"
+      },
+      {
+        "line": [
+          "15755 JEFFERSON HWY"
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70817-6313"
+      },
+      {
+        "line": [
+          "2585 BRIGHTSIDE DR"
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70820-3504"
+      },
+      {
+        "line": [
+          "153 N 17th St."
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70802-3800"
       },
       {
         "line": [
@@ -248,11 +224,35 @@
       },
       {
         "line": [
+          "3849 North Blvd"
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70806-4340"
+      },
+      {
+        "line": [
+          "5100 GREENWELL SPRINGS RD"
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70806-1603"
+      },
+      {
+        "line": [
           "9516 Airline Hwy"
         ],
         "city": "BATON ROUGE",
         "state": "LA",
         "postalCode": "70815-5501"
+      },
+      {
+        "line": [
+          "3801 NORTH Blvd"
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70806-4043"
       }
     ],
     "extension": [

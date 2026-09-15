@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124668660"
+        "value": "1366909277"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366909277"
+        "value": "1124668660"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1800 ATRIUM PKWY"
-        ],
-        "city": "NAPA",
-        "state": "CA",
-        "postalCode": "94559-4837"
-      },
       {
         "line": [
           "1 DANIEL BURNHAM CT",
@@ -38,15 +30,6 @@
         "city": "SAN FRANCISCO",
         "state": "CA",
         "postalCode": "94109-0470"
-      },
-      {
-        "line": [
-          "1300 S ELISEO DR",
-          "STE 203"
-        ],
-        "city": "GREENBRAE",
-        "state": "CA",
-        "postalCode": "94904-2015"
       },
       {
         "line": [
@@ -65,6 +48,23 @@
         "city": "BELLEVUE",
         "state": "WA",
         "postalCode": "98004-1406"
+      },
+      {
+        "line": [
+          "1300 S ELISEO DR",
+          "STE 203"
+        ],
+        "city": "GREENBRAE",
+        "state": "CA",
+        "postalCode": "94904-2015"
+      },
+      {
+        "line": [
+          "1800 ATRIUM PKWY"
+        ],
+        "city": "NAPA",
+        "state": "CA",
+        "postalCode": "94559-4837"
       }
     ],
     "extension": [

@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396782363"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1780638478"
       },
       {
@@ -23,10 +27,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1528782042"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396782363"
       }
     ],
     "address": [
@@ -35,7 +35,7 @@
           "620 North Putnam",
           "Suite A"
         ],
-        "city": "Moweaqua",
+        "city": "MOWEAQUA",
         "state": "IL",
         "postalCode": "62550-9482"
       },
@@ -44,7 +44,7 @@
           "620 North Putnam",
           "Suite A"
         ],
-        "city": "MOWEAQUA",
+        "city": "Moweaqua",
         "state": "IL",
         "postalCode": "62550-9482"
       }

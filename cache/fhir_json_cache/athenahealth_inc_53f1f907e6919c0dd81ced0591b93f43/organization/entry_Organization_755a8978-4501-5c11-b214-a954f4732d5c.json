@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336573393"
+        "value": "1730571100"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194767186"
+        "value": "1861818379"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,19 +26,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831132133"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861810186"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326463357"
+        "value": "1831132133"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730571100"
+        "value": "1194767186"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,10 +42,30 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861818379"
+        "value": "1326463357"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336573393"
       }
     ],
     "address": [
+      {
+        "line": [
+          "2006 Holton Rd."
+        ],
+        "city": "MUSKEGON",
+        "state": "MI",
+        "postalCode": "49445-1505"
+      },
+      {
+        "line": [
+          "601 West Savidge St."
+        ],
+        "city": "SPRING LAKE",
+        "state": "MI",
+        "postalCode": "49456-1620"
+      },
       {
         "line": [
           "1212 E. Sherman Blvd."
@@ -65,22 +81,6 @@
         "city": "SPRING LAKE",
         "state": "MI",
         "postalCode": "49456-1620"
-      },
-      {
-        "line": [
-          "601 West Savidge St."
-        ],
-        "city": "SPRING LAKE",
-        "state": "MI",
-        "postalCode": "49456-1620"
-      },
-      {
-        "line": [
-          "2006 Holton Rd."
-        ],
-        "city": "MUSKEGON",
-        "state": "MI",
-        "postalCode": "49445-1505"
       }
     ],
     "extension": [

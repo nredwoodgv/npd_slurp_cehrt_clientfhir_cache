@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750814737"
+        "value": "1649501347"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649501347"
+        "value": "1750814737"
       }
     ],
     "address": [
       {
         "line": [
-          "117 JANE LN"
+          "101 CIRCLE DR"
         ],
         "city": "HILLSBORO",
         "state": "TX",
-        "postalCode": "76645-2673"
+        "postalCode": "76645-2670"
       },
       {
         "line": [
@@ -40,19 +40,20 @@
       },
       {
         "line": [
-          "2600 W PLEASANT RUN RD"
+          "1324 BROWN ST",
+          "STE 100"
         ],
-        "city": "LANCASTER",
+        "city": "WAXAHACHIE",
         "state": "TX",
-        "postalCode": "75146-1114"
+        "postalCode": "75165-1422"
       },
       {
         "line": [
-          "101 CIRCLE DR"
+          "117 JANE LN"
         ],
         "city": "HILLSBORO",
         "state": "TX",
-        "postalCode": "76645-2670"
+        "postalCode": "76645-2673"
       },
       {
         "line": [
@@ -64,12 +65,11 @@
       },
       {
         "line": [
-          "1324 BROWN ST",
-          "STE 100"
+          "2600 W PLEASANT RUN RD"
         ],
-        "city": "WAXAHACHIE",
+        "city": "LANCASTER",
         "state": "TX",
-        "postalCode": "75165-1422"
+        "postalCode": "75146-1114"
       }
     ],
     "extension": [

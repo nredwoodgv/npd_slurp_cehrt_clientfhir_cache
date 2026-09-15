@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649228966"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1013031368"
       },
       {
@@ -27,17 +23,13 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932402484"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649228966"
       }
     ],
     "address": [
-      {
-        "line": [
-          "900 West Third St."
-        ],
-        "city": "FARMVILLE",
-        "state": "VA",
-        "postalCode": "23901-1131"
-      },
       {
         "line": [
           "800 Oak Street"
@@ -45,6 +37,14 @@
         "city": "FARMVILLE",
         "state": "VA",
         "postalCode": "23901-1199"
+      },
+      {
+        "line": [
+          "900 West Third St."
+        ],
+        "city": "FARMVILLE",
+        "state": "VA",
+        "postalCode": "23901-1131"
       },
       {
         "line": [

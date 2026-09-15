@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669909388"
+        "value": "1831674654"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831674654"
+        "value": "1669909388"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,19 +36,35 @@
     "address": [
       {
         "line": [
-          "125 S CLARK ST STE 900"
+          "212 CRESTVIEW LN"
         ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60603-4043"
+        "city": "ALMO",
+        "state": "KY",
+        "postalCode": "42020-9458"
       },
       {
         "line": [
-          "1169 Robertson Rd S"
+          "1250 RADIO RD"
         ],
-        "city": "MURRAY",
+        "city": "ALMO",
         "state": "KY",
-        "postalCode": "42071-0001"
+        "postalCode": "42020-9404"
+      },
+      {
+        "line": [
+          "825 N MERIDIAN ST"
+        ],
+        "city": "GREENTOWN",
+        "state": "IN",
+        "postalCode": "46936-1263"
+      },
+      {
+        "line": [
+          "3600 West Boulevard"
+        ],
+        "city": "KOKOMO",
+        "state": "IN",
+        "postalCode": "46902-5992"
       },
       {
         "line": [
@@ -61,19 +77,19 @@
       },
       {
         "line": [
-          "3600 West Boulevard"
-        ],
-        "city": "KOKOMO",
-        "state": "IN",
-        "postalCode": "46902-5992"
-      },
-      {
-        "line": [
           "1000 S 12th Street"
         ],
         "city": "MURRAY",
         "state": "KY",
         "postalCode": "42071-9303"
+      },
+      {
+        "line": [
+          "125 S CLARK ST STE 900"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60603-4043"
       },
       {
         "line": [
@@ -85,27 +101,19 @@
       },
       {
         "line": [
+          "2905 W Sycamore St"
+        ],
+        "city": "KOKOMO",
+        "state": "IN",
+        "postalCode": "46901-4078"
+      },
+      {
+        "line": [
           "9365 COUNSELORS ROW"
         ],
         "city": "INDIANAPOLIS",
         "state": "IN",
         "postalCode": "46240-6418"
-      },
-      {
-        "line": [
-          "1250 RADIO RD"
-        ],
-        "city": "ALMO",
-        "state": "KY",
-        "postalCode": "42020-9404"
-      },
-      {
-        "line": [
-          "656 WALSTON RD"
-        ],
-        "city": "ALMO",
-        "state": "KY",
-        "postalCode": "42020-9261"
       },
       {
         "line": [
@@ -117,52 +125,11 @@
       },
       {
         "line": [
-          "35055 W 12 MILE RD",
-          "Ste 250"
-        ],
-        "city": "FARMINGTON",
-        "state": "MI",
-        "postalCode": "48331-3208"
-      },
-      {
-        "line": [
-          "825 N MERIDIAN ST"
-        ],
-        "city": "GREENTOWN",
-        "state": "IN",
-        "postalCode": "46936-1263"
-      },
-      {
-        "line": [
-          "2200 S Dixon Rd"
-        ],
-        "city": "KOKOMO",
-        "state": "IN",
-        "postalCode": "46902-6406"
-      },
-      {
-        "line": [
-          "2757 ERWIN RD"
+          "1169 Robertson Rd S"
         ],
         "city": "MURRAY",
         "state": "KY",
-        "postalCode": "42071-7021"
-      },
-      {
-        "line": [
-          "971 BIRCH ST"
-        ],
-        "city": "BENTON",
-        "state": "KY",
-        "postalCode": "42025-1301"
-      },
-      {
-        "line": [
-          "1401 S 16th St"
-        ],
-        "city": "MURRAY",
-        "state": "KY",
-        "postalCode": "42071-9303"
+        "postalCode": "42071-0001"
       },
       {
         "line": [
@@ -175,6 +142,22 @@
       },
       {
         "line": [
+          "971 BIRCH ST"
+        ],
+        "city": "BENTON",
+        "state": "KY",
+        "postalCode": "42025-1301"
+      },
+      {
+        "line": [
+          "2200 S Dixon Rd"
+        ],
+        "city": "KOKOMO",
+        "state": "IN",
+        "postalCode": "46902-6406"
+      },
+      {
+        "line": [
           "27275 Haggerty Rd"
         ],
         "city": "NOVI",
@@ -183,11 +166,44 @@
       },
       {
         "line": [
-          "2905 W Sycamore St"
+          "35055 W 12 MILE RD",
+          "Ste 250"
+        ],
+        "city": "FARMINGTON",
+        "state": "MI",
+        "postalCode": "48331-3208"
+      },
+      {
+        "line": [
+          "2757 ERWIN RD"
+        ],
+        "city": "MURRAY",
+        "state": "KY",
+        "postalCode": "42071-7021"
+      },
+      {
+        "line": [
+          "1401 S 16th St"
+        ],
+        "city": "MURRAY",
+        "state": "KY",
+        "postalCode": "42071-9303"
+      },
+      {
+        "line": [
+          "329 RAINBOW DR"
         ],
         "city": "KOKOMO",
         "state": "IN",
-        "postalCode": "46901-4078"
+        "postalCode": "46902-3869"
+      },
+      {
+        "line": [
+          "656 WALSTON RD"
+        ],
+        "city": "ALMO",
+        "state": "KY",
+        "postalCode": "42020-9261"
       },
       {
         "line": [
@@ -205,22 +221,6 @@
         "city": "WESTLAND",
         "state": "MI",
         "postalCode": "48185-2091"
-      },
-      {
-        "line": [
-          "329 RAINBOW DR"
-        ],
-        "city": "KOKOMO",
-        "state": "IN",
-        "postalCode": "46902-3869"
-      },
-      {
-        "line": [
-          "212 CRESTVIEW LN"
-        ],
-        "city": "ALMO",
-        "state": "KY",
-        "postalCode": "42020-9458"
       }
     ],
     "extension": [

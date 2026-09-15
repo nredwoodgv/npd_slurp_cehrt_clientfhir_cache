@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205257029"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285065623"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518361369"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -31,28 +23,20 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1336560382"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1205257029"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1518361369"
       }
     ],
     "address": [
       {
         "line": [
           "200 S GENEVA ST"
-        ],
-        "city": "BRECKENRIDGE",
-        "state": "TX",
-        "postalCode": "76424-4702"
-      },
-      {
-        "line": [
-          "200 S Geneva St"
-        ],
-        "city": "BRECKENRIDGE",
-        "state": "TX",
-        "postalCode": "76424-4702"
-      },
-      {
-        "line": [
-          "200 S. GENEVA ST"
         ],
         "city": "BRECKENRIDGE",
         "state": "TX",
@@ -70,7 +54,23 @@
         "line": [
           "200 S Geneva St"
         ],
+        "city": "BRECKENRIDGE",
+        "state": "TX",
+        "postalCode": "76424-4702"
+      },
+      {
+        "line": [
+          "200 S Geneva St"
+        ],
         "city": "Breckenridge",
+        "state": "TX",
+        "postalCode": "76424-4702"
+      },
+      {
+        "line": [
+          "200 S. GENEVA ST"
+        ],
+        "city": "BRECKENRIDGE",
         "state": "TX",
         "postalCode": "76424-4702"
       },

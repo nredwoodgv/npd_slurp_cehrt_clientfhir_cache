@@ -18,7 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205845369"
+        "value": "1942860176"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1679501746"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,22 +30,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942860176"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679501746"
+        "value": "1205845369"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1300 N MOUND ST"
-        ],
-        "city": "NACOGDOCHES",
-        "state": "TX",
-        "postalCode": "75961-4029"
-      },
       {
         "line": [
           "2001 NORTH JEFFERSON AVENUE"
@@ -49,6 +41,14 @@
         "city": "MOUNT PLEASANT",
         "state": "TX",
         "postalCode": "75455-2338"
+      },
+      {
+        "line": [
+          "4948 NE STALLINGS DR"
+        ],
+        "city": "NACOGDOCHES",
+        "state": "TX",
+        "postalCode": "75965-1212"
       },
       {
         "line": [
@@ -68,39 +68,23 @@
       },
       {
         "line": [
-          "2701 US HIGHWAY 271 N"
+          "1300 N MOUND ST"
         ],
-        "city": "PITTSBURG",
+        "city": "NACOGDOCHES",
         "state": "TX",
-        "postalCode": "75686-4289"
+        "postalCode": "75961-4029"
       },
       {
         "line": [
-          "8200 Walnut Hill"
+          "2900 S. LOOP 256"
         ],
-        "city": "DALLAS",
+        "city": "PALESTINE",
         "state": "TX",
-        "postalCode": "75231-4402"
-      },
-      {
-        "line": [
-          "3414 golden road"
-        ],
-        "city": "TYLER",
-        "state": "TX",
-        "postalCode": "75701-8336"
+        "postalCode": "75801-6958"
       },
       {
         "line": [
           "3414 Golden Road"
-        ],
-        "city": "TYLER",
-        "state": "TX",
-        "postalCode": "75701-8336"
-      },
-      {
-        "line": [
-          "3414 GOLDEN ROAD"
         ],
         "city": "TYLER",
         "state": "TX",
@@ -116,27 +100,11 @@
       },
       {
         "line": [
-          "4948 NE STALLINGS DR"
-        ],
-        "city": "NACOGDOCHES",
-        "state": "TX",
-        "postalCode": "75965-1212"
-      },
-      {
-        "line": [
-          "2900 S. LOOP 256"
-        ],
-        "city": "PALESTINE",
-        "state": "TX",
-        "postalCode": "75801-6958"
-      },
-      {
-        "line": [
-          "6210 S BROADWAY AVE"
+          "3414 GOLDEN ROAD"
         ],
         "city": "TYLER",
         "state": "TX",
-        "postalCode": "75701-4413"
+        "postalCode": "75701-8336"
       },
       {
         "line": [
@@ -145,6 +113,46 @@
         "city": "NACOGDOCHES",
         "state": "TX",
         "postalCode": "75965-1212"
+      },
+      {
+        "line": [
+          "2701 US HIGHWAY 271 N"
+        ],
+        "city": "PITTSBURG",
+        "state": "TX",
+        "postalCode": "75686-4289"
+      },
+      {
+        "line": [
+          "3414 golden road"
+        ],
+        "city": "TYLER",
+        "state": "TX",
+        "postalCode": "75701-8336"
+      },
+      {
+        "line": [
+          "8200 Walnut Hill"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75231-4402"
+      },
+      {
+        "line": [
+          "712 HAYTER STREET"
+        ],
+        "city": "NACOGDOCHES",
+        "state": "TX",
+        "postalCode": "75962-0001"
+      },
+      {
+        "line": [
+          "6210 S BROADWAY AVE"
+        ],
+        "city": "TYLER",
+        "state": "TX",
+        "postalCode": "75701-4413"
       },
       {
         "line": [
@@ -161,14 +169,6 @@
         "city": "TYLER",
         "state": "TX",
         "postalCode": "75701-1908"
-      },
-      {
-        "line": [
-          "712 HAYTER STREET"
-        ],
-        "city": "NACOGDOCHES",
-        "state": "TX",
-        "postalCode": "75962-0001"
       }
     ],
     "extension": [

@@ -14,19 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285807115"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629628920"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891450391"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467000471"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,15 +22,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1891450391"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1821578246"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114640240"
+        "value": "1285807115"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215574504"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467000471"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114640240"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -56,11 +56,11 @@
     "address": [
       {
         "line": [
-          "19262 SR 136"
+          "230 MEDICAL CENTER DR"
         ],
-        "city": "WINCHESTER",
+        "city": "SEAMAN",
         "state": "OH",
-        "postalCode": "45697-9571"
+        "postalCode": "45679-8002"
       },
       {
         "line": [
@@ -73,11 +73,11 @@
       },
       {
         "line": [
-          "230 MEDICAL CENTER DR"
+          "19262 SR 136"
         ],
-        "city": "SEAMAN",
+        "city": "WINCHESTER",
         "state": "OH",
-        "postalCode": "45679-8002"
+        "postalCode": "45697-9571"
       }
     ],
     "extension": [

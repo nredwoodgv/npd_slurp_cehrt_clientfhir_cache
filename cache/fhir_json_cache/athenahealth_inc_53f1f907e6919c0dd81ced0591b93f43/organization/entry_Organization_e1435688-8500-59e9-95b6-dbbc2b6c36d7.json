@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326067315"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598703043"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528128063"
+        "value": "1821196148"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,15 +22,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326067315"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1639108822"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669940078"
+        "value": "1366981805"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821196148"
+        "value": "1528128063"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598703043"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,15 +46,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366981805"
+        "value": "1669940078"
       }
     ],
     "address": [
       {
         "line": [],
-        "city": "BRISTOL",
+        "city": "KINGSPORT",
         "state": "TN",
-        "postalCode": "37620-1726"
+        "postalCode": "37660-5904"
+      },
+      {
+        "line": [
+          "338 COEBURN AVE SW"
+        ],
+        "city": "NORTON",
+        "state": "VA",
+        "postalCode": "24273-2606"
       },
       {
         "line": [
@@ -75,18 +83,16 @@
         "postalCode": "37604-6089"
       },
       {
-        "line": [
-          "338 COEBURN AVE SW"
-        ],
-        "city": "NORTON",
-        "state": "VA",
-        "postalCode": "24273-2606"
+        "line": [],
+        "city": "BRISTOL",
+        "state": "TN",
+        "postalCode": "37620-7429"
       },
       {
         "line": [],
-        "city": "KINGSPORT",
+        "city": "BRISTOL",
         "state": "TN",
-        "postalCode": "37660-5904"
+        "postalCode": "37620-1726"
       },
       {
         "line": [
@@ -96,12 +102,6 @@
         "city": "BRISTOL",
         "state": "TN",
         "postalCode": "37620-1602"
-      },
-      {
-        "line": [],
-        "city": "BRISTOL",
-        "state": "TN",
-        "postalCode": "37620-7429"
       }
     ],
     "extension": [

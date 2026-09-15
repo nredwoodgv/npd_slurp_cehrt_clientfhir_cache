@@ -18,15 +18,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871553073"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1194768721"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1205137536"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1871553073"
       }
     ],
     "address": [
@@ -37,14 +37,6 @@
         "city": "ROGERS",
         "state": "AR",
         "postalCode": "72758-2001"
-      },
-      {
-        "line": [
-          "2158 Butterfield Coach Road, Suite 100"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72764-9142"
       },
       {
         "line": [
@@ -69,6 +61,14 @@
         "city": "ROGERS",
         "state": "AR",
         "postalCode": "72758-2001"
+      },
+      {
+        "line": [
+          "2158 Butterfield Coach Road, Suite 100"
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72764-9142"
       }
     ],
     "extension": [

@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396117933"
+        "value": "1346956851"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346956851"
+        "value": "1396117933"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1730 EDWARDS DR"
-        ],
-        "city": "POINT ROBERTS",
-        "state": "WA",
-        "postalCode": "98281-8524"
-      },
       {
         "line": [
           "12743 WEST MARYLAND AVE"
@@ -37,6 +29,14 @@
         "city": "LITCHFIELD PARK",
         "state": "AZ",
         "postalCode": "85340-9344"
+      },
+      {
+        "line": [
+          "1730 EDWARDS DR"
+        ],
+        "city": "POINT ROBERTS",
+        "state": "WA",
+        "postalCode": "98281-8524"
       }
     ],
     "extension": [

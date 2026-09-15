@@ -14,18 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1568850600"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1942554514"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1265507537"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568850600"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3400 MINISTRY PARKWAY"
+        ],
+        "city": "WESTON",
+        "state": "WI",
+        "postalCode": "54476-5220"
+      },
       {
         "line": [
           "3400 MINISTRY PARKWAY"
@@ -36,19 +44,11 @@
       },
       {
         "line": [
-          "3301 CRANBERRY BLVD"
+          "1901 WESTWOOD CENTER BLVD"
         ],
-        "city": "WESTON",
+        "city": "WAUSAU",
         "state": "WI",
-        "postalCode": "54476-5216"
-      },
-      {
-        "line": [
-          "3400 MINISTRY PARKWAY"
-        ],
-        "city": "WESTON",
-        "state": "WI",
-        "postalCode": "54476-5220"
+        "postalCode": "54401-2892"
       },
       {
         "line": [
@@ -60,11 +60,11 @@
       },
       {
         "line": [
-          "1901 WESTWOOD CENTER BLVD"
+          "3301 CRANBERRY BLVD"
         ],
-        "city": "WAUSAU",
+        "city": "WESTON",
         "state": "WI",
-        "postalCode": "54401-2892"
+        "postalCode": "54476-5216"
       }
     ],
     "extension": [

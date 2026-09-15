@@ -14,23 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710933296"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174647986"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093839805"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1174687966"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013031822"
+        "value": "1639203888"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,14 +30,42 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174647986"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1558406512"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639203888"
+        "value": "1013031822"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1710933296"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1093839805"
       }
     ],
     "address": [
+      {
+        "line": [
+          "70 MAIN STREET"
+        ],
+        "city": "FLORENCE",
+        "state": "MA",
+        "postalCode": "01062-1466"
+      },
+      {
+        "line": [
+          "238 NORTHAMPTON STREET"
+        ],
+        "city": "EASTHAMPTON",
+        "state": "MA",
+        "postalCode": "01027-1046"
+      },
       {
         "line": [
           "329 CONWAY STREET"
@@ -65,22 +81,6 @@
         "city": "AMHERST",
         "state": "MA",
         "postalCode": "01002-2751"
-      },
-      {
-        "line": [
-          "238 NORTHAMPTON STREET"
-        ],
-        "city": "EASTHAMPTON",
-        "state": "MA",
-        "postalCode": "01027-1046"
-      },
-      {
-        "line": [
-          "70 MAIN STREET"
-        ],
-        "city": "FLORENCE",
-        "state": "MA",
-        "postalCode": "01062-1466"
       }
     ],
     "extension": [

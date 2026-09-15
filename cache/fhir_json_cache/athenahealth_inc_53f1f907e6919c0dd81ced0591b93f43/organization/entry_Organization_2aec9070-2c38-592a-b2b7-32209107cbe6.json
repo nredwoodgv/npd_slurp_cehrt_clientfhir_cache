@@ -18,19 +18,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134965015"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1760228647"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477399350"
+        "value": "1134965015"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1558107433"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1477399350"
       }
     ],
     "address": [
@@ -44,11 +44,12 @@
       },
       {
         "line": [
-          "107 Boyles Drive"
+          "1632 Nashville Street",
+          "MOB 3, Suite 203"
         ],
         "city": "RUSSELLVILLE",
         "state": "KY",
-        "postalCode": "42276-8853"
+        "postalCode": "42276-8783"
       },
       {
         "line": [
@@ -61,12 +62,11 @@
       },
       {
         "line": [
-          "1632 Nashville Street",
-          "MOB 3, Suite 203"
+          "107 Boyles Drive"
         ],
         "city": "RUSSELLVILLE",
         "state": "KY",
-        "postalCode": "42276-8783"
+        "postalCode": "42276-8853"
       }
     ],
     "extension": [

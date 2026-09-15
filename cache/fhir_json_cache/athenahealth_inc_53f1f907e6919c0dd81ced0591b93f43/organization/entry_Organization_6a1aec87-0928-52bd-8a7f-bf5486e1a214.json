@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700934593"
+        "value": "1316939101"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316939101"
+        "value": "1700934593"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,14 +30,6 @@
       }
     ],
     "address": [
-      {
-        "line": [
-          "8129 N 87TH PLACE"
-        ],
-        "city": "SCOTTSDALE",
-        "state": "AZ",
-        "postalCode": "85258-4399"
-      },
       {
         "line": [
           "9003 E SHEA BLVD"
@@ -48,34 +40,9 @@
       },
       {
         "line": [
-          "9007 E. SHEA BLVD.",
-          "SUITE A"
-        ],
-        "city": "SCOTTSDALE",
-        "state": "AZ",
-        "postalCode": "85260-7900"
-      },
-      {
-        "line": [
-          "9201 W THOMAS ROAD"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85037-3332"
-      },
-      {
-        "line": [
-          "1616 E MARYLAND AVE"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85016-1302"
-      },
-      {
-        "line": [
           "1616 E Maryland Ave"
         ],
-        "city": "PHOENIX",
+        "city": "Phoenix",
         "state": "AZ",
         "postalCode": "85016-1302"
       },
@@ -89,11 +56,44 @@
       },
       {
         "line": [
+          "9007 E. SHEA BLVD.",
+          "SUITE A"
+        ],
+        "city": "SCOTTSDALE",
+        "state": "AZ",
+        "postalCode": "85260-7900"
+      },
+      {
+        "line": [
+          "8129 N 87TH PLACE"
+        ],
+        "city": "SCOTTSDALE",
+        "state": "AZ",
+        "postalCode": "85258-4399"
+      },
+      {
+        "line": [
           "1616 E Maryland Ave"
         ],
-        "city": "Phoenix",
+        "city": "PHOENIX",
         "state": "AZ",
         "postalCode": "85016-1302"
+      },
+      {
+        "line": [
+          "1616 E MARYLAND AVE"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85016-1302"
+      },
+      {
+        "line": [
+          "9201 W THOMAS ROAD"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85037-3332"
       }
     ],
     "extension": [

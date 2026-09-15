@@ -14,19 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336931211"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1437910080"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750860938"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841979846"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,7 +26,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750860938"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1255007100"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336931211"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1841979846"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.336",
@@ -46,6 +46,22 @@
       }
     ],
     "address": [
+      {
+        "line": [
+          "3723 10TH COURT"
+        ],
+        "city": "VERO BEACH",
+        "state": "FL",
+        "postalCode": "32960-6559"
+      },
+      {
+        "line": [
+          "725 N US HIGHWAY 1"
+        ],
+        "city": "FORT PIERCE",
+        "state": "FL",
+        "postalCode": "34950-9125"
+      },
       {
         "line": [
           "827 18th street"
@@ -64,27 +80,11 @@
       },
       {
         "line": [
-          "725 N US HIGHWAY 1"
-        ],
-        "city": "FORT PIERCE",
-        "state": "FL",
-        "postalCode": "34950-9125"
-      },
-      {
-        "line": [
           "981 37TH PLACE"
         ],
         "city": "VERO BEACH",
         "state": "FL",
         "postalCode": "32960-6541"
-      },
-      {
-        "line": [
-          "3723 10TH COURT"
-        ],
-        "city": "VERO BEACH",
-        "state": "FL",
-        "postalCode": "32960-6559"
       }
     ],
     "extension": [

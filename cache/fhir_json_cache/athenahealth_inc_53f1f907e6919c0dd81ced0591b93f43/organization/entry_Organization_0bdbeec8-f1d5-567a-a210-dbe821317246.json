@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497353510"
+        "value": "1881006047"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881006047"
+        "value": "1497353510"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3535 Pentagon Blvd"
+        ],
+        "city": "DAYTON",
+        "state": "OH",
+        "postalCode": "45431-1705"
+      },
       {
         "line": [
           "7211 North Main Street"
@@ -29,21 +37,6 @@
         "city": "DAYTON",
         "state": "OH",
         "postalCode": "45415-2566"
-      },
-      {
-        "line": [
-          "2510 Commons Blvd",
-          "Suite 200A"
-        ],
-        "city": "DAYTON",
-        "state": "OH",
-        "postalCode": "45431-3820"
-      },
-      {
-        "line": [],
-        "city": "DAYTON",
-        "state": "OH",
-        "postalCode": "45459-3797"
       },
       {
         "line": [
@@ -56,19 +49,26 @@
       },
       {
         "line": [
-          "3535 Pentagon Blvd"
-        ],
-        "city": "DAYTON",
-        "state": "OH",
-        "postalCode": "45431-1705"
-      },
-      {
-        "line": [
           "999 Brubaker Drive"
         ],
         "city": "DAYTON",
         "state": "OH",
         "postalCode": "45429-3505"
+      },
+      {
+        "line": [],
+        "city": "DAYTON",
+        "state": "OH",
+        "postalCode": "45459-3797"
+      },
+      {
+        "line": [
+          "2510 Commons Blvd",
+          "Suite 200A"
+        ],
+        "city": "DAYTON",
+        "state": "OH",
+        "postalCode": "45431-3820"
       }
     ],
     "extension": [

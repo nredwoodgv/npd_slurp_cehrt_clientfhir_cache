@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
+        "value": "1215348487"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,27 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1053373951"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
+        "value": "1669801585"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,17 +34,41 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215999511"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730484031"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124080320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750302923"
       }
     ],
     "address": [
       {
         "line": [
-          "9006 N Navarro B"
+          "501 E Colorado St"
         ],
         "city": "VICTORIA",
         "state": "TX",
-        "postalCode": "77904-1566"
+        "postalCode": "77901-6025"
+      },
+      {
+        "line": [
+          "5142 FM 1726"
+        ],
+        "city": "GOLIAD",
+        "state": "TX",
+        "postalCode": "77963-3805"
       },
       {
         "line": [
@@ -72,11 +80,11 @@
       },
       {
         "line": [
-          "208 Marilyn Dr."
+          "9006 N Navarro B"
         ],
         "city": "VICTORIA",
         "state": "TX",
-        "postalCode": "77901-2616"
+        "postalCode": "77904-1566"
       },
       {
         "line": [
@@ -104,14 +112,6 @@
       },
       {
         "line": [
-          "501 E Colorado St"
-        ],
-        "city": "VICTORIA",
-        "state": "TX",
-        "postalCode": "77901-6025"
-      },
-      {
-        "line": [
           "104 S CRESCENT"
         ],
         "city": "VICTORIA",
@@ -120,11 +120,11 @@
       },
       {
         "line": [
-          "5142 FM 1726"
+          "208 Marilyn Dr."
         ],
-        "city": "GOLIAD",
+        "city": "VICTORIA",
         "state": "TX",
-        "postalCode": "77963-3805"
+        "postalCode": "77901-2616"
       }
     ],
     "extension": [

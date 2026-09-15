@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700119443"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1538229273"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417989617"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700119443"
       }
     ],
     "address": [
@@ -36,11 +36,35 @@
       },
       {
         "line": [
+          "1000 MAR WALT DRIVE"
+        ],
+        "city": "FORT WALTON BEACH",
+        "state": "FL",
+        "postalCode": "32547-6708"
+      },
+      {
+        "line": [
           "2190 HWY 85 N"
         ],
         "city": "NICEVILLE",
         "state": "FL",
         "postalCode": "32578-1045"
+      },
+      {
+        "line": [
+          "1950 BLUEWATER BLVD"
+        ],
+        "city": "NICEVILLE",
+        "state": "FL",
+        "postalCode": "32578-3887"
+      },
+      {
+        "line": [
+          "7800 US HWY 98"
+        ],
+        "city": "MIRAMAR BEACH",
+        "state": "FL",
+        "postalCode": "32550-7228"
       },
       {
         "line": [
@@ -57,30 +81,6 @@
         "city": "NICEVILLE",
         "state": "FL",
         "postalCode": "32578-3888"
-      },
-      {
-        "line": [
-          "1950 BLUEWATER BLVD"
-        ],
-        "city": "NICEVILLE",
-        "state": "FL",
-        "postalCode": "32578-3887"
-      },
-      {
-        "line": [
-          "1000 MAR WALT DRIVE"
-        ],
-        "city": "FORT WALTON BEACH",
-        "state": "FL",
-        "postalCode": "32547-6708"
-      },
-      {
-        "line": [
-          "7800 US HWY 98"
-        ],
-        "city": "MIRAMAR BEACH",
-        "state": "FL",
-        "postalCode": "32550-7228"
       }
     ],
     "extension": [

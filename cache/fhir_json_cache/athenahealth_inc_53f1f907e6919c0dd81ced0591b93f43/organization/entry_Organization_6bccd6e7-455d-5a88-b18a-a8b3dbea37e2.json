@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457566309"
+        "value": "1508075680"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508075680"
+        "value": "1457566309"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3630 WILLOWCREEK RD"
-        ],
-        "city": "PORTAGE",
-        "state": "IN",
-        "postalCode": "46368-5075"
-      },
       {
         "line": [
           "7890 E RIDGE RD"
@@ -45,6 +37,14 @@
         "city": "CHESTERTON",
         "state": "IN",
         "postalCode": "46304-3387"
+      },
+      {
+        "line": [
+          "3630 WILLOWCREEK RD"
+        ],
+        "city": "PORTAGE",
+        "state": "IN",
+        "postalCode": "46368-5075"
       },
       {
         "line": [

@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1679902340"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1508101460"
       },
       {
@@ -22,15 +26,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093051807"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1316239841"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679902340"
+        "value": "1093051807"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -45,15 +45,6 @@
         "city": "GEORGETOWN",
         "state": "KY",
         "postalCode": "40324-9673"
-      },
-      {
-        "line": [
-          "1138 Lexington Road",
-          "Suite 230"
-        ],
-        "city": "GEORGETOWN",
-        "state": "KY",
-        "postalCode": "40324-8844"
       }
     ],
     "extension": [

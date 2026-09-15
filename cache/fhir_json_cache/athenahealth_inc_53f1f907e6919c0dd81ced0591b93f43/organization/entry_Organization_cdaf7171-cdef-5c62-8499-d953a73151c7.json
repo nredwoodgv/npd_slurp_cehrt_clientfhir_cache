@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053172833"
+        "value": "1235990011"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235990011"
+        "value": "1053172833"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,12 +36,12 @@
     "address": [
       {
         "line": [
-          "100 Bush St",
-          "Ste 1428"
+          "9777 Wilshire Blvd",
+          "Ste 820"
         ],
-        "city": "SAN FRANCISCO",
+        "city": "BEVERLY HILLS",
         "state": "CA",
-        "postalCode": "94104-3916"
+        "postalCode": "90212-1910"
       },
       {
         "line": [
@@ -54,19 +54,12 @@
       },
       {
         "line": [
-          "1736 Divisadero St"
+          "2011 Forest Ave",
+          "Ste 10"
         ],
-        "city": "SAN FRANCISCO",
+        "city": "SAN JOSE",
         "state": "CA",
-        "postalCode": "94115-3012"
-      },
-      {
-        "line": [
-          "80 Guest ST"
-        ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2071"
+        "postalCode": "95128-4832"
       },
       {
         "line": [
@@ -78,21 +71,11 @@
       },
       {
         "line": [
-          "9777 Wilshire Blvd",
-          "Ste 820"
+          "1736 Divisadero St"
         ],
-        "city": "BEVERLY HILLS",
+        "city": "SAN FRANCISCO",
         "state": "CA",
-        "postalCode": "90212-1910"
-      },
-      {
-        "line": [
-          "7777 Fay Ave",
-          "Ste 205"
-        ],
-        "city": "LA JOLLA",
-        "state": "CA",
-        "postalCode": "92037-4324"
+        "postalCode": "94115-3012"
       },
       {
         "line": [
@@ -105,12 +88,29 @@
       },
       {
         "line": [
-          "2011 Forest Ave",
-          "Ste 10"
+          "80 Guest ST"
         ],
-        "city": "SAN JOSE",
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2071"
+      },
+      {
+        "line": [
+          "7777 Fay Ave",
+          "Ste 205"
+        ],
+        "city": "LA JOLLA",
         "state": "CA",
-        "postalCode": "95128-4832"
+        "postalCode": "92037-4324"
+      },
+      {
+        "line": [
+          "100 Bush St",
+          "Ste 1428"
+        ],
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94104-3916"
       }
     ],
     "extension": [

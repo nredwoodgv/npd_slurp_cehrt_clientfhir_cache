@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710164504"
+        "value": "1952843435"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952843435"
+        "value": "1710164504"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1110 Professional Ct #100"
+        ],
+        "city": "HAGERSTOWN",
+        "state": "MD",
+        "postalCode": "21740-5944"
+      },
       {
         "line": [
           "201 E University Pkwy"
@@ -32,11 +40,12 @@
       },
       {
         "line": [
-          "5601 Loch Raven Blvd"
+          "1811 S. CRAIN HIGHWAY",
+          "SUITE C"
         ],
-        "city": "BALTIMORE",
+        "city": "GLEN BURNIE",
         "state": "MD",
-        "postalCode": "21239-2945"
+        "postalCode": "21061-5561"
       },
       {
         "line": [
@@ -49,29 +58,11 @@
       },
       {
         "line": [
-          "6701 North Charles Street"
+          "5601 Loch Raven Blvd"
         ],
-        "city": "TOWSON",
+        "city": "BALTIMORE",
         "state": "MD",
-        "postalCode": "21204-6068"
-      },
-      {
-        "line": [
-          "14201 LAUREL PARK DRIVE",
-          "SUITE 214"
-        ],
-        "city": "LAUREL",
-        "state": "MD",
-        "postalCode": "20707-5203"
-      },
-      {
-        "line": [
-          "1811 S. CRAIN HIGHWAY",
-          "SUITE C"
-        ],
-        "city": "GLEN BURNIE",
-        "state": "MD",
-        "postalCode": "21061-5561"
+        "postalCode": "21239-2945"
       },
       {
         "line": [
@@ -92,11 +83,19 @@
       },
       {
         "line": [
-          "1110 Professional Ct #100"
+          "6701 North Charles Street"
         ],
-        "city": "HAGERSTOWN",
+        "city": "TOWSON",
         "state": "MD",
-        "postalCode": "21740-5944"
+        "postalCode": "21204-6808"
+      },
+      {
+        "line": [
+          "6701 North Charles Street"
+        ],
+        "city": "TOWSON",
+        "state": "MD",
+        "postalCode": "21204-6068"
       },
       {
         "line": [
@@ -109,11 +108,12 @@
       },
       {
         "line": [
-          "6701 North Charles Street"
+          "14201 LAUREL PARK DRIVE",
+          "SUITE 214"
         ],
-        "city": "TOWSON",
+        "city": "LAUREL",
         "state": "MD",
-        "postalCode": "21204-6808"
+        "postalCode": "20707-5203"
       },
       {
         "line": [

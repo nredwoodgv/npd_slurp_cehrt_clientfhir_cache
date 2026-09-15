@@ -18,7 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194575472"
+        "value": "1467203000"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730906637"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +30,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730906637"
+        "value": "1063263697"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1083473383"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,22 +46,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063263697"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467203000"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1972354504"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083473383"
+        "value": "1194575472"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1910 S STAPLEY DR",
+          "STE 120"
+        ],
+        "city": "MESA",
+        "state": "AZ",
+        "postalCode": "85204-6676"
+      },
       {
         "line": [
           "711 N CURTIS RD"
@@ -61,6 +70,14 @@
         "city": "BOISE",
         "state": "ID",
         "postalCode": "83706-1445"
+      },
+      {
+        "line": [
+          "8905 W POST RD STE 110"
+        ],
+        "city": "LAS VEGAS",
+        "state": "NV",
+        "postalCode": "89148-2429"
       },
       {
         "line": [
@@ -85,23 +102,6 @@
         "city": "MINNEAPOLIS",
         "state": "MN",
         "postalCode": "55435-2168"
-      },
-      {
-        "line": [
-          "1910 S STAPLEY DR",
-          "STE 120"
-        ],
-        "city": "MESA",
-        "state": "AZ",
-        "postalCode": "85204-6676"
-      },
-      {
-        "line": [
-          "8905 W POST RD STE 110"
-        ],
-        "city": "LAS VEGAS",
-        "state": "NV",
-        "postalCode": "89148-2429"
       }
     ],
     "extension": [

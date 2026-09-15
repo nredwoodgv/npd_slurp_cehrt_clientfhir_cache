@@ -26,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811659634"
+        "value": "1073683553"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,7 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073683553"
+        "value": "1811659634"
       }
     ],
     "address": [
@@ -45,6 +45,14 @@
         "city": "TAVARES",
         "state": "FL",
         "postalCode": "32778-9648"
+      },
+      {
+        "line": [
+          "2140 E COUNTY ROAD 540A"
+        ],
+        "city": "LAKELAND",
+        "state": "FL",
+        "postalCode": "33813-3740"
       },
       {
         "line": [
@@ -64,11 +72,11 @@
       },
       {
         "line": [
-          "5655 S Orange Ave"
+          "2140 E County Rd 540A"
         ],
-        "city": "ORLANDO",
+        "city": "LAKELAND",
         "state": "FL",
-        "postalCode": "32809-4289"
+        "postalCode": "33813-3740"
       },
       {
         "line": [
@@ -80,11 +88,11 @@
       },
       {
         "line": [
-          "2140 E County Rd 540A"
+          "5655 S Orange Ave"
         ],
-        "city": "LAKELAND",
+        "city": "ORLANDO",
         "state": "FL",
-        "postalCode": "33813-3740"
+        "postalCode": "32809-4289"
       },
       {
         "line": [
@@ -93,14 +101,6 @@
         "city": "TAVARES",
         "state": "FL",
         "postalCode": "32778-9648"
-      },
-      {
-        "line": [
-          "2140 E COUNTY ROAD 540A"
-        ],
-        "city": "LAKELAND",
-        "state": "FL",
-        "postalCode": "33813-3740"
       }
     ],
     "extension": [

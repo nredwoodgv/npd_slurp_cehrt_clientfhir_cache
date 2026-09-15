@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073054458"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1902347438"
       },
       {
@@ -23,20 +27,16 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1104496819"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073054458"
       }
     ],
     "address": [
       {
         "line": [
-          "150 N SYKES CREEK PKWY STE 300"
+          "8055 SPYGLASS HILL RD, SUITE 102"
         ],
-        "city": "MERRITT ISLAND",
+        "city": "MELBOURNE",
         "state": "FL",
-        "postalCode": "32953-3488"
+        "postalCode": "32940-8564"
       },
       {
         "line": [
@@ -48,11 +48,11 @@
       },
       {
         "line": [
-          "8055 SPYGLASS HILL RD, SUITE 102"
+          "150 N SYKES CREEK PKWY STE 300"
         ],
-        "city": "MELBOURNE",
+        "city": "MERRITT ISLAND",
         "state": "FL",
-        "postalCode": "32940-8564"
+        "postalCode": "32953-3488"
       }
     ],
     "extension": [

@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104058940"
+        "value": "1699863936"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699863936"
+        "value": "1104058940"
       }
     ],
     "address": [
-      {
-        "line": [
-          "8900 N KENDALL DR"
-        ],
-        "city": "MIAMI",
-        "state": "FL",
-        "postalCode": "33176-2118"
-      },
-      {
-        "line": [
-          "800 MEADOWS RD"
-        ],
-        "city": "BOCA RATON",
-        "state": "FL",
-        "postalCode": "33486-2304"
-      },
       {
         "line": [
           "2815 South Seacrest Boulevard"
@@ -45,23 +29,6 @@
         "city": "BOYNTON BEACH",
         "state": "FL",
         "postalCode": "33435-7969"
-      },
-      {
-        "line": [
-          "800 MEADOWS RD",
-          "Ste 101"
-        ],
-        "city": "BOCA RATON",
-        "state": "FL",
-        "postalCode": "33486-2304"
-      },
-      {
-        "line": [
-          "5000 UNIVERSITY DR"
-        ],
-        "city": "MIAMI",
-        "state": "FL",
-        "postalCode": "33146-2008"
       },
       {
         "line": [
@@ -81,11 +48,35 @@
       },
       {
         "line": [
-          "9655 W. Boynton Beach Blvd."
+          "8900 N KENDALL DR"
         ],
-        "city": "BOYNTON BEACH",
+        "city": "MIAMI",
         "state": "FL",
-        "postalCode": "33472-4421"
+        "postalCode": "33176-2118"
+      },
+      {
+        "line": [
+          "800 MEADOWS RD"
+        ],
+        "city": "BOCA RATON",
+        "state": "FL",
+        "postalCode": "33486-2304"
+      },
+      {
+        "line": [
+          "5000 UNIVERSITY DR"
+        ],
+        "city": "MIAMI",
+        "state": "FL",
+        "postalCode": "33146-2008"
+      },
+      {
+        "line": [
+          "701 NW 13st Street Suite 101"
+        ],
+        "city": "BOCA RATON",
+        "state": "FL",
+        "postalCode": "33486-2344"
       },
       {
         "line": [
@@ -105,11 +96,20 @@
       },
       {
         "line": [
-          "701 NW 13st Street Suite 101"
+          "9655 W. Boynton Beach Blvd."
+        ],
+        "city": "BOYNTON BEACH",
+        "state": "FL",
+        "postalCode": "33472-4421"
+      },
+      {
+        "line": [
+          "800 MEADOWS RD",
+          "Ste 101"
         ],
         "city": "BOCA RATON",
         "state": "FL",
-        "postalCode": "33486-2344"
+        "postalCode": "33486-2304"
       },
       {
         "line": [

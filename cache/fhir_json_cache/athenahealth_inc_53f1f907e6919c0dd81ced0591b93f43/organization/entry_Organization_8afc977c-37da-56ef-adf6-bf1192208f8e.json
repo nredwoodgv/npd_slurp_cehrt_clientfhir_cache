@@ -22,30 +22,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396798302"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1902043433"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437194669"
+        "value": "1396798302"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1033294673"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437194669"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1411 Baddour Parkway"
-        ],
-        "city": "LEBANON",
-        "state": "TN",
-        "postalCode": "37087-2513"
-      },
       {
         "line": [
           "391 Wallace Rd"
@@ -53,6 +45,14 @@
         "city": "NASHVILLE",
         "state": "TN",
         "postalCode": "37211-4851"
+      },
+      {
+        "line": [
+          "1411 Baddour Parkway"
+        ],
+        "city": "LEBANON",
+        "state": "TN",
+        "postalCode": "37087-2513"
       }
     ],
     "extension": [

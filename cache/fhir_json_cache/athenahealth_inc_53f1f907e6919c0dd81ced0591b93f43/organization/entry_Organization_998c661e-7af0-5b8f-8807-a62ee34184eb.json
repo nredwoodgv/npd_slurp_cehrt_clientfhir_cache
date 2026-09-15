@@ -18,7 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306701966"
+        "value": "1750277406"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750277406"
+        "value": "1306701966"
       }
     ],
     "address": [
@@ -40,11 +40,11 @@
       },
       {
         "line": [
-          "150 MORRIS AVE STE 102"
+          "1251 BUSINESS WAY"
         ],
-        "city": "SPRINGFIELD",
-        "state": "NJ",
-        "postalCode": "07081-1315"
+        "city": "LEHIGH ACRES",
+        "state": "FL",
+        "postalCode": "33936-6046"
       },
       {
         "line": [
@@ -56,27 +56,11 @@
       },
       {
         "line": [
-          "1251 BUSINESS WAY"
-        ],
-        "city": "LEHIGH ACRES",
-        "state": "FL",
-        "postalCode": "33936-6046"
-      },
-      {
-        "line": [
-          "7173 CYPRESS DR"
+          "613 CAROLINA AVE"
         ],
         "city": "FORT MYERS",
         "state": "FL",
-        "postalCode": "33907-2938"
-      },
-      {
-        "line": [
-          "75 HOLLY HILL LN"
-        ],
-        "city": "GREENWICH",
-        "state": "CT",
-        "postalCode": "06830-2944"
+        "postalCode": "33905-4015"
       },
       {
         "line": [
@@ -88,19 +72,35 @@
       },
       {
         "line": [
-          "613 CAROLINA AVE"
-        ],
-        "city": "FORT MYERS",
-        "state": "FL",
-        "postalCode": "33905-4015"
-      },
-      {
-        "line": [
           "84 HOSPITAL AVE"
         ],
         "city": "DANBURY",
         "state": "CT",
         "postalCode": "06810-9001"
+      },
+      {
+        "line": [
+          "75 HOLLY HILL LN"
+        ],
+        "city": "GREENWICH",
+        "state": "CT",
+        "postalCode": "06830-2944"
+      },
+      {
+        "line": [
+          "150 MORRIS AVE STE 102"
+        ],
+        "city": "SPRINGFIELD",
+        "state": "NJ",
+        "postalCode": "07081-1315"
+      },
+      {
+        "line": [
+          "7173 CYPRESS DR"
+        ],
+        "city": "FORT MYERS",
+        "state": "FL",
+        "postalCode": "33907-2938"
       }
     ],
     "extension": [

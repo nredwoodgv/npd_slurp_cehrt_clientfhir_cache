@@ -14,14 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295023547"
+        "value": "1376921783"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376921783"
+        "value": "1295023547"
       }
     ],
     "address": [
+      {
+        "line": [
+          "230 W MAPLE RD",
+          "STE 100"
+        ],
+        "city": "TROY",
+        "state": "MI",
+        "postalCode": "48084-5471"
+      },
       {
         "line": [
           "44201 Dequindre Road"
@@ -29,6 +38,15 @@
         "city": "TROY",
         "state": "MI",
         "postalCode": "48085-1117"
+      },
+      {
+        "line": [
+          "32255 NORTHWESTERN HWY",
+          "STE 45"
+        ],
+        "city": "FARMINGTON",
+        "state": "MI",
+        "postalCode": "48334-1572"
       },
       {
         "line": [
@@ -47,14 +65,6 @@
         "city": "TROY",
         "state": "MI",
         "postalCode": "48084-5471"
-      },
-      {
-        "line": [
-          "3601 W 13 MILE ROAD"
-        ],
-        "city": "ROYAL OAK",
-        "state": "MI",
-        "postalCode": "48073-6769"
       }
     ],
     "extension": [

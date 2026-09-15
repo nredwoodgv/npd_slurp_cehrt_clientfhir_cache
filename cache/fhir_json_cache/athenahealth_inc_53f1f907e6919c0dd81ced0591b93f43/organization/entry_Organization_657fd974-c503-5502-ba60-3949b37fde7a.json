@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
+        "value": "1750302923"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
+        "value": "1881656247"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,34 +30,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649232984"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114235918"
+        "value": "1962602300"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
+        "value": "1053373951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215999511"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114235918"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1686 Hwy 79 West"
-        ],
-        "city": "BUFFALO",
-        "state": "TX",
-        "postalCode": "75831-3490"
-      },
       {
         "line": [
           "1602 Rock Prairie Ste 2400"
@@ -68,19 +60,11 @@
       },
       {
         "line": [
-          "3201 University Dr. Ste 135"
-        ],
-        "city": "BRYAN",
-        "state": "TX",
-        "postalCode": "77802-3481"
-      },
-      {
-        "line": [
-          "1602 Rock Prairie Ste 2600"
+          "1602 Rock Prairie Rd Ste 2000"
         ],
         "city": "COLLEGE STATION",
         "state": "TX",
-        "postalCode": "77845-5990"
+        "postalCode": "77845-5988"
       },
       {
         "line": [
@@ -92,11 +76,19 @@
       },
       {
         "line": [
-          "1002 W Brown St"
+          "600 N. Park"
         ],
-        "city": "HEARNE",
+        "city": "BRENHAM",
         "state": "TX",
-        "postalCode": "77859-3063"
+        "postalCode": "77833-2610"
+      },
+      {
+        "line": [
+          "3201 University Dr. Ste 135"
+        ],
+        "city": "BRYAN",
+        "state": "TX",
+        "postalCode": "77802-3481"
       },
       {
         "line": [
@@ -108,11 +100,19 @@
       },
       {
         "line": [
-          "600 N. Park"
+          "607 W Lassater"
         ],
-        "city": "BRENHAM",
+        "city": "CENTERVILLE",
         "state": "TX",
-        "postalCode": "77833-2610"
+        "postalCode": "75833-1959"
+      },
+      {
+        "line": [
+          "1002 W Brown St"
+        ],
+        "city": "HEARNE",
+        "state": "TX",
+        "postalCode": "77859-3063"
       },
       {
         "line": [
@@ -124,19 +124,19 @@
       },
       {
         "line": [
-          "607 W Lassater"
+          "1686 Hwy 79 West"
         ],
-        "city": "CENTERVILLE",
+        "city": "BUFFALO",
         "state": "TX",
-        "postalCode": "75833-1959"
+        "postalCode": "75831-3490"
       },
       {
         "line": [
-          "1602 Rock Prairie Rd Ste 2000"
+          "1602 Rock Prairie Ste 2600"
         ],
         "city": "COLLEGE STATION",
         "state": "TX",
-        "postalCode": "77845-5988"
+        "postalCode": "77845-5990"
       }
     ],
     "extension": [

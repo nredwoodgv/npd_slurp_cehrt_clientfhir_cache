@@ -14,25 +14,25 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932520251"
+        "value": "1194329631"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194329631"
+        "value": "1932520251"
       }
     ],
     "address": [
       {
         "line": [
-          "2875 BROADWAY FL 3"
+          "109 MONTAGUE ST"
         ],
-        "city": "NEW YORK",
+        "city": "BROOKLYN",
         "state": "NY",
-        "postalCode": "10025-7846"
+        "postalCode": "11201-3437"
       },
       {
         "line": [
-          "109 MONTAGUE ST"
+          "109 Montague Street"
         ],
         "city": "BROOKLYN",
         "state": "NY",
@@ -56,14 +56,6 @@
       },
       {
         "line": [
-          "109 Montague Street"
-        ],
-        "city": "BROOKLYN",
-        "state": "NY",
-        "postalCode": "11201-3437"
-      },
-      {
-        "line": [
           "1000 10th Ave"
         ],
         "city": "New York",
@@ -77,6 +69,14 @@
         "city": "NEW YORK",
         "state": "NY",
         "postalCode": "10019-1147"
+      },
+      {
+        "line": [
+          "2875 BROADWAY FL 3"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10025-7846"
       }
     ],
     "extension": [

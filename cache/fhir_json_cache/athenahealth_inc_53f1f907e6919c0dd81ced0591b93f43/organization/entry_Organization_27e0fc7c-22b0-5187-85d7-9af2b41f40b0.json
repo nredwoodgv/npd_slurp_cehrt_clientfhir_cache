@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023205754"
+        "value": "1336959279"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336959279"
+        "value": "1023205754"
       }
     ],
     "address": [
-      {
-        "line": [
-          "801 SOUTH STATE 57"
-        ],
-        "city": "WASHINGTON",
-        "state": "IN",
-        "postalCode": "47501-4373"
-      },
       {
         "line": [
           "12802 E US Highway 50"
@@ -40,27 +32,27 @@
       },
       {
         "line": [
-          "12802 EAST US HWY 50"
-        ],
-        "city": "LOOGOOTEE",
-        "state": "IN",
-        "postalCode": "47519-5210"
-      },
-      {
-        "line": [
-          "1109 E NATIONAL HWY"
+          "801 SOUTH STATE 57"
         ],
         "city": "WASHINGTON",
         "state": "IN",
-        "postalCode": "47501-4128"
+        "postalCode": "47501-4373"
       },
       {
         "line": [
-          "542 N 3rd St"
+          "542 N 3RD ST"
         ],
         "city": "MONTGOMERY",
         "state": "IN",
-        "postalCode": "47558-5754"
+        "postalCode": "47558-5745"
+      },
+      {
+        "line": [
+          "PO BOX 760"
+        ],
+        "city": "WASHINGTON",
+        "state": "IN",
+        "postalCode": "47501-0760"
       },
       {
         "line": [
@@ -72,11 +64,11 @@
       },
       {
         "line": [
-          "542 N 3RD ST"
+          "1109 E NATIONAL HWY"
         ],
-        "city": "MONTGOMERY",
+        "city": "WASHINGTON",
         "state": "IN",
-        "postalCode": "47558-5745"
+        "postalCode": "47501-4128"
       },
       {
         "line": [
@@ -96,11 +88,19 @@
       },
       {
         "line": [
-          "PO BOX 760"
+          "12802 EAST US HWY 50"
         ],
-        "city": "WASHINGTON",
+        "city": "LOOGOOTEE",
         "state": "IN",
-        "postalCode": "47501-0760"
+        "postalCode": "47519-5210"
+      },
+      {
+        "line": [
+          "542 N 3rd St"
+        ],
+        "city": "MONTGOMERY",
+        "state": "IN",
+        "postalCode": "47558-5754"
       }
     ],
     "extension": [

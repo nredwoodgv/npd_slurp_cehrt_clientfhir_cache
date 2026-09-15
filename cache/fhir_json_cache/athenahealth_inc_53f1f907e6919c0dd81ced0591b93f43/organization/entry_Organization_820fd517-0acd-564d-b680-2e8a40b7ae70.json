@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548836224"
+        "value": "1295433944"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295433944"
+        "value": "1548836224"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -40,11 +40,11 @@
     "address": [
       {
         "line": [
-          "854 Hurst Street"
+          "2310 ST HWY 103"
         ],
-        "city": "CENTER",
+        "city": "ETOILE",
         "state": "TX",
-        "postalCode": "75935-3440"
+        "postalCode": "75944-1111"
       },
       {
         "line": [
@@ -64,22 +64,6 @@
       },
       {
         "line": [
-          "2608 N UNIVERSITY DR"
-        ],
-        "city": "NACOGDOCHES",
-        "state": "TX",
-        "postalCode": "75965-2904"
-      },
-      {
-        "line": [
-          "2310 ST HWY 103"
-        ],
-        "city": "ETOILE",
-        "state": "TX",
-        "postalCode": "75944-1111"
-      },
-      {
-        "line": [
           "12815 US Hwy 84 E"
         ],
         "city": "JOAQUIN",
@@ -88,11 +72,27 @@
       },
       {
         "line": [
+          "854 Hurst Street"
+        ],
+        "city": "CENTER",
+        "state": "TX",
+        "postalCode": "75935-3440"
+      },
+      {
+        "line": [
           "507 N Jacob St"
         ],
         "city": "TIMPSON",
         "state": "TX",
         "postalCode": "75975-5255"
+      },
+      {
+        "line": [
+          "2608 N UNIVERSITY DR"
+        ],
+        "city": "NACOGDOCHES",
+        "state": "TX",
+        "postalCode": "75965-2904"
       }
     ],
     "extension": [

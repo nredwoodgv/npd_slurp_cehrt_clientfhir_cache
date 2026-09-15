@@ -14,23 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578612883"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841979846"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1336931211"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437910080"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255007100"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,7 +22,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1255007100"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437910080"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1750860938"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1841979846"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578612883"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.336",
@@ -48,11 +48,11 @@
     "address": [
       {
         "line": [
-          "827 18TH STREET"
+          "1255 37TH ST STE C"
         ],
         "city": "VERO BEACH",
         "state": "FL",
-        "postalCode": "32960-6481"
+        "postalCode": "32960-6550"
       },
       {
         "line": [
@@ -65,16 +65,8 @@
       },
       {
         "line": [
-          "1255 37TH ST STE C"
-        ],
-        "city": "VERO BEACH",
-        "state": "FL",
-        "postalCode": "32960-6550"
-      },
-      {
-        "line": [
           "840 37TH PL",
-          "Unit B"
+          "UNIT A"
         ],
         "city": "VERO BEACH",
         "state": "FL",
@@ -82,8 +74,16 @@
       },
       {
         "line": [
+          "827 18TH STREET"
+        ],
+        "city": "VERO BEACH",
+        "state": "FL",
+        "postalCode": "32960-6481"
+      },
+      {
+        "line": [
           "840 37TH PL",
-          "UNIT A"
+          "Unit B"
         ],
         "city": "VERO BEACH",
         "state": "FL",

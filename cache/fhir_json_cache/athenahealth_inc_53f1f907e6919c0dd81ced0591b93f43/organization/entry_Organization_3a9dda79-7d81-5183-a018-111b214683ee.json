@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083072342"
+        "value": "1437516887"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437516887"
+        "value": "1083072342"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2 Capital Way",
-          "Ste 357"
-        ],
-        "city": "PENNINGTON",
-        "state": "NJ",
-        "postalCode": "08534-2421"
-      },
       {
         "line": [
           "3140 PRINCETON PIKE",
@@ -39,6 +30,14 @@
         "city": "Lawrenceville",
         "state": "NJ",
         "postalCode": "08648-2330"
+      },
+      {
+        "line": [
+          "3 Penns Trail"
+        ],
+        "city": "NEWTOWN",
+        "state": "PA",
+        "postalCode": "18940-1812"
       },
       {
         "line": [
@@ -51,11 +50,12 @@
       },
       {
         "line": [
-          "3 Penns Trail"
+          "2 Capital Way",
+          "Ste 357"
         ],
-        "city": "NEWTOWN",
-        "state": "PA",
-        "postalCode": "18940-1812"
+        "city": "PENNINGTON",
+        "state": "NJ",
+        "postalCode": "08534-2421"
       }
     ],
     "extension": [

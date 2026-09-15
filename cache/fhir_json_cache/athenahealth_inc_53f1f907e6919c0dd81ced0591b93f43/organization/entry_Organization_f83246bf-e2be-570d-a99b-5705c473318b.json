@@ -14,33 +14,52 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144371576"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1205651510"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1740960434"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144371576"
       }
     ],
     "address": [
       {
         "line": [
-          "53 Gordon Road, Suite 102"
+          "11315 JOHNS CREEK PKWY",
+          "STE 320"
         ],
-        "city": "JASPER",
+        "city": "DULUTH",
         "state": "GA",
-        "postalCode": "30143-7104"
+        "postalCode": "30097-2644"
       },
       {
         "line": [
-          "290 HERITAGE WALK STE B"
+          "1495 Hickory Flat Hwy",
+          "Suite 140"
         ],
-        "city": "WOODSTOCK",
+        "city": "CANTON",
         "state": "GA",
-        "postalCode": "30188-6402"
+        "postalCode": "30115-4229"
+      },
+      {
+        "line": [
+          "3970 DEP BILL CANTRELL MEMORIAL RD"
+        ],
+        "city": "CUMMING",
+        "state": "GA",
+        "postalCode": "30040-2824"
+      },
+      {
+        "line": [
+          "101 GREENFIELD DR",
+          "STE 260"
+        ],
+        "city": "CUMMING",
+        "state": "GA",
+        "postalCode": "30040-2824"
       },
       {
         "line": [
@@ -58,42 +77,6 @@
         "city": "DAWSONVILLE",
         "state": "GA",
         "postalCode": "30534-8952"
-      },
-      {
-        "line": [
-          "101 GREENFIELD DR",
-          "STE 260"
-        ],
-        "city": "CUMMING",
-        "state": "GA",
-        "postalCode": "30040-2824"
-      },
-      {
-        "line": [
-          "11315 JOHNS CREEK PKWY",
-          "STE 320"
-        ],
-        "city": "DULUTH",
-        "state": "GA",
-        "postalCode": "30097-2644"
-      },
-      {
-        "line": [
-          "4465 Nelson Brogdon Blvd.",
-          "STE 103"
-        ],
-        "city": "BUFORD",
-        "state": "GA",
-        "postalCode": "30518-3487"
-      },
-      {
-        "line": [
-          "1495 Hickory Flat Hwy",
-          "Suite 140"
-        ],
-        "city": "CANTON",
-        "state": "GA",
-        "postalCode": "30115-4229"
       },
       {
         "line": [
@@ -121,11 +104,28 @@
       },
       {
         "line": [
-          "3970 DEP BILL CANTRELL MEMORIAL RD"
+          "4465 Nelson Brogdon Blvd.",
+          "STE 103"
         ],
-        "city": "CUMMING",
+        "city": "BUFORD",
         "state": "GA",
-        "postalCode": "30040-2824"
+        "postalCode": "30518-3487"
+      },
+      {
+        "line": [
+          "290 HERITAGE WALK STE B"
+        ],
+        "city": "WOODSTOCK",
+        "state": "GA",
+        "postalCode": "30188-6402"
+      },
+      {
+        "line": [
+          "53 Gordon Road, Suite 102"
+        ],
+        "city": "JASPER",
+        "state": "GA",
+        "postalCode": "30143-7104"
       }
     ],
     "extension": [

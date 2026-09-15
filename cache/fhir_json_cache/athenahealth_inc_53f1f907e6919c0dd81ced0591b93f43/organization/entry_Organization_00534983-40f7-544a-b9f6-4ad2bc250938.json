@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285614834"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154794261"
+        "value": "1407194319"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,11 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437557519"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407194319"
+        "value": "1285614834"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,34 +30,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437557519"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962752998"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154794261"
       }
     ],
     "address": [
-      {
-        "line": [
-          "75 3rd Avenue"
-        ],
-        "city": "WALTHAM",
-        "state": "MA",
-        "postalCode": "02451-7549"
-      },
-      {
-        "line": [
-          "pathology"
-        ],
-        "city": "ACTON",
-        "state": "MA",
-        "postalCode": "01720-3301"
-      },
-      {
-        "line": [
-          "80 Erdman Way"
-        ],
-        "city": "LEOMINSTER",
-        "state": "MA",
-        "postalCode": "01453-1840"
-      },
       {
         "line": [
           "2 Pillsbury Street",
@@ -77,19 +53,19 @@
       },
       {
         "line": [
+          "75 3rd Avenue"
+        ],
+        "city": "WALTHAM",
+        "state": "MA",
+        "postalCode": "02451-7549"
+      },
+      {
+        "line": [
           "Pathology"
         ],
         "city": "ACTON",
         "state": "MA",
         "postalCode": "01720-3301"
-      },
-      {
-        "line": [
-          "92 Montvale Avenue"
-        ],
-        "city": "STONEHAM",
-        "state": "MA",
-        "postalCode": "02180-3647"
       },
       {
         "line": [
@@ -101,11 +77,35 @@
       },
       {
         "line": [
+          "80 Erdman Way"
+        ],
+        "city": "LEOMINSTER",
+        "state": "MA",
+        "postalCode": "01453-1840"
+      },
+      {
+        "line": [
+          "pathology"
+        ],
+        "city": "ACTON",
+        "state": "MA",
+        "postalCode": "01720-3301"
+      },
+      {
+        "line": [
           "250 Pleasant St"
         ],
         "city": "CONCORD",
         "state": "NH",
         "postalCode": "03301-2598"
+      },
+      {
+        "line": [
+          "92 Montvale Avenue"
+        ],
+        "city": "STONEHAM",
+        "state": "MA",
+        "postalCode": "02180-3647"
       }
     ],
     "extension": [

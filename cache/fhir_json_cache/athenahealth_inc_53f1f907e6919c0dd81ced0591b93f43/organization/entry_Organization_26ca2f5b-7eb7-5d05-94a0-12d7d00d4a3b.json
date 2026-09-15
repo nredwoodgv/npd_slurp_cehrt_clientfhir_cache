@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700294295"
+        "value": "1003291915"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,30 +22,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1255925905"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1972628816"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003291915"
+        "value": "1700294295"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1306484050"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255925905"
       }
     ],
     "address": [
-      {
-        "line": [
-          "110 Memorial Hospital Drive"
-        ],
-        "city": "HUNTSVILLE",
-        "state": "TX",
-        "postalCode": "77340-4940"
-      },
       {
         "line": [
           "125 Medical Park Lane",
@@ -54,6 +46,14 @@
         "city": "HUNTSVILLE",
         "state": "TX",
         "postalCode": "77340-4957"
+      },
+      {
+        "line": [
+          "110 Memorial Hospital Drive"
+        ],
+        "city": "HUNTSVILLE",
+        "state": "TX",
+        "postalCode": "77340-4940"
       },
       {
         "line": [

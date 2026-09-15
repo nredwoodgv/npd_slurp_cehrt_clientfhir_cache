@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124088372"
+        "value": "1952128670"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952128670"
+        "value": "1124088372"
       }
     ],
     "address": [
+      {
+        "line": [
+          "600 Somerset Avenue"
+        ],
+        "city": "WINDBER",
+        "state": "PA",
+        "postalCode": "15963-1331"
+      },
       {
         "line": [
           "720 W. Mahoning St",
@@ -30,14 +38,6 @@
         "city": "PUNXSUTAWNEY",
         "state": "PA",
         "postalCode": "15767-1351"
-      },
-      {
-        "line": [
-          "600 Somerset Avenue"
-        ],
-        "city": "WINDBER",
-        "state": "PA",
-        "postalCode": "15963-1331"
       },
       {
         "line": [

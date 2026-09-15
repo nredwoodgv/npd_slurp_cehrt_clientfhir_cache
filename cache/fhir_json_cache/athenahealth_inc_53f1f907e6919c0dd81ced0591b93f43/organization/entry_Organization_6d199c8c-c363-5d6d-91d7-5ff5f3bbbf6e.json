@@ -14,18 +14,17 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356093462"
+        "value": "1518353739"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518353739"
+        "value": "1356093462"
       }
     ],
     "address": [
       {
         "line": [
-          "23850 VAN BORN RD",
-          "SUITE A"
+          "23850 VAN BORN RD"
         ],
         "city": "DEARBORN HEIGHTS",
         "state": "MI",
@@ -41,11 +40,11 @@
       },
       {
         "line": [
-          "23850 VAN BORN RD"
+          "1000 Telegraph rd"
         ],
-        "city": "DEARBORN HEIGHTS",
+        "city": "TAYLOR",
         "state": "MI",
-        "postalCode": "48125-2325"
+        "postalCode": "48180-3330"
       },
       {
         "line": [
@@ -57,19 +56,20 @@
       },
       {
         "line": [
-          "1000 Telegraph rd"
-        ],
-        "city": "TAYLOR",
-        "state": "MI",
-        "postalCode": "48180-3330"
-      },
-      {
-        "line": [
           "13650 FORT ST"
         ],
         "city": "SOUTHGATE",
         "state": "MI",
         "postalCode": "48195-1152"
+      },
+      {
+        "line": [
+          "23850 VAN BORN RD",
+          "SUITE A"
+        ],
+        "city": "DEARBORN HEIGHTS",
+        "state": "MI",
+        "postalCode": "48125-2325"
       }
     ],
     "extension": [

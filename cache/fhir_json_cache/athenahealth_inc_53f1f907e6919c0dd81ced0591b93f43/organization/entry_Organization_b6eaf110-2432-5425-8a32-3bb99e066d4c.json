@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013312594"
+        "value": "1437536521"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437536521"
+        "value": "1013312594"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,6 +26,39 @@
       }
     ],
     "address": [
+      {
+        "line": [
+          "131 N EL MOLINO AVE STE 180"
+        ],
+        "city": "PASADENA",
+        "state": "CA",
+        "postalCode": "91101-5601"
+      },
+      {
+        "line": [
+          "400 CAMARILLO RANCH RD STE 101"
+        ],
+        "city": "CAMARILLO",
+        "state": "CA",
+        "postalCode": "93012-5901"
+      },
+      {
+        "line": [
+          "9235 KATY FWY",
+          "STE 330"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77024-1533"
+      },
+      {
+        "line": [
+          "674 COUNTY SQUARE DR STE 105"
+        ],
+        "city": "VENTURA",
+        "state": "CA",
+        "postalCode": "93003-9014"
+      },
       {
         "line": [
           "6640 VAN NUYS BLVD STE 101"
@@ -44,12 +77,11 @@
       },
       {
         "line": [
-          "1510 E MAIN ST",
-          "STE 103"
+          "2975 SYCAMORE DR"
         ],
-        "city": "SANTA MARIA",
+        "city": "SIMI VALLEY",
         "state": "CA",
-        "postalCode": "93454-4826"
+        "postalCode": "93065-1201"
       },
       {
         "line": [
@@ -61,36 +93,12 @@
       },
       {
         "line": [
-          "131 N EL MOLINO AVE STE 180"
+          "1510 E MAIN ST",
+          "STE 103"
         ],
-        "city": "PASADENA",
+        "city": "SANTA MARIA",
         "state": "CA",
-        "postalCode": "91101-5601"
-      },
-      {
-        "line": [
-          "9235 KATY FWY",
-          "STE 330"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77024-1533"
-      },
-      {
-        "line": [
-          "2975 SYCAMORE DR"
-        ],
-        "city": "SIMI VALLEY",
-        "state": "CA",
-        "postalCode": "93065-1201"
-      },
-      {
-        "line": [
-          "674 COUNTY SQUARE DR STE 105"
-        ],
-        "city": "VENTURA",
-        "state": "CA",
-        "postalCode": "93003-9014"
+        "postalCode": "93454-4826"
       },
       {
         "line": [
@@ -100,14 +108,6 @@
         "city": "SAN LUIS OBISPO",
         "state": "CA",
         "postalCode": "93401-8759"
-      },
-      {
-        "line": [
-          "400 CAMARILLO RANCH RD STE 101"
-        ],
-        "city": "CAMARILLO",
-        "state": "CA",
-        "postalCode": "93012-5901"
       }
     ],
     "extension": [

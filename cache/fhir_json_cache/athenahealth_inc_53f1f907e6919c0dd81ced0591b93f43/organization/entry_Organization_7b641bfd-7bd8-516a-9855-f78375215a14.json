@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285931089"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649228966"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1013031368"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285931089"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,27 +32,11 @@
     "address": [
       {
         "line": [
-          "320 Federal Street"
+          "3300 Rivermont Avenue"
         ],
         "city": "LYNCHBURG",
         "state": "VA",
-        "postalCode": "24504-2306"
-      },
-      {
-        "line": [
-          "1901 Tate Springs Road"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24501-1109"
-      },
-      {
-        "line": [
-          "2007 GRAVES MILL ROAD"
-        ],
-        "city": "FOREST",
-        "state": "VA",
-        "postalCode": "24551-2656"
+        "postalCode": "24503-2030"
       },
       {
         "line": [
@@ -64,11 +48,27 @@
       },
       {
         "line": [
-          "3300 Rivermont Avenue"
+          "320 Federal Street"
         ],
         "city": "LYNCHBURG",
         "state": "VA",
-        "postalCode": "24503-2030"
+        "postalCode": "24504-2306"
+      },
+      {
+        "line": [
+          "2007 GRAVES MILL ROAD"
+        ],
+        "city": "FOREST",
+        "state": "VA",
+        "postalCode": "24551-2656"
+      },
+      {
+        "line": [
+          "1901 Tate Springs Road"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24501-1109"
       }
     ],
     "extension": [

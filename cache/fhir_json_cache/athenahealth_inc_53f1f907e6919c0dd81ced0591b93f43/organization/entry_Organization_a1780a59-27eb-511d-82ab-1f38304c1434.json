@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508075680"
+        "value": "1457566309"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457566309"
+        "value": "1508075680"
       }
     ],
     "address": [
-      {
-        "line": [
-          "650 Dickinson Rd."
-        ],
-        "city": "CHESTERTON",
-        "state": "IN",
-        "postalCode": "46304-3387"
-      },
       {
         "line": [
           "85 E US Hwy 6 Ste 300"
@@ -37,22 +29,6 @@
         "city": "VALPARAISO",
         "state": "IN",
         "postalCode": "46383-8948"
-      },
-      {
-        "line": [
-          "3988 W STATE RD 10"
-        ],
-        "city": "WHEATFIELD",
-        "state": "IN",
-        "postalCode": "46392-9251"
-      },
-      {
-        "line": [
-          "2000 ROOSEVELT RD"
-        ],
-        "city": "VALPARAISO",
-        "state": "IN",
-        "postalCode": "46383-2800"
       },
       {
         "line": [
@@ -69,6 +45,30 @@
         "city": "PORTAGE",
         "state": "IN",
         "postalCode": "46368-5075"
+      },
+      {
+        "line": [
+          "2000 ROOSEVELT RD"
+        ],
+        "city": "VALPARAISO",
+        "state": "IN",
+        "postalCode": "46383-2800"
+      },
+      {
+        "line": [
+          "650 Dickinson Rd."
+        ],
+        "city": "CHESTERTON",
+        "state": "IN",
+        "postalCode": "46304-3387"
+      },
+      {
+        "line": [
+          "3988 W STATE RD 10"
+        ],
+        "city": "WHEATFIELD",
+        "state": "IN",
+        "postalCode": "46392-9251"
       }
     ],
     "extension": [

@@ -3,23 +3,12 @@
     "resourceType": "Organization",
     "id": "avon-health",
     "active": true,
-    "name": "Avon Health, Inc.",
-    "identifier": [
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1234567890"
-      }
-    ],
-    "address": [
-      {
-        "text": "123 Main St, Anywhere, USA"
-      }
-    ],
+    "name": "Avon Health",
     "endpoint": [
       {
-        "reference": "Endpoint/avon-fhir-endpoint"
+        "reference": "Endpoint/avon-health-endpoint"
       }
     ]
   },
-  "fullUrl": "https://trial.avonhealth.com/fhir/Organization/avon-health"
+  "fullUrl": "https://trial-ec823.uc.r.appspot.com/fhir/Organization/avon-health"
 }

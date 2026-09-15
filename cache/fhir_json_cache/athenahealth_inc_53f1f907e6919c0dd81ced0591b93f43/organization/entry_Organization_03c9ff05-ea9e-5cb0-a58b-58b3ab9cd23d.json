@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1063872596"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1477874337"
       },
       {
@@ -27,20 +31,16 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1174522007"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063872596"
       }
     ],
     "address": [
       {
         "line": [
-          "1751 Veterans Dr"
+          "201 AVALON AVE"
         ],
-        "city": "FLORENCE",
+        "city": "MUSCLE SHOALS",
         "state": "AL",
-        "postalCode": "35630-4930"
+        "postalCode": "35661-2805"
       },
       {
         "line": [
@@ -52,51 +52,11 @@
       },
       {
         "line": [
-          "426 E DR HICKS BLVD"
+          "1751 VETERANS DR"
         ],
         "city": "FLORENCE",
         "state": "AL",
-        "postalCode": "35630-5763"
-      },
-      {
-        "line": [
-          "15155 HIGHWAY 43"
-        ],
-        "city": "RUSSELLVILLE",
-        "state": "AL",
-        "postalCode": "35653-1975"
-      },
-      {
-        "line": [
-          "1331 S LOCUST AVE"
-        ],
-        "city": "LAWRENCEBURG",
-        "state": "TN",
-        "postalCode": "38464-4040"
-      },
-      {
-        "line": [
-          "1607 S LOCUST AVE"
-        ],
-        "city": "LAWRENCEBURG",
-        "state": "TN",
-        "postalCode": "38464-4011"
-      },
-      {
-        "line": [
-          "805 FLAGG CIRCLE"
-        ],
-        "city": "FLORENCE",
-        "state": "AL",
-        "postalCode": "35630-3362"
-      },
-      {
-        "line": [
-          "201 AVALON AVENUE"
-        ],
-        "city": "MUSCLE SHOALS",
-        "state": "AL",
-        "postalCode": "35661-2805"
+        "postalCode": "35630-4930"
       },
       {
         "line": [
@@ -108,7 +68,7 @@
       },
       {
         "line": [
-          "201 AVALON AVE"
+          "201 AVALON AVENUE"
         ],
         "city": "MUSCLE SHOALS",
         "state": "AL",
@@ -116,11 +76,11 @@
       },
       {
         "line": [
-          "1751 VETERANS DR"
+          "1331 S LOCUST AVE"
         ],
-        "city": "FLORENCE",
-        "state": "AL",
-        "postalCode": "35630-4930"
+        "city": "LAWRENCEBURG",
+        "state": "TN",
+        "postalCode": "38464-4040"
       },
       {
         "line": [
@@ -130,6 +90,46 @@
         "city": "FLORENCE",
         "state": "AL",
         "postalCode": "35630-4928"
+      },
+      {
+        "line": [
+          "15155 HIGHWAY 43"
+        ],
+        "city": "RUSSELLVILLE",
+        "state": "AL",
+        "postalCode": "35653-1975"
+      },
+      {
+        "line": [
+          "1751 Veterans Dr"
+        ],
+        "city": "FLORENCE",
+        "state": "AL",
+        "postalCode": "35630-4930"
+      },
+      {
+        "line": [
+          "1607 S LOCUST AVE"
+        ],
+        "city": "LAWRENCEBURG",
+        "state": "TN",
+        "postalCode": "38464-4011"
+      },
+      {
+        "line": [
+          "426 E DR HICKS BLVD"
+        ],
+        "city": "FLORENCE",
+        "state": "AL",
+        "postalCode": "35630-5763"
+      },
+      {
+        "line": [
+          "805 FLAGG CIRCLE"
+        ],
+        "city": "FLORENCE",
+        "state": "AL",
+        "postalCode": "35630-3362"
       }
     ],
     "extension": [

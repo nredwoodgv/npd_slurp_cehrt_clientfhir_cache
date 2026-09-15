@@ -14,18 +14,35 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1205651510"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1144371576"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1740960434"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205651510"
       }
     ],
     "address": [
+      {
+        "line": [
+          "970 Joe Frank Harris Pkwy SE",
+          "Ste 380A"
+        ],
+        "city": "CARTERSVILLE",
+        "state": "GA",
+        "postalCode": "30120-2159"
+      },
+      {
+        "line": [
+          "970 JOE FRANK HARRIS PKWY SE STE 380"
+        ],
+        "city": "CARTERSVILLE",
+        "state": "GA",
+        "postalCode": "30120-2163"
+      },
       {
         "line": [
           "1495 Hickory Flat Hwy",
@@ -42,23 +59,6 @@
         "city": "BLUE RIDGE",
         "state": "GA",
         "postalCode": "30513-6239"
-      },
-      {
-        "line": [
-          "970 JOE FRANK HARRIS PKWY SE STE 380"
-        ],
-        "city": "CARTERSVILLE",
-        "state": "GA",
-        "postalCode": "30120-2163"
-      },
-      {
-        "line": [
-          "970 Joe Frank Harris Pkwy SE",
-          "Ste 380A"
-        ],
-        "city": "CARTERSVILLE",
-        "state": "GA",
-        "postalCode": "30120-2159"
       }
     ],
     "extension": [

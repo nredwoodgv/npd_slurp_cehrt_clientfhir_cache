@@ -18,27 +18,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932610482"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1891155974"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1447630538"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1932610482"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1851 MESQUITE AVE",
-          "STE 210"
-        ],
-        "city": "LAKE HAVASU CITY",
-        "state": "AZ",
-        "postalCode": "86403-5681"
-      },
       {
         "line": [
           "1520 E HAMMER LN",
@@ -47,6 +38,15 @@
         "city": "FORT MOHAVE",
         "state": "AZ",
         "postalCode": "86426-6665"
+      },
+      {
+        "line": [
+          "1851 MESQUITE AVE",
+          "STE 210"
+        ],
+        "city": "LAKE HAVASU CITY",
+        "state": "AZ",
+        "postalCode": "86403-5681"
       }
     ],
     "extension": [

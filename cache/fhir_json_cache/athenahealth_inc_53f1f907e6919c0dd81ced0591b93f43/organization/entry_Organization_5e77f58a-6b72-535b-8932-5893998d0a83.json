@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588997233"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1275290694"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508489782"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,17 +26,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588997233"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1508489782"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730412388"
       }
     ],
     "address": [
       {
         "line": [
-          "1909 SW HK Dodgen loop"
+          "5103 Kyle Center Dr",
+          "STE 108"
         ],
-        "city": "Temple",
+        "city": "KYLE",
         "state": "TX",
-        "postalCode": "76502-1814"
+        "postalCode": "78640-6164"
       },
       {
         "line": [
@@ -57,20 +58,12 @@
       },
       {
         "line": [
-          "1101 Wolf Lake Dr",
-          "STE 100"
+          "800 W Central TX Expressway",
+          "STE 155"
         ],
-        "city": "GEORGETOWN",
+        "city": "HARKER HEIGHTS",
         "state": "TX",
-        "postalCode": "78628-3778"
-      },
-      {
-        "line": [
-          "1004 W 32nd St  Ste 110"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78705-1915"
+        "postalCode": "76548-1995"
       },
       {
         "line": [
@@ -79,6 +72,23 @@
         "city": "TEMPLE",
         "state": "TX",
         "postalCode": "76502-1814"
+      },
+      {
+        "line": [
+          "201 University Oaks Blvd",
+          "Suite 1260"
+        ],
+        "city": "ROUND ROCK",
+        "state": "TX",
+        "postalCode": "78665-2437"
+      },
+      {
+        "line": [
+          "1004 W 32nd St  Ste 110"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78705-1915"
       },
       {
         "line": [
@@ -91,12 +101,12 @@
       },
       {
         "line": [
-          "201 University Oaks Blvd",
-          "Suite 1260"
+          "1101 Wolf Lake Dr",
+          "STE 100"
         ],
-        "city": "ROUND ROCK",
+        "city": "GEORGETOWN",
         "state": "TX",
-        "postalCode": "78665-2437"
+        "postalCode": "78628-3778"
       },
       {
         "line": [
@@ -117,21 +127,11 @@
       },
       {
         "line": [
-          "800 W Central TX Expressway",
-          "STE 155"
+          "1909 SW HK Dodgen loop"
         ],
-        "city": "HARKER HEIGHTS",
+        "city": "Temple",
         "state": "TX",
-        "postalCode": "76548-1995"
-      },
-      {
-        "line": [
-          "5103 Kyle Center Dr",
-          "STE 108"
-        ],
-        "city": "KYLE",
-        "state": "TX",
-        "postalCode": "78640-6164"
+        "postalCode": "76502-1814"
       }
     ],
     "extension": [

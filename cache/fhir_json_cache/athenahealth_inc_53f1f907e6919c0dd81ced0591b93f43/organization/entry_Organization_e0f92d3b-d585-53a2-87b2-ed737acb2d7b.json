@@ -14,18 +14,34 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205844719"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1598788218"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1528082336"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1205844719"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1845 Cherry Street"
+        ],
+        "city": "MONTGOMERY",
+        "state": "AL",
+        "postalCode": "36107-2613"
+      },
+      {
+        "line": [
+          "107 Medical Center Dr"
+        ],
+        "city": "CLANTON",
+        "state": "AL",
+        "postalCode": "35045-2331"
+      },
       {
         "line": [
           "5492 State Highway 94 East"
@@ -41,22 +57,6 @@
         "city": "ECLECTIC",
         "state": "AL",
         "postalCode": "36024-6201"
-      },
-      {
-        "line": [
-          "107 Medical Center Dr"
-        ],
-        "city": "CLANTON",
-        "state": "AL",
-        "postalCode": "35045-2331"
-      },
-      {
-        "line": [
-          "1845 Cherry Street"
-        ],
-        "city": "MONTGOMERY",
-        "state": "AL",
-        "postalCode": "36107-2613"
       }
     ],
     "extension": [

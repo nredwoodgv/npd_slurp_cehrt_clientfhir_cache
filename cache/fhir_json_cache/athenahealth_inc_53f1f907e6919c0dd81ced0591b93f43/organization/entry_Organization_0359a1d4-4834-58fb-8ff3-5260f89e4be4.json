@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396068318"
+        "value": "1861765364"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,15 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861765364"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659360964"
+        "value": "1396068318"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1255848719"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1659360964"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,15 +42,15 @@
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "19D2001636"
-      },
-      {
-        "system": "urn:oid:2.16.840.1.113883.4.7",
         "value": "19D2001635"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
         "value": "19D2001637"
+      },
+      {
+        "system": "urn:oid:2.16.840.1.113883.4.7",
+        "value": "19D2001636"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
@@ -60,11 +60,11 @@
     "address": [
       {
         "line": [
-          "8585 picardy ave"
+          "8080 Bluebonnet Blvd."
         ],
         "city": "BATON ROUGE",
         "state": "LA",
-        "postalCode": "70809-3679"
+        "postalCode": "70810-7827"
       },
       {
         "line": [
@@ -76,19 +76,27 @@
       },
       {
         "line": [
-          "8080 Bluebonnet Blvd."
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70810-7827"
-      },
-      {
-        "line": [
           "7145 Perkins Rd."
         ],
         "city": "BATON ROUGE",
         "state": "LA",
         "postalCode": "70808-4322"
+      },
+      {
+        "line": [
+          "8585 picardy ave"
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70809-3679"
+      },
+      {
+        "line": [
+          "5000 Hennessy Blvd."
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70808-4375"
       },
       {
         "line": [
@@ -98,14 +106,6 @@
         "city": "BATON ROUGE",
         "state": "LA",
         "postalCode": "70895-9009"
-      },
-      {
-        "line": [
-          "5000 Hennessy Blvd."
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70808-4375"
       }
     ],
     "extension": [

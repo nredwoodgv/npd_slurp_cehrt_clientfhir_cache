@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831461755"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1891737185"
       },
       {
@@ -23,28 +27,17 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1003250473"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831461755"
       }
     ],
     "address": [
       {
         "line": [
-          "310 SOUTH LIMESTONE ST"
+          "3205 SUMMIT SQUARE PL",
+          "SUITE 100"
         ],
         "city": "LEXINGTON",
         "state": "KY",
-        "postalCode": "40508-3008"
-      },
-      {
-        "line": [
-          "124 PORTMAN AVE"
-        ],
-        "city": "STANFORD",
-        "state": "KY",
-        "postalCode": "40484-1230"
+        "postalCode": "40509-2650"
       },
       {
         "line": [
@@ -80,12 +73,19 @@
       },
       {
         "line": [
-          "3205 SUMMIT SQUARE PL",
-          "SUITE 100"
+          "310 SOUTH LIMESTONE ST"
         ],
         "city": "LEXINGTON",
         "state": "KY",
-        "postalCode": "40509-2650"
+        "postalCode": "40508-3008"
+      },
+      {
+        "line": [
+          "124 PORTMAN AVE"
+        ],
+        "city": "STANFORD",
+        "state": "KY",
+        "postalCode": "40484-1230"
       }
     ],
     "extension": [

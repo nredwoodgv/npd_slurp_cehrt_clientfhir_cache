@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952503054"
+        "value": "1366469926"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366469926"
+        "value": "1952503054"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1406 W RANDAL MILL RD"
-        ],
-        "city": "ARLINGTON",
-        "state": "TX",
-        "postalCode": "76012-3115"
-      },
       {
         "line": [
           "3939 W Green Oaks Blvd",
@@ -47,6 +39,14 @@
         "city": "HOUSTON",
         "state": "TX",
         "postalCode": "77070-4538"
+      },
+      {
+        "line": [
+          "1406 W RANDAL MILL RD"
+        ],
+        "city": "ARLINGTON",
+        "state": "TX",
+        "postalCode": "76012-3115"
       },
       {
         "line": [

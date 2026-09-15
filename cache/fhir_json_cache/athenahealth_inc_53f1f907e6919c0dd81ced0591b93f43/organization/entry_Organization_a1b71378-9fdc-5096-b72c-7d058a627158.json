@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558886218"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770834244"
+        "value": "1922775956"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922775956"
+        "value": "1770834244"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1558886218"
       }
     ],
     "address": [
@@ -40,19 +40,19 @@
       },
       {
         "line": [
-          "1250 Valley View Dr."
-        ],
-        "city": "DELTA",
-        "state": "CO",
-        "postalCode": "81416-2229"
-      },
-      {
-        "line": [
           "1250 VALLEY VIEW DR"
         ],
         "city": "DELTA",
         "state": "CO",
         "postalCode": "81416-3138"
+      },
+      {
+        "line": [
+          "87 MERCHANT DR"
+        ],
+        "city": "MONTROSE",
+        "state": "CO",
+        "postalCode": "81401-3015"
       },
       {
         "line": [
@@ -64,11 +64,11 @@
       },
       {
         "line": [
-          "87 MERCHANT DR"
+          "1250 Valley View Dr."
         ],
-        "city": "MONTROSE",
+        "city": "DELTA",
         "state": "CO",
-        "postalCode": "81401-3015"
+        "postalCode": "81416-2229"
       }
     ],
     "extension": [

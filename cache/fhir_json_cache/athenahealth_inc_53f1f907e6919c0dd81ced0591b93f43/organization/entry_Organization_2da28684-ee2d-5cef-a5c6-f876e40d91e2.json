@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598958431"
+        "value": "1447524392"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447524392"
+        "value": "1598958431"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1808 Highway 97 E."
+        ],
+        "city": "JOURDANTON",
+        "state": "TX",
+        "postalCode": "78026-1535"
+      },
       {
         "line": [
           "602 31st Street"
@@ -29,6 +37,14 @@
         "city": "HONDO",
         "state": "TX",
         "postalCode": "78861-3512"
+      },
+      {
+        "line": [
+          "3103 Megan Street"
+        ],
+        "city": "EAGLE PASS",
+        "state": "TX",
+        "postalCode": "78852-5891"
       },
       {
         "line": [
@@ -45,22 +61,6 @@
         "city": "SAN ANTONIO",
         "state": "TX",
         "postalCode": "78217-5320"
-      },
-      {
-        "line": [
-          "1808 Highway 97 E."
-        ],
-        "city": "JOURDANTON",
-        "state": "TX",
-        "postalCode": "78026-1535"
-      },
-      {
-        "line": [
-          "3103 Megan Street"
-        ],
-        "city": "EAGLE PASS",
-        "state": "TX",
-        "postalCode": "78852-5891"
       },
       {
         "line": [

@@ -22,15 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417142662"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285674572"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1255308342"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417142662"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -44,19 +44,19 @@
     "address": [
       {
         "line": [
-          "4721 Sunset Boulevard Suite A"
-        ],
-        "city": "LEXINGTON",
-        "state": "SC",
-        "postalCode": "29072-9151"
-      },
-      {
-        "line": [
           "14 Richland Medical Park Suite 200"
         ],
         "city": "Columbia",
         "state": "SC",
         "postalCode": "29203-6882"
+      },
+      {
+        "line": [
+          "4721 Sunset Boulevard Suite A"
+        ],
+        "city": "LEXINGTON",
+        "state": "SC",
+        "postalCode": "29072-9151"
       }
     ],
     "extension": [

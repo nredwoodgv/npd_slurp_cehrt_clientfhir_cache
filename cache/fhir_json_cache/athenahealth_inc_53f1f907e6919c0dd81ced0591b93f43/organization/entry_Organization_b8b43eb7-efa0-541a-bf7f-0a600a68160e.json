@@ -14,22 +14,30 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417683707"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730903675"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861382004"
+        "value": "1417683707"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578334058"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861382004"
       }
     ],
     "address": [
+      {
+        "line": [
+          "4300 PARK RD"
+        ],
+        "city": "CHARLOTTE",
+        "state": "NC",
+        "postalCode": "28209-2271"
+      },
       {
         "line": [
           "4711 CURRY FORD RD",
@@ -50,19 +58,12 @@
       },
       {
         "line": [
-          "606 N 1ST ST"
+          "3800 W EAU GALLIE BLVD",
+          "STE 105"
         ],
-        "city": "ALBEMARLE",
-        "state": "NC",
-        "postalCode": "28001-3300"
-      },
-      {
-        "line": [
-          "4300 PARK RD"
-        ],
-        "city": "CHARLOTTE",
-        "state": "NC",
-        "postalCode": "28209-2271"
+        "city": "MELBOURNE",
+        "state": "FL",
+        "postalCode": "32934-3285"
       },
       {
         "line": [
@@ -75,20 +76,11 @@
       },
       {
         "line": [
-          "8101 BOAT CLUB RD STE 318"
+          "606 N 1ST ST"
         ],
-        "city": "FORT WORTH",
-        "state": "TX",
-        "postalCode": "76179-3633"
-      },
-      {
-        "line": [
-          "3800 W EAU GALLIE BLVD",
-          "STE 105"
-        ],
-        "city": "MELBOURNE",
-        "state": "FL",
-        "postalCode": "32934-3285"
+        "city": "ALBEMARLE",
+        "state": "NC",
+        "postalCode": "28001-3300"
       },
       {
         "line": [
@@ -98,6 +90,14 @@
         "city": "ROYAL OAK",
         "state": "MI",
         "postalCode": "48067-1813"
+      },
+      {
+        "line": [
+          "8101 BOAT CLUB RD STE 318"
+        ],
+        "city": "FORT WORTH",
+        "state": "TX",
+        "postalCode": "76179-3633"
       }
     ],
     "extension": [

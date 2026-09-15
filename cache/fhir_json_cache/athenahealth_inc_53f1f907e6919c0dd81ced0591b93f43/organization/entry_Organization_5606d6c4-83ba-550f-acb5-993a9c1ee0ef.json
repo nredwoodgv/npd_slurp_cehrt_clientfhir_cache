@@ -14,29 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790942381"
+        "value": "1457183311"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457183311"
+        "value": "1790942381"
       }
     ],
     "address": [
       {
         "line": [
-          "340 Hospital Drive"
+          "777 Hemlock Street"
         ],
         "city": "MACON",
         "state": "GA",
-        "postalCode": "31217-3838"
-      },
-      {
-        "line": [
-          "200 Industrial Boulevard"
-        ],
-        "city": "DUBLIN",
-        "state": "GA",
-        "postalCode": "31021-2981"
+        "postalCode": "31201-2102"
       },
       {
         "line": [
@@ -48,11 +40,11 @@
       },
       {
         "line": [
-          "460 MALL BLVD"
+          "440 MALL BLVD STE C"
         ],
         "city": "SAVANNAH",
         "state": "GA",
-        "postalCode": "31406-0001"
+        "postalCode": "31406-4868"
       },
       {
         "line": [
@@ -61,6 +53,30 @@
         "city": "SYLVANIA",
         "state": "GA",
         "postalCode": "30467-1994"
+      },
+      {
+        "line": [
+          "247 S Main St"
+        ],
+        "city": "REIDSVILLE",
+        "state": "GA",
+        "postalCode": "30453-4605"
+      },
+      {
+        "line": [
+          "460 MALL BLVD"
+        ],
+        "city": "SAVANNAH",
+        "state": "GA",
+        "postalCode": "31406-0001"
+      },
+      {
+        "line": [
+          "200 Industrial Boulevard"
+        ],
+        "city": "DUBLIN",
+        "state": "GA",
+        "postalCode": "31021-2981"
       },
       {
         "line": [
@@ -74,17 +90,9 @@
         "line": [
           "247 S Main St"
         ],
-        "city": "REIDSVILLE",
+        "city": "SAVANNAH",
         "state": "GA",
-        "postalCode": "30453-4605"
-      },
-      {
-        "line": [
-          "777 Hemlock Street"
-        ],
-        "city": "MACON",
-        "state": "GA",
-        "postalCode": "31201-2102"
+        "postalCode": "31406-4868"
       },
       {
         "line": [
@@ -96,6 +104,14 @@
       },
       {
         "line": [
+          "340 Hospital Drive"
+        ],
+        "city": "MACON",
+        "state": "GA",
+        "postalCode": "31217-3838"
+      },
+      {
+        "line": [
           "460 MALL BLVD STE B"
         ],
         "city": "SAVANNAH",
@@ -104,19 +120,11 @@
       },
       {
         "line": [
-          "440 MALL BLVD STE C"
+          "1601 FAIR RD"
         ],
-        "city": "SAVANNAH",
+        "city": "STATESBORO",
         "state": "GA",
-        "postalCode": "31406-4868"
-      },
-      {
-        "line": [
-          "247 S Main St"
-        ],
-        "city": "SAVANNAH",
-        "state": "GA",
-        "postalCode": "31406-4868"
+        "postalCode": "30458-1698"
       },
       {
         "line": [
@@ -126,14 +134,6 @@
         "city": "VIDALIA",
         "state": "GA",
         "postalCode": "30474-7241"
-      },
-      {
-        "line": [
-          "1601 FAIR RD"
-        ],
-        "city": "STATESBORO",
-        "state": "GA",
-        "postalCode": "30458-1698"
       }
     ],
     "extension": [

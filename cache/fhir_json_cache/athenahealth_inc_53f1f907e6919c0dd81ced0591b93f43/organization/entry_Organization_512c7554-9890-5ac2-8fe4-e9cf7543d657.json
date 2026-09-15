@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033294673"
+        "value": "1396798302"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,11 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881981033"
+        "value": "1033294673"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396798302"
+        "value": "1881981033"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -40,7 +40,23 @@
     "address": [
       {
         "line": [
+          "2000 Church St"
+        ],
+        "city": "Nashville",
+        "state": "TN",
+        "postalCode": "37236-0001"
+      },
+      {
+        "line": [
           "2000 CHURCH ST"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37236-0001"
+      },
+      {
+        "line": [
+          "2000 Church St"
         ],
         "city": "NASHVILLE",
         "state": "TN",
@@ -53,22 +69,6 @@
         "city": "NASHVILLE",
         "state": "TN",
         "postalCode": "37236-4400"
-      },
-      {
-        "line": [
-          "2000 Church St"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37236-0001"
-      },
-      {
-        "line": [
-          "2000 Church St"
-        ],
-        "city": "Nashville",
-        "state": "TN",
-        "postalCode": "37236-0001"
       }
     ],
     "extension": [

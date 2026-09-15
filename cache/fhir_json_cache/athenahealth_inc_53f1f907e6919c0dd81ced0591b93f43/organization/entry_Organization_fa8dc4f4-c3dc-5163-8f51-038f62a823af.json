@@ -14,21 +14,38 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649501347"
+        "value": "1750814737"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750814737"
+        "value": "1649501347"
       }
     ],
     "address": [
       {
         "line": [
-          "4255 N MacArthur Blvd"
+          "670 N MacArthur Blvd",
+          "Ste 100"
+        ],
+        "city": "COPPELL",
+        "state": "TX",
+        "postalCode": "75019-2733"
+      },
+      {
+        "line": [
+          "2120 N MACARTHUR BLVD STE 200"
         ],
         "city": "IRVING",
         "state": "TX",
-        "postalCode": "75038-6412"
+        "postalCode": "75061-2205"
+      },
+      {
+        "line": [
+          "580 S Denton Tap Rd"
+        ],
+        "city": "COPPELL",
+        "state": "TX",
+        "postalCode": "75019-4098"
       },
       {
         "line": [
@@ -41,11 +58,11 @@
       },
       {
         "line": [
-          "580 S Denton Tap Rd"
+          "4500 Medical Center Dr"
         ],
-        "city": "COPPELL",
+        "city": "MCKINNEY",
         "state": "TX",
-        "postalCode": "75019-4098"
+        "postalCode": "75069-1650"
       },
       {
         "line": [
@@ -58,28 +75,11 @@
       },
       {
         "line": [
-          "4500 Medical Center Dr"
-        ],
-        "city": "MCKINNEY",
-        "state": "TX",
-        "postalCode": "75069-1650"
-      },
-      {
-        "line": [
-          "2120 N MACARTHUR BLVD STE 200"
+          "4255 N MacArthur Blvd"
         ],
         "city": "IRVING",
         "state": "TX",
-        "postalCode": "75061-2205"
-      },
-      {
-        "line": [
-          "670 N MacArthur Blvd",
-          "Ste 100"
-        ],
-        "city": "COPPELL",
-        "state": "TX",
-        "postalCode": "75019-2733"
+        "postalCode": "75038-6412"
       }
     ],
     "extension": [

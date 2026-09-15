@@ -14,38 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063923399"
+        "value": "1902215106"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902215106"
+        "value": "1063923399"
       }
     ],
     "address": [
-      {
-        "line": [
-          "180 DERBY ST"
-        ],
-        "city": "SALEM",
-        "state": "MA",
-        "postalCode": "01970-5135"
-      },
-      {
-        "line": [
-          "147 S. Main Street"
-        ],
-        "city": "MIDDLETON",
-        "state": "MA",
-        "postalCode": "01949-2446"
-      },
-      {
-        "line": [
-          "1100 MAIN ST"
-        ],
-        "city": "READING",
-        "state": "MA",
-        "postalCode": "01867-1302"
-      },
       {
         "line": [
           "50 Endicott Street"
@@ -56,75 +32,11 @@
       },
       {
         "line": [
-          "220 Conant Street"
+          "14 Wallace Bashaw Way"
         ],
-        "city": "DANVERS",
+        "city": "NEWBURYPORT",
         "state": "MA",
-        "postalCode": "01923-2564"
-      },
-      {
-        "line": [
-          "149 COUNTY ROAD"
-        ],
-        "city": "IPSWICH",
-        "state": "MA",
-        "postalCode": "01938-2651"
-      },
-      {
-        "line": [
-          "69 Washington Street"
-        ],
-        "city": "TOPSFIELD",
-        "state": "MA",
-        "postalCode": "01983-1746"
-      },
-      {
-        "line": [
-          "700 Chickering Road"
-        ],
-        "city": "NORTH ANDOVER",
-        "state": "MA",
-        "postalCode": "01845-1928"
-      },
-      {
-        "line": [
-          "1 Orthopedics Dr #1"
-        ],
-        "city": "PEABODY",
-        "state": "MA",
-        "postalCode": "01960-1669"
-      },
-      {
-        "line": [
-          "141 Elm Street"
-        ],
-        "city": "ANDOVER",
-        "state": "MA",
-        "postalCode": "01810-1600"
-      },
-      {
-        "line": [
-          "254 Lowell Street"
-        ],
-        "city": "ANDOVER",
-        "state": "MA",
-        "postalCode": "01810-4600"
-      },
-      {
-        "line": [
-          "123 High Street"
-        ],
-        "city": "TOPSFIELD",
-        "state": "MA",
-        "postalCode": "01983-1921"
-      },
-      {
-        "line": [
-          "189 MAPLE ST"
-        ],
-        "city": "LAWRENCE",
-        "state": "MA",
-        "postalCode": "01841-3761"
+        "postalCode": "01950-3879"
       },
       {
         "line": [
@@ -136,6 +48,14 @@
       },
       {
         "line": [
+          "224 SALEM ST"
+        ],
+        "city": "SWAMPSCOTT",
+        "state": "MA",
+        "postalCode": "01907-1396"
+      },
+      {
+        "line": [
           "21 Centennial Drive"
         ],
         "city": "PEABODY",
@@ -144,31 +64,7 @@
       },
       {
         "line": [
-          "147 S MAIN ST"
-        ],
-        "city": "MIDDLETON",
-        "state": "MA",
-        "postalCode": "01949-2446"
-      },
-      {
-        "line": [
-          "1 Veronica Drive"
-        ],
-        "city": "DANVERS",
-        "state": "MA",
-        "postalCode": "01923-5213"
-      },
-      {
-        "line": [
-          "301 BROOKSBY VILLAGE DRIVE"
-        ],
-        "city": "PEABODY",
-        "state": "MA",
-        "postalCode": "01960-8546"
-      },
-      {
-        "line": [
-          "147 S MAIN ST # 147"
+          "147 S Main St"
         ],
         "city": "MIDDLETON",
         "state": "MA",
@@ -184,6 +80,14 @@
       },
       {
         "line": [
+          "123 High Street"
+        ],
+        "city": "TOPSFIELD",
+        "state": "MA",
+        "postalCode": "01983-1921"
+      },
+      {
+        "line": [
           "105 Cherry Hill Dr"
         ],
         "city": "BEVERLY",
@@ -192,19 +96,43 @@
       },
       {
         "line": [
-          "89 Herrick Street"
+          "1 Orthopedics Dr #1"
         ],
-        "city": "BEVERLY",
+        "city": "PEABODY",
         "state": "MA",
-        "postalCode": "01915-2767"
+        "postalCode": "01960-1669"
       },
       {
         "line": [
-          "220 Conant Street"
+          "254 AMESBURY RD"
         ],
-        "city": "DANVERS",
+        "city": "HAVERHILL",
         "state": "MA",
-        "postalCode": "01923-2586"
+        "postalCode": "01830-2348"
+      },
+      {
+        "line": [
+          "240 Lynnfield Street"
+        ],
+        "city": "PEABODY",
+        "state": "MA",
+        "postalCode": "01960-5055"
+      },
+      {
+        "line": [
+          "301 BROOKSBY VILLAGE DRIVE"
+        ],
+        "city": "PEABODY",
+        "state": "MA",
+        "postalCode": "01960-8546"
+      },
+      {
+        "line": [
+          "147 S MAIN ST"
+        ],
+        "city": "MIDDLETON",
+        "state": "MA",
+        "postalCode": "01949-2446"
       },
       {
         "line": [
@@ -216,11 +144,11 @@
       },
       {
         "line": [
-          "14 Wallace Bashaw Way"
+          "220 Conant Street"
         ],
-        "city": "NEWBURYPORT",
+        "city": "DANVERS",
         "state": "MA",
-        "postalCode": "01950-3879"
+        "postalCode": "01923-2586"
       },
       {
         "line": [
@@ -232,11 +160,75 @@
       },
       {
         "line": [
-          "147 S. Main St"
+          "149 COUNTY ROAD"
         ],
-        "city": "MIDDLETON",
+        "city": "IPSWICH",
         "state": "MA",
-        "postalCode": "01949-2446"
+        "postalCode": "01938-2651"
+      },
+      {
+        "line": [
+          "89 Herrick Street"
+        ],
+        "city": "BEVERLY",
+        "state": "MA",
+        "postalCode": "01915-2767"
+      },
+      {
+        "line": [
+          "69 Washington Street"
+        ],
+        "city": "TOPSFIELD",
+        "state": "MA",
+        "postalCode": "01983-1746"
+      },
+      {
+        "line": [
+          "1100 MAIN ST"
+        ],
+        "city": "READING",
+        "state": "MA",
+        "postalCode": "01867-1302"
+      },
+      {
+        "line": [
+          "85 Story Ave"
+        ],
+        "city": "NEWBURYPORT",
+        "state": "MA",
+        "postalCode": "01950-3559"
+      },
+      {
+        "line": [
+          "60 Cardninal William O'Connell Way"
+        ],
+        "city": "BOSTON",
+        "state": "MA",
+        "postalCode": "02114-2709"
+      },
+      {
+        "line": [
+          "55 Salem Street"
+        ],
+        "city": "LYNNFIELD",
+        "state": "MA",
+        "postalCode": "01940-2621"
+      },
+      {
+        "line": [
+          "180 DERBY ST"
+        ],
+        "city": "SALEM",
+        "state": "MA",
+        "postalCode": "01970-5135"
+      },
+      {
+        "line": [
+          "21 Crescent Street"
+        ],
+        "city": "WAKEFIELD",
+        "state": "MA",
+        "postalCode": "01880-2468"
       },
       {
         "line": [
@@ -249,23 +241,7 @@
       },
       {
         "line": [
-          "55 Salem Street"
-        ],
-        "city": "LYNNFIELD",
-        "state": "MA",
-        "postalCode": "01940-2621"
-      },
-      {
-        "line": [
-          "254 AMESBURY RD"
-        ],
-        "city": "HAVERHILL",
-        "state": "MA",
-        "postalCode": "01830-2348"
-      },
-      {
-        "line": [
-          "147 S Main St"
+          "147 S. Main St"
         ],
         "city": "MIDDLETON",
         "state": "MA",
@@ -273,27 +249,43 @@
       },
       {
         "line": [
-          "60 Cardninal William O'Connell Way"
+          "147 S. Main Street"
         ],
-        "city": "BOSTON",
+        "city": "MIDDLETON",
         "state": "MA",
-        "postalCode": "02114-2709"
+        "postalCode": "01949-2446"
       },
       {
         "line": [
-          "240 Lynnfield Street"
+          "254 Lowell Street"
         ],
-        "city": "PEABODY",
+        "city": "ANDOVER",
         "state": "MA",
-        "postalCode": "01960-5055"
+        "postalCode": "01810-4600"
       },
       {
         "line": [
-          "224 SALEM ST"
+          "147 S MAIN ST # 147"
         ],
-        "city": "SWAMPSCOTT",
+        "city": "MIDDLETON",
         "state": "MA",
-        "postalCode": "01907-1396"
+        "postalCode": "01949-2446"
+      },
+      {
+        "line": [
+          "220 Conant Street"
+        ],
+        "city": "DANVERS",
+        "state": "MA",
+        "postalCode": "01923-2564"
+      },
+      {
+        "line": [
+          "700 Chickering Road"
+        ],
+        "city": "NORTH ANDOVER",
+        "state": "MA",
+        "postalCode": "01845-1928"
       },
       {
         "line": [
@@ -305,11 +297,11 @@
       },
       {
         "line": [
-          "85 Story Ave"
+          "141 Elm Street"
         ],
-        "city": "NEWBURYPORT",
+        "city": "ANDOVER",
         "state": "MA",
-        "postalCode": "01950-3559"
+        "postalCode": "01810-1600"
       },
       {
         "line": [
@@ -321,11 +313,19 @@
       },
       {
         "line": [
-          "21 Crescent Street"
+          "189 MAPLE ST"
         ],
-        "city": "WAKEFIELD",
+        "city": "LAWRENCE",
         "state": "MA",
-        "postalCode": "01880-2468"
+        "postalCode": "01841-3761"
+      },
+      {
+        "line": [
+          "1 Veronica Drive"
+        ],
+        "city": "DANVERS",
+        "state": "MA",
+        "postalCode": "01923-5213"
       }
     ],
     "extension": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437770468"
+        "value": "1447970587"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447970587"
+        "value": "1437770468"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,12 +28,12 @@
     "address": [
       {
         "line": [
-          "16100 Sand Canyon Ave",
-          "Suite 240"
+          "2520 Samaritan Dr",
+          "#201B"
         ],
-        "city": "IRVINE",
+        "city": "SAN JOSE",
         "state": "CA",
-        "postalCode": "92618-3724"
+        "postalCode": "95124-4106"
       },
       {
         "line": [
@@ -42,14 +42,6 @@
         "city": "DOWNEY",
         "state": "CA",
         "postalCode": "90240-4020"
-      },
-      {
-        "line": [
-          "4540 E 7TH ST"
-        ],
-        "city": "LONG BEACH",
-        "state": "CA",
-        "postalCode": "90804-4327"
       },
       {
         "line": [
@@ -62,6 +54,14 @@
       },
       {
         "line": [
+          "4540 E 7TH ST"
+        ],
+        "city": "LONG BEACH",
+        "state": "CA",
+        "postalCode": "90804-4327"
+      },
+      {
+        "line": [
           "6 LANDMARK SQ FL 4"
         ],
         "city": "STAMFORD",
@@ -70,12 +70,12 @@
       },
       {
         "line": [
-          "2520 Samaritan Dr",
-          "#201B"
+          "16100 Sand Canyon Ave",
+          "Suite 240"
         ],
-        "city": "SAN JOSE",
+        "city": "IRVINE",
         "state": "CA",
-        "postalCode": "95124-4106"
+        "postalCode": "92618-3724"
       }
     ],
     "extension": [

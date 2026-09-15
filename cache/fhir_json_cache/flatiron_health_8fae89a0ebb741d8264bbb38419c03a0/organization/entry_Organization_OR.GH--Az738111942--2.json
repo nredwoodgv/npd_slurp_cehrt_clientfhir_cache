@@ -18,7 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "000000000"
+        "value": "19028854229"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "19028854229"
+        "value": "000000000"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,10 +58,6 @@
       },
       {
         "system": "phone",
-        "value": "(555)867-5309"
-      },
-      {
-        "system": "phone",
         "value": "(315)448-5111"
       },
       {
@@ -83,9 +79,24 @@
       {
         "system": "phone",
         "value": "(315)464-5540"
+      },
+      {
+        "system": "phone",
+        "value": "(555)867-5309"
       }
     ],
     "address": [
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "5008 Brittonfield Parkway"
+        ],
+        "city": "East Syracuse",
+        "state": "NY",
+        "postalCode": "13057",
+        "country": "USA"
+      },
       {
         "use": "work",
         "type": "postal",
@@ -101,11 +112,11 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1313 Mockingbird Lane"
+          "37 West Garden Street"
         ],
-        "city": "Mockingbird Heights",
-        "state": "CA",
-        "postalCode": "90210",
+        "city": "Auburn",
+        "state": "NY",
+        "postalCode": "13021-2657",
         "country": "USA"
       },
       {
@@ -123,17 +134,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "5008 Brittonfield Parkway"
-        ],
-        "city": "East Syracuse",
-        "state": "NY",
-        "postalCode": "13057",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "5490 Cobbler Way"
         ],
         "city": "Camillus",
@@ -145,11 +145,11 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "37 West Garden Street"
+          "Please refer to orders for location"
         ],
-        "city": "Auburn",
+        "city": "Unknown",
         "state": "NY",
-        "postalCode": "13021-2657",
+        "postalCode": "00000",
         "country": "USA"
       },
       {
@@ -211,11 +211,11 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "Please refer to orders for location"
+          "1313 Mockingbird Lane"
         ],
-        "city": "Unknown",
-        "state": "NY",
-        "postalCode": "00000",
+        "city": "Mockingbird Heights",
+        "state": "CA",
+        "postalCode": "90210",
         "country": "USA"
       }
     ],

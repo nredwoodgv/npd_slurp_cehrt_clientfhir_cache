@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295776243"
+        "value": "1316154958"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316154958"
+        "value": "1295776243"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,20 +28,11 @@
     "address": [
       {
         "line": [
-          "10275 HAGEN RANCH RD"
+          "200 3RD"
         ],
-        "city": "BOYNTON BEACH",
+        "city": "BRADENTON",
         "state": "FL",
-        "postalCode": "33437-3783"
-      },
-      {
-        "line": [
-          "4211 W Boy Scout Blvd",
-          "Suite 400"
-        ],
-        "city": "TAMPA",
-        "state": "FL",
-        "postalCode": "33607-5724"
+        "postalCode": "34205-8632"
       },
       {
         "line": [
@@ -53,22 +44,6 @@
       },
       {
         "line": [
-          "10275 HAGEN RANCH RD STE 100"
-        ],
-        "city": "BOYNTON BEACH",
-        "state": "FL",
-        "postalCode": "33437-3784"
-      },
-      {
-        "line": [
-          "200 3RD"
-        ],
-        "city": "BRADENTON",
-        "state": "FL",
-        "postalCode": "34205-8632"
-      },
-      {
-        "line": [
           "111 SE OSCEOLA ST STE 201"
         ],
         "city": "STUART",
@@ -77,12 +52,43 @@
       },
       {
         "line": [
-          "5540 E GRANT ST",
-          "STE B"
+          "10275 HAGEN RANCH RD STE 100"
         ],
-        "city": "ORLANDO",
+        "city": "BOYNTON BEACH",
         "state": "FL",
-        "postalCode": "32822-1668"
+        "postalCode": "33437-3784"
+      },
+      {
+        "line": [
+          "6640 78TH AVE N STE A"
+        ],
+        "city": "PINELLAS PARK",
+        "state": "FL",
+        "postalCode": "33781-2064"
+      },
+      {
+        "line": [
+          "10275 HAGEN RANCH RD"
+        ],
+        "city": "BOYNTON BEACH",
+        "state": "FL",
+        "postalCode": "33437-3783"
+      },
+      {
+        "line": [
+          "501 GLADES RD"
+        ],
+        "city": "BOCA RATON",
+        "state": "FL",
+        "postalCode": "33432-1419"
+      },
+      {
+        "line": [
+          "16855 NE 2ND AVE UNIT N302"
+        ],
+        "city": "MIAMI",
+        "state": "FL",
+        "postalCode": "33162-1744"
       },
       {
         "line": [
@@ -95,27 +101,21 @@
       },
       {
         "line": [
-          "501 GLADES RD"
+          "4211 W Boy Scout Blvd",
+          "Suite 400"
         ],
-        "city": "BOCA RATON",
+        "city": "TAMPA",
         "state": "FL",
-        "postalCode": "33432-1419"
+        "postalCode": "33607-5724"
       },
       {
         "line": [
-          "6640 78TH AVE N STE A"
+          "5540 E GRANT ST",
+          "STE B"
         ],
-        "city": "PINELLAS PARK",
+        "city": "ORLANDO",
         "state": "FL",
-        "postalCode": "33781-2064"
-      },
-      {
-        "line": [
-          "16855 NE 2ND AVE UNIT N302"
-        ],
-        "city": "MIAMI",
-        "state": "FL",
-        "postalCode": "33162-1744"
+        "postalCode": "32822-1668"
       }
     ],
     "extension": [

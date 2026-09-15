@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578612735"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1366591794"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1457400806"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578612735"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,20 +32,20 @@
     "address": [
       {
         "line": [
+          "111 S Hamilton"
+        ],
+        "city": "MARSHALL",
+        "state": "MI",
+        "postalCode": "49068-1537"
+      },
+      {
+        "line": [
           "215 E MANSION ST",
           "STE 2D"
         ],
         "city": "MARSHALL",
         "state": "MI",
         "postalCode": "49068-1167"
-      },
-      {
-        "line": [
-          "111 S Hamilton"
-        ],
-        "city": "MARSHALL",
-        "state": "MI",
-        "postalCode": "49068-1537"
       }
     ],
     "extension": [

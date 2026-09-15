@@ -14,21 +14,37 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104539774"
+        "value": "1659301992"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659301992"
+        "value": "1104539774"
       }
     ],
     "address": [
       {
         "line": [
-          "323 S MINNESOTA ST"
+          "6600 state hwy 29 s"
         ],
-        "city": "CROOKSTON",
+        "city": "ALEXANDRIA",
         "state": "MN",
-        "postalCode": "56716-1601"
+        "postalCode": "56308-6196"
+      },
+      {
+        "line": [
+          "111 17th Ave East"
+        ],
+        "city": "ALEXANDRIA",
+        "state": "MN",
+        "postalCode": "56308-3798"
+      },
+      {
+        "line": [
+          "2450 Riverside AVE"
+        ],
+        "city": "MINNEAPOLIS",
+        "state": "MN",
+        "postalCode": "55454-0355"
       },
       {
         "line": [
@@ -40,11 +56,20 @@
       },
       {
         "line": [
-          "2450 Riverside AVE"
+          "323 S MINNESOTA ST"
         ],
-        "city": "MINNEAPOLIS",
+        "city": "CROOKSTON",
         "state": "MN",
-        "postalCode": "55454-0355"
+        "postalCode": "56716-1601"
+      },
+      {
+        "line": [
+          "1601 East Hwy 13",
+          "Suite 211"
+        ],
+        "city": "BURNSVILLE",
+        "state": "MN",
+        "postalCode": "55337-5105"
       },
       {
         "line": [
@@ -64,36 +89,11 @@
       },
       {
         "line": [
-          "111 17th Ave East"
-        ],
-        "city": "ALEXANDRIA",
-        "state": "MN",
-        "postalCode": "56308-3798"
-      },
-      {
-        "line": [
           "111 17TH AVENUE EAST"
         ],
         "city": "ALEXANDRIA",
         "state": "MN",
         "postalCode": "56308-3798"
-      },
-      {
-        "line": [
-          "6600 state hwy 29 s"
-        ],
-        "city": "ALEXANDRIA",
-        "state": "MN",
-        "postalCode": "56308-6196"
-      },
-      {
-        "line": [
-          "1601 East Hwy 13",
-          "Suite 211"
-        ],
-        "city": "BURNSVILLE",
-        "state": "MN",
-        "postalCode": "55337-5105"
       },
       {
         "line": [

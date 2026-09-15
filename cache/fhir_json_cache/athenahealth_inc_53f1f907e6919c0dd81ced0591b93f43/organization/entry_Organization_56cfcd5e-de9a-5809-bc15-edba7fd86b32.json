@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003996679"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1437233426"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649555004"
+        "value": "1235219965"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,17 +26,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235219965"
+        "value": "1003996679"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649555004"
       }
     ],
     "address": [
       {
         "line": [
-          "5939 N Huron"
+          "4599 Towne Centre Rd"
         ],
-        "city": "OSCODA",
+        "city": "Saginaw",
         "state": "MI",
-        "postalCode": "48750-9710"
+        "postalCode": "48604-2801"
       },
       {
         "line": [
@@ -52,11 +52,11 @@
       },
       {
         "line": [
-          "4599 Towne Centre Rd"
+          "5939 N Huron"
         ],
-        "city": "Saginaw",
+        "city": "OSCODA",
         "state": "MI",
-        "postalCode": "48604-2801"
+        "postalCode": "48750-9710"
       }
     ],
     "extension": [

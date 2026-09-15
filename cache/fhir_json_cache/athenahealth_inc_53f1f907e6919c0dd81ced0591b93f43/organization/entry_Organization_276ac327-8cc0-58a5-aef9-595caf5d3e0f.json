@@ -14,17 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043144157"
+        "value": "1851144729"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1851144729"
+        "value": "1043144157"
       }
     ],
     "address": [
       {
         "line": [
-          "625 BROAD ST STE 240"
+          "625 BROAD ST",
+          "STE 240, Rm 236"
         ],
         "city": "NEWARK",
         "state": "NJ",
@@ -32,8 +33,7 @@
       },
       {
         "line": [
-          "625 BROAD ST",
-          "STE 240, Rm 236"
+          "625 BROAD ST STE 240"
         ],
         "city": "NEWARK",
         "state": "NJ",

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467918474"
+        "value": "1790425429"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518607241"
+        "value": "1467918474"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,18 +26,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790425429"
+        "value": "1518607241"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2350 Meadows Blvd"
-        ],
-        "city": "Castle Rock",
-        "state": "CO",
-        "postalCode": "80109-8405"
-      },
       {
         "line": [
           "7780 S Broadway",
@@ -46,6 +38,14 @@
         "city": "Littleton",
         "state": "CO",
         "postalCode": "80122-2633"
+      },
+      {
+        "line": [
+          "2350 Meadows Blvd"
+        ],
+        "city": "Castle Rock",
+        "state": "CO",
+        "postalCode": "80109-8405"
       }
     ],
     "extension": [

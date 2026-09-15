@@ -14,18 +14,17 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336995133"
+        "value": "1285043406"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285043406"
+        "value": "1336995133"
       }
     ],
     "address": [
       {
         "line": [
-          "10 PETERBORO ST",
-          "# 1"
+          "10 PETERBORO ST"
         ],
         "city": "DETROIT",
         "state": "MI",
@@ -33,7 +32,8 @@
       },
       {
         "line": [
-          "10 PETERBORO ST"
+          "10 PETERBORO ST",
+          "# 1"
         ],
         "city": "DETROIT",
         "state": "MI",

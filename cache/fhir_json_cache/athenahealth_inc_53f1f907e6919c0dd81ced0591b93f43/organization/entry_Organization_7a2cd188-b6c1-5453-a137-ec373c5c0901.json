@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427035039"
+        "value": "1568536480"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568536480"
+        "value": "1427035039"
       }
     ],
     "address": [
@@ -32,22 +32,6 @@
       },
       {
         "line": [
-          "3200 Center Valley Parkway"
-        ],
-        "city": "CENTER VALLEY",
-        "state": "PA",
-        "postalCode": "18034-9519"
-      },
-      {
-        "line": [
-          "5 South Broadway"
-        ],
-        "city": "WIND GAP",
-        "state": "PA",
-        "postalCode": "18091-1423"
-      },
-      {
-        "line": [
           "700 Lawn Ave"
         ],
         "city": "SELLERSVILLE",
@@ -56,19 +40,19 @@
       },
       {
         "line": [
-          "1872 St. Luke's Blvd."
+          "3200 Center Valley Parkway"
         ],
-        "city": "EASTON",
+        "city": "CENTER VALLEY",
         "state": "PA",
-        "postalCode": "18045-5669"
+        "postalCode": "18034-9519"
       },
       {
         "line": [
-          "175 East Brown Street"
+          "5666 CLYMER RD"
         ],
-        "city": "EAST STROUDSBURG",
+        "city": "QUAKERTOWN",
         "state": "PA",
-        "postalCode": "18301-3098"
+        "postalCode": "18951-3264"
       },
       {
         "line": [
@@ -80,11 +64,27 @@
       },
       {
         "line": [
-          "5666 CLYMER RD"
+          "175 East Brown Street"
         ],
-        "city": "QUAKERTOWN",
+        "city": "EAST STROUDSBURG",
         "state": "PA",
-        "postalCode": "18951-3264"
+        "postalCode": "18301-3098"
+      },
+      {
+        "line": [
+          "5 South Broadway"
+        ],
+        "city": "WIND GAP",
+        "state": "PA",
+        "postalCode": "18091-1423"
+      },
+      {
+        "line": [
+          "1872 St. Luke's Blvd."
+        ],
+        "city": "EASTON",
+        "state": "PA",
+        "postalCode": "18045-5669"
       }
     ],
     "extension": [

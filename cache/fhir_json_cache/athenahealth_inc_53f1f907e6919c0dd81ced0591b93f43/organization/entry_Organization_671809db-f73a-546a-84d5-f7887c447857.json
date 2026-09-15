@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508041427"
+        "value": "1538630827"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538630827"
+        "value": "1508041427"
       }
     ],
     "address": [
@@ -32,19 +32,27 @@
       },
       {
         "line": [
+          "148 CHESTNUT ST"
+        ],
+        "city": "NEEDHAM",
+        "state": "MA",
+        "postalCode": "02492-2505"
+      },
+      {
+        "line": [
+          "49 PEARL ST."
+        ],
+        "city": "BROCKTON",
+        "state": "MA",
+        "postalCode": "02301-2878"
+      },
+      {
+        "line": [
           "736 CAMBRIDGE ST"
         ],
         "city": "BRIGHTON",
         "state": "MA",
         "postalCode": "02135-2907"
-      },
-      {
-        "line": [
-          "71 BORDER RD"
-        ],
-        "city": "WALTHAM",
-        "state": "MA",
-        "postalCode": "02451-1037"
       },
       {
         "line": [
@@ -56,27 +64,11 @@
       },
       {
         "line": [
-          "148 CHESTNUT ST"
+          "923 HYDE PARK AVE"
         ],
-        "city": "NEEDHAM",
+        "city": "HYDE PARK",
         "state": "MA",
-        "postalCode": "02492-2505"
-      },
-      {
-        "line": [
-          "49 Pearl Street"
-        ],
-        "city": "BROCKTON",
-        "state": "MA",
-        "postalCode": "02301-2817"
-      },
-      {
-        "line": [
-          "49 PEARL ST."
-        ],
-        "city": "BROCKTON",
-        "state": "MA",
-        "postalCode": "02301-2878"
+        "postalCode": "02136-3371"
       },
       {
         "line": [
@@ -97,11 +89,19 @@
       },
       {
         "line": [
-          "923 HYDE PARK AVE"
+          "71 BORDER RD"
         ],
-        "city": "HYDE PARK",
+        "city": "WALTHAM",
         "state": "MA",
-        "postalCode": "02136-3371"
+        "postalCode": "02451-1037"
+      },
+      {
+        "line": [
+          "49 Pearl Street"
+        ],
+        "city": "BROCKTON",
+        "state": "MA",
+        "postalCode": "02301-2817"
       }
     ],
     "extension": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083532618"
+        "value": "1164720868"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164720868"
+        "value": "1083532618"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,7 +28,32 @@
     "address": [
       {
         "line": [
-          "1520 North Division Street"
+          "602 W Union Ave Ste B"
+        ],
+        "city": "OSCEOLA",
+        "state": "AR",
+        "postalCode": "72370-3001"
+      },
+      {
+        "line": [
+          "1520 NORTH DIVISION STREET"
+        ],
+        "city": "BLYTHEVILLE",
+        "state": "AR",
+        "postalCode": "72315-1448"
+      },
+      {
+        "line": [
+          "1520 North DIVISION Street",
+          "Great River Medical Center Anesthesia Department"
+        ],
+        "city": "BLYTHEVILLE",
+        "state": "AR",
+        "postalCode": "72315-1448"
+      },
+      {
+        "line": [
+          "1522 North Division"
         ],
         "city": "BLYTHEVILLE",
         "state": "AR",
@@ -44,46 +69,6 @@
       },
       {
         "line": [
-          "1520 North Division"
-        ],
-        "city": "BLYTHEVILLE",
-        "state": "AR",
-        "postalCode": "72315-1448"
-      },
-      {
-        "line": [
-          "1520 No Division"
-        ],
-        "city": "BLYTHEVILLE",
-        "state": "AR",
-        "postalCode": "72315-1448"
-      },
-      {
-        "line": [
-          "1520 NORTH DIVISION STREET"
-        ],
-        "city": "BLYTHEVILLE",
-        "state": "AR",
-        "postalCode": "72315-1448"
-      },
-      {
-        "line": [
-          "685 No County Road"
-        ],
-        "city": "LUXORA",
-        "state": "AR",
-        "postalCode": "72358-1424"
-      },
-      {
-        "line": [
-          "602 W Union Ave Ste B"
-        ],
-        "city": "OSCEOLA",
-        "state": "AR",
-        "postalCode": "72370-3001"
-      },
-      {
-        "line": [
           "1100 MEDICAL DRIVE"
         ],
         "city": "BLYTHEVILLE",
@@ -92,7 +77,7 @@
       },
       {
         "line": [
-          "1521 North 10th Suite G"
+          "1520 North Division"
         ],
         "city": "BLYTHEVILLE",
         "state": "AR",
@@ -108,7 +93,15 @@
       },
       {
         "line": [
-          "1522 North Division"
+          "685 No County Road"
+        ],
+        "city": "LUXORA",
+        "state": "AR",
+        "postalCode": "72358-1424"
+      },
+      {
+        "line": [
+          "1520 North Division Street"
         ],
         "city": "BLYTHEVILLE",
         "state": "AR",
@@ -116,8 +109,15 @@
       },
       {
         "line": [
-          "1520 North DIVISION Street",
-          "Great River Medical Center Anesthesia Department"
+          "1520 No Division"
+        ],
+        "city": "BLYTHEVILLE",
+        "state": "AR",
+        "postalCode": "72315-1448"
+      },
+      {
+        "line": [
+          "1521 North 10th Suite G"
         ],
         "city": "BLYTHEVILLE",
         "state": "AR",

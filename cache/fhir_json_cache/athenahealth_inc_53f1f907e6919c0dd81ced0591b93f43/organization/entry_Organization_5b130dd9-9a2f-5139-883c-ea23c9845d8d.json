@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023582038"
+        "value": "1487290615"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487290615"
+        "value": "1023582038"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,6 +26,14 @@
       }
     ],
     "address": [
+      {
+        "line": [
+          "1204 West 10th Street"
+        ],
+        "city": "METROPOLIS",
+        "state": "IL",
+        "postalCode": "62960-2433"
+      },
       {
         "line": [
           "16338 N IL HIGHWAY 37"
@@ -36,11 +44,11 @@
       },
       {
         "line": [
-          "1050 N REED STATION RD"
+          "17428 ROUTE 37"
         ],
-        "city": "CARBONDALE",
+        "city": "JOHNSTON CITY",
         "state": "IL",
-        "postalCode": "62902-7376"
+        "postalCode": "62951-2235"
       },
       {
         "line": [
@@ -52,11 +60,11 @@
       },
       {
         "line": [
-          "17428 ROUTE 37"
+          "1050 N REED STATION RD"
         ],
-        "city": "JOHNSTON CITY",
+        "city": "CARBONDALE",
         "state": "IL",
-        "postalCode": "62951-2235"
+        "postalCode": "62902-7376"
       },
       {
         "line": [
@@ -81,14 +89,6 @@
         "city": "NASHVILLE",
         "state": "IL",
         "postalCode": "62263-1534"
-      },
-      {
-        "line": [
-          "1204 West 10th Street"
-        ],
-        "city": "METROPOLIS",
-        "state": "IL",
-        "postalCode": "62960-2433"
       }
     ],
     "extension": [

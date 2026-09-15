@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659685782"
+        "value": "1497060966"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,11 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497060966"
+        "value": "1700910189"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700910189"
+        "value": "1659685782"
       }
     ],
     "address": [
@@ -40,6 +40,14 @@
       },
       {
         "line": [
+          "18701 N 67th Ave"
+        ],
+        "city": "Glendale",
+        "state": "AZ",
+        "postalCode": "85308-7100"
+      },
+      {
+        "line": [
           "13677 West McDowell Road"
         ],
         "city": "GOODYEAR",
@@ -50,7 +58,7 @@
         "line": [
           "18701 N 67th Ave"
         ],
-        "city": "Glendale",
+        "city": "GLENDALE",
         "state": "AZ",
         "postalCode": "85308-7100"
       },
@@ -61,14 +69,6 @@
         "city": "PHOENIX",
         "state": "AZ",
         "postalCode": "85032-2112"
-      },
-      {
-        "line": [
-          "18701 N 67th Ave"
-        ],
-        "city": "GLENDALE",
-        "state": "AZ",
-        "postalCode": "85308-7100"
       }
     ],
     "extension": [

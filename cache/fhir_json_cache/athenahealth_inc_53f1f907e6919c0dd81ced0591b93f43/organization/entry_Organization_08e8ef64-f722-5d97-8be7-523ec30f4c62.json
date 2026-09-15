@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497988828"
+        "value": "1336368745"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336368745"
+        "value": "1497988828"
       }
     ],
     "address": [
+      {
+        "line": [
+          "801 N LINCOLN"
+        ],
+        "city": "MONETT",
+        "state": "MO",
+        "postalCode": "65708-1641"
+      },
       {
         "line": [
           "929 E MONTCLAIR, STE 100"
@@ -40,14 +48,6 @@
       },
       {
         "line": [
-          "P.O. BOX 2067"
-        ],
-        "city": "REEDS SPRING",
-        "state": "MO",
-        "postalCode": "65737-2067"
-      },
-      {
-        "line": [
           "1015 HIGHWAY 248"
         ],
         "city": "BRANSON",
@@ -56,11 +56,11 @@
       },
       {
         "line": [
-          "801 N LINCOLN"
+          "P.O. BOX 2067"
         ],
-        "city": "MONETT",
+        "city": "REEDS SPRING",
         "state": "MO",
-        "postalCode": "65708-1641"
+        "postalCode": "65737-2067"
       }
     ],
     "extension": [

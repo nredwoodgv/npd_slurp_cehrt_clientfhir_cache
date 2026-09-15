@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154739399"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1386630028"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1760779466"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154739399"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,14 +34,6 @@
       }
     ],
     "address": [
-      {
-        "line": [
-          "201 S 5th St #9"
-        ],
-        "city": "BARDSTOWN",
-        "state": "KY",
-        "postalCode": "40004-1234"
-      },
       {
         "line": [
           "1878 Old Lebanon Rd"
@@ -57,6 +49,14 @@
         "city": "SPRINGFIELD",
         "state": "KY",
         "postalCode": "40069-1516"
+      },
+      {
+        "line": [
+          "201 S 5th St #9"
+        ],
+        "city": "BARDSTOWN",
+        "state": "KY",
+        "postalCode": "40004-1234"
       }
     ],
     "extension": [

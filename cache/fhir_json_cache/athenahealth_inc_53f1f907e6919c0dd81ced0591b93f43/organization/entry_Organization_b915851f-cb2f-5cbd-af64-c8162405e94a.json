@@ -14,46 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043501448"
+        "value": "1891755351"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891755351"
+        "value": "1043501448"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2222 WEST DIVISION"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60622-2717"
-      },
-      {
-        "line": [
-          "815 Pasquinelli Drive"
-        ],
-        "city": "WESTMONT",
-        "state": "IL",
-        "postalCode": "60559-1276"
-      },
-      {
-        "line": [
-          "433 MAIN STREET"
-        ],
-        "city": "DOWNERS GROVE",
-        "state": "IL",
-        "postalCode": "60515-2870"
-      },
-      {
-        "line": [
-          "1044 N FRANCISCO AVE"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60622-8806"
-      },
       {
         "line": [
           "800 BIESTEREFIELD RD"
@@ -69,6 +37,38 @@
         "city": "HINSDALE",
         "state": "IL",
         "postalCode": "60521-3829"
+      },
+      {
+        "line": [
+          "1044 N FRANCISCO AVE"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60622-8806"
+      },
+      {
+        "line": [
+          "433 MAIN STREET"
+        ],
+        "city": "DOWNERS GROVE",
+        "state": "IL",
+        "postalCode": "60515-2870"
+      },
+      {
+        "line": [
+          "2222 WEST DIVISION"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60622-2717"
+      },
+      {
+        "line": [
+          "815 Pasquinelli Drive"
+        ],
+        "city": "WESTMONT",
+        "state": "IL",
+        "postalCode": "60559-1276"
       }
     ],
     "extension": [

@@ -18,18 +18,32 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134451396"
+        "value": "1598039620"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598039620"
+        "value": "1134451396"
       }
     ],
     "address": [
       {
         "line": [
+          "701 West Taft"
+        ],
+        "city": "FAIRFAX",
+        "state": "OK",
+        "postalCode": "74637-5084"
+      },
+      {
+        "line": [
           "40 hOSPITAL RD"
         ],
+        "city": "FAIRFAX",
+        "state": "OK",
+        "postalCode": "74637-5084"
+      },
+      {
+        "line": [],
         "city": "FAIRFAX",
         "state": "OK",
         "postalCode": "74637-5084"
@@ -44,7 +58,7 @@
       },
       {
         "line": [
-          "701 West Taft"
+          "40 Hospital Rd"
         ],
         "city": "FAIRFAX",
         "state": "OK",
@@ -57,20 +71,6 @@
         "city": "PAWNEE",
         "state": "OK",
         "postalCode": "74058-5003"
-      },
-      {
-        "line": [],
-        "city": "FAIRFAX",
-        "state": "OK",
-        "postalCode": "74637-5084"
-      },
-      {
-        "line": [
-          "40 Hospital Rd"
-        ],
-        "city": "FAIRFAX",
-        "state": "OK",
-        "postalCode": "74637-5084"
       }
     ],
     "extension": [

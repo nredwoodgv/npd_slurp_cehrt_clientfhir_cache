@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1003250473"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1891737185"
       },
       {
@@ -23,20 +27,24 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1831461755"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003250473"
       }
     ],
     "address": [
       {
         "line": [
-          "150 NORTH EAGLE CREEK DR"
+          "1140 LEXINGTON RD"
+        ],
+        "city": "GEORGETOWN",
+        "state": "KY",
+        "postalCode": "40324-9330"
+      },
+      {
+        "line": [
+          "310 S LIMESTONE"
         ],
         "city": "LEXINGTON",
         "state": "KY",
-        "postalCode": "40509-1805"
+        "postalCode": "40508-3008"
       },
       {
         "line": [
@@ -48,14 +56,6 @@
       },
       {
         "line": [
-          "1140 LEXINGTON RD"
-        ],
-        "city": "GEORGETOWN",
-        "state": "KY",
-        "postalCode": "40324-9330"
-      },
-      {
-        "line": [
           "1210 KY HIGHWAY 36 EAST"
         ],
         "city": "CYNTHIANA",
@@ -64,11 +64,11 @@
       },
       {
         "line": [
-          "310 S LIMESTONE"
+          "150 NORTH EAGLE CREEK DR"
         ],
         "city": "LEXINGTON",
         "state": "KY",
-        "postalCode": "40508-3008"
+        "postalCode": "40509-1805"
       }
     ],
     "extension": [

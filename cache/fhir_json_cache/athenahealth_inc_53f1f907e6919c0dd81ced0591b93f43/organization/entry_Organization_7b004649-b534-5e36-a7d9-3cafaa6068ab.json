@@ -14,27 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831970904"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679366843"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730972944"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922870955"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710753066"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659152726"
+        "value": "1235811787"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,15 +22,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205617370"
+        "value": "1013700228"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003688037"
+        "value": "1710753066"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235811787"
+        "value": "1831970904"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1922870955"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,7 +42,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558133587"
+        "value": "1659152726"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,7 +50,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013700228"
+        "value": "1730972944"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -74,19 +58,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1003688037"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1164203238"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043083595"
+        "value": "1558133587"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336932557"
+        "value": "1205617370"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124907951"
+        "value": "1679366843"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -94,22 +82,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154200970"
+        "value": "1043083595"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124907951"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1326810086"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336932557"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154200970"
       }
     ],
     "address": [
       {
         "line": [
-          "101 Cambridge St",
-          "Ste 230"
+          "152 Sylvan St",
+          "2A"
         ],
-        "city": "Burlington",
+        "city": "Danvers",
         "state": "MA",
-        "postalCode": "01803-3767"
+        "postalCode": "01923-3581"
       },
       {
         "line": [
@@ -130,12 +130,12 @@
       },
       {
         "line": [
-          "255 Low St",
-          "Ste 302"
+          "4 Mount Royal Ave",
+          "Ste 360"
         ],
-        "city": "Newburyport",
+        "city": "Marlborough",
         "state": "MA",
-        "postalCode": "01950-3596"
+        "postalCode": "01752-1961"
       },
       {
         "line": [
@@ -148,21 +148,21 @@
       },
       {
         "line": [
-          "152 Sylvan St",
-          "2A"
+          "255 Low St",
+          "Ste 302"
         ],
-        "city": "Danvers",
+        "city": "Newburyport",
         "state": "MA",
-        "postalCode": "01923-3581"
+        "postalCode": "01950-3596"
       },
       {
         "line": [
-          "4 Mount Royal Ave",
-          "Ste 360"
+          "101 Cambridge St",
+          "Ste 230"
         ],
-        "city": "Marlborough",
+        "city": "Burlington",
         "state": "MA",
-        "postalCode": "01752-1961"
+        "postalCode": "01803-3767"
       },
       {
         "line": [

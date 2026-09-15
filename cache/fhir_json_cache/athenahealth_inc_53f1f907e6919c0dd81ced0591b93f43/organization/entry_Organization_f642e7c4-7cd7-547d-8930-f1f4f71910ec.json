@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063441731"
+        "value": "1306358320"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,34 +22,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306358320"
+        "value": "1063441731"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1355 37th Street, Suite 304"
-        ],
-        "city": "VERO BEACH",
-        "state": "FL",
-        "postalCode": "32960-7320"
-      },
-      {
-        "line": [
-          "787 37TH ST STE E200"
-        ],
-        "city": "VERO BEACH",
-        "state": "FL",
-        "postalCode": "32960-7306"
-      },
-      {
-        "line": [
-          "1006 33RD ST"
-        ],
-        "city": "VERO BEACH",
-        "state": "FL",
-        "postalCode": "32960-6910"
-      },
       {
         "line": [
           "410 4th Court"
@@ -76,11 +52,35 @@
       },
       {
         "line": [
+          "1355 37th Street, Suite 304"
+        ],
+        "city": "VERO BEACH",
+        "state": "FL",
+        "postalCode": "32960-7320"
+      },
+      {
+        "line": [
+          "1006 33RD ST"
+        ],
+        "city": "VERO BEACH",
+        "state": "FL",
+        "postalCode": "32960-6910"
+      },
+      {
+        "line": [
           "13695 US 1"
         ],
         "city": "SEBASTIAN",
         "state": "FL",
         "postalCode": "32958-3230"
+      },
+      {
+        "line": [
+          "787 37TH ST STE E200"
+        ],
+        "city": "VERO BEACH",
+        "state": "FL",
+        "postalCode": "32960-7306"
       }
     ],
     "extension": [

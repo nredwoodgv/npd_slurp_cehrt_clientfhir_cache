@@ -14,14 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881981033"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033294673"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1437194669"
       },
       {
@@ -30,7 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881981033"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396798302"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033294673"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -40,60 +40,27 @@
     "address": [
       {
         "line": [
+          "4220 Harding Rd"
+        ],
+        "city": "Nashville",
+        "state": "TN",
+        "postalCode": "37205-2005"
+      },
+      {
+        "line": [
+          "4220 Harding Rd"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37205-2005"
+      },
+      {
+        "line": [
           "2000 Church St"
         ],
         "city": "Nashville",
         "state": "TN",
         "postalCode": "37236-0001"
-      },
-      {
-        "line": [
-          "4220 Harding Rd"
-        ],
-        "city": "Nashville",
-        "state": "TN",
-        "postalCode": "37205-2005"
-      },
-      {
-        "line": [
-          "4230 Harding Rd Ste 450"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37205-6048"
-      },
-      {
-        "line": [
-          "4220 Harding Rd"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37205-2005"
-      },
-      {
-        "line": [
-          "4220 Harding Road, Suite 500"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37205-2005"
-      },
-      {
-        "line": [
-          "4230 Harding Rd",
-          "Suite 325"
-        ],
-        "city": "Nashville",
-        "state": "TN",
-        "postalCode": "37205-2018"
-      },
-      {
-        "line": [
-          "2000 Hayes St"
-        ],
-        "city": "Nashville",
-        "state": "TN",
-        "postalCode": "37236-2318"
       },
       {
         "line": [
@@ -113,11 +80,12 @@
       },
       {
         "line": [
-          "2000 Church St"
+          "4230 Harding Rd",
+          "Suite 450"
         ],
-        "city": "NASHVILLE",
+        "city": "Nashville",
         "state": "TN",
-        "postalCode": "37236-0002"
+        "postalCode": "37205-6048"
       },
       {
         "line": [
@@ -129,6 +97,23 @@
       },
       {
         "line": [
+          "2000 Hayes St"
+        ],
+        "city": "Nashville",
+        "state": "TN",
+        "postalCode": "37236-2318"
+      },
+      {
+        "line": [
+          "4230 Harding Rd",
+          "Suite 325"
+        ],
+        "city": "Nashville",
+        "state": "TN",
+        "postalCode": "37205-2018"
+      },
+      {
+        "line": [
           "2000 Hayes Street Ste 500"
         ],
         "city": "NASHVILLE",
@@ -137,10 +122,25 @@
       },
       {
         "line": [
-          "4230 Harding Rd",
-          "Suite 450"
+          "4220 Harding Road, Suite 500"
         ],
-        "city": "Nashville",
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37205-2005"
+      },
+      {
+        "line": [
+          "2000 Church St"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37236-0002"
+      },
+      {
+        "line": [
+          "4230 Harding Rd Ste 450"
+        ],
+        "city": "NASHVILLE",
         "state": "TN",
         "postalCode": "37205-6048"
       }

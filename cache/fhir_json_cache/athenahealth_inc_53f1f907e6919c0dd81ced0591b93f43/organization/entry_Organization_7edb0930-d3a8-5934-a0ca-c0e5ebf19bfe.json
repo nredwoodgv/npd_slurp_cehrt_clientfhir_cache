@@ -14,37 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356391247"
+        "value": "1598715401"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598715401"
+        "value": "1356391247"
       }
     ],
     "address": [
       {
         "line": [
-          "1000 DAY ST"
+          "2251 North Shore Dr"
         ],
-        "city": "RHINELANDER",
+        "city": "Rhinelander",
         "state": "WI",
-        "postalCode": "54501-3835"
-      },
-      {
-        "line": [
-          "720 EAST KINGS RD"
-        ],
-        "city": "TOMAHAWK",
-        "state": "WI",
-        "postalCode": "54487-1513"
-      },
-      {
-        "line": [
-          "900 BOYCE DR"
-        ],
-        "city": "RHINELANDER",
-        "state": "WI",
-        "postalCode": "54501-3835"
+        "postalCode": "54501-6701"
       },
       {
         "line": [
@@ -56,19 +40,27 @@
       },
       {
         "line": [
-          "2251 North Shore Dr"
+          "1000 DAY ST"
         ],
-        "city": "Rhinelander",
+        "city": "RHINELANDER",
         "state": "WI",
-        "postalCode": "54501-6701"
+        "postalCode": "54501-3835"
       },
       {
         "line": [
-          "428 N 6TH ST"
+          "1970 NAVAJO ST"
         ],
-        "city": "TOMAHAWK",
+        "city": "RHINELANDER",
         "state": "WI",
-        "postalCode": "54487-1425"
+        "postalCode": "54501-8890"
+      },
+      {
+        "line": [
+          "900 BOYCE DR"
+        ],
+        "city": "RHINELANDER",
+        "state": "WI",
+        "postalCode": "54501-3835"
       },
       {
         "line": [
@@ -80,11 +72,19 @@
       },
       {
         "line": [
-          "1970 NAVAJO ST"
+          "428 N 6TH ST"
         ],
-        "city": "RHINELANDER",
+        "city": "TOMAHAWK",
         "state": "WI",
-        "postalCode": "54501-8890"
+        "postalCode": "54487-1425"
+      },
+      {
+        "line": [
+          "720 EAST KINGS RD"
+        ],
+        "city": "TOMAHAWK",
+        "state": "WI",
+        "postalCode": "54487-1513"
       }
     ],
     "extension": [

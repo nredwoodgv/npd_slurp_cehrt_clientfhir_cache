@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871713909"
+        "value": "1649267618"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649267618"
+        "value": "1871713909"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,22 +32,6 @@
     "address": [
       {
         "line": [
-          "601 W. COUNTRY CLUD RD STE 101"
-        ],
-        "city": "ROSWELL",
-        "state": "NM",
-        "postalCode": "88201-5227"
-      },
-      {
-        "line": [
-          "405 W COUNTRY CLUB ROAD"
-        ],
-        "city": "ROSWELL",
-        "state": "NM",
-        "postalCode": "88201-5209"
-      },
-      {
-        "line": [
           "405 W COUNTRY CLUB RD"
         ],
         "city": "ROSWELL",
@@ -56,7 +40,7 @@
       },
       {
         "line": [
-          "405 W. COUNTRY CLUB RD"
+          "405 W. COUNTRY CLUD RD"
         ],
         "city": "ROSWELL",
         "state": "NM",
@@ -72,7 +56,23 @@
       },
       {
         "line": [
-          "405 W. COUNTRY CLUD RD"
+          "405 W COUNTRY CLUB ROAD"
+        ],
+        "city": "ROSWELL",
+        "state": "NM",
+        "postalCode": "88201-5209"
+      },
+      {
+        "line": [
+          "601 W. COUNTRY CLUD RD STE 101"
+        ],
+        "city": "ROSWELL",
+        "state": "NM",
+        "postalCode": "88201-5227"
+      },
+      {
+        "line": [
+          "405 W. COUNTRY CLUB RD"
         ],
         "city": "ROSWELL",
         "state": "NM",

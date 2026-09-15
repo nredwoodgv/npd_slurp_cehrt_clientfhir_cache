@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508850520"
+        "value": "1669466686"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669466686"
+        "value": "1508850520"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,6 +26,22 @@
       }
     ],
     "address": [
+      {
+        "line": [
+          "302 Broadway St"
+        ],
+        "city": "Mount Vernon",
+        "state": "IL",
+        "postalCode": "62864-5116"
+      },
+      {
+        "line": [
+          "209 Crossroads Pl, Suite 120"
+        ],
+        "city": "Mount Vernon",
+        "state": "IL",
+        "postalCode": "62864-6545"
+      },
       {
         "line": [
           "4113 South Water Tower Place"
@@ -49,22 +65,6 @@
         "city": "DuQuoin",
         "state": "IL",
         "postalCode": "62832-1233"
-      },
-      {
-        "line": [
-          "209 Crossroads Pl, Suite 120"
-        ],
-        "city": "Mount Vernon",
-        "state": "IL",
-        "postalCode": "62864-6545"
-      },
-      {
-        "line": [
-          "302 Broadway St"
-        ],
-        "city": "Mount Vernon",
-        "state": "IL",
-        "postalCode": "62864-5116"
       },
       {
         "line": [

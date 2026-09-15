@@ -18,6 +18,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811659634"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1275541013"
       },
       {
@@ -26,22 +30,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811659634"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1114225745"
       }
     ],
     "address": [
-      {
-        "line": [
-          "10200 Colvin Run Road"
-        ],
-        "city": "GREAT FALLS",
-        "state": "VA",
-        "postalCode": "22066-1830"
-      },
       {
         "line": [
           "8341 BARRETT DR"
@@ -52,11 +44,11 @@
       },
       {
         "line": [
-          "239 ALEXANDRIA PIKE"
+          "10200 Colvin Run Road"
         ],
-        "city": "WARRENTON",
+        "city": "GREAT FALLS",
         "state": "VA",
-        "postalCode": "20186-2947"
+        "postalCode": "22066-1830"
       },
       {
         "line": [
@@ -65,6 +57,14 @@
         "city": "MANASSAS",
         "state": "VA",
         "postalCode": "20110-5055"
+      },
+      {
+        "line": [
+          "239 ALEXANDRIA PIKE"
+        ],
+        "city": "WARRENTON",
+        "state": "VA",
+        "postalCode": "20186-2947"
       }
     ],
     "extension": [

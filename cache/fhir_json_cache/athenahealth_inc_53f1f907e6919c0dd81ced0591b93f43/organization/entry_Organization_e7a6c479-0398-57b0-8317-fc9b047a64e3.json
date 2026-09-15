@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1760779466"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1386630028"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154739399"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477851467"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,13 +26,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760779466"
+        "value": "1477851467"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154739399"
       }
     ],
     "address": [
       {
         "line": [
-          "420 Loretto Rd. Ste. 600"
+          "320 Loretto Rd"
         ],
         "city": "LEBANON",
         "state": "KY",
@@ -44,7 +44,7 @@
       },
       {
         "line": [
-          "320 Loretto Rd"
+          "420 Loretto Rd. Ste. 600"
         ],
         "city": "LEBANON",
         "state": "KY",

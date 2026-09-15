@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578123428"
+        "value": "1093224123"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093224123"
+        "value": "1578123428"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,19 +32,35 @@
     "address": [
       {
         "line": [
+          "15400 TRENTON RD"
+        ],
+        "city": "SOUTHGATE",
+        "state": "MI",
+        "postalCode": "48195-2075"
+      },
+      {
+        "line": [
+          "1546 CALLIS RD"
+        ],
+        "city": "LAPEER",
+        "state": "MI",
+        "postalCode": "48446-7505"
+      },
+      {
+        "line": [
+          "4427 VENOY RD"
+        ],
+        "city": "WAYNE",
+        "state": "MI",
+        "postalCode": "48184-1871"
+      },
+      {
+        "line": [
           "1375 S LAPEER RD STE 109"
         ],
         "city": "LAKE ORION",
         "state": "MI",
         "postalCode": "48360-1421"
-      },
-      {
-        "line": [
-          "4130 Shrestha Dr"
-        ],
-        "city": "BAY CITY",
-        "state": "MI",
-        "postalCode": "48706-2184"
       },
       {
         "line": [
@@ -64,27 +80,11 @@
       },
       {
         "line": [
-          "5202 MILLER RD"
+          "25330 W 6 MILE RD"
         ],
-        "city": "FLINT",
+        "city": "REDFORD",
         "state": "MI",
-        "postalCode": "48507-1040"
-      },
-      {
-        "line": [
-          "1546 CALLIS RD"
-        ],
-        "city": "LAPEER",
-        "state": "MI",
-        "postalCode": "48446-7505"
-      },
-      {
-        "line": [
-          "441 S LIVERNOIS RD STE 260"
-        ],
-        "city": "ROCHESTER",
-        "state": "MI",
-        "postalCode": "48307-2593"
+        "postalCode": "48240-2105"
       },
       {
         "line": [
@@ -96,6 +96,14 @@
       },
       {
         "line": [
+          "441 S LIVERNOIS RD STE 260"
+        ],
+        "city": "ROCHESTER",
+        "state": "MI",
+        "postalCode": "48307-2593"
+      },
+      {
+        "line": [
           "150 MILLWOOD STREET"
         ],
         "city": "CARO",
@@ -104,35 +112,27 @@
       },
       {
         "line": [
+          "4130 Shrestha Dr"
+        ],
+        "city": "BAY CITY",
+        "state": "MI",
+        "postalCode": "48706-2184"
+      },
+      {
+        "line": [
+          "5202 MILLER RD"
+        ],
+        "city": "FLINT",
+        "state": "MI",
+        "postalCode": "48507-1040"
+      },
+      {
+        "line": [
           "1187 South Lapeer Rd"
         ],
         "city": "LAPEER",
         "state": "MI",
         "postalCode": "48446-3081"
-      },
-      {
-        "line": [
-          "25330 W 6 MILE RD"
-        ],
-        "city": "REDFORD",
-        "state": "MI",
-        "postalCode": "48240-2105"
-      },
-      {
-        "line": [
-          "4427 VENOY RD"
-        ],
-        "city": "WAYNE",
-        "state": "MI",
-        "postalCode": "48184-1871"
-      },
-      {
-        "line": [
-          "15400 TRENTON RD"
-        ],
-        "city": "SOUTHGATE",
-        "state": "MI",
-        "postalCode": "48195-2075"
       },
       {
         "line": [

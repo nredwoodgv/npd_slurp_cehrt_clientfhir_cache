@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588226328"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073175956"
+        "value": "1598225021"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316253875"
+        "value": "1073175956"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,10 +30,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598225021"
+        "value": "1588226328"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316253875"
       }
     ],
     "address": [
+      {
+        "line": [
+          "147 RIVERSIDE DR STE 1"
+        ],
+        "city": "AUGUSTA",
+        "state": "ME",
+        "postalCode": "04330-4100"
+      },
       {
         "line": [
           "26B Enfield Rd",
@@ -49,28 +57,20 @@
       },
       {
         "line": [
+          "41 Acme Rd",
+          "Suite 3"
+        ],
+        "city": "BREWER",
+        "state": "ME",
+        "postalCode": "04412-1543"
+      },
+      {
+        "line": [
           "167 ACADEMY ST STE B"
         ],
         "city": "PRESQUE ISLE",
         "state": "ME",
         "postalCode": "04769-3167"
-      },
-      {
-        "line": [
-          "147 RIVERSIDE DR STE 1"
-        ],
-        "city": "AUGUSTA",
-        "state": "ME",
-        "postalCode": "04330-4100"
-      },
-      {
-        "line": [
-          "409 Alfred St",
-          "Units 4-5"
-        ],
-        "city": "BIDDEFORD",
-        "state": "ME",
-        "postalCode": "04005-3756"
       },
       {
         "line": [
@@ -82,12 +82,12 @@
       },
       {
         "line": [
-          "41 Acme Rd",
-          "Suite 3"
+          "409 Alfred St",
+          "Units 4-5"
         ],
-        "city": "BREWER",
+        "city": "BIDDEFORD",
         "state": "ME",
-        "postalCode": "04412-1543"
+        "postalCode": "04005-3756"
       }
     ],
     "extension": [

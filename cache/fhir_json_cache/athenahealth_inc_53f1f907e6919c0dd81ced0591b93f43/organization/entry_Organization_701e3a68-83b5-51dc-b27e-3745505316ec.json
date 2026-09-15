@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013341734"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1265607626"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407095359"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013341734"
+        "value": "1487014361"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,10 +30,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487014361"
+        "value": "1407095359"
       }
     ],
     "address": [
+      {
+        "line": [
+          "2401 Newnan Crossing Blvd East",
+          "Suite 130"
+        ],
+        "city": "Newnan",
+        "state": "GA",
+        "postalCode": "30265-2409"
+      },
       {
         "line": [
           "600 West Lanier Ave",
@@ -45,12 +54,12 @@
       },
       {
         "line": [
-          "2401 Newnan Crossing Blvd East",
-          "Suite 120"
+          "619 South 8th Street",
+          "Suite 302"
         ],
-        "city": "Newnan",
+        "city": "Griffin",
         "state": "GA",
-        "postalCode": "30265-2409"
+        "postalCode": "30224-4260"
       },
       {
         "line": [
@@ -60,6 +69,22 @@
         "city": "Stockbridge",
         "state": "GA",
         "postalCode": "30281-5023"
+      },
+      {
+        "line": [
+          "755 Old Norcross Rd"
+        ],
+        "city": "LAWRENCEVILLE",
+        "state": "GA",
+        "postalCode": "30046-4317"
+      },
+      {
+        "line": [
+          "755 Old Norcross Rd"
+        ],
+        "city": "Lawrenceville",
+        "state": "GA",
+        "postalCode": "30046-4317"
       },
       {
         "line": [
@@ -82,36 +107,11 @@
       {
         "line": [
           "2401 Newnan Crossing Blvd East",
-          "Suite 130"
+          "Suite 120"
         ],
         "city": "Newnan",
         "state": "GA",
         "postalCode": "30265-2409"
-      },
-      {
-        "line": [
-          "755 Old Norcross Rd"
-        ],
-        "city": "LAWRENCEVILLE",
-        "state": "GA",
-        "postalCode": "30046-4317"
-      },
-      {
-        "line": [
-          "755 Old Norcross Rd"
-        ],
-        "city": "Lawrenceville",
-        "state": "GA",
-        "postalCode": "30046-4317"
-      },
-      {
-        "line": [
-          "619 South 8th Street",
-          "Suite 302"
-        ],
-        "city": "Griffin",
-        "state": "GA",
-        "postalCode": "30224-4260"
       }
     ],
     "extension": [

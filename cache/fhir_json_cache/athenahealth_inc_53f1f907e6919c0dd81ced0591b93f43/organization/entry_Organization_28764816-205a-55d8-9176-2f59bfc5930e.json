@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417457250"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417476920"
       },
       {
@@ -26,15 +30,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619307402"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417457250"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1528441011"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619307402"
       }
     ],
     "address": [
@@ -48,28 +48,12 @@
       },
       {
         "line": [
-          "1600 Industrial Park Rd"
-        ],
-        "city": "BEAVER",
-        "state": "WV",
-        "postalCode": "25813-1717"
-      },
-      {
-        "line": [
           "1717 Harper Rd",
           "3rd FL Ste A & B"
         ],
         "city": "BECKLEY",
         "state": "WV",
         "postalCode": "25801-1717"
-      },
-      {
-        "line": [
-          "403 Carriage Drive"
-        ],
-        "city": "BECKLEY",
-        "state": "WV",
-        "postalCode": "25801-2805"
       },
       {
         "line": [
@@ -88,6 +72,22 @@
         "city": "BECKLEY",
         "state": "WV",
         "postalCode": "25801-3373"
+      },
+      {
+        "line": [
+          "1600 Industrial Park Rd"
+        ],
+        "city": "BEAVER",
+        "state": "WV",
+        "postalCode": "25813-1717"
+      },
+      {
+        "line": [
+          "403 Carriage Drive"
+        ],
+        "city": "BECKLEY",
+        "state": "WV",
+        "postalCode": "25801-2805"
       }
     ],
     "extension": [

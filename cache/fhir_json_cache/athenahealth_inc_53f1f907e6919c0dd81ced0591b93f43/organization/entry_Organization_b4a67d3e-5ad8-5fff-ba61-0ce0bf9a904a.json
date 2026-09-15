@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053567966"
+        "value": "1801217062"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801217062"
+        "value": "1053567966"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,6 +32,14 @@
     "address": [
       {
         "line": [
+          "3600 W Fullerton Ave"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60647-2319"
+      },
+      {
+        "line": [
           "3600 W FULLERTON AVE"
         ],
         "city": "CHICAGO",
@@ -43,14 +51,6 @@
           "3600 W Fullerton Ave"
         ],
         "city": "CHICAGOC",
-        "state": "IL",
-        "postalCode": "60647-2319"
-      },
-      {
-        "line": [
-          "3600 W Fullerton Ave"
-        ],
-        "city": "CHICAGO",
         "state": "IL",
         "postalCode": "60647-2319"
       }

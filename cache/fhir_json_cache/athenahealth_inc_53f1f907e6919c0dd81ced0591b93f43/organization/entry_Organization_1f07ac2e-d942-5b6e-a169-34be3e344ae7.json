@@ -14,21 +14,69 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477648178"
+        "value": "1073799367"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073799367"
+        "value": "1477648178"
       }
     ],
     "address": [
       {
         "line": [
-          "1301 S. St.Joe Dr"
+          "301 N HIGHWAY 21"
         ],
-        "city": "PARK HILLS",
+        "city": "PILOT KNOB",
         "state": "MO",
-        "postalCode": "63601-1965"
+        "postalCode": "63663-7862"
+      },
+      {
+        "line": [
+          "301 North Hwy 21"
+        ],
+        "city": "PILOT KNOB",
+        "state": "MO",
+        "postalCode": "63663-0548"
+      },
+      {
+        "line": [
+          "500 Cayce Ave"
+        ],
+        "city": "FARMINGTON",
+        "state": "MO",
+        "postalCode": "63640-1981"
+      },
+      {
+        "line": [
+          "1108 W Liberty St"
+        ],
+        "city": "FARMINGTON",
+        "state": "MO",
+        "postalCode": "63640-1981"
+      },
+      {
+        "line": [
+          "801 Brim"
+        ],
+        "city": "Desloge",
+        "state": "MO",
+        "postalCode": "63601-3441"
+      },
+      {
+        "line": [
+          "500 Ashbrook Drive"
+        ],
+        "city": "FARMINGTON",
+        "state": "MO",
+        "postalCode": "63640-1981"
+      },
+      {
+        "line": [
+          "520 Maple Valley Drive"
+        ],
+        "city": "FARMINGTON",
+        "state": "MO",
+        "postalCode": "63640-1981"
       },
       {
         "line": [
@@ -48,31 +96,7 @@
       },
       {
         "line": [
-          "301 N HIGHWAY 21"
-        ],
-        "city": "PILOT KNOB",
-        "state": "MO",
-        "postalCode": "63663-7862"
-      },
-      {
-        "line": [
-          "105 Spruce Street"
-        ],
-        "city": "FREDERICKTOWN",
-        "state": "MO",
-        "postalCode": "63645-1002"
-      },
-      {
-        "line": [
-          "500 Cayce Ave"
-        ],
-        "city": "FARMINGTON",
-        "state": "MO",
-        "postalCode": "63640-1981"
-      },
-      {
-        "line": [
-          "500 Ashbrook Drive"
+          "2879 US Hwy 67"
         ],
         "city": "FARMINGTON",
         "state": "MO",
@@ -88,39 +112,7 @@
       },
       {
         "line": [
-          "2879 US Hwy 67"
-        ],
-        "city": "FARMINGTON",
-        "state": "MO",
-        "postalCode": "63640-1981"
-      },
-      {
-        "line": [
-          "526 Maple Valley Dr"
-        ],
-        "city": "FARMINGTON",
-        "state": "MO",
-        "postalCode": "63640-1981"
-      },
-      {
-        "line": [
           "783 Weber Road"
-        ],
-        "city": "FARMINGTON",
-        "state": "MO",
-        "postalCode": "63640-1981"
-      },
-      {
-        "line": [
-          "1108 W Liberty St"
-        ],
-        "city": "FARMINGTON",
-        "state": "MO",
-        "postalCode": "63640-1981"
-      },
-      {
-        "line": [
-          "520 Maple Valley Drive"
         ],
         "city": "FARMINGTON",
         "state": "MO",
@@ -136,27 +128,35 @@
       },
       {
         "line": [
-          "301 North Hwy 21"
-        ],
-        "city": "PILOT KNOB",
-        "state": "MO",
-        "postalCode": "63663-0548"
-      },
-      {
-        "line": [
-          "801 Brim"
-        ],
-        "city": "Desloge",
-        "state": "MO",
-        "postalCode": "63601-3441"
-      },
-      {
-        "line": [
           "3719 Sand Creek Road"
         ],
         "city": "FARMINGTON",
         "state": "MO",
         "postalCode": "63640-1981"
+      },
+      {
+        "line": [
+          "1301 S. St.Joe Dr"
+        ],
+        "city": "PARK HILLS",
+        "state": "MO",
+        "postalCode": "63601-1965"
+      },
+      {
+        "line": [
+          "526 Maple Valley Dr"
+        ],
+        "city": "FARMINGTON",
+        "state": "MO",
+        "postalCode": "63640-1981"
+      },
+      {
+        "line": [
+          "105 Spruce Street"
+        ],
+        "city": "FREDERICKTOWN",
+        "state": "MO",
+        "postalCode": "63645-1002"
       }
     ],
     "extension": [

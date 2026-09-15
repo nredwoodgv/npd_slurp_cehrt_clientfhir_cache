@@ -14,6 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962068296"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649008962"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1043039142"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1841027653"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1679307029"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1316775919"
       },
       {
@@ -22,30 +42,42 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962068296"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679307029"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1972323061"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649008962"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841027653"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043039142"
       }
     ],
     "address": [
+      {
+        "line": [
+          "101 CENTERPOINT DR STE 105"
+        ],
+        "city": "MIDDLETOWN",
+        "state": "CT",
+        "postalCode": "06457-7568"
+      },
+      {
+        "line": [
+          "254 COMMERCIAL ST STE 245"
+        ],
+        "city": "PORTLAND",
+        "state": "ME",
+        "postalCode": "04101-4899"
+      },
+      {
+        "line": [
+          "119 E COURT ST"
+        ],
+        "city": "CINCINNATI",
+        "state": "OH",
+        "postalCode": "45202-1203"
+      },
+      {
+        "line": [
+          "35 E ELIZABETH AVE STE 205"
+        ],
+        "city": "BETHLEHEM",
+        "state": "PA",
+        "postalCode": "18018-6512"
+      },
       {
         "line": [
           "3 Executive Park Dr Suite 201A"
@@ -64,43 +96,11 @@
       },
       {
         "line": [
-          "101 CENTERPOINT DR STE 105"
-        ],
-        "city": "MIDDLETOWN",
-        "state": "CT",
-        "postalCode": "06457-7568"
-      },
-      {
-        "line": [
-          "35 E ELIZABETH AVE STE 205"
-        ],
-        "city": "BETHLEHEM",
-        "state": "PA",
-        "postalCode": "18018-6512"
-      },
-      {
-        "line": [
           "3058C CHARLES TOWN RD"
         ],
         "city": "KEARNEYSVILLE",
         "state": "WV",
         "postalCode": "25430-2669"
-      },
-      {
-        "line": [
-          "254 COMMERCIAL ST STE 245"
-        ],
-        "city": "PORTLAND",
-        "state": "ME",
-        "postalCode": "04101-4899"
-      },
-      {
-        "line": [
-          "119 E COURT ST"
-        ],
-        "city": "CINCINNATI",
-        "state": "OH",
-        "postalCode": "45202-1203"
       }
     ],
     "extension": [

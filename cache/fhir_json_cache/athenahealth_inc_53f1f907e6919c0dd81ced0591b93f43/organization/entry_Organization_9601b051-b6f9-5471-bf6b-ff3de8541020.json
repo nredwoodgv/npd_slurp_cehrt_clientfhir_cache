@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023449212"
+        "value": "1497986764"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497986764"
+        "value": "1821370891"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,7 +38,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821370891"
+        "value": "1023449212"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
@@ -46,14 +46,22 @@
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "19D2031977"
+        "value": "19D0718564"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "19D0718564"
+        "value": "19D2031977"
       }
     ],
     "address": [
+      {
+        "line": [
+          "812 Broadway Street"
+        ],
+        "city": "MINDEN",
+        "state": "LA",
+        "postalCode": "71055-3309"
+      },
       {
         "line": [
           "1 Medical Plaza"
@@ -69,14 +77,6 @@
         "city": "MINDEN",
         "state": "LA",
         "postalCode": "71055-3332"
-      },
-      {
-        "line": [
-          "812 Broadway Street"
-        ],
-        "city": "MINDEN",
-        "state": "LA",
-        "postalCode": "71055-3309"
       }
     ],
     "extension": [

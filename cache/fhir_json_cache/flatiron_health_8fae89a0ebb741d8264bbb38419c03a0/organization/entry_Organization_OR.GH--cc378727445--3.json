@@ -14,19 +14,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134232770"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730292228"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "0000000000"
+        "value": "1033443775"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033443775"
+        "value": "1134232770"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "0000000000"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,7 +38,15 @@
     "telecom": [
       {
         "system": "phone",
+        "value": "(256)492-0375"
+      },
+      {
+        "system": "phone",
         "value": "(205)502-4700"
+      },
+      {
+        "system": "phone",
+        "value": "(256)546-4300"
       },
       {
         "system": "phone",
@@ -46,15 +54,7 @@
       },
       {
         "system": "phone",
-        "value": "(256)492-0375"
-      },
-      {
-        "system": "phone",
         "value": "(205)205-2050"
-      },
-      {
-        "system": "phone",
-        "value": "(256)546-4300"
       },
       {
         "system": "phone",
@@ -66,22 +66,41 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "513 Brookwood Blvd Suite 275"
+          "705 Goodyear Avenue"
         ],
-        "city": "Birmingham",
+        "city": "Gadsden",
         "state": "AL",
-        "postalCode": "35209",
+        "postalCode": "35903",
         "country": "USA"
       },
       {
         "use": "work",
         "type": "postal",
         "line": [
-          "705 Goodyear Avenue"
+          "339 Walkers Chapel Plaza",
+          "Ste 109"
         ],
-        "city": "Gadsden",
+        "city": "Fultondale",
         "state": "AL",
-        "postalCode": "35903",
+        "postalCode": "35068",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "state": "AL",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "state": "AL",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "state": "AL",
         "country": "USA"
       },
       {
@@ -121,7 +140,12 @@
       {
         "use": "work",
         "type": "postal",
+        "line": [
+          "513 Brookwood Blvd Suite 275"
+        ],
+        "city": "Birmingham",
         "state": "AL",
+        "postalCode": "35209",
         "country": "USA"
       },
       {
@@ -133,30 +157,6 @@
         "city": "Birmingham",
         "state": "al",
         "postalCode": "35209",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "339 Walkers Chapel Plaza",
-          "Ste 109"
-        ],
-        "city": "Fultondale",
-        "state": "AL",
-        "postalCode": "35068",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "state": "AL",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "state": "AL",
         "country": "USA"
       }
     ],

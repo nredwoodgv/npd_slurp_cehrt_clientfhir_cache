@@ -14,18 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124099858"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720390453"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548609761"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578696092"
       },
       {
@@ -39,17 +27,21 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1114962461"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720390453"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124099858"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548609761"
       }
     ],
     "address": [
-      {
-        "line": [
-          "11800 12 Mile Rd."
-        ],
-        "city": "WARREN",
-        "state": "MI",
-        "postalCode": "48093-3472"
-      },
       {
         "line": [
           "22201 Moross RD",
@@ -58,6 +50,14 @@
         "city": "Detroit",
         "state": "MI",
         "postalCode": "48236-2152"
+      },
+      {
+        "line": [
+          "11800 12 Mile Rd."
+        ],
+        "city": "WARREN",
+        "state": "MI",
+        "postalCode": "48093-3472"
       }
     ],
     "extension": [

@@ -14,49 +14,25 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104513126"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1508576372"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215676747"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104513126"
       }
     ],
     "address": [
       {
         "line": [
-          "1300 NORTHRIDGE DRIVE"
+          "17500 RANCH DR"
         ],
         "city": "PINE CITY",
         "state": "MN",
-        "postalCode": "55063-5846"
-      },
-      {
-        "line": [
-          "1300 NORTHRIDGE CT NW"
-        ],
-        "city": "PINE CITY",
-        "state": "MN",
-        "postalCode": "55063-5821"
-      },
-      {
-        "line": [
-          "501 MAIN ST"
-        ],
-        "city": "SANDSTONE",
-        "state": "MN",
-        "postalCode": "55072-4410"
-      },
-      {
-        "line": [
-          "12760 Lake Blvs"
-        ],
-        "city": "LINDSTROM",
-        "state": "MN",
-        "postalCode": "55045-9585"
+        "postalCode": "55063-5502"
       },
       {
         "line": [
@@ -68,7 +44,15 @@
       },
       {
         "line": [
-          "501 Main St"
+          "501 MAIN STREET"
+        ],
+        "city": "SANDSTONE",
+        "state": "MN",
+        "postalCode": "55072-6500"
+      },
+      {
+        "line": [
+          "501 MAIN ST"
         ],
         "city": "SANDSTONE",
         "state": "MN",
@@ -76,11 +60,11 @@
       },
       {
         "line": [
-          "17500 RANCH DR"
+          "501 Main St"
         ],
-        "city": "PINE CITY",
+        "city": "SANDSTONE",
         "state": "MN",
-        "postalCode": "55063-5502"
+        "postalCode": "55072-4410"
       },
       {
         "line": [
@@ -92,11 +76,27 @@
       },
       {
         "line": [
-          "501 MAIN STREET"
+          "12760 Lake Blvs"
         ],
-        "city": "SANDSTONE",
+        "city": "LINDSTROM",
         "state": "MN",
-        "postalCode": "55072-6500"
+        "postalCode": "55045-9585"
+      },
+      {
+        "line": [
+          "1300 NORTHRIDGE CT NW"
+        ],
+        "city": "PINE CITY",
+        "state": "MN",
+        "postalCode": "55063-5821"
+      },
+      {
+        "line": [
+          "1300 NORTHRIDGE DRIVE"
+        ],
+        "city": "PINE CITY",
+        "state": "MN",
+        "postalCode": "55063-5846"
       }
     ],
     "extension": [

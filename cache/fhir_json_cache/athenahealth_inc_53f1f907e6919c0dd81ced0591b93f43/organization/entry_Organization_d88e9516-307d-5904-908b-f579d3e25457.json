@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629913256"
+        "value": "1780070730"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780070730"
+        "value": "1629913256"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,12 +32,11 @@
     "address": [
       {
         "line": [
-          "2199 College Ave",
-          "STE #200"
+          "1000 MEDICAL CENTER BLVD"
         ],
-        "city": "ATLANTA",
+        "city": "LAWRENCEVILLE",
         "state": "GA",
-        "postalCode": "30317-1334"
+        "postalCode": "30046-7694"
       },
       {
         "line": [
@@ -46,14 +45,6 @@
         "city": "CONYERS",
         "state": "GA",
         "postalCode": "30012-3877"
-      },
-      {
-        "line": [
-          "1000 MEDICAL CENTER BLVD"
-        ],
-        "city": "LAWRENCEVILLE",
-        "state": "GA",
-        "postalCode": "30046-7694"
       },
       {
         "line": [
@@ -66,11 +57,12 @@
       },
       {
         "line": [
-          "2151 W SPRING ST"
+          "2199 College Ave",
+          "STE #200"
         ],
-        "city": "MONROE",
+        "city": "ATLANTA",
         "state": "GA",
-        "postalCode": "30655-3202"
+        "postalCode": "30317-1334"
       },
       {
         "line": [
@@ -79,6 +71,14 @@
         "city": "FAYETTEVILLE",
         "state": "GA",
         "postalCode": "30214-2595"
+      },
+      {
+        "line": [
+          "2151 W SPRING ST"
+        ],
+        "city": "MONROE",
+        "state": "GA",
+        "postalCode": "30655-3202"
       }
     ],
     "extension": [

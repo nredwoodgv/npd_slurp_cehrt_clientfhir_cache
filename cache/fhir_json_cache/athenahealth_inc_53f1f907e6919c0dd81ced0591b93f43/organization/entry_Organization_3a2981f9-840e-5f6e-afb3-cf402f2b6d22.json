@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437197092"
+        "value": "1881535789"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881535789"
+        "value": "1437197092"
       }
     ],
     "address": [
+      {
+        "line": [
+          "198 MASSACHUSETTS AVE"
+        ],
+        "city": "NORTH ANDOVER",
+        "state": "MA",
+        "postalCode": "01845-4143"
+      },
       {
         "line": [
           "One General St"
@@ -41,40 +49,6 @@
       },
       {
         "line": [
-          "70 EAST ST"
-        ],
-        "city": "METHUEN",
-        "state": "MA",
-        "postalCode": "01844-4597"
-      },
-      {
-        "line": [
-          "198 MASSACHUSETTS AVE"
-        ],
-        "city": "NORTH ANDOVER",
-        "state": "MA",
-        "postalCode": "01845-4143"
-      },
-      {
-        "line": [
-          "15 Tsienneto Road",
-          "Suite 101"
-        ],
-        "city": "DERRY",
-        "state": "NH",
-        "postalCode": "03038-1589"
-      },
-      {
-        "line": [
-          "15 TSIENNETO RD",
-          "STE 101"
-        ],
-        "city": "DERRY",
-        "state": "NH",
-        "postalCode": "03038-1559"
-      },
-      {
-        "line": [
           "198 Massachusets Avenue"
         ],
         "city": "NORTH ANDOVER",
@@ -88,6 +62,32 @@
         "city": "LAWRENCE",
         "state": "MA",
         "postalCode": "01841-2997"
+      },
+      {
+        "line": [
+          "15 TSIENNETO RD",
+          "STE 101"
+        ],
+        "city": "DERRY",
+        "state": "NH",
+        "postalCode": "03038-1559"
+      },
+      {
+        "line": [
+          "70 EAST ST"
+        ],
+        "city": "METHUEN",
+        "state": "MA",
+        "postalCode": "01844-4597"
+      },
+      {
+        "line": [
+          "15 Tsienneto Road",
+          "Suite 101"
+        ],
+        "city": "DERRY",
+        "state": "NH",
+        "postalCode": "03038-1589"
       }
     ],
     "extension": [

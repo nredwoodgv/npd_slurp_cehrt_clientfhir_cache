@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720390453"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1134176472"
       },
       {
@@ -26,11 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114962461"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427251420"
+        "value": "1720390453"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -39,9 +31,25 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578696092"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114962461"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1427251420"
       }
     ],
     "address": [
+      {
+        "line": [
+          "22151 MOROSS"
+        ],
+        "city": "DETROIT",
+        "state": "MI",
+        "postalCode": "48236-2167"
+      },
       {
         "line": [
           "17900 23 Mile",
@@ -50,14 +58,6 @@
         "city": "MACOMB",
         "state": "MI",
         "postalCode": "48044-1161"
-      },
-      {
-        "line": [
-          "22151 MOROSS"
-        ],
-        "city": "DETROIT",
-        "state": "MI",
-        "postalCode": "48236-2167"
       }
     ],
     "extension": [

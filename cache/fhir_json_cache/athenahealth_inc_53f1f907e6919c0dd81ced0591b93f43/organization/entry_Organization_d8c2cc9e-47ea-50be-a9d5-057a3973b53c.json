@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861765364"
+        "value": "1083987978"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659360964"
+        "value": "1265705156"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861765364"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,19 +34,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1659360964"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1255848719"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265705156"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083987978"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
         "value": "19D2001637"
+      },
+      {
+        "system": "urn:oid:2.16.840.1.113883.4.7",
+        "value": "19D2001635"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
@@ -51,10 +55,6 @@
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
         "value": "19D2001636"
-      },
-      {
-        "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "19D2001635"
       }
     ],
     "address": [
@@ -73,6 +73,14 @@
         "city": "BATON ROUGE",
         "state": "LA",
         "postalCode": "70810-7830"
+      },
+      {
+        "line": [
+          "5000 hennessey blvd"
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70808-4375"
       },
       {
         "line": [
@@ -100,28 +108,20 @@
       },
       {
         "line": [
-          "5000 Hennessey Blvd"
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70808-4375"
-      },
-      {
-        "line": [
-          "5000 hennessey blvd"
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70808-4375"
-      },
-      {
-        "line": [
           "9050 Airline Hwy @ Goodwood Blvd.",
           "P.O. Box 95009"
         ],
         "city": "BATON ROUGE",
         "state": "LA",
         "postalCode": "70895-9009"
+      },
+      {
+        "line": [
+          "5000 Hennessey Blvd"
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70808-4375"
       }
     ],
     "extension": [

@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699171611"
+        "value": "1871439414"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871439414"
+        "value": "1699171611"
       }
     ],
     "address": [
-      {
-        "line": [
-          "506  St HWY 37"
-        ],
-        "city": "MOUNT VERNON",
-        "state": "TX",
-        "postalCode": "75457-3607"
-      },
       {
         "line": [
           "910 S beech st"
@@ -53,6 +45,14 @@
         "city": "MOUNT VERNON",
         "state": "TX",
         "postalCode": "75457-0600"
+      },
+      {
+        "line": [
+          "506  St HWY 37"
+        ],
+        "city": "MOUNT VERNON",
+        "state": "TX",
+        "postalCode": "75457-3607"
       }
     ],
     "extension": [

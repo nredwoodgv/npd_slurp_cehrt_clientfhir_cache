@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679945760"
+        "value": "1477980845"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710161823"
+        "value": "1114101607"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,15 +30,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1679945760"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1710161823"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1639713068"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477980845"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114101607"
       }
     ],
     "address": [
@@ -49,6 +49,22 @@
         "city": "TRENTON",
         "state": "NJ",
         "postalCode": "08618-4794"
+      },
+      {
+        "line": [
+          "321 North Warren Street"
+        ],
+        "city": "TRENTON",
+        "state": "NJ",
+        "postalCode": "08618-4794"
+      },
+      {
+        "line": [
+          "321 North Warren Street"
+        ],
+        "city": "TRENTON",
+        "state": "NJ",
+        "postalCode": "08618-4741"
       },
       {
         "line": [
@@ -65,22 +81,6 @@
         "city": "TRENTON",
         "state": "NJ",
         "postalCode": "08618-1713"
-      },
-      {
-        "line": [
-          "321 North Warren Street"
-        ],
-        "city": "TRENTON",
-        "state": "NJ",
-        "postalCode": "08618-4794"
-      },
-      {
-        "line": [
-          "321 North Warren Street"
-        ],
-        "city": "TRENTON",
-        "state": "NJ",
-        "postalCode": "08618-4741"
       }
     ],
     "extension": [

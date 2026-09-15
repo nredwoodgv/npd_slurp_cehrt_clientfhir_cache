@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780218305"
+        "value": "1245612225"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073032546"
+        "value": "1780218305"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,10 +26,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245612225"
+        "value": "1073032546"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1601 TRINITY STREET"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78712-1756"
+      },
+      {
+        "line": [
+          "919 E 32nd Street"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78705-2703"
+      },
+      {
+        "line": [
+          "1601 Trinity Street"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78712-1765"
+      },
       {
         "line": [
           "1301 West 38th Street",
@@ -41,35 +65,11 @@
       },
       {
         "line": [
-          "1201 W. 38th Street"
+          "6001 Kyle Pkwy"
         ],
-        "city": "AUSTIN",
+        "city": "KYLE",
         "state": "TX",
-        "postalCode": "78705-1006"
-      },
-      {
-        "line": [
-          "1111 West 34th St."
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78705-1900"
-      },
-      {
-        "line": [
-          "11113 Research Blvd"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78759-5236"
-      },
-      {
-        "line": [
-          "1400 North IH-35"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78701-1926"
+        "postalCode": "78640-6112"
       },
       {
         "line": [
@@ -81,19 +81,36 @@
       },
       {
         "line": [
-          "12221 MOPAC Expressway North"
+          "1500 Red River St"
         ],
         "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "78758-2401"
+        "postalCode": "78701-1918"
       },
       {
         "line": [
-          "201 Seton Pkwy"
+          "1201 W. 38th Street"
         ],
-        "city": "ROUND ROCK",
+        "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "78665-8000"
+        "postalCode": "78705-1006"
+      },
+      {
+        "line": [
+          "1601 trinity street",
+          "STOP Z0200"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78712-1850"
+      },
+      {
+        "line": [
+          "11113 Research Blvd"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78759-5236"
       },
       {
         "line": [
@@ -105,21 +122,21 @@
       },
       {
         "line": [
-          "900 W 38th Street",
-          "Suite 200"
+          "351 Cypress Creek Road",
+          "Suite 102"
         ],
-        "city": "AUSTIN",
+        "city": "CEDAR PARK",
         "state": "TX",
-        "postalCode": "78705-1129"
+        "postalCode": "78613-4528"
       },
       {
         "line": [
-          "1601 Trinity St.",
-          "Stop Z0200"
+          "2200 Park Bend Dr.",
+          "Bldg. 2, Suite 300B"
         ],
         "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "78712-1765"
+        "postalCode": "78758-5389"
       },
       {
         "line": [
@@ -129,6 +146,15 @@
         "city": "AUSTIN",
         "state": "TX",
         "postalCode": "78705-1700"
+      },
+      {
+        "line": [
+          "3401 Webberville Rd",
+          "Building 3000 Suite 3100"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78702-3004"
       },
       {
         "line": [
@@ -148,28 +174,20 @@
       },
       {
         "line": [
-          "3401 Webberville Rd",
-          "Building 3000 Suite 3100"
+          "11111 Research Blvd",
+          "Suite LL3"
         ],
         "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "78702-3004"
+        "postalCode": "78759-5236"
       },
       {
         "line": [
-          "1601 Trinity Street, Bldg. A, Suite 1.616"
+          "12221 MOPAC Expressway North"
         ],
         "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "78712-1765"
-      },
-      {
-        "line": [
-          "1500 Red River St"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78701-1918"
+        "postalCode": "78758-2401"
       },
       {
         "line": [
@@ -181,28 +199,12 @@
       },
       {
         "line": [
-          "6001 Kyle Pkwy"
-        ],
-        "city": "KYLE",
-        "state": "TX",
-        "postalCode": "78640-6112"
-      },
-      {
-        "line": [
-          "11111 Research Blvd",
-          "Suite LL3"
+          "1601 Trinity St.",
+          "Stop Z0200"
         ],
         "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "78759-5236"
-      },
-      {
-        "line": [
-          "919 E 32nd Street"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78705-2703"
+        "postalCode": "78712-1765"
       },
       {
         "line": [
@@ -214,12 +216,11 @@
       },
       {
         "line": [
-          "1601 trinity street",
-          "STOP Z0200"
+          "1601 Trinity St."
         ],
         "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "78712-1850"
+        "postalCode": "78712-1756"
       },
       {
         "line": [
@@ -231,11 +232,27 @@
       },
       {
         "line": [
-          "1601 TRINITY STREET"
+          "1111 West 34th St."
         ],
         "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "78712-1756"
+        "postalCode": "78705-1900"
+      },
+      {
+        "line": [
+          "1601 Trinity"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78712-1850"
+      },
+      {
+        "line": [
+          "7900 Farm to Market Rd 1826"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78737-1405"
       },
       {
         "line": [
@@ -248,28 +265,20 @@
       },
       {
         "line": [
-          "2200 Park Bend Dr.",
-          "Bldg. 2, Suite 300B"
+          "1400 North IH-35"
         ],
         "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "78758-5389"
+        "postalCode": "78701-1926"
       },
       {
         "line": [
-          "1601 Trinity Street"
+          "900 W 38th Street",
+          "Suite 200"
         ],
         "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "78712-1765"
-      },
-      {
-        "line": [
-          "1601 Trinity St."
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78712-1756"
+        "postalCode": "78705-1129"
       },
       {
         "line": [
@@ -281,28 +290,19 @@
       },
       {
         "line": [
-          "351 Cypress Creek Road",
-          "Suite 102"
-        ],
-        "city": "CEDAR PARK",
-        "state": "TX",
-        "postalCode": "78613-4528"
-      },
-      {
-        "line": [
-          "7900 Farm to Market Rd 1826"
+          "1601 Trinity Street, Bldg. A, Suite 1.616"
         ],
         "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "78737-1405"
+        "postalCode": "78712-1765"
       },
       {
         "line": [
-          "1601 Trinity"
+          "201 Seton Pkwy"
         ],
-        "city": "AUSTIN",
+        "city": "ROUND ROCK",
         "state": "TX",
-        "postalCode": "78712-1850"
+        "postalCode": "78665-8000"
       }
     ],
     "extension": [

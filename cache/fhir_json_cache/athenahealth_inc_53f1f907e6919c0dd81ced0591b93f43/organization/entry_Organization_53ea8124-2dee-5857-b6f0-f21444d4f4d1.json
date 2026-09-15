@@ -14,7 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215945456"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1023064482"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1710928221"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,38 +34,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710928221"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215945456"
+        "value": "1184786329"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1376582775"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184786329"
       }
     ],
     "address": [
-      {
-        "line": [
-          "13111 N PORT WASHINGTON RD"
-        ],
-        "city": "MEQUON",
-        "state": "WI",
-        "postalCode": "53097-2416"
-      },
-      {
-        "line": [
-          "2301 N LAKE DR"
-        ],
-        "city": "MILWAUKEE",
-        "state": "WI",
-        "postalCode": "53211-4508"
-      },
       {
         "line": [
           "2323 N Lake Dr"
@@ -68,11 +52,11 @@
       },
       {
         "line": [
-          "3056 S Kinnickinnic Ave"
+          "2301 N LAKE DR"
         ],
-        "city": "BAY VIEW",
+        "city": "MILWAUKEE",
         "state": "WI",
-        "postalCode": "53027-2521"
+        "postalCode": "53211-4508"
       },
       {
         "line": [
@@ -89,6 +73,22 @@
         "city": "MILWAUKEE",
         "state": "WI",
         "postalCode": "53211-4508"
+      },
+      {
+        "line": [
+          "13111 N PORT WASHINGTON RD"
+        ],
+        "city": "MEQUON",
+        "state": "WI",
+        "postalCode": "53097-2416"
+      },
+      {
+        "line": [
+          "3056 S Kinnickinnic Ave"
+        ],
+        "city": "BAY VIEW",
+        "state": "WI",
+        "postalCode": "53027-2521"
       }
     ],
     "extension": [

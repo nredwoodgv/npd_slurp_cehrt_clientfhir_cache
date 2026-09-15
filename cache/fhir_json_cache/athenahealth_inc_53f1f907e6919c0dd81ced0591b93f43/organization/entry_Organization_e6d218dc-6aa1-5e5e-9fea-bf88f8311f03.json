@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750621769"
+        "value": "1760272645"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871516799"
+        "value": "1750621769"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174549786"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,21 +34,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760272645"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174549786"
+        "value": "1871516799"
       }
     ],
     "address": [
       {
         "line": [
-          "6201 West Roosevelt Road"
+          "14 Lake Street"
         ],
-        "city": "BERWYN",
+        "city": "OAK PARK",
         "state": "IL",
-        "postalCode": "60402-1108"
+        "postalCode": "60302-2606"
       },
       {
         "line": [
@@ -64,11 +64,11 @@
       },
       {
         "line": [
-          "14 Lake Street"
+          "6201 West Roosevelt Road"
         ],
-        "city": "OAK PARK",
+        "city": "BERWYN",
         "state": "IL",
-        "postalCode": "60302-2606"
+        "postalCode": "60402-1108"
       }
     ],
     "extension": [

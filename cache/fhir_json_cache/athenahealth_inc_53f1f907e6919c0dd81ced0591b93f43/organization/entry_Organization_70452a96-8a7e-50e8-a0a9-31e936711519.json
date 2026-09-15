@@ -14,42 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568065969"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730295296"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245830124"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295236594"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225636673"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770183766"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417557133"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326543497"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104327378"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1982201877"
       },
       {
@@ -58,21 +22,57 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316540750"
+        "value": "1295236594"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245830124"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1265937312"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104327378"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1568065969"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730295296"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225636673"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326543497"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1770183766"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316540750"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417557133"
       }
     ],
     "address": [
       {
         "line": [
-          "2270 Highway 133"
+          "51 School Street"
         ],
-        "city": "CARBONDALE",
+        "city": "BASALT",
         "state": "CO",
-        "postalCode": "81623-9271"
+        "postalCode": "81621-8223"
       },
       {
         "line": [
@@ -84,19 +84,19 @@
       },
       {
         "line": [
+          "2270 Highway 133"
+        ],
+        "city": "CARBONDALE",
+        "state": "CO",
+        "postalCode": "81623-9271"
+      },
+      {
+        "line": [
           "600 Southside Drive"
         ],
         "city": "BASALT",
         "state": "CO",
         "postalCode": "81621-9131"
-      },
-      {
-        "line": [
-          "51 School Street"
-        ],
-        "city": "BASALT",
-        "state": "CO",
-        "postalCode": "81621-8223"
       }
     ],
     "extension": [

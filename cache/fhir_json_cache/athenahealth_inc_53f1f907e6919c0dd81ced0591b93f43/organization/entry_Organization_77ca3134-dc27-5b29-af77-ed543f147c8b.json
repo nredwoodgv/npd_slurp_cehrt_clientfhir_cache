@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407433550"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1689241036"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326692005"
+        "value": "1346845120"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +26,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346845120"
+        "value": "1407433550"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1477158251"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,17 +42,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477158251"
+        "value": "1326692005"
       }
     ],
     "address": [
       {
         "line": [
-          "3329 E BELL RD"
+          "8731 KATY FWY STE 400"
         ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85032-2756"
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77024-1735"
       },
       {
         "line": [
@@ -65,11 +65,150 @@
       },
       {
         "line": [
-          "610 N COIT RD STE 2100"
+          "100 SE 59TH ST STE 195"
+        ],
+        "city": "OKLAHOMA CITY",
+        "state": "OK",
+        "postalCode": "73129-3616"
+      },
+      {
+        "line": [
+          "1351 N President George Bush Hwy"
         ],
         "city": "RICHARDSON",
         "state": "TX",
-        "postalCode": "75080-5462"
+        "postalCode": "75080-1133"
+      },
+      {
+        "line": [
+          "11990 N CENTRAL EXPY"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75243-3714"
+      },
+      {
+        "line": [
+          "1351 N President George Bush Hwy",
+          "Suite 400"
+        ],
+        "city": "RICHARDSON",
+        "state": "TX",
+        "postalCode": "75001-7101"
+      },
+      {
+        "line": [
+          "4860 E BASELINE RD STE 101"
+        ],
+        "city": "MESA",
+        "state": "AZ",
+        "postalCode": "85206-4670"
+      },
+      {
+        "line": [
+          "3130 SW 89TH ST STE 200"
+        ],
+        "city": "OKLAHOMA CITY",
+        "state": "OK",
+        "postalCode": "73159-7909"
+      },
+      {
+        "line": [
+          "4409 N KICKAPOO AVE STE 129"
+        ],
+        "city": "SHAWNEE",
+        "state": "OK",
+        "postalCode": "74804-1225"
+      },
+      {
+        "line": [
+          "1750 TYSONS BLVD"
+        ],
+        "city": "MC LEAN",
+        "state": "VA",
+        "postalCode": "22102-4227"
+      },
+      {
+        "line": [
+          "100 SE 59th st"
+        ],
+        "city": "OKLAHOMA CITY",
+        "state": "OK",
+        "postalCode": "73129-3616"
+      },
+      {
+        "line": [
+          "2301 MARSH LN"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75093-8497"
+      },
+      {
+        "line": [
+          "3525 N CENTRAL AVE"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85012-2101"
+      },
+      {
+        "line": [
+          "1917 ASHLAND ST"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77008-3907"
+      },
+      {
+        "line": [
+          "3329 E BELL RD"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85032-2756"
+      },
+      {
+        "line": [
+          "4860 E BASELINE RD",
+          "SUITE 101"
+        ],
+        "city": "MESA",
+        "state": "AZ",
+        "postalCode": "85206-4699"
+      },
+      {
+        "line": [
+          "SONOSPINE OKLAHOMA LLC",
+          "100 SE 59th St"
+        ],
+        "city": "OKLAHOMA CITY",
+        "state": "OK",
+        "postalCode": "73129-3616"
+      },
+      {
+        "line": [
+          "1400 S DOBSON RD"
+        ],
+        "city": "MESA",
+        "state": "AZ",
+        "postalCode": "85202-4707"
+      },
+      {
+        "line": [
+          "4409 N KICKAPOO AVE"
+        ],
+        "city": "SHAWNEE",
+        "state": "OK",
+        "postalCode": "74804-1206"
+      },
+      {
+        "line": [
+          "8100 S WALKER AVE"
+        ],
+        "city": "OKLAHOMA CITY",
+        "state": "OK",
+        "postalCode": "73139-9404"
       },
       {
         "line": [
@@ -82,11 +221,86 @@
       },
       {
         "line": [
+          "610 N COIT RD STE 2100"
+        ],
+        "city": "RICHARDSON",
+        "state": "TX",
+        "postalCode": "75080-5462"
+      },
+      {
+        "line": [
+          "4860 BASELINE ROAD",
+          "SUITE 101"
+        ],
+        "city": "MESA",
+        "state": "AZ",
+        "postalCode": "85206-4670"
+      },
+      {
+        "line": [
+          "1000 N LEE AVE"
+        ],
+        "city": "OKLAHOMA CITY",
+        "state": "OK",
+        "postalCode": "73102-1036"
+      },
+      {
+        "line": [
+          "3130 SW 89TH STREET",
+          "SUITE 200"
+        ],
+        "city": "OKLAHOMA CITY",
+        "state": "OK",
+        "postalCode": "73159-7900"
+      },
+      {
+        "line": [
+          "3901 W 15TH ST"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75075-7738"
+      },
+      {
+        "line": [
+          "3705 NW 63RD ST STE 201"
+        ],
+        "city": "OKLAHOMA CITY",
+        "state": "OK",
+        "postalCode": "73116-1937"
+      },
+      {
+        "line": [
+          "3130 SW 89th Street",
+          "Suite 200"
+        ],
+        "city": "OKLAHOMA CITY",
+        "state": "OK",
+        "postalCode": "73159-7900"
+      },
+      {
+        "line": [
           "5601 WARREN PKWY"
         ],
         "city": "FRISCO",
         "state": "TX",
         "postalCode": "75034-4069"
+      },
+      {
+        "line": [
+          "1833 S MORGAN RD"
+        ],
+        "city": "OKLAHOMA CITY",
+        "state": "OK",
+        "postalCode": "73128-7004"
+      },
+      {
+        "line": [
+          "610 N COIT RD"
+        ],
+        "city": "RICHARDSON",
+        "state": "TX",
+        "postalCode": "75080-5474"
       },
       {
         "line": [
@@ -99,43 +313,54 @@
       },
       {
         "line": [
-          "3525 N CENTRAL AVE"
+          "100 SE 59TH ST",
+          "SUITE 1050"
+        ],
+        "city": "OKLAHOMA CITY",
+        "state": "OK",
+        "postalCode": "73129-3616"
+      },
+      {
+        "line": [
+          "3329 E BELL RD",
+          "A2 A5"
         ],
         "city": "PHOENIX",
         "state": "AZ",
-        "postalCode": "85012-2101"
+        "postalCode": "85032-2756"
       },
       {
         "line": [
-          "1833 S MORGAN RD"
+          "100 NE 85TH ST"
         ],
         "city": "OKLAHOMA CITY",
         "state": "OK",
-        "postalCode": "73128-7004"
+        "postalCode": "73114-3916"
       },
       {
         "line": [
-          "3705 NW 63RD ST STE 201"
+          "13100 N WESTERN AVE STE 303"
         ],
         "city": "OKLAHOMA CITY",
         "state": "OK",
-        "postalCode": "73116-1937"
+        "postalCode": "73114-1432"
       },
       {
         "line": [
-          "3130 SW 89TH ST STE 200"
+          "17101 DALLAS PKWY"
         ],
-        "city": "OKLAHOMA CITY",
-        "state": "OK",
-        "postalCode": "73159-7909"
-      },
-      {
-        "line": [
-          "3901 W 15TH ST"
-        ],
-        "city": "PLANO",
+        "city": "ADDISON",
         "state": "TX",
-        "postalCode": "75075-7738"
+        "postalCode": "75001-7103"
+      },
+      {
+        "line": [
+          "3130 SW 89TH ST",
+          "Suite 200"
+        ],
+        "city": "OKLAHOMA CITY",
+        "state": "OK",
+        "postalCode": "73159-7908"
       },
       {
         "line": [
@@ -154,231 +379,6 @@
         "city": "OKLAHOMA CITY",
         "state": "OK",
         "postalCode": "73159-7900"
-      },
-      {
-        "line": [
-          "4860 E BASELINE RD STE 101"
-        ],
-        "city": "MESA",
-        "state": "AZ",
-        "postalCode": "85206-4670"
-      },
-      {
-        "line": [
-          "13100 N WESTERN AVE STE 303"
-        ],
-        "city": "OKLAHOMA CITY",
-        "state": "OK",
-        "postalCode": "73114-1432"
-      },
-      {
-        "line": [
-          "610 N COIT RD"
-        ],
-        "city": "RICHARDSON",
-        "state": "TX",
-        "postalCode": "75080-5474"
-      },
-      {
-        "line": [
-          "1750 TYSONS BLVD"
-        ],
-        "city": "MC LEAN",
-        "state": "VA",
-        "postalCode": "22102-4227"
-      },
-      {
-        "line": [
-          "100 SE 59TH ST",
-          "SUITE 1050"
-        ],
-        "city": "OKLAHOMA CITY",
-        "state": "OK",
-        "postalCode": "73129-3616"
-      },
-      {
-        "line": [
-          "8731 KATY FWY STE 400"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77024-1735"
-      },
-      {
-        "line": [
-          "4860 BASELINE ROAD",
-          "SUITE 101"
-        ],
-        "city": "MESA",
-        "state": "AZ",
-        "postalCode": "85206-4670"
-      },
-      {
-        "line": [
-          "1917 ASHLAND ST"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77008-3907"
-      },
-      {
-        "line": [
-          "3130 SW 89th Street",
-          "Suite 200"
-        ],
-        "city": "OKLAHOMA CITY",
-        "state": "OK",
-        "postalCode": "73159-7900"
-      },
-      {
-        "line": [
-          "100 SE 59th st"
-        ],
-        "city": "OKLAHOMA CITY",
-        "state": "OK",
-        "postalCode": "73129-3616"
-      },
-      {
-        "line": [
-          "1400 S DOBSON RD"
-        ],
-        "city": "MESA",
-        "state": "AZ",
-        "postalCode": "85202-4707"
-      },
-      {
-        "line": [
-          "4860 E BASELINE RD",
-          "SUITE 101"
-        ],
-        "city": "MESA",
-        "state": "AZ",
-        "postalCode": "85206-4699"
-      },
-      {
-        "line": [
-          "4409 N KICKAPOO AVE STE 129"
-        ],
-        "city": "SHAWNEE",
-        "state": "OK",
-        "postalCode": "74804-1225"
-      },
-      {
-        "line": [
-          "2301 MARSH LN"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75093-8497"
-      },
-      {
-        "line": [
-          "4409 N KICKAPOO AVE"
-        ],
-        "city": "SHAWNEE",
-        "state": "OK",
-        "postalCode": "74804-1206"
-      },
-      {
-        "line": [
-          "100 SE 59TH ST STE 195"
-        ],
-        "city": "OKLAHOMA CITY",
-        "state": "OK",
-        "postalCode": "73129-3616"
-      },
-      {
-        "line": [
-          "3130 SW 89TH STREET",
-          "SUITE 200"
-        ],
-        "city": "OKLAHOMA CITY",
-        "state": "OK",
-        "postalCode": "73159-7900"
-      },
-      {
-        "line": [
-          "SONOSPINE OKLAHOMA LLC",
-          "100 SE 59th St"
-        ],
-        "city": "OKLAHOMA CITY",
-        "state": "OK",
-        "postalCode": "73129-3616"
-      },
-      {
-        "line": [
-          "100 NE 85TH ST"
-        ],
-        "city": "OKLAHOMA CITY",
-        "state": "OK",
-        "postalCode": "73114-3916"
-      },
-      {
-        "line": [
-          "1351 N President George Bush Hwy",
-          "Suite 400"
-        ],
-        "city": "RICHARDSON",
-        "state": "TX",
-        "postalCode": "75001-7101"
-      },
-      {
-        "line": [
-          "17101 DALLAS PKWY"
-        ],
-        "city": "ADDISON",
-        "state": "TX",
-        "postalCode": "75001-7103"
-      },
-      {
-        "line": [
-          "8100 S WALKER AVE"
-        ],
-        "city": "OKLAHOMA CITY",
-        "state": "OK",
-        "postalCode": "73139-9404"
-      },
-      {
-        "line": [
-          "11990 N CENTRAL EXPY"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75243-3714"
-      },
-      {
-        "line": [
-          "1351 N President George Bush Hwy"
-        ],
-        "city": "RICHARDSON",
-        "state": "TX",
-        "postalCode": "75080-1133"
-      },
-      {
-        "line": [
-          "1000 N LEE AVE"
-        ],
-        "city": "OKLAHOMA CITY",
-        "state": "OK",
-        "postalCode": "73102-1036"
-      },
-      {
-        "line": [
-          "3130 SW 89TH ST",
-          "Suite 200"
-        ],
-        "city": "OKLAHOMA CITY",
-        "state": "OK",
-        "postalCode": "73159-7908"
-      },
-      {
-        "line": [
-          "3329 E BELL RD",
-          "A2 A5"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85032-2756"
       }
     ],
     "extension": [

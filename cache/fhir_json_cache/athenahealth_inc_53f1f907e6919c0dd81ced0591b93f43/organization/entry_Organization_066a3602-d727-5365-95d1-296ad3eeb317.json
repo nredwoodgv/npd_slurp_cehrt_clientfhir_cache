@@ -14,22 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922115914"
+        "value": "1558530600"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558530600"
+        "value": "1922115914"
       }
     ],
     "address": [
       {
         "line": [
-          "61 Memorial Medical Parkway",
-          "Suite 1-800A"
+          "61 Memorial Medical Pkwy",
+          "Suite 2811"
         ],
         "city": "PALM COAST",
         "state": "FL",
-        "postalCode": "32164-5982"
+        "postalCode": "32164-5981"
       },
       {
         "line": [
@@ -43,24 +43,7 @@
       {
         "line": [
           "61 Memorial Medical Pkwy",
-          "SUITE 2811"
-        ],
-        "city": "PALM COAST",
-        "state": "FL",
-        "postalCode": "32164-5982"
-      },
-      {
-        "line": [
-          "61 Memorial Medical Pkwy",
           "Suite 2811"
-        ],
-        "city": "PALM COAST",
-        "state": "FL",
-        "postalCode": "32164-5981"
-      },
-      {
-        "line": [
-          "61 Memorial Medical Parkway"
         ],
         "city": "PALM COAST",
         "state": "FL",
@@ -76,8 +59,25 @@
       },
       {
         "line": [
+          "61 Memorial Medical Parkway"
+        ],
+        "city": "PALM COAST",
+        "state": "FL",
+        "postalCode": "32164-5982"
+      },
+      {
+        "line": [
           "61 Memorial Medical Pkwy",
-          "Suite 2811"
+          "SUITE 2811"
+        ],
+        "city": "PALM COAST",
+        "state": "FL",
+        "postalCode": "32164-5982"
+      },
+      {
+        "line": [
+          "61 Memorial Medical Parkway",
+          "Suite 1-800A"
         ],
         "city": "PALM COAST",
         "state": "FL",

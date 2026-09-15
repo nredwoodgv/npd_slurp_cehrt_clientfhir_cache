@@ -14,22 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588157424"
+        "value": "1700105079"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700105079"
+        "value": "1588157424"
       }
     ],
     "address": [
       {
         "line": [
-          "744 Empire St.",
-          "Suite 160"
+          "1670 Corporate Circle, Suite 100"
         ],
-        "city": "FAIRFIELD",
+        "city": "PETALUMA",
         "state": "CA",
-        "postalCode": "94533-5562"
+        "postalCode": "94954-6947"
+      },
+      {
+        "line": [
+          "2850 Shadelands Drive, Building 6, Suite 101 &102"
+        ],
+        "city": "WALNUT CREEK",
+        "state": "CA",
+        "postalCode": "94598-2527"
       },
       {
         "line": [
@@ -42,11 +49,11 @@
       },
       {
         "line": [
-          "2850 Shadelands Drive, Building 6, Suite 101 &102"
+          "1101 South Winchester Blvd, Suite N260"
         ],
-        "city": "WALNUT CREEK",
+        "city": "SAN JOSE",
         "state": "CA",
-        "postalCode": "94598-2527"
+        "postalCode": "95128-3904"
       },
       {
         "line": [
@@ -66,19 +73,12 @@
       },
       {
         "line": [
-          "1101 South Winchester Blvd, Suite N260"
+          "744 Empire St.",
+          "Suite 160"
         ],
-        "city": "SAN JOSE",
+        "city": "FAIRFIELD",
         "state": "CA",
-        "postalCode": "95128-3904"
-      },
-      {
-        "line": [
-          "1670 Corporate Circle, Suite 100"
-        ],
-        "city": "PETALUMA",
-        "state": "CA",
-        "postalCode": "94954-6947"
+        "postalCode": "94533-5562"
       }
     ],
     "extension": [

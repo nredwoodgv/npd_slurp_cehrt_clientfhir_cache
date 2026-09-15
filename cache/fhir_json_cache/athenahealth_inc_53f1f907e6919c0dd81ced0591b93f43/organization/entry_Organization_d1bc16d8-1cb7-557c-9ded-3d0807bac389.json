@@ -14,27 +14,52 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356571566"
+        "value": "1407557408"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407557408"
+        "value": "1356571566"
       }
     ],
     "address": [
       {
         "line": [
-          "5700 SAN FERNANDO RD"
+          "1818 Verdugo Blvd",
+          "Ste 107"
         ],
         "city": "GLENDALE",
         "state": "CA",
-        "postalCode": "91202-4007"
+        "postalCode": "91208-1400"
       },
       {
         "line": [
           "1509 E WILSON TERRACE"
         ],
         "city": "GLENDALEG",
+        "state": "CA",
+        "postalCode": "91206-4007"
+      },
+      {
+        "line": [
+          "501 S BUENA VISTA ST"
+        ],
+        "city": "BURBANK",
+        "state": "CA",
+        "postalCode": "91505-4809"
+      },
+      {
+        "line": [
+          "1420 S CENTRAL AVE"
+        ],
+        "city": "GLENDALE",
+        "state": "CA",
+        "postalCode": "91204-2508"
+      },
+      {
+        "line": [
+          "1500 E CHEVY CHASE DR"
+        ],
+        "city": "GLENDALE",
         "state": "CA",
         "postalCode": "91206-4007"
       },
@@ -48,28 +73,11 @@
       },
       {
         "line": [
-          "1500 E CHEVY CHASE DR"
+          "5700 SAN FERNANDO RD"
         ],
         "city": "GLENDALE",
         "state": "CA",
-        "postalCode": "91206-4007"
-      },
-      {
-        "line": [
-          "1818 Verdugo Blvd",
-          "Ste 107"
-        ],
-        "city": "GLENDALE",
-        "state": "CA",
-        "postalCode": "91208-1400"
-      },
-      {
-        "line": [
-          "501 S BUENA VISTA ST"
-        ],
-        "city": "BURBANK",
-        "state": "CA",
-        "postalCode": "91505-4809"
+        "postalCode": "91202-4007"
       },
       {
         "line": [
@@ -78,14 +86,6 @@
         "city": "GLENDALE",
         "state": "CA",
         "postalCode": "91206-4007"
-      },
-      {
-        "line": [
-          "1420 S CENTRAL AVE"
-        ],
-        "city": "GLENDALE",
-        "state": "CA",
-        "postalCode": "91204-2508"
       }
     ],
     "extension": [

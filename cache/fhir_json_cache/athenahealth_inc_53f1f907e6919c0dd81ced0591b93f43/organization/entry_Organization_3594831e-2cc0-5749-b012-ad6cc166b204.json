@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346244688"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1205845369"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1942860176"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1346244688"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,11 +32,45 @@
     "address": [
       {
         "line": [
-          "7115 GREENVILLE AVE STE 310"
+          "8210 WALNUT HILL LN STE 130"
         ],
         "city": "DALLAS",
         "state": "TX",
-        "postalCode": "75231-5103"
+        "postalCode": "75231-4418"
+      },
+      {
+        "line": [
+          "925 Hilltop Dr.",
+          "Suite 101"
+        ],
+        "city": "WEATHERFORD",
+        "state": "TX",
+        "postalCode": "76086-5890"
+      },
+      {
+        "line": [
+          "721 Keller Parkway",
+          "Suite 107a"
+        ],
+        "city": "KELLER",
+        "state": "TX",
+        "postalCode": "76248-2404"
+      },
+      {
+        "line": [
+          "330 STANDRIDGE BLVD"
+        ],
+        "city": "ANNA",
+        "state": "TX",
+        "postalCode": "75409-3423"
+      },
+      {
+        "line": [
+          "8081 Walnut Hill STE 1000"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75231-4313"
       },
       {
         "line": [
@@ -49,11 +83,12 @@
       },
       {
         "line": [
-          "8210 Walnut Hill Ln STE 130"
+          "8210 WALNUT HILL LN",
+          "SUITE 130"
         ],
         "city": "DALLAS",
         "state": "TX",
-        "postalCode": "75231-4418"
+        "postalCode": "75231-4313"
       },
       {
         "line": [
@@ -75,63 +110,11 @@
       },
       {
         "line": [
-          "8081 Walnut Hill STE 1000"
+          "7115 GREENVILLE AVE STE 310"
         ],
         "city": "DALLAS",
         "state": "TX",
-        "postalCode": "75231-4313"
-      },
-      {
-        "line": [
-          "640 KELLER PKWY",
-          "STE 100"
-        ],
-        "city": "KELLER",
-        "state": "TX",
-        "postalCode": "76248-2559"
-      },
-      {
-        "line": [
-          "721 Keller Parkway STE 107B"
-        ],
-        "city": "KELLER",
-        "state": "TX",
-        "postalCode": "76248-2404"
-      },
-      {
-        "line": [
-          "721 Keller Parkway",
-          "Suite 107a"
-        ],
-        "city": "KELLER",
-        "state": "TX",
-        "postalCode": "76248-2404"
-      },
-      {
-        "line": [
-          "8210 WALNUT HILL LN",
-          "SUITE 130"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75231-4313"
-      },
-      {
-        "line": [
-          "925 Hilltop Dr.",
-          "Suite 101"
-        ],
-        "city": "WEATHERFORD",
-        "state": "TX",
-        "postalCode": "76086-5890"
-      },
-      {
-        "line": [
-          "5900 ALTAMESA BLVD"
-        ],
-        "city": "FORT WORTH",
-        "state": "TX",
-        "postalCode": "76132-5473"
+        "postalCode": "75231-5103"
       },
       {
         "line": [
@@ -144,19 +127,36 @@
       },
       {
         "line": [
-          "330 STANDRIDGE BLVD"
+          "721 Keller Parkway STE 107B"
         ],
-        "city": "ANNA",
+        "city": "KELLER",
         "state": "TX",
-        "postalCode": "75409-3423"
+        "postalCode": "76248-2404"
       },
       {
         "line": [
-          "8210 WALNUT HILL LN STE 130"
+          "640 KELLER PKWY",
+          "STE 100"
+        ],
+        "city": "KELLER",
+        "state": "TX",
+        "postalCode": "76248-2559"
+      },
+      {
+        "line": [
+          "8210 Walnut Hill Ln STE 130"
         ],
         "city": "DALLAS",
         "state": "TX",
         "postalCode": "75231-4418"
+      },
+      {
+        "line": [
+          "5900 ALTAMESA BLVD"
+        ],
+        "city": "FORT WORTH",
+        "state": "TX",
+        "postalCode": "76132-5473"
       }
     ],
     "extension": [

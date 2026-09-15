@@ -18,7 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205617370"
+        "value": "1730972944"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,23 +26,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003688037"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023801230"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922870955"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1811778988"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649051715"
+        "value": "1205617370"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,15 +38,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013700228"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235811787"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558133587"
+        "value": "1023801230"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -70,22 +50,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013700228"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235811787"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649051715"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1003688037"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1679366843"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730972944"
+        "value": "1922870955"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1558133587"
       }
     ],
     "address": [
-      {
-        "line": [
-          "11000 OPTUM CIR EDEN PRAIRIE"
-        ],
-        "city": "EDEN PRAIRIE",
-        "state": "MN",
-        "postalCode": "55344-2503"
-      },
       {
         "line": [
           "1330 Beacon St",
@@ -94,15 +86,6 @@
         "city": "BROOKLINE",
         "state": "MA",
         "postalCode": "02446-3202"
-      },
-      {
-        "line": [
-          "575 Boylston St",
-          "FL 2W"
-        ],
-        "city": "BOSTON",
-        "state": "MA",
-        "postalCode": "02116-3607"
       },
       {
         "line": [
@@ -115,12 +98,20 @@
       },
       {
         "line": [
-          "875 Massachusetts Ave",
-          "Unit 84"
+          "575 Boylston St",
+          "FL 2W"
         ],
-        "city": "CAMBRIDGE",
+        "city": "BOSTON",
         "state": "MA",
-        "postalCode": "02139-3067"
+        "postalCode": "02116-3607"
+      },
+      {
+        "line": [
+          "11000 OPTUM CIR EDEN PRAIRIE"
+        ],
+        "city": "EDEN PRAIRIE",
+        "state": "MN",
+        "postalCode": "55344-2503"
       },
       {
         "line": [
@@ -130,6 +121,15 @@
         "city": "SOMERVILLE",
         "state": "MA",
         "postalCode": "02144-2950"
+      },
+      {
+        "line": [
+          "875 Massachusetts Ave",
+          "Unit 84"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02139-3067"
       }
     ],
     "extension": [

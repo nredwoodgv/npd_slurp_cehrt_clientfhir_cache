@@ -14,6 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457782898"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245633528"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326441601"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1073944419"
       },
       {
@@ -22,45 +34,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245633528"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457782898"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1316340698"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326441601"
       }
     ],
     "address": [
-      {
-        "line": [
-          "7101 JAHNKE ROAD"
-        ],
-        "city": "RICHMOND",
-        "state": "VA",
-        "postalCode": "23225-4017"
-      },
-      {
-        "line": [
-          "2621 GROVE AVENUE"
-        ],
-        "city": "RICHMOND",
-        "state": "VA",
-        "postalCode": "23220-4308"
-      },
       {
         "line": [
           "411 WEST RANDOLPH ROAD"
         ],
         "city": "HOPEWELL",
         "state": "VA",
-        "postalCode": "23860-2937"
+        "postalCode": "23860-2938"
       },
       {
         "line": [
@@ -72,19 +56,19 @@
       },
       {
         "line": [
-          "1602 SKIPWITH ROAD"
+          "2621 GROVE AVENUE"
         ],
-        "city": "HENRICO",
+        "city": "RICHMOND",
         "state": "VA",
-        "postalCode": "23229-5205"
+        "postalCode": "23220-4308"
       },
       {
         "line": [
-          "411 WEST RANDOLPH ROAD"
+          "7101 JAHNKE ROAD"
         ],
-        "city": "HOPEWELL",
+        "city": "RICHMOND",
         "state": "VA",
-        "postalCode": "23860-2938"
+        "postalCode": "23225-4017"
       },
       {
         "line": [
@@ -93,6 +77,22 @@
         "city": "RICHMOND",
         "state": "VA",
         "postalCode": "23235-4730"
+      },
+      {
+        "line": [
+          "411 WEST RANDOLPH ROAD"
+        ],
+        "city": "HOPEWELL",
+        "state": "VA",
+        "postalCode": "23860-2937"
+      },
+      {
+        "line": [
+          "1602 SKIPWITH ROAD"
+        ],
+        "city": "HENRICO",
+        "state": "VA",
+        "postalCode": "23229-5205"
       }
     ],
     "extension": [

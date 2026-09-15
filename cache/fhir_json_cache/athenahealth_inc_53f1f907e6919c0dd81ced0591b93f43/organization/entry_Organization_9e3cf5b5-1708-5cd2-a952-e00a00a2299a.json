@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023467594"
+        "value": "1922439389"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922439389"
+        "value": "1023467594"
       }
     ],
     "address": [
+      {
+        "line": [
+          "123 Main St."
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10017-1234"
+      },
       {
         "line": [
           "3901 W 15th St"
@@ -32,7 +40,7 @@
       },
       {
         "line": [
-          "50 W MAIN ST"
+          "500 W MAIN ST"
         ],
         "city": "LEWISVILLE",
         "state": "TX",
@@ -48,27 +56,19 @@
       },
       {
         "line": [
-          "500 W MAIN ST"
+          "2850 E Highway 114"
+        ],
+        "city": "Trophy Club",
+        "state": "TX",
+        "postalCode": "76262-5302"
+      },
+      {
+        "line": [
+          "50 W MAIN ST"
         ],
         "city": "LEWISVILLE",
         "state": "TX",
         "postalCode": "75057-3629"
-      },
-      {
-        "line": [
-          "123 Main St."
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10017-1234"
-      },
-      {
-        "line": [
-          "3901 W 15th st"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75075-7738"
       },
       {
         "line": [
@@ -80,11 +80,11 @@
       },
       {
         "line": [
-          "2850 E Highway 114"
+          "3901 W 15th st"
         ],
-        "city": "Trophy Club",
+        "city": "PLANO",
         "state": "TX",
-        "postalCode": "76262-5302"
+        "postalCode": "75075-7738"
       },
       {
         "line": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750166898"
+        "value": "1124248752"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124248752"
+        "value": "1750166898"
       }
     ],
     "address": [
@@ -32,38 +32,6 @@
       },
       {
         "line": [
-          "1400 HOSPITAL DR"
-        ],
-        "city": "HURRICANE",
-        "state": "WV",
-        "postalCode": "25526-9202"
-      },
-      {
-        "line": [
-          "3200 MACCORKLE AVE SE"
-        ],
-        "city": "CHARLESTON",
-        "state": "WV",
-        "postalCode": "25304-1227"
-      },
-      {
-        "line": [
-          "800 PENNSYLVANIA AVE"
-        ],
-        "city": "CHARLESTON",
-        "state": "WV",
-        "postalCode": "25302-3351"
-      },
-      {
-        "line": [
-          "501 MORRIS ST"
-        ],
-        "city": "CHARLESTON",
-        "state": "WV",
-        "postalCode": "25301-1326"
-      },
-      {
-        "line": [
           "3200 MACCORKLE AVE SE"
         ],
         "city": "CHARLESTON",
@@ -72,11 +40,11 @@
       },
       {
         "line": [
-          "9 courtney drive"
+          "501 MORRIS ST"
         ],
         "city": "CHARLESTON",
         "state": "WV",
-        "postalCode": "25304-2699"
+        "postalCode": "25301-1326"
       },
       {
         "line": [
@@ -104,7 +72,39 @@
       },
       {
         "line": [
+          "3200 MACCORKLE AVE SE"
+        ],
+        "city": "CHARLESTON",
+        "state": "WV",
+        "postalCode": "25304-1227"
+      },
+      {
+        "line": [
+          "800 PENNSYLVANIA AVE"
+        ],
+        "city": "CHARLESTON",
+        "state": "WV",
+        "postalCode": "25302-3351"
+      },
+      {
+        "line": [
           "9 COURTNEY DR"
+        ],
+        "city": "CHARLESTON",
+        "state": "WV",
+        "postalCode": "25304-2699"
+      },
+      {
+        "line": [
+          "333 LAIDLEY ST"
+        ],
+        "city": "CHARLESTON",
+        "state": "WV",
+        "postalCode": "25301-1614"
+      },
+      {
+        "line": [
+          "9 courtney drive"
         ],
         "city": "CHARLESTON",
         "state": "WV",
@@ -120,11 +120,11 @@
       },
       {
         "line": [
-          "333 LAIDLEY ST"
+          "1400 HOSPITAL DR"
         ],
-        "city": "CHARLESTON",
+        "city": "HURRICANE",
         "state": "WV",
-        "postalCode": "25301-1614"
+        "postalCode": "25526-9202"
       }
     ],
     "extension": [

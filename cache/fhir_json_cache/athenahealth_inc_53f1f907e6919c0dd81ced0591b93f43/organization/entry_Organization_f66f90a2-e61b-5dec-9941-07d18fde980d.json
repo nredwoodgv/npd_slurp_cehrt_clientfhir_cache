@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386961555"
+        "value": "1255666012"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255666012"
+        "value": "1386961555"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1 READING DRIVE"
+        ],
+        "city": "WERNERSVILLE",
+        "state": "PA",
+        "postalCode": "19565-2018"
+      },
       {
         "line": [
           "3000 WINDMILL ROAD"
@@ -29,14 +37,6 @@
         "city": "READING",
         "state": "PA",
         "postalCode": "19608-1614"
-      },
-      {
-        "line": [
-          "1011 BERKS ROAD"
-        ],
-        "city": "LEESPORT",
-        "state": "PA",
-        "postalCode": "19533-8705"
       },
       {
         "line": [
@@ -48,19 +48,11 @@
       },
       {
         "line": [
-          "1 READING DRIVE"
+          "2125 ELIZABETH AVE"
         ],
-        "city": "WERNERSVILLE",
+        "city": "LAURELDALE",
         "state": "PA",
-        "postalCode": "19565-2018"
-      },
-      {
-        "line": [
-          "425 BUTTONWOOD STREET"
-        ],
-        "city": "READING",
-        "state": "PA",
-        "postalCode": "19611-3223"
+        "postalCode": "19605-2259"
       },
       {
         "line": [
@@ -72,19 +64,27 @@
       },
       {
         "line": [
+          "1011 BERKS ROAD"
+        ],
+        "city": "LEESPORT",
+        "state": "PA",
+        "postalCode": "19533-8705"
+      },
+      {
+        "line": [
+          "425 BUTTONWOOD STREET"
+        ],
+        "city": "READING",
+        "state": "PA",
+        "postalCode": "19611-3223"
+      },
+      {
+        "line": [
           "2802 PAPERMILL RD"
         ],
         "city": "WYOMISSING",
         "state": "PA",
         "postalCode": "19610-1065"
-      },
-      {
-        "line": [
-          "2125 ELIZABETH AVE"
-        ],
-        "city": "LAURELDALE",
-        "state": "PA",
-        "postalCode": "19605-2259"
       }
     ],
     "extension": [

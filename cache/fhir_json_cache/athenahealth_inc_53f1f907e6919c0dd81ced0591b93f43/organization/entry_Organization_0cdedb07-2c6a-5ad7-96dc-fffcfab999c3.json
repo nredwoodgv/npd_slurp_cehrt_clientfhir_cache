@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912097700"
+        "value": "1144321951"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700803681"
+        "value": "1912097700"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144321951"
+        "value": "1700803681"
       }
     ],
     "address": [
@@ -37,6 +37,14 @@
         "city": "LEXINGTON",
         "state": "KY",
         "postalCode": "40504-2701"
+      },
+      {
+        "line": [
+          "7932 DETROIT BLVD"
+        ],
+        "city": "WEST BLOOMFIELD",
+        "state": "MI",
+        "postalCode": "48323-1026"
       },
       {
         "line": [
@@ -53,14 +61,6 @@
         "city": "NORTHVILLE",
         "state": "MI",
         "postalCode": "48167-0167"
-      },
-      {
-        "line": [
-          "7932 DETROIT BLVD"
-        ],
-        "city": "WEST BLOOMFIELD",
-        "state": "MI",
-        "postalCode": "48323-1026"
       }
     ],
     "extension": [

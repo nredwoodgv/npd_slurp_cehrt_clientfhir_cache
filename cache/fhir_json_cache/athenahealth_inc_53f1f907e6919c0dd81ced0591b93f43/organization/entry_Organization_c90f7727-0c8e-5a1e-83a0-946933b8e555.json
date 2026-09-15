@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275290694"
+        "value": "1508489782"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730412388"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730412388"
+        "value": "1275290694"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -31,21 +35,9 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629538491"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508489782"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1345 Philomena St. STE 100"
-        ],
-        "city": "Austin",
-        "state": "TX",
-        "postalCode": "78723-3210"
-      },
       {
         "line": [
           "1345 PHILOMENA"
@@ -59,6 +51,14 @@
           "1345 Philomena St."
         ],
         "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78723-3210"
+      },
+      {
+        "line": [
+          "1345 Philomena St. STE 100"
+        ],
+        "city": "Austin",
         "state": "TX",
         "postalCode": "78723-3210"
       }

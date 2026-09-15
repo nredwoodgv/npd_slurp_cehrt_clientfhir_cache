@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205884392"
+        "value": "1255398533"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,27 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902854078"
+        "value": "1205884392"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659329746"
+        "value": "1407806904"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1366590762"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255398533"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629026729"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356399703"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,17 +42,54 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407806904"
+        "value": "1902854078"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1659329746"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629026729"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1356399703"
       }
     ],
     "address": [
       {
         "line": [
-          "21250 Hawthorne Blvd Suite 435"
+          "101 E Valencia Mesa Dr"
         ],
-        "city": "TORRANCE",
+        "city": "FULLERTON",
         "state": "CA",
-        "postalCode": "90503-5504"
+        "postalCode": "92835-3809"
+      },
+      {
+        "line": [
+          "751 Weir Canyon",
+          "Suite 167"
+        ],
+        "city": "ANAHEIM",
+        "state": "CA",
+        "postalCode": "92808-1962"
+      },
+      {
+        "line": [
+          "3033 W Orange Avenue"
+        ],
+        "city": "ANAHEIM",
+        "state": "CA",
+        "postalCode": "92804-3156"
+      },
+      {
+        "line": [
+          "2240 N. Harbor STE #100"
+        ],
+        "city": "FULLERTON",
+        "state": "CA",
+        "postalCode": "92835-8300"
       },
       {
         "line": [
@@ -76,6 +101,22 @@
       },
       {
         "line": [
+          "17772 BEACH BLVD"
+        ],
+        "city": "HUNTINGTON BEACH",
+        "state": "CA",
+        "postalCode": "92647-6819"
+      },
+      {
+        "line": [
+          "11190 Warner Ave Ste 212"
+        ],
+        "city": "FOUNTAIN VALLEY",
+        "state": "CA",
+        "postalCode": "92708-4045"
+      },
+      {
+        "line": [
           "3700 E. South Street"
         ],
         "city": "LAKEWOOD",
@@ -84,12 +125,19 @@
       },
       {
         "line": [
-          "11160 Warner Ave",
-          "Ste 117"
+          "1025 S Anaheim Blvd"
         ],
-        "city": "FOUNTAIN VALLEY",
+        "city": "ANAHEIM",
         "state": "CA",
-        "postalCode": "92708-4010"
+        "postalCode": "92805-5806"
+      },
+      {
+        "line": [
+          "1154 N. Euclid Street"
+        ],
+        "city": "ANAHEIM",
+        "state": "CA",
+        "postalCode": "92801-1955"
       },
       {
         "line": [
@@ -101,8 +149,106 @@
       },
       {
         "line": [
+          "1700 Mount Vernon Ave"
+        ],
+        "city": "BAKERSFIELD",
+        "state": "CA",
+        "postalCode": "93306-4018"
+      },
+      {
+        "line": [
+          "1041 E Yorba Linda Blvd",
+          "Suite 306"
+        ],
+        "city": "PLACENTIA",
+        "state": "CA",
+        "postalCode": "92870-3751"
+      },
+      {
+        "line": [
+          "875 N BREA BLVD"
+        ],
+        "city": "BREA",
+        "state": "CA",
+        "postalCode": "92821-2606"
+      },
+      {
+        "line": [
+          "1301 N Rose Dr"
+        ],
+        "city": "PLACENTIA",
+        "state": "CA",
+        "postalCode": "92870-3802"
+      },
+      {
+        "line": [
+          "14662 Newport Beach"
+        ],
+        "city": "TUSTIN",
+        "state": "CA",
+        "postalCode": "92780-6064"
+      },
+      {
+        "line": [
+          "21250 Hawthorne Blvd Suite 435"
+        ],
+        "city": "TORRANCE",
+        "state": "CA",
+        "postalCode": "90503-5504"
+      },
+      {
+        "line": [
+          "17100 EUCLID ST"
+        ],
+        "city": "FOUNTAIN VALLEY",
+        "state": "CA",
+        "postalCode": "92708-4004"
+      },
+      {
+        "line": [
+          "3833 Worsham AVE Ste 200"
+        ],
+        "city": "LONG BEACH",
+        "state": "CA",
+        "postalCode": "90808-1745"
+      },
+      {
+        "line": [
+          "1510 San Pablo St"
+        ],
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "postalCode": "90033-5320"
+      },
+      {
+        "line": [
+          "681 South Parker St",
+          "Suite 150"
+        ],
+        "city": "ORANGE",
+        "state": "CA",
+        "postalCode": "92868-4761"
+      },
+      {
+        "line": [
+          "2601 E Chapman Ave"
+        ],
+        "city": "ORANGE",
+        "state": "CA",
+        "postalCode": "92869-3206"
+      },
+      {
+        "line": [
+          "1772 Beach Blvd"
+        ],
+        "city": "HUNTINGTON BEACH",
+        "state": "CA",
+        "postalCode": "92647-6819"
+      },
+      {
+        "line": [
           "11160 Warner Ave",
-          "Suite 117"
+          "Ste 117"
         ],
         "city": "FOUNTAIN VALLEY",
         "state": "CA",
@@ -118,92 +264,11 @@
       },
       {
         "line": [
-          "875 N BREA BLVD"
-        ],
-        "city": "BREA",
-        "state": "CA",
-        "postalCode": "92821-2606"
-      },
-      {
-        "line": [
-          "101 E Valencia Mesa Dr"
-        ],
-        "city": "FULLERTON",
-        "state": "CA",
-        "postalCode": "92835-3809"
-      },
-      {
-        "line": [
-          "17772 Beach Blvd"
+          "7677 Center Ave Suite 104"
         ],
         "city": "HUNTINGTON BEACH",
         "state": "CA",
-        "postalCode": "92647-6819"
-      },
-      {
-        "line": [
-          "14662 Newport Beach"
-        ],
-        "city": "TUSTIN",
-        "state": "CA",
-        "postalCode": "92780-6064"
-      },
-      {
-        "line": [
-          "3033 W Orange Avenue"
-        ],
-        "city": "ANAHEIM",
-        "state": "CA",
-        "postalCode": "92804-3156"
-      },
-      {
-        "line": [
-          "1025 S Anaheim Blvd"
-        ],
-        "city": "ANAHEIM",
-        "state": "CA",
-        "postalCode": "92805-5806"
-      },
-      {
-        "line": [
-          "1510 San Pablo St"
-        ],
-        "city": "LOS ANGELES",
-        "state": "CA",
-        "postalCode": "90033-5320"
-      },
-      {
-        "line": [
-          "1700 Mount Vernon Ave"
-        ],
-        "city": "BAKERSFIELD",
-        "state": "CA",
-        "postalCode": "93306-4018"
-      },
-      {
-        "line": [
-          "2601 E Chapman Ave"
-        ],
-        "city": "ORANGE",
-        "state": "CA",
-        "postalCode": "92869-3206"
-      },
-      {
-        "line": [
-          "3833 Worsham AVE Ste 200"
-        ],
-        "city": "LONG BEACH",
-        "state": "CA",
-        "postalCode": "90808-1745"
-      },
-      {
-        "line": [
-          "751 Weir Canyon",
-          "Suite 167"
-        ],
-        "city": "ANAHEIM",
-        "state": "CA",
-        "postalCode": "92808-1962"
+        "postalCode": "92647-3030"
       },
       {
         "line": [
@@ -216,65 +281,7 @@
       },
       {
         "line": [
-          "7677 Center Ave Suite 104"
-        ],
-        "city": "HUNTINGTON BEACH",
-        "state": "CA",
-        "postalCode": "92647-3030"
-      },
-      {
-        "line": [
-          "11190 Warner Ave Ste 212"
-        ],
-        "city": "FOUNTAIN VALLEY",
-        "state": "CA",
-        "postalCode": "92708-4045"
-      },
-      {
-        "line": [
-          "1301 N Rose Dr"
-        ],
-        "city": "PLACENTIA",
-        "state": "CA",
-        "postalCode": "92870-3802"
-      },
-      {
-        "line": [
-          "681 South Parker St",
-          "Suite 150"
-        ],
-        "city": "ORANGE",
-        "state": "CA",
-        "postalCode": "92868-4761"
-      },
-      {
-        "line": [
-          "2240 N. Harbor STE #100"
-        ],
-        "city": "FULLERTON",
-        "state": "CA",
-        "postalCode": "92835-8300"
-      },
-      {
-        "line": [
-          "1154 N. Euclid Street"
-        ],
-        "city": "ANAHEIM",
-        "state": "CA",
-        "postalCode": "92801-1955"
-      },
-      {
-        "line": [
-          "1041 E Yorba Linda Blvd",
-          "Suite 306"
-        ],
-        "city": "PLACENTIA",
-        "state": "CA",
-        "postalCode": "92870-3751"
-      },
-      {
-        "line": [
-          "17772 BEACH BLVD"
+          "17772 Beach Blvd"
         ],
         "city": "HUNTINGTON BEACH",
         "state": "CA",
@@ -282,19 +289,12 @@
       },
       {
         "line": [
-          "17100 EUCLID ST"
+          "11160 Warner Ave",
+          "Suite 117"
         ],
         "city": "FOUNTAIN VALLEY",
         "state": "CA",
-        "postalCode": "92708-4004"
-      },
-      {
-        "line": [
-          "1772 Beach Blvd"
-        ],
-        "city": "HUNTINGTON BEACH",
-        "state": "CA",
-        "postalCode": "92647-6819"
+        "postalCode": "92708-4010"
       }
     ],
     "extension": [

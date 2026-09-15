@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861818379"
+        "value": "1326463357"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831132133"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194767186"
+        "value": "1730571100"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,18 +38,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730571100"
+        "value": "1194767186"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326463357"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831132133"
+        "value": "1861818379"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1700 CLINTON ST"
+        ],
+        "city": "MUSKEGON",
+        "state": "MI",
+        "postalCode": "49442-5502"
+      },
       {
         "line": [
           "6401 PRAIRIE STREET",
@@ -54,14 +62,6 @@
         "city": "Norton Shores",
         "state": "MI",
         "postalCode": "49444-7842"
-      },
-      {
-        "line": [
-          "1700 CLINTON ST"
-        ],
-        "city": "MUSKEGON",
-        "state": "MI",
-        "postalCode": "49442-5502"
       }
     ],
     "extension": [

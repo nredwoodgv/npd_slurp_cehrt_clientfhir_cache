@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073089488"
+        "value": "1629788849"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629788849"
+        "value": "1073089488"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3800 W TECHNOLOGY CIR STE 201"
+        ],
+        "city": "SIOUX FALLS",
+        "state": "SD",
+        "postalCode": "57106-4248"
+      },
       {
         "line": [
           "625 Flormann St"
@@ -37,14 +45,6 @@
         "city": "RAPID CITY",
         "state": "SD",
         "postalCode": "57702-1706"
-      },
-      {
-        "line": [
-          "3800 W TECHNOLOGY CIR STE 201"
-        ],
-        "city": "SIOUX FALLS",
-        "state": "SD",
-        "postalCode": "57106-4248"
       },
       {
         "line": [

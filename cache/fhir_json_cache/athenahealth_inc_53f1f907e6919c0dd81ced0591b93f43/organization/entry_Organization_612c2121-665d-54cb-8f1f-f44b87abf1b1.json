@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164512083"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1659445468"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1407920218"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1164512083"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.336",
@@ -32,11 +32,11 @@
     "address": [
       {
         "line": [
-          "908 10th avenue"
+          "908 10th avenue SW"
         ],
         "city": "QUINCY",
         "state": "WA",
-        "postalCode": "98848-1226"
+        "postalCode": "98848-1376"
       },
       {
         "line": [
@@ -56,11 +56,11 @@
       },
       {
         "line": [
-          "908 10th avenue SW"
+          "908 10th avenue"
         ],
         "city": "QUINCY",
         "state": "WA",
-        "postalCode": "98848-1376"
+        "postalCode": "98848-1226"
       }
     ],
     "extension": [

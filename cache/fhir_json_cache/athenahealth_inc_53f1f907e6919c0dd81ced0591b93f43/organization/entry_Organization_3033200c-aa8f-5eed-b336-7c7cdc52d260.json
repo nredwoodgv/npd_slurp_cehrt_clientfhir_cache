@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285931089"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649228966"
       },
       {
@@ -27,24 +23,21 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1013031368"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285931089"
       }
     ],
     "address": [
       {
         "line": [
-          "1901 TATE SPRINGS ROAD"
+          "OAK VASSAR MEDICAL BLDG",
+          "1330 OAKE LANE SUITE 100"
         ],
         "city": "LYNCHBURG",
         "state": "VA",
-        "postalCode": "24501-1109"
-      },
-      {
-        "line": [
-          "2010 ATHERHOLT RD"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24501-1106"
+        "postalCode": "24503-2513"
       },
       {
         "line": [
@@ -53,14 +46,6 @@
         "city": "LYNCHBURG",
         "state": "VA",
         "postalCode": "24503-2513"
-      },
-      {
-        "line": [
-          "414 PARK AVENUE"
-        ],
-        "city": "DANVILLE",
-        "state": "VA",
-        "postalCode": "24541-4101"
       },
       {
         "line": [
@@ -73,6 +58,22 @@
       },
       {
         "line": [
+          "1901 TATE SPRINGS ROAD"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24501-1109"
+      },
+      {
+        "line": [
+          "414 PARK AVENUE"
+        ],
+        "city": "DANVILLE",
+        "state": "VA",
+        "postalCode": "24541-4101"
+      },
+      {
+        "line": [
           "3300 RIVERMONT AVENUE"
         ],
         "city": "LYNCHBURG",
@@ -81,12 +82,11 @@
       },
       {
         "line": [
-          "OAK VASSAR MEDICAL BLDG",
-          "1330 OAKE LANE SUITE 100"
+          "2010 ATHERHOLT RD"
         ],
         "city": "LYNCHBURG",
         "state": "VA",
-        "postalCode": "24503-2513"
+        "postalCode": "24501-1106"
       }
     ],
     "extension": [

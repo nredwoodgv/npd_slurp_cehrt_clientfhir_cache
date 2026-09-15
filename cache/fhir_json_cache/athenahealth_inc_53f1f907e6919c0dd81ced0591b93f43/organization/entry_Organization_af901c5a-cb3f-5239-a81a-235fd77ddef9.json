@@ -14,27 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1801883731"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1184808156"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1609987254"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801883731"
       }
     ],
     "address": [
-      {
-        "line": [
-          "5601 NORRIS CANYON ROAD",
-          "SUITE 130"
-        ],
-        "city": "SAN RAMON",
-        "state": "CA",
-        "postalCode": "94583-5407"
-      },
       {
         "line": [
           "4626 WILLOW ROAD",
@@ -55,6 +46,14 @@
       },
       {
         "line": [
+          "2180 WEST GRANTLINE ROAD"
+        ],
+        "city": "TRACY",
+        "state": "CA",
+        "postalCode": "95377-7309"
+      },
+      {
+        "line": [
           "4626 WILLOW ROAD",
           "SUITE 150"
         ],
@@ -64,11 +63,12 @@
       },
       {
         "line": [
-          "2180 WEST GRANTLINE ROAD"
+          "5601 NORRIS CANYON ROAD",
+          "SUITE 130"
         ],
-        "city": "TRACY",
+        "city": "SAN RAMON",
         "state": "CA",
-        "postalCode": "95377-7309"
+        "postalCode": "94583-5407"
       }
     ],
     "extension": [

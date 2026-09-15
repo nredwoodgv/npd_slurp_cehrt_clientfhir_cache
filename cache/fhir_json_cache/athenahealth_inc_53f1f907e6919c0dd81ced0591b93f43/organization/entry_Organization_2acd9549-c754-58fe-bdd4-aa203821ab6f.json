@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760409783"
+        "value": "1548968118"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548968118"
+        "value": "1760409783"
       }
     ],
     "address": [
-      {
-        "line": [
-          "118 E HASKELL ST"
-        ],
-        "city": "WINNEMUCCA",
-        "state": "NV",
-        "postalCode": "89445-3247"
-      },
       {
         "line": [
           "18653 WEDGE PKWY"
@@ -40,12 +32,11 @@
       },
       {
         "line": [
-          "18653 WEDGE PKWY",
-          "Suite 160"
+          "118 E HASKELL ST"
         ],
-        "city": "RENO",
+        "city": "WINNEMUCCA",
         "state": "NV",
-        "postalCode": "89511-3005"
+        "postalCode": "89445-3247"
       },
       {
         "line": [
@@ -54,6 +45,15 @@
         "city": "CARSON CITY",
         "state": "NV",
         "postalCode": "89703-4643"
+      },
+      {
+        "line": [
+          "18653 WEDGE PKWY",
+          "Suite 160"
+        ],
+        "city": "RENO",
+        "state": "NV",
+        "postalCode": "89511-3005"
       }
     ],
     "extension": [

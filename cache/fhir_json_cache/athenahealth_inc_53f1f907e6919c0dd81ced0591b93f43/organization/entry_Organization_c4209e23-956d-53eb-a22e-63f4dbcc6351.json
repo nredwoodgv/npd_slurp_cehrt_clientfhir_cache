@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396201000"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548739170"
+        "value": "1316253875"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +26,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316253875"
+        "value": "1396201000"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548739170"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -40,11 +40,11 @@
     "address": [
       {
         "line": [
-          "368 River Street"
+          "214 Main St"
         ],
-        "city": "SPRINGFIELD",
+        "city": "VERGENNES",
         "state": "VT",
-        "postalCode": "05156-2242"
+        "postalCode": "05491-1157"
       },
       {
         "line": [
@@ -56,11 +56,35 @@
       },
       {
         "line": [
+          "54 Chickering Dr. Ste A"
+        ],
+        "city": "BRATTLEBORO",
+        "state": "VT",
+        "postalCode": "05301-8805"
+      },
+      {
+        "line": [
           "12 Dallaire Ave"
         ],
         "city": "CHICOPEE",
         "state": "MA",
         "postalCode": "01020-1237"
+      },
+      {
+        "line": [
+          "4614 Memorial Drive"
+        ],
+        "city": "SAINT JOHNSBURY",
+        "state": "VT",
+        "postalCode": "05819-8780"
+      },
+      {
+        "line": [
+          "17 Catherine Street"
+        ],
+        "city": "SAINT ALBANS",
+        "state": "VT",
+        "postalCode": "05478-2205"
       },
       {
         "line": [
@@ -80,19 +104,11 @@
       },
       {
         "line": [
-          "4614 Memorial Drive"
+          "368 River Street"
         ],
-        "city": "SAINT JOHNSBURY",
+        "city": "SPRINGFIELD",
         "state": "VT",
-        "postalCode": "05819-8780"
-      },
-      {
-        "line": [
-          "214 Main St"
-        ],
-        "city": "VERGENNES",
-        "state": "VT",
-        "postalCode": "05491-1157"
+        "postalCode": "05156-2242"
       },
       {
         "line": [
@@ -102,22 +118,6 @@
         "city": "MORRISVILLE",
         "state": "VT",
         "postalCode": "05661-6100"
-      },
-      {
-        "line": [
-          "17 Catherine Street"
-        ],
-        "city": "SAINT ALBANS",
-        "state": "VT",
-        "postalCode": "05478-2205"
-      },
-      {
-        "line": [
-          "54 Chickering Dr. Ste A"
-        ],
-        "city": "BRATTLEBORO",
-        "state": "VT",
-        "postalCode": "05301-8805"
       }
     ],
     "extension": [

@@ -14,10 +14,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "456789"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1003996000"
       },
       {
@@ -26,15 +22,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1699096522"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447221056"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "12345"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1114919339"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1508952235"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447221056"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,11 +54,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699096522"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "123456"
+        "value": "12456321"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,7 +62,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "12456321"
+        "value": "11111111"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "456789"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "111111111"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "123456"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -82,15 +94,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "11111111"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1111111"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "111111111"
       }
     ],
     "active": true,
@@ -98,15 +102,23 @@
     "telecom": [
       {
         "system": "phone",
-        "value": "(256)705-4224"
-      },
-      {
-        "system": "phone",
         "value": "(256)235-5121"
       },
       {
         "system": "phone",
         "value": "(256)233-9292"
+      },
+      {
+        "system": "phone",
+        "value": "(256)386-1600"
+      },
+      {
+        "system": "phone",
+        "value": "(256)265-8000"
+      },
+      {
+        "system": "phone",
+        "value": "(256)705-4224"
       },
       {
         "system": "phone",
@@ -138,15 +150,15 @@
       },
       {
         "system": "phone",
-        "value": "(256)386-1600"
+        "value": "(256)536-9020"
       },
       {
         "system": "phone",
-        "value": "(256)265-8000"
+        "value": "(256)760-0422"
       },
       {
         "system": "phone",
-        "value": "(256)265-4617"
+        "value": "(555)555-5555"
       },
       {
         "system": "phone",
@@ -154,7 +166,7 @@
       },
       {
         "system": "phone",
-        "value": "(256)760-0422"
+        "value": "(256)265-4617"
       },
       {
         "system": "phone",
@@ -170,34 +182,14 @@
       },
       {
         "system": "phone",
-        "value": "(256)536-9020"
-      },
-      {
-        "system": "phone",
-        "value": "(256)882-3605"
-      },
-      {
-        "system": "phone",
         "value": "(256)705-4294"
       },
       {
         "system": "phone",
-        "value": "(555)555-5555"
+        "value": "(256)882-3605"
       }
     ],
     "address": [
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "3601 CCI Drive",
-          "Second Floor of CCI"
-        ],
-        "city": "Huntsville",
-        "state": "Al",
-        "postalCode": "35805",
-        "country": "USA"
-      },
       {
         "use": "work",
         "type": "postal",
@@ -218,6 +210,39 @@
         "city": "ATHENS",
         "state": "AL",
         "postalCode": "35611-2457",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "201 W Avalon Ave"
+        ],
+        "city": "Muscle Shoals",
+        "state": "AL",
+        "postalCode": "35661",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "101 SIVLEY DR."
+        ],
+        "city": "HUNTSVILLE",
+        "state": "AL",
+        "postalCode": "35801",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "Offsite Referrals or Procedures"
+        ],
+        "city": "No Address Available",
+        "state": "AL",
+        "postalCode": "12345",
         "country": "USA"
       },
       {
@@ -301,129 +326,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "201 W Avalon Ave"
-        ],
-        "city": "Muscle Shoals",
-        "state": "AL",
-        "postalCode": "35661",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "Appointments that are not at a CCI Location"
-        ],
-        "city": "No Address Available",
-        "state": "AL",
-        "postalCode": "12345",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "101 SIVLEY DR."
-        ],
-        "city": "HUNTSVILLE",
-        "state": "AL",
-        "postalCode": "35801",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "201 Sivley Road"
-        ],
-        "city": "Huntsville",
-        "state": "AL",
-        "postalCode": "35801",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "12090 County Line Road",
-          "Suite B"
-        ],
-        "city": "Madison",
-        "state": "Al",
-        "postalCode": "35758",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "111 Research Blvd"
-        ],
-        "city": "Madison",
-        "state": "AL",
-        "postalCode": "35758",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "707 West Market Street"
-        ],
-        "city": "Athens",
-        "state": "AL",
-        "postalCode": "356118428",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "3601 CCI Drive"
-        ],
-        "city": "Huntsville",
-        "state": "AL",
-        "postalCode": "35805",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "180 Cox Creek Parkway South, Suite B"
-        ],
-        "city": "Florence",
-        "state": "Al",
-        "postalCode": "35630",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1107 14th Avenue SE",
-          "Suite 200"
-        ],
-        "city": "Decatur",
-        "state": "AL",
-        "postalCode": "35601",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1310 14th Avenue SE"
-        ],
-        "city": "Decatur",
-        "state": "AL",
-        "postalCode": "35601",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "1234 TEST DRIVE"
         ],
         "city": "MUSCLE SHOALS",
@@ -446,11 +348,23 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1 Hospital Dr"
+          "180 Cox Creek Parkway South, Suite B"
         ],
-        "city": "Huntsville",
+        "city": "Florence",
+        "state": "Al",
+        "postalCode": "35630",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "9238 Madison Blvd",
+          "Suite 114"
+        ],
+        "city": "Madison",
         "state": "AL",
-        "postalCode": "35801",
+        "postalCode": "35758",
         "country": "USA"
       },
       {
@@ -468,12 +382,90 @@
         "use": "work",
         "type": "postal",
         "line": [
+          "3601 CCI Drive"
+        ],
+        "city": "Huntsville",
+        "state": "AL",
+        "postalCode": "35805",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "825 Adams Street SE"
+        ],
+        "city": "Huntsville",
+        "state": "AL",
+        "postalCode": "35801",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1310 14th Avenue SE"
+        ],
+        "city": "Decatur",
+        "state": "AL",
+        "postalCode": "35601",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1 Hospital Dr"
+        ],
+        "city": "Huntsville",
+        "state": "AL",
+        "postalCode": "35801",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "3601 CCI Drive",
+          "Second Floor of CCI"
+        ],
+        "city": "Huntsville",
+        "state": "Al",
+        "postalCode": "35805",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "111 Research Blvd"
+        ],
+        "city": "Madison",
+        "state": "AL",
+        "postalCode": "35758",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
           "1948 Al Hwy 157",
           "Suite 380"
         ],
         "city": "Cullman",
         "state": "Al",
         "postalCode": "35058",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "201 Sivley Road"
+        ],
+        "city": "Huntsville",
+        "state": "AL",
+        "postalCode": "35801",
         "country": "USA"
       },
       {
@@ -513,22 +505,22 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "901 Leighton Ave Suite 602"
+          "3601 CCI Dr"
         ],
-        "city": "Anniston",
-        "state": "Al",
-        "postalCode": "36207",
+        "city": "Huntsville",
+        "state": "AL",
+        "postalCode": "35805",
         "country": "USA"
       },
       {
         "use": "work",
         "type": "postal",
         "line": [
-          "101 DR W H Blake Jr Dr"
+          "707 West Market Street"
         ],
-        "city": "Muscle Shoals",
+        "city": "Athens",
         "state": "AL",
-        "postalCode": "35661",
+        "postalCode": "356118428",
         "country": "USA"
       },
       {
@@ -546,23 +538,35 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "825 Adams Street SE"
+          "12090 County Line Road",
+          "Suite B"
         ],
-        "city": "Huntsville",
-        "state": "AL",
-        "postalCode": "35801",
+        "city": "Madison",
+        "state": "Al",
+        "postalCode": "35758",
         "country": "USA"
       },
       {
         "use": "work",
         "type": "postal",
         "line": [
-          "9238 Madison Blvd",
-          "Suite 114"
+          "1107 14th Avenue SE",
+          "Suite 200"
         ],
-        "city": "Madison",
+        "city": "Decatur",
         "state": "AL",
-        "postalCode": "35758",
+        "postalCode": "35601",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "101 DR W H Blake Jr Dr"
+        ],
+        "city": "Muscle Shoals",
+        "state": "AL",
+        "postalCode": "35661",
         "country": "USA"
       },
       {
@@ -581,11 +585,11 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "3601 CCI Dr"
+          "901 Leighton Ave Suite 602"
         ],
-        "city": "Huntsville",
-        "state": "AL",
-        "postalCode": "35805",
+        "city": "Anniston",
+        "state": "Al",
+        "postalCode": "36207",
         "country": "USA"
       }
     ],

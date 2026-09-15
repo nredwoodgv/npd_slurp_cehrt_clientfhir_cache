@@ -18,33 +18,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700934593"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1316939101"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1386839819"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700934593"
       }
     ],
     "address": [
       {
         "line": [
-          "2000 W BETHANY HOME RD"
+          "350 W THOMAS RD"
         ],
         "city": "PHOENIX",
         "state": "AZ",
-        "postalCode": "85015-2443"
-      },
-      {
-        "line": [
-          "9201 W THOMAS RD"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85037-3332"
+        "postalCode": "85013-4409"
       },
       {
         "line": [
@@ -64,11 +56,11 @@
       },
       {
         "line": [
-          "5555 W. THUNDERBIRD RD"
+          "350 W. THOMAS RD"
         ],
-        "city": "GLENDALE",
+        "city": "PHOENIX",
         "state": "AZ",
-        "postalCode": "85306-4622"
+        "postalCode": "85013-4409"
       },
       {
         "line": [
@@ -80,11 +72,27 @@
       },
       {
         "line": [
-          "350 W. THOMAS RD"
+          "2000 W BETHANY HOME RD"
         ],
         "city": "PHOENIX",
         "state": "AZ",
-        "postalCode": "85013-4409"
+        "postalCode": "85015-2443"
+      },
+      {
+        "line": [
+          "9201 W THOMAS RD"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85037-3332"
+      },
+      {
+        "line": [
+          "5555 W. THUNDERBIRD RD"
+        ],
+        "city": "GLENDALE",
+        "state": "AZ",
+        "postalCode": "85306-4622"
       },
       {
         "line": [
@@ -93,14 +101,6 @@
         "city": "SCOTTSDALE",
         "state": "AZ",
         "postalCode": "85251-6432"
-      },
-      {
-        "line": [
-          "350 W THOMAS RD"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85013-4409"
       }
     ],
     "extension": [

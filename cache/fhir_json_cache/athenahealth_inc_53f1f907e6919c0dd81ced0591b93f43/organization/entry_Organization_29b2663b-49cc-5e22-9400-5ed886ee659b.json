@@ -14,21 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679902191"
+        "value": "1225461684"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225461684"
+        "value": "1679902191"
       }
     ],
     "address": [
       {
         "line": [
-          "751 S 7TH ST"
+          "18341 US HIGHWAY 41"
         ],
-        "city": "ONTONAGON",
+        "city": "LANSE",
         "state": "MI",
-        "postalCode": "49953-1450"
+        "postalCode": "49946-8024"
+      },
+      {
+        "line": [
+          "921 W SHARON AVE"
+        ],
+        "city": "HOUGHTON",
+        "state": "MI",
+        "postalCode": "49931-1921"
       },
       {
         "line": [
@@ -49,19 +57,11 @@
       },
       {
         "line": [
-          "18341 US HIGHWAY 41"
+          "751 S 7TH ST"
         ],
-        "city": "LANSE",
+        "city": "ONTONAGON",
         "state": "MI",
-        "postalCode": "49946-8024"
-      },
-      {
-        "line": [
-          "921 W SHARON AVE"
-        ],
-        "city": "HOUGHTON",
-        "state": "MI",
-        "postalCode": "49931-1921"
+        "postalCode": "49953-1450"
       }
     ],
     "extension": [

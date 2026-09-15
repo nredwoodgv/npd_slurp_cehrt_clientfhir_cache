@@ -14,6 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1851571392"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1083891329"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316681430"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1275722340"
       },
       {
@@ -22,29 +34,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316681430"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1851571392"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578612412"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083891329"
       }
     ],
     "address": [
       {
         "line": [
-          "399 DUMONT AVE"
+          "650 Ashford"
         ],
         "city": "BROOKLYN",
         "state": "NY",
-        "postalCode": "11212-5538"
+        "postalCode": "11207-3250"
       },
       {
         "line": [
@@ -56,22 +56,6 @@
       },
       {
         "line": [
-          "259  Bristol Street"
-        ],
-        "city": "BROOKLYN",
-        "state": "NY",
-        "postalCode": "11212-5540"
-      },
-      {
-        "line": [
-          "592 Rockaway Avenue"
-        ],
-        "city": "BROOKLYN",
-        "state": "NY",
-        "postalCode": "11212-5539"
-      },
-      {
-        "line": [
           "592 Rockaway ave"
         ],
         "city": "BROOKLYN",
@@ -80,11 +64,27 @@
       },
       {
         "line": [
-          "650 Ashford"
+          "259  Bristol Street"
         ],
         "city": "BROOKLYN",
         "state": "NY",
-        "postalCode": "11207-3250"
+        "postalCode": "11212-5540"
+      },
+      {
+        "line": [
+          "399 DUMONT AVE"
+        ],
+        "city": "BROOKLYN",
+        "state": "NY",
+        "postalCode": "11212-5538"
+      },
+      {
+        "line": [
+          "592 Rockaway Avenue"
+        ],
+        "city": "BROOKLYN",
+        "state": "NY",
+        "postalCode": "11212-5539"
       }
     ],
     "extension": [

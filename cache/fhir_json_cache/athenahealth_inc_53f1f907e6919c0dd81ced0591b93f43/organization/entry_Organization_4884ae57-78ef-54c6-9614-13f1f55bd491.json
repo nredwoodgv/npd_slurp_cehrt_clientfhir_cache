@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184625733"
+        "value": "1003865908"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003865908"
+        "value": "1184625733"
       }
     ],
     "address": [
@@ -32,19 +32,27 @@
       },
       {
         "line": [
-          "2815 South Seacrest Blvd"
+          "901 45th St"
         ],
-        "city": "BOYNTON BEACH",
+        "city": "WEST PALM BEACH",
         "state": "FL",
-        "postalCode": "33435-7969"
+        "postalCode": "33407-2413"
       },
       {
         "line": [
-          "800 Meadows Road"
+          "21644 STATE ROAD 7"
         ],
         "city": "BOCA RATON",
         "state": "FL",
-        "postalCode": "33486-2304"
+        "postalCode": "33428-1842"
+      },
+      {
+        "line": [
+          "3501 Johnson St"
+        ],
+        "city": "HOLLYWOOD",
+        "state": "FL",
+        "postalCode": "33021-5421"
       },
       {
         "line": [
@@ -56,11 +64,52 @@
       },
       {
         "line": [
-          "100 SE 15 Avenue"
+          "12961 Palms W Dr"
         ],
-        "city": "FORT LAUDERDALE",
+        "city": "LOXAHATCHEE",
         "state": "FL",
-        "postalCode": "33301-3985"
+        "postalCode": "33470-4989"
+      },
+      {
+        "line": [
+          "800 Meadows Road"
+        ],
+        "city": "BOCA RATON",
+        "state": "FL",
+        "postalCode": "33486-2304"
+      },
+      {
+        "line": [
+          "10150 Hagen Ranch Rd",
+          "Suite 204"
+        ],
+        "city": "BOYNTON BEACH",
+        "state": "FL",
+        "postalCode": "33437-3776"
+      },
+      {
+        "line": [
+          "2801 STATE ROAD 7"
+        ],
+        "city": "POMPANO BEACH",
+        "state": "FL",
+        "postalCode": "33063-5727"
+      },
+      {
+        "line": [
+          "13001 SOUTHERN BLVD"
+        ],
+        "city": "LOXAHATCHEE",
+        "state": "FL",
+        "postalCode": "33470-9203"
+      },
+      {
+        "line": [
+          "1210 S Old Dixie Hwy"
+        ],
+        "city": "JUPITER",
+        "state": "FL",
+        "postalCode": "33458-7205"
       },
       {
         "line": [
@@ -73,23 +122,24 @@
       },
       {
         "line": [
-          "1600 S Andrews Ave"
+          "10301 Hagen Ranch Road",
+          "Suite 520"
         ],
-        "city": "FORT LAUDERDALE",
+        "city": "BOYNTON BEACH",
         "state": "FL",
-        "postalCode": "33316-2510"
+        "postalCode": "33437-3724"
       },
       {
         "line": [
-          "901 45th St"
+          "21644 State Road 7"
         ],
-        "city": "WEST PALM BEACH",
+        "city": "BOCA RATON",
         "state": "FL",
-        "postalCode": "33407-2413"
+        "postalCode": "33428-1842"
       },
       {
         "line": [
-          "13001 SOUTHERN BLVD"
+          "13001 Southern Blvd"
         ],
         "city": "LOXAHATCHEE",
         "state": "FL",
@@ -105,27 +155,11 @@
       },
       {
         "line": [
-          "13001 Southern Blvd"
+          "5301 S Congress Ave"
         ],
-        "city": "LOXAHATCHEE",
+        "city": "Atlantis",
         "state": "FL",
-        "postalCode": "33470-9203"
-      },
-      {
-        "line": [
-          "10101 Forest Hill Blvd"
-        ],
-        "city": "WELLINGTON",
-        "state": "FL",
-        "postalCode": "33414-6103"
-      },
-      {
-        "line": [
-          "1005 N 35TH AVE"
-        ],
-        "city": "HOLLYWOOD",
-        "state": "FL",
-        "postalCode": "33021-5402"
+        "postalCode": "33462-1149"
       },
       {
         "line": [
@@ -137,19 +171,43 @@
       },
       {
         "line": [
-          "1210 S Old Dixie Hwy"
+          "100 SE 15 Avenue"
         ],
-        "city": "JUPITER",
+        "city": "FORT LAUDERDALE",
         "state": "FL",
-        "postalCode": "33458-7205"
+        "postalCode": "33301-3985"
       },
       {
         "line": [
-          "2801 STATE ROAD 7"
+          "9970 S. Central Park Blvd."
         ],
-        "city": "POMPANO BEACH",
+        "city": "BOCA RATON",
         "state": "FL",
-        "postalCode": "33063-5727"
+        "postalCode": "33428-1842"
+      },
+      {
+        "line": [
+          "1600 S Andrews Ave"
+        ],
+        "city": "FORT LAUDERDALE",
+        "state": "FL",
+        "postalCode": "33316-2510"
+      },
+      {
+        "line": [
+          "2815 South Seacrest Blvd"
+        ],
+        "city": "BOYNTON BEACH",
+        "state": "FL",
+        "postalCode": "33435-7969"
+      },
+      {
+        "line": [
+          "1005 N 35TH AVE"
+        ],
+        "city": "HOLLYWOOD",
+        "state": "FL",
+        "postalCode": "33021-5402"
       },
       {
         "line": [
@@ -161,37 +219,11 @@
       },
       {
         "line": [
-          "21644 STATE ROAD 7"
+          "10101 Forest Hill Blvd"
         ],
-        "city": "BOCA RATON",
+        "city": "WELLINGTON",
         "state": "FL",
-        "postalCode": "33428-1842"
-      },
-      {
-        "line": [
-          "10150 Hagen Ranch Rd",
-          "Suite 204"
-        ],
-        "city": "BOYNTON BEACH",
-        "state": "FL",
-        "postalCode": "33437-3776"
-      },
-      {
-        "line": [
-          "5301 S Congress Ave"
-        ],
-        "city": "Atlantis",
-        "state": "FL",
-        "postalCode": "33462-1149"
-      },
-      {
-        "line": [
-          "10301 Hagen Ranch Road",
-          "Suite 520"
-        ],
-        "city": "BOYNTON BEACH",
-        "state": "FL",
-        "postalCode": "33437-3724"
+        "postalCode": "33414-6103"
       },
       {
         "line": [
@@ -200,38 +232,6 @@
         "city": "Margate",
         "state": "FL",
         "postalCode": "33063-5727"
-      },
-      {
-        "line": [
-          "3501 Johnson St"
-        ],
-        "city": "HOLLYWOOD",
-        "state": "FL",
-        "postalCode": "33021-5421"
-      },
-      {
-        "line": [
-          "21644 State Road 7"
-        ],
-        "city": "BOCA RATON",
-        "state": "FL",
-        "postalCode": "33428-1842"
-      },
-      {
-        "line": [
-          "12961 Palms W Dr"
-        ],
-        "city": "LOXAHATCHEE",
-        "state": "FL",
-        "postalCode": "33470-4989"
-      },
-      {
-        "line": [
-          "9970 S. Central Park Blvd."
-        ],
-        "city": "BOCA RATON",
-        "state": "FL",
-        "postalCode": "33428-1842"
       }
     ],
     "extension": [

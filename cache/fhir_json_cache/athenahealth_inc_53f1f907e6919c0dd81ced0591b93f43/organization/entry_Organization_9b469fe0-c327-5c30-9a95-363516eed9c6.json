@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699720797"
+        "value": "1609410075"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609410075"
+        "value": "1699720797"
       }
     ],
     "address": [
@@ -32,20 +32,20 @@
       },
       {
         "line": [
+          "210 GOVERNMENT RD"
+        ],
+        "city": "MATTAWA",
+        "state": "WA",
+        "postalCode": "99349-5116"
+      },
+      {
+        "line": [
           "210 Government Road",
           "P.O. BOX 1581"
         ],
         "city": "MATTAWA",
         "state": "WA",
         "postalCode": "99349-0960"
-      },
-      {
-        "line": [
-          "210 GOVERNMENT RD"
-        ],
-        "city": "MATTAWA",
-        "state": "WA",
-        "postalCode": "99349-5116"
       }
     ],
     "extension": [

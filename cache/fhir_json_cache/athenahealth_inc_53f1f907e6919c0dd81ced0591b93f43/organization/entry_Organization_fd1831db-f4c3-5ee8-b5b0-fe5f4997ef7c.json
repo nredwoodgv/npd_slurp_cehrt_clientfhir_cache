@@ -14,23 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689638942"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1437116662"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1760446009"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689638942"
       }
     ],
     "address": [
       {
         "line": [
-          "800 East 9th Avenue"
+          "800 EAST 9TH AVENUE"
         ],
-        "city": "TRUTH OR CONSEQUENCES",
+        "city": "Truth or Consequences",
         "state": "NM",
         "postalCode": "87901-1954"
       },
@@ -44,7 +44,7 @@
       },
       {
         "line": [
-          "800 EAST 9TH AVENUE"
+          "800 East 9th Avenue"
         ],
         "city": "TRUTH OR CONSEQUENCES",
         "state": "NM",
@@ -54,7 +54,7 @@
         "line": [
           "800 EAST 9TH AVENUE"
         ],
-        "city": "Truth or Consequences",
+        "city": "TRUTH OR CONSEQUENCES",
         "state": "NM",
         "postalCode": "87901-1954"
       }

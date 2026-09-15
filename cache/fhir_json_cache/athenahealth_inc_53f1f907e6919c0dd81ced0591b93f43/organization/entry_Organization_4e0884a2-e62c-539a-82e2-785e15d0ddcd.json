@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588997233"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629538491"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275290694"
+        "value": "1730412388"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,21 +22,29 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508489782"
+        "value": "1588997233"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730412388"
+        "value": "1275290694"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629538491"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1508489782"
       }
     ],
     "address": [
       {
         "line": [
-          "940 Hesters Crossing Rd"
+          "7900 FM 1826 Ste 170"
         ],
-        "city": "Round Rock",
+        "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "78681-8018"
+        "postalCode": "78737-1409"
       },
       {
         "line": [
@@ -56,11 +56,11 @@
       },
       {
         "line": [
-          "7900 FM 1826 Ste 170"
+          "940 Hesters Crossing Rd"
         ],
-        "city": "AUSTIN",
+        "city": "Round Rock",
         "state": "TX",
-        "postalCode": "78737-1409"
+        "postalCode": "78681-8018"
       },
       {
         "line": [
@@ -72,15 +72,6 @@
       },
       {
         "line": [
-          "1400 N IH-35",
-          "Ste CL400"
-        ],
-        "city": "Austin",
-        "state": "TX",
-        "postalCode": "78701-1926"
-      },
-      {
-        "line": [
           "200 Springtown Way Ste 451"
         ],
         "city": "SAN MARCOS",
@@ -89,19 +80,11 @@
       },
       {
         "line": [
-          "401 RR 620 South Ste 200"
-        ],
-        "city": "Lakeway",
-        "state": "TX",
-        "postalCode": "78734-5304"
-      },
-      {
-        "line": [
-          "1400 N Interstate 35 Ste 320"
+          "3828 S First St"
         ],
         "city": "Austin",
         "state": "TX",
-        "postalCode": "78701-1926"
+        "postalCode": "78704-7048"
       },
       {
         "line": [
@@ -110,14 +93,6 @@
         "city": "Round Rock",
         "state": "TX",
         "postalCode": "78665-2437"
-      },
-      {
-        "line": [
-          "3828 S First St"
-        ],
-        "city": "Austin",
-        "state": "TX",
-        "postalCode": "78704-7048"
       },
       {
         "line": [
@@ -134,6 +109,31 @@
         "city": "Kingsland",
         "state": "TX",
         "postalCode": "78639-6000"
+      },
+      {
+        "line": [
+          "1400 N Interstate 35 Ste 320"
+        ],
+        "city": "Austin",
+        "state": "TX",
+        "postalCode": "78701-1926"
+      },
+      {
+        "line": [
+          "401 RR 620 South Ste 200"
+        ],
+        "city": "Lakeway",
+        "state": "TX",
+        "postalCode": "78734-5304"
+      },
+      {
+        "line": [
+          "1400 N IH-35",
+          "Ste CL400"
+        ],
+        "city": "Austin",
+        "state": "TX",
+        "postalCode": "78701-1926"
       }
     ],
     "extension": [

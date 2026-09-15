@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922184274"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831275189"
+        "value": "1548640642"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,11 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831275189"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396795571"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548640642"
+        "value": "1922184274"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,6 +38,14 @@
       }
     ],
     "address": [
+      {
+        "line": [
+          "5001 Hardy St."
+        ],
+        "city": "HATTIESBURG",
+        "state": "MS",
+        "postalCode": "39402-1308"
+      },
       {
         "line": [
           "5001 Hardy Street"
@@ -53,14 +61,6 @@
         "city": "HATTIESBURG",
         "state": "MS",
         "postalCode": "39402-8569"
-      },
-      {
-        "line": [
-          "5001 Hardy St."
-        ],
-        "city": "HATTIESBURG",
-        "state": "MS",
-        "postalCode": "39402-1308"
       }
     ],
     "extension": [

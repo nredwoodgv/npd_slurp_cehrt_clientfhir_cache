@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740858562"
+        "value": "1619577905"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619577905"
+        "value": "1740858562"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2400 BOONSLICK DR STE A"
-        ],
-        "city": "BOONVILLE",
-        "state": "MO",
-        "postalCode": "65233-1996"
-      },
       {
         "line": [
           "200 CORPORATE LAKE DR"
@@ -37,6 +29,23 @@
         "city": "COLUMBIA",
         "state": "MO",
         "postalCode": "65203-7172"
+      },
+      {
+        "line": [
+          "1850 Southridge Drive",
+          "Suite A"
+        ],
+        "city": "JEFFERSON CITY",
+        "state": "MO",
+        "postalCode": "65109-1234"
+      },
+      {
+        "line": [
+          "2400 BOONSLICK DR STE A"
+        ],
+        "city": "BOONVILLE",
+        "state": "MO",
+        "postalCode": "65233-1996"
       },
       {
         "line": [
@@ -53,15 +62,6 @@
         "city": "SEDALIA",
         "state": "MO",
         "postalCode": "65301-6910"
-      },
-      {
-        "line": [
-          "1850 Southridge Drive",
-          "Suite A"
-        ],
-        "city": "JEFFERSON CITY",
-        "state": "MO",
-        "postalCode": "65109-1234"
       }
     ],
     "extension": [

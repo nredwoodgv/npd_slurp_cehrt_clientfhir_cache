@@ -18,31 +18,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427668169"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598357600"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972192987"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1407518780"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831064609"
+        "value": "1801526009"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871172957"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336738350"
+        "value": "1427668169"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,7 +34,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801526009"
+        "value": "1972192987"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336738350"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1871172957"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598357600"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831064609"
       }
     ],
     "address": [
@@ -65,30 +65,6 @@
       },
       {
         "line": [
-          "6 LIBERTY SQUARE #2694"
-        ],
-        "city": "BOSTON",
-        "state": "MA",
-        "postalCode": "02109-5800"
-      },
-      {
-        "line": [
-          "512 S Peterson Avenue #2006"
-        ],
-        "city": "DOUGLAS",
-        "state": "GA",
-        "postalCode": "31533-5254"
-      },
-      {
-        "line": [
-          "1500 CHESTNUT ST # 2420"
-        ],
-        "city": "PHILADELPHIA",
-        "state": "PA",
-        "postalCode": "19102-2737"
-      },
-      {
-        "line": [
           "470 NOOR AVE",
           "Suite B. #1057"
         ],
@@ -98,20 +74,35 @@
       },
       {
         "line": [
-          "2550 Albany Avenue, #1074"
+          "101 N 1st Ave"
         ],
-        "city": "WEST HARTFORD",
-        "state": "CT",
-        "postalCode": "06117-2335"
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85003-1902"
       },
       {
         "line": [
-          "80 Arkay Drive",
-          "SUITE 230"
+          "6 LIBERTY SQUARE #2694"
         ],
-        "city": "HAUPPAUGE",
-        "state": "NY",
-        "postalCode": "11788-3705"
+        "city": "BOSTON",
+        "state": "MA",
+        "postalCode": "02109-5800"
+      },
+      {
+        "line": [
+          "6112 N Mesa Street #6092"
+        ],
+        "city": "EL PASO",
+        "state": "TX",
+        "postalCode": "79912-4516"
+      },
+      {
+        "line": [
+          "1500 CHESTNUT ST # 2420"
+        ],
+        "city": "PHILADELPHIA",
+        "state": "PA",
+        "postalCode": "19102-2737"
       },
       {
         "line": [
@@ -124,19 +115,28 @@
       },
       {
         "line": [
-          "6112 N Mesa Street #6092"
+          "80 Arkay Drive",
+          "SUITE 230"
         ],
-        "city": "EL PASO",
-        "state": "TX",
-        "postalCode": "79912-4516"
+        "city": "HAUPPAUGE",
+        "state": "NY",
+        "postalCode": "11788-3705"
       },
       {
         "line": [
-          "101 N 1st Ave"
+          "512 S Peterson Avenue #2006"
         ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85003-1902"
+        "city": "DOUGLAS",
+        "state": "GA",
+        "postalCode": "31533-5254"
+      },
+      {
+        "line": [
+          "2550 Albany Avenue, #1074"
+        ],
+        "city": "WEST HARTFORD",
+        "state": "CT",
+        "postalCode": "06117-2335"
       }
     ],
     "extension": [

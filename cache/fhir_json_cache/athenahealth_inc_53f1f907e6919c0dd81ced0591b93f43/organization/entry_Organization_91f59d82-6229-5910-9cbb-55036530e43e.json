@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154965093"
+        "value": "1588132062"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588132062"
+        "value": "1154965093"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,19 +28,19 @@
     "address": [
       {
         "line": [
-          "1415 W ROSS AVE"
-        ],
-        "city": "EL CENTRO",
-        "state": "CA",
-        "postalCode": "92243-1000"
-      },
-      {
-        "line": [
           "2200 W acacia"
         ],
         "city": "HEMET",
         "state": "CA",
         "postalCode": "92546-0001"
+      },
+      {
+        "line": [
+          "1415 W ROSS AVE"
+        ],
+        "city": "EL CENTRO",
+        "state": "CA",
+        "postalCode": "92243-1000"
       }
     ],
     "extension": [

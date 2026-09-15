@@ -18,23 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619338647"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265893291"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104289693"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821459850"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376592964"
+        "value": "1720123748"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,19 +26,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720722820"
+        "value": "1376592964"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720449739"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326402074"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720123748"
+        "value": "1710348784"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,7 +38,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821452566"
+        "value": "1104289693"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -70,7 +46,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235593989"
+        "value": "1326402074"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619338647"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720449739"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821452566"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -78,35 +66,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710348784"
+        "value": "1265893291"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235593989"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821459850"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720722820"
       }
     ],
     "address": [
-      {
-        "line": [
-          "120 William Penn Plaza"
-        ],
-        "city": "DURHAM",
-        "state": "NC",
-        "postalCode": "27704-2150"
-      },
-      {
-        "line": [
-          "11550 Common Oaks Dr",
-          "Ste 100"
-        ],
-        "city": "RALEIGH",
-        "state": "NC",
-        "postalCode": "27614-8093"
-      },
-      {
-        "line": [
-          "120 Healthplex Way"
-        ],
-        "city": "APEX",
-        "state": "NC",
-        "postalCode": "27502-8403"
-      },
       {
         "line": [
           "439 US HWY 158 W"
@@ -117,12 +92,19 @@
       },
       {
         "line": [
-          "2076 Hwy 42 W",
-          "Ste 300"
+          "120 William Penn Plaza"
         ],
-        "city": "CLAYTON",
+        "city": "DURHAM",
         "state": "NC",
-        "postalCode": "27520-5302"
+        "postalCode": "27704-2150"
+      },
+      {
+        "line": [
+          "100 Perkins Dr"
+        ],
+        "city": "CHAPEL HILL",
+        "state": "NC",
+        "postalCode": "27514-1783"
       },
       {
         "line": [
@@ -142,19 +124,28 @@
       },
       {
         "line": [
+          "1803 Forest Hills Rd W",
+          "Ste 100"
+        ],
+        "city": "WILSON",
+        "state": "NC",
+        "postalCode": "27893-3412"
+      },
+      {
+        "line": [
+          "120 Healthplex Way"
+        ],
+        "city": "APEX",
+        "state": "NC",
+        "postalCode": "27502-8403"
+      },
+      {
+        "line": [
           "11550 Common Oaks Dr."
         ],
         "city": "RALEIGH",
         "state": "NC",
         "postalCode": "27614-8093"
-      },
-      {
-        "line": [
-          "249 East NC Hwy 54"
-        ],
-        "city": "DURHAM",
-        "state": "NC",
-        "postalCode": "27713-7512"
       },
       {
         "line": [
@@ -166,6 +157,23 @@
       },
       {
         "line": [
+          "249 East NC Hwy 54"
+        ],
+        "city": "DURHAM",
+        "state": "NC",
+        "postalCode": "27713-7512"
+      },
+      {
+        "line": [
+          "2076 Hwy 42 W",
+          "Ste 300"
+        ],
+        "city": "CLAYTON",
+        "state": "NC",
+        "postalCode": "27520-5302"
+      },
+      {
+        "line": [
           "100 Kellie Drive"
         ],
         "city": "SMITHFIELD",
@@ -174,20 +182,12 @@
       },
       {
         "line": [
-          "100 Perkins Dr"
-        ],
-        "city": "CHAPEL HILL",
-        "state": "NC",
-        "postalCode": "27514-1783"
-      },
-      {
-        "line": [
-          "1803 Forest Hills Rd W",
+          "11550 Common Oaks Dr",
           "Ste 100"
         ],
-        "city": "WILSON",
+        "city": "RALEIGH",
         "state": "NC",
-        "postalCode": "27893-3412"
+        "postalCode": "27614-8093"
       }
     ],
     "extension": [

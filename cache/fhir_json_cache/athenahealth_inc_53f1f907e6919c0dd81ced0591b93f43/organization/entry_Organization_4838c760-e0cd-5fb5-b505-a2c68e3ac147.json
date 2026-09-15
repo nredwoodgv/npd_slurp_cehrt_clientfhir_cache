@@ -14,21 +14,82 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053461806"
+        "value": "1417287020"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417287020"
+        "value": "1053461806"
       }
     ],
     "address": [
       {
         "line": [
-          "12950 EAST FWY"
+          "9301 Southwest Freeway",
+          "Suite 600"
         ],
         "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77015-5710"
+        "postalCode": "77074-1435"
+      },
+      {
+        "line": [
+          "4200 TWELVE OAKS DRIVE"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77027-6812"
+      },
+      {
+        "line": [
+          "5420 West Loop South,",
+          "Ste 2500"
+        ],
+        "city": "BELLAIRE",
+        "state": "TX",
+        "postalCode": "77401-2107"
+      },
+      {
+        "line": [
+          "9301 SOUTHWEST FREEWAY",
+          "SUITE 600"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77074-1510"
+      },
+      {
+        "line": [
+          "5420West Loop South",
+          "Suite 2500"
+        ],
+        "city": "BELLAIRE",
+        "state": "TX",
+        "postalCode": "77401-2118"
+      },
+      {
+        "line": [
+          "5420 West Loop South",
+          "Ste 2500"
+        ],
+        "city": "BELLAIRE",
+        "state": "TX",
+        "postalCode": "77401-2107"
+      },
+      {
+        "line": [
+          "7501 Fannin St"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77054-1939"
+      },
+      {
+        "line": [
+          "9301 SOUTHWEST FWY STE 600"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77074-1435"
       },
       {
         "line": [
@@ -41,11 +102,21 @@
       },
       {
         "line": [
-          "7501 Fannin St"
+          "5420 West Loop South",
+          "Suite 2500"
         ],
-        "city": "HOUSTON",
+        "city": "Bellaire",
         "state": "TX",
-        "postalCode": "77054-1939"
+        "postalCode": "77401-2107"
+      },
+      {
+        "line": [
+          "5420 West Loop South",
+          "Suite 2500"
+        ],
+        "city": "BELLAIRE",
+        "state": "TX",
+        "postalCode": "77401-2118"
       },
       {
         "line": [
@@ -55,6 +126,14 @@
         "city": "Beaumont",
         "state": "TX",
         "postalCode": "77701-4660"
+      },
+      {
+        "line": [
+          "12950 EAST FWY"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77015-5710"
       },
       {
         "line": [
@@ -76,91 +155,12 @@
       },
       {
         "line": [
-          "5420 West Loop South,",
-          "Ste 2500"
-        ],
-        "city": "BELLAIRE",
-        "state": "TX",
-        "postalCode": "77401-2107"
-      },
-      {
-        "line": [
-          "4200 TWELVE OAKS DRIVE"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77027-6812"
-      },
-      {
-        "line": [
-          "9301 SOUTHWEST FREEWAY",
-          "SUITE 600"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77074-1510"
-      },
-      {
-        "line": [
           "3820 Pointe Parkway",
           "Suite # 100"
         ],
         "city": "BEAUMONT",
         "state": "TX",
         "postalCode": "77706-2000"
-      },
-      {
-        "line": [
-          "9301 SOUTHWEST FWY STE 600"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77074-1435"
-      },
-      {
-        "line": [
-          "9301 Southwest Freeway",
-          "Suite 600"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77074-1435"
-      },
-      {
-        "line": [
-          "5420 West Loop South",
-          "Suite 2500"
-        ],
-        "city": "Bellaire",
-        "state": "TX",
-        "postalCode": "77401-2107"
-      },
-      {
-        "line": [
-          "5420 West Loop South",
-          "Ste 2500"
-        ],
-        "city": "BELLAIRE",
-        "state": "TX",
-        "postalCode": "77401-2107"
-      },
-      {
-        "line": [
-          "5420 West Loop South",
-          "Suite 2500"
-        ],
-        "city": "BELLAIRE",
-        "state": "TX",
-        "postalCode": "77401-2118"
-      },
-      {
-        "line": [
-          "5420West Loop South",
-          "Suite 2500"
-        ],
-        "city": "BELLAIRE",
-        "state": "TX",
-        "postalCode": "77401-2118"
       }
     ],
     "extension": [

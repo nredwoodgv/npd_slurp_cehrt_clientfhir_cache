@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891580858"
+        "value": "1023840998"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811543929"
+        "value": "1891580858"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,18 +26,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023840998"
+        "value": "1811543929"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1605 S LOCUST AVE STE 101"
-        ],
-        "city": "LAWRENCEBURG",
-        "state": "TN",
-        "postalCode": "38464-4053"
-      },
       {
         "line": [
           "1009 N LOCUST AVE"
@@ -45,6 +37,14 @@
         "city": "LAWRENCEBURG",
         "state": "TN",
         "postalCode": "38464-2746"
+      },
+      {
+        "line": [
+          "1605 S LOCUST AVE STE 101"
+        ],
+        "city": "LAWRENCEBURG",
+        "state": "TN",
+        "postalCode": "38464-4053"
       }
     ],
     "extension": [

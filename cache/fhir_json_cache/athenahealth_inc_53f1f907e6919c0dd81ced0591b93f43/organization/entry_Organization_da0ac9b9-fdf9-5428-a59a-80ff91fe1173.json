@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629788849"
+        "value": "1073089488"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073089488"
+        "value": "1629788849"
       }
     ],
     "address": [
-      {
-        "line": [
-          "625 FLORMANN ST"
-        ],
-        "city": "RAPID CITY",
-        "state": "SD",
-        "postalCode": "57701-5469"
-      },
       {
         "line": [
           "3202 W MAIN ST SUITE B"
@@ -37,6 +29,14 @@
         "city": "RAPID CITY",
         "state": "SD",
         "postalCode": "57702-1706"
+      },
+      {
+        "line": [
+          "625 FLORMANN ST"
+        ],
+        "city": "RAPID CITY",
+        "state": "SD",
+        "postalCode": "57701-5469"
       }
     ],
     "extension": [

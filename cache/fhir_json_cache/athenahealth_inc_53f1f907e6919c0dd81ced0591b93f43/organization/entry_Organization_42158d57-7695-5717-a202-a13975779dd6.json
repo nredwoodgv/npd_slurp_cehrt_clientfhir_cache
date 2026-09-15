@@ -14,26 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316294531"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1013264183"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1801143029"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316294531"
       }
     ],
     "address": [
-      {
-        "line": [
-          "120 E HOWARD ST"
-        ],
-        "city": "DRIGGS",
-        "state": "ID",
-        "postalCode": "83422-5112"
-      },
       {
         "line": [
           "120 E Howard Avenue"
@@ -52,15 +44,7 @@
       },
       {
         "line": [
-          "120 E Howard Avenue"
-        ],
-        "city": "DRIGGS",
-        "state": "ID",
-        "postalCode": "83422-5122"
-      },
-      {
-        "line": [
-          "120 E HOWARD AVENUE"
+          "120 E HOWARD ST"
         ],
         "city": "DRIGGS",
         "state": "ID",
@@ -76,11 +60,27 @@
       },
       {
         "line": [
+          "120 E HOWARD AVENUE"
+        ],
+        "city": "DRIGGS",
+        "state": "ID",
+        "postalCode": "83422-5112"
+      },
+      {
+        "line": [
           "852 Valley Centre Drive"
         ],
         "city": "DRIGGS",
         "state": "ID",
         "postalCode": "83422-5138"
+      },
+      {
+        "line": [
+          "120 E Howard Avenue"
+        ],
+        "city": "DRIGGS",
+        "state": "ID",
+        "postalCode": "83422-5122"
       }
     ],
     "extension": [

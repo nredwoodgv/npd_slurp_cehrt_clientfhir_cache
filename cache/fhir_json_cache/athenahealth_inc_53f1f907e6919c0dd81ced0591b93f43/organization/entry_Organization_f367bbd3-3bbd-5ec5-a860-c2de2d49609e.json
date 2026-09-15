@@ -18,7 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689945784"
+        "value": "1649408899"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,18 +30,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649408899"
+        "value": "1689945784"
       }
     ],
     "address": [
-      {
-        "line": [
-          "725 North Street"
-        ],
-        "city": "PITTSFIELD",
-        "state": "MA",
-        "postalCode": "01201-4109"
-      },
       {
         "line": [
           "444 Stockbridge Road"
@@ -65,6 +57,14 @@
         "city": "ADAMS",
         "state": "MA",
         "postalCode": "01220-1856"
+      },
+      {
+        "line": [
+          "725 North Street"
+        ],
+        "city": "PITTSFIELD",
+        "state": "MA",
+        "postalCode": "01201-4109"
       }
     ],
     "extension": [

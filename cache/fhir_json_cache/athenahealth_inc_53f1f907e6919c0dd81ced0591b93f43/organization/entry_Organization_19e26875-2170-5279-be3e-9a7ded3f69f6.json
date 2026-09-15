@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114689320"
+        "value": "1053235911"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053235911"
+        "value": "1114689320"
       }
     ],
     "address": [
@@ -33,19 +33,20 @@
       },
       {
         "line": [
-          "4349 MARTIN LUTHER KING BLVD STE 1001E"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77204-3074"
-      },
-      {
-        "line": [
           "3703 SAMPSON ST"
         ],
         "city": "HOUSTON",
         "state": "TX",
         "postalCode": "77004-4741"
+      },
+      {
+        "line": [
+          "4349 MARTIN LUTHER KING BLVD",
+          "STE 1001E"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77204-3074"
       },
       {
         "line": [

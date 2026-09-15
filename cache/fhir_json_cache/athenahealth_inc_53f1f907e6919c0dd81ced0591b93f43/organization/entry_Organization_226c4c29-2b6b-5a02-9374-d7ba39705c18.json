@@ -14,37 +14,37 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134191836"
+        "value": "1073780730"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073780730"
+        "value": "1134191836"
       }
     ],
     "address": [
       {
         "line": [
-          "99 Magnolia Ave"
+          "611 S HOWARD AVE"
         ],
-        "city": "AUBURNDALE",
+        "city": "TAMPA",
         "state": "FL",
-        "postalCode": "33823-3401"
+        "postalCode": "33606-2412"
       },
       {
         "line": [
-          "11398 QUAIL ROOST DR"
+          "110 BULLARD PKWY"
         ],
-        "city": "MIAMI",
+        "city": "TEMPLE TERRACE",
         "state": "FL",
-        "postalCode": "33157-6566"
+        "postalCode": "33617-5510"
       },
       {
         "line": [
-          "11801 Panama City Beach Parkway"
+          "7016 BERACASA WAY"
         ],
-        "city": "PANAMA CITY BEACH",
+        "city": "BOCA RATON",
         "state": "FL",
-        "postalCode": "32407-2509"
+        "postalCode": "33433-3447"
       },
       {
         "line": [
@@ -56,11 +56,27 @@
       },
       {
         "line": [
-          "110 BULLARD PKWY"
+          "11398 QUAIL ROOST DR"
         ],
-        "city": "TEMPLE TERRACE",
+        "city": "MIAMI",
         "state": "FL",
-        "postalCode": "33617-5510"
+        "postalCode": "33157-6566"
+      },
+      {
+        "line": [
+          "5466 THOMASVILLE RD"
+        ],
+        "city": "TALLAHASSEE",
+        "state": "FL",
+        "postalCode": "32312-3812"
+      },
+      {
+        "line": [
+          "1 OLD KINGS RD"
+        ],
+        "city": "PALM COAST",
+        "state": "FL",
+        "postalCode": "32137-4613"
       },
       {
         "line": [
@@ -80,35 +96,19 @@
       },
       {
         "line": [
-          "611 S HOWARD AVE"
+          "11801 Panama City Beach Parkway"
         ],
-        "city": "TAMPA",
+        "city": "PANAMA CITY BEACH",
         "state": "FL",
-        "postalCode": "33606-2412"
+        "postalCode": "32407-2509"
       },
       {
         "line": [
-          "7016 BERACASA WAY"
+          "99 Magnolia Ave"
         ],
-        "city": "BOCA RATON",
+        "city": "AUBURNDALE",
         "state": "FL",
-        "postalCode": "33433-3447"
-      },
-      {
-        "line": [
-          "1 OLD KINGS RD"
-        ],
-        "city": "PALM COAST",
-        "state": "FL",
-        "postalCode": "32137-4613"
-      },
-      {
-        "line": [
-          "5466 THOMASVILLE RD"
-        ],
-        "city": "TALLAHASSEE",
-        "state": "FL",
-        "postalCode": "32312-3812"
+        "postalCode": "33823-3401"
       }
     ],
     "extension": [

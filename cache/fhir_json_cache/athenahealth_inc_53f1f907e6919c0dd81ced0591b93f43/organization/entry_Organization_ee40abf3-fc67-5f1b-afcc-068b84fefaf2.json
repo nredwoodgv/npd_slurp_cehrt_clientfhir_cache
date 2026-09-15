@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245975135"
+        "value": "1376297119"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376297119"
+        "value": "1710690433"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,26 +26,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710690433"
+        "value": "1245975135"
       }
     ],
     "address": [
-      {
-        "line": [
-          "35 W 35TH ST"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10001-2205"
-      },
-      {
-        "line": [
-          "35 W. 35th Street, 4th Floor"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10001-2205"
-      },
       {
         "line": [
           "35 W 35 St, 6 FL",
@@ -57,6 +41,15 @@
       },
       {
         "line": [
+          "5665 POWER INN RD",
+          "STE 140"
+        ],
+        "city": "SACRAMENTO",
+        "state": "CA",
+        "postalCode": "95824-2383"
+      },
+      {
+        "line": [
           "301 ALLIED PKWY"
         ],
         "city": "WEST BERLIN",
@@ -65,15 +58,7 @@
       },
       {
         "line": [
-          "7143 E MAIN ST"
-        ],
-        "city": "MESA",
-        "state": "AZ",
-        "postalCode": "85207-8228"
-      },
-      {
-        "line": [
-          "35 W 35th Street"
+          "35 W. 35th Street, 4th Floor"
         ],
         "city": "NEW YORK",
         "state": "NY",
@@ -81,8 +66,8 @@
       },
       {
         "line": [
-          "undomiciled",
-          "35 W 35th ST FL 6"
+          "685 3rd Ave",
+          "9th Fl"
         ],
         "city": "NEW YORK",
         "state": "NY",
@@ -90,61 +75,20 @@
       },
       {
         "line": [
-          "47 HALL ST"
+          "5555 MAGNATRON BLVD"
         ],
-        "city": "BROOKLYN",
-        "state": "NY",
-        "postalCode": "11205-1315"
-      },
-      {
-        "line": [
-          "35 W 35TH ST FL 6"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10001-2205"
-      },
-      {
-        "line": [
-          "1907 Border Ave"
-        ],
-        "city": "TORRANCE",
+        "city": "SAN DIEGO",
         "state": "CA",
-        "postalCode": "90501-3606"
+        "postalCode": "92111-1308"
       },
       {
         "line": [
-          "1012 E COOLEY DR",
-          "Unit L & M"
-        ],
-        "city": "COLTON",
-        "state": "CA",
-        "postalCode": "92324-3950"
-      },
-      {
-        "line": [
-          " 35 W 35TH ST FL 6",
-          "undomiciled"
+          "35 W 35TH ST",
+          "FL 6"
         ],
         "city": "NEW YORK",
         "state": "NY",
         "postalCode": "10001-2205"
-      },
-      {
-        "line": [
-          "35 W 35 St, 6 FL"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10001-2205"
-      },
-      {
-        "line": [
-          "9670 EAGLE RANCH RD NW"
-        ],
-        "city": "ALBUQUERQUE",
-        "state": "NM",
-        "postalCode": "87114-1579"
       },
       {
         "line": [
@@ -156,19 +100,36 @@
       },
       {
         "line": [
+          "35 W 35 St, 6 FL"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10001-2205"
+      },
+      {
+        "line": [
+          "1012 E COOLEY DR",
+          "STE L"
+        ],
+        "city": "COLTON",
+        "state": "CA",
+        "postalCode": "92324-3949"
+      },
+      {
+        "line": [
+          "927 INDUSTRIAL PKWY"
+        ],
+        "city": "PLAINWELL",
+        "state": "MI",
+        "postalCode": "49080-1401"
+      },
+      {
+        "line": [
           "825 E 141ST ST"
         ],
         "city": "BRONX",
         "state": "NY",
         "postalCode": "10454-1917"
-      },
-      {
-        "line": [
-          "110 AIRPORT RD FL 4"
-        ],
-        "city": "HARTFORD",
-        "state": "CT",
-        "postalCode": "06114-2005"
       },
       {
         "line": [
@@ -178,6 +139,31 @@
         "city": "LOUISVILLE",
         "state": "KY",
         "postalCode": "40299-3877"
+      },
+      {
+        "line": [
+          "55 LANE RD",
+          "STE 300"
+        ],
+        "city": "FAIRFIELD",
+        "state": "NJ",
+        "postalCode": "07004-1015"
+      },
+      {
+        "line": [
+          "35 W 35th Street"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10001-2205"
+      },
+      {
+        "line": [
+          "455 JEFFERSON ST"
+        ],
+        "city": "BROOKLYN",
+        "state": "NY",
+        "postalCode": "11237-2889"
       },
       {
         "line": [
@@ -197,152 +183,7 @@
       },
       {
         "line": [
-          "927 INDUSTRIAL PKWY"
-        ],
-        "city": "PLAINWELL",
-        "state": "MI",
-        "postalCode": "49080-1401"
-      },
-      {
-        "line": [
-          "35 W 35th ST 6 FL",
-          "Undomiciled"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10001-2205"
-      },
-      {
-        "line": [
-          "55 LANE RD",
-          "STE 300"
-        ],
-        "city": "FAIRFIELD",
-        "state": "NJ",
-        "postalCode": "07004-1015"
-      },
-      {
-        "line": [
-          "16-70 Weirfield St"
-        ],
-        "city": "RIDGEWOOD",
-        "state": "NY",
-        "postalCode": "11385-5350"
-      },
-      {
-        "line": [
-          "45 E 45th Street NY NY 10017"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10001-2205"
-      },
-      {
-        "line": [
-          "5555 MAGNATRON BLVD"
-        ],
-        "city": "SAN DIEGO",
-        "state": "CA",
-        "postalCode": "92111-1308"
-      },
-      {
-        "line": [
-          "154 Hansen Access Rd"
-        ],
-        "city": "KING OF PRUSSIA",
-        "state": "PA",
-        "postalCode": "19406-2402"
-      },
-      {
-        "line": [
-          "455 JEFFERSON ST"
-        ],
-        "city": "BROOKLYN",
-        "state": "NY",
-        "postalCode": "11237-2889"
-      },
-      {
-        "line": [
-          "685 3rd Ave",
-          "9th Fl"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10001-2205"
-      },
-      {
-        "line": [
-          "35 W 35TH, 6th FL",
-          "Undomiciled"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10019-3013"
-      },
-      {
-        "line": [
-          "50 Aviation Rd"
-        ],
-        "city": "BROOKLYN",
-        "state": "NY",
-        "postalCode": "11234-2205"
-      },
-      {
-        "line": [
-          "1907 BORDER AVE"
-        ],
-        "city": "TORRANCE",
-        "state": "CA",
-        "postalCode": "90501-3606"
-      },
-      {
-        "line": [
-          "2525 LAKESIDE DR",
-          "UNIT A31"
-        ],
-        "city": "LAS CRUCES",
-        "state": "NM",
-        "postalCode": "88007-3963"
-      },
-      {
-        "line": [
-          "5665 POWER INN RD",
-          "Suite 140"
-        ],
-        "city": "SACRAMENTO",
-        "state": "CA",
-        "postalCode": "95824-2333"
-      },
-      {
-        "line": [
-          "685 3RD AVE"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10017-4024"
-      },
-      {
-        "line": [
-          "35 W 35 TH ST, 6 FL",
-          "Undomiciled"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10001-2205"
-      },
-      {
-        "line": [
-          "1012 E COOLEY DR",
-          "STE L"
-        ],
-        "city": "COLTON",
-        "state": "CA",
-        "postalCode": "92324-3949"
-      },
-      {
-        "line": [
-          "9670 EAGLE RANCH RD NW",
-          "STE 2"
+          "9670 EAGLE RANCH RD NW"
         ],
         "city": "ALBUQUERQUE",
         "state": "NM",
@@ -350,44 +191,19 @@
       },
       {
         "line": [
-          "701 COOPER RD",
-          "STE 1"
-        ],
-        "city": "VOORHEES",
-        "state": "NJ",
-        "postalCode": "08043-3800"
-      },
-      {
-        "line": [
-          "209-213 W 42 ST"
+          "35 W 35TH ST"
         ],
         "city": "NEW YORK",
         "state": "NY",
-        "postalCode": "10036-7206"
+        "postalCode": "10001-2205"
       },
       {
         "line": [
-          "217 BLANTON AVE"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37210-4703"
-      },
-      {
-        "line": [
-          "16-70 WEIRFIELD ST"
-        ],
-        "city": "RIDGEWOOD",
-        "state": "NY",
-        "postalCode": "11385-5350"
-      },
-      {
-        "line": [
-          "9 HALL ST"
+          "47 HALL ST"
         ],
         "city": "BROOKLYN",
         "state": "NY",
-        "postalCode": "11205-1303"
+        "postalCode": "11205-1315"
       },
       {
         "line": [
@@ -400,12 +216,197 @@
       },
       {
         "line": [
+          "701 COOPER RD",
+          "STE 1"
+        ],
+        "city": "VOORHEES",
+        "state": "NJ",
+        "postalCode": "08043-3800"
+      },
+      {
+        "line": [
+          "35 W 35 TH ST, 6 FL",
+          "Undomiciled"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10001-2205"
+      },
+      {
+        "line": [
+          "1907 BORDER AVE"
+        ],
+        "city": "TORRANCE",
+        "state": "CA",
+        "postalCode": "90501-3606"
+      },
+      {
+        "line": [
+          "154 Hansen Access Rd"
+        ],
+        "city": "KING OF PRUSSIA",
+        "state": "PA",
+        "postalCode": "19406-2402"
+      },
+      {
+        "line": [
+          "9 HALL ST"
+        ],
+        "city": "BROOKLYN",
+        "state": "NY",
+        "postalCode": "11205-1303"
+      },
+      {
+        "line": [
+          "7143 E MAIN ST"
+        ],
+        "city": "MESA",
+        "state": "AZ",
+        "postalCode": "85207-8228"
+      },
+      {
+        "line": [
+          "1907 Border Ave"
+        ],
+        "city": "TORRANCE",
+        "state": "CA",
+        "postalCode": "90501-3606"
+      },
+      {
+        "line": [
+          "685 3RD AVE"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10017-4024"
+      },
+      {
+        "line": [
+          "45 E 45th Street NY NY 10017"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10001-2205"
+      },
+      {
+        "line": [
+          "35 W 35th ST 6 FL",
+          "Undomiciled"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10001-2205"
+      },
+      {
+        "line": [
+          " 35 W 35TH ST FL 6",
+          "undomiciled"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10001-2205"
+      },
+      {
+        "line": [
+          "undomiciled",
+          "35 W 35th ST FL 6"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10001-2205"
+      },
+      {
+        "line": [
+          "9670 EAGLE RANCH RD NW",
+          "STE 2"
+        ],
+        "city": "ALBUQUERQUE",
+        "state": "NM",
+        "postalCode": "87114-1579"
+      },
+      {
+        "line": [
+          "1012 E COOLEY DR",
+          "Unit L & M"
+        ],
+        "city": "COLTON",
+        "state": "CA",
+        "postalCode": "92324-3950"
+      },
+      {
+        "line": [
+          "50 Aviation Rd"
+        ],
+        "city": "BROOKLYN",
+        "state": "NY",
+        "postalCode": "11234-2205"
+      },
+      {
+        "line": [
+          "217 BLANTON AVE"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37210-4703"
+      },
+      {
+        "line": [
+          "16-70 Weirfield St"
+        ],
+        "city": "RIDGEWOOD",
+        "state": "NY",
+        "postalCode": "11385-5350"
+      },
+      {
+        "line": [
+          "16-70 WEIRFIELD ST"
+        ],
+        "city": "RIDGEWOOD",
+        "state": "NY",
+        "postalCode": "11385-5350"
+      },
+      {
+        "line": [
+          "209-213 W 42 ST"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10036-7206"
+      },
+      {
+        "line": [
+          "35 W 35TH, 6th FL",
+          "Undomiciled"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10019-3013"
+      },
+      {
+        "line": [
           "5665 POWER INN RD",
-          "STE 140"
+          "Suite 140"
         ],
         "city": "SACRAMENTO",
         "state": "CA",
-        "postalCode": "95824-2383"
+        "postalCode": "95824-2333"
+      },
+      {
+        "line": [
+          "110 AIRPORT RD FL 4"
+        ],
+        "city": "HARTFORD",
+        "state": "CT",
+        "postalCode": "06114-2005"
+      },
+      {
+        "line": [
+          "2525 LAKESIDE DR",
+          "UNIT A31"
+        ],
+        "city": "LAS CRUCES",
+        "state": "NM",
+        "postalCode": "88007-3963"
       }
     ],
     "extension": [

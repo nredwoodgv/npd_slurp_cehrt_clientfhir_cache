@@ -14,18 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1891933560"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1659316008"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1407094436"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891933560"
       }
     ],
     "address": [
+      {
+        "line": [
+          "Hwy 86 Mile Post 113"
+        ],
+        "city": "SELLS",
+        "state": "AZ",
+        "postalCode": "85634-1234"
+      },
       {
         "line": [
           "1521 W Tangerine Rd",
@@ -37,21 +45,11 @@
       },
       {
         "line": [
-          "10503 West Thunderbird Road",
-          "Suite 113"
+          "500 Edgewater"
         ],
-        "city": "SUN CITY",
+        "city": "TUBA CITY",
         "state": "AZ",
-        "postalCode": "85351-3047"
-      },
-      {
-        "line": [
-          "2525 West Carefree Hwy",
-          "Building 8 Suite 156"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85085-6093"
+        "postalCode": "86045-1111"
       },
       {
         "line": [
@@ -64,19 +62,21 @@
       },
       {
         "line": [
-          "Hwy 86 Mile Post 113"
+          "2525 West Carefree Hwy",
+          "Building 8 Suite 156"
         ],
-        "city": "SELLS",
+        "city": "PHOENIX",
         "state": "AZ",
-        "postalCode": "85634-1234"
+        "postalCode": "85085-6093"
       },
       {
         "line": [
-          "500 Edgewater"
+          "10503 West Thunderbird Road",
+          "Suite 113"
         ],
-        "city": "TUBA CITY",
+        "city": "SUN CITY",
         "state": "AZ",
-        "postalCode": "86045-1111"
+        "postalCode": "85351-3047"
       }
     ],
     "extension": [

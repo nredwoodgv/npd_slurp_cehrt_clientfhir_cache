@@ -14,19 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275290694"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629538491"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1588997233"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1508489782"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1275290694"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629538491"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,14 +38,6 @@
       }
     ],
     "address": [
-      {
-        "line": [
-          "1201 W 38th St"
-        ],
-        "city": "Austin",
-        "state": "TX",
-        "postalCode": "78705-1006"
-      },
       {
         "line": [
           "6001 Kyle Pkwy"
@@ -61,6 +53,14 @@
         "city": "AUSTIN",
         "state": "TX",
         "postalCode": "78737-1407"
+      },
+      {
+        "line": [
+          "1201 W 38th St"
+        ],
+        "city": "Austin",
+        "state": "TX",
+        "postalCode": "78705-1006"
       }
     ],
     "extension": [

@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255922043"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1255967956"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1124406376"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1255922043"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,19 +36,11 @@
     "address": [
       {
         "line": [
-          "205 Water St"
+          "5535 PEACH ST"
         ],
-        "city": "WARREN",
+        "city": "ERIE",
         "state": "PA",
-        "postalCode": "16365-2307"
-      },
-      {
-        "line": [
-          "200 Pleasant St"
-        ],
-        "city": "BRADFORD",
-        "state": "PA",
-        "postalCode": "16701-1065"
+        "postalCode": "16509-2603"
       },
       {
         "line": [
@@ -60,11 +52,43 @@
       },
       {
         "line": [
+          "701 Rouse Ave"
+        ],
+        "city": "YOUNGSVILLE",
+        "state": "PA",
+        "postalCode": "16371-1605"
+      },
+      {
+        "line": [
           "20881 STATE HIGHWAY 198"
         ],
         "city": "SAEGERTOWN",
         "state": "PA",
         "postalCode": "16433-6159"
+      },
+      {
+        "line": [
+          "1521 W 54TH ST"
+        ],
+        "city": "ERIE",
+        "state": "PA",
+        "postalCode": "16509-2620"
+      },
+      {
+        "line": [
+          "205 Water St"
+        ],
+        "city": "WARREN",
+        "state": "PA",
+        "postalCode": "16365-2307"
+      },
+      {
+        "line": [
+          "14714 Park Ave Ext"
+        ],
+        "city": "MEADVILLE",
+        "state": "PA",
+        "postalCode": "16335-9400"
       },
       {
         "line": [
@@ -84,30 +108,6 @@
       },
       {
         "line": [
-          "701 Rouse Ave"
-        ],
-        "city": "YOUNGSVILLE",
-        "state": "PA",
-        "postalCode": "16371-1605"
-      },
-      {
-        "line": [
-          "100 SAINT FRANCIS DR"
-        ],
-        "city": "BRADFORD",
-        "state": "PA",
-        "postalCode": "16701-1868"
-      },
-      {
-        "line": [
-          "5535 PEACH ST"
-        ],
-        "city": "ERIE",
-        "state": "PA",
-        "postalCode": "16509-2603"
-      },
-      {
-        "line": [
           "17083 ROUTE 6"
         ],
         "city": "SMETHPORT",
@@ -116,19 +116,19 @@
       },
       {
         "line": [
-          "14714 Park Ave Ext"
+          "200 Pleasant St"
         ],
-        "city": "MEADVILLE",
+        "city": "BRADFORD",
         "state": "PA",
-        "postalCode": "16335-9400"
+        "postalCode": "16701-1065"
       },
       {
         "line": [
-          "1521 W 54TH ST"
+          "100 SAINT FRANCIS DR"
         ],
-        "city": "ERIE",
+        "city": "BRADFORD",
         "state": "PA",
-        "postalCode": "16509-2620"
+        "postalCode": "16701-1868"
       }
     ],
     "extension": [

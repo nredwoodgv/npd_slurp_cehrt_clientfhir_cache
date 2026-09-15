@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326810086"
+        "value": "1770357527"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043083595"
+        "value": "1760256515"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124907951"
+        "value": "1831083393"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,31 +34,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124907951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326810086"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1043083595"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1336932557"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649051715"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003688037"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922870955"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730972944"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811778988"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831970904"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,19 +54,31 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205617370"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710753066"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1023801230"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811778988"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1205617370"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1235811787"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1679366843"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831970904"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649051715"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -90,7 +90,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679366843"
+        "value": "1659152726"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730972944"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1003688037"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1922870955"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -98,7 +110,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659152726"
+        "value": "1710753066"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -107,47 +119,9 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1104619352"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770357527"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760256515"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831083393"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3521 Silverside Rd",
-          "Ste 2D"
-        ],
-        "city": "WILMINGTON",
-        "state": "DE",
-        "postalCode": "19810-4900"
-      },
-      {
-        "line": [
-          "1489 BALTIMORE PIKE",
-          "STE 250 BLDG 200"
-        ],
-        "city": "SPRINGFIELD",
-        "state": "PA",
-        "postalCode": "19064-3974"
-      },
-      {
-        "line": [
-          "1 OPTUM CIR"
-        ],
-        "city": "EDEN PRAIRIE",
-        "state": "MN",
-        "postalCode": "55344-2956"
-      },
       {
         "line": [
           "1 Optum Cir"
@@ -155,23 +129,6 @@
         "city": "EDEN PRAIRIE",
         "state": "MN",
         "postalCode": "55344-2956"
-      },
-      {
-        "line": [
-          "41 HUTCHINS DR",
-          "BLDG 3 OFC G15"
-        ],
-        "city": "PORTLAND",
-        "state": "ME",
-        "postalCode": "04102-1931"
-      },
-      {
-        "line": [
-          "300 INTERSTATE CORPORATE CTR"
-        ],
-        "city": "WILLISTON",
-        "state": "VT",
-        "postalCode": "05495-7626"
       },
       {
         "line": [
@@ -184,21 +141,46 @@
       },
       {
         "line": [
-          "40 Shattuck Rd",
-          "Ste 250"
-        ],
-        "city": "Andover",
-        "state": "MA",
-        "postalCode": "01810-2492"
-      },
-      {
-        "line": [
           "341 WEST ST",
           "UNIT B"
         ],
         "city": "PLANTSVILLE",
         "state": "CT",
         "postalCode": "06479-1140"
+      },
+      {
+        "line": [
+          "41 HUTCHINS DR",
+          "BLDG 3 OFC G15"
+        ],
+        "city": "PORTLAND",
+        "state": "ME",
+        "postalCode": "04102-1931"
+      },
+      {
+        "line": [
+          "1 OPTUM CIR"
+        ],
+        "city": "EDEN PRAIRIE",
+        "state": "MN",
+        "postalCode": "55344-2956"
+      },
+      {
+        "line": [
+          "1489 BALTIMORE PIKE",
+          "STE 250 BLDG 200"
+        ],
+        "city": "SPRINGFIELD",
+        "state": "PA",
+        "postalCode": "19064-3974"
+      },
+      {
+        "line": [
+          "10 Dorrance Street"
+        ],
+        "city": "PROVIDENCE",
+        "state": "RI",
+        "postalCode": "02903-2018"
       },
       {
         "line": [
@@ -211,11 +193,29 @@
       },
       {
         "line": [
-          "10 Dorrance Street"
+          "40 Shattuck Rd",
+          "Ste 250"
         ],
-        "city": "PROVIDENCE",
-        "state": "RI",
-        "postalCode": "02903-2018"
+        "city": "Andover",
+        "state": "MA",
+        "postalCode": "01810-2492"
+      },
+      {
+        "line": [
+          "3521 Silverside Rd",
+          "Ste 2D"
+        ],
+        "city": "WILMINGTON",
+        "state": "DE",
+        "postalCode": "19810-4900"
+      },
+      {
+        "line": [
+          "300 INTERSTATE CORPORATE CTR"
+        ],
+        "city": "WILLISTON",
+        "state": "VT",
+        "postalCode": "05495-7626"
       },
       {
         "line": [

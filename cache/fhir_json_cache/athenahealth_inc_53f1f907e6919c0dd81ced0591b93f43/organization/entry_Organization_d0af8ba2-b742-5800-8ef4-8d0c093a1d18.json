@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366243768"
+        "value": "1932710183"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184164014"
+        "value": "1366243768"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932710183"
+        "value": "1184164014"
       }
     ],
     "address": [
@@ -72,14 +72,6 @@
       },
       {
         "line": [
-          "1627 Kenilworth Avenue, NE"
-        ],
-        "city": "WASHINGTON",
-        "state": "DC",
-        "postalCode": "20019-2010"
-      },
-      {
-        "line": [
           "10001 Rhode Island Avenue"
         ],
         "city": "COLLEGE PARK",
@@ -93,6 +85,14 @@
         "city": "COLLEGE PARK",
         "state": "MD",
         "postalCode": "20740-1141"
+      },
+      {
+        "line": [
+          "1627 Kenilworth Avenue, NE"
+        ],
+        "city": "WASHINGTON",
+        "state": "DC",
+        "postalCode": "20019-2010"
       }
     ],
     "extension": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326112418"
+        "value": "1205833266"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205833266"
+        "value": "1326112418"
       }
     ],
     "address": [
@@ -32,12 +32,11 @@
       },
       {
         "line": [
-          "213 S DILLARD ST",
-          "STE 340"
+          "1511 SLIGH BLVD UNIT B"
         ],
-        "city": "WINTER GARDEN",
+        "city": "ORLANDO",
         "state": "FL",
-        "postalCode": "34787-3596"
+        "postalCode": "32806-3959"
       },
       {
         "line": [
@@ -49,17 +48,18 @@
       },
       {
         "line": [
-          "1511 SLIGH BLVD UNIT B"
-        ],
-        "city": "ORLANDO",
-        "state": "FL",
-        "postalCode": "32806-3959"
-      },
-      {
-        "line": [
           "Telephone Call/Video"
         ],
         "city": "NA",
+        "state": "FL",
+        "postalCode": "34787-3596"
+      },
+      {
+        "line": [
+          "213 S DILLARD ST",
+          "STE 340"
+        ],
+        "city": "WINTER GARDEN",
         "state": "FL",
         "postalCode": "34787-3596"
       }

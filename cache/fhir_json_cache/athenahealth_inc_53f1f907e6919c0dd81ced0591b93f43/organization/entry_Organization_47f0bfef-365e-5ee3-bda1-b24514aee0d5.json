@@ -22,30 +22,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164934295"
+        "value": "1336665991"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336665991"
+        "value": "1164934295"
       }
     ],
     "address": [
-      {
-        "line": [
-          "SCHEDULE TEMPLATE"
-        ],
-        "city": "SOUTH BEND",
-        "state": "IN",
-        "postalCode": "46601-1033"
-      },
-      {
-        "line": [
-          "60160 Bodnar Blvd"
-        ],
-        "city": "MISHAWAKA",
-        "state": "IN",
-        "postalCode": "46544-9338"
-      },
       {
         "line": [
           "53880 Carmichael Drive"
@@ -56,11 +40,19 @@
       },
       {
         "line": [
-          "1915 Lake Ave"
+          "SCHEDULE TEMPLATE"
         ],
         "city": "PLYMOUTH",
         "state": "IN",
         "postalCode": "46563-9366"
+      },
+      {
+        "line": [
+          "60160 Bodnar Blvd"
+        ],
+        "city": "MISHAWAKA",
+        "state": "IN",
+        "postalCode": "46544-9338"
       },
       {
         "line": [
@@ -73,15 +65,15 @@
       },
       {
         "line": [
-          "5230 BECK DR STE 6"
+          "SURGERY TEMPLATE"
         ],
-        "city": "ELKHART",
+        "city": "MISHAWAKA",
         "state": "IN",
-        "postalCode": "46516-9059"
+        "postalCode": "46545-1969"
       },
       {
         "line": [
-          "SCHEDULE TEMPLATE"
+          "1915 Lake Ave"
         ],
         "city": "PLYMOUTH",
         "state": "IN",
@@ -89,11 +81,11 @@
       },
       {
         "line": [
-          "SURGERY TEMPLATE"
+          "5230 BECK DR STE 6"
         ],
-        "city": "MISHAWAKA",
+        "city": "ELKHART",
         "state": "IN",
-        "postalCode": "46545-1969"
+        "postalCode": "46516-9059"
       },
       {
         "line": [
@@ -118,6 +110,14 @@
         "city": "LA PORTE",
         "state": "IN",
         "postalCode": "46350-5533"
+      },
+      {
+        "line": [
+          "SCHEDULE TEMPLATE"
+        ],
+        "city": "SOUTH BEND",
+        "state": "IN",
+        "postalCode": "46601-1033"
       }
     ],
     "extension": [

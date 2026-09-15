@@ -14,19 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1205470432"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1811123664"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295314318"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649406497"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558419275"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,42 +26,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962997569"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205470432"
+        "value": "1295314318"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1467792713"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649406497"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962997569"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1558419275"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1101 MEDICAL CENTER BLVD"
-        ],
-        "city": "MARRERO",
-        "state": "LA",
-        "postalCode": "70072-3151"
-      },
-      {
-        "line": [
-          "5140 Church St"
-        ],
-        "city": "LAFITTE",
-        "state": "LA",
-        "postalCode": "70067-5256"
-      },
-      {
-        "line": [
-          "3932 US Hwy 90"
-        ],
-        "city": "WESTWEGO",
-        "state": "LA",
-        "postalCode": "70094-2648"
-      },
       {
         "line": [
           "200 HENRY CLAY AVE"
@@ -80,19 +56,11 @@
       },
       {
         "line": [
-          "2552 WILLIAMS BLVD."
+          "2500 BELLE CHASSE HWY"
         ],
-        "city": "KENNER",
+        "city": "GRETNA",
         "state": "LA",
-        "postalCode": "70062-5538"
-      },
-      {
-        "line": [
-          "3932 U.S Highway 90"
-        ],
-        "city": "WESTWEGO",
-        "state": "LA",
-        "postalCode": "70094-2648"
+        "postalCode": "70056-7127"
       },
       {
         "line": [
@@ -104,27 +72,19 @@
       },
       {
         "line": [
-          "7001 Lapalco Blvd"
+          "3932 US Hwy 90"
         ],
-        "city": "MARRERO",
+        "city": "WESTWEGO",
         "state": "LA",
-        "postalCode": "70072-4329"
+        "postalCode": "70094-2648"
       },
       {
         "line": [
-          "2552 Williams Blvd"
+          "2552 WILLIAMS BLVD."
         ],
         "city": "KENNER",
         "state": "LA",
         "postalCode": "70062-5538"
-      },
-      {
-        "line": [
-          "2500 BELLE CHASSE HWY"
-        ],
-        "city": "GRETNA",
-        "state": "LA",
-        "postalCode": "70056-7127"
       },
       {
         "line": [
@@ -144,11 +104,51 @@
       },
       {
         "line": [
+          "2552 Williams Blvd"
+        ],
+        "city": "KENNER",
+        "state": "LA",
+        "postalCode": "70062-5538"
+      },
+      {
+        "line": [
+          "5140 Church St"
+        ],
+        "city": "LAFITTE",
+        "state": "LA",
+        "postalCode": "70067-5256"
+      },
+      {
+        "line": [
           "7201 Lapalco Blvd"
         ],
         "city": "MARRERO",
         "state": "LA",
         "postalCode": "70072-4598"
+      },
+      {
+        "line": [
+          "7001 Lapalco Blvd"
+        ],
+        "city": "MARRERO",
+        "state": "LA",
+        "postalCode": "70072-4329"
+      },
+      {
+        "line": [
+          "3932 U.S Highway 90"
+        ],
+        "city": "WESTWEGO",
+        "state": "LA",
+        "postalCode": "70094-2648"
+      },
+      {
+        "line": [
+          "1101 MEDICAL CENTER BLVD"
+        ],
+        "city": "MARRERO",
+        "state": "LA",
+        "postalCode": "70072-3151"
       }
     ],
     "extension": [

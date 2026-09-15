@@ -14,31 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154584373"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952340911"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1457863565"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154584373"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1760599906"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1245769744"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447456173"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538430533"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902002272"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,7 +42,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760599906"
+        "value": "1902002272"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952340911"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1538430533"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447456173"
       }
     ],
     "address": [
@@ -68,19 +68,19 @@
       },
       {
         "line": [
-          "1055 Forest Hills Ave SE"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49546-3626"
-      },
-      {
-        "line": [
           "141 Port Sheldon"
         ],
         "city": "GRANDVILLE",
         "state": "MI",
         "postalCode": "49418-2149"
+      },
+      {
+        "line": [
+          "2115 84th Street SW"
+        ],
+        "city": "BYRON CENTER",
+        "state": "MI",
+        "postalCode": "49315-9357"
       },
       {
         "line": [
@@ -92,14 +92,6 @@
       },
       {
         "line": [
-          "861 Oakcrest Lane"
-        ],
-        "city": "JENISON",
-        "state": "MI",
-        "postalCode": "49428-8305"
-      },
-      {
-        "line": [
           "2708 Meyer SW"
         ],
         "city": "WYOMING",
@@ -108,11 +100,19 @@
       },
       {
         "line": [
-          "2115 84th Street SW"
+          "1055 Forest Hills Ave SE"
         ],
-        "city": "BYRON CENTER",
+        "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49315-9357"
+        "postalCode": "49546-3626"
+      },
+      {
+        "line": [
+          "861 Oakcrest Lane"
+        ],
+        "city": "JENISON",
+        "state": "MI",
+        "postalCode": "49428-8305"
       }
     ],
     "extension": [

@@ -14,7 +14,35 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124080320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114235918"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215999511"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881656247"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962602300"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649232984"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730484031"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750302923"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,45 +54,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215348487"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114235918"
       }
     ],
     "address": [
       {
         "line": [
-          "3205 W STATE HIGHWAY 22"
+          "400 Hospital Dr Ste 201"
         ],
         "city": "CORSICANA",
         "state": "TX",
-        "postalCode": "75110-2450"
+        "postalCode": "75110-2489"
       },
       {
         "line": [
@@ -84,19 +84,11 @@
       },
       {
         "line": [
-          "400 Hospital Dr Ste 201"
+          "3205 W STATE HIGHWAY 22"
         ],
         "city": "CORSICANA",
         "state": "TX",
-        "postalCode": "75110-2489"
-      },
-      {
-        "line": [
-          "2202 W LAMPASAS ST STE 222"
-        ],
-        "city": "ENNIS",
-        "state": "TX",
-        "postalCode": "75119-5644"
+        "postalCode": "75110-2450"
       },
       {
         "line": [
@@ -108,7 +100,15 @@
       },
       {
         "line": [
-          "1400 Medical Center Drive"
+          "2202 W LAMPASAS ST STE 222"
+        ],
+        "city": "ENNIS",
+        "state": "TX",
+        "postalCode": "75119-5644"
+      },
+      {
+        "line": [
+          "1400 MEDICAL CENTER DR"
         ],
         "city": "ENNIS",
         "state": "TX",
@@ -116,7 +116,7 @@
       },
       {
         "line": [
-          "1400 MEDICAL CENTER DR"
+          "1400 Medical Center Drive"
         ],
         "city": "ENNIS",
         "state": "TX",

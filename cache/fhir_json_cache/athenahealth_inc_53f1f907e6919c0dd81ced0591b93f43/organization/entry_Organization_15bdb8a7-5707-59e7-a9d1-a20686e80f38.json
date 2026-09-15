@@ -14,27 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598213241"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861810186"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1326463357"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730571100"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861818379"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831132133"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -43,17 +23,29 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1972734200"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861818379"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730571100"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861810186"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598213241"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831132133"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1300 W. Broadway Ave"
-        ],
-        "city": "MUSKEGON",
-        "state": "MI",
-        "postalCode": "49441-3530"
-      },
       {
         "line": [
           "611 E. Main St"
@@ -61,6 +53,22 @@
         "city": "HART",
         "state": "MI",
         "postalCode": "49420-1190"
+      },
+      {
+        "line": [
+          "1275 Kenneth"
+        ],
+        "city": "MUSKEGON",
+        "state": "MI",
+        "postalCode": "49442-5180"
+      },
+      {
+        "line": [
+          "916 E. Lewis St"
+        ],
+        "city": "WHITEHALL",
+        "state": "MI",
+        "postalCode": "49461-1699"
       },
       {
         "line": [
@@ -72,19 +80,43 @@
       },
       {
         "line": [
-          "1750 Vulcan St"
+          "1061 W. Hackley Ave."
         ],
         "city": "MUSKEGON",
         "state": "MI",
-        "postalCode": "49442-6099"
+        "postalCode": "49441-3059"
       },
       {
         "line": [
-          "916 E. Lewis St"
+          "701 E. Main St"
         ],
-        "city": "WHITEHALL",
+        "city": "HART",
         "state": "MI",
-        "postalCode": "49461-1699"
+        "postalCode": "49420-1168"
+      },
+      {
+        "line": [
+          "1300 W. Broadway Ave"
+        ],
+        "city": "MUSKEGON",
+        "state": "MI",
+        "postalCode": "49441-3530"
+      },
+      {
+        "line": [
+          "2053 S. Sheridan Dr"
+        ],
+        "city": "MUSKEGON",
+        "state": "MI",
+        "postalCode": "49442-6254"
+      },
+      {
+        "line": [
+          "1380 E Sherman Blvd"
+        ],
+        "city": "MUSKEGON",
+        "state": "MI",
+        "postalCode": "49444-1814"
       },
       {
         "line": [
@@ -104,51 +136,19 @@
       },
       {
         "line": [
+          "1750 Vulcan St"
+        ],
+        "city": "MUSKEGON",
+        "state": "MI",
+        "postalCode": "49442-6099"
+      },
+      {
+        "line": [
           "1000 E Tinkham Ave"
         ],
         "city": "LUDINGTON",
         "state": "MI",
         "postalCode": "49431-1568"
-      },
-      {
-        "line": [
-          "701 E. Main St"
-        ],
-        "city": "HART",
-        "state": "MI",
-        "postalCode": "49420-1168"
-      },
-      {
-        "line": [
-          "1061 W. Hackley Ave."
-        ],
-        "city": "MUSKEGON",
-        "state": "MI",
-        "postalCode": "49441-3059"
-      },
-      {
-        "line": [
-          "1275 Kenneth"
-        ],
-        "city": "MUSKEGON",
-        "state": "MI",
-        "postalCode": "49442-5180"
-      },
-      {
-        "line": [
-          "2053 S. Sheridan Dr"
-        ],
-        "city": "MUSKEGON",
-        "state": "MI",
-        "postalCode": "49442-6254"
-      },
-      {
-        "line": [
-          "1380 E Sherman Blvd"
-        ],
-        "city": "MUSKEGON",
-        "state": "MI",
-        "postalCode": "49444-1814"
       }
     ],
     "extension": [

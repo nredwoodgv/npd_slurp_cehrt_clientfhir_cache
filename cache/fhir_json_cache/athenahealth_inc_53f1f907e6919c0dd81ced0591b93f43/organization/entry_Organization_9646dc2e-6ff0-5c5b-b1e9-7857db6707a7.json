@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831620293"
+        "value": "1962281923"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,19 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538622436"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962281923"
+        "value": "1831620293"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1306319280"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992206478"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -43,17 +35,17 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1457827693"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992206478"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1538622436"
       }
     ],
     "address": [
-      {
-        "line": [
-          "123 Main St."
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10017-1020"
-      },
       {
         "line": [
           "10 LANGLEY RD STE 400"
@@ -61,23 +53,6 @@
         "city": "NEWTON CENTER",
         "state": "MA",
         "postalCode": "02459-1972"
-      },
-      {
-        "line": [
-          "7330 Staples Mill Rd"
-        ],
-        "city": "HENRICO",
-        "state": "VA",
-        "postalCode": "23228-4122"
-      },
-      {
-        "line": [
-          "55 CHAPEL ST",
-          "SUITE 300"
-        ],
-        "city": "NEWTON",
-        "state": "MA",
-        "postalCode": "02458-1060"
       },
       {
         "line": [
@@ -90,29 +65,28 @@
       },
       {
         "line": [
-          "55 Chapel St, Suite 300"
+          "55 CHAPEL ST",
+          "SUITE 300"
         ],
         "city": "NEWTON",
         "state": "MA",
-        "postalCode": "02458-1074"
+        "postalCode": "02458-1060"
       },
       {
         "line": [
-          "3108 Glendale Boulevard",
-          "Suite 505"
+          "123 Main St."
         ],
-        "city": "LOS ANGELES",
-        "state": "CA",
-        "postalCode": "90039-1806"
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10017-1020"
       },
       {
         "line": [
-          "6137 Crawfordsville Rd Ste F",
-          "Box 386"
+          "7330 Staples Mill Rd"
         ],
-        "city": "INDIANAPOLIS",
-        "state": "IN",
-        "postalCode": "46224-3730"
+        "city": "HENRICO",
+        "state": "VA",
+        "postalCode": "23228-4122"
       },
       {
         "line": [
@@ -131,6 +105,32 @@
         "city": "CONCORD",
         "state": "MA",
         "postalCode": "01742-3499"
+      },
+      {
+        "line": [
+          "55 Chapel St, Suite 300"
+        ],
+        "city": "NEWTON",
+        "state": "MA",
+        "postalCode": "02458-1074"
+      },
+      {
+        "line": [
+          "6137 Crawfordsville Rd Ste F",
+          "Box 386"
+        ],
+        "city": "INDIANAPOLIS",
+        "state": "IN",
+        "postalCode": "46224-3730"
+      },
+      {
+        "line": [
+          "3108 Glendale Boulevard",
+          "Suite 505"
+        ],
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "postalCode": "90039-1806"
       }
     ],
     "extension": [

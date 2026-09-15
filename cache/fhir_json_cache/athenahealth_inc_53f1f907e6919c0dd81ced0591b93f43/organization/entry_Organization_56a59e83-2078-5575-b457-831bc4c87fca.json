@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124586938"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871801688"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1295397032"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124586938"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,52 +26,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1871801688"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861054744"
       }
     ],
     "address": [
-      {
-        "line": [
-          "409 Alfred St",
-          "Units 4-5"
-        ],
-        "city": "BIDDEFORD",
-        "state": "ME",
-        "postalCode": "04005-3756"
-      },
-      {
-        "line": [
-          "42 Summer Street, Suite 201"
-        ],
-        "city": "PITTSFIELD",
-        "state": "MA",
-        "postalCode": "01201-4697"
-      },
-      {
-        "line": [
-          "121 Lincoln Street, 1st Floor"
-        ],
-        "city": "WORCESTER",
-        "state": "MA",
-        "postalCode": "01605-2429"
-      },
-      {
-        "line": [
-          "50 Union St"
-        ],
-        "city": "WEST SPRINGFIELD",
-        "state": "MA",
-        "postalCode": "01089-3317"
-      },
-      {
-        "line": [
-          "4421 Roosevelt Blvd",
-          "Suite A"
-        ],
-        "city": "MIDDLETOWN",
-        "state": "OH",
-        "postalCode": "45044-9023"
-      },
       {
         "line": [
           "938 South Bradford Street"
@@ -94,11 +52,12 @@
       },
       {
         "line": [
-          "77 Hospital Drive, Suite 104"
+          "4923 Ogletown Stanton Road",
+          "Suite 110"
         ],
-        "city": "NORTH ADAMS",
-        "state": "MA",
-        "postalCode": "01247-2538"
+        "city": "NEWARK",
+        "state": "DE",
+        "postalCode": "19713-2012"
       },
       {
         "line": [
@@ -111,6 +70,31 @@
       },
       {
         "line": [
+          "409 Alfred St",
+          "Units 4-5"
+        ],
+        "city": "BIDDEFORD",
+        "state": "ME",
+        "postalCode": "04005-3756"
+      },
+      {
+        "line": [
+          "50 Union St"
+        ],
+        "city": "WEST SPRINGFIELD",
+        "state": "MA",
+        "postalCode": "01089-3317"
+      },
+      {
+        "line": [
+          "77 Hospital Drive, Suite 104"
+        ],
+        "city": "NORTH ADAMS",
+        "state": "MA",
+        "postalCode": "01247-2538"
+      },
+      {
+        "line": [
           "489 Bernardston Road"
         ],
         "city": "GREENFIELD",
@@ -119,12 +103,28 @@
       },
       {
         "line": [
-          "4923 Ogletown Stanton Road",
-          "Suite 110"
+          "121 Lincoln Street, 1st Floor"
         ],
-        "city": "NEWARK",
-        "state": "DE",
-        "postalCode": "19713-2012"
+        "city": "WORCESTER",
+        "state": "MA",
+        "postalCode": "01605-2429"
+      },
+      {
+        "line": [
+          "42 Summer Street, Suite 201"
+        ],
+        "city": "PITTSFIELD",
+        "state": "MA",
+        "postalCode": "01201-4697"
+      },
+      {
+        "line": [
+          "4421 Roosevelt Blvd",
+          "Suite A"
+        ],
+        "city": "MIDDLETOWN",
+        "state": "OH",
+        "postalCode": "45044-9023"
       }
     ],
     "extension": [
