@@ -14,27 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689206419"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821620808"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518599588"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144309642"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982236956"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194357152"
+        "value": "1356973226"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,11 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245865328"
+        "value": "1508498478"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083246052"
+        "value": "1518599588"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,7 +34,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316572134"
+        "value": "1689206419"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1982236956"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730715566"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821620808"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,11 +54,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508498478"
+        "value": "1316572134"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487286456"
+        "value": "1144309642"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053943928"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -74,7 +70,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770646028"
+        "value": "1588296552"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -86,62 +82,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588296552"
+        "value": "1770646028"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730715566"
+        "value": "1487286456"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053943928"
+        "value": "1083246052"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356973226"
+        "value": "1194357152"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245865328"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2900 Collins Rd"
-        ],
-        "city": "LANSING",
-        "state": "MI",
-        "postalCode": "48910-8394"
-      },
-      {
-        "line": [
-          "1000 W Saginaw St"
-        ],
-        "city": "LANSING",
-        "state": "MI",
-        "postalCode": "48915-1967"
-      },
-      {
-        "line": [
-          "909 Fee Rd"
-        ],
-        "city": "EAST LANSING",
-        "state": "MI",
-        "postalCode": "48824-6410"
-      },
-      {
-        "line": [
-          "2700 Burcham Drive"
-        ],
-        "city": "EAST LANSING",
-        "state": "MI",
-        "postalCode": "48823-3898"
-      },
-      {
-        "line": [
-          "1500 S Main St"
-        ],
-        "city": "EATON RAPIDS",
-        "state": "MI",
-        "postalCode": "48827-1952"
-      },
       {
         "line": [
           "3220 Discovery Dr",
@@ -161,6 +121,22 @@
       },
       {
         "line": [
+          "909 Fee Rd"
+        ],
+        "city": "EAST LANSING",
+        "state": "MI",
+        "postalCode": "48824-6410"
+      },
+      {
+        "line": [
+          "2900 Collins Rd"
+        ],
+        "city": "LANSING",
+        "state": "MI",
+        "postalCode": "48910-8394"
+      },
+      {
+        "line": [
           "3565 S State Rd"
         ],
         "city": "IONIA",
@@ -169,19 +145,11 @@
       },
       {
         "line": [
-          "1221 Pine Grove Ave"
+          "3181 Sandhill Rd"
         ],
-        "city": "PORT HURON",
+        "city": "MASON",
         "state": "MI",
-        "postalCode": "48060-3511"
-      },
-      {
-        "line": [
-          "1000 Harrington Blvd"
-        ],
-        "city": "MOUNT CLEMENS",
-        "state": "MI",
-        "postalCode": "48043-2920"
+        "postalCode": "48854-9425"
       },
       {
         "line": [
@@ -193,12 +161,19 @@
       },
       {
         "line": [
-          "3101 Discovery DrIve",
-          "Ste 300"
+          "707 Armstrong Rd"
         ],
         "city": "LANSING",
         "state": "MI",
-        "postalCode": "48910-8546"
+        "postalCode": "48911-3906"
+      },
+      {
+        "line": [
+          "1500 S Main St"
+        ],
+        "city": "EATON RAPIDS",
+        "state": "MI",
+        "postalCode": "48827-1952"
       },
       {
         "line": [
@@ -207,6 +182,47 @@
         "city": "HOLT",
         "state": "MI",
         "postalCode": "48842-1924"
+      },
+      {
+        "line": [
+          "1221 Pine Grove Ave"
+        ],
+        "city": "PORT HURON",
+        "state": "MI",
+        "postalCode": "48060-3511"
+      },
+      {
+        "line": [
+          "3520 FOREST RD",
+          "FL 3"
+        ],
+        "city": "LANSING",
+        "state": "MI",
+        "postalCode": "48910-3720"
+      },
+      {
+        "line": [
+          "2700 Burcham Drive"
+        ],
+        "city": "EAST LANSING",
+        "state": "MI",
+        "postalCode": "48823-3898"
+      },
+      {
+        "line": [
+          "1000 W Saginaw St"
+        ],
+        "city": "LANSING",
+        "state": "MI",
+        "postalCode": "48915-1967"
+      },
+      {
+        "line": [
+          "1000 Harrington Blvd"
+        ],
+        "city": "MOUNT CLEMENS",
+        "state": "MI",
+        "postalCode": "48043-2920"
       },
       {
         "line": [
@@ -226,28 +242,12 @@
       },
       {
         "line": [
-          "3181 Sandhill Rd"
-        ],
-        "city": "MASON",
-        "state": "MI",
-        "postalCode": "48854-9425"
-      },
-      {
-        "line": [
-          "3520 FOREST RD",
-          "FL 3"
+          "3101 Discovery DrIve",
+          "Ste 300"
         ],
         "city": "LANSING",
         "state": "MI",
-        "postalCode": "48910-3720"
-      },
-      {
-        "line": [
-          "707 Armstrong Rd"
-        ],
-        "city": "LANSING",
-        "state": "MI",
-        "postalCode": "48911-3906"
+        "postalCode": "48910-8546"
       }
     ],
     "extension": [

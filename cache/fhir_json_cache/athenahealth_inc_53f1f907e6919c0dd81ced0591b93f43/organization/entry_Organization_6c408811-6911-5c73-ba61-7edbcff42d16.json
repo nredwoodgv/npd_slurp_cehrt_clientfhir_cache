@@ -26,29 +26,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336676923"
+        "value": "1336625540"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336625540"
+        "value": "1336676923"
       }
     ],
     "address": [
       {
         "line": [
-          "212 CRESTVIEW LN"
+          "1169 Robertson Rd S"
         ],
-        "city": "ALMO",
+        "city": "MURRAY",
         "state": "KY",
-        "postalCode": "42020-9458"
-      },
-      {
-        "line": [
-          "1250 RADIO RD"
-        ],
-        "city": "ALMO",
-        "state": "KY",
-        "postalCode": "42020-9404"
+        "postalCode": "42071-0001"
       },
       {
         "line": [
@@ -60,63 +52,6 @@
       },
       {
         "line": [
-          "3600 West Boulevard"
-        ],
-        "city": "KOKOMO",
-        "state": "IN",
-        "postalCode": "46902-5992"
-      },
-      {
-        "line": [
-          "9365 COUNSELORS ROW",
-          "STE 210"
-        ],
-        "city": "INDIANAPOLIS",
-        "state": "IN",
-        "postalCode": "46240-6418"
-      },
-      {
-        "line": [
-          "1000 S 12th Street"
-        ],
-        "city": "MURRAY",
-        "state": "KY",
-        "postalCode": "42071-9303"
-      },
-      {
-        "line": [
-          "125 S CLARK ST STE 900"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60603-4043"
-      },
-      {
-        "line": [
-          "800 N St. Joseph Drive"
-        ],
-        "city": "KOKOMO",
-        "state": "IN",
-        "postalCode": "46901-1983"
-      },
-      {
-        "line": [
-          "2905 W Sycamore St"
-        ],
-        "city": "KOKOMO",
-        "state": "IN",
-        "postalCode": "46901-4078"
-      },
-      {
-        "line": [
-          "9365 COUNSELORS ROW"
-        ],
-        "city": "INDIANAPOLIS",
-        "state": "IN",
-        "postalCode": "46240-6418"
-      },
-      {
-        "line": [
           "640 BYPASS RD"
         ],
         "city": "CADIZ",
@@ -125,36 +60,11 @@
       },
       {
         "line": [
-          "1169 Robertson Rd S"
+          "125 S CLARK ST STE 900"
         ],
-        "city": "MURRAY",
-        "state": "KY",
-        "postalCode": "42071-0001"
-      },
-      {
-        "line": [
-          "325 W WALNUT ST",
-          "STE 600"
-        ],
-        "city": "LEBANON",
-        "state": "KY",
-        "postalCode": "40033-1378"
-      },
-      {
-        "line": [
-          "971 BIRCH ST"
-        ],
-        "city": "BENTON",
-        "state": "KY",
-        "postalCode": "42025-1301"
-      },
-      {
-        "line": [
-          "2200 S Dixon Rd"
-        ],
-        "city": "KOKOMO",
-        "state": "IN",
-        "postalCode": "46902-6406"
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60603-4043"
       },
       {
         "line": [
@@ -175,11 +85,52 @@
       },
       {
         "line": [
-          "2757 ERWIN RD"
+          "1517 W BROADWAY"
         ],
-        "city": "MURRAY",
+        "city": "MAYFIELD",
         "state": "KY",
-        "postalCode": "42071-7021"
+        "postalCode": "42066-1927"
+      },
+      {
+        "line": [
+          "2200 S Dixon Rd"
+        ],
+        "city": "KOKOMO",
+        "state": "IN",
+        "postalCode": "46902-6406"
+      },
+      {
+        "line": [
+          "35150 Nankin Blvd",
+          "STE 103"
+        ],
+        "city": "WESTLAND",
+        "state": "MI",
+        "postalCode": "48185-2091"
+      },
+      {
+        "line": [
+          "971 BIRCH ST"
+        ],
+        "city": "BENTON",
+        "state": "KY",
+        "postalCode": "42025-1301"
+      },
+      {
+        "line": [
+          "800 N St. Joseph Drive"
+        ],
+        "city": "KOKOMO",
+        "state": "IN",
+        "postalCode": "46901-1983"
+      },
+      {
+        "line": [
+          "9365 COUNSELORS ROW"
+        ],
+        "city": "INDIANAPOLIS",
+        "state": "IN",
+        "postalCode": "46240-6418"
       },
       {
         "line": [
@@ -191,11 +142,51 @@
       },
       {
         "line": [
-          "329 RAINBOW DR"
+          "1000 S 12th Street"
+        ],
+        "city": "MURRAY",
+        "state": "KY",
+        "postalCode": "42071-9303"
+      },
+      {
+        "line": [
+          "2905 W Sycamore St"
         ],
         "city": "KOKOMO",
         "state": "IN",
-        "postalCode": "46902-3869"
+        "postalCode": "46901-4078"
+      },
+      {
+        "line": [
+          "2757 ERWIN RD"
+        ],
+        "city": "MURRAY",
+        "state": "KY",
+        "postalCode": "42071-7021"
+      },
+      {
+        "line": [
+          "1250 RADIO RD"
+        ],
+        "city": "ALMO",
+        "state": "KY",
+        "postalCode": "42020-9404"
+      },
+      {
+        "line": [
+          "9365 COUNSELORS ROW STE 210"
+        ],
+        "city": "INDIANAPOLIS",
+        "state": "IN",
+        "postalCode": "46240-6418"
+      },
+      {
+        "line": [
+          "3600 West Boulevard"
+        ],
+        "city": "KOKOMO",
+        "state": "IN",
+        "postalCode": "46902-5992"
       },
       {
         "line": [
@@ -207,20 +198,28 @@
       },
       {
         "line": [
-          "1517 W BROADWAY"
+          "212 CRESTVIEW LN"
         ],
-        "city": "MAYFIELD",
+        "city": "ALMO",
         "state": "KY",
-        "postalCode": "42066-1927"
+        "postalCode": "42020-9458"
       },
       {
         "line": [
-          "35150 Nankin Blvd",
-          "STE 103"
+          "329 RAINBOW DR"
         ],
-        "city": "WESTLAND",
-        "state": "MI",
-        "postalCode": "48185-2091"
+        "city": "KOKOMO",
+        "state": "IN",
+        "postalCode": "46902-3869"
+      },
+      {
+        "line": [
+          "325 W WALNUT ST",
+          "STE 600"
+        ],
+        "city": "LEBANON",
+        "state": "KY",
+        "postalCode": "40033-1378"
       }
     ],
     "extension": [

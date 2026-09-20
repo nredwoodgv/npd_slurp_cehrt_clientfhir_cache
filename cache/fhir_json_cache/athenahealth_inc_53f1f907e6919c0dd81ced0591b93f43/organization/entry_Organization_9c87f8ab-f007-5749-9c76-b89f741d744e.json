@@ -14,55 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356825848"
+        "value": "1821181876"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821181876"
+        "value": "1356825848"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1421 S POTOMAC ST",
-          "STE 220"
-        ],
-        "city": "AURORA",
-        "state": "CO",
-        "postalCode": "80012-4512"
-      },
-      {
-        "line": [
-          "501 E HAMPDEN AVE"
-        ],
-        "city": "ENGLEWOOD",
-        "state": "CO",
-        "postalCode": "80113-2702"
-      },
-      {
-        "line": [
-          "350 PEAK ONE DR"
-        ],
-        "city": "FRISCO",
-        "state": "CO",
-        "postalCode": "80443-3900"
-      },
-      {
-        "line": [
-          "2350 MEADOWS BLVD"
-        ],
-        "city": "CASTLE ROCK",
-        "state": "CO",
-        "postalCode": "80109-8405"
-      },
-      {
-        "line": [
-          "340 PEAK ONE DR"
-        ],
-        "city": "FRISCO",
-        "state": "CO",
-        "postalCode": "80443-5441"
-      },
       {
         "line": [
           "9777 S YOSEMITE ST"
@@ -70,46 +29,6 @@
         "city": "LONE TREE",
         "state": "CO",
         "postalCode": "80124-3191"
-      },
-      {
-        "line": [
-          "9399 CROWN CREST BLVD STE 220"
-        ],
-        "city": "PARKER",
-        "state": "CO",
-        "postalCode": "80138-8572"
-      },
-      {
-        "line": [
-          "8300 W 38TH AVE"
-        ],
-        "city": "WHEAT RIDGE",
-        "state": "CO",
-        "postalCode": "80033-6005"
-      },
-      {
-        "line": [
-          "2360 MEADOWS BLVD STE 101"
-        ],
-        "city": "CASTLE ROCK",
-        "state": "CO",
-        "postalCode": "80109-0001"
-      },
-      {
-        "line": [
-          "9395 CROWN CREST BLVD"
-        ],
-        "city": "PARKER",
-        "state": "CO",
-        "postalCode": "80138-8573"
-      },
-      {
-        "line": [
-          "14200 E ARAPAHOE RD"
-        ],
-        "city": "CENTENNIAL",
-        "state": "CO",
-        "postalCode": "80112-4065"
       },
       {
         "line": [
@@ -121,37 +40,60 @@
       },
       {
         "line": [
-          "9399 CROWN CREST BLVD",
+          "2350 MEADOWS BLVD"
+        ],
+        "city": "CASTLE ROCK",
+        "state": "CO",
+        "postalCode": "80109-8405"
+      },
+      {
+        "line": [
+          "1421 S POTOMAC ST",
           "STE 220"
+        ],
+        "city": "AURORA",
+        "state": "CO",
+        "postalCode": "80012-4512"
+      },
+      {
+        "line": [
+          "9399 CROWN CREST BLVD STE 220"
+        ],
+        "city": "PARKER",
+        "state": "CO",
+        "postalCode": "80138-8572"
+      },
+      {
+        "line": [
+          "340 PEAK ONE DR"
+        ],
+        "city": "FRISCO",
+        "state": "CO",
+        "postalCode": "80443-5441"
+      },
+      {
+        "line": [
+          "2360 MEADOWS BLVD STE 101"
+        ],
+        "city": "CASTLE ROCK",
+        "state": "CO",
+        "postalCode": "80109-0001"
+      },
+      {
+        "line": [
+          "350 PEAK ONE DR"
+        ],
+        "city": "FRISCO",
+        "state": "CO",
+        "postalCode": "80443-3900"
+      },
+      {
+        "line": [
+          "9399 CROWN CREST BLVD STE 220"
         ],
         "city": "PARKER",
         "state": "CO",
         "postalCode": "80138-8508"
-      },
-      {
-        "line": [
-          "9051 SSG CHRIS FALKEL DR",
-          "UNIT 400"
-        ],
-        "city": "LITTLETON",
-        "state": "CO",
-        "postalCode": "80129-3198"
-      },
-      {
-        "line": [
-          "1500 PARK CENTRAL DR"
-        ],
-        "city": "HIGHLANDS RANCH",
-        "state": "CO",
-        "postalCode": "80129-6688"
-      },
-      {
-        "line": [
-          "10099 RIDGEGATE PKWY #100"
-        ],
-        "city": "LONE TREE",
-        "state": "CO",
-        "postalCode": "80124-5532"
       },
       {
         "line": [
@@ -163,12 +105,36 @@
       },
       {
         "line": [
-          "9399 CROWN CREST BLVD",
-          "STE 430"
+          "2352 MEADOWS BLVD",
+          "STE 250"
+        ],
+        "city": "CASTLE ROCK",
+        "state": "CO",
+        "postalCode": "80109-8417"
+      },
+      {
+        "line": [
+          "8300 W 38TH AVE"
+        ],
+        "city": "WHEAT RIDGE",
+        "state": "CO",
+        "postalCode": "80033-6005"
+      },
+      {
+        "line": [
+          "9395 CROWN CREST BLVD"
         ],
         "city": "PARKER",
         "state": "CO",
-        "postalCode": "80138-8527"
+        "postalCode": "80138-8573"
+      },
+      {
+        "line": [
+          "501 E HAMPDEN AVE"
+        ],
+        "city": "ENGLEWOOD",
+        "state": "CO",
+        "postalCode": "80113-2702"
       },
       {
         "line": [
@@ -181,6 +147,22 @@
       },
       {
         "line": [
+          "10099 RIDGEGATE PKWY #100"
+        ],
+        "city": "LONE TREE",
+        "state": "CO",
+        "postalCode": "80124-5532"
+      },
+      {
+        "line": [
+          "14200 E ARAPAHOE RD"
+        ],
+        "city": "CENTENNIAL",
+        "state": "CO",
+        "postalCode": "80112-4065"
+      },
+      {
+        "line": [
           "9399 Crown Crest Blvd",
           "Ste 220"
         ],
@@ -190,12 +172,29 @@
       },
       {
         "line": [
-          "2352 MEADOWS BLVD",
-          "STE 250"
+          "1500 PARK CENTRAL DR"
         ],
-        "city": "CASTLE ROCK",
+        "city": "HIGHLANDS RANCH",
         "state": "CO",
-        "postalCode": "80109-8417"
+        "postalCode": "80129-6688"
+      },
+      {
+        "line": [
+          "9051 SSG CHRIS FALKEL DR",
+          "UNIT 400"
+        ],
+        "city": "LITTLETON",
+        "state": "CO",
+        "postalCode": "80129-3198"
+      },
+      {
+        "line": [
+          "9399 CROWN CREST BLVD",
+          "STE 430"
+        ],
+        "city": "PARKER",
+        "state": "CO",
+        "postalCode": "80138-8527"
       }
     ],
     "extension": [

@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093602427"
+        "value": "1164183158"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164183158"
+        "value": "1093602427"
       }
     ],
     "address": [
-      {
-        "line": [
-          "12135 PANAMA CITY BEACH PKWY"
-        ],
-        "city": "PANAMA CITY BEACH",
-        "state": "FL",
-        "postalCode": "32407-2609"
-      },
       {
         "line": [
           "5276 COUNTY ROAD 209 S"
@@ -37,6 +29,14 @@
         "city": "GREEN COVE SPRINGS",
         "state": "FL",
         "postalCode": "32043-8181"
+      },
+      {
+        "line": [
+          "12135 PANAMA CITY BEACH PKWY"
+        ],
+        "city": "PANAMA CITY BEACH",
+        "state": "FL",
+        "postalCode": "32407-2609"
       }
     ],
     "extension": [

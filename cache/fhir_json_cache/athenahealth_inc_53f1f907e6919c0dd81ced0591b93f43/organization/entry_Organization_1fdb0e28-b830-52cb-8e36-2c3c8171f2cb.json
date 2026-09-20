@@ -14,7 +14,27 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952177446"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619494366"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306363007"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962453308"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1043261498"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730790551"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,31 +46,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730790551"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043261498"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619928165"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619494366"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1588180475"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952177446"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306363007"
+        "value": "1619928165"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,18 +62,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528336302"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1023506532"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1912495375"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528336302"
       }
     ],
     "address": [
+      {
+        "line": [
+          "5153 N. 9th Ave POB"
+        ],
+        "city": "Pensacola",
+        "state": "FL",
+        "postalCode": "32504-8785"
+      },
+      {
+        "line": [
+          "1549 Airport Blvd Ste 320"
+        ],
+        "city": "PENSACOLA",
+        "state": "FL",
+        "postalCode": "32504-8635"
+      },
       {
         "line": [
           "615 N Bonita Ave"
@@ -84,24 +100,8 @@
       },
       {
         "line": [
-          "5151 N 9th Ave First Floor"
-        ],
-        "city": "Pensacola",
-        "state": "FL",
-        "postalCode": "32504-8721"
-      },
-      {
-        "line": [
-          "55 Avenue E"
-        ],
-        "city": "Apalachicola",
-        "state": "FL",
-        "postalCode": "32320-1763"
-      },
-      {
-        "line": [
-          "1549 AIRPORT BLVD",
-          "STE 320"
+          "1549 Airport Blvd",
+          "Suite 320"
         ],
         "city": "PENSACOLA",
         "state": "FL",
@@ -125,11 +125,27 @@
       },
       {
         "line": [
-          "1549 Airport Blvd Ste 320"
+          "7800 USHwy 98 West"
         ],
-        "city": "PENSACOLA",
+        "city": "Miramar Beach",
         "state": "FL",
-        "postalCode": "32504-8635"
+        "postalCode": "32550-7228"
+      },
+      {
+        "line": [
+          "55 Avenue E"
+        ],
+        "city": "Apalachicola",
+        "state": "FL",
+        "postalCode": "32320-1763"
+      },
+      {
+        "line": [
+          "5151 N 9th Ave First Floor"
+        ],
+        "city": "Pensacola",
+        "state": "FL",
+        "postalCode": "32504-8721"
       },
       {
         "line": [
@@ -141,24 +157,8 @@
       },
       {
         "line": [
-          "5153 N. 9th Ave POB"
-        ],
-        "city": "Pensacola",
-        "state": "FL",
-        "postalCode": "32504-8785"
-      },
-      {
-        "line": [
-          "7800 USHwy 98 West"
-        ],
-        "city": "Miramar Beach",
-        "state": "FL",
-        "postalCode": "32550-7228"
-      },
-      {
-        "line": [
-          "1549 Airport Blvd",
-          "Suite 320"
+          "1549 AIRPORT BLVD",
+          "STE 320"
         ],
         "city": "PENSACOLA",
         "state": "FL",

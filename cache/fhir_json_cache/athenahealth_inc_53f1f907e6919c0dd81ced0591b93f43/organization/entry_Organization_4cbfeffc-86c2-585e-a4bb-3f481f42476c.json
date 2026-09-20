@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932402484"
+        "value": "1013031368"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,22 +22,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013031368"
+        "value": "1285931089"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285931089"
+        "value": "1932402484"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1901 TATE SPRINGS ROAD"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24501-1109"
-      },
       {
         "line": [
           "3300 RIVERMONT AVENUE"
@@ -56,11 +48,11 @@
       },
       {
         "line": [
-          "1613 OAKWOOD STREET"
+          "1901 TATE SPRINGS ROAD"
         ],
-        "city": "BEDFORD",
+        "city": "LYNCHBURG",
         "state": "VA",
-        "postalCode": "24523-1213"
+        "postalCode": "24501-1100"
       },
       {
         "line": [
@@ -68,7 +60,15 @@
         ],
         "city": "LYNCHBURG",
         "state": "VA",
-        "postalCode": "24501-1100"
+        "postalCode": "24501-1109"
+      },
+      {
+        "line": [
+          "1613 OAKWOOD STREET"
+        ],
+        "city": "BEDFORD",
+        "state": "VA",
+        "postalCode": "24523-1213"
       }
     ],
     "extension": [

@@ -14,19 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184206161"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689543084"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1366140121"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477429389"
+        "value": "1124253083"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1184206161"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,13 +30,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124253083"
+        "value": "1477429389"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689543084"
       }
     ],
     "address": [
       {
         "line": [
-          "386 Airport Road"
+          "386 Airport Rd",
+          "Upstairs"
         ],
         "city": "CHAPMANVILLE",
         "state": "WV",
@@ -48,8 +49,7 @@
       },
       {
         "line": [
-          "386 Airport Rd",
-          "Upstairs"
+          "386 Airport Road"
         ],
         "city": "CHAPMANVILLE",
         "state": "WV",

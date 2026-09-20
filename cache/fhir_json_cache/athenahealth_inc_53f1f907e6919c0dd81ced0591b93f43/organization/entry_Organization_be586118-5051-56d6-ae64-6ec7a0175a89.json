@@ -14,7 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1801526009"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1871172957"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1326434440"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831064609"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,15 +34,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801526009"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427668169"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952993065"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598357600"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,18 +50,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871172957"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598357600"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831064609"
+        "value": "1427668169"
       }
     ],
     "address": [
+      {
+        "line": [
+          "101 N 1st Ave"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85003-1902"
+      },
+      {
+        "line": [
+          "80 Arkay Drive",
+          "SUITE 230"
+        ],
+        "city": "HAUPPAUGE",
+        "state": "NY",
+        "postalCode": "11788-3705"
+      },
       {
         "line": [
           "188 VALLEY STREET",
@@ -62,6 +79,14 @@
         "city": "PROVIDENCE",
         "state": "RI",
         "postalCode": "02909-2458"
+      },
+      {
+        "line": [
+          "2550 Albany Avenue, #1074"
+        ],
+        "city": "WEST HARTFORD",
+        "state": "CT",
+        "postalCode": "06117-2335"
       },
       {
         "line": [
@@ -74,27 +99,19 @@
       },
       {
         "line": [
-          "101 N 1st Ave"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85003-1902"
-      },
-      {
-        "line": [
-          "6 LIBERTY SQUARE #2694"
-        ],
-        "city": "BOSTON",
-        "state": "MA",
-        "postalCode": "02109-5800"
-      },
-      {
-        "line": [
           "6112 N Mesa Street #6092"
         ],
         "city": "EL PASO",
         "state": "TX",
         "postalCode": "79912-4516"
+      },
+      {
+        "line": [
+          "512 S Peterson Avenue #2006"
+        ],
+        "city": "DOUGLAS",
+        "state": "GA",
+        "postalCode": "31533-5254"
       },
       {
         "line": [
@@ -115,28 +132,11 @@
       },
       {
         "line": [
-          "80 Arkay Drive",
-          "SUITE 230"
+          "6 LIBERTY SQUARE #2694"
         ],
-        "city": "HAUPPAUGE",
-        "state": "NY",
-        "postalCode": "11788-3705"
-      },
-      {
-        "line": [
-          "512 S Peterson Avenue #2006"
-        ],
-        "city": "DOUGLAS",
-        "state": "GA",
-        "postalCode": "31533-5254"
-      },
-      {
-        "line": [
-          "2550 Albany Avenue, #1074"
-        ],
-        "city": "WEST HARTFORD",
-        "state": "CT",
-        "postalCode": "06117-2335"
+        "city": "BOSTON",
+        "state": "MA",
+        "postalCode": "02109-5800"
       }
     ],
     "extension": [

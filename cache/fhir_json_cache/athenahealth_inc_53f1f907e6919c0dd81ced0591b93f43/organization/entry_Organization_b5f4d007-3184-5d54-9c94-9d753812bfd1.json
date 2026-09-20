@@ -14,7 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1346266152"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1356374698"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487650636"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,21 +30,13 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346266152"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1295589455"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487650636"
       }
     ],
     "address": [
       {
         "line": [
-          "940 Eastmont Avenue"
+          "980 EASTMONT AVE"
         ],
         "city": "EAST WENATCHEE",
         "state": "WA",
@@ -52,7 +52,7 @@
       },
       {
         "line": [
-          "980 EASTMONT AVE"
+          "900 Eastmont Avenue"
         ],
         "city": "EAST WENATCHEE",
         "state": "WA",
@@ -60,7 +60,7 @@
       },
       {
         "line": [
-          "900 Eastmont Avenue"
+          "940 Eastmont Avenue"
         ],
         "city": "EAST WENATCHEE",
         "state": "WA",

@@ -14,27 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700326246"
+        "value": "1356995534"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013969351"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053950832"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538643853"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528517216"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982654182"
+        "value": "1780320465"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,11 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942861000"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356995534"
+        "value": "1982654182"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,11 +38,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780320465"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235759879"
+        "value": "1700326246"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -70,14 +46,46 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770062242"
+        "value": "1942861000"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235759879"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1538643853"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013969351"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1407148497"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053950832"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1770062242"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528517216"
       }
     ],
     "address": [
+      {
+        "line": [
+          "19586 10th Ave NE"
+        ],
+        "city": "POULSBO",
+        "state": "WA",
+        "postalCode": "98370-7332"
+      },
       {
         "line": [
           "7607 NW Newberry Hill Rd"
@@ -85,14 +93,6 @@
         "city": "SILVERDALE",
         "state": "WA",
         "postalCode": "98383-7313"
-      },
-      {
-        "line": [
-          "616 6th Street"
-        ],
-        "city": "BREMERTON",
-        "state": "WA",
-        "postalCode": "98337-1420"
       },
       {
         "line": [
@@ -105,6 +105,31 @@
       },
       {
         "line": [
+          "832 6TH ST",
+          "RM Std By Me"
+        ],
+        "city": "BREMERTON",
+        "state": "WA",
+        "postalCode": "98337-1441"
+      },
+      {
+        "line": [
+          "616 6th Street"
+        ],
+        "city": "BREMERTON",
+        "state": "WA",
+        "postalCode": "98337-1420"
+      },
+      {
+        "line": [
+          "4459 SE Mile Hill Drive, RM Clinic"
+        ],
+        "city": "PORT ORCHARD",
+        "state": "WA",
+        "postalCode": "98366-3908"
+      },
+      {
+        "line": [
           "1400 NE McWilliams Rd"
         ],
         "city": "BREMERTON",
@@ -113,41 +138,17 @@
       },
       {
         "line": [
-          "1400 NE Mcwilliams Rd."
+          "162 Winslow WAY W"
         ],
-        "city": "BREMERTON",
-        "state": "WA",
-        "postalCode": "98311-3928"
-      },
-      {
-        "line": [
-          "PO BOX 960"
-        ],
-        "city": "BREMERTON",
+        "city": "Bainbridge Island",
         "state": "WA",
         "postalCode": "98337-0212"
       },
       {
         "line": [
-          "19586 10TH AVE NE"
+          "810 6th St"
         ],
-        "city": "POULSBO",
-        "state": "WA",
-        "postalCode": "98370-7332"
-      },
-      {
-        "line": [
-          "7607 NW Newberry hill Rd"
-        ],
-        "city": "SILVERDALE",
-        "state": "WA",
-        "postalCode": "98383-7313"
-      },
-      {
-        "line": [
-          "162 Winslow WAY W"
-        ],
-        "city": "Bainbridge Island",
+        "city": "BREMERTON",
         "state": "WA",
         "postalCode": "98337-0212"
       },
@@ -161,15 +162,15 @@
       },
       {
         "line": [
-          "19586 10th Ave NE"
+          "7607 NW Newberry hill Rd"
         ],
-        "city": "POULSBO",
+        "city": "SILVERDALE",
         "state": "WA",
-        "postalCode": "98370-7332"
+        "postalCode": "98383-7313"
       },
       {
         "line": [
-          "810 6th St"
+          "PO BOX 960"
         ],
         "city": "BREMERTON",
         "state": "WA",
@@ -177,20 +178,19 @@
       },
       {
         "line": [
-          "4459 SE Mile Hill Drive, RM Clinic"
-        ],
-        "city": "PORT ORCHARD",
-        "state": "WA",
-        "postalCode": "98366-3908"
-      },
-      {
-        "line": [
-          "832 6TH ST",
-          "RM Std By Me"
+          "1400 NE Mcwilliams Rd."
         ],
         "city": "BREMERTON",
         "state": "WA",
-        "postalCode": "98337-1441"
+        "postalCode": "98311-3928"
+      },
+      {
+        "line": [
+          "19586 10TH AVE NE"
+        ],
+        "city": "POULSBO",
+        "state": "WA",
+        "postalCode": "98370-7332"
       }
     ],
     "extension": [

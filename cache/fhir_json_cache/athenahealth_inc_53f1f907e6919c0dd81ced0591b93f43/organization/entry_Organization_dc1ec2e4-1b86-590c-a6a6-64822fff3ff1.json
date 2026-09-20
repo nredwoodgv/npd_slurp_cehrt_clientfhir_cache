@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437227352"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457429375"
+        "value": "1942466982"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942466982"
+        "value": "1154499077"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,21 +30,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154499077"
+        "value": "1457429375"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437227352"
       }
     ],
     "address": [
       {
         "line": [
           "19138 North US Hwy 281 San Antonio"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78258-4988"
-      },
-      {
-        "line": [
-          "19138 US HWY 281"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
@@ -64,19 +56,11 @@
       },
       {
         "line": [
-          "19138 North US Hwy 281"
+          "19138 US Hwy 281 North"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78258-4988"
-      },
-      {
-        "line": [
-          "315 N. SAN SABA, SUITE 1100"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78207-3252"
+        "postalCode": "78258-1234"
       },
       {
         "line": [
@@ -88,6 +72,36 @@
       },
       {
         "line": [
+          "9522 HUEBNER RD"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78240-1548"
+      },
+      {
+        "line": [],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78216-6919"
+      },
+      {
+        "line": [
+          "6700 W INTERSTATE 10"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78201-2009"
+      },
+      {
+        "line": [
+          "315 N. SAN SABA, SUITE 1100"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78207-3252"
+      },
+      {
+        "line": [
           "19138 North US Hwy 281 San Antonio"
         ],
         "city": "SAN ANTONIO",
@@ -95,10 +109,29 @@
         "postalCode": "78259-9998"
       },
       {
-        "line": [],
+        "line": [
+          "19138 North US Hwy 281"
+        ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78216-6919"
+        "postalCode": "78258-4988"
+      },
+      {
+        "line": [
+          "19138 US HWY 281"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78258-4988"
+      },
+      {
+        "line": [
+          "1422 EAST GRAYSON",
+          "SUITE 102"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78208-1427"
       },
       {
         "line": [
@@ -117,39 +150,6 @@
         "city": "LIVE OAK",
         "state": "TX",
         "postalCode": "78233-3269"
-      },
-      {
-        "line": [
-          "6700 W INTERSTATE 10"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78201-2009"
-      },
-      {
-        "line": [
-          "1422 EAST GRAYSON",
-          "SUITE 102"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78208-1427"
-      },
-      {
-        "line": [
-          "9522 HUEBNER RD"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78240-1548"
-      },
-      {
-        "line": [
-          "19138 US Hwy 281 North"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78258-1234"
       }
     ],
     "extension": [

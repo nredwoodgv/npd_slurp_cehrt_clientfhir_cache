@@ -14,29 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699143800"
+        "value": "1063229458"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063229458"
+        "value": "1699143800"
       }
     ],
     "address": [
       {
         "line": [
-          "16 Danforth Street"
-        ],
-        "city": "HOOSICK FALLS",
-        "state": "NY",
-        "postalCode": "12090-1226"
-      },
-      {
-        "line": [
-          "100 Hospital Drive"
+          "312 Crescent Blvd"
         ],
         "city": "BENNINGTON",
         "state": "VT",
-        "postalCode": "05201-5004"
+        "postalCode": "05201-2419"
       },
       {
         "line": [
@@ -48,11 +40,11 @@
       },
       {
         "line": [
-          "19 Danforth Street"
+          "100 Hospital Drive"
         ],
-        "city": "HOOSICK FALLS",
-        "state": "NY",
-        "postalCode": "12090-1223"
+        "city": "BENNINGTON",
+        "state": "VT",
+        "postalCode": "05201-5004"
       },
       {
         "line": [
@@ -64,11 +56,11 @@
       },
       {
         "line": [
-          "2 Blackberry Lane"
+          "16 Danforth Street"
         ],
-        "city": "BENNINGTON",
-        "state": "VT",
-        "postalCode": "05201-2300"
+        "city": "HOOSICK FALLS",
+        "state": "NY",
+        "postalCode": "12090-1226"
       },
       {
         "line": [
@@ -80,19 +72,27 @@
       },
       {
         "line": [
+          "19 Danforth Street"
+        ],
+        "city": "HOOSICK FALLS",
+        "state": "NY",
+        "postalCode": "12090-1223"
+      },
+      {
+        "line": [
+          "180 Mechanic Street"
+        ],
+        "city": "NORTH BENNINGTON",
+        "state": "VT",
+        "postalCode": "05257-0001"
+      },
+      {
+        "line": [
           "21 Danforth Street"
         ],
         "city": "HOOSICK FALLS",
         "state": "NY",
         "postalCode": "12090-1226"
-      },
-      {
-        "line": [
-          "312 Crescent Blvd"
-        ],
-        "city": "BENNINGTON",
-        "state": "VT",
-        "postalCode": "05201-2419"
       },
       {
         "line": [
@@ -104,11 +104,11 @@
       },
       {
         "line": [
-          "180 Mechanic Street"
+          "2 Blackberry Lane"
         ],
-        "city": "NORTH BENNINGTON",
+        "city": "BENNINGTON",
         "state": "VT",
-        "postalCode": "05257-0001"
+        "postalCode": "05201-2300"
       }
     ],
     "extension": [

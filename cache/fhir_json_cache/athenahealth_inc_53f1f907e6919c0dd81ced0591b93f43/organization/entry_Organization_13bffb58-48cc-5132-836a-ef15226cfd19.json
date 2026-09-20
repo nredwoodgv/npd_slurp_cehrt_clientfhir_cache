@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902428840"
+        "value": "1881789659"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,14 +22,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285629535"
+        "value": "1902428840"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881789659"
+        "value": "1285629535"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1001 US Highway 40",
+          "Suite 4"
+        ],
+        "city": "OAKLEY",
+        "state": "KS",
+        "postalCode": "67748-6061"
+      },
       {
         "line": [
           "211 CHERRY AVE"
@@ -37,6 +46,14 @@
         "city": "OAKLEY",
         "state": "KS",
         "postalCode": "67748-1201"
+      },
+      {
+        "line": [
+          "625 Price"
+        ],
+        "city": "OAKLEY",
+        "state": "KS",
+        "postalCode": "67748-1220"
       },
       {
         "line": [
@@ -61,23 +78,6 @@
         "city": "OAKLEY",
         "state": "KS",
         "postalCode": "67748-1218"
-      },
-      {
-        "line": [
-          "625 Price"
-        ],
-        "city": "OAKLEY",
-        "state": "KS",
-        "postalCode": "67748-1220"
-      },
-      {
-        "line": [
-          "1001 US Highway 40",
-          "Suite 4"
-        ],
-        "city": "OAKLEY",
-        "state": "KS",
-        "postalCode": "67748-6061"
       }
     ],
     "extension": [

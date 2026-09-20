@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538432711"
+        "value": "1821370891"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285916254"
+        "value": "1497986764"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,11 +30,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821370891"
+        "value": "1285916254"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497986764"
+        "value": "1538432711"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,11 +42,11 @@
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "19D2031977"
+        "value": "19D2031976"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "19D2031976"
+        "value": "19D2031977"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
@@ -56,11 +56,19 @@
     "address": [
       {
         "line": [
-          "4770 Brandon Blvd"
+          "1524 DOCTORS DR"
         ],
         "city": "BOSSIER CITY",
         "state": "LA",
-        "postalCode": "71111-4244"
+        "postalCode": "71111-3322"
+      },
+      {
+        "line": [
+          "4680 OLD BROWNLEE RD"
+        ],
+        "city": "BOSSIER CITY",
+        "state": "LA",
+        "postalCode": "71111-6504"
       },
       {
         "line": [
@@ -72,14 +80,6 @@
       },
       {
         "line": [
-          "1524 DOCTORS DR"
-        ],
-        "city": "BOSSIER CITY",
-        "state": "LA",
-        "postalCode": "71111-3322"
-      },
-      {
-        "line": [
           "4828 MEDICAL DR"
         ],
         "city": "BOSSIER CITY",
@@ -88,19 +88,19 @@
       },
       {
         "line": [
+          "4770 Brandon Blvd"
+        ],
+        "city": "BOSSIER CITY",
+        "state": "LA",
+        "postalCode": "71111-4244"
+      },
+      {
+        "line": [
           "2540 Beene Blvd"
         ],
         "city": "BOSSIER CITY",
         "state": "LA",
         "postalCode": "71111-5459"
-      },
-      {
-        "line": [
-          "4680 OLD BROWNLEE RD"
-        ],
-        "city": "BOSSIER CITY",
-        "state": "LA",
-        "postalCode": "71111-6504"
       }
     ],
     "extension": [

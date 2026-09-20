@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376761288"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659404192"
+        "value": "1467902668"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,25 +22,29 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528608437"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467902668"
+        "value": "1659404192"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1568838928"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376761288"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528608437"
       }
     ],
     "address": [
       {
         "line": [
-          "3 Mountain View Drive"
+          "431 US Route 1"
         ],
-        "city": "FORT KENT",
+        "city": "FRENCHVILLE",
         "state": "ME",
-        "postalCode": "04743-1614"
+        "postalCode": "04745-6115"
       },
       {
         "line": [
@@ -56,7 +56,7 @@
       },
       {
         "line": [
-          "12 Bolduc Ave"
+          "12 Bolduc Avenue"
         ],
         "city": "FORT KENT",
         "state": "ME",
@@ -64,11 +64,19 @@
       },
       {
         "line": [
-          "40 Village Road"
+          "3 Mountain View Drive"
         ],
         "city": "FORT KENT",
         "state": "ME",
-        "postalCode": "04743-1031"
+        "postalCode": "04743-1614"
+      },
+      {
+        "line": [
+          "10 Carter Street"
+        ],
+        "city": "EAGLE LAKE",
+        "state": "ME",
+        "postalCode": "04739-0309"
       },
       {
         "line": [
@@ -80,7 +88,31 @@
       },
       {
         "line": [
-          "12 Bolduc Avenue"
+          "108 PLEASANT ST"
+        ],
+        "city": "FORT KENT",
+        "state": "ME",
+        "postalCode": "04743-1576"
+      },
+      {
+        "line": [
+          "169 Main Street"
+        ],
+        "city": "VAN BUREN",
+        "state": "ME",
+        "postalCode": "04785-1248"
+      },
+      {
+        "line": [
+          "3402 Aroostook Rd"
+        ],
+        "city": "EAGLE LAKE",
+        "state": "ME",
+        "postalCode": "04739-0310"
+      },
+      {
+        "line": [
+          "12 Bolduc Ave"
         ],
         "city": "FORT KENT",
         "state": "ME",
@@ -96,27 +128,11 @@
       },
       {
         "line": [
-          "381 MAIN ST"
-        ],
-        "city": "MADAWASKA",
-        "state": "ME",
-        "postalCode": "04756-1165"
-      },
-      {
-        "line": [
           "194 East Main Street"
         ],
         "city": "FORT KENT",
         "state": "ME",
         "postalCode": "04743-1428"
-      },
-      {
-        "line": [
-          "10 Carter Street"
-        ],
-        "city": "EAGLE LAKE",
-        "state": "ME",
-        "postalCode": "04739-0309"
       },
       {
         "line": [
@@ -128,35 +144,11 @@
       },
       {
         "line": [
-          "108 PLEASANT ST"
+          "40 Village Road"
         ],
         "city": "FORT KENT",
         "state": "ME",
-        "postalCode": "04743-1576"
-      },
-      {
-        "line": [
-          "3402 Aroostook Rd"
-        ],
-        "city": "EAGLE LAKE",
-        "state": "ME",
-        "postalCode": "04739-0310"
-      },
-      {
-        "line": [
-          "169 Main Street"
-        ],
-        "city": "VAN BUREN",
-        "state": "ME",
-        "postalCode": "04785-1248"
-      },
-      {
-        "line": [
-          "431 US Route 1"
-        ],
-        "city": "FRENCHVILLE",
-        "state": "ME",
-        "postalCode": "04745-6115"
+        "postalCode": "04743-1031"
       },
       {
         "line": [
@@ -165,6 +157,14 @@
         "city": "FORT KENT",
         "state": "ME",
         "postalCode": "04743-1602"
+      },
+      {
+        "line": [
+          "381 MAIN ST"
+        ],
+        "city": "MADAWASKA",
+        "state": "ME",
+        "postalCode": "04756-1165"
       }
     ],
     "extension": [

@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598054645"
+        "value": "1821031675"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821031675"
+        "value": "1598054645"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2841 NORTH VENTURA RD. STE 100"
-        ],
-        "city": "OXNARD",
-        "state": "CA",
-        "postalCode": "93036-2213"
-      },
       {
         "line": [
           "484 MOBIL AVE",
@@ -41,20 +33,29 @@
       },
       {
         "line": [
-          "77 ROLLING OAKS DR STE 202"
-        ],
-        "city": "THOUSAND OAKS",
-        "state": "CA",
-        "postalCode": "91361-1018"
-      },
-      {
-        "line": [
           "2841 N VENTURA RD",
           "SUITE 200"
         ],
         "city": "OXNARD",
         "state": "CA",
         "postalCode": "93036-2213"
+      },
+      {
+        "line": [
+          "2841 NORTH VENTURA RD. STE 100"
+        ],
+        "city": "OXNARD",
+        "state": "CA",
+        "postalCode": "93036-2213"
+      },
+      {
+        "line": [
+          "77 ROLLING OAKS DR",
+          "STE 202"
+        ],
+        "city": "THOUSAND OAKS",
+        "state": "CA",
+        "postalCode": "91361-1018"
       }
     ],
     "extension": [

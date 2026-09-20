@@ -18,15 +18,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972397545"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1407531890"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1336858232"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1972397545"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,20 +54,29 @@
       },
       {
         "line": [
-          "221 1ST AVE SW STE 610"
-        ],
-        "city": "ROCHESTER",
-        "state": "MN",
-        "postalCode": "55902-4504"
-      },
-      {
-        "line": [
           "2 N CENTRAL AVE",
           "STE 1800"
         ],
         "city": "PHOENIX",
         "state": "AZ",
         "postalCode": "85004-2139"
+      },
+      {
+        "line": [
+          "333 SE 2nd Ave",
+          "Suite 2000"
+        ],
+        "city": "MIAMI",
+        "state": "FL",
+        "postalCode": "33131-1111"
+      },
+      {
+        "line": [
+          "83 WOOSTER HTS STE 125"
+        ],
+        "city": "DANBURY",
+        "state": "CT",
+        "postalCode": "06810-7550"
       },
       {
         "line": [
@@ -88,20 +97,11 @@
       },
       {
         "line": [
-          "333 SE 2nd Ave",
-          "Suite 2000"
+          "221 1ST AVE SW STE 610"
         ],
-        "city": "MIAMI",
-        "state": "FL",
-        "postalCode": "33131-1111"
-      },
-      {
-        "line": [
-          "83 WOOSTER HTS STE 125"
-        ],
-        "city": "DANBURY",
-        "state": "CT",
-        "postalCode": "06810-7550"
+        "city": "ROCHESTER",
+        "state": "MN",
+        "postalCode": "55902-4504"
       }
     ],
     "extension": [

@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487131025"
+        "value": "1659931525"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,47 +26,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972605285"
+        "value": "1487131025"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659931525"
+        "value": "1972605285"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2100 N Waldron St.",
-          "Suite #4"
-        ],
-        "city": "HUTCHINSON",
-        "state": "KS",
-        "postalCode": "67502-1167"
-      },
-      {
-        "line": [
-          "1701 E 23RD AVE"
-        ],
-        "city": "HUTCHINSON",
-        "state": "KS",
-        "postalCode": "67502-1105"
-      },
-      {
-        "line": [
-          "1701 E 23rd Ave"
-        ],
-        "city": "HUTCHINSON",
-        "state": "KS",
-        "postalCode": "67502-1105"
-      },
-      {
-        "line": [
-          "1701 E. 23rd Ave."
-        ],
-        "city": "HUTCHINSON",
-        "state": "KS",
-        "postalCode": "67502-1105"
-      },
       {
         "line": [
           "1701 E 23RD AVE"
@@ -77,7 +44,25 @@
       },
       {
         "line": [
-          "1701 E 23rd"
+          "1701 E 23RD AVE"
+        ],
+        "city": "HUTCHINSON",
+        "state": "KS",
+        "postalCode": "67502-1105"
+      },
+      {
+        "line": [
+          "1701 East 23rd Ave",
+          "Suite 2000"
+        ],
+        "city": "HUTCHINSON",
+        "state": "KS",
+        "postalCode": "67502-1105"
+      },
+      {
+        "line": [
+          "1701 East 23rd Ave",
+          "Ste. 2000"
         ],
         "city": "HUTCHINSON",
         "state": "KS",
@@ -93,8 +78,39 @@
       },
       {
         "line": [
-          "1701 East 23rd Ave",
-          "Ste. 2000"
+          "1701 E 23rd"
+        ],
+        "city": "HUTCHINSON",
+        "state": "KS",
+        "postalCode": "67502-9907"
+      },
+      {
+        "line": [
+          "1701 E 23rd"
+        ],
+        "city": "HUTCHINSON",
+        "state": "KS",
+        "postalCode": "67502-1105"
+      },
+      {
+        "line": [
+          "1701 E 23rd Ave"
+        ],
+        "city": "HUTCHINSON",
+        "state": "KS",
+        "postalCode": "67502-1105"
+      },
+      {
+        "line": [
+          "10 S MAIN ST STE B"
+        ],
+        "city": "HUTCHINSON",
+        "state": "KS",
+        "postalCode": "67501-5422"
+      },
+      {
+        "line": [
+          "1701 East 23rd Ave"
         ],
         "city": "HUTCHINSON",
         "state": "KS",
@@ -107,6 +123,14 @@
         "city": "HUTCHINSON",
         "state": "KS",
         "postalCode": "67502-1279"
+      },
+      {
+        "line": [
+          "1701 E. 23rd Ave."
+        ],
+        "city": "HUTCHINSON",
+        "state": "KS",
+        "postalCode": "67502-1105"
       },
       {
         "line": [
@@ -127,36 +151,12 @@
       },
       {
         "line": [
-          "1701 East 23rd Ave",
-          "Suite 2000"
+          "2100 N Waldron St.",
+          "Suite #4"
         ],
         "city": "HUTCHINSON",
         "state": "KS",
-        "postalCode": "67502-1105"
-      },
-      {
-        "line": [
-          "10 S MAIN ST STE B"
-        ],
-        "city": "HUTCHINSON",
-        "state": "KS",
-        "postalCode": "67501-5422"
-      },
-      {
-        "line": [
-          "1701 E 23rd"
-        ],
-        "city": "HUTCHINSON",
-        "state": "KS",
-        "postalCode": "67502-9907"
-      },
-      {
-        "line": [
-          "1701 East 23rd Ave"
-        ],
-        "city": "HUTCHINSON",
-        "state": "KS",
-        "postalCode": "67502-1105"
+        "postalCode": "67502-1167"
       }
     ],
     "extension": [

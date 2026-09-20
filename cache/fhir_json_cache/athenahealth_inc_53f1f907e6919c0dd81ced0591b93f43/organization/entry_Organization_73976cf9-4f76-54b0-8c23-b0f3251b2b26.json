@@ -14,29 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922337617"
+        "value": "1871508614"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871508614"
+        "value": "1922337617"
       }
     ],
     "address": [
       {
         "line": [
-          "4915 Charlestown Road"
+          "2101 Broadway Street"
         ],
-        "city": "NEW ALBANY",
+        "city": "CLARKSVILLE",
         "state": "IN",
-        "postalCode": "47150-9426"
-      },
-      {
-        "line": [
-          "150 Beachmont Drive NE"
-        ],
-        "city": "CORYDON",
-        "state": "IN",
-        "postalCode": "47112-1717"
+        "postalCode": "47129-1017"
       },
       {
         "line": [
@@ -48,28 +40,27 @@
       },
       {
         "line": [
-          "923 EASTERN STAR CT"
+          "101 Potter's Lane"
         ],
-        "city": "LOUISVILLE",
-        "state": "KY",
-        "postalCode": "40204-2334"
+        "city": "CLARKSVILLE",
+        "state": "IN",
+        "postalCode": "47129-1017"
       },
       {
         "line": [
-          "3928 Horne Ave"
+          "3625 SAINT JOSEPH RD"
         ],
         "city": "NEW ALBANY",
         "state": "IN",
-        "postalCode": "47150-9999"
+        "postalCode": "47150-9745"
       },
       {
         "line": [
-          "443 Spring St",
-          "Suite 201"
+          "950 CROSS AVE"
         ],
-        "city": "JEFFERSONVILLE",
+        "city": "MADISON",
         "state": "IN",
-        "postalCode": "47130-4494"
+        "postalCode": "47250-2002"
       },
       {
         "line": [
@@ -81,19 +72,11 @@
       },
       {
         "line": [
-          "950 Cross Avenue"
+          "1420 East Main Street"
         ],
-        "city": "MADISON",
+        "city": "NEW ALBANY",
         "state": "IN",
-        "postalCode": "47250-2002"
-      },
-      {
-        "line": [
-          "950 CROSS AVE"
-        ],
-        "city": "MADISON",
-        "state": "IN",
-        "postalCode": "47250-2002"
+        "postalCode": "47150-5730"
       },
       {
         "line": [
@@ -113,11 +96,11 @@
       },
       {
         "line": [
-          "3104 Blackiston Blvd."
+          "3928 Horne Ave"
         ],
         "city": "NEW ALBANY",
         "state": "IN",
-        "postalCode": "47150-9579"
+        "postalCode": "47150-9999"
       },
       {
         "line": [
@@ -129,19 +112,11 @@
       },
       {
         "line": [
-          "1420 East Main Street"
+          "923 EASTERN STAR CT"
         ],
-        "city": "NEW ALBANY",
-        "state": "IN",
-        "postalCode": "47150-5730"
-      },
-      {
-        "line": [
-          "2715 Charlestowns Roadq"
-        ],
-        "city": "JEFFERSONVILLE",
-        "state": "IN",
-        "postalCode": "47130-8163"
+        "city": "LOUISVILLE",
+        "state": "KY",
+        "postalCode": "40204-2334"
       },
       {
         "line": [
@@ -153,8 +128,48 @@
       },
       {
         "line": [
-          "443 Spring Street",
-          "Suite 100"
+          "150 Beachmont Drive NE"
+        ],
+        "city": "CORYDON",
+        "state": "IN",
+        "postalCode": "47112-1717"
+      },
+      {
+        "line": [
+          "4915 Charlestown Road"
+        ],
+        "city": "NEW ALBANY",
+        "state": "IN",
+        "postalCode": "47150-9426"
+      },
+      {
+        "line": [
+          "2715 Charlestowns Roadq"
+        ],
+        "city": "JEFFERSONVILLE",
+        "state": "IN",
+        "postalCode": "47130-8163"
+      },
+      {
+        "line": [
+          "1015 Magazine Street"
+        ],
+        "city": "LOUISVILLE",
+        "state": "KY",
+        "postalCode": "40203-2017"
+      },
+      {
+        "line": [
+          "3104 Blackiston Blvd."
+        ],
+        "city": "NEW ALBANY",
+        "state": "IN",
+        "postalCode": "47150-9579"
+      },
+      {
+        "line": [
+          "443 Spring St",
+          "Suite 201"
         ],
         "city": "JEFFERSONVILLE",
         "state": "IN",
@@ -170,27 +185,11 @@
       },
       {
         "line": [
-          "101 Potter's Lane"
+          "950 Cross Avenue"
         ],
-        "city": "CLARKSVILLE",
+        "city": "MADISON",
         "state": "IN",
-        "postalCode": "47129-1017"
-      },
-      {
-        "line": [
-          "1015 Magazine Street"
-        ],
-        "city": "LOUISVILLE",
-        "state": "KY",
-        "postalCode": "40203-2017"
-      },
-      {
-        "line": [
-          "3625 SAINT JOSEPH RD"
-        ],
-        "city": "NEW ALBANY",
-        "state": "IN",
-        "postalCode": "47150-9745"
+        "postalCode": "47250-2002"
       },
       {
         "line": [
@@ -202,11 +201,12 @@
       },
       {
         "line": [
-          "2101 Broadway Street"
+          "443 Spring Street",
+          "Suite 100"
         ],
-        "city": "CLARKSVILLE",
+        "city": "JEFFERSONVILLE",
         "state": "IN",
-        "postalCode": "47129-1017"
+        "postalCode": "47130-4494"
       }
     ],
     "extension": [

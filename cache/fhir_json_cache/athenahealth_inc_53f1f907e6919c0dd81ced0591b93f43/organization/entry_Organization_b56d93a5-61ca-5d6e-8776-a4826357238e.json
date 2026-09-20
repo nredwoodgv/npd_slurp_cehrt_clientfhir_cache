@@ -14,45 +14,45 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649501347"
+        "value": "1750814737"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750814737"
+        "value": "1649501347"
       }
     ],
     "address": [
       {
         "line": [
-          "7777 Forest Lane"
+          "801 W INTERSTATE 20"
+        ],
+        "city": "ARLINGTON",
+        "state": "TX",
+        "postalCode": "76017-5851"
+      },
+      {
+        "line": [
+          "2300 LONE STAR RD"
+        ],
+        "city": "MANSFIELD",
+        "state": "TX",
+        "postalCode": "76063-8744"
+      },
+      {
+        "line": [
+          "3500 W WHEATLAND RD"
         ],
         "city": "DALLAS",
         "state": "TX",
-        "postalCode": "75230-2501"
+        "postalCode": "75237-3460"
       },
       {
         "line": [
-          "231 S COLLINS RD"
+          "811 Wright St."
         ],
-        "city": "SUNNYVALE",
+        "city": "ARLINGTON",
         "state": "TX",
-        "postalCode": "75182-4624"
-      },
-      {
-        "line": [
-          "1190 Haskell Ave"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75204-8102"
-      },
-      {
-        "line": [
-          "4343 N Josey Lane"
-        ],
-        "city": "CARROLLTON",
-        "state": "TX",
-        "postalCode": "75010-4603"
+        "postalCode": "76012-4708"
       },
       {
         "line": [
@@ -72,60 +72,11 @@
       },
       {
         "line": [
-          "3500 W WHEATLAND RD"
+          "7955 Harry Hines Blvd"
         ],
         "city": "DALLAS",
         "state": "TX",
-        "postalCode": "75237-3460"
-      },
-      {
-        "line": [
-          "3601 N CALAIS ST"
-        ],
-        "city": "SHERMAN",
-        "state": "TX",
-        "postalCode": "75090-1785"
-      },
-      {
-        "line": [
-          "801 W INTERSTATE 20"
-        ],
-        "city": "ARLINGTON",
-        "state": "TX",
-        "postalCode": "76017-5851"
-      },
-      {
-        "line": [
-          "231 S Collins Rd"
-        ],
-        "city": "SUNNYVALE",
-        "state": "TX",
-        "postalCode": "75182-4624"
-      },
-      {
-        "line": [
-          "811 Wright St."
-        ],
-        "city": "ARLINGTON",
-        "state": "TX",
-        "postalCode": "76012-4708"
-      },
-      {
-        "line": [
-          "2300 LONE STAR RD"
-        ],
-        "city": "MANSFIELD",
-        "state": "TX",
-        "postalCode": "76063-8744"
-      },
-      {
-        "line": [
-          "12840 Hillcrest Rd",
-          "Ste E104"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75230-1528"
+        "postalCode": "75235-3305"
       },
       {
         "line": [
@@ -146,11 +97,60 @@
       },
       {
         "line": [
-          "7955 Harry Hines Blvd"
+          "7777 Forest Lane"
         ],
         "city": "DALLAS",
         "state": "TX",
-        "postalCode": "75235-3305"
+        "postalCode": "75230-2501"
+      },
+      {
+        "line": [
+          "231 S COLLINS RD"
+        ],
+        "city": "SUNNYVALE",
+        "state": "TX",
+        "postalCode": "75182-4624"
+      },
+      {
+        "line": [
+          "4343 N Josey Lane"
+        ],
+        "city": "CARROLLTON",
+        "state": "TX",
+        "postalCode": "75010-4603"
+      },
+      {
+        "line": [
+          "231 S Collins Rd"
+        ],
+        "city": "SUNNYVALE",
+        "state": "TX",
+        "postalCode": "75182-4624"
+      },
+      {
+        "line": [
+          "1190 Haskell Ave"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75204-8102"
+      },
+      {
+        "line": [
+          "3601 N CALAIS ST"
+        ],
+        "city": "SHERMAN",
+        "state": "TX",
+        "postalCode": "75090-1785"
+      },
+      {
+        "line": [
+          "12840 Hillcrest Rd",
+          "Ste E104"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75230-1528"
       }
     ],
     "extension": [

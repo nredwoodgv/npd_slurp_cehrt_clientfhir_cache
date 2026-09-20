@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346044401"
+        "value": "1396961322"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396961322"
+        "value": "1346044401"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1150 N 18th Street Ste 200"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79601-2931"
-      },
       {
         "line": [
           "6250 Regional Plaza, Ste 1060"
@@ -45,6 +37,14 @@
         "city": "ABILENE",
         "state": "TX",
         "postalCode": "79606-5247"
+      },
+      {
+        "line": [
+          "1150 N 18th Street Ste 200"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79601-2931"
       },
       {
         "line": [
@@ -64,6 +64,14 @@
       },
       {
         "line": [
+          "2502 CROCKETT DR STE A"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-5900"
+      },
+      {
+        "line": [
           "5302 Buffalo Gap Road Suite 104"
         ],
         "city": "ABILENE",
@@ -77,14 +85,6 @@
         "city": "ABILENE",
         "state": "TX",
         "postalCode": "79606-5272"
-      },
-      {
-        "line": [
-          "2502 CROCKETT DR STE A"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-5900"
       }
     ],
     "extension": [

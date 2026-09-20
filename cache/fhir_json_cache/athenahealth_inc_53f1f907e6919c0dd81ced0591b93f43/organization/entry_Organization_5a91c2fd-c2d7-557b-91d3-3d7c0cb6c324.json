@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891933560"
+        "value": "1407094436"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,17 +22,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407094436"
+        "value": "1891933560"
       }
     ],
     "address": [
       {
         "line": [
-          "Hwy 86 Mile Post 113"
+          "500 Edgewater"
         ],
-        "city": "SELLS",
+        "city": "TUBA CITY",
         "state": "AZ",
-        "postalCode": "85634-1234"
+        "postalCode": "86045-1111"
       },
       {
         "line": [
@@ -45,11 +45,20 @@
       },
       {
         "line": [
-          "500 Edgewater"
+          "10503 West Thunderbird Road",
+          "Suite 113"
         ],
-        "city": "TUBA CITY",
+        "city": "SUN CITY",
         "state": "AZ",
-        "postalCode": "86045-1111"
+        "postalCode": "85351-3047"
+      },
+      {
+        "line": [
+          "Hwy 86 Mile Post 113"
+        ],
+        "city": "SELLS",
+        "state": "AZ",
+        "postalCode": "85634-1234"
       },
       {
         "line": [
@@ -68,15 +77,6 @@
         "city": "PHOENIX",
         "state": "AZ",
         "postalCode": "85085-6093"
-      },
-      {
-        "line": [
-          "10503 West Thunderbird Road",
-          "Suite 113"
-        ],
-        "city": "SUN CITY",
-        "state": "AZ",
-        "postalCode": "85351-3047"
       }
     ],
     "extension": [

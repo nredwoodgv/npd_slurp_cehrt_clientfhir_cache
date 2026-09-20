@@ -18,10 +18,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598929135"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396798302"
       },
       {
@@ -35,17 +31,13 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1881981033"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598929135"
       }
     ],
     "address": [
-      {
-        "line": [
-          "114 Saundersville Rd"
-        ],
-        "city": "Hendersonville",
-        "state": "TN",
-        "postalCode": "37075-2480"
-      },
       {
         "line": [
           "114 Saundersville Road"
@@ -61,6 +53,14 @@
         "city": "HENDERSONVILLE",
         "state": "TN",
         "postalCode": "37075-8967"
+      },
+      {
+        "line": [
+          "114 Saundersville Rd"
+        ],
+        "city": "Hendersonville",
+        "state": "TN",
+        "postalCode": "37075-2480"
       }
     ],
     "extension": [

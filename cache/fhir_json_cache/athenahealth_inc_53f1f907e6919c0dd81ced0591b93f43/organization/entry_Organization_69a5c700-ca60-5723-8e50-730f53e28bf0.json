@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649501347"
+        "value": "1750814737"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750814737"
+        "value": "1649501347"
       }
     ],
     "address": [
-      {
-        "line": [
-          "7777 Forest Lane"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75230-2501"
-      },
       {
         "line": [
           "5500 Frisco Square Blvd"
@@ -37,6 +29,32 @@
         "city": "FRISCO",
         "state": "TX",
         "postalCode": "75034-3305"
+      },
+      {
+        "line": [
+          "3901 W 15th St"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75075-7738"
+      },
+      {
+        "line": [
+          "5068 W PLANO PKWY",
+          "STE 390"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75093-4410"
+      },
+      {
+        "line": [
+          "12221 Merit Dr",
+          "Ste 280"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75251-2242"
       },
       {
         "line": [
@@ -48,12 +66,54 @@
       },
       {
         "line": [
+          "11990 North Central Expressway"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75243-3768"
+      },
+      {
+        "line": [
+          "7777 Forest Lane"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75230-2501"
+      },
+      {
+        "line": [
+          "8200 Walnut Hill Ln"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75231-4426"
+      },
+      {
+        "line": [
+          "9301 N Central Expressway",
+          "Suite 100"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75230-5009"
+      },
+      {
+        "line": [
           "4708 ALLIANCE BLVD",
           "SUITE 475"
         ],
         "city": "PLANO",
         "state": "TX",
         "postalCode": "75093-5368"
+      },
+      {
+        "line": [
+          "5068 W PLANO PKWY",
+          "Ste 155"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75093-4410"
       },
       {
         "line": [
@@ -70,66 +130,6 @@
         "city": "DALLAS",
         "state": "TX",
         "postalCode": "75231-4426"
-      },
-      {
-        "line": [
-          "8200 Walnut Hill Ln"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75231-4426"
-      },
-      {
-        "line": [
-          "3901 W 15th St"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75075-7738"
-      },
-      {
-        "line": [
-          "12221 Merit Dr",
-          "Ste 280"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75251-2242"
-      },
-      {
-        "line": [
-          "5068 W PLANO PKWY",
-          "STE 390"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75093-4410"
-      },
-      {
-        "line": [
-          "9301 N Central Expressway",
-          "Suite 100"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75230-5009"
-      },
-      {
-        "line": [
-          "5068 W PLANO PKWY",
-          "Ste 155"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75093-4410"
-      },
-      {
-        "line": [
-          "11990 North Central Expressway"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75243-3768"
       }
     ],
     "extension": [

@@ -14,19 +14,47 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215948096"
+        "value": "1245669514"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982963344"
+        "value": "1326099763"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023506532"
+        "value": "1144271586"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528336302"
+        "value": "1962453308"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588180475"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730790551"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952177446"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619928165"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1043261498"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619494366"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306363007"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -35,6 +63,22 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1912466194"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528336302"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1023506532"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1982963344"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386932937"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,61 +94,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386932937"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619494366"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619928165"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952177446"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730790551"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144271586"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588180475"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043261498"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306363007"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962453308"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326099763"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245669514"
+        "value": "1215948096"
       }
     ],
     "address": [
       {
         "line": [
-          "4451 Bayou Boulevard"
+          "6701 Airport Blvd Suite A206"
         ],
-        "city": "PENSACOLA",
+        "city": "Mobile",
+        "state": "AL",
+        "postalCode": "36608-3763"
+      },
+      {
+        "line": [
+          "1110 Gulf Breeze Pkwy"
+        ],
+        "city": "Gulf Breeze",
         "state": "FL",
-        "postalCode": "32504-2601"
+        "postalCode": "32561-4883"
       },
       {
         "line": [
@@ -116,11 +124,11 @@
       },
       {
         "line": [
-          "5 MOBILE INFIRMARY CIRCLE"
+          "6701 Airport Blvd Ste A206"
         ],
-        "city": "MOBILE",
+        "city": "Mobile",
         "state": "AL",
-        "postalCode": "36607-3513"
+        "postalCode": "36608-3763"
       },
       {
         "line": [
@@ -140,11 +148,19 @@
       },
       {
         "line": [
-          "3801 East Hwy 98"
+          "4451 Bayou Boulevard"
         ],
-        "city": "PORT SAINT JOE",
+        "city": "PENSACOLA",
         "state": "FL",
-        "postalCode": "32456-5318"
+        "postalCode": "32504-2601"
+      },
+      {
+        "line": [
+          "5 MOBILE INFIRMARY CIRCLE"
+        ],
+        "city": "MOBILE",
+        "state": "AL",
+        "postalCode": "36607-3513"
       },
       {
         "line": [
@@ -156,11 +172,19 @@
       },
       {
         "line": [
-          "1110 Gulf Breeze Pkwy"
+          "3801 East Hwy 98"
         ],
-        "city": "Gulf Breeze",
+        "city": "PORT SAINT JOE",
         "state": "FL",
-        "postalCode": "32561-4883"
+        "postalCode": "32456-5318"
+      },
+      {
+        "line": [
+          "1655 McGill Ave"
+        ],
+        "city": "Mobile",
+        "state": "AL",
+        "postalCode": "36604-1299"
       },
       {
         "line": [
@@ -172,35 +196,11 @@
       },
       {
         "line": [
-          "6701 Airport Blvd Ste A206"
-        ],
-        "city": "Mobile",
-        "state": "AL",
-        "postalCode": "36608-3763"
-      },
-      {
-        "line": [
-          "6701 Airport Blvd Suite A206"
-        ],
-        "city": "Mobile",
-        "state": "AL",
-        "postalCode": "36608-3763"
-      },
-      {
-        "line": [
           "123"
         ],
         "city": "PENSACOLA",
         "state": "FL",
         "postalCode": "32501-2347"
-      },
-      {
-        "line": [
-          "1655 McGill Ave"
-        ],
-        "city": "Mobile",
-        "state": "AL",
-        "postalCode": "36604-1299"
       }
     ],
     "extension": [

@@ -20,7 +20,16 @@
     "address": [
       {
         "line": [
-          "123 Summer Street, Suite 550"
+          "123 Summer Street",
+          "Suite 550"
+        ],
+        "city": "WORCESTER",
+        "state": "MA",
+        "postalCode": "01608-1216"
+      },
+      {
+        "line": [
+          "123 SUMMER ST"
         ],
         "city": "WORCESTER",
         "state": "MA",
@@ -36,16 +45,7 @@
       },
       {
         "line": [
-          "100 Hospital Road",
-          "Suite 3-C"
-        ],
-        "city": "LEOMINSTER",
-        "state": "MA",
-        "postalCode": "01453-2253"
-      },
-      {
-        "line": [
-          "123 SUMMER ST"
+          "123 Summer Street, Suite 550"
         ],
         "city": "WORCESTER",
         "state": "MA",
@@ -61,12 +61,12 @@
       },
       {
         "line": [
-          "123 Summer Street",
-          "Suite 550"
+          "100 Hospital Road",
+          "Suite 3-C"
         ],
-        "city": "WORCESTER",
+        "city": "LEOMINSTER",
         "state": "MA",
-        "postalCode": "01608-1216"
+        "postalCode": "01453-2253"
       }
     ],
     "extension": [

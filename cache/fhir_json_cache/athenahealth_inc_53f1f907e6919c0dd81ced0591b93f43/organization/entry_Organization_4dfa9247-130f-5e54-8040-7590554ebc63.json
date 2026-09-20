@@ -14,46 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235600701"
+        "value": "1942992235"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942992235"
+        "value": "1235600701"
       }
     ],
     "address": [
       {
         "line": [
-          "305 E 47TH ST FL 5",
-          "SURGICORE 5th Ave  Extension Clinic"
+          "1210 2nd Avenue"
         ],
         "city": "NEW YORK",
         "state": "NY",
-        "postalCode": "10017-2319"
-      },
-      {
-        "line": [
-          "1000 N VILLAGE AVE"
-        ],
-        "city": "ROCKVILLE CENTRE",
-        "state": "NY",
-        "postalCode": "11570-1000"
-      },
-      {
-        "line": [
-          "145 E 32ND ST"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10016-6066"
-      },
-      {
-        "line": [
-          "1895 WALT WHITMAN RD"
-        ],
-        "city": "MELVILLE",
-        "state": "NY",
-        "postalCode": "11747-3031"
+        "postalCode": "10065-7403"
       },
       {
         "line": [
@@ -66,28 +41,54 @@
       },
       {
         "line": [
-          "425 MADISON AVE RM 302"
+          "150 BROADWAY",
+          "Floor 9"
         ],
         "city": "NEW YORK",
         "state": "NY",
-        "postalCode": "10017-1121"
+        "postalCode": "10038-0367"
       },
       {
         "line": [
-          "380 2ND AVE",
-          "STE 1000"
+          "49 BERRY HILL RD"
+        ],
+        "city": "SYOSSET",
+        "state": "NY",
+        "postalCode": "11791-2624"
+      },
+      {
+        "line": [
+          "30-74 31st Street",
+          "4th Floor"
+        ],
+        "city": "ASTORIA",
+        "state": "NY",
+        "postalCode": "11102-2073"
+      },
+      {
+        "line": [
+          "19 W 21ST ST",
+          "RM 801"
         ],
         "city": "NEW YORK",
         "state": "NY",
-        "postalCode": "10010-5631"
+        "postalCode": "10010-6853"
       },
       {
         "line": [
-          "989 W JERICHO TPKE"
+          "1895 WALT WHITMAN RD"
         ],
-        "city": "SMITHTOWN",
+        "city": "MELVILLE",
         "state": "NY",
-        "postalCode": "11787-3241"
+        "postalCode": "11747-3031"
+      },
+      {
+        "line": [
+          "145 E 32ND ST"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10016-6066"
       },
       {
         "line": [
@@ -96,6 +97,23 @@
         "city": "NEW YORK",
         "state": "NY",
         "postalCode": "10010-5209"
+      },
+      {
+        "line": [
+          "146A MANETTO HILL RD",
+          "STE 100"
+        ],
+        "city": "PLAINVIEW",
+        "state": "NY",
+        "postalCode": "11803-1323"
+      },
+      {
+        "line": [
+          "92-12 165th St."
+        ],
+        "city": "JAMAICA",
+        "state": "NY",
+        "postalCode": "11433-1104"
       },
       {
         "line": [
@@ -117,28 +135,44 @@
       },
       {
         "line": [
-          "92-12 165th St."
-        ],
-        "city": "JAMAICA",
-        "state": "NY",
-        "postalCode": "11433-1104"
-      },
-      {
-        "line": [
-          "1210 2nd Avenue"
+          "425 MADISON AVE RM 302"
         ],
         "city": "NEW YORK",
         "state": "NY",
-        "postalCode": "10065-7403"
+        "postalCode": "10017-1121"
       },
       {
         "line": [
-          "150 BROADWAY",
-          "Floor 9"
+          "989 W JERICHO TPKE"
+        ],
+        "city": "SMITHTOWN",
+        "state": "NY",
+        "postalCode": "11787-3241"
+      },
+      {
+        "line": [
+          "380 2ND AVE",
+          "STE 1000"
         ],
         "city": "NEW YORK",
         "state": "NY",
-        "postalCode": "10038-0367"
+        "postalCode": "10010-5631"
+      },
+      {
+        "line": [
+          "59-25 KISSENA BLVD"
+        ],
+        "city": "FLUSHING",
+        "state": "NY",
+        "postalCode": "11355-5565"
+      },
+      {
+        "line": [
+          "1000 N VILLAGE AVE"
+        ],
+        "city": "ROCKVILLE CENTRE",
+        "state": "NY",
+        "postalCode": "11570-1000"
       },
       {
         "line": [
@@ -151,46 +185,12 @@
       },
       {
         "line": [
-          "49 BERRY HILL RD"
-        ],
-        "city": "SYOSSET",
-        "state": "NY",
-        "postalCode": "11791-2624"
-      },
-      {
-        "line": [
-          "59-25 KISSENA BLVD"
-        ],
-        "city": "FLUSHING",
-        "state": "NY",
-        "postalCode": "11355-5565"
-      },
-      {
-        "line": [
-          "19 W 21ST ST",
-          "RM 801"
+          "305 E 47TH ST FL 5",
+          "SURGICORE 5th Ave  Extension Clinic"
         ],
         "city": "NEW YORK",
         "state": "NY",
-        "postalCode": "10010-6853"
-      },
-      {
-        "line": [
-          "146A MANETTO HILL RD",
-          "STE 100"
-        ],
-        "city": "PLAINVIEW",
-        "state": "NY",
-        "postalCode": "11803-1323"
-      },
-      {
-        "line": [
-          "30-74 31st Street",
-          "4th Floor"
-        ],
-        "city": "ASTORIA",
-        "state": "NY",
-        "postalCode": "11102-2073"
+        "postalCode": "10017-2319"
       }
     ],
     "extension": [

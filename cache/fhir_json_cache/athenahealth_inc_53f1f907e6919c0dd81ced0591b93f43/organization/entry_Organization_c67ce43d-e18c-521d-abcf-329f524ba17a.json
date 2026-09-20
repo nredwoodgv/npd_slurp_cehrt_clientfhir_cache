@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538229273"
+        "value": "1700119443"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,10 +22,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700119443"
+        "value": "1538229273"
       }
     ],
     "address": [
+      {
+        "line": [
+          "7800 US HWY 98"
+        ],
+        "city": "MIRAMAR BEACH",
+        "state": "FL",
+        "postalCode": "32550-7228"
+      },
       {
         "line": [
           "151 E REDSTONE AVE"
@@ -33,6 +41,14 @@
         "city": "CRESTVIEW",
         "state": "FL",
         "postalCode": "32539-5352"
+      },
+      {
+        "line": [
+          "1950 BLUEWATER BLVD, STE 100"
+        ],
+        "city": "NICEVILLE",
+        "state": "FL",
+        "postalCode": "32578-3888"
       },
       {
         "line": [
@@ -44,14 +60,6 @@
       },
       {
         "line": [
-          "2190 HWY 85 N"
-        ],
-        "city": "NICEVILLE",
-        "state": "FL",
-        "postalCode": "32578-1045"
-      },
-      {
-        "line": [
           "1950 BLUEWATER BLVD"
         ],
         "city": "NICEVILLE",
@@ -60,11 +68,11 @@
       },
       {
         "line": [
-          "7800 US HWY 98"
+          "2190 HWY 85 N"
         ],
-        "city": "MIRAMAR BEACH",
+        "city": "NICEVILLE",
         "state": "FL",
-        "postalCode": "32550-7228"
+        "postalCode": "32578-1045"
       },
       {
         "line": [
@@ -73,14 +81,6 @@
         "city": "DESTIN",
         "state": "FL",
         "postalCode": "32541-2909"
-      },
-      {
-        "line": [
-          "1950 BLUEWATER BLVD, STE 100"
-        ],
-        "city": "NICEVILLE",
-        "state": "FL",
-        "postalCode": "32578-3888"
       }
     ],
     "extension": [

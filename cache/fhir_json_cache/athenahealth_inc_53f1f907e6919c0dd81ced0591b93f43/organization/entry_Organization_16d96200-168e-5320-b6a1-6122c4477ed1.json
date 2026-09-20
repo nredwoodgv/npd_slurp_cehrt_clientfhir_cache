@@ -14,27 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053469486"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396849329"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912382060"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649669466"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1346584836"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639584352"
+        "value": "1912382060"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -43,20 +27,28 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1851729214"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1639584352"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649669466"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396849329"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053469486"
       }
     ],
     "address": [
       {
         "line": [
-          "POST OFFICE BOX 918"
-        ],
-        "city": "EUPORA",
-        "state": "MS",
-        "postalCode": "39744-2027"
-      },
-      {
-        "line": [
-          "200 WALNUT AVENUE"
+          "156 EAST WALNUT AVENUE"
         ],
         "city": "EUPORA",
         "state": "MS",
@@ -72,7 +64,15 @@
       },
       {
         "line": [
-          "156 EAST WALNUT AVENUE"
+          "200 WALNUT AVENUE"
+        ],
+        "city": "EUPORA",
+        "state": "MS",
+        "postalCode": "39744-2027"
+      },
+      {
+        "line": [
+          "POST OFFICE BOX 918"
         ],
         "city": "EUPORA",
         "state": "MS",

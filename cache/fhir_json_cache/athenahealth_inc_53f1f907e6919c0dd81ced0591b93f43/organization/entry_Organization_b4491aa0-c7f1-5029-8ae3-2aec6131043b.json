@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
+        "value": "1730484031"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,23 +30,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669801585"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1053373951"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
+        "value": "1124080320"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,13 +46,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
+        "value": "1962602300"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881656247"
       }
     ],
     "address": [
       {
         "line": [
-          "5730 SHERWOOD WAY"
+          "5730 Sherwood Way"
         ],
         "city": "SAN ANGELO",
         "state": "TX",
@@ -64,7 +64,7 @@
       },
       {
         "line": [
-          "5730 Sherwood Way"
+          "5730 SHERWOOD WAY"
         ],
         "city": "SAN ANGELO",
         "state": "TX",

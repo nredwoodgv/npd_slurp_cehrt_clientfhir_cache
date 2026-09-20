@@ -14,46 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457183311"
+        "value": "1790942381"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790942381"
+        "value": "1457183311"
       }
     ],
     "address": [
-      {
-        "line": [
-          "777 Hemlock Street"
-        ],
-        "city": "MACON",
-        "state": "GA",
-        "postalCode": "31201-2102"
-      },
-      {
-        "line": [
-          "1707 MEADOWS LN STE G"
-        ],
-        "city": "VIDALIA",
-        "state": "GA",
-        "postalCode": "30474-7201"
-      },
-      {
-        "line": [
-          "440 MALL BLVD STE C"
-        ],
-        "city": "SAVANNAH",
-        "state": "GA",
-        "postalCode": "31406-4868"
-      },
-      {
-        "line": [
-          "215 MIMS RD"
-        ],
-        "city": "SYLVANIA",
-        "state": "GA",
-        "postalCode": "30467-1994"
-      },
       {
         "line": [
           "247 S Main St"
@@ -80,14 +48,6 @@
       },
       {
         "line": [
-          "610 Sparta Road"
-        ],
-        "city": "SANDERSVILLE",
-        "state": "GA",
-        "postalCode": "31082-1860"
-      },
-      {
-        "line": [
           "247 S Main St"
         ],
         "city": "SAVANNAH",
@@ -96,19 +56,11 @@
       },
       {
         "line": [
-          "242 Industrial Boulevard"
+          "610 Sparta Road"
         ],
-        "city": "DUBLIN",
+        "city": "SANDERSVILLE",
         "state": "GA",
-        "postalCode": "31021-2904"
-      },
-      {
-        "line": [
-          "340 Hospital Drive"
-        ],
-        "city": "MACON",
-        "state": "GA",
-        "postalCode": "31217-3838"
+        "postalCode": "31082-1860"
       },
       {
         "line": [
@@ -120,11 +72,43 @@
       },
       {
         "line": [
-          "1601 FAIR RD"
+          "215 MIMS RD"
         ],
-        "city": "STATESBORO",
+        "city": "SYLVANIA",
         "state": "GA",
-        "postalCode": "30458-1698"
+        "postalCode": "30467-1994"
+      },
+      {
+        "line": [
+          "340 Hospital Drive"
+        ],
+        "city": "MACON",
+        "state": "GA",
+        "postalCode": "31217-3838"
+      },
+      {
+        "line": [
+          "777 Hemlock Street"
+        ],
+        "city": "MACON",
+        "state": "GA",
+        "postalCode": "31201-2102"
+      },
+      {
+        "line": [
+          "1707 MEADOWS LN STE G"
+        ],
+        "city": "VIDALIA",
+        "state": "GA",
+        "postalCode": "30474-7201"
+      },
+      {
+        "line": [
+          "242 Industrial Boulevard"
+        ],
+        "city": "DUBLIN",
+        "state": "GA",
+        "postalCode": "31021-2904"
       },
       {
         "line": [
@@ -134,6 +118,22 @@
         "city": "VIDALIA",
         "state": "GA",
         "postalCode": "30474-7241"
+      },
+      {
+        "line": [
+          "440 MALL BLVD STE C"
+        ],
+        "city": "SAVANNAH",
+        "state": "GA",
+        "postalCode": "31406-4868"
+      },
+      {
+        "line": [
+          "1601 FAIR RD"
+        ],
+        "city": "STATESBORO",
+        "state": "GA",
+        "postalCode": "30458-1698"
       }
     ],
     "extension": [

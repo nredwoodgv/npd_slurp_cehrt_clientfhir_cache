@@ -14,33 +14,25 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184485070"
+        "value": "1710216346"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710216346"
+        "value": "1184485070"
       }
     ],
     "address": [
       {
         "line": [
-          "1413 West Quitman St"
-        ],
-        "city": "IUKA",
-        "state": "MS",
-        "postalCode": "38852-1130"
-      },
-      {
-        "line": [
-          "1413 West Quitman"
-        ],
-        "city": "IUKA",
-        "state": "MS",
-        "postalCode": "38852-1130"
-      },
-      {
-        "line": [
           "1777 Curtis Drive"
+        ],
+        "city": "IUKA",
+        "state": "MS",
+        "postalCode": "38852-1130"
+      },
+      {
+        "line": [
+          "1413 WEST QUITMAN STREET"
         ],
         "city": "IUKA",
         "state": "MS",
@@ -56,7 +48,15 @@
       },
       {
         "line": [
-          "1413 WEST QUITMAN STREET"
+          "1413 West Quitman St"
+        ],
+        "city": "IUKA",
+        "state": "MS",
+        "postalCode": "38852-1130"
+      },
+      {
+        "line": [
+          "1413 West Quitman"
         ],
         "city": "IUKA",
         "state": "MS",

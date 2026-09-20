@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346360138"
+        "value": "1720254261"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013061886"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,23 +26,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720254261"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013061886"
+        "value": "1346360138"
       }
     ],
     "address": [
-      {
-        "line": [
-          "5215 LOUGHBORO RD NW #500",
-          "STE 500"
-        ],
-        "city": "WASHINGTON",
-        "state": "DC",
-        "postalCode": "20016-2628"
-      },
       {
         "line": [
           "5215 LOUGHBORO RD NW"
@@ -46,6 +37,15 @@
         "city": "WASHINGTON",
         "state": "DC",
         "postalCode": "20016-2618"
+      },
+      {
+        "line": [
+          "5530 WISCONSIN AVE",
+          "STE 1620"
+        ],
+        "city": "CHEVY CHASE",
+        "state": "MD",
+        "postalCode": "20815-4322"
       },
       {
         "line": [
@@ -66,12 +66,12 @@
       },
       {
         "line": [
-          "5530 WISCONSIN AVE",
-          "STE 1620"
+          "5215 LOUGHBORO RD NW #500",
+          "STE 500"
         ],
-        "city": "CHEVY CHASE",
-        "state": "MD",
-        "postalCode": "20815-4322"
+        "city": "WASHINGTON",
+        "state": "DC",
+        "postalCode": "20016-2628"
       },
       {
         "line": [

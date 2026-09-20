@@ -18,35 +18,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154584373"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760599906"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1245769744"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962933416"
+        "value": "1447456173"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376862151"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083014914"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902002272"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952340911"
+        "value": "1154584373"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,33 +34,37 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447456173"
+        "value": "1760599906"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962933416"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902002272"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1083014914"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376862151"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952340911"
       }
     ],
     "address": [
       {
         "line": [
-          "887 OakCrest Lane"
+          "2708 Meyer SW"
         ],
-        "city": "JENISON",
+        "city": "WYOMING",
         "state": "MI",
-        "postalCode": "49428-8348"
-      },
-      {
-        "line": [
-          "141 Port Sheldon"
-        ],
-        "city": "GRANDVILLE",
-        "state": "MI",
-        "postalCode": "49418-2149"
-      },
-      {
-        "line": [
-          "2115 84th Street SW"
-        ],
-        "city": "BYRON CENTER",
-        "state": "MI",
-        "postalCode": "49315-9357"
+        "postalCode": "49519-2333"
       },
       {
         "line": [
@@ -92,14 +76,6 @@
       },
       {
         "line": [
-          "2708 Meyer SW"
-        ],
-        "city": "WYOMING",
-        "state": "MI",
-        "postalCode": "49519-2333"
-      },
-      {
-        "line": [
           "1055 Forest Hills Ave SE"
         ],
         "city": "GRAND RAPIDS",
@@ -108,11 +84,35 @@
       },
       {
         "line": [
+          "141 Port Sheldon"
+        ],
+        "city": "GRANDVILLE",
+        "state": "MI",
+        "postalCode": "49418-2149"
+      },
+      {
+        "line": [
           "861 Oakcrest Lane"
         ],
         "city": "JENISON",
         "state": "MI",
         "postalCode": "49428-8305"
+      },
+      {
+        "line": [
+          "2115 84th Street SW"
+        ],
+        "city": "BYRON CENTER",
+        "state": "MI",
+        "postalCode": "49315-9357"
+      },
+      {
+        "line": [
+          "887 OakCrest Lane"
+        ],
+        "city": "JENISON",
+        "state": "MI",
+        "postalCode": "49428-8348"
       }
     ],
     "extension": [

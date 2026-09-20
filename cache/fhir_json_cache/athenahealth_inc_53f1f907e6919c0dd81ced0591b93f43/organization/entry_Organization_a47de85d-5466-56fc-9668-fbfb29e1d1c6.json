@@ -14,51 +14,49 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811538390"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1447331350"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669019394"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811538390"
       }
     ],
     "address": [
       {
         "line": [
-          "6903 Main St"
-        ],
-        "city": "LITHONIA",
-        "state": "GA",
-        "postalCode": "30058-4441"
-      },
-      {
-        "line": [
-          "1825 HIGHWAY 34 E",
-          "Suite 3410"
+          "25 Newnan Lake Blvd"
         ],
         "city": "NEWNAN",
         "state": "GA",
-        "postalCode": "30265-6423"
+        "postalCode": "30263-5791"
       },
       {
         "line": [
-          "1825 Highway 34 E Ste 3400",
-          "3400"
+          "730 S 8TH ST"
         ],
-        "city": "NEWNAN",
+        "city": "GRIFFIN",
         "state": "GA",
-        "postalCode": "30265-6423"
+        "postalCode": "30224-4827"
       },
       {
         "line": [
-          "1100 LAKE HEARN DR STE 200"
+          "1300 Montreal Rd"
+        ],
+        "city": "TUCKER",
+        "state": "GA",
+        "postalCode": "30084-8141"
+      },
+      {
+        "line": [
+          "229 Peachtree Hills Cir NE"
         ],
         "city": "ATLANTA",
         "state": "GA",
-        "postalCode": "30342-1573"
+        "postalCode": "30305-4227"
       },
       {
         "line": [
@@ -67,62 +65,6 @@
         "city": "ATLANTA",
         "state": "GA",
         "postalCode": "30312-1266"
-      },
-      {
-        "line": [
-          "461 Newnan Lakes Blvd"
-        ],
-        "city": "NEWNAN",
-        "state": "GA",
-        "postalCode": "30263-6484"
-      },
-      {
-        "line": [
-          "1825 HIGHWAY 34 E STE 3400 STE 340"
-        ],
-        "city": "NEWNAN",
-        "state": "GA",
-        "postalCode": "30265-6433"
-      },
-      {
-        "line": [
-          "1825 HIGHWAY 34 E STE 3400"
-        ],
-        "city": "NEWNAN",
-        "state": "GA",
-        "postalCode": "30265-6423"
-      },
-      {
-        "line": [
-          "1821 Anderson Ave NW"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30314-1835"
-      },
-      {
-        "line": [
-          "1514 VERNON RD"
-        ],
-        "city": "LAGRANGE",
-        "state": "GA",
-        "postalCode": "30240-4131"
-      },
-      {
-        "line": [
-          "285 Boulevard NE"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30312-4207"
-      },
-      {
-        "line": [
-          "1255 Hwy 54 WEST"
-        ],
-        "city": "FAYETTEVILLE",
-        "state": "GA",
-        "postalCode": "30214-4526"
       },
       {
         "line": [
@@ -135,27 +77,27 @@
       },
       {
         "line": [
-          "1825 HIGHWAY 34 E STE 3400"
-        ],
-        "city": "NEWNAN",
-        "state": "GA",
-        "postalCode": "30265-6433"
-      },
-      {
-        "line": [
-          "730 S 8TH ST"
-        ],
-        "city": "GRIFFIN",
-        "state": "GA",
-        "postalCode": "30224-4827"
-      },
-      {
-        "line": [
           "745 Poplar Road"
         ],
         "city": "NEWNAN",
         "state": "GA",
         "postalCode": "30265-1618"
+      },
+      {
+        "line": [
+          "285 Boulevard NE"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30312-4207"
+      },
+      {
+        "line": [
+          "1100 LAKE HEARN DR STE 200"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30342-1573"
       },
       {
         "line": [
@@ -167,11 +109,134 @@
       },
       {
         "line": [
+          "1825 HIGHWAY 34 E STE 3410"
+        ],
+        "city": "NEWNAN",
+        "state": "GA",
+        "postalCode": "30265-6433"
+      },
+      {
+        "line": [
+          "1825 HIGHWAY 34 E STE 3400"
+        ],
+        "city": "NEWNAN",
+        "state": "GA",
+        "postalCode": "30265-6433"
+      },
+      {
+        "line": [
+          "1825 HIGHWAY 34 E"
+        ],
+        "city": "NEWNAN",
+        "state": "GA",
+        "postalCode": "30265-6423"
+      },
+      {
+        "line": [
           "2650 GA- 138"
         ],
         "city": "JONESBORO",
         "state": "GA",
         "postalCode": "30236-2744"
+      },
+      {
+        "line": [
+          "101 YORKTOWN DR STE 227"
+        ],
+        "city": "FAYETTEVILLE",
+        "state": "GA",
+        "postalCode": "30214-1578"
+      },
+      {
+        "line": [
+          "1825 HIGHWAY 34 E",
+          "Suite 3410"
+        ],
+        "city": "NEWNAN",
+        "state": "GA",
+        "postalCode": "30265-6423"
+      },
+      {
+        "line": [
+          "2078 Scenic Hwy S"
+        ],
+        "city": "SNELLVILLE",
+        "state": "GA",
+        "postalCode": "30078-2681"
+      },
+      {
+        "line": [
+          "461 Newnan Lakes Blvd"
+        ],
+        "city": "NEWNAN",
+        "state": "GA",
+        "postalCode": "30263-6484"
+      },
+      {
+        "line": [
+          "1825 Highway 34 E Ste 3400",
+          "3400"
+        ],
+        "city": "NEWNAN",
+        "state": "GA",
+        "postalCode": "30265-6423"
+      },
+      {
+        "line": [
+          "2101 E. Newnan Crossing Blvd"
+        ],
+        "city": "NEWNAN",
+        "state": "GA",
+        "postalCode": "30265-1618"
+      },
+      {
+        "line": [
+          "303 Parkway Dr NE"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30312-1212"
+      },
+      {
+        "line": [
+          "931 Rock Quarry Road"
+        ],
+        "city": "STOCKBRIDGE",
+        "state": "GA",
+        "postalCode": "30281-4352"
+      },
+      {
+        "line": [
+          "1825 Hwy 34 E"
+        ],
+        "city": "NEWNAN",
+        "state": "GA",
+        "postalCode": "30265-1618"
+      },
+      {
+        "line": [
+          "745 Poplar Rd"
+        ],
+        "city": "NEWNAN",
+        "state": "GA",
+        "postalCode": "30265-1618"
+      },
+      {
+        "line": [
+          "270 17TH ST NW",
+          "STE 100"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30363-1205"
+      },
+      {
+        "line": [
+          "1821 Anderson Ave NW"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30314-1835"
       },
       {
         "line": [
@@ -184,54 +249,6 @@
       },
       {
         "line": [
-          "931 Rock Quarry Road"
-        ],
-        "city": "STOCKBRIDGE",
-        "state": "GA",
-        "postalCode": "30281-4352"
-      },
-      {
-        "line": [
-          "2101 E. Newnan Crossing Blvd"
-        ],
-        "city": "NEWNAN",
-        "state": "GA",
-        "postalCode": "30265-1618"
-      },
-      {
-        "line": [
-          "229 Peachtree Hills Cir NE"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30305-4227"
-      },
-      {
-        "line": [
-          "745 Poplar Rd"
-        ],
-        "city": "NEWNAN",
-        "state": "GA",
-        "postalCode": "30265-1618"
-      },
-      {
-        "line": [
-          "101 YORKTOWN DR STE 227"
-        ],
-        "city": "FAYETTEVILLE",
-        "state": "GA",
-        "postalCode": "30214-2306"
-      },
-      {
-        "line": [
-          "1825 Hwy 34 E"
-        ],
-        "city": "NEWNAN",
-        "state": "GA",
-        "postalCode": "30265-1618"
-      },
-      {
-        "line": [
           "920 GA-138 NW"
         ],
         "city": "MONROE",
@@ -240,68 +257,19 @@
       },
       {
         "line": [
-          "101 YORKTOWN DR STE 227"
+          "1514 VERNON RD"
         ],
-        "city": "FAYETTEVILLE",
+        "city": "LAGRANGE",
         "state": "GA",
-        "postalCode": "30214-1578"
+        "postalCode": "30240-4131"
       },
       {
         "line": [
-          "303 Parkway Dr NE"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30312-1212"
-      },
-      {
-        "line": [
-          "601 S 8th Street"
-        ],
-        "city": "GRIFFIN",
-        "state": "GA",
-        "postalCode": "30224-7625"
-      },
-      {
-        "line": [
-          "2078 Scenic Hwy S"
-        ],
-        "city": "SNELLVILLE",
-        "state": "GA",
-        "postalCode": "30078-2681"
-      },
-      {
-        "line": [
-          "1825 Hwy 34 E",
-          "Ste 3400"
-        ],
-        "city": "NEWNAN",
-        "state": "GA",
-        "postalCode": "30265-6423"
-      },
-      {
-        "line": [
-          "1170 Cleveland Ave"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30344-3615"
-      },
-      {
-        "line": [
-          "1825 HIGHWAY 34 E STE 3410"
+          "1825 HIGHWAY 34 E STE 3400 STE 340"
         ],
         "city": "NEWNAN",
         "state": "GA",
         "postalCode": "30265-6433"
-      },
-      {
-        "line": [
-          "1300 Montreal Rd"
-        ],
-        "city": "TUCKER",
-        "state": "GA",
-        "postalCode": "30084-8141"
       },
       {
         "line": [
@@ -313,19 +281,27 @@
       },
       {
         "line": [
-          "1825 HIGHWAY 34 E"
+          "6903 Main St"
         ],
-        "city": "NEWNAN",
+        "city": "LITHONIA",
         "state": "GA",
-        "postalCode": "30265-6423"
+        "postalCode": "30058-4441"
       },
       {
         "line": [
-          "25 Newnan Lake Blvd"
+          "1255 Hwy 54 WEST"
         ],
-        "city": "NEWNAN",
+        "city": "FAYETTEVILLE",
         "state": "GA",
-        "postalCode": "30263-5791"
+        "postalCode": "30214-4526"
+      },
+      {
+        "line": [
+          "601 S 8th Street"
+        ],
+        "city": "GRIFFIN",
+        "state": "GA",
+        "postalCode": "30224-7625"
       },
       {
         "line": [
@@ -334,6 +310,15 @@
         "city": "PEACHTREE CITY",
         "state": "GA",
         "postalCode": "30269-4797"
+      },
+      {
+        "line": [
+          "1825 Hwy 34 E",
+          "Ste 3400"
+        ],
+        "city": "NEWNAN",
+        "state": "GA",
+        "postalCode": "30265-6423"
       },
       {
         "line": [
@@ -353,12 +338,27 @@
       },
       {
         "line": [
-          "270 17TH ST NW",
-          "STE 100"
+          "1825 HIGHWAY 34 E STE 3400"
+        ],
+        "city": "NEWNAN",
+        "state": "GA",
+        "postalCode": "30265-6423"
+      },
+      {
+        "line": [
+          "101 YORKTOWN DR STE 227"
+        ],
+        "city": "FAYETTEVILLE",
+        "state": "GA",
+        "postalCode": "30214-2306"
+      },
+      {
+        "line": [
+          "1170 Cleveland Ave"
         ],
         "city": "ATLANTA",
         "state": "GA",
-        "postalCode": "30363-1205"
+        "postalCode": "30344-3615"
       }
     ],
     "extension": [

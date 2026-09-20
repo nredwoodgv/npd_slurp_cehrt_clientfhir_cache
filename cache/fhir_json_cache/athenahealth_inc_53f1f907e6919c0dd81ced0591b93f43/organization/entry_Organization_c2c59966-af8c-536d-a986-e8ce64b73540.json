@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588997233"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962025148"
       },
       {
@@ -26,15 +30,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588997233"
+        "value": "1730412388"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629538491"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730412388"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -56,7 +56,7 @@
       },
       {
         "line": [
-          "919 E. 32nd St."
+          "919 E 32nd St"
         ],
         "city": "AUSTIN",
         "state": "TX",
@@ -64,7 +64,7 @@
       },
       {
         "line": [
-          "919 E 32nd St"
+          "919 E. 32nd St."
         ],
         "city": "AUSTIN",
         "state": "TX",

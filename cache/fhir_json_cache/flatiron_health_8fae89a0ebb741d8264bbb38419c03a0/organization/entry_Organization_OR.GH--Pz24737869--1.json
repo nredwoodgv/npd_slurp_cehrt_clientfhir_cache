@@ -1030,6 +1030,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598834806"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1033565981"
       },
       {
@@ -1211,10 +1215,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "0000000000000000000"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598834806"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -2522,6 +2522,10 @@
       },
       {
         "system": "phone",
+        "value": "(410)820-5945"
+      },
+      {
+        "system": "phone",
         "value": "(502)361-6000"
       },
       {
@@ -2627,10 +2631,6 @@
       {
         "system": "phone",
         "value": "(828)212-7023"
-      },
-      {
-        "system": "phone",
-        "value": "(410)820-5945"
       },
       {
         "system": "phone",
@@ -2922,10 +2922,6 @@
       },
       {
         "system": "phone",
-        "value": "(713)802-3260"
-      },
-      {
-        "system": "phone",
         "value": "(501)623-2426"
       },
       {
@@ -2999,6 +2995,10 @@
       {
         "system": "phone",
         "value": "(928)697-4150"
+      },
+      {
+        "system": "phone",
+        "value": "(713)802-3260"
       }
     ],
     "address": [
@@ -6695,17 +6695,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "2130 W Holcombe Blvd 10th Floor"
-        ],
-        "city": "Houston",
-        "state": "TX",
-        "postalCode": "77030",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "17500 W GRAND PKWY S"
         ],
         "city": "Sugar Land",
@@ -6945,6 +6934,29 @@
         "city": "Decatur",
         "state": "IN",
         "postalCode": "46733",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "5430 Bowman Road"
+        ],
+        "city": "Macon",
+        "state": "GA",
+        "postalCode": "31201",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "8221 Teal Dr.",
+          "Suite 302"
+        ],
+        "city": "Easton",
+        "state": "MD",
+        "postalCode": "21601",
         "country": "USA"
       },
       {
@@ -8349,18 +8361,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "8221 Teal Dr.",
-          "Suite 302"
-        ],
-        "city": "Easton",
-        "state": "MD",
-        "postalCode": "21601",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "8919 Parallel Pkwy",
           "Suite 326W"
         ],
@@ -9506,17 +9506,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "5430 Bowman Road"
-        ],
-        "city": "Macon",
-        "state": "GA",
-        "postalCode": "31201",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "605 Medical Center Drive",
           "Suite B"
         ],
@@ -10044,18 +10033,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "27700 Northwest Freeway",
-          "Suite 400"
-        ],
-        "city": "Cypress",
-        "state": "TX",
-        "postalCode": "77433",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "100 Ridgeway St",
           "Suite 2"
         ],
@@ -10518,6 +10495,29 @@
         "city": "Mena",
         "state": "AR",
         "postalCode": "71953",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "27700 Northwest Freeway",
+          "Suite 400"
+        ],
+        "city": "Cypress",
+        "state": "TX",
+        "postalCode": "77433",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2130 W Holcombe Blvd 10th Floor"
+        ],
+        "city": "Houston",
+        "state": "TX",
+        "postalCode": "77030",
         "country": "USA"
       }
     ],

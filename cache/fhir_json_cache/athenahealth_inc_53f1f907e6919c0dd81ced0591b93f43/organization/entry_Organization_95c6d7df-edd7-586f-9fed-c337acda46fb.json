@@ -14,21 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699143800"
+        "value": "1063229458"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063229458"
+        "value": "1699143800"
       }
     ],
     "address": [
       {
         "line": [
-          "2215 BURDETT AVE"
+          "24 CENTURY HILL DR",
+          "STE 1"
         ],
-        "city": "TROY",
+        "city": "LATHAM",
         "state": "NY",
-        "postalCode": "12180-2466"
+        "postalCode": "12110-2133"
       },
       {
         "line": [
@@ -40,14 +41,6 @@
       },
       {
         "line": [
-          "100 Hospital Drive"
-        ],
-        "city": "BENNINGTON",
-        "state": "VT",
-        "postalCode": "05201-5004"
-      },
-      {
-        "line": [
           "43 NEW SCOTLAND AVE"
         ],
         "city": "ALBANY",
@@ -56,12 +49,19 @@
       },
       {
         "line": [
-          "24 CENTURY HILL DR",
-          "STE 1"
+          "2215 BURDETT AVE"
         ],
-        "city": "LATHAM",
+        "city": "TROY",
         "state": "NY",
-        "postalCode": "12110-2133"
+        "postalCode": "12180-2466"
+      },
+      {
+        "line": [
+          "100 Hospital Drive"
+        ],
+        "city": "BENNINGTON",
+        "state": "VT",
+        "postalCode": "05201-5004"
       }
     ],
     "extension": [

@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417133380"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1427299841"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316188147"
+        "value": "1417133380"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114920329"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,10 +30,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114920329"
+        "value": "1316188147"
       }
     ],
     "address": [
+      {
+        "line": [
+          "76 Troy Town Dr."
+        ],
+        "city": "Troy",
+        "state": "OH",
+        "postalCode": "45373-2328"
+      },
       {
         "line": [
           "ONE WYOMING ST"
@@ -49,14 +57,6 @@
         "city": "DAYTON",
         "state": "OH",
         "postalCode": "45409-2939"
-      },
-      {
-        "line": [
-          "76 Troy Town Dr."
-        ],
-        "city": "Troy",
-        "state": "OH",
-        "postalCode": "45373-2328"
       },
       {
         "line": [

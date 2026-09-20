@@ -14,6 +14,38 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386716520"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1023088168"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457663197"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912965088"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376820605"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750680757"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700831500"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114366333"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1942317631"
       },
       {
@@ -22,15 +54,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588737266"
+        "value": "1376644922"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902979081"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255378139"
+        "value": "1730117805"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,15 +70,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730117805"
+        "value": "1902979081"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376644922"
+        "value": "1255378139"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174537500"
+        "value": "1588737266"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,35 +86,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700831500"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376820605"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023088168"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386716520"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457663197"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750680757"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912965088"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114366333"
+        "value": "1174537500"
       }
     ],
     "address": [
@@ -100,11 +100,11 @@
       },
       {
         "line": [
-          "21000 12 Mile Rd"
+          "21000 E 12 MILE RD"
         ],
         "city": "SAINT CLAIR SHORES",
         "state": "MI",
-        "postalCode": "48081-1184"
+        "postalCode": "48081-1116"
       },
       {
         "line": [
@@ -116,11 +116,11 @@
       },
       {
         "line": [
-          "21000 East 12 Mile Rd"
+          "21000 12 Mile Rd"
         ],
-        "city": "Saint Clair Shores",
+        "city": "SAINT CLAIR SHORES",
         "state": "MI",
-        "postalCode": "48081-1156"
+        "postalCode": "48081-1184"
       },
       {
         "line": [
@@ -132,11 +132,11 @@
       },
       {
         "line": [
-          "21000 E 12 MILE RD"
+          "21000 East 12 Mile Rd"
         ],
-        "city": "SAINT CLAIR SHORES",
+        "city": "Saint Clair Shores",
         "state": "MI",
-        "postalCode": "48081-1116"
+        "postalCode": "48081-1156"
       }
     ],
     "extension": [

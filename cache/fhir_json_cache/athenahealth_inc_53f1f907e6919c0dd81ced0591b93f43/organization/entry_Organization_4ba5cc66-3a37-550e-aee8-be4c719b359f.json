@@ -14,19 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346679248"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629310958"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407277460"
+        "value": "1346679248"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881980589"
+        "value": "1063908325"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,18 +30,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063908325"
+        "value": "1881980589"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1407277460"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1023 MEDICAL CENTER PKWY STE 305"
-        ],
-        "city": "SELMA",
-        "state": "AL",
-        "postalCode": "36701-7738"
-      },
       {
         "line": [
           "611 E LAFAYETTE ST"
@@ -53,6 +45,14 @@
         "city": "MARION",
         "state": "AL",
         "postalCode": "36756-2325"
+      },
+      {
+        "line": [
+          "200 S PARK PL"
+        ],
+        "city": "SELMA",
+        "state": "AL",
+        "postalCode": "36701-7742"
       },
       {
         "line": [
@@ -72,11 +72,11 @@
       },
       {
         "line": [
-          "200 S PARK PL"
+          "1023 MEDICAL CENTER PKWY STE 305"
         ],
         "city": "SELMA",
         "state": "AL",
-        "postalCode": "36701-7742"
+        "postalCode": "36701-7738"
       }
     ],
     "extension": [

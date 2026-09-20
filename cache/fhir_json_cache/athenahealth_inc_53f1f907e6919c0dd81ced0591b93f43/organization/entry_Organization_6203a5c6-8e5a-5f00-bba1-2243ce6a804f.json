@@ -18,26 +18,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518155597"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619166758"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902826399"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790706448"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912295270"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1457668170"
       },
       {
@@ -46,11 +26,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245429380"
+        "value": "1518155597"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467884650"
+        "value": "1952997538"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619166758"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,7 +42,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386005395"
+        "value": "1790706448"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,7 +50,31 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487879961"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902826399"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1306207311"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912295270"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245429380"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386005395"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467884650"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -75,40 +83,24 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578929816"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952997538"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487879961"
       }
     ],
     "address": [
       {
         "line": [
-          "1301 21ST ST"
+          "201 Locust St"
         ],
-        "city": "PERU",
+        "city": "MINONK",
         "state": "IL",
-        "postalCode": "61354-1359"
+        "postalCode": "61760-1511"
       },
       {
         "line": [
-          "1300 N GREENWOOD ST"
+          "1445 CHARTRES ST"
         ],
-        "city": "SPRING VALLEY",
+        "city": "LA SALLE",
         "state": "IL",
-        "postalCode": "61362-1576"
-      },
-      {
-        "line": [
-          "201 E FALCON HWY"
-        ],
-        "city": "FLANAGAN",
-        "state": "IL",
-        "postalCode": "61740-9108"
+        "postalCode": "61301-1508"
       },
       {
         "line": [
@@ -136,19 +128,27 @@
       },
       {
         "line": [
-          "1445 CHARTRES ST"
+          "1300 N GREENWOOD ST"
         ],
-        "city": "LA SALLE",
+        "city": "SPRING VALLEY",
         "state": "IL",
-        "postalCode": "61301-1508"
+        "postalCode": "61362-1576"
       },
       {
         "line": [
-          "201 Locust St"
+          "1301 21ST ST"
         ],
-        "city": "MINONK",
+        "city": "PERU",
         "state": "IL",
-        "postalCode": "61760-1511"
+        "postalCode": "61354-1359"
+      },
+      {
+        "line": [
+          "201 E FALCON HWY"
+        ],
+        "city": "FLANAGAN",
+        "state": "IL",
+        "postalCode": "61740-9108"
       }
     ],
     "extension": [

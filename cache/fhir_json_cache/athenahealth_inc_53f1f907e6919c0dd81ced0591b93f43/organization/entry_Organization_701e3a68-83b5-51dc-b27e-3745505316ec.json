@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013341734"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1265607626"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487014361"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,10 +22,35 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013341734"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487014361"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1407095359"
       }
     ],
     "address": [
+      {
+        "line": [
+          "600 West Lanier Ave",
+          "Ste 204"
+        ],
+        "city": "Fayetteville",
+        "state": "GA",
+        "postalCode": "30214-2113"
+      },
+      {
+        "line": [
+          "755 Old Norcross Rd"
+        ],
+        "city": "Lawrenceville",
+        "state": "GA",
+        "postalCode": "30046-4317"
+      },
       {
         "line": [
           "2401 Newnan Crossing Blvd East",
@@ -45,12 +62,12 @@
       },
       {
         "line": [
-          "600 West Lanier Ave",
-          "Ste 204"
+          "2401 Newnan Crossing Blvd East",
+          "Suite 120"
         ],
-        "city": "Fayetteville",
+        "city": "Newnan",
         "state": "GA",
-        "postalCode": "30214-2113"
+        "postalCode": "30265-2409"
       },
       {
         "line": [
@@ -80,23 +97,6 @@
       },
       {
         "line": [
-          "755 Old Norcross Rd"
-        ],
-        "city": "Lawrenceville",
-        "state": "GA",
-        "postalCode": "30046-4317"
-      },
-      {
-        "line": [
-          "1365 Rock Quarry Rd",
-          "Suite 301"
-        ],
-        "city": "Stockbridge",
-        "state": "GA",
-        "postalCode": "30281-5023"
-      },
-      {
-        "line": [
           "619 South 8th Street",
           "Suite 300"
         ],
@@ -106,12 +106,12 @@
       },
       {
         "line": [
-          "2401 Newnan Crossing Blvd East",
-          "Suite 120"
+          "1365 Rock Quarry Rd",
+          "Suite 301"
         ],
-        "city": "Newnan",
+        "city": "Stockbridge",
         "state": "GA",
-        "postalCode": "30265-2409"
+        "postalCode": "30281-5023"
       }
     ],
     "extension": [

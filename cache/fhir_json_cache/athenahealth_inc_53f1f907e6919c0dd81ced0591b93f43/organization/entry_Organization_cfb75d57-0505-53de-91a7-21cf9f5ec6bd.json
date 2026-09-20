@@ -14,22 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801272927"
+        "value": "1750129995"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750129995"
+        "value": "1801272927"
       }
     ],
     "address": [
       {
         "line": [
-          "50 FOUNTAIN PLZ",
-          "STE 1400"
+          "300 PARK AVE"
         ],
-        "city": "BUFFALO",
+        "city": "NEW YORK",
         "state": "NY",
-        "postalCode": "14202-2215"
+        "postalCode": "10022-7402"
       },
       {
         "line": [
@@ -41,35 +40,21 @@
       },
       {
         "line": [
-          "300 PARK AVE FL 2"
+          "50 FOUNTAIN PLZ",
+          "STE 1400"
         ],
-        "city": "NEW YORK",
+        "city": "BUFFALO",
         "state": "NY",
-        "postalCode": "10022-7402"
+        "postalCode": "14202-2215"
       },
       {
         "line": [
-          "436 N MAIN ST"
+          "800 N KING ST",
+          "STE 304"
         ],
-        "city": "DOYLESTOWN",
-        "state": "PA",
-        "postalCode": "18901-3404"
-      },
-      {
-        "line": [
-          "73 WASHINGTON RD"
-        ],
-        "city": "SPRINGFIELD",
-        "state": "MA",
-        "postalCode": "01108-2540"
-      },
-      {
-        "line": [
-          "300 PARK AVE"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10022-7402"
+        "city": "WILMINGTON",
+        "state": "DE",
+        "postalCode": "19801-3549"
       },
       {
         "line": [
@@ -90,12 +75,36 @@
       },
       {
         "line": [
-          "800 N KING ST",
-          "STE 304"
+          "2225 Sycamore Street",
+          "Ste 5006"
         ],
-        "city": "WILMINGTON",
-        "state": "DE",
-        "postalCode": "19801-3549"
+        "city": "HARRISBURG",
+        "state": "PA",
+        "postalCode": "17111-1026"
+      },
+      {
+        "line": [
+          "73 WASHINGTON RD"
+        ],
+        "city": "SPRINGFIELD",
+        "state": "MA",
+        "postalCode": "01108-2540"
+      },
+      {
+        "line": [
+          "436 N MAIN ST"
+        ],
+        "city": "DOYLESTOWN",
+        "state": "PA",
+        "postalCode": "18901-3404"
+      },
+      {
+        "line": [
+          "300 PARK AVE FL 2"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10022-7402"
       }
     ],
     "extension": [

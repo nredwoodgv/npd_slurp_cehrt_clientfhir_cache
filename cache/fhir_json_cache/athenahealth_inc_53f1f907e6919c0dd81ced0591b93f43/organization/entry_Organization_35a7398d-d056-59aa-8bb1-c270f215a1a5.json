@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639129331"
+        "value": "1891746970"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1710027859"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,22 +26,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891746970"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710027859"
+        "value": "1639129331"
       }
     ],
     "address": [
-      {
-        "line": [
-          "11113 RESEARCH"
-        ],
-        "city": "Austin",
-        "state": "TX",
-        "postalCode": "78759-5236"
-      },
       {
         "line": [
           "2423 Williams Drive",
@@ -46,6 +38,14 @@
         "city": "GEORGETOWN",
         "state": "TX",
         "postalCode": "78628-3269"
+      },
+      {
+        "line": [
+          "11113 RESEARCH"
+        ],
+        "city": "Austin",
+        "state": "TX",
+        "postalCode": "78759-5236"
       }
     ],
     "extension": [

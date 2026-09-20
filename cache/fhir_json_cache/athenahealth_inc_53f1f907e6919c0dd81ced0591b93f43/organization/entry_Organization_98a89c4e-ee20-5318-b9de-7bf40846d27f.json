@@ -22,11 +22,51 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801568274"
+        "value": "1417573981"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437775038"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730705047"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1255688057"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326553371"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1265784912"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447876156"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1265810980"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467078063"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962028431"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1801568274"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1538699426"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,47 +78,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467078063"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447876156"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1568088029"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730705047"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538699426"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417573981"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265784912"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265810980"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326553371"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437775038"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255688057"
       }
     ],
     "address": [
@@ -92,14 +92,6 @@
       },
       {
         "line": [
-          "735 PIEDMONT AVE NE"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30308-1416"
-      },
-      {
-        "line": [
           "700 SE 3RD AVE"
         ],
         "city": "FORT LAUDERDALE",
@@ -108,11 +100,11 @@
       },
       {
         "line": [
-          "8641 WILSHIRE BLVD STE 200"
+          "735 PIEDMONT AVE NE"
         ],
-        "city": "BEVERLY HILLS",
-        "state": "CA",
-        "postalCode": "90211-2920"
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30308-1416"
       },
       {
         "line": [
@@ -121,6 +113,14 @@
         "city": "DALLAS",
         "state": "TX",
         "postalCode": "75230-6806"
+      },
+      {
+        "line": [
+          "8641 WILSHIRE BLVD STE 200"
+        ],
+        "city": "BEVERLY HILLS",
+        "state": "CA",
+        "postalCode": "90211-2920"
       }
     ],
     "extension": [

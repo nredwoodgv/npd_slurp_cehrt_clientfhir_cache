@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598929135"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881981033"
+        "value": "1033294673"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,18 +30,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033294673"
+        "value": "1598929135"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881981033"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1004 CORNERSTONE DRIVE"
-        ],
-        "city": "PARIS",
-        "state": "TN",
-        "postalCode": "38242-5812"
-      },
       {
         "line": [
           "103 Jane St"
@@ -53,6 +45,14 @@
         "city": "PARIS",
         "state": "TN",
         "postalCode": "38242-5820"
+      },
+      {
+        "line": [
+          "1004 CORNERSTONE DRIVE"
+        ],
+        "city": "PARIS",
+        "state": "TN",
+        "postalCode": "38242-5812"
       }
     ],
     "extension": [

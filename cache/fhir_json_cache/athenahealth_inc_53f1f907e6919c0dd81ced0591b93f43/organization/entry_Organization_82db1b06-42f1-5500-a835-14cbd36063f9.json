@@ -18,14 +18,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568080364"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124012935"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1235435892"
       },
       {
@@ -34,7 +26,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124012935"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861958274"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1568080364"
       }
     ],
     "address": [
@@ -48,11 +48,11 @@
       },
       {
         "line": [
-          "4215 Joe Ramsey Blvd E"
+          "4215 JOE RAMSEY"
         ],
         "city": "GREENVILLE",
         "state": "TX",
-        "postalCode": "75401-7852"
+        "postalCode": "75401-6010"
       },
       {
         "line": [
@@ -64,7 +64,7 @@
       },
       {
         "line": [
-          "4215 JOE RAMSEY"
+          "4215 Joe Ramsey Blvd E"
         ],
         "city": "GREENVILLE",
         "state": "TX",
@@ -76,7 +76,7 @@
         ],
         "city": "GREENVILLE",
         "state": "TX",
-        "postalCode": "75401-6010"
+        "postalCode": "75401-7852"
       }
     ],
     "extension": [

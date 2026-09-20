@@ -18,18 +18,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588384671"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912627605"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407576580"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1790086767"
       },
       {
@@ -38,7 +26,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1407576580"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588384671"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1891415972"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912627605"
       }
     ],
     "address": [
@@ -50,11 +50,11 @@
       },
       {
         "line": [
-          "222 W 18TH ST"
+          "105 KEETON DR"
         ],
         "city": "HOPKINSVILLE",
         "state": "KY",
-        "postalCode": "42240-1963"
+        "postalCode": "42240-1961"
       },
       {
         "line": [
@@ -75,6 +75,14 @@
       },
       {
         "line": [
+          "227 BURLEY AVE"
+        ],
+        "city": "HOPKINSVILLE",
+        "state": "KY",
+        "postalCode": "42240-8725"
+      },
+      {
+        "line": [
           "320 W 18TH ST"
         ],
         "city": "HOPKINSVILLE",
@@ -83,27 +91,11 @@
       },
       {
         "line": [
-          "105 KEETON DR"
+          "222 W 18TH ST"
         ],
         "city": "HOPKINSVILLE",
         "state": "KY",
-        "postalCode": "42240-1961"
-      },
-      {
-        "line": [
-          "10755 EAGLE WAY STE 100"
-        ],
-        "city": "HOPKINSVILLE",
-        "state": "KY",
-        "postalCode": "42240-8742"
-      },
-      {
-        "line": [
-          "227 BURLEY AVE"
-        ],
-        "city": "HOPKINSVILLE",
-        "state": "KY",
-        "postalCode": "42240-8725"
+        "postalCode": "42240-1963"
       },
       {
         "line": [
@@ -121,6 +113,14 @@
         "city": "HOPKINSVILLE",
         "state": "KY",
         "postalCode": "42240-6300"
+      },
+      {
+        "line": [
+          "10755 EAGLE WAY STE 100"
+        ],
+        "city": "HOPKINSVILLE",
+        "state": "KY",
+        "postalCode": "42240-8742"
       }
     ],
     "extension": [

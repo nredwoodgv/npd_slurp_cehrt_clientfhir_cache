@@ -18,7 +18,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073520375"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1912915893"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1891733879"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,53 +38,13 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891733879"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073520375"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1235624990"
       }
     ],
     "address": [
       {
         "line": [
-          "1001 E. Johnson St"
-        ],
-        "city": "HOLYOKE",
-        "state": "CO",
-        "postalCode": "80734-1874"
-      },
-      {
-        "line": [
           "1001 E JOHNSON ST"
-        ],
-        "city": "HOLYOKE",
-        "state": "CO",
-        "postalCode": "80734-1854"
-      },
-      {
-        "line": [
-          "1001 E. Johnson St"
-        ],
-        "city": "HOLYOKE",
-        "state": "CO",
-        "postalCode": "80734-1854"
-      },
-      {
-        "line": [
-          "1001 E Johnson St"
-        ],
-        "city": "HOLYOKE",
-        "state": "CO",
-        "postalCode": "80734-1854"
-      },
-      {
-        "line": [
-          "1001 East Johnson St."
         ],
         "city": "HOLYOKE",
         "state": "CO",
@@ -92,11 +60,35 @@
       },
       {
         "line": [
-          "1001 E Johnson Street"
+          "1001 East Johnson St."
+        ],
+        "city": "HOLYOKE",
+        "state": "CO",
+        "postalCode": "80734-1854"
+      },
+      {
+        "line": [
+          "1001 E. Johnson St"
         ],
         "city": "HOLYOKE",
         "state": "CO",
         "postalCode": "80734-1874"
+      },
+      {
+        "line": [
+          "1001 E Johnson St"
+        ],
+        "city": "HOLYOKE",
+        "state": "CO",
+        "postalCode": "80734-1854"
+      },
+      {
+        "line": [
+          "1001 E. Johnson St"
+        ],
+        "city": "HOLYOKE",
+        "state": "CO",
+        "postalCode": "80734-1854"
       },
       {
         "line": [
@@ -105,6 +97,14 @@
         "city": "COLORADO SPRINGS",
         "state": "CO",
         "postalCode": "80915-1305"
+      },
+      {
+        "line": [
+          "1001 E Johnson Street"
+        ],
+        "city": "HOLYOKE",
+        "state": "CO",
+        "postalCode": "80734-1874"
       },
       {
         "line": [

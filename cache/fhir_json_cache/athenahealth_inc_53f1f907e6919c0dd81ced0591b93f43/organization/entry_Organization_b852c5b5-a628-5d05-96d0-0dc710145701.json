@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922695949"
+        "value": "1346993029"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346993029"
+        "value": "1922695949"
       }
     ],
     "address": [
+      {
+        "line": [
+          "548 Market Street"
+        ],
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94104-5401"
+      },
       {
         "line": [
           "4445 Corporation Lane",
@@ -30,6 +38,14 @@
         "city": "VIRGINIA BEACH",
         "state": "VA",
         "postalCode": "23462-3262"
+      },
+      {
+        "line": [
+          "5540 Centerview Dr Ste 204"
+        ],
+        "city": "RALEIGH",
+        "state": "NC",
+        "postalCode": "27606-8012"
       },
       {
         "line": [
@@ -42,54 +58,12 @@
       },
       {
         "line": [
-          "228 Park Ave S."
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10003-1502"
-      },
-      {
-        "line": [
-          "548 Market Street"
-        ],
-        "city": "SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94104-5401"
-      },
-      {
-        "line": [
           "9456 State Road",
           "Suite 11-V490"
         ],
         "city": "PHILADELPHIA",
         "state": "PA",
         "postalCode": "19114-3079"
-      },
-      {
-        "line": [
-          "9234 Kingston Pike"
-        ],
-        "city": "KNOXVILLE",
-        "state": "TN",
-        "postalCode": "37922-2380"
-      },
-      {
-        "line": [
-          "625 Kenmoor Ave",
-          "Ste 350"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49546-2395"
-      },
-      {
-        "line": [
-          "750 N Saint Paul St",
-          "Ste 250"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75201-3206"
       },
       {
         "line": [
@@ -102,11 +76,45 @@
       },
       {
         "line": [
-          "5540 Centerview Dr Ste 204"
+          "2045 W Grand Ave Ste B"
         ],
-        "city": "RALEIGH",
-        "state": "NC",
-        "postalCode": "27606-8012"
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60612-1577"
+      },
+      {
+        "line": [
+          "750 N Saint Paul St",
+          "Ste 250"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75201-3206"
+      },
+      {
+        "line": [
+          "9234 Kingston Pike"
+        ],
+        "city": "KNOXVILLE",
+        "state": "TN",
+        "postalCode": "37922-2380"
+      },
+      {
+        "line": [
+          "228 Park Ave S."
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10003-1502"
+      },
+      {
+        "line": [
+          "6595 Roswell Rd",
+          "Ste G"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30328-3152"
       },
       {
         "line": [
@@ -126,20 +134,12 @@
       },
       {
         "line": [
-          "2045 W Grand Ave Ste B"
+          "625 Kenmoor Ave",
+          "Ste 350"
         ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60612-1577"
-      },
-      {
-        "line": [
-          "6595 Roswell Rd",
-          "Ste G"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30328-3152"
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49546-2395"
       }
     ],
     "extension": [

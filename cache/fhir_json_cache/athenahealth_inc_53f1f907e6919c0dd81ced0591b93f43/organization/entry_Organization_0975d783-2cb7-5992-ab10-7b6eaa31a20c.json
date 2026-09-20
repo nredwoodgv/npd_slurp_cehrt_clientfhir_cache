@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922115914"
+        "value": "1558530600"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558530600"
+        "value": "1922115914"
       }
     ],
     "address": [
-      {
-        "line": [
-          "120 Cypress Edge Drive",
-          "Suite 208"
-        ],
-        "city": "PALM COAST",
-        "state": "FL",
-        "postalCode": "32164-8454"
-      },
       {
         "line": [
           "61 Memorial Medical Parkway",
@@ -43,11 +34,20 @@
       {
         "line": [
           "61 Memorial Medical Pkwy",
-          "SUITE 3805"
+          "SUITE 2815"
         ],
         "city": "PALM COAST",
         "state": "FL",
-        "postalCode": "32164-5982"
+        "postalCode": "32164-5981"
+      },
+      {
+        "line": [
+          "120 Cypress Edge Drive",
+          "Suite 208"
+        ],
+        "city": "PALM COAST",
+        "state": "FL",
+        "postalCode": "32164-8454"
       },
       {
         "line": [
@@ -61,11 +61,11 @@
       {
         "line": [
           "61 Memorial Medical Pkwy",
-          "SUITE 2815"
+          "SUITE 3805"
         ],
         "city": "PALM COAST",
         "state": "FL",
-        "postalCode": "32164-5981"
+        "postalCode": "32164-5982"
       }
     ],
     "extension": [

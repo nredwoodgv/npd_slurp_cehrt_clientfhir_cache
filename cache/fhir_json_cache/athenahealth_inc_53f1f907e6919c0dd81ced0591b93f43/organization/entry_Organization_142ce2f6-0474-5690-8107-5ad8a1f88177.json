@@ -14,18 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629538491"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730412388"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508489782"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962025148"
       },
       {
@@ -35,25 +23,21 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1275290694"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1508489782"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629538491"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730412388"
       }
     ],
     "address": [
-      {
-        "line": [
-          "7900 FM 1826"
-        ],
-        "city": "Austin",
-        "state": "TX",
-        "postalCode": "78737-1407"
-      },
-      {
-        "line": [
-          "625 E 10TH ST"
-        ],
-        "city": "Austin",
-        "state": "TX",
-        "postalCode": "78701-2612"
-      },
       {
         "line": [
           "505 Barton Springs Rd, Ste 400"
@@ -64,27 +48,11 @@
       },
       {
         "line": [
-          "4301 W William Cannon DR, Bldg. E, Suite 320"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78749-1474"
-      },
-      {
-        "line": [
-          "2716 Spirit of Texas Dr, Ste 160"
+          "7900 FM 1826"
         ],
         "city": "Austin",
         "state": "TX",
-        "postalCode": "78719-2353"
-      },
-      {
-        "line": [
-          "6001 Kyle Pkwy"
-        ],
-        "city": "Kyle",
-        "state": "TX",
-        "postalCode": "78640-6178"
+        "postalCode": "78737-1407"
       },
       {
         "line": [
@@ -96,19 +64,11 @@
       },
       {
         "line": [
-          "1512 Town Center Dr Suite 100"
+          "4301 W William Cannon DR, Bldg. E, Suite 320"
         ],
-        "city": "PFLUGERVILLE",
+        "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "78660-7679"
-      },
-      {
-        "line": [
-          "1520 Rutherford Ln"
-        ],
-        "city": "Austin",
-        "state": "TX",
-        "postalCode": "78754-3827"
+        "postalCode": "78749-1474"
       },
       {
         "line": [
@@ -120,11 +80,51 @@
       },
       {
         "line": [
+          "6001 Kyle Pkwy"
+        ],
+        "city": "Kyle",
+        "state": "TX",
+        "postalCode": "78640-6178"
+      },
+      {
+        "line": [
           "201 Seton Parkway"
         ],
         "city": "Round Rock",
         "state": "TX",
         "postalCode": "78665-8000"
+      },
+      {
+        "line": [
+          "1520 Rutherford Ln"
+        ],
+        "city": "Austin",
+        "state": "TX",
+        "postalCode": "78754-3827"
+      },
+      {
+        "line": [
+          "2716 Spirit of Texas Dr, Ste 160"
+        ],
+        "city": "Austin",
+        "state": "TX",
+        "postalCode": "78719-2353"
+      },
+      {
+        "line": [
+          "1512 Town Center Dr Suite 100"
+        ],
+        "city": "PFLUGERVILLE",
+        "state": "TX",
+        "postalCode": "78660-7679"
+      },
+      {
+        "line": [
+          "625 E 10TH ST"
+        ],
+        "city": "Austin",
+        "state": "TX",
+        "postalCode": "78701-2612"
       }
     ],
     "extension": [

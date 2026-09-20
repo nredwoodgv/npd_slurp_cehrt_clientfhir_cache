@@ -14,11 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730484031"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669801585"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1881656247"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053373951"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,23 +42,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962602300"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215999511"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -56,11 +56,11 @@
     "address": [
       {
         "line": [
-          "3131 University Drive E"
+          "1651 Rock Prairie Road, Assembly Room A"
         ],
-        "city": "Bryan",
+        "city": "COLLEGE STATION",
         "state": "TX",
-        "postalCode": "77802-3473"
+        "postalCode": "77845-8652"
       },
       {
         "line": [
@@ -72,11 +72,11 @@
       },
       {
         "line": [
-          "1651 Rock Prairie Road, Assembly Room A"
+          "1602 Rock Prairie Road, STE 2000"
         ],
         "city": "COLLEGE STATION",
         "state": "TX",
-        "postalCode": "77845-8652"
+        "postalCode": "77845-5988"
       },
       {
         "line": [
@@ -88,19 +88,19 @@
       },
       {
         "line": [
+          "3131 University Drive E"
+        ],
+        "city": "Bryan",
+        "state": "TX",
+        "postalCode": "77802-3473"
+      },
+      {
+        "line": [
           "116 Medical Park Lane Suite B"
         ],
         "city": "Huntsville",
         "state": "TX",
         "postalCode": "77340-4978"
-      },
-      {
-        "line": [
-          "1602 Rock Prairie Road, STE 2000"
-        ],
-        "city": "COLLEGE STATION",
-        "state": "TX",
-        "postalCode": "77845-5988"
       }
     ],
     "extension": [

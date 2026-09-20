@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1922677517"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1295433944"
       },
       {
@@ -22,19 +26,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922677517"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1366018020"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548836224"
+        "value": "1730570581"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730570581"
+        "value": "1548836224"
       }
     ],
     "address": [
@@ -45,14 +45,6 @@
         "city": "ETOILE",
         "state": "TX",
         "postalCode": "75944-1111"
-      },
-      {
-        "line": [
-          "103 Timberland Hwy"
-        ],
-        "city": "PINELAND",
-        "state": "TX",
-        "postalCode": "75968-4012"
       },
       {
         "line": [
@@ -72,6 +64,14 @@
       },
       {
         "line": [
+          "2608 N UNIVERSITY DR"
+        ],
+        "city": "NACOGDOCHES",
+        "state": "TX",
+        "postalCode": "75965-2904"
+      },
+      {
+        "line": [
           "854 Hurst Street"
         ],
         "city": "CENTER",
@@ -80,19 +80,19 @@
       },
       {
         "line": [
+          "103 Timberland Hwy"
+        ],
+        "city": "PINELAND",
+        "state": "TX",
+        "postalCode": "75968-4012"
+      },
+      {
+        "line": [
           "507 N Jacob St"
         ],
         "city": "TIMPSON",
         "state": "TX",
         "postalCode": "75975-5255"
-      },
-      {
-        "line": [
-          "2608 N UNIVERSITY DR"
-        ],
-        "city": "NACOGDOCHES",
-        "state": "TX",
-        "postalCode": "75965-2904"
       }
     ],
     "extension": [

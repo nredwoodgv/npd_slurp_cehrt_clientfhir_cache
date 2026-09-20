@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134857501"
+        "value": "1720407273"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720407273"
+        "value": "1134857501"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,6 +26,14 @@
       }
     ],
     "address": [
+      {
+        "line": [
+          "2600 POST RD"
+        ],
+        "city": "SOUTHPORT",
+        "state": "CT",
+        "postalCode": "06890-1258"
+      },
       {
         "line": [
           "3000 WESTCHESTER AVE STE 202"
@@ -41,14 +49,6 @@
         "city": "BRONX",
         "state": "NY",
         "postalCode": "10467-4956"
-      },
-      {
-        "line": [
-          "2600 POST RD"
-        ],
-        "city": "SOUTHPORT",
-        "state": "CT",
-        "postalCode": "06890-1258"
       }
     ],
     "extension": [

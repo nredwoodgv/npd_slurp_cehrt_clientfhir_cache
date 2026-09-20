@@ -74,6 +74,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "00000000"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1706590962"
       },
       {
@@ -111,10 +115,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "000000"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "00000000"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -695,6 +695,10 @@
       {
         "system": "phone",
         "value": "(239)947-3092"
+      },
+      {
+        "system": "phone",
+        "value": "(239)938-0800"
       },
       {
         "system": "phone",
@@ -1643,10 +1647,6 @@
       {
         "system": "phone",
         "value": "(727)940-9580"
-      },
-      {
-        "system": "phone",
-        "value": "(239)938-0800"
       },
       {
         "system": "phone",
@@ -3347,6 +3347,17 @@
         "city": "Bonita Springs",
         "state": "FL",
         "postalCode": "34135",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "8981 Colonial Center Dr"
+        ],
+        "city": "Fort Myers",
+        "state": "FL",
+        "postalCode": "33905",
         "country": "USA"
       },
       {
@@ -11304,17 +11315,6 @@
         "city": "Largo",
         "state": "FL",
         "postalCode": "33770",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "8981 Colonial Center Dr"
-        ],
-        "city": "Fort Myers",
-        "state": "FL",
-        "postalCode": "33905",
         "country": "USA"
       },
       {

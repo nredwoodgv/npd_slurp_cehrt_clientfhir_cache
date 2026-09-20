@@ -14,14 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154739399"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760779466"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1386630028"
       },
       {
@@ -30,10 +22,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1760779466"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1477851467"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154739399"
       }
     ],
     "address": [
+      {
+        "line": [
+          "420 N LORETTO RD STE 500"
+        ],
+        "city": "LEBANON",
+        "state": "KY",
+        "postalCode": "40033-1633"
+      },
       {
         "line": [
           "420 Loretto Rd",
@@ -42,6 +50,14 @@
         "city": "LEBANON",
         "state": "KY",
         "postalCode": "40033-8117"
+      },
+      {
+        "line": [
+          "1980 OLD GREENSBURG RD"
+        ],
+        "city": "CAMPBELLSVILLE",
+        "state": "KY",
+        "postalCode": "42718-2536"
       },
       {
         "line": [
@@ -58,22 +74,6 @@
         "city": "VERSAILLES",
         "state": "KY",
         "postalCode": "40383-1286"
-      },
-      {
-        "line": [
-          "1980 OLD GREENSBURG RD"
-        ],
-        "city": "CAMPBELLSVILLE",
-        "state": "KY",
-        "postalCode": "42718-2536"
-      },
-      {
-        "line": [
-          "420 N LORETTO RD STE 500"
-        ],
-        "city": "LEBANON",
-        "state": "KY",
-        "postalCode": "40033-1633"
       }
     ],
     "extension": [

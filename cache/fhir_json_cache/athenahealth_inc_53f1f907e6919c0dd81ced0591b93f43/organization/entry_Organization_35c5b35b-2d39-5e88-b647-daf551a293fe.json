@@ -14,14 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932191822"
+        "value": "1952336869"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952336869"
+        "value": "1932191822"
       }
     ],
     "address": [
+      {
+        "line": [
+          "2305 SPRINGHILL RD",
+          "SUITE 4"
+        ],
+        "city": "BENTON",
+        "state": "AR",
+        "postalCode": "72019-7552"
+      },
       {
         "line": [
           "3480 Landers Road"
@@ -29,14 +38,6 @@
         "city": "NORTH LITTLE ROCK",
         "state": "AR",
         "postalCode": "72117-2514"
-      },
-      {
-        "line": [
-          "801 S BOWMAN RD STE 3"
-        ],
-        "city": "LITTLE ROCK",
-        "state": "AR",
-        "postalCode": "72211-3427"
       },
       {
         "line": [
@@ -56,12 +57,11 @@
       },
       {
         "line": [
-          "2305 SPRINGHILL RD",
-          "SUITE 4"
+          "801 S BOWMAN RD STE 3"
         ],
-        "city": "BENTON",
+        "city": "LITTLE ROCK",
         "state": "AR",
-        "postalCode": "72019-7552"
+        "postalCode": "72211-3427"
       }
     ],
     "extension": [

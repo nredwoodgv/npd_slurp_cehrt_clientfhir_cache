@@ -18,11 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811659634"
+        "value": "1114225745"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275541013"
+        "value": "1811659634"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,26 +30,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114225745"
+        "value": "1275541013"
       }
     ],
     "address": [
-      {
-        "line": [
-          "8341 BARRETT DR"
-        ],
-        "city": "MANASSAS",
-        "state": "VA",
-        "postalCode": "20109-3594"
-      },
-      {
-        "line": [
-          "10200 Colvin Run Road"
-        ],
-        "city": "GREAT FALLS",
-        "state": "VA",
-        "postalCode": "22066-1830"
-      },
       {
         "line": [
           "9201 PORTNER AVE"
@@ -65,6 +49,14 @@
         "city": "WARRENTON",
         "state": "VA",
         "postalCode": "20186-2947"
+      },
+      {
+        "line": [
+          "8341 BARRETT DR"
+        ],
+        "city": "MANASSAS",
+        "state": "VA",
+        "postalCode": "20109-3594"
       }
     ],
     "extension": [

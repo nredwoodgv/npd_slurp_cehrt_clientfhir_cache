@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316334139"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1427569524"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366839185"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316334139"
+        "value": "1093102816"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,26 +30,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093102816"
+        "value": "1366839185"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1 ARH LANE"
-        ],
-        "city": "LOW MOOR",
-        "state": "VA",
-        "postalCode": "24457-0007"
-      },
-      {
-        "line": [
-          "3700 SOUTH MAIN STREET"
-        ],
-        "city": "BLACKSBURG",
-        "state": "VA",
-        "postalCode": "24060-7017"
-      },
       {
         "line": [
           "2400 LEE HIGHWAY"
@@ -65,6 +49,22 @@
         "city": "SALEM",
         "state": "VA",
         "postalCode": "24153-7474"
+      },
+      {
+        "line": [
+          "3700 SOUTH MAIN STREET"
+        ],
+        "city": "BLACKSBURG",
+        "state": "VA",
+        "postalCode": "24060-7017"
+      },
+      {
+        "line": [
+          "1 ARH LANE"
+        ],
+        "city": "LOW MOOR",
+        "state": "VA",
+        "postalCode": "24457-0007"
       },
       {
         "line": [

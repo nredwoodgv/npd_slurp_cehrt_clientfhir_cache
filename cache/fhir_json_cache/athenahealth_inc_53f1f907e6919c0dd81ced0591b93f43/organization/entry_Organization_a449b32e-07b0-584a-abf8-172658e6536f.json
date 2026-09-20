@@ -14,45 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538677026"
+        "value": "1215561329"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215561329"
+        "value": "1538677026"
       }
     ],
     "address": [
       {
         "line": [
-          "5850 HOLT RD"
+          "1634 LAKE LANSING RD"
         ],
-        "city": "HOLT",
+        "city": "LANSING",
         "state": "MI",
-        "postalCode": "48842-8629"
-      },
-      {
-        "line": [
-          "803 W MAIN ST"
-        ],
-        "city": "GRAND LEDGE",
-        "state": "MI",
-        "postalCode": "48837-1003"
-      },
-      {
-        "line": [
-          "3255 E COLEMAN RD"
-        ],
-        "city": "EAST LANSING",
-        "state": "MI",
-        "postalCode": "48823-7330"
-      },
-      {
-        "line": [
-          "11656 HARTEL RD"
-        ],
-        "city": "GRAND LEDGE",
-        "state": "MI",
-        "postalCode": "48837-8148"
+        "postalCode": "48912-3709"
       },
       {
         "line": [
@@ -64,11 +40,27 @@
       },
       {
         "line": [
-          "7099 E STATE RD"
+          "16260 PARK LAKE RD"
         ],
         "city": "EAST LANSING",
         "state": "MI",
-        "postalCode": "48823-9440"
+        "postalCode": "48823-9480"
+      },
+      {
+        "line": [
+          "803 W MAIN ST"
+        ],
+        "city": "GRAND LEDGE",
+        "state": "MI",
+        "postalCode": "48837-1003"
+      },
+      {
+        "line": [
+          "11656 HARTEL RD"
+        ],
+        "city": "GRAND LEDGE",
+        "state": "MI",
+        "postalCode": "48837-8148"
       },
       {
         "line": [
@@ -80,19 +72,27 @@
       },
       {
         "line": [
-          "1634 LAKE LANSING RD"
+          "5850 HOLT RD"
         ],
-        "city": "LANSING",
+        "city": "HOLT",
         "state": "MI",
-        "postalCode": "48912-3709"
+        "postalCode": "48842-8629"
       },
       {
         "line": [
-          "16260 PARK LAKE RD"
+          "7099 E STATE RD"
         ],
         "city": "EAST LANSING",
         "state": "MI",
-        "postalCode": "48823-9480"
+        "postalCode": "48823-9440"
+      },
+      {
+        "line": [
+          "3255 E COLEMAN RD"
+        ],
+        "city": "EAST LANSING",
+        "state": "MI",
+        "postalCode": "48823-7330"
       }
     ],
     "extension": [

@@ -14,38 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750873337"
+        "value": "1548293640"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548293640"
+        "value": "1750873337"
       }
     ],
     "address": [
-      {
-        "line": [
-          "930 East Tremont Avenue"
-        ],
-        "city": "BRONX",
-        "state": "NY",
-        "postalCode": "10460-4363"
-      },
-      {
-        "line": [
-          "1301 Avenue J"
-        ],
-        "city": "BROOKLYN",
-        "state": "NY",
-        "postalCode": "11230-3605"
-      },
-      {
-        "line": [
-          "1625 SAINT PETERS AVE STE MAIN"
-        ],
-        "city": "BRONX",
-        "state": "NY",
-        "postalCode": "10461-3000"
-      },
       {
         "line": [
           "2525 KINGS HWY"
@@ -86,6 +62,30 @@
         "city": "BAYSIDE",
         "state": "NY",
         "postalCode": "11361-3085"
+      },
+      {
+        "line": [
+          "1625 SAINT PETERS AVE STE MAIN"
+        ],
+        "city": "BRONX",
+        "state": "NY",
+        "postalCode": "10461-3000"
+      },
+      {
+        "line": [
+          "1301 Avenue J"
+        ],
+        "city": "BROOKLYN",
+        "state": "NY",
+        "postalCode": "11230-3605"
+      },
+      {
+        "line": [
+          "930 East Tremont Avenue"
+        ],
+        "city": "BRONX",
+        "state": "NY",
+        "postalCode": "10460-4363"
       }
     ],
     "extension": [

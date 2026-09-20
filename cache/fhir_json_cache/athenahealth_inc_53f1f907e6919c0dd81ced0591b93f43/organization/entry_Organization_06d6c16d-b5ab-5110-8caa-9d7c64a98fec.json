@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639366685"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578139705"
       },
       {
@@ -27,6 +23,10 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1811065220"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1639366685"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -40,27 +40,11 @@
     "address": [
       {
         "line": [
-          "417 N Martin Luther King Drive"
-        ],
-        "city": "SIMMESPORT",
-        "state": "LA",
-        "postalCode": "71369-2181"
-      },
-      {
-        "line": [
           "6615 SAINT PHILLIP ST"
         ],
         "city": "MANSURA",
         "state": "LA",
         "postalCode": "71350-0900"
-      },
-      {
-        "line": [
-          "417 N MARTIN LUTHER KING DR"
-        ],
-        "city": "SIMMESPORT",
-        "state": "LA",
-        "postalCode": "71369-2181"
       },
       {
         "line": [
@@ -72,7 +56,23 @@
       },
       {
         "line": [
+          "417 N MARTIN LUTHER KING DR"
+        ],
+        "city": "SIMMESPORT",
+        "state": "LA",
+        "postalCode": "71369-2181"
+      },
+      {
+        "line": [
           "457 W WADDIL ST"
+        ],
+        "city": "MARKSVILLE",
+        "state": "LA",
+        "postalCode": "71351-2619"
+      },
+      {
+        "line": [
+          "457 West Wadill Street"
         ],
         "city": "MARKSVILLE",
         "state": "LA",
@@ -89,19 +89,19 @@
       },
       {
         "line": [
+          "417 N Martin Luther King Drive"
+        ],
+        "city": "SIMMESPORT",
+        "state": "LA",
+        "postalCode": "71369-2181"
+      },
+      {
+        "line": [
           "1007 SYCAMORE STREET"
         ],
         "city": "COTTONPORT",
         "state": "LA",
         "postalCode": "71327-3403"
-      },
-      {
-        "line": [
-          "457 West Wadill Street"
-        ],
-        "city": "MARKSVILLE",
-        "state": "LA",
-        "postalCode": "71351-2619"
       }
     ],
     "extension": [

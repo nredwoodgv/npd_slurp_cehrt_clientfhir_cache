@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588738538"
+        "value": "1851510002"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1851510002"
+        "value": "1588738538"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1731 HARPER RD"
+        ],
+        "city": "BECKLEY",
+        "state": "WV",
+        "postalCode": "25801-2806"
+      },
       {
         "line": [
           "30 MALLARD CT"
@@ -32,11 +40,11 @@
       },
       {
         "line": [
-          "1731 HARPER RD"
+          "390 Stanaford Road"
         ],
         "city": "BECKLEY",
         "state": "WV",
-        "postalCode": "25801-2806"
+        "postalCode": "25801-3142"
       },
       {
         "line": [
@@ -61,14 +69,6 @@
         "city": "BECKLEY",
         "state": "WV",
         "postalCode": "25801-3503"
-      },
-      {
-        "line": [
-          "390 Stanaford Road"
-        ],
-        "city": "BECKLEY",
-        "state": "WV",
-        "postalCode": "25801-3142"
       }
     ],
     "extension": [

@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558344978"
+        "value": "1417987124"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417987124"
+        "value": "1558344978"
       }
     ],
     "address": [
       {
         "line": [
-          "2561 OAK ST"
+          "1900 TEBEAU ST"
         ],
-        "city": "JACKSONVILLE",
-        "state": "FL",
-        "postalCode": "32204-4559"
+        "city": "WAYCROSS",
+        "state": "GA",
+        "postalCode": "31501-6357"
       },
       {
         "line": [
@@ -40,36 +40,44 @@
       },
       {
         "line": [
+          "159 N 3RD ST"
+        ],
+        "city": "MACCLENNY",
+        "state": "FL",
+        "postalCode": "32063-2103"
+      },
+      {
+        "line": [
+          "2 Shircliff Way, Suite 400"
+        ],
+        "city": "JACKSONVILLE",
+        "state": "FL",
+        "postalCode": "32204-4765"
+      },
+      {
+        "line": [
+          "3960 OAK ST"
+        ],
+        "city": "JACKSONVILLE",
+        "state": "FL",
+        "postalCode": "32205-9375"
+      },
+      {
+        "line": [
+          "390 EH COURT"
+        ],
+        "city": "BRUNSWICK",
+        "state": "GA",
+        "postalCode": "31520-2198"
+      },
+      {
+        "line": [
           "1101 OCILLA RD",
           "PO BOX 1287"
         ],
         "city": "DOUGLAS",
         "state": "GA",
         "postalCode": "31533-2207"
-      },
-      {
-        "line": [
-          "1900 TEBEAU ST"
-        ],
-        "city": "WAYCROSS",
-        "state": "GA",
-        "postalCode": "31501-6357"
-      },
-      {
-        "line": [
-          "232 PONTE VEDRA PARK DR"
-        ],
-        "city": "PONTE VEDRA BEACH",
-        "state": "FL",
-        "postalCode": "32082-6600"
-      },
-      {
-        "line": [
-          "159 N 3RD ST"
-        ],
-        "city": "MACCLENNY",
-        "state": "FL",
-        "postalCode": "32063-2103"
       },
       {
         "line": [
@@ -90,19 +98,11 @@
       },
       {
         "line": [
-          "390 EH COURT"
-        ],
-        "city": "BRUNSWICK",
-        "state": "GA",
-        "postalCode": "31520-2198"
-      },
-      {
-        "line": [
-          "2 Shircliff Way, Suite 400"
+          "2561 OAK ST"
         ],
         "city": "JACKSONVILLE",
         "state": "FL",
-        "postalCode": "32204-4765"
+        "postalCode": "32204-4559"
       },
       {
         "line": [
@@ -115,11 +115,11 @@
       },
       {
         "line": [
-          "3960 OAK ST"
+          "232 PONTE VEDRA PARK DR"
         ],
-        "city": "JACKSONVILLE",
+        "city": "PONTE VEDRA BEACH",
         "state": "FL",
-        "postalCode": "32205-9375"
+        "postalCode": "32082-6600"
       }
     ],
     "extension": [

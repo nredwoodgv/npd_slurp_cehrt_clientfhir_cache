@@ -14,17 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750518601"
+        "value": "1427017862"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427017862"
+        "value": "1750518601"
       }
     ],
     "address": [
       {
         "line": [
-          "3330 NW 56TH STREET STE 618"
+          "330 NW 56th Street",
+          "Ste. 618"
         ],
         "city": "OKLAHOMA CITY",
         "state": "OK",
@@ -32,8 +33,7 @@
       },
       {
         "line": [
-          "330 NW 56th Street",
-          "Ste. 618"
+          "3330 NW 56TH STREET STE 618"
         ],
         "city": "OKLAHOMA CITY",
         "state": "OK",

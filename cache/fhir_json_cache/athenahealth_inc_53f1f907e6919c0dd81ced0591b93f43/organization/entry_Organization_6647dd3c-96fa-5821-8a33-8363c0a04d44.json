@@ -18,27 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215348487"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,30 +26,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730484031"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750302923"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669801585"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1124080320"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
+        "value": "1215999511"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053373951"
       }
     ],
     "address": [
-      {
-        "line": [
-          "6200 Regional Plaza Suite 1600"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79606-5262"
-      },
-      {
-        "line": [
-          "1680 ANTILLEY RD STE 300"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79606-5247"
-      },
       {
         "line": [
           "1680 ANTILEY RD STE 120"
@@ -77,6 +61,22 @@
         "city": "ABILENE",
         "state": "TX",
         "postalCode": "79606-5257"
+      },
+      {
+        "line": [
+          "1680 ANTILLEY RD STE 270"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79606-5247"
+      },
+      {
+        "line": [
+          "301 Jenny George Lane"
+        ],
+        "city": "SWEETWATER",
+        "state": "TX",
+        "postalCode": "79556-7152"
       },
       {
         "line": [
@@ -96,6 +96,14 @@
       },
       {
         "line": [
+          "1680 ANTILLEY RD STE 300"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79606-5247"
+      },
+      {
+        "line": [
           "1680 ANTILLEY RD STE 380"
         ],
         "city": "ABILENE",
@@ -104,27 +112,19 @@
       },
       {
         "line": [
+          "6200 Regional Plaza Suite 1600"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79606-5262"
+      },
+      {
+        "line": [
           "1680 Antilley Road Suite 125"
         ],
         "city": "ABILENE",
         "state": "TX",
         "postalCode": "79606-5278"
-      },
-      {
-        "line": [
-          "301 Jenny George Lane"
-        ],
-        "city": "SWEETWATER",
-        "state": "TX",
-        "postalCode": "79556-7152"
-      },
-      {
-        "line": [
-          "1680 ANTILLEY RD STE 270"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79606-5247"
       }
     ],
     "extension": [

@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285931089"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1013031368"
       },
       {
@@ -26,18 +22,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285931089"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932402484"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1330 Enterprise Dr."
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24502-9998"
-      },
       {
         "line": [
           "1902 Grace Street"
@@ -53,6 +45,14 @@
         "city": "AMHERST",
         "state": "VA",
         "postalCode": "24521-9998"
+      },
+      {
+        "line": [
+          "1330 Enterprise Dr."
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24502-9998"
       }
     ],
     "extension": [

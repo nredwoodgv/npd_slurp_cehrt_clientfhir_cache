@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598958431"
+        "value": "1447524392"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447524392"
+        "value": "1598958431"
       }
     ],
     "address": [
+      {
+        "line": [
+          "423 TREELINE PARK # 202"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78209-2078"
+      },
       {
         "line": [
           "502 Madison Oak, Suite 320"
@@ -37,14 +45,6 @@
         "city": "SAN ANTONIO",
         "state": "TX",
         "postalCode": "78232-1431"
-      },
-      {
-        "line": [
-          "423 TREELINE PARK # 202"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78209-2078"
       },
       {
         "line": [

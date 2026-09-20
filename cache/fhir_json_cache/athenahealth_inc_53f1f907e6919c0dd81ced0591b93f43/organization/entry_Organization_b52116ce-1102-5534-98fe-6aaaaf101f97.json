@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1205257029"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1235789140"
       },
       {
@@ -22,26 +26,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205257029"
+        "value": "1285065623"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1336560382"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285065623"
       }
     ],
     "address": [
-      {
-        "line": [
-          "200 S Geneva St"
-        ],
-        "city": "BRECKENRIDGE",
-        "state": "TX",
-        "postalCode": "76424-4702"
-      },
       {
         "line": [
           "101 S HARTFORD STREET"
@@ -49,6 +41,14 @@
         "city": "BRECKENRIDGE",
         "state": "TX",
         "postalCode": "76424-4711"
+      },
+      {
+        "line": [
+          "200 S GENEVA ST"
+        ],
+        "city": "BRECKENRIDGE",
+        "state": "TX",
+        "postalCode": "76424-4702"
       },
       {
         "line": [
@@ -60,7 +60,15 @@
       },
       {
         "line": [
-          "200 S GENEVA ST"
+          "202 S HARTFORD"
+        ],
+        "city": "BRECKENRIDGE",
+        "state": "TX",
+        "postalCode": "76424-4713"
+      },
+      {
+        "line": [
+          "200 S Geneva St"
         ],
         "city": "BRECKENRIDGE",
         "state": "TX",
@@ -73,14 +81,6 @@
         "city": "BRECKENRIDGE",
         "state": "TX",
         "postalCode": "76424-3609"
-      },
-      {
-        "line": [
-          "202 S HARTFORD"
-        ],
-        "city": "BRECKENRIDGE",
-        "state": "TX",
-        "postalCode": "76424-4713"
       },
       {
         "line": [],

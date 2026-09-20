@@ -18,14 +18,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245544923"
+        "value": "1992207294"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992207294"
+        "value": "1245544923"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1117 CHENIERE DREW RD"
+        ],
+        "city": "WEST MONROE",
+        "state": "LA",
+        "postalCode": "71291-8551"
+      },
       {
         "line": [
           "5976 HIGHWAY 65 N"
@@ -33,22 +41,6 @@
         "city": "LAKE PROVIDENCE",
         "state": "LA",
         "postalCode": "71254-5235"
-      },
-      {
-        "line": [
-          "323 West Walnut Ave."
-        ],
-        "city": "BASTROP",
-        "state": "LA",
-        "postalCode": "71220-4521"
-      },
-      {
-        "line": [
-          "9644 HWY 165 N"
-        ],
-        "city": "STERLINGTON",
-        "state": "LA",
-        "postalCode": "71280-3185"
       },
       {
         "line": [
@@ -68,11 +60,11 @@
       },
       {
         "line": [
-          "1117 CHENIERE DREW RD"
+          "323 West Walnut Ave."
         ],
-        "city": "WEST MONROE",
+        "city": "BASTROP",
         "state": "LA",
-        "postalCode": "71291-8551"
+        "postalCode": "71220-4521"
       },
       {
         "line": [

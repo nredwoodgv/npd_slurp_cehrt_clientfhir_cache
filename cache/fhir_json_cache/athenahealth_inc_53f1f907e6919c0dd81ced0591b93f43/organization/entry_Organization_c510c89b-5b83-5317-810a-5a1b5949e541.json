@@ -14,31 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891962221"
+        "value": "1376813972"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376813972"
+        "value": "1891962221"
       }
     ],
     "address": [
-      {
-        "line": [
-          "150 WARE ROAD",
-          "PO BOX 428"
-        ],
-        "city": "DAYVILLE",
-        "state": "CT",
-        "postalCode": "06241-1126"
-      },
-      {
-        "line": [
-          "44 CANTERBURY ROAD"
-        ],
-        "city": "BROOKLYN",
-        "state": "CT",
-        "postalCode": "06234-1903"
-      },
       {
         "line": [
           "36 VINA LANE"
@@ -46,6 +29,14 @@
         "city": "BROOKLYN",
         "state": "CT",
         "postalCode": "06234-1937"
+      },
+      {
+        "line": [
+          "45 GREEN HOLLOW ROAD"
+        ],
+        "city": "DANIELSON",
+        "state": "CT",
+        "postalCode": "06239-3509"
       },
       {
         "line": [
@@ -57,11 +48,20 @@
       },
       {
         "line": [
-          "45 GREEN HOLLOW ROAD"
+          "44 CANTERBURY ROAD"
         ],
-        "city": "DANIELSON",
+        "city": "BROOKLYN",
         "state": "CT",
-        "postalCode": "06239-3509"
+        "postalCode": "06234-1903"
+      },
+      {
+        "line": [
+          "150 WARE ROAD",
+          "PO BOX 428"
+        ],
+        "city": "DAYVILLE",
+        "state": "CT",
+        "postalCode": "06241-1126"
       },
       {
         "line": [

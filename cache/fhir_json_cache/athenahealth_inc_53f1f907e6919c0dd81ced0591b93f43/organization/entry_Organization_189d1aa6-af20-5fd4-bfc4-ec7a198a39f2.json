@@ -14,19 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962025148"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275290694"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1508489782"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588997233"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,25 +22,45 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1275290694"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629538491"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588997233"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962025148"
       }
     ],
     "address": [
       {
         "line": [
-          "1401 Medical Pkwy Bldg B, Ste 220"
+          "249 Sportsplex Drive, Suite 200"
         ],
-        "city": "CEDAR PARK",
+        "city": "Dripping Springs",
         "state": "TX",
-        "postalCode": "78613-5013"
+        "postalCode": "78620-2350"
       },
       {
         "line": [
-          "6811 Austin Center Blvd Ste 410"
+          "3101 Highway 71 East Ste 107"
         ],
-        "city": "Austin",
+        "city": "BASTROP",
         "state": "TX",
-        "postalCode": "78731-3157"
+        "postalCode": "78602-5157"
+      },
+      {
+        "line": [
+          "1004 W 32nd St"
+        ],
+        "city": "Lampasas",
+        "state": "TX",
+        "postalCode": "76550-1820"
       },
       {
         "line": [
@@ -73,27 +81,11 @@
       },
       {
         "line": [
-          "1004 W 32nd St"
+          "6811 Austin Center Blvd Ste 410"
         ],
-        "city": "Lampasas",
+        "city": "Austin",
         "state": "TX",
-        "postalCode": "76550-1820"
-      },
-      {
-        "line": [
-          "1009 W San Antonio St"
-        ],
-        "city": "Lockhart",
-        "state": "TX",
-        "postalCode": "78644-2421"
-      },
-      {
-        "line": [
-          "249 Sportsplex Drive, Suite 200"
-        ],
-        "city": "Dripping Springs",
-        "state": "TX",
-        "postalCode": "78620-2350"
+        "postalCode": "78731-3157"
       },
       {
         "line": [
@@ -105,19 +97,19 @@
       },
       {
         "line": [
-          "9670 RR 12"
+          "1009 W San Antonio St"
         ],
-        "city": "Wimberley",
+        "city": "Lockhart",
         "state": "TX",
-        "postalCode": "78676-5238"
+        "postalCode": "78644-2421"
       },
       {
         "line": [
-          "3101 Highway 71 East Ste 107"
+          "1401 Medical Pkwy Bldg B, Ste 220"
         ],
-        "city": "BASTROP",
+        "city": "CEDAR PARK",
         "state": "TX",
-        "postalCode": "78602-5157"
+        "postalCode": "78613-5013"
       },
       {
         "line": [
@@ -126,6 +118,14 @@
         "city": "Austin",
         "state": "TX",
         "postalCode": "78705-1010"
+      },
+      {
+        "line": [
+          "9670 RR 12"
+        ],
+        "city": "Wimberley",
+        "state": "TX",
+        "postalCode": "78676-5238"
       }
     ],
     "extension": [

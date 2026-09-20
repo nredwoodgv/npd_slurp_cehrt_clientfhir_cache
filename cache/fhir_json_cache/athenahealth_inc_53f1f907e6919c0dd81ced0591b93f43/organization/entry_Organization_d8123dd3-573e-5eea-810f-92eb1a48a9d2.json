@@ -22,14 +22,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063608701"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205888237"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1841225091"
       },
       {
@@ -38,7 +30,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073059523"
+        "value": "1255655023"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1205888237"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1063608701"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,50 +50,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255655023"
+        "value": "1073059523"
       }
     ],
     "address": [
-      {
-        "line": [
-          "24440 Stone Springs Blvd"
-        ],
-        "city": "DULLES",
-        "state": "VA",
-        "postalCode": "20166-2247"
-      },
-      {
-        "line": [
-          "444 North Main Street"
-        ],
-        "city": "AKRON",
-        "state": "OH",
-        "postalCode": "44310-3110"
-      },
-      {
-        "line": [
-          "1600 Medical Parkway"
-        ],
-        "city": "Carson City",
-        "state": "NV",
-        "postalCode": "89703-4624"
-      },
-      {
-        "line": [
-          "1600 Medical Parkway"
-        ],
-        "city": "CARSON CITY",
-        "state": "NV",
-        "postalCode": "89703-4624"
-      },
-      {
-        "line": [
-          "8401 Market Street"
-        ],
-        "city": "YOUNGSTOWN",
-        "state": "OH",
-        "postalCode": "44512-6777"
-      },
       {
         "line": [
           "100 Hospital Road"
@@ -101,6 +61,22 @@
         "city": "PRINCE FREDERICK",
         "state": "MD",
         "postalCode": "20678-7649"
+      },
+      {
+        "line": [
+          "525 East Market Street"
+        ],
+        "city": "AKRON",
+        "state": "OH",
+        "postalCode": "44304-1619"
+      },
+      {
+        "line": [
+          "4700 Quinn Dr"
+        ],
+        "city": "LOUISVILLE",
+        "state": "KY",
+        "postalCode": "40216-2943"
       },
       {
         "line": [
@@ -113,11 +89,11 @@
       },
       {
         "line": [
-          "525 East Market Street"
+          "200 Memorial Avenue"
         ],
-        "city": "AKRON",
-        "state": "OH",
-        "postalCode": "44304-1619"
+        "city": "WESTMINSTER",
+        "state": "MD",
+        "postalCode": "21157-5726"
       },
       {
         "line": [
@@ -129,38 +105,6 @@
       },
       {
         "line": [
-          "4700 Quinn Dr"
-        ],
-        "city": "LOUISVILLE",
-        "state": "KY",
-        "postalCode": "40216-2943"
-      },
-      {
-        "line": [
-          "8700 Sudley Rd"
-        ],
-        "city": "MANASSAS",
-        "state": "VA",
-        "postalCode": "20110-4418"
-      },
-      {
-        "line": [
-          "200 Memorial Avenue"
-        ],
-        "city": "WESTMINSTER",
-        "state": "MD",
-        "postalCode": "21157-5726"
-      },
-      {
-        "line": [
-          "200 Memorial Ave"
-        ],
-        "city": "WESTMINSTER",
-        "state": "MD",
-        "postalCode": "21157-5726"
-      },
-      {
-        "line": [
           "1025 Center St"
         ],
         "city": "ASHLAND",
@@ -169,35 +113,19 @@
       },
       {
         "line": [
-          "501 Sunset Lane"
+          "24440 Stone Springs Blvd"
         ],
-        "city": "CULPEPER",
+        "city": "DULLES",
         "state": "VA",
-        "postalCode": "22701-3917"
+        "postalCode": "20166-2247"
       },
       {
         "line": [
-          "5825 Harrison Boulevard"
+          "1600 Medical Parkway"
         ],
-        "city": "OGDEN",
-        "state": "UT",
-        "postalCode": "84403-4316"
-      },
-      {
-        "line": [
-          "3580 West 9000 South"
-        ],
-        "city": "WEST JORDAN",
-        "state": "UT",
-        "postalCode": "84088-8812"
-      },
-      {
-        "line": [
-          "5 Garrett Ave"
-        ],
-        "city": "LA PLATA",
-        "state": "MD",
-        "postalCode": "20646-5960"
+        "city": "CARSON CITY",
+        "state": "NV",
+        "postalCode": "89703-4625"
       },
       {
         "line": [
@@ -209,11 +137,83 @@
       },
       {
         "line": [
+          "501 Sunset Lane"
+        ],
+        "city": "CULPEPER",
+        "state": "VA",
+        "postalCode": "22701-3917"
+      },
+      {
+        "line": [
+          "8700 Sudley Rd"
+        ],
+        "city": "MANASSAS",
+        "state": "VA",
+        "postalCode": "20110-4418"
+      },
+      {
+        "line": [
+          "200 Memorial Ave"
+        ],
+        "city": "WESTMINSTER",
+        "state": "MD",
+        "postalCode": "21157-5726"
+      },
+      {
+        "line": [
+          "5 Garrett Ave"
+        ],
+        "city": "LA PLATA",
+        "state": "MD",
+        "postalCode": "20646-5960"
+      },
+      {
+        "line": [
+          "8401 Market Street"
+        ],
+        "city": "YOUNGSTOWN",
+        "state": "OH",
+        "postalCode": "44512-6777"
+      },
+      {
+        "line": [
+          "1600 Medical Parkway"
+        ],
+        "city": "Carson City",
+        "state": "NV",
+        "postalCode": "89703-4624"
+      },
+      {
+        "line": [
+          "444 North Main Street"
+        ],
+        "city": "AKRON",
+        "state": "OH",
+        "postalCode": "44310-3110"
+      },
+      {
+        "line": [
+          "5825 Harrison Boulevard"
+        ],
+        "city": "OGDEN",
+        "state": "UT",
+        "postalCode": "84403-4316"
+      },
+      {
+        "line": [
           "1600 Medical Parkway"
         ],
         "city": "CARSON CITY",
         "state": "NV",
-        "postalCode": "89703-4625"
+        "postalCode": "89703-4624"
+      },
+      {
+        "line": [
+          "3580 West 9000 South"
+        ],
+        "city": "WEST JORDAN",
+        "state": "UT",
+        "postalCode": "84088-8812"
       }
     ],
     "extension": [

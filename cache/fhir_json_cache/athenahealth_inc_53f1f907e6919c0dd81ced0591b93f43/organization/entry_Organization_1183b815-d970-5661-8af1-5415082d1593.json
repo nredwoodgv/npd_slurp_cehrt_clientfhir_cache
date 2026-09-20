@@ -14,35 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669801585"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,23 +26,43 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962602300"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053373951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215348487"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750302923"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881656247"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215999511"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1114235918"
       }
     ],
     "address": [
       {
         "line": [
-          "114 Swift St"
+          "605 E San Antonio, Ste 410E"
         ],
-        "city": "REFUGIO",
-        "state": "TX",
-        "postalCode": "78377-2426"
-      },
-      {
-        "line": [
-          "605 E. San Antonio, Ste 410E"
-        ],
-        "city": "Victoria",
+        "city": "VICTORIA",
         "state": "TX",
         "postalCode": "77901-6061"
       },
@@ -84,19 +76,27 @@
       },
       {
         "line": [
-          "605 E San Antonio, Ste 410E"
-        ],
-        "city": "VICTORIA",
-        "state": "TX",
-        "postalCode": "77901-6061"
-      },
-      {
-        "line": [
           "1406 E. Houston St."
         ],
         "city": "BEEVILLE",
         "state": "TX",
         "postalCode": "78102-5346"
+      },
+      {
+        "line": [
+          "605 E. San Antonio, Ste 410E"
+        ],
+        "city": "Victoria",
+        "state": "TX",
+        "postalCode": "77901-6061"
+      },
+      {
+        "line": [
+          "114 Swift St"
+        ],
+        "city": "REFUGIO",
+        "state": "TX",
+        "postalCode": "78377-2426"
       }
     ],
     "extension": [

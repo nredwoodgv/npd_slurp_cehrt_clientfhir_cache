@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093253205"
+        "value": "1427597111"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922547793"
+        "value": "1821537697"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -27,6 +27,18 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1194263087"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1851830541"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861930976"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114466802"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,7 +54,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861930976"
+        "value": "1922547793"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578002341"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,34 +70,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821537697"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114466802"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578002341"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427597111"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1851830541"
+        "value": "1093253205"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1781 TATE BLVD SE STE 201"
-        ],
-        "city": "HICKORY",
-        "state": "NC",
-        "postalCode": "28602-4252"
-      },
       {
         "line": [
           "420 N CENTER ST"
@@ -89,6 +81,14 @@
         "city": "HICKORY",
         "state": "NC",
         "postalCode": "28601-5033"
+      },
+      {
+        "line": [
+          "1781 TATE BLVD SE STE 201"
+        ],
+        "city": "HICKORY",
+        "state": "NC",
+        "postalCode": "28602-4252"
       }
     ],
     "extension": [

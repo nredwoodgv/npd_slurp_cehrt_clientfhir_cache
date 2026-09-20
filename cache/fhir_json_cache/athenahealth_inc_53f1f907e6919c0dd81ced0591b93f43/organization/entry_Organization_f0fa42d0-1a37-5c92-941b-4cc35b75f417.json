@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1851500979"
+        "value": "1659581692"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,18 +22,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659581692"
+        "value": "1851500979"
       }
     ],
     "address": [
-      {
-        "line": [
-          "150 EMORY STREET"
-        ],
-        "city": "ATTLEBORO",
-        "state": "MA",
-        "postalCode": "02703-2439"
-      },
       {
         "line": [
           "288 Groveland St"
@@ -41,6 +33,14 @@
         "city": "HAVERHILL",
         "state": "MA",
         "postalCode": "01830-6669"
+      },
+      {
+        "line": [
+          "150 EMORY STREET"
+        ],
+        "city": "ATTLEBORO",
+        "state": "MA",
+        "postalCode": "02703-2439"
       }
     ],
     "extension": [

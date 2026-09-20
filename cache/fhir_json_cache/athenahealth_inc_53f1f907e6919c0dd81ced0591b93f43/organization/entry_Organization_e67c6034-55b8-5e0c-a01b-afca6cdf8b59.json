@@ -14,11 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699392589"
+        "value": "1497986764"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1821370891"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720360795"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1699392589"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,19 +38,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497986764"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285916254"
       },
       {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720360795"
-      },
-      {
         "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "19D0718564"
+        "value": "19D2031977"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
@@ -50,13 +50,13 @@
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "19D2031977"
+        "value": "19D0718564"
       }
     ],
     "address": [
       {
         "line": [
-          "1 MEDICAL PLAZA"
+          "1 Medical Plaza Pl"
         ],
         "city": "MINDEN",
         "state": "LA",
@@ -80,6 +80,14 @@
       },
       {
         "line": [
+          "2540 Beene Blvd"
+        ],
+        "city": "BOSSIER CITY",
+        "state": "LA",
+        "postalCode": "71111-2463"
+      },
+      {
+        "line": [
           "#2 Medical Plaza"
         ],
         "city": "MINDEN",
@@ -88,7 +96,7 @@
       },
       {
         "line": [
-          "1 Medical Plaza Pl"
+          "1 MEDICAL PLAZA"
         ],
         "city": "MINDEN",
         "state": "LA",
@@ -105,11 +113,12 @@
       },
       {
         "line": [
-          "2540 Beene Blvd"
+          "101 Murrell Street",
+          "Suite 1"
         ],
-        "city": "BOSSIER CITY",
+        "city": "MINDEN",
         "state": "LA",
-        "postalCode": "71111-2463"
+        "postalCode": "71055-3169"
       },
       {
         "line": [
@@ -126,15 +135,6 @@
         "city": "MINDEN",
         "state": "LA",
         "postalCode": "71055-3330"
-      },
-      {
-        "line": [
-          "101 Murrell Street",
-          "Suite 1"
-        ],
-        "city": "MINDEN",
-        "state": "LA",
-        "postalCode": "71055-3169"
       }
     ],
     "extension": [

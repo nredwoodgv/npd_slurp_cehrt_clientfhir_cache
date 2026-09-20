@@ -14,64 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861082117"
+        "value": "1487126124"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487126124"
+        "value": "1861082117"
       }
     ],
     "address": [
       {
         "line": [
-          "750 W Hampden Ave",
-          "Suite 110"
-        ],
-        "city": "ENGLEWOOD",
-        "state": "CO",
-        "postalCode": "80110-2165"
-      },
-      {
-        "line": [
-          "755 S Colorado Blvd"
-        ],
-        "city": "DENVER",
-        "state": "CO",
-        "postalCode": "80246-8005"
-      },
-      {
-        "line": [
-          "18320 Cottonwood Dr",
-          "Suite C"
-        ],
-        "city": "PARKER",
-        "state": "CO",
-        "postalCode": "80138-8822"
-      },
-      {
-        "line": [
-          "209 W COUNTY LINE RD"
-        ],
-        "city": "LITTLETON",
-        "state": "CO",
-        "postalCode": "80129-1901"
-      },
-      {
-        "line": [
-          "509 N Sable Blvd"
+          "1421 S POTOMAC ST",
+          "STE 240"
         ],
         "city": "AURORA",
         "state": "CO",
-        "postalCode": "80011-0801"
-      },
-      {
-        "line": [
-          "730 SUMMIT BLVD",
-          "SUITE 101"
-        ],
-        "city": "FRISCO",
-        "state": "CO",
-        "postalCode": "80443-4250"
+        "postalCode": "80012-4512"
       },
       {
         "line": [
@@ -84,21 +42,45 @@
       },
       {
         "line": [
-          "1421 S POTOMAC ST",
-          "STE 240"
+          "209 W COUNTY LINE RD"
         ],
-        "city": "AURORA",
+        "city": "LITTLETON",
         "state": "CO",
-        "postalCode": "80012-4512"
+        "postalCode": "80129-1901"
       },
       {
         "line": [
-          "1750 Pierce Street",
+          "4348 Woodlands Blvd",
+          "Suite 131"
+        ],
+        "city": "CASTLE ROCK",
+        "state": "CO",
+        "postalCode": "80104-2814"
+      },
+      {
+        "line": [
+          "1411 S Potomac Street"
+        ],
+        "city": "AURORA",
+        "state": "CO",
+        "postalCode": "80012-4536"
+      },
+      {
+        "line": [
+          "18320 Cottonwood Dr",
           "Suite C"
         ],
-        "city": "DENVER",
+        "city": "PARKER",
         "state": "CO",
-        "postalCode": "80214-1434"
+        "postalCode": "80138-8822"
+      },
+      {
+        "line": [
+          "4352 Trail Boss Drive"
+        ],
+        "city": "CASTLE ROCK",
+        "state": "CO",
+        "postalCode": "80104-2814"
       },
       {
         "line": [
@@ -120,12 +102,12 @@
       },
       {
         "line": [
-          "4348 Woodlands Blvd",
-          "Suite 131"
+          "9777 South Yosemite Street",
+          "Suite 110"
         ],
-        "city": "CASTLE ROCK",
+        "city": "LONE TREE",
         "state": "CO",
-        "postalCode": "80104-2814"
+        "postalCode": "80124-3191"
       },
       {
         "line": [
@@ -138,21 +120,12 @@
       },
       {
         "line": [
-          "9777 South Yosemite Street",
-          "Suite 110"
+          "730 SUMMIT BLVD",
+          "SUITE 101"
         ],
-        "city": "LONE TREE",
+        "city": "FRISCO",
         "state": "CO",
-        "postalCode": "80124-3191"
-      },
-      {
-        "line": [
-          "10371 S Parkglenn Way",
-          "Suite 180"
-        ],
-        "city": "PARKER",
-        "state": "CO",
-        "postalCode": "80138-3871"
+        "postalCode": "80443-4250"
       },
       {
         "line": [
@@ -165,20 +138,46 @@
       },
       {
         "line": [
-          "7606 E 36th Ave",
-          "Bldg 701"
+          "10371 S Parkglenn Way",
+          "Suite 180"
         ],
-        "city": "DENVER",
+        "city": "PARKER",
         "state": "CO",
-        "postalCode": "80238-2476"
+        "postalCode": "80138-3871"
       },
       {
         "line": [
-          "4352 Trail Boss Drive"
+          "750 W Hampden Ave",
+          "Suite 110"
         ],
-        "city": "CASTLE ROCK",
+        "city": "ENGLEWOOD",
         "state": "CO",
-        "postalCode": "80104-2814"
+        "postalCode": "80110-2165"
+      },
+      {
+        "line": [
+          "1750 Pierce Street",
+          "Suite C"
+        ],
+        "city": "DENVER",
+        "state": "CO",
+        "postalCode": "80214-1434"
+      },
+      {
+        "line": [
+          "755 S Colorado Blvd"
+        ],
+        "city": "DENVER",
+        "state": "CO",
+        "postalCode": "80246-8005"
+      },
+      {
+        "line": [
+          "509 N Sable Blvd"
+        ],
+        "city": "AURORA",
+        "state": "CO",
+        "postalCode": "80011-0801"
       },
       {
         "line": [
@@ -191,11 +190,12 @@
       },
       {
         "line": [
-          "1411 S Potomac Street"
+          "7606 E 36th Ave",
+          "Bldg 701"
         ],
-        "city": "AURORA",
+        "city": "DENVER",
         "state": "CO",
-        "postalCode": "80012-4536"
+        "postalCode": "80238-2476"
       }
     ],
     "extension": [

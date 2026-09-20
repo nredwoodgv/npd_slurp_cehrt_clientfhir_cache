@@ -14,19 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992454243"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1568065233"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457365132"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447285390"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,30 +22,33 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962140962"
+        "value": "1992454243"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457365132"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1336167196"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962140962"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447285390"
       }
     ],
     "address": [
       {
         "line": [
-          "601 West Blvd"
+          "631 Bessemer Superhwy"
         ],
         "city": "BIRMINGHAM",
         "state": "AL",
-        "postalCode": "35206-1300"
-      },
-      {
-        "line": [
-          "1400 6TH AVE S",
-          "Mobile Unit"
-        ],
-        "city": "BIRMINGHAM",
-        "state": "AL",
-        "postalCode": "35233-1502"
+        "postalCode": "35228-3108"
       },
       {
         "line": [
@@ -69,19 +60,11 @@
       },
       {
         "line": [
-          "1400 Sixth Ave South"
+          "601 West Blvd"
         ],
         "city": "BIRMINGHAM",
         "state": "AL",
-        "postalCode": "35233-1502"
-      },
-      {
-        "line": [
-          "631 Bessemer Superhwy"
-        ],
-        "city": "BIRMINGHAM",
-        "state": "AL",
-        "postalCode": "35228-3108"
+        "postalCode": "35206-1300"
       },
       {
         "line": [
@@ -93,7 +76,23 @@
       },
       {
         "line": [
-          "1400 6th Ave S"
+          "631 BESSEMER SUPER HWY"
+        ],
+        "city": "BIRMINGHAM",
+        "state": "AL",
+        "postalCode": "35228-3013"
+      },
+      {
+        "line": [
+          "1400 Sixth Ave South"
+        ],
+        "city": "BIRMINGHAM",
+        "state": "AL",
+        "postalCode": "35233-1502"
+      },
+      {
+        "line": [
+          "1400 6th Avenue South"
         ],
         "city": "BIRMINGHAM",
         "state": "AL",
@@ -109,15 +108,7 @@
       },
       {
         "line": [
-          "631 BESSEMER SUPER HWY"
-        ],
-        "city": "BIRMINGHAM",
-        "state": "AL",
-        "postalCode": "35228-3013"
-      },
-      {
-        "line": [
-          "1400 6th Avenue South"
+          "1400 6TH AVE S"
         ],
         "city": "BIRMINGHAM",
         "state": "AL",
@@ -125,7 +116,16 @@
       },
       {
         "line": [
-          "1400 6TH AVE S"
+          "1400 6TH AVE S",
+          "Mobile Unit"
+        ],
+        "city": "BIRMINGHAM",
+        "state": "AL",
+        "postalCode": "35233-1502"
+      },
+      {
+        "line": [
+          "1400 6th Ave S"
         ],
         "city": "BIRMINGHAM",
         "state": "AL",

@@ -14,29 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336380518"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1982845160"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619118890"
+        "value": "1336380518"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1053326892"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619118890"
       }
     ],
     "address": [
       {
         "line": [
-          "11449 Olive Blvd."
+          "1726 Clarkson Road"
         ],
-        "city": "SAINT LOUIS",
+        "city": "CHESTERFIELD",
         "state": "MO",
-        "postalCode": "63141-7108"
+        "postalCode": "63017-4976"
       },
       {
         "line": [
@@ -48,22 +48,6 @@
       },
       {
         "line": [
-          "1726 Clarkson Road"
-        ],
-        "city": "CHESTERFIELD",
-        "state": "MO",
-        "postalCode": "63017-4976"
-      },
-      {
-        "line": [
-          "1393A Big Bend Blvd"
-        ],
-        "city": "BALLWIN",
-        "state": "MO",
-        "postalCode": "63021-7601"
-      },
-      {
-        "line": [
           "203 Salt Lick Rd"
         ],
         "city": "SAINT PETERS",
@@ -72,11 +56,27 @@
       },
       {
         "line": [
+          "11449 Olive Blvd."
+        ],
+        "city": "SAINT LOUIS",
+        "state": "MO",
+        "postalCode": "63141-7108"
+      },
+      {
+        "line": [
           "8534 Eager Rd."
         ],
         "city": "SAINT LOUIS",
         "state": "MO",
         "postalCode": "63144-1435"
+      },
+      {
+        "line": [
+          "1393A Big Bend Blvd"
+        ],
+        "city": "BALLWIN",
+        "state": "MO",
+        "postalCode": "63021-7601"
       }
     ],
     "extension": [

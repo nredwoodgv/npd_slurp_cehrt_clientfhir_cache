@@ -14,22 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255378139"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174537500"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942317631"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902979081"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1114133485"
       },
       {
@@ -38,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376644922"
+        "value": "1942317631"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,7 +30,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629272968"
+        "value": "1255378139"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376644922"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902979081"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -55,17 +47,17 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1366515496"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629272968"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174537500"
       }
     ],
     "address": [
-      {
-        "line": [
-          "21000 12 Mile Rd"
-        ],
-        "city": "SAINT CLAIR SHORES",
-        "state": "MI",
-        "postalCode": "48081-1116"
-      },
       {
         "line": [
           "21000 12 MILE RD"
@@ -73,6 +65,14 @@
         "city": "SAINT CLAIR SHORES",
         "state": "MI",
         "postalCode": "48081-1184"
+      },
+      {
+        "line": [
+          "21000 12 Mile Rd"
+        ],
+        "city": "SAINT CLAIR SHORES",
+        "state": "MI",
+        "postalCode": "48081-1116"
       },
       {
         "line": [

@@ -18,11 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811578438"
+        "value": "1578123428"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578123428"
+        "value": "1811578438"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,11 +32,11 @@
     "address": [
       {
         "line": [
-          "15400 TRENTON RD"
+          "25330 W 6 MILE RD"
         ],
-        "city": "SOUTHGATE",
+        "city": "REDFORD",
         "state": "MI",
-        "postalCode": "48195-2075"
+        "postalCode": "48240-2105"
       },
       {
         "line": [
@@ -48,11 +48,19 @@
       },
       {
         "line": [
-          "4427 VENOY RD"
+          "1375 N MAIN ST"
         ],
-        "city": "WAYNE",
+        "city": "LAPEER",
         "state": "MI",
-        "postalCode": "48184-1871"
+        "postalCode": "48446-1350"
+      },
+      {
+        "line": [
+          "5202 MILLER RD"
+        ],
+        "city": "FLINT",
+        "state": "MI",
+        "postalCode": "48507-1040"
       },
       {
         "line": [
@@ -72,27 +80,19 @@
       },
       {
         "line": [
-          "1375 N MAIN ST"
+          "4130 Shrestha Dr"
         ],
-        "city": "LAPEER",
+        "city": "BAY CITY",
         "state": "MI",
-        "postalCode": "48446-1350"
+        "postalCode": "48706-2184"
       },
       {
         "line": [
-          "25330 W 6 MILE RD"
+          "4427 VENOY RD"
         ],
-        "city": "REDFORD",
+        "city": "WAYNE",
         "state": "MI",
-        "postalCode": "48240-2105"
-      },
-      {
-        "line": [
-          "401 N HOOPER ST"
-        ],
-        "city": "CARO",
-        "state": "MI",
-        "postalCode": "48723-1476"
+        "postalCode": "48184-1871"
       },
       {
         "line": [
@@ -112,27 +112,19 @@
       },
       {
         "line": [
-          "4130 Shrestha Dr"
+          "401 N HOOPER ST"
         ],
-        "city": "BAY CITY",
+        "city": "CARO",
         "state": "MI",
-        "postalCode": "48706-2184"
+        "postalCode": "48723-1476"
       },
       {
         "line": [
-          "5202 MILLER RD"
+          "15400 TRENTON RD"
         ],
-        "city": "FLINT",
+        "city": "SOUTHGATE",
         "state": "MI",
-        "postalCode": "48507-1040"
-      },
-      {
-        "line": [
-          "1187 South Lapeer Rd"
-        ],
-        "city": "LAPEER",
-        "state": "MI",
-        "postalCode": "48446-3081"
+        "postalCode": "48195-2075"
       },
       {
         "line": [
@@ -141,6 +133,14 @@
         "city": "SAGINAW",
         "state": "MI",
         "postalCode": "48604-2804"
+      },
+      {
+        "line": [
+          "1187 South Lapeer Rd"
+        ],
+        "city": "LAPEER",
+        "state": "MI",
+        "postalCode": "48446-3081"
       }
     ],
     "extension": [

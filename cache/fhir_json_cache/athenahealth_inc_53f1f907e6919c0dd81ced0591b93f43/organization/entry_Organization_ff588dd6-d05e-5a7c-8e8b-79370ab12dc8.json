@@ -14,21 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649324278"
+        "value": "1770988990"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770988990"
+        "value": "1649324278"
       }
     ],
     "address": [
       {
         "line": [
-          "5595 SE GROUPER AVE"
+          "8100 N LOOP DR",
+          "STE C307"
         ],
-        "city": "STUART",
-        "state": "FL",
-        "postalCode": "34997-3203"
+        "city": "EL PASO",
+        "state": "TX",
+        "postalCode": "79907-0006"
       },
       {
         "line": [
@@ -37,6 +38,14 @@
         "city": "Coral Springs",
         "state": "FL",
         "postalCode": "33071-6132"
+      },
+      {
+        "line": [
+          "5595 SE GROUPER AVE"
+        ],
+        "city": "STUART",
+        "state": "FL",
+        "postalCode": "34997-3203"
       },
       {
         "line": [
@@ -49,12 +58,11 @@
       },
       {
         "line": [
-          "8100 N LOOP DR",
-          "STE C307"
+          "6101 BLUE LAGOON DR STE 200"
         ],
-        "city": "EL PASO",
-        "state": "TX",
-        "postalCode": "79907-0006"
+        "city": "MIAMI",
+        "state": "FL",
+        "postalCode": "33126-3168"
       },
       {
         "line": [
@@ -66,11 +74,12 @@
       },
       {
         "line": [
-          "6101 BLUE LAGOON DR STE 200"
+          "8150 ROYAL PALM BLVD",
+          "STE 101"
         ],
-        "city": "MIAMI",
+        "city": "Coral Springs",
         "state": "FL",
-        "postalCode": "33126-3168"
+        "postalCode": "33065-5704"
       }
     ],
     "extension": [

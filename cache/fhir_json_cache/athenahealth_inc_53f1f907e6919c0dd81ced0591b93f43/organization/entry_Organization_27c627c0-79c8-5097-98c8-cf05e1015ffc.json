@@ -14,39 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437636636"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154718070"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1548837503"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831375740"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083794184"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942840699"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689106908"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679963912"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821292582"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710017017"
+        "value": "1821292582"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,7 +30,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982238192"
+        "value": "1326622747"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689106908"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437636636"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -70,7 +46,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548407828"
+        "value": "1750752580"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -78,7 +54,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811090624"
+        "value": "1871045815"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -86,11 +62,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1679963912"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154718070"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1659823680"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326622747"
+        "value": "1083794184"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -98,7 +82,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811090624"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1982238192"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1407386501"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831375740"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1942840699"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1710017017"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -110,41 +114,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750752580"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871045815"
+        "value": "1548407828"
       }
     ],
     "address": [
       {
         "line": [
-          "1401 AVOCADO AVE STE 403"
+          "8010 TOWERS CRESCENT DR FL 5"
         ],
-        "city": "NEWPORT BEACH",
-        "state": "CA",
-        "postalCode": "92660-8725"
+        "city": "VIENNA",
+        "state": "VA",
+        "postalCode": "22182-2710"
       },
       {
         "line": [
-          "4735 OGLETOWN STANTON RD STE 3217 # MAP2"
-        ],
-        "city": "NEWARK",
-        "state": "DE",
-        "postalCode": "19713-2094"
-      },
-      {
-        "line": [
-          "300 BOYLSTON ST STE 300"
-        ],
-        "city": "CHESTNUT HILL",
-        "state": "MA",
-        "postalCode": "02467-1976"
-      },
-      {
-        "line": [
-          "94 OLD SHORT HILLS RD STE 403E"
+          "94 Old Short Hills Rd",
+          "Suite 403E, East Wing"
         ],
         "city": "LIVINGSTON",
         "state": "NJ",
@@ -152,11 +137,35 @@
       },
       {
         "line": [
-          "8380 WARREN PKWY STE 201"
+          "5301 SOUTHWEST PKWY STE 350"
         ],
-        "city": "FRISCO",
+        "city": "Austin",
         "state": "TX",
-        "postalCode": "75034-4199"
+        "postalCode": "78735-8985"
+      },
+      {
+        "line": [
+          "19505 Biscayne Blvd"
+        ],
+        "city": "MIAMI",
+        "state": "FL",
+        "postalCode": "33180-2314"
+      },
+      {
+        "line": [
+          "6565 FRANCE AVE S STE 400A"
+        ],
+        "city": "EDINA",
+        "state": "MN",
+        "postalCode": "55435-2141"
+      },
+      {
+        "line": [
+          "6565 France Avenue South"
+        ],
+        "city": "MINNEAPOLIS",
+        "state": "MN",
+        "postalCode": "55435-2137"
       },
       {
         "line": [
@@ -168,11 +177,28 @@
       },
       {
         "line": [
-          "8010 TOWERS CRESCENT DR FL 5"
+          "400 northridge rd",
+          "#500"
         ],
-        "city": "VIENNA",
-        "state": "VA",
-        "postalCode": "22182-2710"
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30350-3312"
+      },
+      {
+        "line": [
+          "300 BOYLSTON ST STE 300"
+        ],
+        "city": "CHESTNUT HILL",
+        "state": "MA",
+        "postalCode": "02467-1976"
+      },
+      {
+        "line": [
+          "19505 BISCAYNE BLVD"
+        ],
+        "city": "MIAMI",
+        "state": "FL",
+        "postalCode": "33180-2314"
       },
       {
         "line": [
@@ -184,11 +210,96 @@
       },
       {
         "line": [
-          "19505 BISCAYNE BLVD"
+          "1060 MARSH RD FL 1"
         ],
-        "city": "MIAMI",
-        "state": "FL",
-        "postalCode": "33180-2314"
+        "city": "MENLO PARK",
+        "state": "CA",
+        "postalCode": "94025-1964"
+      },
+      {
+        "line": [
+          "4735 Ogletown Rd",
+          "#3217"
+        ],
+        "city": "NEWARK",
+        "state": "DE",
+        "postalCode": "19713-2072"
+      },
+      {
+        "line": [
+          "94 OLD SHORT HILLS RD STE 403E"
+        ],
+        "city": "LIVINGSTON",
+        "state": "NJ",
+        "postalCode": "07039-5672"
+      },
+      {
+        "line": [
+          "400 Northridge rd",
+          "#500"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30350-3312"
+      },
+      {
+        "line": [
+          "448 VIKING DR STE 100"
+        ],
+        "city": "VIRGINIA BEACH",
+        "state": "VA",
+        "postalCode": "23452-7331"
+      },
+      {
+        "line": [
+          "7400 FANNIN ST",
+          "Suite 910"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77054-1921"
+      },
+      {
+        "line": [
+          "400 Northridge Rd",
+          "#500"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30350-3312"
+      },
+      {
+        "line": [
+          "10290 RIDGEGATE CIR"
+        ],
+        "city": "LONE TREE",
+        "state": "CO",
+        "postalCode": "80124-5331"
+      },
+      {
+        "line": [
+          "300 BOYLSTON STREET",
+          "Suite 300"
+        ],
+        "city": "Newton Center",
+        "state": "MA",
+        "postalCode": "02459-1959"
+      },
+      {
+        "line": [
+          "120 OSLER STE 100"
+        ],
+        "city": "NAPERVILLE",
+        "state": "IL",
+        "postalCode": "60540-7429"
+      },
+      {
+        "line": [
+          "5909 PEACHTREE DUNWOODY RD STE 600"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30328-8101"
       },
       {
         "line": [
@@ -208,62 +319,35 @@
       },
       {
         "line": [
-          "448 VIKING DR STE 100"
+          "1401 AVOCADO AVE STE 403"
         ],
-        "city": "VIRGINIA BEACH",
-        "state": "VA",
-        "postalCode": "23452-7331"
+        "city": "NEWPORT BEACH",
+        "state": "CA",
+        "postalCode": "92660-8725"
       },
       {
         "line": [
-          "10290 RIDGEGATE CIR"
+          "929 GESSNER RD STE 2300"
         ],
-        "city": "LONE TREE",
-        "state": "CO",
-        "postalCode": "80124-5331"
-      },
-      {
-        "line": [
-          "400 Northridge Rd",
-          "#500"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30350-3312"
-      },
-      {
-        "line": [
-          "400 northridge rd",
-          "#500"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30350-3312"
-      },
-      {
-        "line": [
-          "5301 SOUTHWEST PKWY STE 350"
-        ],
-        "city": "Austin",
+        "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "78735-8985"
+        "postalCode": "77024-2585"
       },
       {
         "line": [
-          "300 BOYLSTON STREET",
-          "Suite 300"
+          "8380 WARREN PKWY STE 201"
         ],
-        "city": "Newton Center",
-        "state": "MA",
-        "postalCode": "02459-1959"
+        "city": "FRISCO",
+        "state": "TX",
+        "postalCode": "75034-4199"
       },
       {
         "line": [
-          "19505 Biscayne Blvd"
+          "1060 MARSH ROAD"
         ],
-        "city": "MIAMI",
-        "state": "FL",
-        "postalCode": "33180-2314"
+        "city": "MENLO PARK",
+        "state": "CA",
+        "postalCode": "94025-1020"
       },
       {
         "line": [
@@ -276,36 +360,12 @@
       },
       {
         "line": [
-          "929 GESSNER RD STE 2300"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77024-2585"
-      },
-      {
-        "line": [
           "400 Northridge rd",
-          "#500"
+          "ste 500"
         ],
         "city": "ATLANTA",
         "state": "GA",
         "postalCode": "30350-3312"
-      },
-      {
-        "line": [
-          "1060 MARSH RD FL 1"
-        ],
-        "city": "MENLO PARK",
-        "state": "CA",
-        "postalCode": "94025-1964"
-      },
-      {
-        "line": [
-          "120 OSLER STE 100"
-        ],
-        "city": "NAPERVILLE",
-        "state": "IL",
-        "postalCode": "60540-7429"
       },
       {
         "line": [
@@ -318,71 +378,11 @@
       },
       {
         "line": [
-          "5909 PEACHTREE DUNWOODY RD STE 600"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30328-8101"
-      },
-      {
-        "line": [
-          "94 Old Short Hills Rd",
-          "Suite 403E, East Wing"
-        ],
-        "city": "LIVINGSTON",
-        "state": "NJ",
-        "postalCode": "07039-5672"
-      },
-      {
-        "line": [
-          "6565 FRANCE AVE S STE 400A"
-        ],
-        "city": "EDINA",
-        "state": "MN",
-        "postalCode": "55435-2141"
-      },
-      {
-        "line": [
-          "4735 Ogletown Rd",
-          "#3217"
+          "4735 OGLETOWN STANTON RD STE 3217 # MAP2"
         ],
         "city": "NEWARK",
         "state": "DE",
-        "postalCode": "19713-2072"
-      },
-      {
-        "line": [
-          "6565 France Avenue South"
-        ],
-        "city": "MINNEAPOLIS",
-        "state": "MN",
-        "postalCode": "55435-2137"
-      },
-      {
-        "line": [
-          "7400 FANNIN ST",
-          "Suite 910"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77054-1921"
-      },
-      {
-        "line": [
-          "1060 MARSH ROAD"
-        ],
-        "city": "MENLO PARK",
-        "state": "CA",
-        "postalCode": "94025-1020"
-      },
-      {
-        "line": [
-          "400 Northridge rd",
-          "ste 500"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30350-3312"
+        "postalCode": "19713-2094"
       }
     ],
     "extension": [

@@ -14,25 +14,34 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548567498"
+        "value": "1386911006"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386911006"
+        "value": "1548567498"
       }
     ],
     "address": [
       {
         "line": [
-          "1600 West ave J"
+          "38600 Medical Center Dr."
         ],
-        "city": "LANCASTER",
+        "city": "PALMDALE",
         "state": "CA",
-        "postalCode": "93534-2814"
+        "postalCode": "93551-4483"
       },
       {
         "line": [
-          "1600 W Ave J"
+          "44215 15TH STREET WEST",
+          "Suite 209"
+        ],
+        "city": "LANCASTER",
+        "state": "CA",
+        "postalCode": "93534-5504"
+      },
+      {
+        "line": [
+          "1600 West ave J"
         ],
         "city": "LANCASTER",
         "state": "CA",
@@ -48,12 +57,11 @@
       },
       {
         "line": [
-          "44215 15TH STREET WEST",
-          "Suite 209"
+          "1600 W Ave J"
         ],
         "city": "LANCASTER",
         "state": "CA",
-        "postalCode": "93534-5504"
+        "postalCode": "93534-2814"
       },
       {
         "line": [
@@ -63,14 +71,6 @@
         "city": "LANCASTER",
         "state": "CA",
         "postalCode": "93534-5504"
-      },
-      {
-        "line": [
-          "38600 Medical Center Dr."
-        ],
-        "city": "PALMDALE",
-        "state": "CA",
-        "postalCode": "93551-4483"
       },
       {
         "line": [

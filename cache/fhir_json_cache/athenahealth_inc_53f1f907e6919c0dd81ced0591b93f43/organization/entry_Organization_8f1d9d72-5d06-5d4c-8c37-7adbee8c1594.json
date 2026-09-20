@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1851317911"
+        "value": "1588917660"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154686665"
+        "value": "1093459844"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,14 +34,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093459844"
+        "value": "1851317911"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588917660"
+        "value": "1154686665"
       }
     ],
     "address": [
+      {
+        "line": [
+          "119 Broadway Street"
+        ],
+        "city": "DELHI",
+        "state": "LA",
+        "postalCode": "71232-2903"
+      },
       {
         "line": [
           "294 LA-3048",
@@ -53,6 +61,14 @@
       },
       {
         "line": [
+          "508 Broadway Street"
+        ],
+        "city": "DELHI",
+        "state": "LA",
+        "postalCode": "71232-3002"
+      },
+      {
+        "line": [
           "508 BROADWAY ST"
         ],
         "city": "DELHI",
@@ -61,20 +77,11 @@
       },
       {
         "line": [
-          "119 Broadway Street"
+          "522 Main Street"
         ],
         "city": "DELHI",
         "state": "LA",
-        "postalCode": "71232-2903"
-      },
-      {
-        "line": [
-          "P O Box 803",
-          "307 Foster Street"
-        ],
-        "city": "RAYVILLE",
-        "state": "LA",
-        "postalCode": "71269-0874"
+        "postalCode": "71232-2538"
       },
       {
         "line": [
@@ -94,19 +101,12 @@
       },
       {
         "line": [
-          "522 Main Street"
+          "P O Box 803",
+          "307 Foster Street"
         ],
-        "city": "DELHI",
+        "city": "RAYVILLE",
         "state": "LA",
-        "postalCode": "71232-2538"
-      },
-      {
-        "line": [
-          "508 Broadway Street"
-        ],
-        "city": "DELHI",
-        "state": "LA",
-        "postalCode": "71232-3002"
+        "postalCode": "71269-0874"
       }
     ],
     "extension": [

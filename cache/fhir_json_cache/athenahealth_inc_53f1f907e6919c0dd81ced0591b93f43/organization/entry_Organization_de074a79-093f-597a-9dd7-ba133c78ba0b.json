@@ -22,26 +22,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689778961"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1265756563"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1720378144"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689778961"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3500 WASHINGTON ST"
-        ],
-        "city": "HOLLYWOOD",
-        "state": "FL",
-        "postalCode": "33021-8253"
-      },
       {
         "line": [
           "3600 WASHINGTON ST"
@@ -49,6 +41,14 @@
         "city": "HOLLYWOOD",
         "state": "FL",
         "postalCode": "33021-8216"
+      },
+      {
+        "line": [
+          "3500 WASHINGTON ST"
+        ],
+        "city": "HOLLYWOOD",
+        "state": "FL",
+        "postalCode": "33021-8253"
       }
     ],
     "extension": [

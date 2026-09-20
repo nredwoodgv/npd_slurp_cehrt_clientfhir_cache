@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730790551"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306363007"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1619494366"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1043261498"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,6 +30,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730790551"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962453308"
       },
       {
@@ -42,7 +42,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043261498"
+        "value": "1588180475"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,17 +50,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588180475"
+        "value": "1306363007"
       }
     ],
     "address": [
       {
         "line": [
-          "7720 US Hwy 98 W Ste 110"
+          "1545 Airport Blvd Ste 2000"
         ],
-        "city": "MIRAMAR BEACH",
+        "city": "PENSACOLA",
         "state": "FL",
-        "postalCode": "32550-7230"
+        "postalCode": "32504-8615"
       },
       {
         "line": [
@@ -72,19 +72,19 @@
       },
       {
         "line": [
+          "7720 US Hwy 98 W Ste 110"
+        ],
+        "city": "MIRAMAR BEACH",
+        "state": "FL",
+        "postalCode": "32550-7230"
+      },
+      {
+        "line": [
           "5151 North 9th Ave Ste 200"
         ],
         "city": "PENSACOLA",
         "state": "FL",
         "postalCode": "32504-8721"
-      },
-      {
-        "line": [
-          "1545 Airport Blvd Ste 2000"
-        ],
-        "city": "PENSACOLA",
-        "state": "FL",
-        "postalCode": "32504-8615"
       }
     ],
     "extension": [

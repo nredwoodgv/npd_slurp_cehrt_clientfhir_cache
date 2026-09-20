@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225461684"
+        "value": "1679902191"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679902191"
+        "value": "1225461684"
       }
     ],
     "address": [
-      {
-        "line": [
-          "18341 US HIGHWAY 41"
-        ],
-        "city": "LANSE",
-        "state": "MI",
-        "postalCode": "49946-8024"
-      },
-      {
-        "line": [
-          "921 W SHARON AVE"
-        ],
-        "city": "HOUGHTON",
-        "state": "MI",
-        "postalCode": "49931-1921"
-      },
       {
         "line": [
           "56720 CALUMET AVE"
@@ -45,6 +29,22 @@
         "city": "CALUMET",
         "state": "MI",
         "postalCode": "49913-1967"
+      },
+      {
+        "line": [
+          "751 S 7TH ST"
+        ],
+        "city": "ONTONAGON",
+        "state": "MI",
+        "postalCode": "49953-1450"
+      },
+      {
+        "line": [
+          "18341 US HIGHWAY 41"
+        ],
+        "city": "LANSE",
+        "state": "MI",
+        "postalCode": "49946-8024"
       },
       {
         "line": [
@@ -57,11 +57,11 @@
       },
       {
         "line": [
-          "751 S 7TH ST"
+          "921 W SHARON AVE"
         ],
-        "city": "ONTONAGON",
+        "city": "HOUGHTON",
         "state": "MI",
-        "postalCode": "49953-1450"
+        "postalCode": "49931-1921"
       }
     ],
     "extension": [

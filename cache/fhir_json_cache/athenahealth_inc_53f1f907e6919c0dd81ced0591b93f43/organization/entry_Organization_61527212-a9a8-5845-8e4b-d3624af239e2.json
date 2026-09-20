@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972983872"
+        "value": "1487310629"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487310629"
+        "value": "1972983872"
       }
     ],
     "address": [
-      {
-        "line": [
-          "12889 US HWY-98 W, STE 107B"
-        ],
-        "city": "MIRAMAR BEACH",
-        "state": "FL",
-        "postalCode": "32550-3244"
-      },
       {
         "line": [
           "5115 N. PALAFOX STREET"
@@ -54,6 +46,14 @@
         "city": "CHIPLEY",
         "state": "FL",
         "postalCode": "32428-2463"
+      },
+      {
+        "line": [
+          "12889 US HWY-98 W, STE 107B"
+        ],
+        "city": "MIRAMAR BEACH",
+        "state": "FL",
+        "postalCode": "32550-3244"
       }
     ],
     "extension": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528830163"
+        "value": "1750333936"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750333936"
+        "value": "1528830163"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,109 +26,29 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649042284"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1033981675"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457123960"
+        "value": "1649042284"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932971579"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457123960"
       }
     ],
     "address": [
       {
         "line": [
-          "1908 N 14 STREET STE 203"
+          "1908 N 14TH ST STE 206"
         ],
         "city": "PONCA CITY",
         "state": "OK",
         "postalCode": "74601-2039"
-      },
-      {
-        "line": [
-          "121 Patton Drive"
-        ],
-        "city": "PONCA CITY",
-        "state": "OK",
-        "postalCode": "74601-2030"
-      },
-      {
-        "line": [
-          "1908 N 14th Suite 204"
-        ],
-        "city": "PONCA CITY",
-        "state": "OK",
-        "postalCode": "74601-2039"
-      },
-      {
-        "line": [
-          "1021 OKLAHOMA AVE"
-        ],
-        "city": "WOODWARD",
-        "state": "OK",
-        "postalCode": "73801-4661"
-      },
-      {
-        "line": [
-          "502 MAIN ST"
-        ],
-        "city": "LEEDEY",
-        "state": "OK",
-        "postalCode": "73654-9998"
-      },
-      {
-        "line": [
-          "900 17TH ST"
-        ],
-        "city": "WOODWARD",
-        "state": "OK",
-        "postalCode": "73801-2912"
-      },
-      {
-        "line": [
-          "1109 DOWNS AVE"
-        ],
-        "city": "WOODWARD",
-        "state": "OK",
-        "postalCode": "73801-5707"
-      },
-      {
-        "line": [
-          "908 19TH STREET"
-        ],
-        "city": "WOODWARD",
-        "state": "OK",
-        "postalCode": "73801-2307"
-      },
-      {
-        "line": [
-          "1908 NORTH 14TH ST STE 205"
-        ],
-        "city": "PONCA CITY",
-        "state": "OK",
-        "postalCode": "74601-2039"
-      },
-      {
-        "line": [
-          "1900 N 14th"
-        ],
-        "city": "PONCA CITY",
-        "state": "OK",
-        "postalCode": "74601-2035"
-      },
-      {
-        "line": [
-          "301 N. Garrett"
-        ],
-        "city": "ELK CITY",
-        "state": "OK",
-        "postalCode": "73644-3113"
       },
       {
         "line": [
@@ -140,31 +60,7 @@
       },
       {
         "line": [
-          "900 17th St"
-        ],
-        "city": "WOODWARD",
-        "state": "OK",
-        "postalCode": "73801-2448"
-      },
-      {
-        "line": [
-          "1611 MAIN ST STE 102"
-        ],
-        "city": "WOODWARD",
-        "state": "OK",
-        "postalCode": "73801-3064"
-      },
-      {
-        "line": [
-          "1101 HILLCREST DRIVE"
-        ],
-        "city": "WOODWARD",
-        "state": "OK",
-        "postalCode": "73801-3027"
-      },
-      {
-        "line": [
-          "1908 N 14TH ST STE 206"
+          "1908 N 14TH ST STE 205"
         ],
         "city": "PONCA CITY",
         "state": "OK",
@@ -172,11 +68,27 @@
       },
       {
         "line": [
-          "1908 N 14TH ST STE 202"
+          "1908 NORTH 14TH ST STE 205"
         ],
         "city": "PONCA CITY",
         "state": "OK",
         "postalCode": "74601-2039"
+      },
+      {
+        "line": [
+          "1900 N 14TH ST"
+        ],
+        "city": "PONCA CITY",
+        "state": "OK",
+        "postalCode": "74601-2035"
+      },
+      {
+        "line": [
+          "1715 N 5th"
+        ],
+        "city": "PONCA CITY",
+        "state": "OK",
+        "postalCode": "74601-2763"
       },
       {
         "line": [
@@ -188,11 +100,43 @@
       },
       {
         "line": [
-          "502 MAIN STREET"
+          "1908 N 14th Suite 204"
         ],
-        "city": "LEEDEY",
+        "city": "PONCA CITY",
         "state": "OK",
-        "postalCode": "73654-9998"
+        "postalCode": "74601-2039"
+      },
+      {
+        "line": [
+          "1101 HILLCREST DRIVE"
+        ],
+        "city": "WOODWARD",
+        "state": "OK",
+        "postalCode": "73801-3027"
+      },
+      {
+        "line": [
+          "1818 KANSAS AVE"
+        ],
+        "city": "WOODWARD",
+        "state": "OK",
+        "postalCode": "73801-2912"
+      },
+      {
+        "line": [
+          "121 Patton Drive"
+        ],
+        "city": "PONCA CITY",
+        "state": "OK",
+        "postalCode": "74601-2030"
+      },
+      {
+        "line": [
+          "900 17th St"
+        ],
+        "city": "WOODWARD",
+        "state": "OK",
+        "postalCode": "73801-2448"
       },
       {
         "line": [
@@ -212,15 +156,95 @@
       },
       {
         "line": [
-          "619 SPECK PO BOX 119"
+          "301 GARRETT STREET"
         ],
-        "city": "VICI",
+        "city": "ELK CITY",
         "state": "OK",
-        "postalCode": "73859-0119"
+        "postalCode": "73644-3113"
       },
       {
         "line": [
-          "1900 N 14TH ST"
+          "1900 N 14TH STREET"
+        ],
+        "city": "PONCA CITY",
+        "state": "OK",
+        "postalCode": "74601-2035"
+      },
+      {
+        "line": [
+          "502 MAIN ST"
+        ],
+        "city": "LEEDEY",
+        "state": "OK",
+        "postalCode": "73654-9998"
+      },
+      {
+        "line": [
+          "1908 N 14TH ST STE 202"
+        ],
+        "city": "PONCA CITY",
+        "state": "OK",
+        "postalCode": "74601-2039"
+      },
+      {
+        "line": [
+          "1908 N 14TH STE 204"
+        ],
+        "city": "PONCA CITY",
+        "state": "OK",
+        "postalCode": "74601-2039"
+      },
+      {
+        "line": [
+          "1109 DOWNS AVE"
+        ],
+        "city": "WOODWARD",
+        "state": "OK",
+        "postalCode": "73801-5707"
+      },
+      {
+        "line": [
+          "900 17TH ST"
+        ],
+        "city": "WOODWARD",
+        "state": "OK",
+        "postalCode": "73801-2912"
+      },
+      {
+        "line": [
+          "1611 MAIN ST STE 102"
+        ],
+        "city": "WOODWARD",
+        "state": "OK",
+        "postalCode": "73801-3064"
+      },
+      {
+        "line": [
+          "502 Main Street"
+        ],
+        "city": "LEEDEY",
+        "state": "OK",
+        "postalCode": "73654-9998"
+      },
+      {
+        "line": [
+          "415 FAIRVIEW AVE STE 201"
+        ],
+        "city": "PONCA CITY",
+        "state": "OK",
+        "postalCode": "74601-1932"
+      },
+      {
+        "line": [
+          "301 N. Garrett"
+        ],
+        "city": "ELK CITY",
+        "state": "OK",
+        "postalCode": "73644-3113"
+      },
+      {
+        "line": [
+          "1900 N 14th"
         ],
         "city": "PONCA CITY",
         "state": "OK",
@@ -236,39 +260,7 @@
       },
       {
         "line": [
-          "301 GARRETT STREET"
-        ],
-        "city": "ELK CITY",
-        "state": "OK",
-        "postalCode": "73644-3113"
-      },
-      {
-        "line": [
-          "1818 KANSAS AVE"
-        ],
-        "city": "WOODWARD",
-        "state": "OK",
-        "postalCode": "73801-2912"
-      },
-      {
-        "line": [
-          "1715 N 5th"
-        ],
-        "city": "PONCA CITY",
-        "state": "OK",
-        "postalCode": "74601-2763"
-      },
-      {
-        "line": [
-          "1900 N 14TH STREET"
-        ],
-        "city": "PONCA CITY",
-        "state": "OK",
-        "postalCode": "74601-2035"
-      },
-      {
-        "line": [
-          "1908 N 14TH ST STE 205"
+          "1908 N 14 STREET STE 203"
         ],
         "city": "PONCA CITY",
         "state": "OK",
@@ -276,27 +268,35 @@
       },
       {
         "line": [
-          "415 FAIRVIEW AVE STE 201"
+          "619 SPECK PO BOX 119"
         ],
-        "city": "PONCA CITY",
+        "city": "VICI",
         "state": "OK",
-        "postalCode": "74601-1932"
+        "postalCode": "73859-0119"
       },
       {
         "line": [
-          "1908 N 14TH STE 204"
-        ],
-        "city": "PONCA CITY",
-        "state": "OK",
-        "postalCode": "74601-2039"
-      },
-      {
-        "line": [
-          "502 Main Street"
+          "502 MAIN STREET"
         ],
         "city": "LEEDEY",
         "state": "OK",
         "postalCode": "73654-9998"
+      },
+      {
+        "line": [
+          "908 19TH STREET"
+        ],
+        "city": "WOODWARD",
+        "state": "OK",
+        "postalCode": "73801-2307"
+      },
+      {
+        "line": [
+          "1021 OKLAHOMA AVE"
+        ],
+        "city": "WOODWARD",
+        "state": "OK",
+        "postalCode": "73801-4661"
       },
       {
         "line": [

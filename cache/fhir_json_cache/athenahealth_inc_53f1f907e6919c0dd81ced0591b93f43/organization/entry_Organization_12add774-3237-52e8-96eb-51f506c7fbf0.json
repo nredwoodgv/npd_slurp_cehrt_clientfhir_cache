@@ -14,39 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417987124"
+        "value": "1558344978"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558344978"
+        "value": "1417987124"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3 Shircliff Way, Suite 526"
-        ],
-        "city": "Jacksonville",
-        "state": "FL",
-        "postalCode": "32204-4777"
-      },
-      {
-        "line": [
-          "2300 Park Ave",
-          "Ste 206 Room 121"
-        ],
-        "city": "ORANGE PARK",
-        "state": "FL",
-        "postalCode": "32073-5572"
-      },
-      {
-        "line": [
-          "4203 Belfort Rd Suite 315"
-        ],
-        "city": "JACKSONVILLE",
-        "state": "FL",
-        "postalCode": "32216-1418"
-      },
       {
         "line": [
           "8076 Gate Parkway West",
@@ -58,12 +33,27 @@
       },
       {
         "line": [
-          "1670 St Vincents Way",
-          "Education Room A/B"
+          "1824 King Street"
         ],
-        "city": "Middleburg",
+        "city": "Jacksonville",
         "state": "FL",
-        "postalCode": "32068-8447"
+        "postalCode": "32204-4735"
+      },
+      {
+        "line": [
+          "1878 King Street"
+        ],
+        "city": "Jacksonville",
+        "state": "FL",
+        "postalCode": "32204-4709"
+      },
+      {
+        "line": [
+          "551616 US HIGHWAY 1"
+        ],
+        "city": "HILLIARD",
+        "state": "FL",
+        "postalCode": "32046-8281"
       },
       {
         "line": [
@@ -84,11 +74,37 @@
       },
       {
         "line": [
-          "1824 King Street"
+          "1670 St Vincents Way",
+          "Education Room A/B"
+        ],
+        "city": "Middleburg",
+        "state": "FL",
+        "postalCode": "32068-8447"
+      },
+      {
+        "line": [
+          "3 Shircliff Way, Suite 526"
         ],
         "city": "Jacksonville",
         "state": "FL",
-        "postalCode": "32204-4735"
+        "postalCode": "32204-4777"
+      },
+      {
+        "line": [
+          "2300 Park Ave",
+          "Ste 206 Room 121"
+        ],
+        "city": "ORANGE PARK",
+        "state": "FL",
+        "postalCode": "32073-5572"
+      },
+      {
+        "line": [
+          "1 Shircliff Way"
+        ],
+        "city": "Jacksonville",
+        "state": "FL",
+        "postalCode": "32204-4748"
       },
       {
         "line": [
@@ -101,27 +117,11 @@
       },
       {
         "line": [
-          "551616 US HIGHWAY 1"
+          "4203 Belfort Rd Suite 315"
         ],
-        "city": "HILLIARD",
+        "city": "JACKSONVILLE",
         "state": "FL",
-        "postalCode": "32046-8281"
-      },
-      {
-        "line": [
-          "1 Shircliff Way"
-        ],
-        "city": "Jacksonville",
-        "state": "FL",
-        "postalCode": "32204-4748"
-      },
-      {
-        "line": [
-          "1878 King Street"
-        ],
-        "city": "Jacksonville",
-        "state": "FL",
-        "postalCode": "32204-4709"
+        "postalCode": "32216-1418"
       }
     ],
     "extension": [

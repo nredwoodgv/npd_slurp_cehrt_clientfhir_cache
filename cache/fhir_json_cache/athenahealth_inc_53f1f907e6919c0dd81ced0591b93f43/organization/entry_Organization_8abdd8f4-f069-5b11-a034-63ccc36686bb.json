@@ -19,17 +19,13 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1598458515"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912738469"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1101 WILDCAT DR"
-        ],
-        "city": "CLARKSDALE",
-        "state": "MS",
-        "postalCode": "38614-7012"
-      },
       {
         "line": [
           "1970 HOSPITAL DR"
@@ -37,6 +33,14 @@
         "city": "CLARKSDALE",
         "state": "MS",
         "postalCode": "38614-7202"
+      },
+      {
+        "line": [
+          "1101 WILDCAT DR"
+        ],
+        "city": "CLARKSDALE",
+        "state": "MS",
+        "postalCode": "38614-7012"
       }
     ],
     "extension": [

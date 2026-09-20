@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073567483"
+        "value": "1255387957"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,10 +22,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255387957"
+        "value": "1073567483"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1261 University Dr."
+        ],
+        "city": "EDWARDSVILLE",
+        "state": "IL",
+        "postalCode": "62025-5582"
+      },
       {
         "line": [
           "2100 Madison Ave."
@@ -44,14 +52,6 @@
       },
       {
         "line": [
-          "2044 Madison Ave"
-        ],
-        "city": "GRANITE CITY",
-        "state": "IL",
-        "postalCode": "62040-4641"
-      },
-      {
-        "line": [
           "2100 Madison Avenue"
         ],
         "city": "GRANITE CITY",
@@ -60,11 +60,11 @@
       },
       {
         "line": [
-          "1261 University Dr."
+          "2044 Madison Ave"
         ],
-        "city": "EDWARDSVILLE",
+        "city": "GRANITE CITY",
         "state": "IL",
-        "postalCode": "62025-5582"
+        "postalCode": "62040-4641"
       },
       {
         "line": [

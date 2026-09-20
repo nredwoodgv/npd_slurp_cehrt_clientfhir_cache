@@ -23,6 +23,10 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "999999999"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "00000000000"
       }
     ],
     "active": true,
@@ -179,6 +183,10 @@
       {
         "system": "phone",
         "value": "(787)621-3700"
+      },
+      {
+        "system": "phone",
+        "value": "(787)988-7401"
       },
       {
         "system": "phone",
@@ -679,6 +687,17 @@
         "city": "MANATI",
         "state": "PR",
         "postalCode": "00674",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "Carr 54 Calle Celis Aguilera Norte"
+        ],
+        "city": "Fajardo",
+        "state": "PR",
+        "postalCode": "00738",
         "country": "USA"
       },
       {

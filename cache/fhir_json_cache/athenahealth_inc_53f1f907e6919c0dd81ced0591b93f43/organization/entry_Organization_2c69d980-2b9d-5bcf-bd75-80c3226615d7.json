@@ -18,11 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912061706"
+        "value": "1487694345"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487694345"
+        "value": "1912061706"
       }
     ],
     "address": [
@@ -33,6 +33,47 @@
         "city": "NANUET",
         "state": "NY",
         "postalCode": "10954-3093"
+      },
+      {
+        "line": [
+          "2 Executive Dr",
+          "Suite 406"
+        ],
+        "city": "SUFFERN",
+        "state": "NY",
+        "postalCode": "10901-8220"
+      },
+      {
+        "line": [
+          "1592 Route 739"
+        ],
+        "city": "DINGMANS FERRY",
+        "state": "PA",
+        "postalCode": "18328-3513"
+      },
+      {
+        "line": [
+          "171 Ramapo Rd"
+        ],
+        "city": "GARNERVILLE",
+        "state": "NY",
+        "postalCode": "10923-1552"
+      },
+      {
+        "line": [
+          "100 Commerce Dr"
+        ],
+        "city": "NEW WINDSOR",
+        "state": "NY",
+        "postalCode": "12553-6936"
+      },
+      {
+        "line": [
+          "257 Lafayette Ave"
+        ],
+        "city": "SUFFERN",
+        "state": "NY",
+        "postalCode": "10901-4830"
       },
       {
         "line": [
@@ -53,53 +94,12 @@
       },
       {
         "line": [
-          "2 Executive Dr",
-          "Suite 406"
-        ],
-        "city": "SUFFERN",
-        "state": "NY",
-        "postalCode": "10901-8220"
-      },
-      {
-        "line": [
-          "171 Ramapo Rd"
-        ],
-        "city": "GARNERVILLE",
-        "state": "NY",
-        "postalCode": "10923-1552"
-      },
-      {
-        "line": [
-          "100 Commerce Dr"
-        ],
-        "city": "NEW WINDSOR",
-        "state": "NY",
-        "postalCode": "12553-6936"
-      },
-      {
-        "line": [
-          "1592 Route 739"
-        ],
-        "city": "DINGMANS FERRY",
-        "state": "PA",
-        "postalCode": "18328-3513"
-      },
-      {
-        "line": [
           "972 Route 45",
           "Suite 103"
         ],
         "city": "POMONA",
         "state": "NY",
         "postalCode": "10970-3566"
-      },
-      {
-        "line": [
-          "257 Lafayette Ave"
-        ],
-        "city": "SUFFERN",
-        "state": "NY",
-        "postalCode": "10901-4830"
       }
     ],
     "extension": [

@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932664091"
+        "value": "1285664763"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,17 +22,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285664763"
+        "value": "1932664091"
       }
     ],
     "address": [
       {
         "line": [
-          "12412 JUDSON RD"
+          "8201 EWING HALSELL DR"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78233-3255"
+        "postalCode": "78229-3707"
+      },
+      {
+        "line": [
+          "8811 Village Drive"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78217-5415"
       },
       {
         "line": [
@@ -44,22 +52,6 @@
       },
       {
         "line": [
-          "8201 EWING HALSELL DR"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78229-3707"
-      },
-      {
-        "line": [
-          "7390 Barlite Blvd, Suite 205"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78224-1337"
-      },
-      {
-        "line": [
           "1905 E STATE HIGHWAY 97"
         ],
         "city": "JOURDANTON",
@@ -68,11 +60,19 @@
       },
       {
         "line": [
-          "8811 Village Drive"
+          "12412 JUDSON RD"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78217-5415"
+        "postalCode": "78233-3255"
+      },
+      {
+        "line": [
+          "7390 Barlite Blvd, Suite 205"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78224-1337"
       }
     ],
     "extension": [

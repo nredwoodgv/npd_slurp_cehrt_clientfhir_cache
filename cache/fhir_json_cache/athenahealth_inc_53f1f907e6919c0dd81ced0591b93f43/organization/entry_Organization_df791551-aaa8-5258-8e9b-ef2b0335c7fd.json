@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588226328"
+        "value": "1598225021"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396201000"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,11 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548739170"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598225021"
+        "value": "1588226328"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,10 +34,51 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396201000"
+        "value": "1548739170"
       }
     ],
     "address": [
+      {
+        "line": [
+          "12 Dallaire Ave"
+        ],
+        "city": "CHICOPEE",
+        "state": "MA",
+        "postalCode": "01020-1237"
+      },
+      {
+        "line": [
+          "147 RIVERSIDE DR STE 1"
+        ],
+        "city": "AUGUSTA",
+        "state": "ME",
+        "postalCode": "04330-4100"
+      },
+      {
+        "line": [
+          "42 Summer Street"
+        ],
+        "city": "PITTSFIELD",
+        "state": "MA",
+        "postalCode": "01201-4697"
+      },
+      {
+        "line": [
+          "489 Bernardston Road",
+          "Suite 108"
+        ],
+        "city": "GREENFIELD",
+        "state": "MA",
+        "postalCode": "01301-1238"
+      },
+      {
+        "line": [
+          "121 Lincoln Street"
+        ],
+        "city": "WORCESTER",
+        "state": "MA",
+        "postalCode": "01605-2429"
+      },
       {
         "line": [
           "409 Alfred St",
@@ -58,60 +99,11 @@
       },
       {
         "line": [
-          "12 Dallaire Ave"
-        ],
-        "city": "CHICOPEE",
-        "state": "MA",
-        "postalCode": "01020-1237"
-      },
-      {
-        "line": [
-          "147 RIVERSIDE DR STE 1"
-        ],
-        "city": "AUGUSTA",
-        "state": "ME",
-        "postalCode": "04330-4100"
-      },
-      {
-        "line": [
-          "167 ACADEMY ST STE B"
-        ],
-        "city": "PRESQUE ISLE",
-        "state": "ME",
-        "postalCode": "04769-3167"
-      },
-      {
-        "line": [
-          "51 HIGH ST STE 1"
-        ],
-        "city": "DEXTER",
-        "state": "ME",
-        "postalCode": "04930-1326"
-      },
-      {
-        "line": [
-          "26B Enfield Rd",
-          "STE 1 & 2"
-        ],
-        "city": "LINCOLN",
-        "state": "ME",
-        "postalCode": "04457-1190"
-      },
-      {
-        "line": [
-          "42 Summer Street"
+          "725 North St"
         ],
         "city": "PITTSFIELD",
         "state": "MA",
-        "postalCode": "01201-4697"
-      },
-      {
-        "line": [
-          "938 South Bradford Street"
-        ],
-        "city": "DOVER",
-        "state": "DE",
-        "postalCode": "19901-4139"
+        "postalCode": "01201-4109"
       },
       {
         "line": [
@@ -124,6 +116,31 @@
       },
       {
         "line": [
+          "51 HIGH ST STE 1"
+        ],
+        "city": "DEXTER",
+        "state": "ME",
+        "postalCode": "04930-1326"
+      },
+      {
+        "line": [
+          "938 South Bradford Street"
+        ],
+        "city": "DOVER",
+        "state": "DE",
+        "postalCode": "19901-4139"
+      },
+      {
+        "line": [
+          "26B Enfield Rd",
+          "STE 1 & 2"
+        ],
+        "city": "LINCOLN",
+        "state": "ME",
+        "postalCode": "04457-1190"
+      },
+      {
+        "line": [
           "41 Acme Road",
           "Suite 3"
         ],
@@ -133,28 +150,11 @@
       },
       {
         "line": [
-          "725 North St"
+          "167 ACADEMY ST STE B"
         ],
-        "city": "PITTSFIELD",
-        "state": "MA",
-        "postalCode": "01201-4109"
-      },
-      {
-        "line": [
-          "489 Bernardston Road",
-          "Suite 108"
-        ],
-        "city": "GREENFIELD",
-        "state": "MA",
-        "postalCode": "01301-1238"
-      },
-      {
-        "line": [
-          "121 Lincoln Street"
-        ],
-        "city": "WORCESTER",
-        "state": "MA",
-        "postalCode": "01605-2429"
+        "city": "PRESQUE ISLE",
+        "state": "ME",
+        "postalCode": "04769-3167"
       }
     ],
     "extension": [

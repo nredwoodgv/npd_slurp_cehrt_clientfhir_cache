@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548968118"
+        "value": "1760409783"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760409783"
+        "value": "1548968118"
       }
     ],
     "address": [
@@ -29,14 +29,6 @@
         "city": "RENO",
         "state": "NV",
         "postalCode": "89511-3005"
-      },
-      {
-        "line": [
-          "118 E HASKELL ST"
-        ],
-        "city": "WINNEMUCCA",
-        "state": "NV",
-        "postalCode": "89445-3247"
       },
       {
         "line": [
@@ -54,6 +46,14 @@
         "city": "RENO",
         "state": "NV",
         "postalCode": "89511-3005"
+      },
+      {
+        "line": [
+          "118 E HASKELL ST"
+        ],
+        "city": "WINNEMUCCA",
+        "state": "NV",
+        "postalCode": "89445-3247"
       }
     ],
     "extension": [

@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346322187"
+        "value": "1124100961"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124100961"
+        "value": "1346322187"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2400 NORTHPARK DR"
-        ],
-        "city": "COLUMBUS",
-        "state": "IN",
-        "postalCode": "47203-4467"
-      },
       {
         "line": [
           "2400 NORTHPARK DR",
@@ -41,6 +33,14 @@
       },
       {
         "line": [
+          "227 E. McCallister Drive"
+        ],
+        "city": "TERRE HAUTE",
+        "state": "IN",
+        "postalCode": "47802-4248"
+      },
+      {
+        "line": [
           "2907 MCINTIRE DR SUITE C"
         ],
         "city": "BLOOMINGTON",
@@ -49,11 +49,11 @@
       },
       {
         "line": [
-          "227 E. McCallister Drive"
+          "2400 NORTHPARK DR"
         ],
-        "city": "TERRE HAUTE",
+        "city": "COLUMBUS",
         "state": "IN",
-        "postalCode": "47802-4248"
+        "postalCode": "47203-4467"
       }
     ],
     "extension": [

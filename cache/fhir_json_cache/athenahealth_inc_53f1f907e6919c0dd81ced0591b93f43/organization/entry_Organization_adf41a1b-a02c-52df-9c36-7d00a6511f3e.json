@@ -14,14 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760599906"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447456173"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1154584373"
       },
       {
@@ -31,10 +23,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962933416"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083014914"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,11 +38,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1083014914"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952340911"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1760599906"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1457863565"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447456173"
       }
     ],
     "address": [
@@ -65,14 +65,6 @@
         "city": "MUSKEGON",
         "state": "MI",
         "postalCode": "49444-1867"
-      },
-      {
-        "line": [
-          "310 Lafayette SE"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49503-4693"
       },
       {
         "line": [
@@ -92,11 +84,11 @@
       },
       {
         "line": [
-          "200 Jefferson Ave SE"
+          "235 Wealthy St SE"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49503-4502"
+        "postalCode": "49503-5247"
       },
       {
         "line": [
@@ -108,11 +100,19 @@
       },
       {
         "line": [
-          "235 Wealthy St SE"
+          "310 Lafayette SE"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49503-5247"
+        "postalCode": "49503-4693"
+      },
+      {
+        "line": [
+          "200 Jefferson Ave SE"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49503-4502"
       }
     ],
     "extension": [

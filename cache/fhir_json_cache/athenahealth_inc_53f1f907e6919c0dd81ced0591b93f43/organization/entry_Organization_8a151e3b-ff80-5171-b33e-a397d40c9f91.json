@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215920285"
+        "value": "1033437116"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033437116"
+        "value": "1215920285"
       }
     ],
     "address": [
-      {
-        "line": [
-          "981 BEECHWOOD AVE"
-        ],
-        "city": "MIDDLETOWN",
-        "state": "IN",
-        "postalCode": "47356-9358"
-      },
       {
         "line": [
           "505 N BRADNER AVE"
@@ -40,11 +32,11 @@
       },
       {
         "line": [
-          "300 N WASHINGTON ST"
+          "981 BEECHWOOD AVE"
         ],
-        "city": "WAKARUSA",
+        "city": "MIDDLETOWN",
         "state": "IN",
-        "postalCode": "46573-9590"
+        "postalCode": "47356-9358"
       },
       {
         "line": [
@@ -53,6 +45,14 @@
         "city": "WARSAW",
         "state": "IN",
         "postalCode": "46580-8248"
+      },
+      {
+        "line": [
+          "300 N WASHINGTON ST"
+        ],
+        "city": "WAKARUSA",
+        "state": "IN",
+        "postalCode": "46573-9590"
       }
     ],
     "extension": [

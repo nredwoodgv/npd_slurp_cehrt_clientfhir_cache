@@ -15,24 +15,20 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1043374853"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992086698"
       }
     ],
     "address": [
       {
         "line": [
-          "24 South Main Street"
+          "23 Central Street"
         ],
         "city": "MORAVIA",
         "state": "NY",
         "postalCode": "13118-3427"
-      },
-      {
-        "line": [
-          "31 Randall Street"
-        ],
-        "city": "CORTLAND",
-        "state": "NY",
-        "postalCode": "13045-3031"
       },
       {
         "line": [
@@ -44,19 +40,19 @@
       },
       {
         "line": [
+          "24 South Main Street"
+        ],
+        "city": "MORAVIA",
+        "state": "NY",
+        "postalCode": "13118-3427"
+      },
+      {
+        "line": [
           "2809 Cincinnatus Road"
         ],
         "city": "CINCINNATUS",
         "state": "NY",
         "postalCode": "13040-0199"
-      },
-      {
-        "line": [
-          "23 Central Street"
-        ],
-        "city": "MORAVIA",
-        "state": "NY",
-        "postalCode": "13118-3427"
       },
       {
         "line": [
@@ -73,6 +69,14 @@
         "city": "DE RUYTER",
         "state": "NY",
         "postalCode": "13052-9700"
+      },
+      {
+        "line": [
+          "31 Randall Street"
+        ],
+        "city": "CORTLAND",
+        "state": "NY",
+        "postalCode": "13045-3031"
       }
     ],
     "extension": [

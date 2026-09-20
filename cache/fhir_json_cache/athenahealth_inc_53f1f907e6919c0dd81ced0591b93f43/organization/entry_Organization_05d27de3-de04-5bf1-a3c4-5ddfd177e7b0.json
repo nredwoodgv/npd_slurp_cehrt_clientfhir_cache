@@ -14,14 +14,30 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649501347"
+        "value": "1750814737"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750814737"
+        "value": "1649501347"
       }
     ],
     "address": [
+      {
+        "line": [
+          "500 W 4th St"
+        ],
+        "city": "ODESSA",
+        "state": "TX",
+        "postalCode": "79761-5001"
+      },
+      {
+        "line": [
+          "520 E 6th St"
+        ],
+        "city": "ODESSA",
+        "state": "TX",
+        "postalCode": "79761-4527"
+      },
       {
         "line": [
           "2071 N Main"
@@ -32,29 +48,19 @@
       },
       {
         "line": [
-          "4214 ANDREWS HWY",
-          "Ste 306"
+          "5609 Deauville"
         ],
         "city": "MIDLAND",
         "state": "TX",
-        "postalCode": "79703-4870"
+        "postalCode": "79706-2870"
       },
       {
         "line": [
-          "2323 TEXAS ST"
+          "5001 Office Park"
         ],
-        "city": "PECOS",
+        "city": "ODESSA",
         "state": "TX",
-        "postalCode": "79772-7338"
-      },
-      {
-        "line": [
-          "4214 Andrews Hwy",
-          "Suite 305"
-        ],
-        "city": "MIDLAND",
-        "state": "TX",
-        "postalCode": "79703-4811"
+        "postalCode": "79762-4843"
       },
       {
         "line": [
@@ -67,44 +73,12 @@
       },
       {
         "line": [
-          "520 E 6th St"
-        ],
-        "city": "ODESSA",
-        "state": "TX",
-        "postalCode": "79761-4527"
-      },
-      {
-        "line": [
-          "5001 Office Park"
-        ],
-        "city": "ODESSA",
-        "state": "TX",
-        "postalCode": "79762-4843"
-      },
-      {
-        "line": [
-          "420 E. 6th St",
-          "Ste 104"
-        ],
-        "city": "ODESSA",
-        "state": "TX",
-        "postalCode": "79761-4537"
-      },
-      {
-        "line": [
-          "2106 N MIDLAND DR STE 100"
+          "4214 Andrews Hwy",
+          "Suite 305"
         ],
         "city": "MIDLAND",
         "state": "TX",
-        "postalCode": "79707-5572"
-      },
-      {
-        "line": [
-          "500 W 4th St"
-        ],
-        "city": "ODESSA",
-        "state": "TX",
-        "postalCode": "79761-5001"
+        "postalCode": "79703-4811"
       },
       {
         "line": [
@@ -124,11 +98,37 @@
       },
       {
         "line": [
-          "5609 Deauville"
+          "2323 TEXAS ST"
+        ],
+        "city": "PECOS",
+        "state": "TX",
+        "postalCode": "79772-7338"
+      },
+      {
+        "line": [
+          "4214 ANDREWS HWY",
+          "Ste 306"
         ],
         "city": "MIDLAND",
         "state": "TX",
-        "postalCode": "79706-2870"
+        "postalCode": "79703-4870"
+      },
+      {
+        "line": [
+          "420 E. 6th St",
+          "Ste 104"
+        ],
+        "city": "ODESSA",
+        "state": "TX",
+        "postalCode": "79761-4537"
+      },
+      {
+        "line": [
+          "2106 N MIDLAND DR STE 100"
+        ],
+        "city": "MIDLAND",
+        "state": "TX",
+        "postalCode": "79707-5572"
       }
     ],
     "extension": [

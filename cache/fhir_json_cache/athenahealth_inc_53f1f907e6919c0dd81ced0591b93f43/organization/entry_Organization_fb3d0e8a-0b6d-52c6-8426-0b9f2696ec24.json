@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629019286"
+        "value": "1225336282"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225336282"
+        "value": "1629019286"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1025 S ANAHEIM BLVD."
-        ],
-        "city": "ANAHEIM",
-        "state": "CA",
-        "postalCode": "92805-5806"
-      },
       {
         "line": [
           "1301 N ROSE DR"
@@ -37,6 +29,14 @@
         "city": "PLACENTIA",
         "state": "CA",
         "postalCode": "92870-3802"
+      },
+      {
+        "line": [
+          "1025 S ANAHEIM BLVD."
+        ],
+        "city": "ANAHEIM",
+        "state": "CA",
+        "postalCode": "92805-5806"
       },
       {
         "line": [

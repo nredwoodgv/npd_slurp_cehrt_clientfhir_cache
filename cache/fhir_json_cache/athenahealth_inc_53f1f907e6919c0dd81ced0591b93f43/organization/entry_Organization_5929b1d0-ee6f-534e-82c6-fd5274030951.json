@@ -14,14 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013781871"
+        "value": "1104619352"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104619352"
+        "value": "1013781871"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3300 James St",
+          "Ste 100, 101, 200, 201"
+        ],
+        "city": "Syracuse",
+        "state": "NY",
+        "postalCode": "13206-2387"
+      },
       {
         "line": [
           "8289 Loop Road",
@@ -30,15 +39,6 @@
         "city": "Baldwinsville",
         "state": "NY",
         "postalCode": "13027-1304"
-      },
-      {
-        "line": [
-          "350 Northern Blvd",
-          "Suite 324-1157"
-        ],
-        "city": "Albany",
-        "state": "NY",
-        "postalCode": "12204-1000"
       },
       {
         "line": [
@@ -51,12 +51,12 @@
       },
       {
         "line": [
-          "3300 James St",
-          "Ste 100, 101, 200, 201"
+          "350 Northern Blvd",
+          "Suite 324-1157"
         ],
-        "city": "Syracuse",
+        "city": "Albany",
         "state": "NY",
-        "postalCode": "13206-2387"
+        "postalCode": "12204-1000"
       }
     ],
     "extension": [

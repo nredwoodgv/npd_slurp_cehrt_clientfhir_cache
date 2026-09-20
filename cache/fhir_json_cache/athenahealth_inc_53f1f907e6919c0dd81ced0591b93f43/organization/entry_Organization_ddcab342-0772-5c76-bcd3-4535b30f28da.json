@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013017839"
+        "value": "1801318928"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801318928"
+        "value": "1013017839"
       }
     ],
     "address": [
-      {
-        "line": [
-          "235 South Rand Road"
-        ],
-        "city": "LAKE ZURICH",
-        "state": "IL",
-        "postalCode": "60047-2273"
-      },
       {
         "line": [
           "895 S State St",
@@ -41,11 +33,11 @@
       },
       {
         "line": [
-          "1041 W STEARNS RD"
+          "235 South Rand Road"
         ],
-        "city": "BARTLETT",
+        "city": "LAKE ZURICH",
         "state": "IL",
-        "postalCode": "60103-4509"
+        "postalCode": "60047-2273"
       },
       {
         "line": [
@@ -55,6 +47,14 @@
         "city": "ELK GROVE VILLAGE",
         "state": "IL",
         "postalCode": "60007-8400"
+      },
+      {
+        "line": [
+          "1041 W STEARNS RD"
+        ],
+        "city": "BARTLETT",
+        "state": "IL",
+        "postalCode": "60103-4509"
       }
     ],
     "extension": [

@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1164530234"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1184635054"
       },
       {
@@ -22,37 +26,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164530234"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578545273"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285622688"
+        "value": "1225060312"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225060312"
+        "value": "1285622688"
       }
     ],
     "address": [
       {
         "line": [
-          "5005 Parkcenter Avenue"
+          "410 West Tenth Street"
         ],
-        "city": "DUBLIN",
+        "city": "COLUMBUS",
         "state": "OH",
-        "postalCode": "43017-3582"
-      },
-      {
-        "line": [
-          "500 South Cleveland Avenue"
-        ],
-        "city": "WESTERVILLE",
-        "state": "OH",
-        "postalCode": "43081-8971"
+        "postalCode": "43210-1240"
       },
       {
         "line": [
@@ -64,19 +56,11 @@
       },
       {
         "line": [
-          "393 East Town Street"
+          "5005 Parkcenter Avenue"
         ],
-        "city": "COLUMBUS",
+        "city": "DUBLIN",
         "state": "OH",
-        "postalCode": "43215-4741"
-      },
-      {
-        "line": [
-          "240 Parsons Avenue"
-        ],
-        "city": "COLUMBUS",
-        "state": "OH",
-        "postalCode": "43215-5331"
+        "postalCode": "43017-3582"
       },
       {
         "line": [
@@ -88,11 +72,27 @@
       },
       {
         "line": [
-          "410 West Tenth Street"
+          "500 South Cleveland Avenue"
+        ],
+        "city": "WESTERVILLE",
+        "state": "OH",
+        "postalCode": "43081-8971"
+      },
+      {
+        "line": [
+          "240 Parsons Avenue"
         ],
         "city": "COLUMBUS",
         "state": "OH",
-        "postalCode": "43210-1240"
+        "postalCode": "43215-5331"
+      },
+      {
+        "line": [
+          "393 East Town Street"
+        ],
+        "city": "COLUMBUS",
+        "state": "OH",
+        "postalCode": "43215-4741"
       }
     ],
     "extension": [

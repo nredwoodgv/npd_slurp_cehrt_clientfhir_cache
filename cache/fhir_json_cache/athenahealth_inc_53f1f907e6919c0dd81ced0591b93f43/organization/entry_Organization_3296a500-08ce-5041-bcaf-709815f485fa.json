@@ -14,31 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205469483"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578929816"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386005395"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518155597"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912295270"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790706448"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619166758"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,11 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306207311"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245429380"
+        "value": "1518155597"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,7 +30,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467884650"
+        "value": "1205469483"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306207311"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,7 +42,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487879961"
+        "value": "1386005395"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245429380"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -74,7 +54,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861770802"
+        "value": "1487879961"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467884650"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -82,26 +66,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619166758"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861770802"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1790706448"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912295270"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952997538"
       }
     ],
     "address": [
-      {
-        "line": [
-          "501 Oakley Ave"
-        ],
-        "city": "STREATOR",
-        "state": "IL",
-        "postalCode": "61364-1002"
-      },
-      {
-        "line": [
-          "920 WEST ST STE 218"
-        ],
-        "city": "PERU",
-        "state": "IL",
-        "postalCode": "61354-2769"
-      },
       {
         "line": [
           "1301 21ST ST"
@@ -125,6 +109,22 @@
         "city": "PERU",
         "state": "IL",
         "postalCode": "61354-1419"
+      },
+      {
+        "line": [
+          "920 WEST ST STE 218"
+        ],
+        "city": "PERU",
+        "state": "IL",
+        "postalCode": "61354-2769"
+      },
+      {
+        "line": [
+          "501 Oakley Ave"
+        ],
+        "city": "STREATOR",
+        "state": "IL",
+        "postalCode": "61364-1002"
       }
     ],
     "extension": [

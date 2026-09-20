@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144409194"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1003079799"
       },
       {
@@ -27,17 +23,13 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1780225326"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144409194"
       }
     ],
     "address": [
-      {
-        "line": [
-          "900 S CATON AVE"
-        ],
-        "city": "BALTIMORE",
-        "state": "MD",
-        "postalCode": "21229-5201"
-      },
       {
         "line": [
           "2373 N ROLLING ROAD"
@@ -48,7 +40,7 @@
       },
       {
         "line": [
-          "900CATON AVE"
+          "900 S CATON AVE"
         ],
         "city": "BALTIMORE",
         "state": "MD",
@@ -61,6 +53,14 @@
         "city": "CATONSVILLE",
         "state": "MD",
         "postalCode": "21228-5999"
+      },
+      {
+        "line": [
+          "900CATON AVE"
+        ],
+        "city": "BALTIMORE",
+        "state": "MD",
+        "postalCode": "21229-5201"
       },
       {
         "line": [

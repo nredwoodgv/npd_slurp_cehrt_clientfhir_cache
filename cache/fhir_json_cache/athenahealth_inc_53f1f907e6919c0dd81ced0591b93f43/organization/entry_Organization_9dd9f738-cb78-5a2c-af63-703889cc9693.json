@@ -14,55 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750814737"
+        "value": "1649501347"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649501347"
+        "value": "1750814737"
       }
     ],
     "address": [
       {
         "line": [
-          "2701 S Hampton Rd",
-          "Ste 220B"
+          "2700 E Broad St"
         ],
-        "city": "DALLAS",
+        "city": "Mansfield",
         "state": "TX",
-        "postalCode": "75224-2363"
-      },
-      {
-        "line": [
-          "1200 Soldiers Fld Dr",
-          "Ste 201"
-        ],
-        "city": "SUGAR LAND",
-        "state": "TX",
-        "postalCode": "77479-4323"
-      },
-      {
-        "line": [
-          "3107 W Camp Wisdom Rd, Ste 110"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75237-2600"
-      },
-      {
-        "line": [
-          "1344 GRAND TETON DR"
-        ],
-        "city": "DESOTO",
-        "state": "TX",
-        "postalCode": "75115-2939"
-      },
-      {
-        "line": [
-          "280 REGENCY PKWY"
-        ],
-        "city": "MANSFIELD",
-        "state": "TX",
-        "postalCode": "76063-7823"
+        "postalCode": "76063-5899"
       },
       {
         "line": [
@@ -75,6 +41,14 @@
       },
       {
         "line": [
+          "3107 W Camp Wisdom Rd, Ste 110"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75237-2600"
+      },
+      {
+        "line": [
           "23510 KINGSLAND BLVD",
           "STE 100"
         ],
@@ -84,11 +58,37 @@
       },
       {
         "line": [
-          "2700 E Broad St"
+          "280 REGENCY PKWY"
         ],
-        "city": "Mansfield",
+        "city": "MANSFIELD",
         "state": "TX",
-        "postalCode": "76063-5899"
+        "postalCode": "76063-7823"
+      },
+      {
+        "line": [
+          "1200 Soldiers Fld Dr",
+          "Ste 201"
+        ],
+        "city": "SUGAR LAND",
+        "state": "TX",
+        "postalCode": "77479-4323"
+      },
+      {
+        "line": [
+          "2701 S Hampton Rd",
+          "Ste 220B"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75224-2363"
+      },
+      {
+        "line": [
+          "1344 GRAND TETON DR"
+        ],
+        "city": "DESOTO",
+        "state": "TX",
+        "postalCode": "75115-2939"
       }
     ],
     "extension": [

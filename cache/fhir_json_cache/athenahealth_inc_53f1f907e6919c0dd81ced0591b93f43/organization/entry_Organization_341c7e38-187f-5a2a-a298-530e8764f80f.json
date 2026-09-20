@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659316008"
+        "value": "1891933560"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891933560"
+        "value": "1659316008"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,21 +28,21 @@
     "address": [
       {
         "line": [
-          "13657 W McDowell Rd",
-          "Ste 106"
-        ],
-        "city": "GOODYEAR",
-        "state": "AZ",
-        "postalCode": "85395-2602"
-      },
-      {
-        "line": [
           "500 N Bullard Ave",
           "Bldg C 34"
         ],
         "city": "GOODYEAR",
         "state": "AZ",
         "postalCode": "85338-2533"
+      },
+      {
+        "line": [
+          "13657 W McDowell Rd",
+          "Ste 106"
+        ],
+        "city": "GOODYEAR",
+        "state": "AZ",
+        "postalCode": "85395-2602"
       }
     ],
     "extension": [

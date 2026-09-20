@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801571823"
+        "value": "1508392432"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508392432"
+        "value": "1801571823"
       }
     ],
     "address": [
@@ -32,7 +32,7 @@
       },
       {
         "line": [
-          "1700 Center St"
+          "1700 CENTER ST"
         ],
         "city": "MOBILE",
         "state": "AL",
@@ -48,19 +48,19 @@
       },
       {
         "line": [
-          "1700 CENTER ST"
-        ],
-        "city": "MOBILE",
-        "state": "AL",
-        "postalCode": "36604-3301"
-      },
-      {
-        "line": [
           "2451 USA Medical Center Dr"
         ],
         "city": "MOBILE",
         "state": "AL",
         "postalCode": "36617-2300"
+      },
+      {
+        "line": [
+          "1700 Center St"
+        ],
+        "city": "MOBILE",
+        "state": "AL",
+        "postalCode": "36604-3301"
       }
     ],
     "extension": [

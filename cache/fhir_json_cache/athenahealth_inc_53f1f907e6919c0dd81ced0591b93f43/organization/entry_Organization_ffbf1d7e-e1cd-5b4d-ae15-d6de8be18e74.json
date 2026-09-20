@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609683937"
+        "value": "1407385958"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235486226"
+        "value": "1609683937"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,11 +26,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205613726"
+        "value": "1801210133"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669258448"
+        "value": "1205613726"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,14 +38,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407385958"
+        "value": "1669258448"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801210133"
+        "value": "1235486226"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3140 Florida Street"
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70806-3757"
+      },
       {
         "line": [
           "3140 Florida Blvd"
@@ -53,38 +61,6 @@
         "city": "BATON ROUGE",
         "state": "LA",
         "postalCode": "70806-3757"
-      },
-      {
-        "line": [
-          "8730 YOUREE DR STE A-B"
-        ],
-        "city": "SHREVEPORT",
-        "state": "LA",
-        "postalCode": "71115-2500"
-      },
-      {
-        "line": [
-          "3140 FLORIDA Street"
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70806-3757"
-      },
-      {
-        "line": [
-          "904 Catalpa Street"
-        ],
-        "city": "DONALDSONVILLE",
-        "state": "LA",
-        "postalCode": "70346-2946"
-      },
-      {
-        "line": [
-          "59340 River West Drive"
-        ],
-        "city": "PLAQUEMINE",
-        "state": "LA",
-        "postalCode": "70764-6553"
       },
       {
         "line": [
@@ -97,11 +73,28 @@
       },
       {
         "line": [
-          "3140 Florida Street"
+          "904 CATALPA ST"
         ],
-        "city": "BATON ROUGE",
+        "city": "DONALDSONVILLE",
         "state": "LA",
-        "postalCode": "70806-3757"
+        "postalCode": "70346-2946"
+      },
+      {
+        "line": [
+          "8730 YOUREE DR STE A-B"
+        ],
+        "city": "SHREVEPORT",
+        "state": "LA",
+        "postalCode": "71115-2500"
+      },
+      {
+        "line": [
+          "59340 River West Drive",
+          "STE A-B"
+        ],
+        "city": "PLAQUEMINE",
+        "state": "LA",
+        "postalCode": "70764-6553"
       },
       {
         "line": [
@@ -113,11 +106,19 @@
       },
       {
         "line": [
-          "904 CATALPA ST"
+          "904 Catalpa Street"
         ],
         "city": "DONALDSONVILLE",
         "state": "LA",
         "postalCode": "70346-2946"
+      },
+      {
+        "line": [
+          "4852 Highway 19, Suite A"
+        ],
+        "city": "ZACHARY",
+        "state": "LA",
+        "postalCode": "70791-3530"
       },
       {
         "line": [
@@ -130,16 +131,15 @@
       },
       {
         "line": [
-          "4852 Highway 19, Suite A"
+          "3140 FLORIDA Street"
         ],
-        "city": "ZACHARY",
+        "city": "BATON ROUGE",
         "state": "LA",
-        "postalCode": "70791-3530"
+        "postalCode": "70806-3757"
       },
       {
         "line": [
-          "59340 River West Drive",
-          "STE A-B"
+          "59340 River West Drive"
         ],
         "city": "PLAQUEMINE",
         "state": "LA",

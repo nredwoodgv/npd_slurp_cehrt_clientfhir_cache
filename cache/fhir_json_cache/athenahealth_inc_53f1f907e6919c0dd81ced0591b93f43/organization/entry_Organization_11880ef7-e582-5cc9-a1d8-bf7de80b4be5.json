@@ -18,10 +18,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306363007"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730790551"
       },
       {
@@ -30,19 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043261498"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588180475"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619928165"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144271586"
+        "value": "1306363007"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,11 +34,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962453308"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588180475"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1043261498"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144271586"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1619494366"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962453308"
+        "value": "1619928165"
       }
     ],
     "address": [
@@ -68,17 +68,9 @@
       },
       {
         "line": [
-          "615 N. Bonita Avenue"
-        ],
-        "city": "Panama City",
-        "state": "FL",
-        "postalCode": "32401-3623"
-      },
-      {
-        "line": [
           "7000 Cobble Creek Dr"
         ],
-        "city": "PENSACOLA",
+        "city": "Pensacola",
         "state": "FL",
         "postalCode": "32504-8638"
       },
@@ -86,7 +78,7 @@
         "line": [
           "7000 Cobble Creek Dr"
         ],
-        "city": "Pensacola",
+        "city": "PENSACOLA",
         "state": "FL",
         "postalCode": "32504-8638"
       },
@@ -105,6 +97,14 @@
         "city": "PENSACOLA",
         "state": "FL",
         "postalCode": "32504-8638"
+      },
+      {
+        "line": [
+          "615 N. Bonita Avenue"
+        ],
+        "city": "Panama City",
+        "state": "FL",
+        "postalCode": "32401-3623"
       }
     ],
     "extension": [

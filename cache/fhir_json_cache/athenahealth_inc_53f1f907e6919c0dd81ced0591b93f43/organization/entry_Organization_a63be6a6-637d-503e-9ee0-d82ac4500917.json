@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316165947"
+        "value": "1285420570"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285420570"
+        "value": "1316165947"
       }
     ],
     "address": [
+      {
+        "line": [
+          "640 W 800 N"
+        ],
+        "city": "OREM",
+        "state": "UT",
+        "postalCode": "84057-3658"
+      },
       {
         "line": [
           "1034 N 500 W"
@@ -32,11 +40,27 @@
       },
       {
         "line": [
-          "640 W 800 N"
+          "320 RIVER PARK DR STE 125"
+        ],
+        "city": "PROVO",
+        "state": "UT",
+        "postalCode": "84604-6065"
+      },
+      {
+        "line": [
+          "11925 S STATE ST"
+        ],
+        "city": "DRAPER",
+        "state": "UT",
+        "postalCode": "84020-7735"
+      },
+      {
+        "line": [
+          "750 W 800 N"
         ],
         "city": "OREM",
         "state": "UT",
-        "postalCode": "84057-3658"
+        "postalCode": "84057-3660"
       },
       {
         "line": [
@@ -62,30 +86,6 @@
         "city": "PROVO",
         "state": "UT",
         "postalCode": "84604-3359"
-      },
-      {
-        "line": [
-          "11925 S STATE ST"
-        ],
-        "city": "DRAPER",
-        "state": "UT",
-        "postalCode": "84020-7735"
-      },
-      {
-        "line": [
-          "750 W 800 N"
-        ],
-        "city": "OREM",
-        "state": "UT",
-        "postalCode": "84057-3660"
-      },
-      {
-        "line": [
-          "320 RIVER PARK DR STE 125"
-        ],
-        "city": "PROVO",
-        "state": "UT",
-        "postalCode": "84604-6065"
       }
     ],
     "extension": [

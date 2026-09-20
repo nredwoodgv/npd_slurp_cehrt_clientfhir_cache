@@ -14,29 +14,37 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104367630"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1073054458"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104496819"
+        "value": "1902347438"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902347438"
+        "value": "1104367630"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104496819"
       }
     ],
     "address": [
       {
         "line": [
-          "1350 E MARKET ST"
+          "20 OHLTOWN RD"
         ],
-        "city": "WARREN",
+        "city": "YOUNGSTOWN",
         "state": "OH",
-        "postalCode": "44483-6608"
+        "postalCode": "44515-2331"
+      },
+      {
+        "line": [
+          "2580 ELM RD BLDG A"
+        ],
+        "city": "CORTLAND",
+        "state": "OH",
+        "postalCode": "44410-9353"
       },
       {
         "line": [
@@ -56,14 +64,6 @@
       },
       {
         "line": [
-          "2580 ELM RD BLDG A"
-        ],
-        "city": "CORTLAND",
-        "state": "OH",
-        "postalCode": "44410-9353"
-      },
-      {
-        "line": [
           "1350 MARKET ST"
         ],
         "city": "WARREN",
@@ -72,11 +72,11 @@
       },
       {
         "line": [
-          "20 OHLTOWN RD"
+          "1350 E MARKET ST"
         ],
-        "city": "YOUNGSTOWN",
+        "city": "WARREN",
         "state": "OH",
-        "postalCode": "44515-2331"
+        "postalCode": "44483-6608"
       }
     ],
     "extension": [

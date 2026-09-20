@@ -14,23 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225689821"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871144469"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1598620445"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003467440"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568062446"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,18 +22,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225689821"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1043936164"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1568062446"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1003467440"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1871144469"
       }
     ],
     "address": [
-      {
-        "line": [
-          "828 Creswell Ln"
-        ],
-        "city": "OPELOUSAS",
-        "state": "LA",
-        "postalCode": "70570-5882"
-      },
       {
         "line": [
           "151 Hill Street"
@@ -57,6 +49,14 @@
         "city": "EUNICE",
         "state": "LA",
         "postalCode": "70535-5823"
+      },
+      {
+        "line": [
+          "828 Creswell Ln"
+        ],
+        "city": "OPELOUSAS",
+        "state": "LA",
+        "postalCode": "70570-5882"
       }
     ],
     "extension": [

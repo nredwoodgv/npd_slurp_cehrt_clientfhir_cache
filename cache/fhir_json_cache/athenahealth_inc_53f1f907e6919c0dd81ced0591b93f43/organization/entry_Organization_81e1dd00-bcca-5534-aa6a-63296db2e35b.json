@@ -14,26 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285664763"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1558839076"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932664091"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285664763"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2600 SAINT MICHAEL DR"
-        ],
-        "city": "TEXARKANA",
-        "state": "TX",
-        "postalCode": "75503-2372"
-      },
       {
         "line": [
           "511 W 11TH ST"
@@ -45,6 +37,14 @@
       {
         "line": [
           "2600 St Michael Dr"
+        ],
+        "city": "TEXARKANA",
+        "state": "TX",
+        "postalCode": "75503-2372"
+      },
+      {
+        "line": [
+          "2600 SAINT MICHAEL DR"
         ],
         "city": "TEXARKANA",
         "state": "TX",

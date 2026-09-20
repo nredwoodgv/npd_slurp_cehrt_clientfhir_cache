@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295602662"
+        "value": "1184145955"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184145955"
+        "value": "1295602662"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1180 BEACON STREET SUITE 4A"
+        ],
+        "city": "BROOKLINE",
+        "state": "MA",
+        "postalCode": "02446-3885"
+      },
       {
         "line": [
           "1180 BEACON ST",
@@ -30,14 +38,6 @@
         "city": "BROOKLINE",
         "state": "MA",
         "postalCode": "02446-3806"
-      },
-      {
-        "line": [
-          "1180 BEACON STREET SUITE 4A"
-        ],
-        "city": "BROOKLINE",
-        "state": "MA",
-        "postalCode": "02446-3885"
       }
     ],
     "extension": [

@@ -18,25 +18,43 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396958633"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649267618"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1356553002"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396958633"
       }
     ],
     "address": [
       {
         "line": [
-          "405 W COUNTRY CLUB RD"
+          "300 W COUNTRY CLUB RD STE 230"
         ],
         "city": "ROSWELL",
         "state": "NM",
+        "postalCode": "88201-5240"
+      },
+      {
+        "line": [],
+        "city": "ROSWELL",
+        "state": "NM",
         "postalCode": "88201-5209"
+      },
+      {
+        "line": [],
+        "city": "ROSWELL",
+        "state": "NM",
+        "postalCode": "88203-2628"
+      },
+      {
+        "line": [],
+        "city": "HOBBS",
+        "state": "NM",
+        "postalCode": "88240-9100"
       },
       {
         "line": [],
@@ -48,35 +66,15 @@
         "line": [],
         "city": "ROSWELL",
         "state": "NM",
-        "postalCode": "88203-5436"
-      },
-      {
-        "line": [],
-        "city": "ROSWELL",
-        "state": "NM",
         "postalCode": "88201-8307"
       },
       {
-        "line": [],
+        "line": [
+          "405 W COUNTRY CLUB RD"
+        ],
         "city": "ROSWELL",
         "state": "NM",
         "postalCode": "88201-5209"
-      },
-      {
-        "line": [
-          "603 W Country Club Rd"
-        ],
-        "city": "ROSWELL",
-        "state": "NM",
-        "postalCode": "88201-5225"
-      },
-      {
-        "line": [
-          "350 W COUNTRY CLUB RD STE 205"
-        ],
-        "city": "ROSWELL",
-        "state": "NM",
-        "postalCode": "88201-5205"
       },
       {
         "line": [
@@ -96,7 +94,57 @@
         "line": [],
         "city": "ROSWELL",
         "state": "NM",
-        "postalCode": "88203-2628"
+        "postalCode": "88203-5436"
+      },
+      {
+        "line": [
+          "603 W Country Club Rd"
+        ],
+        "city": "ROSWELL",
+        "state": "NM",
+        "postalCode": "88201-5225"
+      },
+      {
+        "line": [
+          "350 W COUNTRY CLUB RD STE 205"
+        ],
+        "city": "ROSWELL",
+        "state": "NM",
+        "postalCode": "88201-5205"
+      },
+      {
+        "line": [
+          "1011 Main Street"
+        ],
+        "city": "SPRING HILL",
+        "state": "TN",
+        "postalCode": "37174-4531"
+      },
+      {
+        "line": [],
+        "city": "BRENTWOOD",
+        "state": "TN",
+        "postalCode": "37027-0001"
+      },
+      {
+        "line": [
+          "603 W. Country Club"
+        ],
+        "city": "ROSWELL",
+        "state": "NM",
+        "postalCode": "88201-5111"
+      },
+      {
+        "line": [],
+        "city": "ROSWELL",
+        "state": "NM",
+        "postalCode": "88201-5225"
+      },
+      {
+        "line": [],
+        "city": "MESCALERO",
+        "state": "NM",
+        "postalCode": "88340-9998"
       },
       {
         "line": [
@@ -115,10 +163,12 @@
         "postalCode": "88210-2074"
       },
       {
-        "line": [],
-        "city": "HOBBS",
+        "line": [
+          "601 W Country Club Rd Ste 201"
+        ],
+        "city": "ROSWELL",
         "state": "NM",
-        "postalCode": "88240-9100"
+        "postalCode": "88201-5225"
       },
       {
         "line": [
@@ -129,60 +179,10 @@
         "postalCode": "88201-5224"
       },
       {
-        "line": [
-          "603 W. Country Club"
-        ],
-        "city": "ROSWELL",
-        "state": "NM",
-        "postalCode": "88201-5111"
-      },
-      {
-        "line": [
-          "601 W Country Club Rd Ste 201"
-        ],
-        "city": "ROSWELL",
-        "state": "NM",
-        "postalCode": "88201-5225"
-      },
-      {
-        "line": [
-          "300 W COUNTRY CLUB RD STE 230"
-        ],
-        "city": "ROSWELL",
-        "state": "NM",
-        "postalCode": "88201-5240"
-      },
-      {
-        "line": [],
-        "city": "BRENTWOOD",
-        "state": "TN",
-        "postalCode": "37027-0001"
-      },
-      {
-        "line": [
-          "1011 Main Street"
-        ],
-        "city": "SPRING HILL",
-        "state": "TN",
-        "postalCode": "37174-4531"
-      },
-      {
-        "line": [],
-        "city": "MESCALERO",
-        "state": "NM",
-        "postalCode": "88340-9998"
-      },
-      {
         "line": [],
         "city": "ROSWELL",
         "state": "NM",
         "postalCode": "88201-5804"
-      },
-      {
-        "line": [],
-        "city": "ROSWELL",
-        "state": "NM",
-        "postalCode": "88201-5225"
       }
     ],
     "extension": [

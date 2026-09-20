@@ -14,31 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1881656247"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
+        "value": "1750302923"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,7 +30,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053373951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962602300"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124080320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215348487"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730484031"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,7 +62,7 @@
         "line": [
           "125 S PARK DR STE D"
         ],
-        "city": "BROWNWOOD",
+        "city": "Brownwood",
         "state": "TX",
         "postalCode": "76801-5952"
       },
@@ -78,7 +78,7 @@
         "line": [
           "125 S PARK DR STE D"
         ],
-        "city": "Brownwood",
+        "city": "BROWNWOOD",
         "state": "TX",
         "postalCode": "76801-5952"
       }

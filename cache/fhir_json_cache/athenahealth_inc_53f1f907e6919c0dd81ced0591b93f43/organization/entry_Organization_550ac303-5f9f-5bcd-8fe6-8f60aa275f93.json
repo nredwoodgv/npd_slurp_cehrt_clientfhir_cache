@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871553073"
+        "value": "1194768721"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1205137536"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,22 +26,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194768721"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205137536"
+        "value": "1871553073"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3000 MEDICAL CENTER PKWY"
-        ],
-        "city": "BENTONVILLE",
-        "state": "AR",
-        "postalCode": "72712-3217"
-      },
       {
         "line": [
           "609 W MAPLE AVE"
@@ -45,6 +37,14 @@
         "city": "SPRINGDALE",
         "state": "AR",
         "postalCode": "72764-5335"
+      },
+      {
+        "line": [
+          "3000 MEDICAL CENTER PKWY"
+        ],
+        "city": "BENTONVILLE",
+        "state": "AR",
+        "postalCode": "72712-3217"
       },
       {
         "line": [

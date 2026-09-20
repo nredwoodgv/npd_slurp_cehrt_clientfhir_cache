@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437661576"
+        "value": "1336665991"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,21 +22,45 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336665991"
+        "value": "1164934295"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164934295"
+        "value": "1437661576"
       }
     ],
     "address": [
       {
         "line": [
-          "53880 Carmichael Drive"
+          "SCHEDULE TEMPLATE"
+        ],
+        "city": "MISHAWAKA",
+        "state": "IN",
+        "postalCode": "46545-1469"
+      },
+      {
+        "line": [
+          "1915 Lake Ave"
+        ],
+        "city": "PLYMOUTH",
+        "state": "IN",
+        "postalCode": "46563-9366"
+      },
+      {
+        "line": [
+          "SCHEDULE TEMPLATE"
         ],
         "city": "SOUTH BEND",
         "state": "IN",
-        "postalCode": "46635-1567"
+        "postalCode": "46601-1033"
+      },
+      {
+        "line": [
+          "BLOCK"
+        ],
+        "city": "SOUTH BEND",
+        "state": "IN",
+        "postalCode": "46601-1033"
       },
       {
         "line": [
@@ -56,28 +80,11 @@
       },
       {
         "line": [
-          "611 E. Douglas Rd",
-          "Suite 128"
+          "900 I Street"
         ],
-        "city": "MISHAWAKA",
+        "city": "LA PORTE",
         "state": "IN",
-        "postalCode": "46545-1464"
-      },
-      {
-        "line": [
-          "SURGERY TEMPLATE"
-        ],
-        "city": "MISHAWAKA",
-        "state": "IN",
-        "postalCode": "46545-1969"
-      },
-      {
-        "line": [
-          "1915 Lake Ave"
-        ],
-        "city": "PLYMOUTH",
-        "state": "IN",
-        "postalCode": "46563-9366"
+        "postalCode": "46350-5533"
       },
       {
         "line": [
@@ -89,35 +96,28 @@
       },
       {
         "line": [
-          "BLOCK"
+          "53880 Carmichael Drive"
         ],
         "city": "SOUTH BEND",
         "state": "IN",
-        "postalCode": "46601-1033"
+        "postalCode": "46635-1567"
       },
       {
         "line": [
-          "SCHEDULE TEMPLATE"
+          "SURGERY TEMPLATE"
         ],
         "city": "MISHAWAKA",
         "state": "IN",
-        "postalCode": "46545-1469"
+        "postalCode": "46545-1969"
       },
       {
         "line": [
-          "900 I Street"
+          "611 E. Douglas Rd",
+          "Suite 128"
         ],
-        "city": "LA PORTE",
+        "city": "MISHAWAKA",
         "state": "IN",
-        "postalCode": "46350-5533"
-      },
-      {
-        "line": [
-          "SCHEDULE TEMPLATE"
-        ],
-        "city": "SOUTH BEND",
-        "state": "IN",
-        "postalCode": "46601-1033"
+        "postalCode": "46545-1464"
       }
     ],
     "extension": [

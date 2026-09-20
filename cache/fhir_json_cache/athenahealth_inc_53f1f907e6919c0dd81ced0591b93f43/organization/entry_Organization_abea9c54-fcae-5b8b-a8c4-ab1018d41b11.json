@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225251432"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1356090054"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285785089"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225251432"
       }
     ],
     "address": [
@@ -33,14 +33,6 @@
         "city": "OBERLIN",
         "state": "LA",
         "postalCode": "70655-3519"
-      },
-      {
-        "line": [
-          "108 6TH AVE"
-        ],
-        "city": "KINDER",
-        "state": "LA",
-        "postalCode": "70648-3187"
       },
       {
         "line": [
@@ -57,6 +49,14 @@
         "city": "KINDER",
         "state": "LA",
         "postalCode": "70648-5856"
+      },
+      {
+        "line": [
+          "108 6TH AVE"
+        ],
+        "city": "KINDER",
+        "state": "LA",
+        "postalCode": "70648-3187"
       }
     ],
     "extension": [

@@ -14,6 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316253875"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396201000"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588226328"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1598225021"
       },
       {
@@ -23,29 +35,40 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1073175956"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588226328"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316253875"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396201000"
       }
     ],
     "address": [
       {
         "line": [
-          "6330 Five Mile Centre Park",
-          "Ste. 400"
+          "767 Madison Road, Suite 107"
         ],
-        "city": "FREDERICKSBURG",
+        "city": "CULPEPER",
         "state": "VA",
-        "postalCode": "22407-5516"
+        "postalCode": "22701-3340"
+      },
+      {
+        "line": [
+          "2609 Sheffield Dr."
+        ],
+        "city": "BLACKSBURG",
+        "state": "VA",
+        "postalCode": "24060-8271"
+      },
+      {
+        "line": [
+          "5554 Redbud Highway"
+        ],
+        "city": "HONAKER",
+        "state": "VA",
+        "postalCode": "24260-7409"
+      },
+      {
+        "line": [
+          "373 CECIL D QUILLEN DR STE 103"
+        ],
+        "city": "DUFFIELD",
+        "state": "VA",
+        "postalCode": "24244-4085"
       },
       {
         "line": [
@@ -58,27 +81,12 @@
       },
       {
         "line": [
-          "117 W BOSCAWEN ST STE 206"
+          "406 West Main St",
+          "Suite 100"
         ],
-        "city": "WINCHESTER",
+        "city": "ABINGDON",
         "state": "VA",
-        "postalCode": "22601-4140"
-      },
-      {
-        "line": [
-          "2609 Sheffield Dr."
-        ],
-        "city": "BLACKSBURG",
-        "state": "VA",
-        "postalCode": "24060-8271"
-      },
-      {
-        "line": [
-          "4003 Steelsburg Hwy"
-        ],
-        "city": "CEDAR BLUFF",
-        "state": "VA",
-        "postalCode": "24609-7019"
+        "postalCode": "24210-2608"
       },
       {
         "line": [
@@ -91,12 +99,21 @@
       },
       {
         "line": [
-          "406 West Main St",
-          "Suite 100"
+          "6330 Five Mile Centre Park",
+          "Ste. 400"
         ],
-        "city": "ABINGDON",
+        "city": "FREDERICKSBURG",
         "state": "VA",
-        "postalCode": "24210-2608"
+        "postalCode": "22407-5516"
+      },
+      {
+        "line": [
+          "4001 Prince William Parkway",
+          "Suite 300"
+        ],
+        "city": "WOODBRIDGE",
+        "state": "VA",
+        "postalCode": "22192-7667"
       },
       {
         "line": [
@@ -124,36 +141,11 @@
       },
       {
         "line": [
-          "5554 Redbud Highway"
+          "117 W BOSCAWEN ST STE 206"
         ],
-        "city": "HONAKER",
+        "city": "WINCHESTER",
         "state": "VA",
-        "postalCode": "24260-7409"
-      },
-      {
-        "line": [
-          "373 CECIL D QUILLEN DR STE 103"
-        ],
-        "city": "DUFFIELD",
-        "state": "VA",
-        "postalCode": "24244-4085"
-      },
-      {
-        "line": [
-          "4001 Prince William Parkway",
-          "Suite 300"
-        ],
-        "city": "WOODBRIDGE",
-        "state": "VA",
-        "postalCode": "22192-7667"
-      },
-      {
-        "line": [
-          "767 Madison Road, Suite 107"
-        ],
-        "city": "CULPEPER",
-        "state": "VA",
-        "postalCode": "22701-3340"
+        "postalCode": "22601-4140"
       },
       {
         "line": [
@@ -162,6 +154,14 @@
         "city": "CHICOPEE",
         "state": "MA",
         "postalCode": "01020-1237"
+      },
+      {
+        "line": [
+          "4003 Steelsburg Hwy"
+        ],
+        "city": "CEDAR BLUFF",
+        "state": "VA",
+        "postalCode": "24609-7019"
       }
     ],
     "extension": [

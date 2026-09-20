@@ -18,6 +18,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528505690"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396282463"
       },
       {
@@ -27,20 +31,16 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1710424882"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528505690"
       }
     ],
     "address": [
       {
         "line": [
-          "632 MORRISON SPRINGS ROAD"
+          "975 EAST THIRD STREET"
         ],
         "city": "CHATTANOOGA",
         "state": "TN",
-        "postalCode": "37415-3402"
+        "postalCode": "37403-2147"
       },
       {
         "line": [
@@ -52,11 +52,11 @@
       },
       {
         "line": [
-          "975 EAST THIRD STREET"
+          "16931 RANKIN AVENUE"
         ],
-        "city": "CHATTANOOGA",
+        "city": "DUNLAP",
         "state": "TN",
-        "postalCode": "37403-2147"
+        "postalCode": "37327-7029"
       },
       {
         "line": [
@@ -68,11 +68,11 @@
       },
       {
         "line": [
-          "16931 RANKIN AVENUE"
+          "632 MORRISON SPRINGS ROAD"
         ],
-        "city": "DUNLAP",
+        "city": "CHATTANOOGA",
         "state": "TN",
-        "postalCode": "37327-7029"
+        "postalCode": "37415-3402"
       }
     ],
     "extension": [

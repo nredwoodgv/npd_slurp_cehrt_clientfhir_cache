@@ -14,47 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902415318"
+        "value": "1225669161"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225669161"
+        "value": "1902415318"
       }
     ],
     "address": [
-      {
-        "line": [
-          "73 Market Street, 3rd Floor"
-        ],
-        "city": "YONKERS",
-        "state": "NY",
-        "postalCode": "10710-7616"
-      },
-      {
-        "line": [
-          "1299 FARNAM ST STE 300"
-        ],
-        "city": "OMAHA",
-        "state": "NE",
-        "postalCode": "68102-1857"
-      },
-      {
-        "line": [
-          "7633 E 63rd PL",
-          "Suite 300"
-        ],
-        "city": "TULSA",
-        "state": "OK",
-        "postalCode": "74133-1202"
-      },
-      {
-        "line": [
-          "3597 E MONARCH SKY LN STE F-240"
-        ],
-        "city": "MERIDIAN",
-        "state": "ID",
-        "postalCode": "83646-1053"
-      },
       {
         "line": [
           "312 S. Fourth Street  Suite 700"
@@ -62,6 +29,23 @@
         "city": "LOUISVILLE",
         "state": "KY",
         "postalCode": "40202-3046"
+      },
+      {
+        "line": [
+          "400 Renaissance Center Suite 2600"
+        ],
+        "city": "DETROIT",
+        "state": "MI",
+        "postalCode": "48243-1312"
+      },
+      {
+        "line": [
+          "332 S. Michigan Ave",
+          "Ste 900"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60604-4434"
       },
       {
         "line": [
@@ -74,19 +58,35 @@
       },
       {
         "line": [
-          "675 Town Square Blvd, Suite 200, Bldg 1A"
+          "One West Court Square, Suite 750"
         ],
-        "city": "GARLAND",
-        "state": "TX",
-        "postalCode": "75040-2991"
+        "city": "DECATUR",
+        "state": "GA",
+        "postalCode": "30030-2545"
       },
       {
         "line": [
-          "4819 Emperor Boulevard, Suite 400"
+          "4620 E 53RD ST STE 200"
         ],
-        "city": "DURHAM",
-        "state": "NC",
-        "postalCode": "27703-5420"
+        "city": "DAVENPORT",
+        "state": "IA",
+        "postalCode": "52807-3627"
+      },
+      {
+        "line": [
+          "20860 N TATUM BLVD STE 300"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85050-4283"
+      },
+      {
+        "line": [
+          "3597 E MONARCH SKY LN STE F-240"
+        ],
+        "city": "MERIDIAN",
+        "state": "ID",
+        "postalCode": "83646-1053"
       },
       {
         "line": [
@@ -107,27 +107,27 @@
       },
       {
         "line": [
-          "400 Renaissance Center Suite 2600"
+          "675 Town Square Blvd, Suite 200, Bldg 1A"
         ],
-        "city": "DETROIT",
-        "state": "MI",
-        "postalCode": "48243-1312"
+        "city": "GARLAND",
+        "state": "TX",
+        "postalCode": "75040-2991"
       },
       {
         "line": [
-          "4620 E 53RD ST STE 200"
+          "1299 FARNAM ST STE 300"
         ],
-        "city": "DAVENPORT",
-        "state": "IA",
-        "postalCode": "52807-3627"
+        "city": "OMAHA",
+        "state": "NE",
+        "postalCode": "68102-1857"
       },
       {
         "line": [
-          "420 North 20th Street, Suite 2200"
+          "73 Market Street, 3rd Floor"
         ],
-        "city": "BIRMINGHAM",
-        "state": "AL",
-        "postalCode": "35203-5202"
+        "city": "YONKERS",
+        "state": "NY",
+        "postalCode": "10710-7616"
       },
       {
         "line": [
@@ -139,36 +139,11 @@
       },
       {
         "line": [
-          "One West Court Square, Suite 750"
+          "4819 Emperor Boulevard, Suite 400"
         ],
-        "city": "DECATUR",
-        "state": "GA",
-        "postalCode": "30030-2545"
-      },
-      {
-        "line": [
-          "332 S. Michigan Ave",
-          "Ste 900"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60604-4434"
-      },
-      {
-        "line": [
-          "16701 Melford Blvd"
-        ],
-        "city": "BOWIE",
-        "state": "MD",
-        "postalCode": "20715-4460"
-      },
-      {
-        "line": [
-          "20860 N TATUM BLVD STE 300"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85050-4283"
+        "city": "DURHAM",
+        "state": "NC",
+        "postalCode": "27703-5420"
       },
       {
         "line": [
@@ -177,6 +152,31 @@
         "city": "CHESTERFIELD",
         "state": "MO",
         "postalCode": "63017-4800"
+      },
+      {
+        "line": [
+          "7633 E 63rd PL",
+          "Suite 300"
+        ],
+        "city": "TULSA",
+        "state": "OK",
+        "postalCode": "74133-1202"
+      },
+      {
+        "line": [
+          "420 North 20th Street, Suite 2200"
+        ],
+        "city": "BIRMINGHAM",
+        "state": "AL",
+        "postalCode": "35203-5202"
+      },
+      {
+        "line": [
+          "16701 Melford Blvd"
+        ],
+        "city": "BOWIE",
+        "state": "MD",
+        "postalCode": "20715-4460"
       }
     ],
     "extension": [

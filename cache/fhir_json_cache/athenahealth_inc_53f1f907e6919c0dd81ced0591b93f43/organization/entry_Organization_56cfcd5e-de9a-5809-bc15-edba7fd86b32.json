@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437233426"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1235219965"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255416897"
+        "value": "1437233426"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649555004"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,18 +30,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649555004"
+        "value": "1255416897"
       }
     ],
     "address": [
-      {
-        "line": [
-          "4599 Towne Centre Rd"
-        ],
-        "city": "Saginaw",
-        "state": "MI",
-        "postalCode": "48604-2801"
-      },
       {
         "line": [
           "400 NORTH ST"
@@ -57,6 +49,14 @@
         "city": "OSCODA",
         "state": "MI",
         "postalCode": "48750-9710"
+      },
+      {
+        "line": [
+          "4599 Towne Centre Rd"
+        ],
+        "city": "Saginaw",
+        "state": "MI",
+        "postalCode": "48604-2801"
       }
     ],
     "extension": [

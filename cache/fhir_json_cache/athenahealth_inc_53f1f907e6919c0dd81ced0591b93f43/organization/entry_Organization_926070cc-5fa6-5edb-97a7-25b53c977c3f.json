@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801086616"
+        "value": "1518267392"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518267392"
+        "value": "1801086616"
       }
     ],
     "address": [
-      {
-        "line": [
-          "8737 beverly blvd"
-        ],
-        "city": "LOS ANGELES",
-        "state": "CA",
-        "postalCode": "90048-1828"
-      },
       {
         "line": [
           "8641 WILSHIRE BLVD STE 301"
@@ -37,6 +29,14 @@
         "city": "BEVERLY HILLS",
         "state": "CA",
         "postalCode": "90211-2921"
+      },
+      {
+        "line": [
+          "8737 beverly blvd"
+        ],
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "postalCode": "90048-1828"
       },
       {
         "line": [

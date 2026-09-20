@@ -14,78 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811912611"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1356630990"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1033943105"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811912611"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2860 RONALD REAGAN BLVD"
-        ],
-        "city": "CUMMING",
-        "state": "GA",
-        "postalCode": "30041-0001"
-      },
-      {
-        "line": [
-          "1163 Johnson Ferry Road"
-        ],
-        "city": "MARIETTA",
-        "state": "GA",
-        "postalCode": "30068-2764"
-      },
-      {
-        "line": [
-          "2860 Ronald Reagan Blvd",
-          "Suite 200"
-        ],
-        "city": "CUMMING",
-        "state": "GA",
-        "postalCode": "30041-0001"
-      },
-      {
-        "line": [
-          "550 Peachtree Street NE"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30308-2247"
-      },
-      {
-        "line": [
-          "2001 Peachtree Road NE",
-          "Suite 705"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30309-1476"
-      },
-      {
-        "line": [
-          "3870 Pleasant Hill Road",
-          "Suite 100"
-        ],
-        "city": "DULUTH",
-        "state": "GA",
-        "postalCode": "30096-4807"
-      },
-      {
-        "line": [
-          "2860 Ronald Reagan Blvd",
-          "Suite 300"
-        ],
-        "city": "CUMMING",
-        "state": "GA",
-        "postalCode": "30041-0001"
-      },
       {
         "line": [
           "1000 Northside Drive",
@@ -97,30 +37,38 @@
       },
       {
         "line": [
-          "993 C Johnson Ferry Pkwy",
-          "Ste 345"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30342-1212"
-      },
-      {
-        "line": [
-          "5505 Peachtree Dunwoody Road",
-          "Suite 600"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30342-1717"
-      },
-      {
-        "line": [
           "11800 Amber Park Drive Parkway 400",
           "Building One, Suite 200"
         ],
         "city": "ALPHARETTA",
         "state": "GA",
         "postalCode": "30005-3707"
+      },
+      {
+        "line": [
+          "1524 River Place",
+          "Suite 200"
+        ],
+        "city": "BRASELTON",
+        "state": "GA",
+        "postalCode": "30517-5614"
+      },
+      {
+        "line": [
+          "1163 Johnson Ferry Road"
+        ],
+        "city": "MARIETTA",
+        "state": "GA",
+        "postalCode": "30068-2764"
+      },
+      {
+        "line": [
+          "2001 Peachtree Road NE",
+          "Suite 705"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30309-1476"
       },
       {
         "line": [
@@ -141,17 +89,87 @@
       },
       {
         "line": [
-          "2001 Peachtree Rd",
-          "suite 705"
+          "993 C Johnson Ferry Pkwy",
+          "Ste 345"
         ],
         "city": "ATLANTA",
         "state": "GA",
-        "postalCode": "30309-1476"
+        "postalCode": "30342-1212"
       },
       {
         "line": [
           "2860 Ronald Reagan Blvd",
           "Suite 240"
+        ],
+        "city": "CUMMING",
+        "state": "GA",
+        "postalCode": "30041-0001"
+      },
+      {
+        "line": [
+          "2860 Ronald Reagan Blvd",
+          "Suite 200"
+        ],
+        "city": "CUMMING",
+        "state": "GA",
+        "postalCode": "30041-0001"
+      },
+      {
+        "line": [
+          "2860 Ronald Reagan Blvd",
+          "Suite 300"
+        ],
+        "city": "CUMMING",
+        "state": "GA",
+        "postalCode": "30041-0001"
+      },
+      {
+        "line": [
+          "1163 Johnson Ferry Road",
+          "Suite 200"
+        ],
+        "city": "MARIETTA",
+        "state": "GA",
+        "postalCode": "30068-2764"
+      },
+      {
+        "line": [
+          "550 Peachtree Street NE"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30308-2247"
+      },
+      {
+        "line": [
+          "11800 AMBERPARK DR PARKWAY 400",
+          "BUILDING ONE STE 200"
+        ],
+        "city": "ALPHARETTA",
+        "state": "GA",
+        "postalCode": "30009-2274"
+      },
+      {
+        "line": [
+          "5505 Peachtree Dunwoody Road",
+          "Suite 600"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30342-1717"
+      },
+      {
+        "line": [
+          "142 Prestige Lane",
+          "Suite 600"
+        ],
+        "city": "DAWSONVILLE",
+        "state": "GA",
+        "postalCode": "30534-6254"
+      },
+      {
+        "line": [
+          "2860 RONALD REAGAN BLVD"
         ],
         "city": "CUMMING",
         "state": "GA",
@@ -167,33 +185,6 @@
       },
       {
         "line": [
-          "142 Prestige Lane",
-          "Suite 600"
-        ],
-        "city": "DAWSONVILLE",
-        "state": "GA",
-        "postalCode": "30534-6253"
-      },
-      {
-        "line": [
-          "142 Prestige Lane",
-          "Suite 600"
-        ],
-        "city": "DAWSONVILLE",
-        "state": "GA",
-        "postalCode": "30534-6254"
-      },
-      {
-        "line": [
-          "1901 Phoenix Boulevard",
-          "Suite 200"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30349-5062"
-      },
-      {
-        "line": [
           "3200 Downwood Circle",
           "Suite 700"
         ],
@@ -203,30 +194,12 @@
       },
       {
         "line": [
-          "1524 River Place",
-          "Suite 200"
+          "142 Prestige Lane",
+          "Suite 600"
         ],
-        "city": "BRASELTON",
+        "city": "DAWSONVILLE",
         "state": "GA",
-        "postalCode": "30517-5614"
-      },
-      {
-        "line": [
-          "1163 Johnson Ferry Road",
-          "Suite 200"
-        ],
-        "city": "MARIETTA",
-        "state": "GA",
-        "postalCode": "30068-2764"
-      },
-      {
-        "line": [
-          "11800 AMBERPARK DR PARKWAY 400",
-          "BUILDING ONE STE 200"
-        ],
-        "city": "ALPHARETTA",
-        "state": "GA",
-        "postalCode": "30009-2274"
+        "postalCode": "30534-6253"
       },
       {
         "line": [
@@ -236,6 +209,33 @@
         "city": "DULUTH",
         "state": "GA",
         "postalCode": "30096-4807"
+      },
+      {
+        "line": [
+          "2001 Peachtree Rd",
+          "suite 705"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30309-1476"
+      },
+      {
+        "line": [
+          "3870 Pleasant Hill Road",
+          "Suite 100"
+        ],
+        "city": "DULUTH",
+        "state": "GA",
+        "postalCode": "30096-4807"
+      },
+      {
+        "line": [
+          "1901 Phoenix Boulevard",
+          "Suite 200"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30349-5062"
       }
     ],
     "extension": [

@@ -14,19 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518185396"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427276203"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295823045"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053556191"
+        "value": "1902988983"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,27 +22,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902988983"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093932238"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427278134"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669672358"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992925713"
+        "value": "1295823045"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336344852"
+        "value": "1427276203"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1518185396"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821216953"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,14 +46,54 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992925713"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1427278134"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1164667283"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821216953"
+        "value": "1336344852"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053556191"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1093932238"
       }
     ],
     "address": [
+      {
+        "line": [
+          "838 West Meeting Street, Suite F"
+        ],
+        "city": "LANCASTER",
+        "state": "SC",
+        "postalCode": "29720-6261"
+      },
+      {
+        "line": [
+          "1530 N.  Limestone Street"
+        ],
+        "city": "GAFFNEY",
+        "state": "SC",
+        "postalCode": "29340-4742"
+      },
+      {
+        "line": [
+          "2191 Southport Rd"
+        ],
+        "city": "SPARTANBURG",
+        "state": "SC",
+        "postalCode": "29306-6257"
+      },
       {
         "line": [
           "800 W Meeting Street"
@@ -77,6 +101,14 @@
         "city": "LANCASTER",
         "state": "SC",
         "postalCode": "29720-2202"
+      },
+      {
+        "line": [
+          "1552 N Limstone, Ste B"
+        ],
+        "city": "GAFFNEY",
+        "state": "SC",
+        "postalCode": "29340-4750"
       },
       {
         "line": [
@@ -88,11 +120,11 @@
       },
       {
         "line": [
-          "2191 Southport Rd"
+          "1530 North Limestone Street"
         ],
-        "city": "SPARTANBURG",
+        "city": "GAFFNEY",
         "state": "SC",
-        "postalCode": "29306-6257"
+        "postalCode": "29340-1069"
       },
       {
         "line": [
@@ -112,38 +144,6 @@
       },
       {
         "line": [
-          "838 West Meeting Street, Suite F"
-        ],
-        "city": "LANCASTER",
-        "state": "SC",
-        "postalCode": "29720-6261"
-      },
-      {
-        "line": [
-          "1530 N.  Limestone Street"
-        ],
-        "city": "GAFFNEY",
-        "state": "SC",
-        "postalCode": "29340-4742"
-      },
-      {
-        "line": [
-          "1530 North Limestone Street"
-        ],
-        "city": "GAFFNEY",
-        "state": "SC",
-        "postalCode": "29340-1069"
-      },
-      {
-        "line": [
-          "1690 SKYLYN DR STE 350"
-        ],
-        "city": "SPARTANBURG",
-        "state": "SC",
-        "postalCode": "29307-1039"
-      },
-      {
-        "line": [
           "1650 Skylyn Dr, Suite 120"
         ],
         "city": "SPARTANBURG",
@@ -152,11 +152,11 @@
       },
       {
         "line": [
-          "1552 N Limstone, Ste B"
+          "1690 SKYLYN DR STE 350"
         ],
-        "city": "GAFFNEY",
+        "city": "SPARTANBURG",
         "state": "SC",
-        "postalCode": "29340-4750"
+        "postalCode": "29307-1039"
       }
     ],
     "extension": [

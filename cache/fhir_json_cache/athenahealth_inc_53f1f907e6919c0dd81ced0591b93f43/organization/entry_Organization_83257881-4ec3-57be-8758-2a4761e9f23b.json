@@ -14,41 +14,17 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871191403"
+        "value": "1669182887"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669182887"
+        "value": "1871191403"
       }
     ],
     "address": [
       {
         "line": [
-          "941 HILLWIND RD NE"
-        ],
-        "city": "MINNEAPOLIS",
-        "state": "MN",
-        "postalCode": "55432-5962"
-      },
-      {
-        "line": [
-          "941 Hillwind RD NE STE 100A"
-        ],
-        "city": "FRIDLEY",
-        "state": "MN",
-        "postalCode": "55432-3151"
-      },
-      {
-        "line": [
           "941 HILLWIND RD NE STE 100A"
-        ],
-        "city": "MINNEAPOLIS",
-        "state": "MN",
-        "postalCode": "55432-5963"
-      },
-      {
-        "line": [
-          "941 HILLWIND RD NE STE 100"
         ],
         "city": "MINNEAPOLIS",
         "state": "MN",
@@ -61,6 +37,30 @@
         "city": "FRIDLEY",
         "state": "MN",
         "postalCode": "55432-3151"
+      },
+      {
+        "line": [
+          "941 HILLWIND RD NE STE 100"
+        ],
+        "city": "MINNEAPOLIS",
+        "state": "MN",
+        "postalCode": "55432-5963"
+      },
+      {
+        "line": [
+          "941 Hillwind RD NE STE 100A"
+        ],
+        "city": "FRIDLEY",
+        "state": "MN",
+        "postalCode": "55432-3151"
+      },
+      {
+        "line": [
+          "941 HILLWIND RD NE"
+        ],
+        "city": "MINNEAPOLIS",
+        "state": "MN",
+        "postalCode": "55432-5962"
       }
     ],
     "extension": [

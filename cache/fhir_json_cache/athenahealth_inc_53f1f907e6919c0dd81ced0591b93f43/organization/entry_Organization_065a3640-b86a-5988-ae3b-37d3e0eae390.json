@@ -18,7 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659768414"
+        "value": "1104203371"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487041240"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,11 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104203371"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487041240"
+        "value": "1659768414"
       }
     ],
     "address": [
@@ -41,22 +41,6 @@
         "city": "PULASKI",
         "state": "VA",
         "postalCode": "24301-2326"
-      },
-      {
-        "line": [
-          "1900 ELECTRIC ROAD"
-        ],
-        "city": "SALEM",
-        "state": "VA",
-        "postalCode": "24153-7474"
-      },
-      {
-        "line": [
-          "1902 BRAEBURN DRIVE"
-        ],
-        "city": "SALEM",
-        "state": "VA",
-        "postalCode": "24153-7304"
       },
       {
         "line": [
@@ -73,6 +57,22 @@
         "city": "LOW MOOR",
         "state": "VA",
         "postalCode": "24457-0007"
+      },
+      {
+        "line": [
+          "1902 BRAEBURN DRIVE"
+        ],
+        "city": "SALEM",
+        "state": "VA",
+        "postalCode": "24153-7304"
+      },
+      {
+        "line": [
+          "1900 ELECTRIC ROAD"
+        ],
+        "city": "SALEM",
+        "state": "VA",
+        "postalCode": "24153-7474"
       }
     ],
     "extension": [

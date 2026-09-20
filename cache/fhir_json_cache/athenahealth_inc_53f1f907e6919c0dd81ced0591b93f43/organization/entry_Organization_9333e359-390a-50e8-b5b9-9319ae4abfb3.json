@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568456903"
+        "value": "1255325635"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255325635"
+        "value": "1568456903"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3500 CENTRAL AVENUE"
+        ],
+        "city": "KEARNEY",
+        "state": "NE",
+        "postalCode": "68847-2944"
+      },
       {
         "line": [
           "211 EAST KIMBALL STREET",
@@ -30,14 +38,6 @@
         "city": "CALLAWAY",
         "state": "NE",
         "postalCode": "68825-0100"
-      },
-      {
-        "line": [
-          "720 Webb Rd"
-        ],
-        "city": "GRAND ISLAND",
-        "state": "NE",
-        "postalCode": "68803-3310"
       },
       {
         "line": [
@@ -50,11 +50,11 @@
       },
       {
         "line": [
-          "3500 CENTRAL AVENUE"
+          "720 Webb Rd"
         ],
-        "city": "KEARNEY",
+        "city": "GRAND ISLAND",
         "state": "NE",
-        "postalCode": "68847-2944"
+        "postalCode": "68803-3310"
       }
     ],
     "extension": [

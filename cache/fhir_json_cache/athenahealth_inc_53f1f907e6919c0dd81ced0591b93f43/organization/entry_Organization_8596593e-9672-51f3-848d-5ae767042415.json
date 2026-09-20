@@ -22,19 +22,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346014602"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1184471872"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386518876"
+        "value": "1346014602"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1851283691"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386518876"
       }
     ],
     "address": [
@@ -45,6 +45,40 @@
         "city": "TOLEDO",
         "state": "OH",
         "postalCode": "43606-1370"
+      },
+      {
+        "line": [
+          "3660 GUION RD STE 210"
+        ],
+        "city": "INDIANAPOLIS",
+        "state": "IN",
+        "postalCode": "46222-1691"
+      },
+      {
+        "line": [
+          "2201 MURPHY AVE",
+          "SUITE 103"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37203-1892"
+      },
+      {
+        "line": [
+          "700 W. LEA BLVD",
+          "STE 202"
+        ],
+        "city": "WILMINGTON",
+        "state": "DE",
+        "postalCode": "19802-2545"
+      },
+      {
+        "line": [
+          "501 SW 7TH ST STE A"
+        ],
+        "city": "DES MOINES",
+        "state": "IA",
+        "postalCode": "50309-4538"
       },
       {
         "line": [
@@ -65,45 +99,12 @@
       },
       {
         "line": [
-          "3660 GUION RD STE 210"
-        ],
-        "city": "INDIANAPOLIS",
-        "state": "IN",
-        "postalCode": "46222-1691"
-      },
-      {
-        "line": [
-          "1169 EASTERN PKWY STE 2313"
-        ],
-        "city": "LOUISVILLE",
-        "state": "KY",
-        "postalCode": "40217-1444"
-      },
-      {
-        "line": [
           "9403 KENWOOD RD",
           "STE D-202"
         ],
         "city": "Blue Ash",
         "state": "OH",
         "postalCode": "45242-6895"
-      },
-      {
-        "line": [
-          "501 SW 7TH ST STE A"
-        ],
-        "city": "DES MOINES",
-        "state": "IA",
-        "postalCode": "50309-4538"
-      },
-      {
-        "line": [
-          "2201 MURPHY AVE",
-          "SUITE 103"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37203-1892"
       },
       {
         "line": [
@@ -116,12 +117,11 @@
       },
       {
         "line": [
-          "700 W. LEA BLVD",
-          "STE 202"
+          "1169 EASTERN PKWY STE 2313"
         ],
-        "city": "WILMINGTON",
-        "state": "DE",
-        "postalCode": "19802-2545"
+        "city": "LOUISVILLE",
+        "state": "KY",
+        "postalCode": "40217-1444"
       }
     ],
     "extension": [

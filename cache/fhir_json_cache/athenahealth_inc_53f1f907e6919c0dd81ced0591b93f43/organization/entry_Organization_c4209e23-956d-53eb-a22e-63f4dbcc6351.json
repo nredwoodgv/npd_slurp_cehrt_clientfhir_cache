@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316253875"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073175956"
+        "value": "1598225021"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1588226328"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316253875"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,18 +34,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598225021"
+        "value": "1073175956"
       }
     ],
     "address": [
-      {
-        "line": [
-          "214 Main St"
-        ],
-        "city": "VERGENNES",
-        "state": "VT",
-        "postalCode": "05491-1157"
-      },
       {
         "line": [
           "655 Main St Suite 2"
@@ -53,54 +45,6 @@
         "city": "BENNINGTON",
         "state": "VT",
         "postalCode": "05201-2225"
-      },
-      {
-        "line": [
-          "54 Chickering Dr. Ste A"
-        ],
-        "city": "BRATTLEBORO",
-        "state": "VT",
-        "postalCode": "05301-8805"
-      },
-      {
-        "line": [
-          "12 Dallaire Ave"
-        ],
-        "city": "CHICOPEE",
-        "state": "MA",
-        "postalCode": "01020-1237"
-      },
-      {
-        "line": [
-          "4614 Memorial Drive"
-        ],
-        "city": "SAINT JOHNSBURY",
-        "state": "VT",
-        "postalCode": "05819-8780"
-      },
-      {
-        "line": [
-          "17 Catherine Street"
-        ],
-        "city": "SAINT ALBANS",
-        "state": "VT",
-        "postalCode": "05478-2205"
-      },
-      {
-        "line": [
-          "462 Hegeman Ave"
-        ],
-        "city": "COLCHESTER",
-        "state": "VT",
-        "postalCode": "05446-3187"
-      },
-      {
-        "line": [
-          "79 Coventry St"
-        ],
-        "city": "NEWPORT",
-        "state": "VT",
-        "postalCode": "05855-2206"
       },
       {
         "line": [
@@ -112,12 +56,68 @@
       },
       {
         "line": [
+          "54 Chickering Dr. Ste A"
+        ],
+        "city": "BRATTLEBORO",
+        "state": "VT",
+        "postalCode": "05301-8805"
+      },
+      {
+        "line": [
+          "462 Hegeman Ave"
+        ],
+        "city": "COLCHESTER",
+        "state": "VT",
+        "postalCode": "05446-3187"
+      },
+      {
+        "line": [
+          "12 Dallaire Ave"
+        ],
+        "city": "CHICOPEE",
+        "state": "MA",
+        "postalCode": "01020-1237"
+      },
+      {
+        "line": [
           "31 Lower Main Street",
           "Suite 3"
         ],
         "city": "MORRISVILLE",
         "state": "VT",
         "postalCode": "05661-6100"
+      },
+      {
+        "line": [
+          "17 Catherine Street"
+        ],
+        "city": "SAINT ALBANS",
+        "state": "VT",
+        "postalCode": "05478-2205"
+      },
+      {
+        "line": [
+          "214 Main St"
+        ],
+        "city": "VERGENNES",
+        "state": "VT",
+        "postalCode": "05491-1157"
+      },
+      {
+        "line": [
+          "79 Coventry St"
+        ],
+        "city": "NEWPORT",
+        "state": "VT",
+        "postalCode": "05855-2206"
+      },
+      {
+        "line": [
+          "4614 Memorial Drive"
+        ],
+        "city": "SAINT JOHNSBURY",
+        "state": "VT",
+        "postalCode": "05819-8780"
       }
     ],
     "extension": [

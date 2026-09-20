@@ -14,18 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073615456"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1548211311"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1457617235"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073615456"
       }
     ],
     "address": [
+      {
+        "line": [
+          "745 West State Suite 750"
+        ],
+        "city": "COLUMBUS",
+        "state": "OH",
+        "postalCode": "43213-1515"
+      },
       {
         "line": [
           "5300 North Meadows Dr",
@@ -34,22 +42,6 @@
         "city": "GROVE CITY",
         "state": "OH",
         "postalCode": "43123-2546"
-      },
-      {
-        "line": [
-          "477 Cooper Road Suite 200"
-        ],
-        "city": "WESTERVILLE",
-        "state": "OH",
-        "postalCode": "43081-8055"
-      },
-      {
-        "line": [
-          "745 West State Suite 750"
-        ],
-        "city": "COLUMBUS",
-        "state": "OH",
-        "postalCode": "43213-1515"
       },
       {
         "line": [
@@ -66,6 +58,14 @@
         "city": "LEWIS CENTER",
         "state": "OH",
         "postalCode": "43035-8114"
+      },
+      {
+        "line": [
+          "477 Cooper Road Suite 200"
+        ],
+        "city": "WESTERVILLE",
+        "state": "OH",
+        "postalCode": "43081-8055"
       }
     ],
     "extension": [

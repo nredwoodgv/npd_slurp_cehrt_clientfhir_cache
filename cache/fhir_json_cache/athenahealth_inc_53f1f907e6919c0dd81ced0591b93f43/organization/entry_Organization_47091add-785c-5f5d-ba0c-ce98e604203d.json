@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
+        "value": "1730484031"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,15 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215999511"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,7 +30,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
+        "value": "1124080320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750302923"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -47,17 +43,13 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1053373951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881656247"
       }
     ],
     "address": [
-      {
-        "line": [
-          "400 Hospital Dr Ste 210"
-        ],
-        "city": "CORSICANA",
-        "state": "TX",
-        "postalCode": "75110-2489"
-      },
       {
         "line": [
           "505 N. Hwy 77, Suite 200"
@@ -68,7 +60,7 @@
       },
       {
         "line": [
-          "400 Hospital Dr Ste 208"
+          "400 Hospital Dr Ste 101"
         ],
         "city": "CORSICANA",
         "state": "TX",
@@ -76,7 +68,15 @@
       },
       {
         "line": [
-          "400 Hospital Dr Ste 101"
+          "400 Hospital Dr Ste 210"
+        ],
+        "city": "CORSICANA",
+        "state": "TX",
+        "postalCode": "75110-2489"
+      },
+      {
+        "line": [
+          "400 Hospital Dr Ste 208"
         ],
         "city": "CORSICANA",
         "state": "TX",

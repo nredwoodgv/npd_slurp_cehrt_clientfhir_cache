@@ -14,14 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871780825"
+        "value": "1790295210"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790295210"
+        "value": "1871780825"
       }
     ],
     "address": [
+      {
+        "line": [
+          "22450 S. Harrison St",
+          "Suite 100"
+        ],
+        "city": "SPRING HILL",
+        "state": "KS",
+        "postalCode": "66083-6505"
+      },
+      {
+        "line": [],
+        "city": "SPRING HILL",
+        "state": "KS",
+        "postalCode": "66083-3151"
+      },
       {
         "line": [
           "11701 NIEMAN ROAD"
@@ -41,15 +56,8 @@
       },
       {
         "line": [
-          "22450 S. Harrison St",
-          "Suite 100"
+          "22450 S. HARRISON ST., STE 100"
         ],
-        "city": "SPRING HILL",
-        "state": "KS",
-        "postalCode": "66083-6505"
-      },
-      {
-        "line": [],
         "city": "SPRING HILL",
         "state": "KS",
         "postalCode": "66083-3151"
@@ -61,14 +69,6 @@
         "city": "SPRING HILL",
         "state": "KS",
         "postalCode": "66083-8882"
-      },
-      {
-        "line": [
-          "22450 S. HARRISON ST., STE 100"
-        ],
-        "city": "SPRING HILL",
-        "state": "KS",
-        "postalCode": "66083-3151"
       }
     ],
     "extension": [

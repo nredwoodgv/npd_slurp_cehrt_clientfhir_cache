@@ -14,18 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407194319"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942508379"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285614834"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1467884262"
       },
       {
@@ -34,11 +22,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1407194319"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962752998"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1154794261"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285614834"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1942508379"
       }
     ],
     "address": [
@@ -53,11 +53,11 @@
       },
       {
         "line": [
-          "75 3rd Avenue"
+          "pathology"
         ],
-        "city": "WALTHAM",
+        "city": "ACTON",
         "state": "MA",
-        "postalCode": "02451-7549"
+        "postalCode": "01720-3301"
       },
       {
         "line": [
@@ -69,11 +69,11 @@
       },
       {
         "line": [
-          "6 Courthouse Lane"
+          "92 Montvale Avenue"
         ],
-        "city": "CHELMSFORD",
+        "city": "STONEHAM",
         "state": "MA",
-        "postalCode": "01824-1274"
+        "postalCode": "02180-3647"
       },
       {
         "line": [
@@ -85,11 +85,11 @@
       },
       {
         "line": [
-          "pathology"
+          "6 Courthouse Lane"
         ],
-        "city": "ACTON",
+        "city": "CHELMSFORD",
         "state": "MA",
-        "postalCode": "01720-3301"
+        "postalCode": "01824-1274"
       },
       {
         "line": [
@@ -101,11 +101,11 @@
       },
       {
         "line": [
-          "92 Montvale Avenue"
+          "75 3rd Avenue"
         ],
-        "city": "STONEHAM",
+        "city": "WALTHAM",
         "state": "MA",
-        "postalCode": "02180-3647"
+        "postalCode": "02451-7549"
       }
     ],
     "extension": [

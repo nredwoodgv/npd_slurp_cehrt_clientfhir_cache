@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477674083"
+        "value": "1326136102"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326136102"
+        "value": "1477674083"
       }
     ],
     "address": [
@@ -29,14 +29,6 @@
         "city": "LULING",
         "state": "LA",
         "postalCode": "70070-4349"
-      },
-      {
-        "line": [
-          "200 West 134 Place"
-        ],
-        "city": "CUT OFF",
-        "state": "LA",
-        "postalCode": "70345-4143"
       },
       {
         "line": [
@@ -53,6 +45,14 @@
         "city": "THIBODAUX",
         "state": "LA",
         "postalCode": "70301-4847"
+      },
+      {
+        "line": [
+          "200 West 134 Place"
+        ],
+        "city": "CUT OFF",
+        "state": "LA",
+        "postalCode": "70345-4143"
       }
     ],
     "extension": [

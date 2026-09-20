@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1972605285"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1255984456"
       },
       {
@@ -22,21 +26,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487131025"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1841783180"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972605285"
+        "value": "1487131025"
       }
     ],
     "address": [
       {
         "line": [
-          "1701 E 23RD AVE",
+          "1701 E. 23rd",
           "Suite 100"
         ],
         "city": "HUTCHINSON",
@@ -45,7 +45,7 @@
       },
       {
         "line": [
-          "1701 E. 23rd",
+          "1701 E 23RD AVE",
           "Suite 100"
         ],
         "city": "HUTCHINSON",

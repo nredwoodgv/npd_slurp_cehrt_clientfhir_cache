@@ -18,11 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831150119"
+        "value": "1558665752"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558665752"
+        "value": "1831150119"
       }
     ],
     "address": [
@@ -36,15 +36,7 @@
       },
       {
         "line": [
-          "509 Memorial Drive Ste 2"
-        ],
-        "city": "MANCHESTER",
-        "state": "KY",
-        "postalCode": "40962-6196"
-      },
-      {
-        "line": [
-          "94 Marie Langdon Dr Ste 4"
+          "94 Marie Langdon Drive Ste 2"
         ],
         "city": "MANCHESTER",
         "state": "KY",
@@ -60,7 +52,7 @@
       },
       {
         "line": [
-          "94 Marie Langdon Drive Ste 2"
+          "94 Marie Langdon Dr Ste 4"
         ],
         "city": "MANCHESTER",
         "state": "KY",
@@ -73,6 +65,14 @@
         "city": "MANCHESTER",
         "state": "KY",
         "postalCode": "40962-6212"
+      },
+      {
+        "line": [
+          "509 Memorial Drive Ste 2"
+        ],
+        "city": "MANCHESTER",
+        "state": "KY",
+        "postalCode": "40962-6196"
       }
     ],
     "extension": [

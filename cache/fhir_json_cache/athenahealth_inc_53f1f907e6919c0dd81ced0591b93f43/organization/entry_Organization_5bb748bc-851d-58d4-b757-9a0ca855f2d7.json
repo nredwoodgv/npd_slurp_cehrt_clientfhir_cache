@@ -18,11 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942860176"
+        "value": "1205845369"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679501746"
+        "value": "1942860176"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,25 +30,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205845369"
+        "value": "1679501746"
       }
     ],
     "address": [
       {
         "line": [
-          "2001 NORTH JEFFERSON AVENUE"
+          "3414 golden road"
         ],
-        "city": "MOUNT PLEASANT",
+        "city": "TYLER",
         "state": "TX",
-        "postalCode": "75455-2338"
+        "postalCode": "75701-8336"
       },
       {
         "line": [
-          "4948 NE STALLINGS DR"
+          "8200 Walnut Hill"
         ],
-        "city": "NACOGDOCHES",
+        "city": "DALLAS",
         "state": "TX",
-        "postalCode": "75965-1212"
+        "postalCode": "75231-4402"
       },
       {
         "line": [
@@ -60,11 +60,59 @@
       },
       {
         "line": [
+          "2001 NORTH JEFFERSON AVENUE"
+        ],
+        "city": "MOUNT PLEASANT",
+        "state": "TX",
+        "postalCode": "75455-2338"
+      },
+      {
+        "line": [
+          "6210 S BROADWAY AVE"
+        ],
+        "city": "TYLER",
+        "state": "TX",
+        "postalCode": "75701-4413"
+      },
+      {
+        "line": [
           "4920 NE STALLINGS DR"
         ],
         "city": "NACOGDOCHES",
         "state": "TX",
         "postalCode": "75965-1212"
+      },
+      {
+        "line": [
+          "4800 NE STALLINGS DR # 110"
+        ],
+        "city": "NACOGDOCHES",
+        "state": "TX",
+        "postalCode": "75965-1212"
+      },
+      {
+        "line": [
+          "4948 NE STALLINGS DR"
+        ],
+        "city": "NACOGDOCHES",
+        "state": "TX",
+        "postalCode": "75965-1212"
+      },
+      {
+        "line": [
+          "1000 S BECKHAM AVE"
+        ],
+        "city": "TYLER",
+        "state": "TX",
+        "postalCode": "75701-1908"
+      },
+      {
+        "line": [
+          "712 HAYTER STREET"
+        ],
+        "city": "NACOGDOCHES",
+        "state": "TX",
+        "postalCode": "75962-0001"
       },
       {
         "line": [
@@ -84,22 +132,6 @@
       },
       {
         "line": [
-          "3414 Golden Road"
-        ],
-        "city": "TYLER",
-        "state": "TX",
-        "postalCode": "75701-8336"
-      },
-      {
-        "line": [
-          "5505 NEW COPELAND ROAD"
-        ],
-        "city": "TYLER",
-        "state": "TX",
-        "postalCode": "75703-3955"
-      },
-      {
-        "line": [
           "3414 GOLDEN ROAD"
         ],
         "city": "TYLER",
@@ -112,7 +144,23 @@
         ],
         "city": "NACOGDOCHES",
         "state": "TX",
-        "postalCode": "75965-1212"
+        "postalCode": "75965-1250"
+      },
+      {
+        "line": [
+          "5505 NEW COPELAND ROAD"
+        ],
+        "city": "TYLER",
+        "state": "TX",
+        "postalCode": "75703-3955"
+      },
+      {
+        "line": [
+          "3414 Golden Road"
+        ],
+        "city": "TYLER",
+        "state": "TX",
+        "postalCode": "75701-8336"
       },
       {
         "line": [
@@ -121,54 +169,6 @@
         "city": "PITTSBURG",
         "state": "TX",
         "postalCode": "75686-4289"
-      },
-      {
-        "line": [
-          "3414 golden road"
-        ],
-        "city": "TYLER",
-        "state": "TX",
-        "postalCode": "75701-8336"
-      },
-      {
-        "line": [
-          "8200 Walnut Hill"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75231-4402"
-      },
-      {
-        "line": [
-          "712 HAYTER STREET"
-        ],
-        "city": "NACOGDOCHES",
-        "state": "TX",
-        "postalCode": "75962-0001"
-      },
-      {
-        "line": [
-          "6210 S BROADWAY AVE"
-        ],
-        "city": "TYLER",
-        "state": "TX",
-        "postalCode": "75701-4413"
-      },
-      {
-        "line": [
-          "4800 NE STALLINGS DR # 110"
-        ],
-        "city": "NACOGDOCHES",
-        "state": "TX",
-        "postalCode": "75965-1250"
-      },
-      {
-        "line": [
-          "1000 S BECKHAM AVE"
-        ],
-        "city": "TYLER",
-        "state": "TX",
-        "postalCode": "75701-1908"
       }
     ],
     "extension": [

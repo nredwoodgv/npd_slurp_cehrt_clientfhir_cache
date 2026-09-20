@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164183869"
+        "value": "1083992325"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083992325"
+        "value": "1164183869"
       }
     ],
     "address": [
-      {
-        "line": [
-          "819 CYPRESS VILLAGE BLVD"
-        ],
-        "city": "SUN CITY CENTER",
-        "state": "FL",
-        "postalCode": "33573-6834"
-      },
       {
         "line": [
           "912 AMERICAN EAGLE BLVD"
@@ -40,11 +32,19 @@
       },
       {
         "line": [
-          "3850 UPPER CREEK DR"
+          "970 CYPRESS VILLAGE BLVD"
         ],
         "city": "SUN CITY CENTER",
         "state": "FL",
-        "postalCode": "33573-6813"
+        "postalCode": "33573-6830"
+      },
+      {
+        "line": [
+          "819 CYPRESS VILLAGE BLVD"
+        ],
+        "city": "SUN CITY CENTER",
+        "state": "FL",
+        "postalCode": "33573-6834"
       },
       {
         "line": [
@@ -72,11 +72,11 @@
       },
       {
         "line": [
-          "970 CYPRESS VILLAGE BLVD"
+          "3850 UPPER CREEK DR"
         ],
         "city": "SUN CITY CENTER",
         "state": "FL",
-        "postalCode": "33573-6830"
+        "postalCode": "33573-6813"
       }
     ],
     "extension": [

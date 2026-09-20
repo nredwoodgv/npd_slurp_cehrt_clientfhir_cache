@@ -14,19 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639479348"
+        "value": "1265782338"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265782338"
+        "value": "1639479348"
       }
     ],
     "address": [
       {
-        "line": [],
-        "city": "TULSA",
+        "line": [
+          "10502 N 110TH E AVE"
+        ],
+        "city": "OWASSO",
         "state": "OK",
-        "postalCode": "74146-2452"
+        "postalCode": "74055-6655"
       },
       {
         "line": [
@@ -38,12 +40,10 @@
         "postalCode": "74066-4635"
       },
       {
-        "line": [
-          "10502 N 110TH E AVE"
-        ],
-        "city": "OWASSO",
+        "line": [],
+        "city": "TULSA",
         "state": "OK",
-        "postalCode": "74055-6655"
+        "postalCode": "74146-2452"
       }
     ],
     "extension": [

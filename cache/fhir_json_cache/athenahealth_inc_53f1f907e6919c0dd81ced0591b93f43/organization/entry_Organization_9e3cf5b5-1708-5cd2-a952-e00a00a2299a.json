@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922439389"
+        "value": "1023467594"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023467594"
+        "value": "1922439389"
       }
     ],
     "address": [
-      {
-        "line": [
-          "123 Main St."
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10017-1234"
-      },
       {
         "line": [
           "3901 W 15th St"
@@ -48,11 +40,35 @@
       },
       {
         "line": [
+          "3901 W 15th st"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75075-7738"
+      },
+      {
+        "line": [
           "5575 FRISCO SQ BLVD SUITE 100"
         ],
         "city": "FRISCO",
         "state": "TX",
         "postalCode": "75034-3305"
+      },
+      {
+        "line": [
+          "123 Main St."
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10017-1234"
+      },
+      {
+        "line": [
+          "3321 COLORADO BLVD"
+        ],
+        "city": "DENTON",
+        "state": "TX",
+        "postalCode": "76210-6817"
       },
       {
         "line": [
@@ -69,22 +85,6 @@
         "city": "LEWISVILLE",
         "state": "TX",
         "postalCode": "75057-3629"
-      },
-      {
-        "line": [
-          "3321 COLORADO BLVD"
-        ],
-        "city": "DENTON",
-        "state": "TX",
-        "postalCode": "76210-6817"
-      },
-      {
-        "line": [
-          "3901 W 15th st"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75075-7738"
       },
       {
         "line": [
