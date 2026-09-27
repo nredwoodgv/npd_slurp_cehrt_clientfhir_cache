@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861118846"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285388546"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598225021"
+        "value": "1588226328"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,51 +22,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861118846"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1548739170"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588226328"
+        "value": "1285388546"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1316253875"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598225021"
       }
     ],
     "address": [
       {
         "line": [
-          "17 Catherine Street"
+          "31 Lower Main Street",
+          "Suite 3"
         ],
-        "city": "SAINT ALBANS",
+        "city": "MORRISVILLE",
         "state": "VT",
-        "postalCode": "05478-2205"
-      },
-      {
-        "line": [
-          "50 Union St"
-        ],
-        "city": "WEST SPRINGFIELD",
-        "state": "MA",
-        "postalCode": "01089-3317"
-      },
-      {
-        "line": [
-          "4923 Ogletown Stanton Road",
-          "Suite 110"
-        ],
-        "city": "NEWARK",
-        "state": "DE",
-        "postalCode": "19713-2012"
-      },
-      {
-        "line": [
-          "409 Alfred St",
-          "Units 4 & 5"
-        ],
-        "city": "BIDDEFORD",
-        "state": "ME",
-        "postalCode": "04005-3756"
+        "postalCode": "05661-6100"
       },
       {
         "line": [
@@ -87,6 +62,15 @@
       },
       {
         "line": [
+          "41 Acme Rd",
+          "Suite 3"
+        ],
+        "city": "BREWER",
+        "state": "ME",
+        "postalCode": "04412-1543"
+      },
+      {
+        "line": [
           "214 Main St"
         ],
         "city": "VERGENNES",
@@ -95,29 +79,35 @@
       },
       {
         "line": [
-          "31 Lower Main Street",
-          "Suite 3"
+          "462 Hegeman Ave"
         ],
-        "city": "MORRISVILLE",
+        "city": "COLCHESTER",
         "state": "VT",
-        "postalCode": "05661-6100"
+        "postalCode": "05446-3187"
       },
       {
         "line": [
-          "489 Bernardston Rd"
+          "50 Union St"
         ],
-        "city": "GREENFIELD",
+        "city": "WEST SPRINGFIELD",
         "state": "MA",
-        "postalCode": "01301-1238"
+        "postalCode": "01089-3317"
       },
       {
         "line": [
-          "41 Acme Rd",
-          "Suite 3"
+          "79 Coventry St"
         ],
-        "city": "BREWER",
-        "state": "ME",
-        "postalCode": "04412-1543"
+        "city": "NEWPORT",
+        "state": "VT",
+        "postalCode": "05855-2206"
+      },
+      {
+        "line": [
+          "17 Catherine Street"
+        ],
+        "city": "SAINT ALBANS",
+        "state": "VT",
+        "postalCode": "05478-2205"
       },
       {
         "line": [
@@ -130,6 +120,15 @@
       },
       {
         "line": [
+          "4923 Ogletown Stanton Road",
+          "Suite 110"
+        ],
+        "city": "NEWARK",
+        "state": "DE",
+        "postalCode": "19713-2012"
+      },
+      {
+        "line": [
           "147 Riverside Dr",
           "Suite 1"
         ],
@@ -139,19 +138,20 @@
       },
       {
         "line": [
-          "79 Coventry St"
+          "489 Bernardston Rd"
         ],
-        "city": "NEWPORT",
-        "state": "VT",
-        "postalCode": "05855-2206"
+        "city": "GREENFIELD",
+        "state": "MA",
+        "postalCode": "01301-1238"
       },
       {
         "line": [
-          "462 Hegeman Ave"
+          "409 Alfred St",
+          "Units 4 & 5"
         ],
-        "city": "COLCHESTER",
-        "state": "VT",
-        "postalCode": "05446-3187"
+        "city": "BIDDEFORD",
+        "state": "ME",
+        "postalCode": "04005-3756"
       }
     ],
     "extension": [

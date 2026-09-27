@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730412388"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1275290694"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629538491"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -35,28 +27,20 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1508489782"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730412388"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629538491"
       }
     ],
     "address": [
       {
         "line": [
-          "1101 Wolf Lakes Dr. Suite 150"
-        ],
-        "city": "GEORGETOWN",
-        "state": "TX",
-        "postalCode": "78628-3778"
-      },
-      {
-        "line": [
-          "1101 Wolf Lakes Dr  Suite 150"
-        ],
-        "city": "GEORGETOWN",
-        "state": "TX",
-        "postalCode": "78628-3778"
-      },
-      {
-        "line": [
-          "1101 Wolf Lakes Dr  Ste 150"
+          "1101 Wolf Lake Dr  Suite 150"
         ],
         "city": "GEORGETOWN",
         "state": "TX",
@@ -72,7 +56,23 @@
       },
       {
         "line": [
-          "1101 Wolf Lake Dr  Suite 150"
+          "1101 Wolf Lakes Dr  Suite 150"
+        ],
+        "city": "GEORGETOWN",
+        "state": "TX",
+        "postalCode": "78628-3778"
+      },
+      {
+        "line": [
+          "1101 Wolf Lakes Dr. Suite 150"
+        ],
+        "city": "GEORGETOWN",
+        "state": "TX",
+        "postalCode": "78628-3778"
+      },
+      {
+        "line": [
+          "1101 Wolf Lakes Dr  Ste 150"
         ],
         "city": "GEORGETOWN",
         "state": "TX",

@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902831514"
+        "value": "1114809241"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,14 +22,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114809241"
+        "value": "1275975104"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275975104"
+        "value": "1902831514"
       }
     ],
     "address": [
+      {
+        "line": [
+          "455 S Main Steet"
+        ],
+        "city": "ORANGE",
+        "state": "CA",
+        "postalCode": "92868-3835"
+      },
       {
         "line": [
           "4980 Barranca Parkway Suite 220"
@@ -45,14 +53,6 @@
         "city": "ORANGE",
         "state": "CA",
         "postalCode": "92868-3856"
-      },
-      {
-        "line": [
-          "455 S Main Steet"
-        ],
-        "city": "ORANGE",
-        "state": "CA",
-        "postalCode": "92868-3835"
       },
       {
         "line": [

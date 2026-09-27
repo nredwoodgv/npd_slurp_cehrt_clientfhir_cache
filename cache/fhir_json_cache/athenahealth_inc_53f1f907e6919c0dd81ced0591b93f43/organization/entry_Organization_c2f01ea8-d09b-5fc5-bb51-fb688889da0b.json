@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285220830"
+        "value": "1801434568"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801434568"
+        "value": "1285220830"
       }
     ],
     "address": [
+      {
+        "line": [
+          "724 MAIDEN CHOICE LN STE 201"
+        ],
+        "city": "CATONSVILLE",
+        "state": "MD",
+        "postalCode": "21228-5962"
+      },
       {
         "line": [
           "10807 FALLS RD",
@@ -30,14 +38,6 @@
         "city": "BROOKLANDVILLE",
         "state": "MD",
         "postalCode": "21022-7551"
-      },
-      {
-        "line": [
-          "724 MAIDEN CHOICE LN STE 201"
-        ],
-        "city": "CATONSVILLE",
-        "state": "MD",
-        "postalCode": "21228-5962"
       }
     ],
     "extension": [

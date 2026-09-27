@@ -14,43 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063805919"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1134213614"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326620063"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952537664"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801965272"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164726725"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407584758"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730972936"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487210571"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275804890"
+        "value": "1982023495"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,7 +26,31 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568228096"
+        "value": "1275804890"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1518353218"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437271285"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326620063"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386058188"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1063805919"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720623531"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -70,19 +62,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669857116"
+        "value": "1801965272"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437271285"
+        "value": "1487210571"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518353218"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386058188"
+        "value": "1164726725"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -90,30 +78,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982023495"
+        "value": "1669857116"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720623531"
+        "value": "1407584758"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952537664"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1568228096"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730972936"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1830 BLAKE AVE STE 207"
-        ],
-        "city": "GLENWOOD SPRINGS",
-        "state": "CO",
-        "postalCode": "81601-4261"
-      },
-      {
-        "line": [
-          "0401 Castle Creek Rd"
-        ],
-        "city": "ASPEN",
-        "state": "CO",
-        "postalCode": "81611-1159"
-      },
       {
         "line": [
           "100 Pioneers Medical Center Drive"
@@ -132,6 +116,14 @@
       },
       {
         "line": [
+          "501 Airport Rd"
+        ],
+        "city": "RIFLE",
+        "state": "CO",
+        "postalCode": "81650-8510"
+      },
+      {
+        "line": [
           "2001 N Horseshoe Trail"
         ],
         "city": "SILT",
@@ -140,11 +132,19 @@
       },
       {
         "line": [
-          "501 Airport Rd"
+          "0401 Castle Creek Rd"
         ],
-        "city": "RIFLE",
+        "city": "ASPEN",
         "state": "CO",
-        "postalCode": "81650-8510"
+        "postalCode": "81611-1159"
+      },
+      {
+        "line": [
+          "1830 BLAKE AVE STE 207"
+        ],
+        "city": "GLENWOOD SPRINGS",
+        "state": "CO",
+        "postalCode": "81601-4261"
       }
     ],
     "extension": [

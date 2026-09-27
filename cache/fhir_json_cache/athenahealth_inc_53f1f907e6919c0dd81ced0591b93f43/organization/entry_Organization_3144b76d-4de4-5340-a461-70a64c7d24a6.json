@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184206161"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366140121"
+        "value": "1477429389"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,11 +26,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073489985"
+        "value": "1366140121"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477429389"
+        "value": "1184206161"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073489985"
       }
     ],
     "address": [
@@ -42,22 +42,6 @@
         "line": [
           "1690 HOLDEN ROAD",
           "Suite C"
-        ],
-        "city": "LOGAN",
-        "state": "WV",
-        "postalCode": "25601-7026"
-      },
-      {
-        "line": [
-          "555 Main Street"
-        ],
-        "city": "CHAPMANVILLE",
-        "state": "WV",
-        "postalCode": "25508-9998"
-      },
-      {
-        "line": [
-          "83 Hospital Drive"
         ],
         "city": "LOGAN",
         "state": "WV",
@@ -78,6 +62,22 @@
         "city": "CHAPMANVILLE",
         "state": "WV",
         "postalCode": "25508-4013"
+      },
+      {
+        "line": [
+          "83 Hospital Drive"
+        ],
+        "city": "LOGAN",
+        "state": "WV",
+        "postalCode": "25601-7026"
+      },
+      {
+        "line": [
+          "555 Main Street"
+        ],
+        "city": "CHAPMANVILLE",
+        "state": "WV",
+        "postalCode": "25508-9998"
       },
       {
         "line": [

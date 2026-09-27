@@ -14,14 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992722482"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790915395"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861622268"
       },
       {
@@ -30,11 +22,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790711158"
+        "value": "1528298122"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528298122"
+        "value": "1992722482"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1790915395"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1790711158"
       }
     ],
     "address": [
@@ -48,11 +48,43 @@
       },
       {
         "line": [
+          "1011 Main Street"
+        ],
+        "city": "SPRING HILL",
+        "state": "TN",
+        "postalCode": "37174-4531"
+      },
+      {
+        "line": [
+          "2368 GROVE ST"
+        ],
+        "city": "VICKSBURG",
+        "state": "MS",
+        "postalCode": "39183-2857"
+      },
+      {
+        "line": [
+          "47 S FOURTH ST"
+        ],
+        "city": "ROLLING FORK",
+        "state": "MS",
+        "postalCode": "39159-5146"
+      },
+      {
+        "line": [
           "350 CROSSGATES BLVD"
         ],
         "city": "BRANDON",
         "state": "MS",
         "postalCode": "39042-2601"
+      },
+      {
+        "line": [
+          "1880 Fairgrounds Rd"
+        ],
+        "city": "Greenville",
+        "state": "MS",
+        "postalCode": "38703-7804"
       },
       {
         "line": [
@@ -72,43 +104,11 @@
       },
       {
         "line": [
-          "1011 Main Street"
-        ],
-        "city": "SPRING HILL",
-        "state": "TN",
-        "postalCode": "37174-4531"
-      },
-      {
-        "line": [
-          "1880 Fairgrounds Rd"
-        ],
-        "city": "Greenville",
-        "state": "MS",
-        "postalCode": "38703-7804"
-      },
-      {
-        "line": [
-          "2368 GROVE ST"
-        ],
-        "city": "VICKSBURG",
-        "state": "MS",
-        "postalCode": "39183-2857"
-      },
-      {
-        "line": [
           "2200 HIGHWAY 61 N STE 1400"
         ],
         "city": "VICKSBURG",
         "state": "MS",
         "postalCode": "39183-8246"
-      },
-      {
-        "line": [
-          "47 S FOURTH ST"
-        ],
-        "city": "ROLLING FORK",
-        "state": "MS",
-        "postalCode": "39159-5146"
       }
     ],
     "extension": [

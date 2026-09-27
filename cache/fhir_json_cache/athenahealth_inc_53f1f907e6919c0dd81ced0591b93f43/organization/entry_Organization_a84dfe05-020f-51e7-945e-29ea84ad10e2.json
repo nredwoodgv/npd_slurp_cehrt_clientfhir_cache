@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821233354"
+        "value": "1548456494"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548456494"
+        "value": "1821233354"
       }
     ],
     "address": [
-      {
-        "line": [
-          "121 TORMENTA WAY BLDG 3"
-        ],
-        "city": "STATESBORO",
-        "state": "GA",
-        "postalCode": "30458-5697"
-      },
       {
         "line": [
           "2708 HIGHWAY 78 E"
@@ -37,31 +29,6 @@
         "city": "JASPER",
         "state": "AL",
         "postalCode": "35501-3430"
-      },
-      {
-        "line": [
-          "318 MALL BLVD STE 300B"
-        ],
-        "city": "SAVANNAH",
-        "state": "GA",
-        "postalCode": "31406-4758"
-      },
-      {
-        "line": [
-          "4508 Hwy 42 S",
-          "Ste 230"
-        ],
-        "city": "LOCUST GROVE",
-        "state": "GA",
-        "postalCode": "30248-4111"
-      },
-      {
-        "line": [
-          "5005 OSCAR BAXTER DR"
-        ],
-        "city": "TUSCALOOSA",
-        "state": "AL",
-        "postalCode": "35405-3698"
       },
       {
         "line": [
@@ -81,27 +48,12 @@
       },
       {
         "line": [
-          "463 S Columbia Ave"
+          "1199 Hwy 31 NW",
+          "Ste F"
         ],
-        "city": "RINCON",
-        "state": "GA",
-        "postalCode": "31326-9446"
-      },
-      {
-        "line": [
-          "3909 MCFARLAND BLVD"
-        ],
-        "city": "NORTHPORT",
+        "city": "HARTSELLE",
         "state": "AL",
-        "postalCode": "35476-2838"
-      },
-      {
-        "line": [
-          "4690 Forsyth Road"
-        ],
-        "city": "MACON",
-        "state": "GA",
-        "postalCode": "31210-9999"
+        "postalCode": "35640-4469"
       },
       {
         "line": [
@@ -114,21 +66,20 @@
       },
       {
         "line": [
-          "7129 WALL TRIANA HWY",
-          "STE C"
+          "60 EXCHANGE ST STE B7"
         ],
-        "city": "MADISON",
-        "state": "AL",
-        "postalCode": "35757-7421"
+        "city": "RICHMOND HILL",
+        "state": "GA",
+        "postalCode": "31324-7646"
       },
       {
         "line": [
-          "632 W OGLETHORPE HWY",
-          "STE A"
+          "4508 Hwy 42 S",
+          "Ste 230"
         ],
-        "city": "HINESVILLE",
+        "city": "LOCUST GROVE",
         "state": "GA",
-        "postalCode": "31313-4700"
+        "postalCode": "30248-4111"
       },
       {
         "line": [
@@ -137,14 +88,6 @@
         "city": "SAVANNAH",
         "state": "GA",
         "postalCode": "31401-5933"
-      },
-      {
-        "line": [
-          "2201 POOLER PKWY STE 700"
-        ],
-        "city": "POOLER",
-        "state": "GA",
-        "postalCode": "31322-4407"
       },
       {
         "line": [
@@ -157,20 +100,45 @@
       },
       {
         "line": [
-          "5800 OAKWOOD RD NW",
-          "STE A"
+          "4690 Forsyth Road"
         ],
-        "city": "HUNTSVILLE",
-        "state": "AL",
-        "postalCode": "35806-3388"
+        "city": "MACON",
+        "state": "GA",
+        "postalCode": "31210-9999"
       },
       {
         "line": [
-          "60 EXCHANGE ST STE B7"
+          "5005 OSCAR BAXTER DR"
         ],
-        "city": "RICHMOND HILL",
+        "city": "TUSCALOOSA",
+        "state": "AL",
+        "postalCode": "35405-3698"
+      },
+      {
+        "line": [
+          "1980 GA 155 N",
+          "Ste 207"
+        ],
+        "city": "MCDONOUGH",
         "state": "GA",
-        "postalCode": "31324-7646"
+        "postalCode": "30252-4812"
+      },
+      {
+        "line": [
+          "7129 WALL TRIANA HWY",
+          "STE C"
+        ],
+        "city": "MADISON",
+        "state": "AL",
+        "postalCode": "35757-7421"
+      },
+      {
+        "line": [
+          "121 TORMENTA WAY BLDG 3"
+        ],
+        "city": "STATESBORO",
+        "state": "GA",
+        "postalCode": "30458-5697"
       },
       {
         "line": [
@@ -183,21 +151,53 @@
       },
       {
         "line": [
-          "1199 Hwy 31 NW",
-          "Ste F"
+          "5800 OAKWOOD RD NW",
+          "STE A"
         ],
-        "city": "HARTSELLE",
+        "city": "HUNTSVILLE",
         "state": "AL",
-        "postalCode": "35640-4469"
+        "postalCode": "35806-3388"
       },
       {
         "line": [
-          "1980 GA 155 N",
-          "Ste 207"
+          "2201 POOLER PKWY STE 700"
         ],
-        "city": "MCDONOUGH",
+        "city": "POOLER",
         "state": "GA",
-        "postalCode": "30252-4812"
+        "postalCode": "31322-4407"
+      },
+      {
+        "line": [
+          "318 MALL BLVD STE 300B"
+        ],
+        "city": "SAVANNAH",
+        "state": "GA",
+        "postalCode": "31406-4758"
+      },
+      {
+        "line": [
+          "632 W OGLETHORPE HWY",
+          "STE A"
+        ],
+        "city": "HINESVILLE",
+        "state": "GA",
+        "postalCode": "31313-4700"
+      },
+      {
+        "line": [
+          "3909 MCFARLAND BLVD"
+        ],
+        "city": "NORTHPORT",
+        "state": "AL",
+        "postalCode": "35476-2838"
+      },
+      {
+        "line": [
+          "463 S Columbia Ave"
+        ],
+        "city": "RINCON",
+        "state": "GA",
+        "postalCode": "31326-9446"
       }
     ],
     "extension": [

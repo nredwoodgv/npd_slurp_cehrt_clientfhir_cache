@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730117805"
+        "value": "1902979081"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114133485"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,6 +30,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1366515496"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588737266"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114962461"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1255378139"
       },
       {
@@ -34,23 +50,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588737266"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902979081"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114133485"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114962461"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366515496"
+        "value": "1730117805"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -60,19 +60,19 @@
     "address": [
       {
         "line": [
-          "26850 Providence Parkway"
-        ],
-        "city": "NOVI",
-        "state": "MI",
-        "postalCode": "48374-1263"
-      },
-      {
-        "line": [
           "22250 PROVIDENCE DRIVE"
         ],
         "city": "SOUTHFIELD",
         "state": "MI",
         "postalCode": "48075-6215"
+      },
+      {
+        "line": [
+          "26850 Providence Parkway"
+        ],
+        "city": "NOVI",
+        "state": "MI",
+        "postalCode": "48374-1263"
       }
     ],
     "extension": [

@@ -14,17 +14,25 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720192040"
+        "value": "1265741755"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265741755"
+        "value": "1720192040"
       }
     ],
     "address": [
       {
         "line": [
-          "2509 THOMAS AVE"
+          "2509 Thomas Ave"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75201-2039"
+      },
+      {
+        "line": [
+          "2509 Thomas Ave."
         ],
         "city": "DALLAS",
         "state": "TX",
@@ -49,7 +57,7 @@
       },
       {
         "line": [
-          "2509 Thomas Ave."
+          "2509 THOMAS AVE"
         ],
         "city": "DALLAS",
         "state": "TX",
@@ -57,19 +65,11 @@
       },
       {
         "line": [
-          "3920 WORTH ST"
+          "3930 CRUTCHER ST"
         ],
         "city": "DALLAS",
         "state": "TX",
         "postalCode": "75246-1701"
-      },
-      {
-        "line": [
-          "2509 Thomas Ave"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75201-2039"
       },
       {
         "line": [
@@ -81,7 +81,7 @@
       },
       {
         "line": [
-          "3930 CRUTCHER ST"
+          "3920 WORTH ST"
         ],
         "city": "DALLAS",
         "state": "TX",

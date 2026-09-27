@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346251451"
+        "value": "1790265445"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,10 +22,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790265445"
+        "value": "1346251451"
       }
     ],
     "address": [
+      {
+        "line": [
+          "9888 GENESEE AVENUE"
+        ],
+        "city": "LA JOLLA",
+        "state": "CA",
+        "postalCode": "92037-1205"
+      },
       {
         "line": [
           "354 SANTA FE DRIVE"
@@ -36,11 +44,11 @@
       },
       {
         "line": [
-          "9888 GENESEE AVENUE"
+          "700 Garden View Court Suite 204"
         ],
-        "city": "LA JOLLA",
+        "city": "ENCINITAS",
         "state": "CA",
-        "postalCode": "92037-1205"
+        "postalCode": "92024-2478"
       },
       {
         "line": [
@@ -53,14 +61,6 @@
       {
         "line": [
           "700 GARDEN VIEW CT STE 204"
-        ],
-        "city": "ENCINITAS",
-        "state": "CA",
-        "postalCode": "92024-2478"
-      },
-      {
-        "line": [
-          "700 Garden View Court Suite 204"
         ],
         "city": "ENCINITAS",
         "state": "CA",

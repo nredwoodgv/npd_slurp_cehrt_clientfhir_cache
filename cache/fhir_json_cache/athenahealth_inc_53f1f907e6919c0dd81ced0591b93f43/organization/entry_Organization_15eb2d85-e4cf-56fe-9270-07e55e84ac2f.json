@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407689433"
+        "value": "1629929070"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629929070"
+        "value": "1407689433"
       }
     ],
     "address": [
+      {
+        "line": [
+          "925 N WESTERN AVE"
+        ],
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "postalCode": "90029-3215"
+      },
       {
         "line": [
           "401 W LOS FELIZ RD"
@@ -32,20 +40,11 @@
       },
       {
         "line": [
-          "11301 W OLYMPIC BLVD",
-          "STE 125"
+          "544 N GLENDALE AVE"
         ],
-        "city": "LOS ANGELES",
+        "city": "GLENDALE",
         "state": "CA",
-        "postalCode": "90064-1652"
-      },
-      {
-        "line": [
-          "925 N WESTERN AVE"
-        ],
-        "city": "LOS ANGELES",
-        "state": "CA",
-        "postalCode": "90029-3215"
+        "postalCode": "91206-3311"
       },
       {
         "line": [
@@ -57,11 +56,12 @@
       },
       {
         "line": [
-          "544 N GLENDALE AVE"
+          "11301 W OLYMPIC BLVD",
+          "STE 125"
         ],
-        "city": "GLENDALE",
+        "city": "LOS ANGELES",
         "state": "CA",
-        "postalCode": "91206-3311"
+        "postalCode": "90064-1652"
       }
     ],
     "extension": [

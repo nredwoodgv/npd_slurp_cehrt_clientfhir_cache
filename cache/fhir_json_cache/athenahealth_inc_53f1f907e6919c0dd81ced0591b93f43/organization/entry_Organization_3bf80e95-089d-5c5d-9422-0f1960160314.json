@@ -14,31 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447335690"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730511775"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124198551"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689061467"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225467814"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700048360"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1689061426"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447335690"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,10 +26,38 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730511775"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1164961579"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700048360"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124198551"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225467814"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689061467"
       }
     ],
     "address": [
+      {
+        "line": [
+          "8633 N. Main St"
+        ],
+        "city": "WHITMORE LAKE",
+        "state": "MI",
+        "postalCode": "48189-9248"
+      },
       {
         "line": [
           "3145 W. Clark Rd",
@@ -61,19 +69,11 @@
       },
       {
         "line": [
-          "8633 N. Main St"
+          "208 W. Bennett St."
         ],
-        "city": "WHITMORE LAKE",
+        "city": "SALINE",
         "state": "MI",
-        "postalCode": "48189-9248"
-      },
-      {
-        "line": [
-          "5361 McAuley Dr"
-        ],
-        "city": "ANN ARBOR",
-        "state": "MI",
-        "postalCode": "48106-0995"
+        "postalCode": "48176-1105"
       },
       {
         "line": [
@@ -85,11 +85,11 @@
       },
       {
         "line": [
-          "208 W. Bennett St."
+          "5361 McAuley Dr"
         ],
-        "city": "SALINE",
+        "city": "ANN ARBOR",
         "state": "MI",
-        "postalCode": "48176-1105"
+        "postalCode": "48106-0995"
       },
       {
         "line": [

@@ -18,7 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336316975"
+        "value": "1992972525"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992972525"
+        "value": "1336316975"
       }
     ],
     "address": [
@@ -44,36 +44,11 @@
       },
       {
         "line": [
-          "1449 North 1400 West",
-          "#19"
-        ],
-        "city": "SAINT GEORGE",
-        "state": "UT",
-        "postalCode": "84770-0600"
-      },
-      {
-        "line": [
-          "376 N PAIUTE DR"
-        ],
-        "city": "CEDAR CITY",
-        "state": "UT",
-        "postalCode": "84721-6181"
-      },
-      {
-        "line": [
-          "440 North Paiute Drive"
-        ],
-        "city": "CEDAR CITY",
-        "state": "UT",
-        "postalCode": "84721-6181"
-      },
-      {
-        "line": [
-          "157 N RESERVATION DR"
+          "157 North Reservation Drive"
         ],
         "city": "KANOSH",
         "state": "UT",
-        "postalCode": "84637-7700"
+        "postalCode": "84637-0007"
       },
       {
         "line": [
@@ -85,19 +60,28 @@
       },
       {
         "line": [
+          "1449 N 1400 W STE 19"
+        ],
+        "city": "SAINT GEORGE",
+        "state": "UT",
+        "postalCode": "84770-5237"
+      },
+      {
+        "line": [
+          "1449 North 1400 West",
+          "#19"
+        ],
+        "city": "SAINT GEORGE",
+        "state": "UT",
+        "postalCode": "84770-0600"
+      },
+      {
+        "line": [
           "376 N Paiute Drive"
         ],
         "city": "CEDAR CITY",
         "state": "UT",
         "postalCode": "84721-6181"
-      },
-      {
-        "line": [
-          "157 North Reservation Drive"
-        ],
-        "city": "KANOSH",
-        "state": "UT",
-        "postalCode": "84637-0007"
       },
       {
         "line": [
@@ -109,11 +93,27 @@
       },
       {
         "line": [
-          "1449 N 1400 W STE 19"
+          "157 N RESERVATION DR"
         ],
-        "city": "SAINT GEORGE",
+        "city": "KANOSH",
         "state": "UT",
-        "postalCode": "84770-5237"
+        "postalCode": "84637-7700"
+      },
+      {
+        "line": [
+          "440 North Paiute Drive"
+        ],
+        "city": "CEDAR CITY",
+        "state": "UT",
+        "postalCode": "84721-6181"
+      },
+      {
+        "line": [
+          "376 N PAIUTE DR"
+        ],
+        "city": "CEDAR CITY",
+        "state": "UT",
+        "postalCode": "84721-6181"
       }
     ],
     "extension": [

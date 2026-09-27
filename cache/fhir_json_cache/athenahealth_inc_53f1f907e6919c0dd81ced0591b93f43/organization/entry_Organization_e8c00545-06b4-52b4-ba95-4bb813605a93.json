@@ -18,15 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942659917"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114139714"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1750129672"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1760803233"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,17 +30,112 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760803233"
+        "value": "1942659917"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114139714"
       }
     ],
     "address": [
       {
         "line": [
-          "18701 N 67TH AVE"
+          "1955 W FRYE RD"
         ],
-        "city": "GLENDALE",
+        "city": "CHANDLER",
         "state": "AZ",
-        "postalCode": "85308-7100"
+        "postalCode": "85224-6282"
+      },
+      {
+        "line": [
+          "2353 E BASELINE RD"
+        ],
+        "city": "GILBERT",
+        "state": "AZ",
+        "postalCode": "85234-2342"
+      },
+      {
+        "line": [
+          "2000 W BETHANY HOME RD"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85015-2443"
+      },
+      {
+        "line": [
+          "9301 W THOMAS RD"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85037-3327"
+      },
+      {
+        "line": [
+          "1041 E YORBA LINDA BLVD",
+          "STE 210"
+        ],
+        "city": "PLACENTIA",
+        "state": "CA",
+        "postalCode": "92870-3763"
+      },
+      {
+        "line": [
+          "1041 E. Yorba Linda Blvd",
+          "Suite 200A"
+        ],
+        "city": "PLACENTIA",
+        "state": "CA",
+        "postalCode": "92870-3728"
+      },
+      {
+        "line": [
+          "14502 W MEEKER BLVD"
+        ],
+        "city": "SUN CITY WEST",
+        "state": "AZ",
+        "postalCode": "85375-5282"
+      },
+      {
+        "line": [
+          "13677 W MCDOWELL RD"
+        ],
+        "city": "GOODYEAR",
+        "state": "AZ",
+        "postalCode": "85395-2635"
+      },
+      {
+        "line": [
+          "2626 E UNIVERSITY DR STE 104"
+        ],
+        "city": "MESA",
+        "state": "AZ",
+        "postalCode": "85213-8479"
+      },
+      {
+        "line": [
+          "7910 W THOMAS RD SUITE 112"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85033-4830"
+      },
+      {
+        "line": [
+          "1900 N HIGLEY RD"
+        ],
+        "city": "GILBERT",
+        "state": "AZ",
+        "postalCode": "85234-1604"
+      },
+      {
+        "line": [
+          "71780 San Jacinto Drive",
+          "Bldg D"
+        ],
+        "city": "RANCHO MIRAGE",
+        "state": "CA",
+        "postalCode": "92270-5517"
       },
       {
         "line": [
@@ -57,101 +148,20 @@
       },
       {
         "line": [
-          "2000 W BETHANY HOME RD",
-          "STE 200"
+          "500 S ANAHEIM HILLS RD",
+          "STE 246"
         ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85015-2443"
+        "city": "ANAHEIM",
+        "state": "CA",
+        "postalCode": "92807-4760"
       },
       {
         "line": [
-          "16841 N 31ST AVE STE 130"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85053-3051"
-      },
-      {
-        "line": [
-          "1835 W MISSOURI AVE"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85015-3046"
-      },
-      {
-        "line": [
-          "1760 E PECOS RD STE 215"
+          "3555 S VAL VISTA DR"
         ],
         "city": "GILBERT",
         "state": "AZ",
-        "postalCode": "85295-3202"
-      },
-      {
-        "line": [
-          "3200 N DOBSON RD STE B-1"
-        ],
-        "city": "CHANDLER",
-        "state": "AZ",
-        "postalCode": "85224-9608"
-      },
-      {
-        "line": [
-          "35800 Bob Hope Dr.",
-          "#225"
-        ],
-        "city": "RANCHO MIRAGE",
-        "state": "CA",
-        "postalCode": "92270-1740"
-      },
-      {
-        "line": [
-          "2353 E BASELINE RD"
-        ],
-        "city": "GILBERT",
-        "state": "AZ",
-        "postalCode": "85234-2342"
-      },
-      {
-        "line": [
-          "1262 E NORTH ST"
-        ],
-        "city": "MANTECA",
-        "state": "CA",
-        "postalCode": "95336-4962"
-      },
-      {
-        "line": [
-          "12100 N DYSART RD"
-        ],
-        "city": "SURPRISE",
-        "state": "AZ",
-        "postalCode": "85379-3308"
-      },
-      {
-        "line": [
-          "6245 N 24TH ST"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85016-2034"
-      },
-      {
-        "line": [
-          "1444 FLORIDA AVE # 100"
-        ],
-        "city": "MODESTO",
-        "state": "CA",
-        "postalCode": "95350-4400"
-      },
-      {
-        "line": [
-          "13677 W MCDOWELL RD"
-        ],
-        "city": "GOODYEAR",
-        "state": "AZ",
-        "postalCode": "85395-2635"
+        "postalCode": "85297-7323"
       },
       {
         "line": [
@@ -163,44 +173,44 @@
       },
       {
         "line": [
-          "9139 W THUNDERBIRD RD",
-          "STE 265"
-        ],
-        "city": "PEORIA",
-        "state": "AZ",
-        "postalCode": "85381-4922"
-      },
-      {
-        "line": [
-          "15255 N 40TH ST STE 105"
+          "6245 N 24TH ST"
         ],
         "city": "PHOENIX",
         "state": "AZ",
-        "postalCode": "85032-4636"
+        "postalCode": "85016-2034"
       },
       {
         "line": [
-          "9201 W THOMAS RD"
+          "2000 W BETHANY HOME RD",
+          "STE 200"
         ],
         "city": "PHOENIX",
         "state": "AZ",
-        "postalCode": "85037-3332"
+        "postalCode": "85015-2443"
       },
       {
         "line": [
-          "1900 N HIGLEY RD"
+          "18701 N 67TH AVE"
         ],
-        "city": "GILBERT",
+        "city": "GLENDALE",
         "state": "AZ",
-        "postalCode": "85234-1604"
+        "postalCode": "85308-7100"
       },
       {
         "line": [
-          "3530 S VAL VISTA DR STE C101"
+          "12100 N DYSART RD"
         ],
-        "city": "GILBERT",
+        "city": "SURPRISE",
         "state": "AZ",
-        "postalCode": "85297-7318"
+        "postalCode": "85379-3308"
+      },
+      {
+        "line": [
+          "7300 N 99TH AVE"
+        ],
+        "city": "GLENDALE",
+        "state": "AZ",
+        "postalCode": "85307-3003"
       },
       {
         "line": [
@@ -220,62 +230,85 @@
       },
       {
         "line": [
-          "1041 E YORBA LINDA BLVD",
-          "STE 210"
-        ],
-        "city": "PLACENTIA",
-        "state": "CA",
-        "postalCode": "92870-3763"
-      },
-      {
-        "line": [
-          "1955 W FRYE RD"
+          "3200 N DOBSON RD STE B-1"
         ],
         "city": "CHANDLER",
         "state": "AZ",
-        "postalCode": "85224-6282"
+        "postalCode": "85224-9608"
       },
       {
         "line": [
-          "71780 San Jacinto Drive",
-          "Bldg D"
-        ],
-        "city": "RANCHO MIRAGE",
-        "state": "CA",
-        "postalCode": "92270-5517"
-      },
-      {
-        "line": [
-          "500 S ANAHEIM HILLS RD",
-          "STE 246"
-        ],
-        "city": "ANAHEIM",
-        "state": "CA",
-        "postalCode": "92807-4760"
-      },
-      {
-        "line": [
-          "14502 W MEEKER BLVD"
-        ],
-        "city": "SUN CITY WEST",
-        "state": "AZ",
-        "postalCode": "85375-5282"
-      },
-      {
-        "line": [
-          "13026 W RANCHO SANTA FE BLVD STE C100"
-        ],
-        "city": "AVONDALE",
-        "state": "AZ",
-        "postalCode": "85392-1710"
-      },
-      {
-        "line": [
-          "9301 W THOMAS RD"
+          "16841 N 31ST AVE STE 130"
         ],
         "city": "PHOENIX",
         "state": "AZ",
-        "postalCode": "85037-3327"
+        "postalCode": "85053-3051"
+      },
+      {
+        "line": [
+          "1262 E NORTH ST"
+        ],
+        "city": "MANTECA",
+        "state": "CA",
+        "postalCode": "95336-4962"
+      },
+      {
+        "line": [
+          "1444 FLORIDA AVE # 100"
+        ],
+        "city": "MODESTO",
+        "state": "CA",
+        "postalCode": "95350-4400"
+      },
+      {
+        "line": [
+          "35800 Bob Hope Dr.",
+          "#225"
+        ],
+        "city": "RANCHO MIRAGE",
+        "state": "CA",
+        "postalCode": "92270-1740"
+      },
+      {
+        "line": [
+          "3530 S VAL VISTA DR STE C101"
+        ],
+        "city": "GILBERT",
+        "state": "AZ",
+        "postalCode": "85297-7318"
+      },
+      {
+        "line": [
+          "15255 N 40TH ST STE 105"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85032-4636"
+      },
+      {
+        "line": [
+          "1760 E PECOS RD STE 215"
+        ],
+        "city": "GILBERT",
+        "state": "AZ",
+        "postalCode": "85295-3202"
+      },
+      {
+        "line": [
+          "9139 W THUNDERBIRD RD",
+          "STE 265"
+        ],
+        "city": "PEORIA",
+        "state": "AZ",
+        "postalCode": "85381-4922"
+      },
+      {
+        "line": [
+          "9201 W THOMAS RD"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85037-3332"
       },
       {
         "line": [
@@ -284,22 +317,6 @@
         "city": "GLENDALE",
         "state": "AZ",
         "postalCode": "85302-4209"
-      },
-      {
-        "line": [
-          "2000 W BETHANY HOME RD"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85015-2443"
-      },
-      {
-        "line": [
-          "3555 S VAL VISTA DR"
-        ],
-        "city": "GILBERT",
-        "state": "AZ",
-        "postalCode": "85297-7323"
       },
       {
         "line": [
@@ -319,22 +336,6 @@
       },
       {
         "line": [
-          "7300 N 99TH AVE"
-        ],
-        "city": "GLENDALE",
-        "state": "AZ",
-        "postalCode": "85307-3003"
-      },
-      {
-        "line": [
-          "7910 W THOMAS RD SUITE 112"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85033-4830"
-      },
-      {
-        "line": [
           "840 E MCKELLIPS RD BLDG 2"
         ],
         "city": "MESA",
@@ -343,20 +344,19 @@
       },
       {
         "line": [
-          "1041 E. Yorba Linda Blvd",
-          "Suite 200A"
+          "1835 W MISSOURI AVE"
         ],
-        "city": "PLACENTIA",
-        "state": "CA",
-        "postalCode": "92870-3728"
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85015-3046"
       },
       {
         "line": [
-          "2626 E UNIVERSITY DR STE 104"
+          "13026 W RANCHO SANTA FE BLVD STE C100"
         ],
-        "city": "MESA",
+        "city": "AVONDALE",
         "state": "AZ",
-        "postalCode": "85213-8479"
+        "postalCode": "85392-1710"
       }
     ],
     "extension": [

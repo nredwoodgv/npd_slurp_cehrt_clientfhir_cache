@@ -14,27 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134117393"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1508288531"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841225091"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467883934"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255655023"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205888237"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,7 +22,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962821223"
+        "value": "1134117393"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1205888237"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1841225091"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1255655023"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073059523"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,17 +46,29 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073059523"
+        "value": "1962821223"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467883934"
       }
     ],
     "address": [
       {
         "line": [
-          "100 Hospital Road"
+          "444 North Main Street"
         ],
-        "city": "PRINCE FREDERICK",
-        "state": "MD",
-        "postalCode": "20678-7649"
+        "city": "AKRON",
+        "state": "OH",
+        "postalCode": "44310-3110"
+      },
+      {
+        "line": [
+          "1600 Medical Parkway"
+        ],
+        "city": "CARSON CITY",
+        "state": "NV",
+        "postalCode": "89703-4624"
       },
       {
         "line": [
@@ -72,47 +80,6 @@
       },
       {
         "line": [
-          "4700 Quinn Dr"
-        ],
-        "city": "LOUISVILLE",
-        "state": "KY",
-        "postalCode": "40216-2943"
-      },
-      {
-        "line": [
-          "3834 South Emerson Ave",
-          "Bldg C Suite 100"
-        ],
-        "city": "INDIANAPOLIS",
-        "state": "IN",
-        "postalCode": "46203-5902"
-      },
-      {
-        "line": [
-          "200 Memorial Avenue"
-        ],
-        "city": "WESTMINSTER",
-        "state": "MD",
-        "postalCode": "21157-5726"
-      },
-      {
-        "line": [
-          "100 Hospital Rd"
-        ],
-        "city": "PRINCE FREDERICK",
-        "state": "MD",
-        "postalCode": "20678-4017"
-      },
-      {
-        "line": [
-          "1025 Center St"
-        ],
-        "city": "ASHLAND",
-        "state": "OH",
-        "postalCode": "44805-4011"
-      },
-      {
-        "line": [
           "24440 Stone Springs Blvd"
         ],
         "city": "DULLES",
@@ -121,19 +88,19 @@
       },
       {
         "line": [
-          "1600 Medical Parkway"
+          "8401 Market Street"
         ],
-        "city": "CARSON CITY",
-        "state": "NV",
-        "postalCode": "89703-4625"
+        "city": "YOUNGSTOWN",
+        "state": "OH",
+        "postalCode": "44512-6777"
       },
       {
         "line": [
-          "15225 Heathcote Blvd"
+          "200 Memorial Ave"
         ],
-        "city": "HAYMARKET",
-        "state": "VA",
-        "postalCode": "20169-6264"
+        "city": "WESTMINSTER",
+        "state": "MD",
+        "postalCode": "21157-5726"
       },
       {
         "line": [
@@ -153,7 +120,7 @@
       },
       {
         "line": [
-          "200 Memorial Ave"
+          "200 Memorial Avenue"
         ],
         "city": "WESTMINSTER",
         "state": "MD",
@@ -161,35 +128,35 @@
       },
       {
         "line": [
-          "5 Garrett Ave"
+          "4700 Quinn Dr"
         ],
-        "city": "LA PLATA",
-        "state": "MD",
-        "postalCode": "20646-5960"
-      },
-      {
-        "line": [
-          "8401 Market Street"
-        ],
-        "city": "YOUNGSTOWN",
-        "state": "OH",
-        "postalCode": "44512-6777"
+        "city": "LOUISVILLE",
+        "state": "KY",
+        "postalCode": "40216-2943"
       },
       {
         "line": [
           "1600 Medical Parkway"
         ],
-        "city": "Carson City",
+        "city": "CARSON CITY",
         "state": "NV",
-        "postalCode": "89703-4624"
+        "postalCode": "89703-4625"
       },
       {
         "line": [
-          "444 North Main Street"
+          "100 Hospital Road"
         ],
-        "city": "AKRON",
-        "state": "OH",
-        "postalCode": "44310-3110"
+        "city": "PRINCE FREDERICK",
+        "state": "MD",
+        "postalCode": "20678-7649"
+      },
+      {
+        "line": [
+          "100 Hospital Rd"
+        ],
+        "city": "PRINCE FREDERICK",
+        "state": "MD",
+        "postalCode": "20678-4017"
       },
       {
         "line": [
@@ -201,19 +168,52 @@
       },
       {
         "line": [
-          "1600 Medical Parkway"
-        ],
-        "city": "CARSON CITY",
-        "state": "NV",
-        "postalCode": "89703-4624"
-      },
-      {
-        "line": [
           "3580 West 9000 South"
         ],
         "city": "WEST JORDAN",
         "state": "UT",
         "postalCode": "84088-8812"
+      },
+      {
+        "line": [
+          "5 Garrett Ave"
+        ],
+        "city": "LA PLATA",
+        "state": "MD",
+        "postalCode": "20646-5960"
+      },
+      {
+        "line": [
+          "15225 Heathcote Blvd"
+        ],
+        "city": "HAYMARKET",
+        "state": "VA",
+        "postalCode": "20169-6264"
+      },
+      {
+        "line": [
+          "3834 South Emerson Ave",
+          "Bldg C Suite 100"
+        ],
+        "city": "INDIANAPOLIS",
+        "state": "IN",
+        "postalCode": "46203-5902"
+      },
+      {
+        "line": [
+          "1025 Center St"
+        ],
+        "city": "ASHLAND",
+        "state": "OH",
+        "postalCode": "44805-4011"
+      },
+      {
+        "line": [
+          "1600 Medical Parkway"
+        ],
+        "city": "Carson City",
+        "state": "NV",
+        "postalCode": "89703-4624"
       }
     ],
     "extension": [

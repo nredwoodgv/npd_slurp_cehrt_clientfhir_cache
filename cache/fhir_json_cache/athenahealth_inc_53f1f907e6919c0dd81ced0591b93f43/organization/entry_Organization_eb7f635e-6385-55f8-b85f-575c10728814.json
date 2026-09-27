@@ -14,45 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396073029"
+        "value": "1215206776"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215206776"
+        "value": "1396073029"
       }
     ],
     "address": [
       {
         "line": [
-          "11212 State Hwy 151"
+          "8700 Post Oak Ln"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78251-4219"
-      },
-      {
-        "line": [
-          "2739 Cembalo Blvd"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78230-3011"
-      },
-      {
-        "line": [
-          "10410 PARRIGIN RD"
-        ],
-        "city": "HELOTES",
-        "state": "TX",
-        "postalCode": "78023-4283"
-      },
-      {
-        "line": [
-          "19638 Stone Oak"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78258-3279"
+        "postalCode": "78217-5134"
       },
       {
         "line": [
@@ -65,7 +41,15 @@
       },
       {
         "line": [
-          "10323 State Hwy 151"
+          "19638 Stone Oak"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78258-3279"
+      },
+      {
+        "line": [
+          "11212 State Hwy 151"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
@@ -73,27 +57,19 @@
       },
       {
         "line": [
-          "4315 Rogers Rd"
+          "10410 PARRIGIN RD"
         ],
-        "city": "SAN ANTONIO",
+        "city": "HELOTES",
         "state": "TX",
-        "postalCode": "78251-3692"
+        "postalCode": "78023-4283"
       },
       {
         "line": [
-          "5962 Danny Kaye Dr."
+          "10910 Town Center Dr."
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78240-5221"
-      },
-      {
-        "line": [
-          "3220 N Loop 1604 W"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78231-4401"
+        "postalCode": "78251-3245"
       },
       {
         "line": [
@@ -105,38 +81,6 @@
       },
       {
         "line": [
-          "9738 Westover Hills Blvd"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78251-4583"
-      },
-      {
-        "line": [
-          "15430 Huebner Road"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78248-0989"
-      },
-      {
-        "line": [
-          "10107 Military Dr. W"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78251-1906"
-      },
-      {
-        "line": [
-          "2300 FM 3009"
-        ],
-        "city": "SCHERTZ",
-        "state": "TX",
-        "postalCode": "78154-2785"
-      },
-      {
-        "line": [
           "5034 Newforest St"
         ],
         "city": "SAN ANTONIO",
@@ -145,35 +89,19 @@
       },
       {
         "line": [
-          "8700 Post Oak Ln"
+          "3220 N Loop 1604 W"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78217-5134"
+        "postalCode": "78231-4401"
       },
       {
         "line": [
-          "5050 Timberhill"
+          "5001 Schertz Parkway"
         ],
-        "city": "SAN ANTONIO",
+        "city": "SCHERTZ",
         "state": "TX",
-        "postalCode": "78238-3542"
-      },
-      {
-        "line": [
-          "1618 S. St. Mary's"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78210-1634"
-      },
-      {
-        "line": [
-          "96 Windmill Rd"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78231-1545"
+        "postalCode": "78154-1478"
       },
       {
         "line": [
@@ -193,19 +121,91 @@
       },
       {
         "line": [
-          "10910 Town Center Dr."
+          "2739 Cembalo Blvd"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78251-3245"
+        "postalCode": "78230-3011"
       },
       {
         "line": [
-          "5001 Schertz Parkway"
+          "96 Windmill Rd"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78231-1545"
+      },
+      {
+        "line": [
+          "10107 Military Dr. W"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78251-1906"
+      },
+      {
+        "line": [
+          "1618 S. St. Mary's"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78210-1634"
+      },
+      {
+        "line": [
+          "9738 Westover Hills Blvd"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78251-4583"
+      },
+      {
+        "line": [
+          "15430 Huebner Road"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78248-0989"
+      },
+      {
+        "line": [
+          "5050 Timberhill"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78238-3542"
+      },
+      {
+        "line": [
+          "2300 FM 3009"
         ],
         "city": "SCHERTZ",
         "state": "TX",
-        "postalCode": "78154-1478"
+        "postalCode": "78154-2785"
+      },
+      {
+        "line": [
+          "4315 Rogers Rd"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78251-3692"
+      },
+      {
+        "line": [
+          "5962 Danny Kaye Dr."
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78240-5221"
+      },
+      {
+        "line": [
+          "10323 State Hwy 151"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78251-4219"
       }
     ],
     "extension": [

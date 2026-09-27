@@ -14,21 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457161150"
+        "value": "1750682175"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750682175"
+        "value": "1457161150"
       }
     ],
     "address": [
       {
         "line": [
-          "900 PINE ST STE 127"
+          "2151 OYSTER CREEK DRIVE"
         ],
         "city": "ENGLEWOOD",
         "state": "FL",
-        "postalCode": "34223-4457"
+        "postalCode": "34224-5459"
+      },
+      {
+        "line": [
+          "7374 SAN CASA DR"
+        ],
+        "city": "ENGLEWOOD",
+        "state": "FL",
+        "postalCode": "34224-8844"
       },
       {
         "line": [
@@ -37,22 +45,6 @@
         "city": "ENGLEWOOD",
         "state": "FL",
         "postalCode": "34223-5610"
-      },
-      {
-        "line": [
-          "925 S RIVER RD"
-        ],
-        "city": "ENGLEWOOD",
-        "state": "FL",
-        "postalCode": "34223-3909"
-      },
-      {
-        "line": [
-          "2151 OYSTER CREEK DRIVE"
-        ],
-        "city": "ENGLEWOOD",
-        "state": "FL",
-        "postalCode": "34224-5459"
       },
       {
         "line": [
@@ -81,19 +73,27 @@
       },
       {
         "line": [
-          "7374 SAN CASA DR"
-        ],
-        "city": "ENGLEWOOD",
-        "state": "FL",
-        "postalCode": "34224-8844"
-      },
-      {
-        "line": [
           "1450 E VENICE AVE"
         ],
         "city": "VENICE",
         "state": "FL",
         "postalCode": "34292-3063"
+      },
+      {
+        "line": [
+          "900 PINE ST STE 127"
+        ],
+        "city": "ENGLEWOOD",
+        "state": "FL",
+        "postalCode": "34223-4457"
+      },
+      {
+        "line": [
+          "925 S RIVER RD"
+        ],
+        "city": "ENGLEWOOD",
+        "state": "FL",
+        "postalCode": "34223-3909"
       }
     ],
     "extension": [

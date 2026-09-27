@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326112418"
+        "value": "1205833266"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205833266"
+        "value": "1326112418"
       }
     ],
     "address": [
@@ -32,20 +32,20 @@
       },
       {
         "line": [
+          "1026 22ND ST"
+        ],
+        "city": "ORLANDO",
+        "state": "FL",
+        "postalCode": "32805-5318"
+      },
+      {
+        "line": [
           "213 S DILLARD ST",
           "STE 340"
         ],
         "city": "WINTER GARDEN",
         "state": "FL",
         "postalCode": "34787-3596"
-      },
-      {
-        "line": [
-          "421 S KEECH ST"
-        ],
-        "city": "DAYTONA BEACH",
-        "state": "FL",
-        "postalCode": "32114-4623"
       },
       {
         "line": [
@@ -57,11 +57,11 @@
       },
       {
         "line": [
-          "1026 22ND ST"
+          "421 S KEECH ST"
         ],
-        "city": "ORLANDO",
+        "city": "DAYTONA BEACH",
         "state": "FL",
-        "postalCode": "32805-5318"
+        "postalCode": "32114-4623"
       }
     ],
     "extension": [

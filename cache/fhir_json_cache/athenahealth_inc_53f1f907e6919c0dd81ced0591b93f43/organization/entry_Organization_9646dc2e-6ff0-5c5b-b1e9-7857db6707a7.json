@@ -18,7 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720556541"
+        "value": "1912756164"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,51 +26,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457827693"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962281923"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1538622436"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912756164"
+        "value": "1457827693"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720556541"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1992206478"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962281923"
       }
     ],
     "address": [
-      {
-        "line": [
-          "123 Main St."
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10017-1020"
-      },
-      {
-        "line": [
-          "55 CHAPEL ST",
-          "SUITE 300"
-        ],
-        "city": "NEWTON",
-        "state": "MA",
-        "postalCode": "02458-1060"
-      },
-      {
-        "line": [
-          "55 Chapel St, Suite 300"
-        ],
-        "city": "NEWTON",
-        "state": "MA",
-        "postalCode": "02458-1074"
-      },
       {
         "line": [
           "55 Chapel St.",
@@ -90,6 +65,23 @@
       },
       {
         "line": [
+          "55 CHAPEL ST",
+          "SUITE 300"
+        ],
+        "city": "NEWTON",
+        "state": "MA",
+        "postalCode": "02458-1060"
+      },
+      {
+        "line": [
+          "7330 Staples Mill Rd"
+        ],
+        "city": "HENRICO",
+        "state": "VA",
+        "postalCode": "23228-4122"
+      },
+      {
+        "line": [
           "6137 Crawfordsville Rd Ste F",
           "Box 386"
         ],
@@ -99,12 +91,12 @@
       },
       {
         "line": [
-          "10 CONCORD CROSSING",
-          "STE 250"
+          "4938 Hampden Lane",
+          "Suite 296"
         ],
-        "city": "CONCORD",
-        "state": "MA",
-        "postalCode": "01742-3499"
+        "city": "BETHESDA",
+        "state": "MD",
+        "postalCode": "20814-2914"
       },
       {
         "line": [
@@ -117,20 +109,28 @@
       },
       {
         "line": [
-          "7330 Staples Mill Rd"
+          "10 CONCORD CROSSING",
+          "STE 250"
         ],
-        "city": "HENRICO",
-        "state": "VA",
-        "postalCode": "23228-4122"
+        "city": "CONCORD",
+        "state": "MA",
+        "postalCode": "01742-3499"
       },
       {
         "line": [
-          "4938 Hampden Lane",
-          "Suite 296"
+          "123 Main St."
         ],
-        "city": "BETHESDA",
-        "state": "MD",
-        "postalCode": "20814-2914"
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10017-1020"
+      },
+      {
+        "line": [
+          "55 Chapel St, Suite 300"
+        ],
+        "city": "NEWTON",
+        "state": "MA",
+        "postalCode": "02458-1074"
       }
     ],
     "extension": [

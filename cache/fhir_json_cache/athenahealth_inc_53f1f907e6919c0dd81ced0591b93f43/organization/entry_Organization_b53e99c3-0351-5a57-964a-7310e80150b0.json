@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629788849"
+        "value": "1073089488"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073089488"
+        "value": "1629788849"
       }
     ],
     "address": [
       {
         "line": [
-          "777 West Main St"
+          "3800 W TECHNOLOGY CIR STE 201"
         ],
-        "city": "PINE RIDGE",
+        "city": "SIOUX FALLS",
         "state": "SD",
-        "postalCode": "57770-0351"
+        "postalCode": "57106-4248"
       },
       {
         "line": [
@@ -40,19 +40,19 @@
       },
       {
         "line": [
-          "3800 W TECHNOLOGY CIR STE 201"
-        ],
-        "city": "SIOUX FALLS",
-        "state": "SD",
-        "postalCode": "57106-4248"
-      },
-      {
-        "line": [
           "625 Flormann St"
         ],
         "city": "RAPID CITY",
         "state": "SD",
         "postalCode": "57701-0710"
+      },
+      {
+        "line": [
+          "777 West Main St"
+        ],
+        "city": "PINE RIDGE",
+        "state": "SD",
+        "postalCode": "57770-0351"
       }
     ],
     "extension": [

@@ -14,18 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1871095190"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1790098218"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1154965093"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871095190"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1881 california ave 102"
+        ],
+        "city": "CORONA",
+        "state": "CA",
+        "postalCode": "92881-0300"
+      },
       {
         "line": [
           "18523 CORWIN RD STE B"
@@ -44,19 +52,11 @@
       },
       {
         "line": [
-          "820 E Mountain View st"
+          "2234 S Euclid Ave ste E"
         ],
-        "city": "BARSTOW",
+        "city": "ONTARIO",
         "state": "CA",
-        "postalCode": "92311-1400"
-      },
-      {
-        "line": [
-          "1881 california ave 102"
-        ],
-        "city": "CORONA",
-        "state": "CA",
-        "postalCode": "92881-0300"
+        "postalCode": "91762-0070"
       },
       {
         "line": [
@@ -68,11 +68,11 @@
       },
       {
         "line": [
-          "2234 S Euclid Ave ste E"
+          "820 E Mountain View st"
         ],
-        "city": "ONTARIO",
+        "city": "BARSTOW",
         "state": "CA",
-        "postalCode": "91762-0070"
+        "postalCode": "92311-1400"
       }
     ],
     "extension": [

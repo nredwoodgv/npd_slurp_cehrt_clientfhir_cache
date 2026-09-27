@@ -98,6 +98,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1083132625"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1194310151"
       },
       {
@@ -327,6 +331,10 @@
       {
         "system": "phone",
         "value": "(949)458-5600"
+      },
+      {
+        "system": "phone",
+        "value": "(714)835-4800"
       },
       {
         "system": "phone",
@@ -1199,6 +1207,18 @@
         "city": "Los Alamitos",
         "state": "CA",
         "postalCode": "12345",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "363 S Main St,",
+          "Ste 485"
+        ],
+        "city": "Orange",
+        "state": "CA",
+        "postalCode": "92868",
         "country": "USA"
       },
       {

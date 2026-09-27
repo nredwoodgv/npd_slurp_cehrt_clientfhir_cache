@@ -18,19 +18,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326463357"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730571100"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972734200"
+        "value": "1831132133"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831132133"
+        "value": "1326463357"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861818379"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,7 +42,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861818379"
+        "value": "1972734200"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,14 +50,6 @@
       }
     ],
     "address": [
-      {
-        "line": [
-          "1 N. Atkinson Dr."
-        ],
-        "city": "LUDINGTON",
-        "state": "MI",
-        "postalCode": "49431-1906"
-      },
       {
         "line": [
           "200 Jefferson Ave SE"
@@ -68,19 +60,11 @@
       },
       {
         "line": [
-          "1700 CLINTON ST."
+          "1212 E Sherman Blvd"
         ],
         "city": "MUSKEGON",
         "state": "MI",
-        "postalCode": "49442-5502"
-      },
-      {
-        "line": [
-          "72 S. State St."
-        ],
-        "city": "SHELBY",
-        "state": "MI",
-        "postalCode": "49455-1228"
+        "postalCode": "49444-1879"
       },
       {
         "line": [
@@ -92,11 +76,11 @@
       },
       {
         "line": [
-          "2525 Roberts St."
+          "1700 CLINTON ST."
         ],
         "city": "MUSKEGON",
         "state": "MI",
-        "postalCode": "49444-1879"
+        "postalCode": "49442-5502"
       },
       {
         "line": [
@@ -105,6 +89,22 @@
         "city": "MUSKEGON",
         "state": "MI",
         "postalCode": "49444-1849"
+      },
+      {
+        "line": [
+          "2525 Roberts St."
+        ],
+        "city": "MUSKEGON",
+        "state": "MI",
+        "postalCode": "49444-1879"
+      },
+      {
+        "line": [
+          "72 S. State St."
+        ],
+        "city": "SHELBY",
+        "state": "MI",
+        "postalCode": "49455-1228"
       },
       {
         "line": [
@@ -125,19 +125,19 @@
       },
       {
         "line": [
+          "1 N. Atkinson Dr."
+        ],
+        "city": "LUDINGTON",
+        "state": "MI",
+        "postalCode": "49431-1906"
+      },
+      {
+        "line": [
           "1212 E SHERMAN BLVD"
         ],
         "city": "MUSKEGON",
         "state": "MI",
         "postalCode": "49444-1852"
-      },
-      {
-        "line": [
-          "1212 E Sherman Blvd"
-        ],
-        "city": "MUSKEGON",
-        "state": "MI",
-        "postalCode": "49444-1879"
       }
     ],
     "extension": [

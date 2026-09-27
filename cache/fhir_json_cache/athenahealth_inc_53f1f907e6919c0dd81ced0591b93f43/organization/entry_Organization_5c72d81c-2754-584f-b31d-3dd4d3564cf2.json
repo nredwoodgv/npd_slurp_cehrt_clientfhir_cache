@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891730677"
+        "value": "1821238759"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821238759"
+        "value": "1891730677"
       }
     ],
     "address": [
@@ -40,12 +40,6 @@
         "postalCode": "93940-7833"
       },
       {
-        "line": [],
-        "city": "MONTEREY",
-        "state": "CA",
-        "postalCode": "93940-7833"
-      },
-      {
         "line": [
           "110 HARDEN PKWY, STE. 101"
         ],
@@ -60,6 +54,12 @@
         "city": "SALINAS",
         "state": "CA",
         "postalCode": "93901-3168"
+      },
+      {
+        "line": [],
+        "city": "MONTEREY",
+        "state": "CA",
+        "postalCode": "93940-7833"
       }
     ],
     "extension": [

@@ -14,34 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417692591"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1063441731"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1306358320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417692591"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1000 36TH STREET"
-        ],
-        "city": "VERO BEACH",
-        "state": "FL",
-        "postalCode": "32960-4862"
-      },
-      {
-        "line": [
-          "1325 36th Place"
-        ],
-        "city": "VERO BEACH",
-        "state": "FL",
-        "postalCode": "32960-6599"
-      },
       {
         "line": [
           "1355 37th Street, Suite 304"
@@ -68,6 +52,22 @@
       },
       {
         "line": [
+          "13695 US 1"
+        ],
+        "city": "SEBASTIAN",
+        "state": "FL",
+        "postalCode": "32958-3230"
+      },
+      {
+        "line": [
+          "1325 36th Place"
+        ],
+        "city": "VERO BEACH",
+        "state": "FL",
+        "postalCode": "32960-6599"
+      },
+      {
+        "line": [
           "410 4th Court"
         ],
         "city": "VERO BEACH",
@@ -76,11 +76,11 @@
       },
       {
         "line": [
-          "13695 US 1"
+          "1000 36TH STREET"
         ],
-        "city": "SEBASTIAN",
+        "city": "VERO BEACH",
         "state": "FL",
-        "postalCode": "32958-3230"
+        "postalCode": "32960-4862"
       }
     ],
     "extension": [

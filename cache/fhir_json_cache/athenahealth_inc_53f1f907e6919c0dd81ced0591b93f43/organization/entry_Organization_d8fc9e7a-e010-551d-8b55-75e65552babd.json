@@ -18,22 +18,38 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013909936"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417489956"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1235737008"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1790777696"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013909936"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417489956"
       }
     ],
     "address": [
+      {
+        "line": [
+          "215 CHISHOLM TRL"
+        ],
+        "city": "JACKSBORO",
+        "state": "TX",
+        "postalCode": "76458-1403"
+      },
+      {
+        "line": [
+          "215 Chisholm Trail"
+        ],
+        "city": "JACKSBORO",
+        "state": "TX",
+        "postalCode": "76458-1111"
+      },
       {
         "line": [
           "1005 STATE HIGHWAY 16 S"
@@ -57,22 +73,6 @@
         "city": "BOWIE",
         "state": "TX",
         "postalCode": "76230-3120"
-      },
-      {
-        "line": [
-          "215 CHISHOLM TRL"
-        ],
-        "city": "JACKSBORO",
-        "state": "TX",
-        "postalCode": "76458-1403"
-      },
-      {
-        "line": [
-          "215 Chisholm Trail"
-        ],
-        "city": "JACKSBORO",
-        "state": "TX",
-        "postalCode": "76458-1111"
       }
     ],
     "extension": [

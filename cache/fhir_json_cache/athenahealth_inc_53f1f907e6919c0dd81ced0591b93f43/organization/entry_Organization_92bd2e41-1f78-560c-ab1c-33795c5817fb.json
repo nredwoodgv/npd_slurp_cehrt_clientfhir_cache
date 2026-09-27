@@ -14,17 +14,42 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437542073"
+        "value": "1508253501"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508253501"
+        "value": "1437542073"
       }
     ],
     "address": [
       {
         "line": [
+          "PO BOX 370",
+          "724 N MAIN"
+        ],
+        "city": "CHENEY",
+        "state": "KS",
+        "postalCode": "67025-0370"
+      },
+      {
+        "line": [
+          "331 State Route 61"
+        ],
+        "city": "PRATT",
+        "state": "KS",
+        "postalCode": "67124-0301"
+      },
+      {
+        "line": [
           "750 W D AVE"
+        ],
+        "city": "KINGMAN",
+        "state": "KS",
+        "postalCode": "67068-1266"
+      },
+      {
+        "line": [
+          "750 W D Ave"
         ],
         "city": "KINGMAN",
         "state": "KS",
@@ -37,39 +62,6 @@
         "city": "CUNNINGHAM",
         "state": "KS",
         "postalCode": "67035-8802"
-      },
-      {
-        "line": [
-          "PO BOX 370",
-          "724 N MAIN"
-        ],
-        "city": "CHENEY",
-        "state": "KS",
-        "postalCode": "67025-0370"
-      },
-      {
-        "line": [
-          "403 S. Valley St."
-        ],
-        "city": "CUNNINGHAM",
-        "state": "KS",
-        "postalCode": "67035-8120"
-      },
-      {
-        "line": [
-          "331 State Route 61"
-        ],
-        "city": "PRATT",
-        "state": "KS",
-        "postalCode": "67124-0301"
-      },
-      {
-        "line": [
-          "750 W D Ave"
-        ],
-        "city": "KINGMAN",
-        "state": "KS",
-        "postalCode": "67068-1266"
       },
       {
         "line": [
@@ -86,6 +78,14 @@
         "city": "KINGMAN",
         "state": "KS",
         "postalCode": "67068-8168"
+      },
+      {
+        "line": [
+          "403 S. Valley St."
+        ],
+        "city": "CUNNINGHAM",
+        "state": "KS",
+        "postalCode": "67035-8120"
       }
     ],
     "extension": [

@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073467908"
+        "value": "1114484540"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114484540"
+        "value": "1073467908"
       }
     ],
     "address": [
+      {
+        "line": [
+          "42557 WOODWARD AVE"
+        ],
+        "city": "BLOOMFIELD HILLS",
+        "state": "MI",
+        "postalCode": "48304-5206"
+      },
       {
         "line": [
           "42557 WOODWARD AVE",
@@ -30,14 +38,6 @@
         "city": "BLOOMFIELD HILLS",
         "state": "MI",
         "postalCode": "48304-5211"
-      },
-      {
-        "line": [
-          "42557 WOODWARD AVE"
-        ],
-        "city": "BLOOMFIELD HILLS",
-        "state": "MI",
-        "postalCode": "48304-5206"
       }
     ],
     "extension": [

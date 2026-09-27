@@ -14,18 +14,27 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659316008"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1407094436"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1891933560"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1659316008"
       }
     ],
     "address": [
+      {
+        "line": [
+          "13991 West Grand Avenue",
+          "Suite 102"
+        ],
+        "city": "SURPRISE",
+        "state": "AZ",
+        "postalCode": "85374-3065"
+      },
       {
         "line": [
           "1501 North Gilbert Road",
@@ -37,14 +46,6 @@
       },
       {
         "line": [
-          "485 S. Dobson Road Suite 105"
-        ],
-        "city": "CHANDLER",
-        "state": "AZ",
-        "postalCode": "85224-5603"
-      },
-      {
-        "line": [
           "806 South Ponderosa Street"
         ],
         "city": "PAYSON",
@@ -53,12 +54,11 @@
       },
       {
         "line": [
-          "13991 West Grand Avenue",
-          "Suite 102"
+          "485 S. Dobson Road Suite 105"
         ],
-        "city": "SURPRISE",
+        "city": "CHANDLER",
         "state": "AZ",
-        "postalCode": "85374-3065"
+        "postalCode": "85224-5603"
       }
     ],
     "extension": [

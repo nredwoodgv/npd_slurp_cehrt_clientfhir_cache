@@ -14,23 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669801585"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,11 +22,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215999511"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215348487"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881656247"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1124080320"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
+        "value": "1962602300"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,18 +46,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
+        "value": "1053373951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750302923"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3526 Longmire Drive Ste 200"
-        ],
-        "city": "COLLEGE STATION",
-        "state": "TX",
-        "postalCode": "77845-5475"
-      },
       {
         "line": [
           "1602 Rock Prairie Ste 2400"
@@ -69,6 +61,14 @@
         "city": "COLLEGE STATION",
         "state": "TX",
         "postalCode": "77845-0001"
+      },
+      {
+        "line": [
+          "3526 Longmire Drive Ste 200"
+        ],
+        "city": "COLLEGE STATION",
+        "state": "TX",
+        "postalCode": "77845-5475"
       }
     ],
     "extension": [

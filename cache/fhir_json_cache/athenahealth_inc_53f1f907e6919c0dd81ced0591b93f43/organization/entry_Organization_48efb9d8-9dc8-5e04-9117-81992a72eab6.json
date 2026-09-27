@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902043433"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1033294673"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1881981033"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902043433"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,6 +38,14 @@
       }
     ],
     "address": [
+      {
+        "line": [
+          "520 WEST MAIN ST"
+        ],
+        "city": "SMITHVILLE",
+        "state": "TN",
+        "postalCode": "37166-1138"
+      },
       {
         "line": [
           "520 WEST MAIN STREET"
@@ -57,14 +65,6 @@
       {
         "line": [
           "520 West Main St"
-        ],
-        "city": "SMITHVILLE",
-        "state": "TN",
-        "postalCode": "37166-1138"
-      },
-      {
-        "line": [
-          "520 WEST MAIN ST"
         ],
         "city": "SMITHVILLE",
         "state": "TN",

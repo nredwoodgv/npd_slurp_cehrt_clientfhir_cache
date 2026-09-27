@@ -14,21 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366539520"
+        "value": "1669500328"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669500328"
+        "value": "1366539520"
       }
     ],
     "address": [
       {
-        "line": [
-          "1901 SW 172ND AVE"
-        ],
-        "city": "MIRAMAR",
+        "line": [],
+        "city": "HALLANDALE",
         "state": "FL",
-        "postalCode": "33029-5592"
+        "postalCode": "33009-5155"
       },
       {
         "line": [
@@ -64,10 +62,12 @@
         "postalCode": "33180-1407"
       },
       {
-        "line": [],
-        "city": "HALLANDALE",
+        "line": [
+          "1901 SW 172ND AVE"
+        ],
+        "city": "MIRAMAR",
         "state": "FL",
-        "postalCode": "33009-5155"
+        "postalCode": "33029-5592"
       },
       {
         "line": [

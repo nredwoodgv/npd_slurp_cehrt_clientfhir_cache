@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
+        "value": "1750302923"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,11 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
+        "value": "1124080320"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
+        "value": "1053373951"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,33 +38,37 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215999511"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
+        "value": "1215348487"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730484031"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962602300"
       }
     ],
     "address": [
       {
         "line": [
-          "1680 ANTILEY RD STE 120"
+          "6200 Regional Plaza Suite 1600"
         ],
         "city": "ABILENE",
         "state": "TX",
-        "postalCode": "79606-5257"
+        "postalCode": "79606-5262"
       },
       {
         "line": [
-          "1680 ANTILLEY RD STE 270"
+          "6300 Regional Plaza #875"
         ],
         "city": "ABILENE",
         "state": "TX",
-        "postalCode": "79606-5247"
+        "postalCode": "79606-5251"
       },
       {
         "line": [
@@ -88,15 +88,23 @@
       },
       {
         "line": [
-          "6300 Regional Plaza #875"
+          "1680 ANTILEY RD STE 120"
         ],
         "city": "ABILENE",
         "state": "TX",
-        "postalCode": "79606-5251"
+        "postalCode": "79606-5257"
       },
       {
         "line": [
-          "1680 ANTILLEY RD STE 300"
+          "1680 Antilley Road Suite 125"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79606-5278"
+      },
+      {
+        "line": [
+          "1680 ANTILLEY RD STE 270"
         ],
         "city": "ABILENE",
         "state": "TX",
@@ -112,19 +120,11 @@
       },
       {
         "line": [
-          "6200 Regional Plaza Suite 1600"
+          "1680 ANTILLEY RD STE 300"
         ],
         "city": "ABILENE",
         "state": "TX",
-        "postalCode": "79606-5262"
-      },
-      {
-        "line": [
-          "1680 Antilley Road Suite 125"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79606-5278"
+        "postalCode": "79606-5247"
       }
     ],
     "extension": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922749399"
+        "value": "1134774623"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134774623"
+        "value": "1922749399"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,11 +26,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144034430"
+        "value": "1548902984"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548902984"
+        "value": "1144034430"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -48,12 +48,11 @@
     "address": [
       {
         "line": [
-          "951 PRIM AVE",
-          "STE 20"
+          "4719 HIGHWAY 90"
         ],
-        "city": "GRACEVILLE",
+        "city": "MARIANNA",
         "state": "FL",
-        "postalCode": "32440-2500"
+        "postalCode": "32446-7839"
       },
       {
         "line": [
@@ -65,7 +64,39 @@
       },
       {
         "line": [
-          "4719 HIGHWAY 90"
+          "951 PRIM AVE STE 20"
+        ],
+        "city": "GRACEVILLE",
+        "state": "FL",
+        "postalCode": "32440-2500"
+      },
+      {
+        "line": [
+          "2907 KERRY FOREST PKWY"
+        ],
+        "city": "TALLAHASSEE",
+        "state": "FL",
+        "postalCode": "32309-6825"
+      },
+      {
+        "line": [
+          "2600 FOREST GLEN TRAIL"
+        ],
+        "city": "MARIANNA",
+        "state": "FL",
+        "postalCode": "32446-0100"
+      },
+      {
+        "line": [
+          "2870 MONTGOMERY HWY"
+        ],
+        "city": "DOTHAN",
+        "state": "AL",
+        "postalCode": "36303-2606"
+      },
+      {
+        "line": [
+          "4719 Highway 90"
         ],
         "city": "MARIANNA",
         "state": "FL",
@@ -81,43 +112,11 @@
       },
       {
         "line": [
-          "2870 MONTGOMERY HWY"
-        ],
-        "city": "DOTHAN",
-        "state": "AL",
-        "postalCode": "36303-2606"
-      },
-      {
-        "line": [
-          "2600 FOREST GLEN TRAIL"
-        ],
-        "city": "MARIANNA",
-        "state": "FL",
-        "postalCode": "32446-0100"
-      },
-      {
-        "line": [
-          "2907 KERRY FOREST PKWY"
-        ],
-        "city": "TALLAHASSEE",
-        "state": "FL",
-        "postalCode": "32309-6825"
-      },
-      {
-        "line": [
           "3700 WILLIAMS DRIVE"
         ],
         "city": "MARIANNA",
         "state": "FL",
         "postalCode": "32446-7973"
-      },
-      {
-        "line": [
-          "4719 Highway 90"
-        ],
-        "city": "MARIANNA",
-        "state": "FL",
-        "postalCode": "32446-7839"
       }
     ],
     "extension": [

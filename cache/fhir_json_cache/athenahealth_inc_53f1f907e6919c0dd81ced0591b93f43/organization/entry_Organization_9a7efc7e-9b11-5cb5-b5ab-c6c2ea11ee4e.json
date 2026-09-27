@@ -18,29 +18,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942547922"
+        "value": "1336648781"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336648781"
+        "value": "1942547922"
       }
     ],
     "address": [
       {
         "line": [
-          "118 FAIRFIELD DRIVE"
+          "103 Doctor's Park"
         ],
-        "city": "NEW ALBANY",
+        "city": "STARKVILLE",
         "state": "MS",
-        "postalCode": "38652-3107"
-      },
-      {
-        "line": [
-          "1512 MEDICAL PARK CIRCLE"
-        ],
-        "city": "TUPELO",
-        "state": "MS",
-        "postalCode": "38801-6560"
+        "postalCode": "39759-9820"
       },
       {
         "line": [
@@ -52,11 +44,19 @@
       },
       {
         "line": [
-          "103 Doctor's Park"
+          "1512 MEDICAL PARK CIRCLE"
         ],
-        "city": "STARKVILLE",
+        "city": "TUPELO",
         "state": "MS",
-        "postalCode": "39759-9820"
+        "postalCode": "38801-6560"
+      },
+      {
+        "line": [
+          "118 FAIRFIELD DRIVE"
+        ],
+        "city": "NEW ALBANY",
+        "state": "MS",
+        "postalCode": "38652-3107"
       }
     ],
     "extension": [

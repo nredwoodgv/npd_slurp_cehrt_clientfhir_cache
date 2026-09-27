@@ -18,11 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649228966"
+        "value": "1932402484"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932402484"
+        "value": "1649228966"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,14 +30,6 @@
       }
     ],
     "address": [
-      {
-        "line": [
-          "3300 Rivermont Avenue"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24503-2030"
-      },
       {
         "line": [
           "2007 GRAVES MILL ROAD"
@@ -48,11 +40,19 @@
       },
       {
         "line": [
-          "600 BEDFORD AVE"
+          "3300 Rivermont Avenue"
         ],
-        "city": "BEDFORD",
+        "city": "LYNCHBURG",
         "state": "VA",
-        "postalCode": "24523-1966"
+        "postalCode": "24503-2030"
+      },
+      {
+        "line": [
+          "320 Federal Street"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24504-2306"
       },
       {
         "line": [
@@ -64,11 +64,11 @@
       },
       {
         "line": [
-          "320 Federal Street"
+          "600 BEDFORD AVE"
         ],
-        "city": "LYNCHBURG",
+        "city": "BEDFORD",
         "state": "VA",
-        "postalCode": "24504-2306"
+        "postalCode": "24523-1966"
       }
     ],
     "extension": [

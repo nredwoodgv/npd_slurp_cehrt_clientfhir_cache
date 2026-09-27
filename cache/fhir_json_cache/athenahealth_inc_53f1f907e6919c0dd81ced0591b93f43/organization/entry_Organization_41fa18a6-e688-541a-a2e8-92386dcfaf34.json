@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881050508"
+        "value": "1538123666"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962189449"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396940029"
+        "value": "1285057281"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,15 +34,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285057281"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538123666"
+        "value": "1962189449"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1124684618"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396940029"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881050508"
       }
     ],
     "address": [
@@ -60,19 +60,19 @@
       },
       {
         "line": [
-          "153 School Drive"
-        ],
-        "city": "DAHLONEGA",
-        "state": "GA",
-        "postalCode": "30533-0313"
-      },
-      {
-        "line": [
           "79 BLUE RIDGE OVERLOOK"
         ],
         "city": "BLUE RIDGE",
         "state": "GA",
         "postalCode": "30513-4478"
+      },
+      {
+        "line": [
+          "153 School Drive"
+        ],
+        "city": "DAHLONEGA",
+        "state": "GA",
+        "postalCode": "30533-0313"
       }
     ],
     "extension": [

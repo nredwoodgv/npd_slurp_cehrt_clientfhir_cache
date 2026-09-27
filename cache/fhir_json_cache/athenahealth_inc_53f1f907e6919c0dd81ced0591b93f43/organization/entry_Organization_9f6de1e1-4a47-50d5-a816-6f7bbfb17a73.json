@@ -18,7 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598885998"
+        "value": "1588644496"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,10 +26,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588644496"
+        "value": "1598885998"
       }
     ],
     "address": [
+      {
+        "line": [
+          "201 WATSON ST"
+        ],
+        "city": "MARION",
+        "state": "KY",
+        "postalCode": "42064-1824"
+      },
       {
         "line": [
           "1253 LAKE BARKLEY DR"
@@ -49,19 +57,19 @@
       },
       {
         "line": [
+          "520 WEST GUM ST"
+        ],
+        "city": "MARION",
+        "state": "KY",
+        "postalCode": "42064-1516"
+      },
+      {
+        "line": [
           "131 HOSPTIAL DR"
         ],
         "city": "SALEM",
         "state": "KY",
         "postalCode": "42078-8043"
-      },
-      {
-        "line": [
-          "520 W GUM ST"
-        ],
-        "city": "MARION",
-        "state": "KY",
-        "postalCode": "42064-1516"
       },
       {
         "line": [
@@ -74,15 +82,7 @@
       },
       {
         "line": [
-          "201 WATSON ST"
-        ],
-        "city": "MARION",
-        "state": "KY",
-        "postalCode": "42064-1824"
-      },
-      {
-        "line": [
-          "520 WEST GUM ST"
+          "520 W GUM ST"
         ],
         "city": "MARION",
         "state": "KY",

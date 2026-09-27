@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528782042"
+        "value": "1992752224"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,18 +22,45 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992752224"
+        "value": "1780638478"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780638478"
+        "value": "1528782042"
       }
     ],
     "address": [
       {
         "line": [
           "800 North 1st Street",
+          "4th Floor"
+        ],
+        "city": "Springfield",
+        "state": "IL",
+        "postalCode": "62703-2403"
+      },
+      {
+        "line": [
+          "800 North 1st Street",
+          "1st Floor"
+        ],
+        "city": "SPRINGFIELD",
+        "state": "IL",
+        "postalCode": "62703-2403"
+      },
+      {
+        "line": [
+          "800 North 1st Street",
           "Lower Level"
+        ],
+        "city": "SPRINGFIELD",
+        "state": "IL",
+        "postalCode": "62703-2403"
+      },
+      {
+        "line": [
+          "800 North 1st Street",
+          "4th Floor"
         ],
         "city": "SPRINGFIELD",
         "state": "IL",
@@ -50,36 +77,9 @@
       {
         "line": [
           "800 North 1st Street",
-          "1st Floor"
-        ],
-        "city": "SPRINGFIELD",
-        "state": "IL",
-        "postalCode": "62703-2403"
-      },
-      {
-        "line": [
-          "800 North 1st Street",
-          "4th Floor"
-        ],
-        "city": "SPRINGFIELD",
-        "state": "IL",
-        "postalCode": "62703-2403"
-      },
-      {
-        "line": [
-          "800 North 1st Street",
           "3rd Floor"
         ],
         "city": "SPRINGFIELD",
-        "state": "IL",
-        "postalCode": "62703-2403"
-      },
-      {
-        "line": [
-          "800 North 1st Street",
-          "4th Floor"
-        ],
-        "city": "Springfield",
         "state": "IL",
         "postalCode": "62703-2403"
       }

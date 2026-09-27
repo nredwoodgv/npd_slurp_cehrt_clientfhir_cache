@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649228966"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285931089"
       },
       {
@@ -23,10 +27,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1013031368"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649228966"
       }
     ],
     "address": [
@@ -40,11 +40,11 @@
       },
       {
         "line": [
-          "2410 Atherholt Rd."
+          "3300 Rivermont Avenue"
         ],
         "city": "LYNCHBURG",
         "state": "VA",
-        "postalCode": "24501-1106"
+        "postalCode": "24503-2030"
       },
       {
         "line": [
@@ -64,12 +64,19 @@
       },
       {
         "line": [
-          "BEDFORD MEMORIAL HOSPITAL",
-          "1613 OAKWOOD STREET"
+          "2410 Atherholt Rd."
         ],
-        "city": "BEDFORD",
+        "city": "LYNCHBURG",
         "state": "VA",
-        "postalCode": "24523-1213"
+        "postalCode": "24501-1106"
+      },
+      {
+        "line": [
+          "3300 Rivermont Ave"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24503-2030"
       },
       {
         "line": [
@@ -81,19 +88,12 @@
       },
       {
         "line": [
-          "3300 Rivermont Avenue"
+          "BEDFORD MEMORIAL HOSPITAL",
+          "1613 OAKWOOD STREET"
         ],
-        "city": "LYNCHBURG",
+        "city": "BEDFORD",
         "state": "VA",
-        "postalCode": "24503-2030"
-      },
-      {
-        "line": [
-          "3300 Rivermont Ave"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24503-2030"
+        "postalCode": "24523-1213"
       }
     ],
     "extension": [

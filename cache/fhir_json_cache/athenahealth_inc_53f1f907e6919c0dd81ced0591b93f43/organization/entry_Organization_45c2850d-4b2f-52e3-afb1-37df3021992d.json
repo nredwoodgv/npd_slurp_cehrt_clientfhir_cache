@@ -18,29 +18,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710126537"
+        "value": "1831299767"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831299767"
+        "value": "1710126537"
       }
     ],
     "address": [
       {
         "line": [
-          "1700 S 23RD STREET"
+          "1800 SE TIFFANY"
         ],
-        "city": "FORT PIERCE",
+        "city": "PORT SAINT LUCIE",
         "state": "FL",
-        "postalCode": "34950-4803"
-      },
-      {
-        "line": [
-          "901 45TH STREET"
-        ],
-        "city": "WEST PALM BEACH",
-        "state": "FL",
-        "postalCode": "33407-2413"
+        "postalCode": "34952-7521"
       },
       {
         "line": [
@@ -52,6 +44,14 @@
       },
       {
         "line": [
+          "1700 S 23RD STREET"
+        ],
+        "city": "FORT PIERCE",
+        "state": "FL",
+        "postalCode": "34950-4803"
+      },
+      {
+        "line": [
           "2815 S SEACREST BLVD"
         ],
         "city": "BOYNTON BEACH",
@@ -60,36 +60,19 @@
       },
       {
         "line": [
-          "8645 N Military Trl",
-          "suite 508"
+          "2815 S SEACREST BLVD"
         ],
-        "city": "PALM BEACH GARDENS",
+        "city": "BOYNTON BEACH",
         "state": "FL",
-        "postalCode": "33410-6294"
+        "postalCode": "33435-9734"
       },
       {
         "line": [
-          "2700 PGA BLVD STE 103"
-        ],
-        "city": "PALM BEACH GARDENS",
-        "state": "FL",
-        "postalCode": "33410-2958"
-      },
-      {
-        "line": [
-          "1800 SE TIFFANY"
-        ],
-        "city": "PORT SAINT LUCIE",
-        "state": "FL",
-        "postalCode": "34952-7521"
-      },
-      {
-        "line": [
-          "1309 N. FLAGLER DR"
+          "901 45TH STREET"
         ],
         "city": "WEST PALM BEACH",
         "state": "FL",
-        "postalCode": "33401-3406"
+        "postalCode": "33407-2413"
       },
       {
         "line": [
@@ -101,11 +84,28 @@
       },
       {
         "line": [
-          "2815 S SEACREST BLVD"
+          "1309 N. FLAGLER DR"
         ],
-        "city": "BOYNTON BEACH",
+        "city": "WEST PALM BEACH",
         "state": "FL",
-        "postalCode": "33435-9734"
+        "postalCode": "33401-3406"
+      },
+      {
+        "line": [
+          "2700 PGA BLVD STE 103"
+        ],
+        "city": "PALM BEACH GARDENS",
+        "state": "FL",
+        "postalCode": "33410-2958"
+      },
+      {
+        "line": [
+          "8645 N Military Trl",
+          "suite 508"
+        ],
+        "city": "PALM BEACH GARDENS",
+        "state": "FL",
+        "postalCode": "33410-6294"
       }
     ],
     "extension": [

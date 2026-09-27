@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629398219"
+        "value": "1821349317"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821349317"
+        "value": "1629398219"
       }
     ],
     "address": [
-      {
-        "line": [
-          "235 N PEARL ST"
-        ],
-        "city": "BROCKTON",
-        "state": "MA",
-        "postalCode": "02301-1794"
-      },
-      {
-        "line": [
-          "235 NORTH PEARL STREET"
-        ],
-        "city": "BROCKTON",
-        "state": "MA",
-        "postalCode": "02301-1794"
-      },
       {
         "line": [
           "235 NORTH PEARL ST"
@@ -48,15 +32,7 @@
       },
       {
         "line": [
-          "200 GROTON ROAD"
-        ],
-        "city": "AYER",
-        "state": "MA",
-        "postalCode": "01432-1168"
-      },
-      {
-        "line": [
-          "235 NO PEARL ST"
+          "235 N PEARL ST"
         ],
         "city": "BROCKTON",
         "state": "MA",
@@ -72,11 +48,35 @@
       },
       {
         "line": [
+          "235 NORTH PEARL STREET"
+        ],
+        "city": "BROCKTON",
+        "state": "MA",
+        "postalCode": "02301-1794"
+      },
+      {
+        "line": [
           "235 N Pearl St"
         ],
         "city": "BROCKTON",
         "state": "MA",
         "postalCode": "02301-1794"
+      },
+      {
+        "line": [
+          "235 NO PEARL ST"
+        ],
+        "city": "BROCKTON",
+        "state": "MA",
+        "postalCode": "02301-1794"
+      },
+      {
+        "line": [
+          "200 GROTON ROAD"
+        ],
+        "city": "AYER",
+        "state": "MA",
+        "postalCode": "01432-1168"
       }
     ],
     "extension": [

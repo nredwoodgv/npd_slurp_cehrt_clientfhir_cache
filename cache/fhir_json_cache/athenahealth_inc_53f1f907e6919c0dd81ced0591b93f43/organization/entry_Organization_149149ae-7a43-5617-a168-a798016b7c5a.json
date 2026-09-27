@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568558724"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134192727"
+        "value": "1992891014"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730207648"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1568558724"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,18 +34,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992891014"
+        "value": "1134192727"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3125 hamilton mason road"
-        ],
-        "city": "HAMILTON",
-        "state": "OH",
-        "postalCode": "45011-8012"
-      },
       {
         "line": [
           "3125 HAMILTON MASON RD."
@@ -53,6 +45,15 @@
         "city": "HAMILTON",
         "state": "OH",
         "postalCode": "45011-8012"
+      },
+      {
+        "line": [
+          "2449 Ross Millville Road",
+          "Ste 252"
+        ],
+        "city": "HAMILTON",
+        "state": "OH",
+        "postalCode": "45013-8951"
       },
       {
         "line": [
@@ -64,12 +65,11 @@
       },
       {
         "line": [
-          "2449 Ross Millville Road",
-          "Ste 252"
+          "3125 hamilton mason road"
         ],
         "city": "HAMILTON",
         "state": "OH",
-        "postalCode": "45013-8951"
+        "postalCode": "45011-8012"
       }
     ],
     "extension": [

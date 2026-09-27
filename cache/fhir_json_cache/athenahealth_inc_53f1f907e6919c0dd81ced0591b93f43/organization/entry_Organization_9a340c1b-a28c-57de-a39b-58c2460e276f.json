@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548739170"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285388546"
+        "value": "1861118846"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598225021"
+        "value": "1316253875"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285388546"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,29 +34,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316253875"
+        "value": "1598225021"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861118846"
+        "value": "1548739170"
       }
     ],
     "address": [
       {
         "line": [
-          "104 CENTER ST"
+          "1010 OX RD"
         ],
-        "city": "BANGOR",
-        "state": "ME",
-        "postalCode": "04401-5059"
-      },
-      {
-        "line": [
-          "184 NORTH ST STE 202"
-        ],
-        "city": "PITTSFIELD",
-        "state": "MA",
-        "postalCode": "01201-5161"
+        "city": "WOODSTOCK",
+        "state": "VA",
+        "postalCode": "22664-1118"
       },
       {
         "line": [
@@ -68,19 +60,11 @@
       },
       {
         "line": [
-          "4003 Steelsburg Hwy"
+          "125 LUCY LN STE E"
         ],
-        "city": "CEDAR BLUFF",
+        "city": "WAYNESBORO",
         "state": "VA",
-        "postalCode": "24609-7019"
-      },
-      {
-        "line": [
-          "1455 OLD BRIDGE RD STE 203"
-        ],
-        "city": "WOODBRIDGE",
-        "state": "VA",
-        "postalCode": "22192-2727"
+        "postalCode": "22980-3256"
       },
       {
         "line": [
@@ -93,11 +77,235 @@
       },
       {
         "line": [
-          "1010 OX RD"
+          "2609 Sheffield Dr."
         ],
-        "city": "WOODSTOCK",
+        "city": "BLACKSBURG",
         "state": "VA",
-        "postalCode": "22664-1118"
+        "postalCode": "24060-8271"
+      },
+      {
+        "line": [
+          "649 2ND ST FL 1"
+        ],
+        "city": "MANCHESTER",
+        "state": "NH",
+        "postalCode": "03102-5269"
+      },
+      {
+        "line": [
+          "42 Summer St",
+          "Suite 201"
+        ],
+        "city": "PITTSFIELD",
+        "state": "MA",
+        "postalCode": "01201-4697"
+      },
+      {
+        "line": [
+          "2725 W STATE ST"
+        ],
+        "city": "BRISTOL",
+        "state": "TN",
+        "postalCode": "37620-1828"
+      },
+      {
+        "line": [
+          "1325 Jamison Ave SE"
+        ],
+        "city": "ROANOKE",
+        "state": "VA",
+        "postalCode": "24013-2015"
+      },
+      {
+        "line": [
+          "373 CECIL D QUILLEN DR STE 3"
+        ],
+        "city": "DUFFIELD",
+        "state": "VA",
+        "postalCode": "24244-4085"
+      },
+      {
+        "line": [
+          "132 McClure Ave."
+        ],
+        "city": "CLINTWOOD",
+        "state": "VA",
+        "postalCode": "24228-6845"
+      },
+      {
+        "line": [
+          "308 WESTWOOD OFFICE PARK"
+        ],
+        "city": "FREDERICKSBURG",
+        "state": "VA",
+        "postalCode": "22401-5108"
+      },
+      {
+        "line": [
+          "1 E MARKET ST STE C"
+        ],
+        "city": "MARTINSVILLE",
+        "state": "VA",
+        "postalCode": "24112-3747"
+      },
+      {
+        "line": [
+          "100 VICAR PL STE C"
+        ],
+        "city": "DANVILLE",
+        "state": "VA",
+        "postalCode": "24540-1397"
+      },
+      {
+        "line": [
+          "6330 Five Mile Centre Park",
+          "Suite 400"
+        ],
+        "city": "FREDERICKSBURG",
+        "state": "VA",
+        "postalCode": "22407-5516"
+      },
+      {
+        "line": [
+          "1245 E Main St"
+        ],
+        "city": "LEBANON",
+        "state": "VA",
+        "postalCode": "24266-5016"
+      },
+      {
+        "line": [
+          "60 ROGERS ST",
+          "STE 215"
+        ],
+        "city": "MANCHESTER",
+        "state": "NH",
+        "postalCode": "03103-5070"
+      },
+      {
+        "line": [
+          "4003 Steelsburg Hwy"
+        ],
+        "city": "CEDAR BLUFF",
+        "state": "VA",
+        "postalCode": "24609-7019"
+      },
+      {
+        "line": [
+          "316 Warren Avenue",
+          "Suite 1"
+        ],
+        "city": "FRONT ROYAL",
+        "state": "VA",
+        "postalCode": "22630-4428"
+      },
+      {
+        "line": [
+          "1510 N 28TH ST STE 101"
+        ],
+        "city": "RICHMOND",
+        "state": "VA",
+        "postalCode": "23223-5311"
+      },
+      {
+        "line": [
+          "992 FIRST COLONIAL RD"
+        ],
+        "city": "VIRGINIA BEACH",
+        "state": "VA",
+        "postalCode": "23454-3180"
+      },
+      {
+        "line": [
+          "160 COURTHOUSE LN"
+        ],
+        "city": "CLINTWOOD",
+        "state": "VA",
+        "postalCode": "24228-7911"
+      },
+      {
+        "line": [
+          "4001 Prince William Parkway",
+          "Suite 300"
+        ],
+        "city": "WOODBRIDGE",
+        "state": "VA",
+        "postalCode": "22192-7667"
+      },
+      {
+        "line": [
+          "43 UNION ST STE 6"
+        ],
+        "city": "CALAIS",
+        "state": "ME",
+        "postalCode": "04619-1847"
+      },
+      {
+        "line": [
+          "4614 Memorial Drive"
+        ],
+        "city": "SAINT JOHNSBURY",
+        "state": "VT",
+        "postalCode": "05819-8780"
+      },
+      {
+        "line": [
+          "5554 Redbud Highway"
+        ],
+        "city": "HONAKER",
+        "state": "VA",
+        "postalCode": "24260-7409"
+      },
+      {
+        "line": [
+          "406 West Main St",
+          "Suite 100"
+        ],
+        "city": "ABINGDON",
+        "state": "VA",
+        "postalCode": "24210-2608"
+      },
+      {
+        "line": [
+          "104 CENTER ST"
+        ],
+        "city": "BANGOR",
+        "state": "ME",
+        "postalCode": "04401-5059"
+      },
+      {
+        "line": [
+          " 40 Lambert Street",
+          "Suite 212"
+        ],
+        "city": "STAUNTON",
+        "state": "VA",
+        "postalCode": "24401-2446"
+      },
+      {
+        "line": [
+          "368 River Street"
+        ],
+        "city": "SPRINGFIELD",
+        "state": "VT",
+        "postalCode": "05156-2242"
+      },
+      {
+        "line": [
+          "117 West Boscawen Street",
+          "Suite 206"
+        ],
+        "city": "WINCHESTER",
+        "state": "VA",
+        "postalCode": "22601-4140"
+      },
+      {
+        "line": [
+          "366 DORSET ST STE 20"
+        ],
+        "city": "SOUTH BURLINGTON",
+        "state": "VT",
+        "postalCode": "05403-4479"
       },
       {
         "line": [
@@ -110,27 +318,109 @@
       },
       {
         "line": [
-          "992 FIRST COLONIAL RD"
+          "310 Cloverleaf Square",
+          "Suite B2"
         ],
-        "city": "VIRGINIA BEACH",
+        "city": "BIG STONE GAP",
         "state": "VA",
-        "postalCode": "23454-3180"
+        "postalCode": "24219-3074"
       },
       {
         "line": [
-          "100 VICAR PL STE C"
+          "299 LINCOLN ST STE 301"
         ],
-        "city": "DANVILLE",
-        "state": "VA",
-        "postalCode": "24540-1397"
+        "city": "WORCESTER",
+        "state": "MA",
+        "postalCode": "01605-3646"
       },
       {
         "line": [
-          "1325 Jamison Ave SE"
+          "938 South Bradford Street"
         ],
-        "city": "ROANOKE",
+        "city": "DOVER",
+        "state": "DE",
+        "postalCode": "19904-4140"
+      },
+      {
+        "line": [
+          "219 E LEE ST"
+        ],
+        "city": "MARION",
         "state": "VA",
-        "postalCode": "24013-2015"
+        "postalCode": "24354-2731"
+      },
+      {
+        "line": [
+          "700 E MAIN ST"
+        ],
+        "city": "LURAY",
+        "state": "VA",
+        "postalCode": "22835-1664"
+      },
+      {
+        "line": [
+          "401 GILFORD AVE BLDG 1"
+        ],
+        "city": "GILFORD",
+        "state": "NH",
+        "postalCode": "03249-7536"
+      },
+      {
+        "line": [
+          "350 South 4th Street"
+        ],
+        "city": "WYTHEVILLE",
+        "state": "VA",
+        "postalCode": "24382-2541"
+      },
+      {
+        "line": [
+          "2911 ESSARY DR STE 200"
+        ],
+        "city": "KNOXVILLE",
+        "state": "TN",
+        "postalCode": "37918-2469"
+      },
+      {
+        "line": [
+          "158 FRONT ROYAL PIKE",
+          "STE 205"
+        ],
+        "city": "WINCHESTER",
+        "state": "VA",
+        "postalCode": "22602-4324"
+      },
+      {
+        "line": [
+          "601 OLD WAGNER RD STE 103 # BLD"
+        ],
+        "city": "PETERSBURG",
+        "state": "VA",
+        "postalCode": "23805-9313"
+      },
+      {
+        "line": [
+          "13136 RIVERSIDE DR"
+        ],
+        "city": "OAKWOOD",
+        "state": "VA",
+        "postalCode": "24631-8700"
+      },
+      {
+        "line": [
+          "127 HEALTH CARE DR STE RC"
+        ],
+        "city": "PENNINGTON GAP",
+        "state": "VA",
+        "postalCode": "24277-2853"
+      },
+      {
+        "line": [
+          "184 NORTH ST STE 202"
+        ],
+        "city": "PITTSFIELD",
+        "state": "MA",
+        "postalCode": "01201-5161"
       },
       {
         "line": [
@@ -150,61 +440,11 @@
       },
       {
         "line": [
-          "316 Warren Avenue",
-          "Suite 1"
+          "1455 OLD BRIDGE RD STE 203"
         ],
-        "city": "FRONT ROYAL",
+        "city": "WOODBRIDGE",
         "state": "VA",
-        "postalCode": "22630-4428"
-      },
-      {
-        "line": [
-          "700 E MAIN ST"
-        ],
-        "city": "LURAY",
-        "state": "VA",
-        "postalCode": "22835-1664"
-      },
-      {
-        "line": [
-          "6330 Five Mile Centre Park",
-          "Suite 400"
-        ],
-        "city": "FREDERICKSBURG",
-        "state": "VA",
-        "postalCode": "22407-5516"
-      },
-      {
-        "line": [
-          "2725 W STATE ST"
-        ],
-        "city": "BRISTOL",
-        "state": "TN",
-        "postalCode": "37620-1828"
-      },
-      {
-        "line": [
-          "299 LINCOLN ST STE 301"
-        ],
-        "city": "WORCESTER",
-        "state": "MA",
-        "postalCode": "01605-3646"
-      },
-      {
-        "line": [
-          "127 HEALTH CARE DR STE RC"
-        ],
-        "city": "PENNINGTON GAP",
-        "state": "VA",
-        "postalCode": "24277-2853"
-      },
-      {
-        "line": [
-          "125 LUCY LN STE E"
-        ],
-        "city": "WAYNESBORO",
-        "state": "VA",
-        "postalCode": "22980-3256"
+        "postalCode": "22192-2727"
       },
       {
         "line": [
@@ -213,246 +453,6 @@
         "city": "CULPEPER",
         "state": "VA",
         "postalCode": "22701-3031"
-      },
-      {
-        "line": [
-          "5554 Redbud Highway"
-        ],
-        "city": "HONAKER",
-        "state": "VA",
-        "postalCode": "24260-7409"
-      },
-      {
-        "line": [
-          "310 Cloverleaf Square",
-          "Suite B2"
-        ],
-        "city": "BIG STONE GAP",
-        "state": "VA",
-        "postalCode": "24219-3074"
-      },
-      {
-        "line": [
-          "42 Summer St",
-          "Suite 201"
-        ],
-        "city": "PITTSFIELD",
-        "state": "MA",
-        "postalCode": "01201-4697"
-      },
-      {
-        "line": [
-          "4614 Memorial Drive"
-        ],
-        "city": "SAINT JOHNSBURY",
-        "state": "VT",
-        "postalCode": "05819-8780"
-      },
-      {
-        "line": [
-          "601 OLD WAGNER RD STE 103 # BLD"
-        ],
-        "city": "PETERSBURG",
-        "state": "VA",
-        "postalCode": "23805-9313"
-      },
-      {
-        "line": [
-          "43 UNION ST STE 6"
-        ],
-        "city": "CALAIS",
-        "state": "ME",
-        "postalCode": "04619-1847"
-      },
-      {
-        "line": [
-          "401 GILFORD AVE BLDG 1"
-        ],
-        "city": "GILFORD",
-        "state": "NH",
-        "postalCode": "03249-7536"
-      },
-      {
-        "line": [
-          "1 E MARKET ST STE C"
-        ],
-        "city": "MARTINSVILLE",
-        "state": "VA",
-        "postalCode": "24112-3747"
-      },
-      {
-        "line": [
-          "13136 RIVERSIDE DR"
-        ],
-        "city": "OAKWOOD",
-        "state": "VA",
-        "postalCode": "24631-8700"
-      },
-      {
-        "line": [
-          "406 West Main St",
-          "Suite 100"
-        ],
-        "city": "ABINGDON",
-        "state": "VA",
-        "postalCode": "24210-2608"
-      },
-      {
-        "line": [
-          "1510 N 28TH ST STE 101"
-        ],
-        "city": "RICHMOND",
-        "state": "VA",
-        "postalCode": "23223-5311"
-      },
-      {
-        "line": [
-          "219 E LEE ST"
-        ],
-        "city": "MARION",
-        "state": "VA",
-        "postalCode": "24354-2731"
-      },
-      {
-        "line": [
-          "368 River Street"
-        ],
-        "city": "SPRINGFIELD",
-        "state": "VT",
-        "postalCode": "05156-2242"
-      },
-      {
-        "line": [
-          "1245 E Main St"
-        ],
-        "city": "LEBANON",
-        "state": "VA",
-        "postalCode": "24266-5016"
-      },
-      {
-        "line": [
-          "132 McClure Ave."
-        ],
-        "city": "CLINTWOOD",
-        "state": "VA",
-        "postalCode": "24228-6845"
-      },
-      {
-        "line": [
-          "938 South Bradford Street"
-        ],
-        "city": "DOVER",
-        "state": "DE",
-        "postalCode": "19904-4140"
-      },
-      {
-        "line": [
-          "373 CECIL D QUILLEN DR STE 3"
-        ],
-        "city": "DUFFIELD",
-        "state": "VA",
-        "postalCode": "24244-4085"
-      },
-      {
-        "line": [
-          "4001 Prince William Parkway",
-          "Suite 300"
-        ],
-        "city": "WOODBRIDGE",
-        "state": "VA",
-        "postalCode": "22192-7667"
-      },
-      {
-        "line": [
-          "117 West Boscawen Street",
-          "Suite 206"
-        ],
-        "city": "WINCHESTER",
-        "state": "VA",
-        "postalCode": "22601-4140"
-      },
-      {
-        "line": [
-          "158 FRONT ROYAL PIKE",
-          "STE 205"
-        ],
-        "city": "WINCHESTER",
-        "state": "VA",
-        "postalCode": "22602-4324"
-      },
-      {
-        "line": [
-          "350 South 4th Street"
-        ],
-        "city": "WYTHEVILLE",
-        "state": "VA",
-        "postalCode": "24382-2541"
-      },
-      {
-        "line": [
-          "649 2ND ST FL 1"
-        ],
-        "city": "MANCHESTER",
-        "state": "NH",
-        "postalCode": "03102-5269"
-      },
-      {
-        "line": [
-          "2609 Sheffield Dr."
-        ],
-        "city": "BLACKSBURG",
-        "state": "VA",
-        "postalCode": "24060-8271"
-      },
-      {
-        "line": [
-          "308 WESTWOOD OFFICE PARK"
-        ],
-        "city": "FREDERICKSBURG",
-        "state": "VA",
-        "postalCode": "22401-5108"
-      },
-      {
-        "line": [
-          "60 ROGERS ST",
-          "STE 215"
-        ],
-        "city": "MANCHESTER",
-        "state": "NH",
-        "postalCode": "03103-5070"
-      },
-      {
-        "line": [
-          "2911 ESSARY DR STE 200"
-        ],
-        "city": "KNOXVILLE",
-        "state": "TN",
-        "postalCode": "37918-2469"
-      },
-      {
-        "line": [
-          " 40 Lambert Street",
-          "Suite 212"
-        ],
-        "city": "STAUNTON",
-        "state": "VA",
-        "postalCode": "24401-2446"
-      },
-      {
-        "line": [
-          "160 COURTHOUSE LN"
-        ],
-        "city": "CLINTWOOD",
-        "state": "VA",
-        "postalCode": "24228-7911"
-      },
-      {
-        "line": [
-          "366 DORSET ST STE 20"
-        ],
-        "city": "SOUTH BURLINGTON",
-        "state": "VT",
-        "postalCode": "05403-4479"
       }
     ],
     "extension": [

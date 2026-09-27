@@ -14,34 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1841629946"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1013346113"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1205265303"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841629946"
       }
     ],
     "address": [
-      {
-        "line": [
-          "6801 AIRPORT BLVD, STE B222"
-        ],
-        "city": "MOBILE",
-        "state": "AL",
-        "postalCode": "36608-3764"
-      },
-      {
-        "line": [
-          "6801 AIRPORT BOULEVARD"
-        ],
-        "city": "MOBILE",
-        "state": "AL",
-        "postalCode": "36608-3764"
-      },
       {
         "line": [
           "6701 Airport Boulevard B222",
@@ -81,6 +65,22 @@
           "Suite A209"
         ],
         "city": "Mobile",
+        "state": "AL",
+        "postalCode": "36608-3764"
+      },
+      {
+        "line": [
+          "6801 AIRPORT BLVD, STE B222"
+        ],
+        "city": "MOBILE",
+        "state": "AL",
+        "postalCode": "36608-3764"
+      },
+      {
+        "line": [
+          "6801 AIRPORT BOULEVARD"
+        ],
+        "city": "MOBILE",
         "state": "AL",
         "postalCode": "36608-3764"
       }

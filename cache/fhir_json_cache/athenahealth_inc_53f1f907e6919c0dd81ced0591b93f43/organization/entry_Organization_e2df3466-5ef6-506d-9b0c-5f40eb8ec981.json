@@ -14,29 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679156731"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1265015580"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245489590"
+        "value": "1679156731"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1295318525"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245489590"
       }
     ],
     "address": [
       {
         "line": [
-          "53 S Medical Park Drive"
+          "42 LAMBERT ST STE 511"
         ],
-        "city": "FISHERSVILLE",
+        "city": "STAUNTON",
         "state": "VA",
-        "postalCode": "22939-2333"
+        "postalCode": "24401-2421"
       },
       {
         "line": [
@@ -48,19 +48,19 @@
       },
       {
         "line": [
-          "42 LAMBERT ST STE 511"
-        ],
-        "city": "STAUNTON",
-        "state": "VA",
-        "postalCode": "24401-2421"
-      },
-      {
-        "line": [
           "30 Greenhouse Road"
         ],
         "city": "LEXINGTON",
         "state": "VA",
         "postalCode": "24450-3789"
+      },
+      {
+        "line": [
+          "53 S Medical Park Drive"
+        ],
+        "city": "FISHERSVILLE",
+        "state": "VA",
+        "postalCode": "22939-2333"
       }
     ],
     "extension": [

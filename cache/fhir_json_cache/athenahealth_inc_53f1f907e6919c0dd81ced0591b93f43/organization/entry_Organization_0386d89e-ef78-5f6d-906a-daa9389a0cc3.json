@@ -14,31 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568169845"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922714633"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871218511"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215647441"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1366162885"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578284246"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396481255"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,7 +22,31 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962112326"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1023733359"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1568169845"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396481255"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245950757"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1538883111"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215647441"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,7 +54,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962112326"
+        "value": "1922714633"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,50 +66,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245950757"
+        "value": "1578284246"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538883111"
+        "value": "1871218511"
       }
     ],
     "address": [
-      {
-        "line": [
-          "50 Fountain Plaza",
-          "Suite 1400"
-        ],
-        "city": "BUFFALO",
-        "state": "NY",
-        "postalCode": "14202-2215"
-      },
-      {
-        "line": [
-          "222 S Main St",
-          "5th Fl"
-        ],
-        "city": "SALT LAKE CITY",
-        "state": "UT",
-        "postalCode": "84101-2185"
-      },
-      {
-        "line": [
-          "7500 College Blvd",
-          "5th Floor"
-        ],
-        "city": "OVERLAND PARK",
-        "state": "KS",
-        "postalCode": "66210-4043"
-      },
-      {
-        "line": [
-          "200 Continental Dr",
-          "Suite 401"
-        ],
-        "city": "NEWARK",
-        "state": "DE",
-        "postalCode": "19713-4337"
-      },
       {
         "line": [
           "615 St George Sq Ct",
@@ -118,24 +82,6 @@
         "city": "WINSTON SALEM",
         "state": "NC",
         "postalCode": "27103-1368"
-      },
-      {
-        "line": [
-          "140 E Ridgewood Ave",
-          "Suite 415"
-        ],
-        "city": "PARAMUS",
-        "state": "NJ",
-        "postalCode": "07652-3915"
-      },
-      {
-        "line": [
-          "101 S Reid St",
-          "STE 307"
-        ],
-        "city": "SIOUX FALLS",
-        "state": "SD",
-        "postalCode": "57103-7045"
       },
       {
         "line": [
@@ -148,24 +94,6 @@
       },
       {
         "line": [
-          "8354 Northfield Blvd",
-          "Suite 3700"
-        ],
-        "city": "DENVER",
-        "state": "CO",
-        "postalCode": "80238-3135"
-      },
-      {
-        "line": [
-          "500 Marquette Ave NW",
-          "STE 1200"
-        ],
-        "city": "ALBUQUERQUE",
-        "state": "NM",
-        "postalCode": "87102-5312"
-      },
-      {
-        "line": [
           "1200 G St NW",
           "Suite 800"
         ],
@@ -175,11 +103,21 @@
       },
       {
         "line": [
-          "1253 Canyon Rd"
+          "8354 Northfield Blvd",
+          "Suite 3700"
         ],
-        "city": "MORGANTOWN",
-        "state": "WV",
-        "postalCode": "26508-9273"
+        "city": "DENVER",
+        "state": "CO",
+        "postalCode": "80238-3135"
+      },
+      {
+        "line": [
+          "50 Fountain Plaza",
+          "Suite 1400"
+        ],
+        "city": "BUFFALO",
+        "state": "NY",
+        "postalCode": "14202-2215"
       },
       {
         "line": [
@@ -192,12 +130,12 @@
       },
       {
         "line": [
-          "4620 E 53rd St",
-          "Suite 200"
+          "333 City Blvd W",
+          "Suite 362"
         ],
-        "city": "DAVENPORT",
-        "state": "IA",
-        "postalCode": "52807-3627"
+        "city": "ORANGE",
+        "state": "CA",
+        "postalCode": "92868-2972"
       },
       {
         "line": [
@@ -206,6 +144,23 @@
         "city": "HOUSTON",
         "state": "TX",
         "postalCode": "77002-3246"
+      },
+      {
+        "line": [
+          "4720 Salisbury Rd"
+        ],
+        "city": "JACKSONVILLE",
+        "state": "FL",
+        "postalCode": "32256-6101"
+      },
+      {
+        "line": [
+          "200 Continental Dr",
+          "Suite 401"
+        ],
+        "city": "NEWARK",
+        "state": "DE",
+        "postalCode": "19713-4337"
       },
       {
         "line": [
@@ -218,12 +173,47 @@
       },
       {
         "line": [
-          "333 City Blvd W",
-          "Suite 362"
+          "222 S Main St",
+          "5th Fl"
         ],
-        "city": "ORANGE",
-        "state": "CA",
-        "postalCode": "92868-2972"
+        "city": "SALT LAKE CITY",
+        "state": "UT",
+        "postalCode": "84101-2185"
+      },
+      {
+        "line": [
+          "1253 Canyon Rd"
+        ],
+        "city": "MORGANTOWN",
+        "state": "WV",
+        "postalCode": "26508-9273"
+      },
+      {
+        "line": [
+          "4620 E 53rd St",
+          "Suite 200"
+        ],
+        "city": "DAVENPORT",
+        "state": "IA",
+        "postalCode": "52807-3627"
+      },
+      {
+        "line": [
+          "140 E Ridgewood Ave",
+          "Suite 415"
+        ],
+        "city": "PARAMUS",
+        "state": "NJ",
+        "postalCode": "07652-3915"
+      },
+      {
+        "line": [
+          "500 Marquette Ave NW",
+          "STE 1200"
+        ],
+        "city": "ALBUQUERQUE",
+        "state": "NM",
+        "postalCode": "87102-5312"
       },
       {
         "line": [
@@ -235,11 +225,21 @@
       },
       {
         "line": [
-          "4720 Salisbury Rd"
+          "101 S Reid St",
+          "STE 307"
         ],
-        "city": "JACKSONVILLE",
-        "state": "FL",
-        "postalCode": "32256-6101"
+        "city": "SIOUX FALLS",
+        "state": "SD",
+        "postalCode": "57103-7045"
+      },
+      {
+        "line": [
+          "7500 College Blvd",
+          "5th Floor"
+        ],
+        "city": "OVERLAND PARK",
+        "state": "KS",
+        "postalCode": "66210-4043"
       }
     ],
     "extension": [

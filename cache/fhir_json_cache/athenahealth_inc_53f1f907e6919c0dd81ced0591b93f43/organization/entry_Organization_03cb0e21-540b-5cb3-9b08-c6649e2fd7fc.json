@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558588772"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861400095"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1750560009"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1558588772"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,51 +32,11 @@
     "address": [
       {
         "line": [
-          "909 W MAPLE RD STE 111"
+          "28050 GRAND RIVER AVE"
         ],
-        "city": "CLAWSON",
+        "city": "FARMINGTON HILLS",
         "state": "MI",
-        "postalCode": "48017-1000"
-      },
-      {
-        "line": [
-          "1695 12 MILE RD STE 220"
-        ],
-        "city": "BERKLEY",
-        "state": "MI",
-        "postalCode": "48072-2100"
-      },
-      {
-        "line": [
-          "908 W ARYGLE"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60640-3894"
-      },
-      {
-        "line": [
-          "909 W Maple Rd, Ste 100"
-        ],
-        "city": "CLAWSON",
-        "state": "MI",
-        "postalCode": "48017-1000"
-      },
-      {
-        "line": [
-          "20300 FORT ST"
-        ],
-        "city": "RIVERVIEW",
-        "state": "MI",
-        "postalCode": "48193-4560"
-      },
-      {
-        "line": [
-          "43494 WOODWARD AVE STE 208"
-        ],
-        "city": "BLOOMFIELD HILLS",
-        "state": "MI",
-        "postalCode": "48302-5054"
+        "postalCode": "48336-5919"
       },
       {
         "line": [
@@ -88,27 +48,19 @@
       },
       {
         "line": [
-          "33400 6 MILE RD STE B"
+          "2900 N LAKE SHORE DR"
         ],
-        "city": "LIVONIA",
-        "state": "MI",
-        "postalCode": "48152-3165"
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60657-5640"
       },
       {
         "line": [
-          "16001 W 9 MILE RD"
+          "20300 FORT ST"
         ],
-        "city": "SOUTHFIELD",
+        "city": "RIVERVIEW",
         "state": "MI",
-        "postalCode": "48075-4818"
-      },
-      {
-        "line": [
-          "8401 HOLLY RD"
-        ],
-        "city": "GRAND BLANC",
-        "state": "MI",
-        "postalCode": "48439-1812"
+        "postalCode": "48193-4560"
       },
       {
         "line": [
@@ -120,11 +72,11 @@
       },
       {
         "line": [
-          "105 WATER ST"
+          "16001 W 9 MILE RD"
         ],
-        "city": "PLYMOUTH",
-        "state": "IN",
-        "postalCode": "46563-2148"
+        "city": "SOUTHFIELD",
+        "state": "MI",
+        "postalCode": "48075-4818"
       },
       {
         "line": [
@@ -133,6 +85,22 @@
         "city": "EVANSTON",
         "state": "IL",
         "postalCode": "60202-3622"
+      },
+      {
+        "line": [
+          "1695 12 MILE RD STE 220"
+        ],
+        "city": "BERKLEY",
+        "state": "MI",
+        "postalCode": "48072-2100"
+      },
+      {
+        "line": [
+          "8401 HOLLY RD"
+        ],
+        "city": "GRAND BLANC",
+        "state": "MI",
+        "postalCode": "48439-1812"
       },
       {
         "line": [
@@ -153,19 +121,19 @@
       },
       {
         "line": [
-          "2900 N LAKE SHORE DR"
+          "43494 WOODWARD AVE STE 208"
         ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60657-5640"
+        "city": "BLOOMFIELD HILLS",
+        "state": "MI",
+        "postalCode": "48302-5054"
       },
       {
         "line": [
-          "28050 GRAND RIVER AVE"
+          "33400 6 MILE RD STE B"
         ],
-        "city": "FARMINGTON HILLS",
+        "city": "LIVONIA",
         "state": "MI",
-        "postalCode": "48336-5919"
+        "postalCode": "48152-3165"
       },
       {
         "line": [
@@ -174,6 +142,38 @@
         "city": "BRIGHTON",
         "state": "MI",
         "postalCode": "48116-1994"
+      },
+      {
+        "line": [
+          "105 WATER ST"
+        ],
+        "city": "PLYMOUTH",
+        "state": "IN",
+        "postalCode": "46563-2148"
+      },
+      {
+        "line": [
+          "909 W MAPLE RD STE 111"
+        ],
+        "city": "CLAWSON",
+        "state": "MI",
+        "postalCode": "48017-1000"
+      },
+      {
+        "line": [
+          "909 W Maple Rd, Ste 100"
+        ],
+        "city": "CLAWSON",
+        "state": "MI",
+        "postalCode": "48017-1000"
+      },
+      {
+        "line": [
+          "908 W ARYGLE"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60640-3894"
       },
       {
         "line": [

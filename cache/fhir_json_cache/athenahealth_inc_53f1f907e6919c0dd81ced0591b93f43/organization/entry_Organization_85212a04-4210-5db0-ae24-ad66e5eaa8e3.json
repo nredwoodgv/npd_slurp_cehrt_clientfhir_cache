@@ -14,25 +14,16 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710346093"
+        "value": "1922115914"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922115914"
+        "value": "1710346093"
       }
     ],
     "address": [
       {
         "line": [
-          "125 Florida Memorial Parkway",
-          "Suite 2600"
-        ],
-        "city": "NEW SMYRNA BEACH",
-        "state": "FL",
-        "postalCode": "32168-9315"
-      },
-      {
-        "line": [
           "125 Florida Memorial Pkwy",
           "Suite 2700"
         ],
@@ -43,7 +34,7 @@
       {
         "line": [
           "125 Florida Memorial Parkway",
-          "Suite 2700"
+          "Suite 2600"
         ],
         "city": "NEW SMYRNA BEACH",
         "state": "FL",
@@ -57,6 +48,15 @@
         "city": "NEW SMYRNA BEACH",
         "state": "FL",
         "postalCode": "32168-8207"
+      },
+      {
+        "line": [
+          "125 Florida Memorial Parkway",
+          "Suite 2700"
+        ],
+        "city": "NEW SMYRNA BEACH",
+        "state": "FL",
+        "postalCode": "32168-9315"
       }
     ],
     "extension": [

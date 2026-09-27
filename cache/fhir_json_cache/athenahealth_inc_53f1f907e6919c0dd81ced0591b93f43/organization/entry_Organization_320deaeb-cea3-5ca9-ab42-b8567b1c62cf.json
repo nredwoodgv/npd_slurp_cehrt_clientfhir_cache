@@ -18,10 +18,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114344280"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1912607300"
       },
       {
@@ -30,10 +26,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114344280"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1316315740"
       }
     ],
     "address": [
+      {
+        "line": [
+          "6602 Church Hill Rd",
+          "Suite 550"
+        ],
+        "city": "CHESTERTOWN",
+        "state": "MD",
+        "postalCode": "21620-2323"
+      },
       {
         "line": [
           "8100 Sandpiper Circle",
@@ -45,12 +54,12 @@
       },
       {
         "line": [
-          "120 Sallitt Drive",
-          "Suite D"
+          "826 Washington Rd",
+          "Suite 210"
         ],
-        "city": "STEVENSVILLE",
+        "city": "WESTMINSTER",
         "state": "MD",
-        "postalCode": "21666-2154"
+        "postalCode": "21157-5780"
       },
       {
         "line": [
@@ -70,75 +79,11 @@
       },
       {
         "line": [
-          "23000 Moakley Street",
-          "Suite 206"
+          "1673 S State Street"
         ],
-        "city": "LEONARDTOWN",
-        "state": "MD",
-        "postalCode": "20650-2917"
-      },
-      {
-        "line": [
-          "10905 Fort Washington Rd",
-          "Suite 405"
-        ],
-        "city": "FORT WASHINGTON",
-        "state": "MD",
-        "postalCode": "20744-5807"
-      },
-      {
-        "line": [
-          "810 Bestgate Rd",
-          "Suite 220"
-        ],
-        "city": "ANNAPOLIS",
-        "state": "MD",
-        "postalCode": "21401-3033"
-      },
-      {
-        "line": [
-          "6602 Church Hill Rd",
-          "Suite 550"
-        ],
-        "city": "CHESTERTOWN",
-        "state": "MD",
-        "postalCode": "21620-2323"
-      },
-      {
-        "line": [
-          "826 Washington Rd",
-          "Suite 210"
-        ],
-        "city": "WESTMINSTER",
-        "state": "MD",
-        "postalCode": "21157-5780"
-      },
-      {
-        "line": [
-          "7920 McDonogh Rd.",
-          "Suite 201"
-        ],
-        "city": "OWINGS MILLS",
-        "state": "MD",
-        "postalCode": "21117-5350"
-      },
-      {
-        "line": [
-          "2960 Technology Place",
-          "Suite 103"
-        ],
-        "city": "WALDORF",
-        "state": "MD",
-        "postalCode": "20601-4968"
-      },
-      {
-        "line": [
-          "4175 N Hanson Ct",
-          "Suite 202"
-        ],
-        "city": "BOWIE",
-        "state": "MD",
-        "postalCode": "20716-3182"
+        "city": "DOVER",
+        "state": "DE",
+        "postalCode": "19901-5148"
       },
       {
         "line": [
@@ -151,37 +96,30 @@
       },
       {
         "line": [
-          "19851 Observation Dr",
-          "Suite 360"
+          "4175 N Hanson Ct",
+          "Suite 202"
         ],
-        "city": "GERMANTOWN",
+        "city": "BOWIE",
         "state": "MD",
-        "postalCode": "20876-4070"
+        "postalCode": "20716-3182"
       },
       {
         "line": [
-          "1673 S State Street"
+          "7671 Quarterfield Rd.",
+          "Suite 301"
         ],
-        "city": "DOVER",
-        "state": "DE",
-        "postalCode": "19901-5148"
+        "city": "GLEN BURNIE",
+        "state": "MD",
+        "postalCode": "21061-4525"
       },
       {
         "line": [
-          "8367 Cherry Lane"
+          "120 Sallitt Drive",
+          "Suite D"
         ],
-        "city": "LAUREL",
+        "city": "STEVENSVILLE",
         "state": "MD",
-        "postalCode": "20707-4831"
-      },
-      {
-        "line": [
-          "826 Washington Rd",
-          "Ste 131"
-        ],
-        "city": "WESTMINSTER",
-        "state": "MD",
-        "postalCode": "21157-5750"
+        "postalCode": "21666-2154"
       },
       {
         "line": [
@@ -194,12 +132,38 @@
       },
       {
         "line": [
-          "160 Sallitt Drive",
-          "Suite 100"
+          "10905 Fort Washington Rd",
+          "Suite 405"
         ],
-        "city": "STEVENSVILLE",
+        "city": "FORT WASHINGTON",
         "state": "MD",
-        "postalCode": "21666-2285"
+        "postalCode": "20744-5807"
+      },
+      {
+        "line": [
+          "7920 McDonogh Rd.",
+          "Suite 201"
+        ],
+        "city": "OWINGS MILLS",
+        "state": "MD",
+        "postalCode": "21117-5350"
+      },
+      {
+        "line": [
+          "19851 Observation Dr",
+          "Suite 360"
+        ],
+        "city": "GERMANTOWN",
+        "state": "MD",
+        "postalCode": "20876-4070"
+      },
+      {
+        "line": [
+          "8367 Cherry Lane"
+        ],
+        "city": "LAUREL",
+        "state": "MD",
+        "postalCode": "20707-4831"
       },
       {
         "line": [
@@ -212,12 +176,48 @@
       },
       {
         "line": [
-          "7671 Quarterfield Rd.",
-          "Suite 301"
+          "23000 Moakley Street",
+          "Suite 206"
         ],
-        "city": "GLEN BURNIE",
+        "city": "LEONARDTOWN",
         "state": "MD",
-        "postalCode": "21061-4525"
+        "postalCode": "20650-2917"
+      },
+      {
+        "line": [
+          "810 Bestgate Rd",
+          "Suite 220"
+        ],
+        "city": "ANNAPOLIS",
+        "state": "MD",
+        "postalCode": "21401-3033"
+      },
+      {
+        "line": [
+          "2960 Technology Place",
+          "Suite 103"
+        ],
+        "city": "WALDORF",
+        "state": "MD",
+        "postalCode": "20601-4968"
+      },
+      {
+        "line": [
+          "160 Sallitt Drive",
+          "Suite 100"
+        ],
+        "city": "STEVENSVILLE",
+        "state": "MD",
+        "postalCode": "21666-2285"
+      },
+      {
+        "line": [
+          "826 Washington Rd",
+          "Ste 131"
+        ],
+        "city": "WESTMINSTER",
+        "state": "MD",
+        "postalCode": "21157-5750"
       }
     ],
     "extension": [

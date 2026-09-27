@@ -14,7 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1023088168"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1700831500"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386716520"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114366333"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -31,18 +43,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1457663197"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114366333"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386716520"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023088168"
       }
     ],
     "address": [
@@ -53,14 +53,6 @@
         "city": "ROCHESTER",
         "state": "MI",
         "postalCode": "48307-1863"
-      },
-      {
-        "line": [
-          "16001 W 9 Mile Rd"
-        ],
-        "city": "SOUTHFIELD",
-        "state": "MI",
-        "postalCode": "48075-4818"
       },
       {
         "line": [
@@ -77,6 +69,14 @@
         "city": "WARREN",
         "state": "MI",
         "postalCode": "48093-3472"
+      },
+      {
+        "line": [
+          "16001 W 9 Mile Rd"
+        ],
+        "city": "SOUTHFIELD",
+        "state": "MI",
+        "postalCode": "48075-4818"
       },
       {
         "line": [

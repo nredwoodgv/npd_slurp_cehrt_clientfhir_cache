@@ -14,22 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174848907"
+        "value": "1295753887"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295753887"
+        "value": "1174848907"
       }
     ],
     "address": [
       {
         "line": [
-          "1001 Water St.",
-          "D-200"
+          "349 REID RD"
         ],
-        "city": "KERRVILLE",
+        "city": "JUNCTION",
         "state": "TX",
-        "postalCode": "78028-3566"
+        "postalCode": "76849-3049"
       },
       {
         "line": [
@@ -50,11 +49,12 @@
       },
       {
         "line": [
-          "349 REID RD"
+          "1001 Water St.",
+          "D-200"
         ],
-        "city": "JUNCTION",
+        "city": "KERRVILLE",
         "state": "TX",
-        "postalCode": "76849-3049"
+        "postalCode": "78028-3566"
       }
     ],
     "extension": [

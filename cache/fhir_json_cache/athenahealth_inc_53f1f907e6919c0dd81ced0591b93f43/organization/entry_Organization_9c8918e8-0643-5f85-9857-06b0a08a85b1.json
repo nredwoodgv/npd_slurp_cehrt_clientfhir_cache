@@ -14,35 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932495504"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710156344"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154338390"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619340163"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1619359361"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1306933619"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548634082"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346451200"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,17 +30,49 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1346451200"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154338390"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1710156344"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1932495504"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619340163"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548634082"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1497945935"
       }
     ],
     "address": [
       {
         "line": [
-          "243 Elm Street"
+          "125 Main Street"
+        ],
+        "city": "CHARLESTOWN",
+        "state": "NH",
+        "postalCode": "03603-4914"
+      },
+      {
+        "line": [
+          "224 Elm Street"
         ],
         "city": "CLAREMONT",
         "state": "NH",
-        "postalCode": "03743-4921"
+        "postalCode": "03743-2026"
       },
       {
         "line": [
@@ -77,19 +85,11 @@
       },
       {
         "line": [
-          "224 Elm Street"
+          "243 Elm Street"
         ],
         "city": "CLAREMONT",
         "state": "NH",
-        "postalCode": "03743-2026"
-      },
-      {
-        "line": [
-          "125 Main Street"
-        ],
-        "city": "CHARLESTOWN",
-        "state": "NH",
-        "postalCode": "03603-4914"
+        "postalCode": "03743-4921"
       }
     ],
     "extension": [

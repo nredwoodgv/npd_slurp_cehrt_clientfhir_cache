@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750623732"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861613598"
       },
       {
@@ -26,10 +22,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750623732"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1710472162"
       }
     ],
     "address": [
+      {
+        "line": [
+          "629 S PLUMMER AVE"
+        ],
+        "city": "CHANUTE",
+        "state": "KS",
+        "postalCode": "66720-1928"
+      },
       {
         "line": [
           "252 W 9TH ST"
@@ -40,19 +48,11 @@
       },
       {
         "line": [
-          "1527 MADISON ST"
+          "100 WEST 16TH ST."
         ],
-        "city": "FREDONIA",
+        "city": "EUREKA",
         "state": "KS",
-        "postalCode": "66736-1751"
-      },
-      {
-        "line": [
-          "629 S PLUMMER AVE"
-        ],
-        "city": "CHANUTE",
-        "state": "KS",
-        "postalCode": "66720-1928"
+        "postalCode": "67045-1047"
       },
       {
         "line": [
@@ -64,19 +64,19 @@
       },
       {
         "line": [
+          "1527 MADISON ST"
+        ],
+        "city": "FREDONIA",
+        "state": "KS",
+        "postalCode": "66736-1751"
+      },
+      {
+        "line": [
           "720 W CENTRAL AVE STE 102"
         ],
         "city": "EL DORADO",
         "state": "KS",
         "postalCode": "67042-2112"
-      },
-      {
-        "line": [
-          "100 WEST 16TH ST."
-        ],
-        "city": "EUREKA",
-        "state": "KS",
-        "postalCode": "67045-1047"
       }
     ],
     "extension": [

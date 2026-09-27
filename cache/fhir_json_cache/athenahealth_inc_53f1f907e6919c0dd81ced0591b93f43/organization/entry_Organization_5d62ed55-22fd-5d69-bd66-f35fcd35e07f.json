@@ -18,15 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952500860"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578762381"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1073644498"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952500860"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -35,9 +31,21 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1700085610"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578762381"
       }
     ],
     "address": [
+      {
+        "line": [
+          "4000 SPENCER HWY"
+        ],
+        "city": "PASADENA",
+        "state": "TX",
+        "postalCode": "77504-1202"
+      },
       {
         "line": [
           "6411 FANNIN ST"
@@ -45,6 +53,30 @@
         "city": "HOUSTON",
         "state": "TX",
         "postalCode": "77030-1501"
+      },
+      {
+        "line": [
+          "4000 SPENCER HWY"
+        ],
+        "city": "PASADENA",
+        "state": "TX",
+        "postalCode": "77504-1111"
+      },
+      {
+        "line": [
+          "4200 TWELVE OAKS DR"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77027-6812"
+      },
+      {
+        "line": [
+          "1300 BINZ ST"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77004-7016"
       },
       {
         "line": [
@@ -61,38 +93,6 @@
         "city": "HOUSTON",
         "state": "TX",
         "postalCode": "77030-2716"
-      },
-      {
-        "line": [
-          "1300 BINZ ST"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77004-7016"
-      },
-      {
-        "line": [
-          "4000 SPENCER HWY"
-        ],
-        "city": "PASADENA",
-        "state": "TX",
-        "postalCode": "77504-1202"
-      },
-      {
-        "line": [
-          "4200 TWELVE OAKS DR"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77027-6812"
-      },
-      {
-        "line": [
-          "4000 SPENCER HWY"
-        ],
-        "city": "PASADENA",
-        "state": "TX",
-        "postalCode": "77504-1111"
       }
     ],
     "extension": [

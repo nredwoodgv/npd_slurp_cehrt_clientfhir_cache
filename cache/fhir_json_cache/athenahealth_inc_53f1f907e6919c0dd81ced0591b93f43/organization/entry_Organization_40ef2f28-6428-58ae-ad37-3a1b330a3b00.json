@@ -14,7 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962602300"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881656247"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,19 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
+        "value": "1730484031"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,22 +42,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
+        "value": "1215348487"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
+        "value": "1215999511"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053373951"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2801 Franciscan Dr"
-        ],
-        "city": "BRYAN",
-        "state": "TX",
-        "postalCode": "77802-2544"
-      },
       {
         "line": [
           "1602 Rock Prairie Ste 4400"
@@ -69,6 +61,14 @@
         "city": "COLLEGE STATION",
         "state": "TX",
         "postalCode": "77845-5986"
+      },
+      {
+        "line": [
+          "2801 Franciscan Dr"
+        ],
+        "city": "BRYAN",
+        "state": "TX",
+        "postalCode": "77802-2544"
       }
     ],
     "extension": [

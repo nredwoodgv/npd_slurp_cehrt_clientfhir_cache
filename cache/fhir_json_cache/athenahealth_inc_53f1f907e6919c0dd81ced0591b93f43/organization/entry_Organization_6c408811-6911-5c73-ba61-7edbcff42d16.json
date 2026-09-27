@@ -22,49 +22,35 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558829937"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1336625540"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1336676923"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1558829937"
       }
     ],
     "address": [
       {
         "line": [
-          "1169 Robertson Rd S"
+          "325 W WALNUT ST",
+          "STE 600"
         ],
-        "city": "MURRAY",
+        "city": "LEBANON",
         "state": "KY",
-        "postalCode": "42071-0001"
+        "postalCode": "40033-1378"
       },
       {
         "line": [
-          "825 N MERIDIAN ST"
+          "9365 COUNSELORS ROW",
+          "STE 210"
         ],
-        "city": "GREENTOWN",
+        "city": "INDIANAPOLIS",
         "state": "IN",
-        "postalCode": "46936-1263"
-      },
-      {
-        "line": [
-          "640 BYPASS RD"
-        ],
-        "city": "CADIZ",
-        "state": "KY",
-        "postalCode": "42211-8585"
-      },
-      {
-        "line": [
-          "125 S CLARK ST STE 900"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60603-4043"
+        "postalCode": "46240-6418"
       },
       {
         "line": [
@@ -76,20 +62,19 @@
       },
       {
         "line": [
-          "35055 W 12 MILE RD",
-          "Ste 250"
+          "1250 RADIO RD"
         ],
-        "city": "FARMINGTON",
-        "state": "MI",
-        "postalCode": "48331-3208"
+        "city": "ALMO",
+        "state": "KY",
+        "postalCode": "42020-9404"
       },
       {
         "line": [
-          "1517 W BROADWAY"
+          "9365 COUNSELORS ROW"
         ],
-        "city": "MAYFIELD",
-        "state": "KY",
-        "postalCode": "42066-1927"
+        "city": "INDIANAPOLIS",
+        "state": "IN",
+        "postalCode": "46240-6418"
       },
       {
         "line": [
@@ -101,12 +86,43 @@
       },
       {
         "line": [
-          "35150 Nankin Blvd",
-          "STE 103"
+          "2757 ERWIN RD"
         ],
-        "city": "WESTLAND",
-        "state": "MI",
-        "postalCode": "48185-2091"
+        "city": "MURRAY",
+        "state": "KY",
+        "postalCode": "42071-7021"
+      },
+      {
+        "line": [
+          "825 N MERIDIAN ST"
+        ],
+        "city": "GREENTOWN",
+        "state": "IN",
+        "postalCode": "46936-1263"
+      },
+      {
+        "line": [
+          "1000 S 12th Street"
+        ],
+        "city": "MURRAY",
+        "state": "KY",
+        "postalCode": "42071-9303"
+      },
+      {
+        "line": [
+          "3600 West Boulevard"
+        ],
+        "city": "KOKOMO",
+        "state": "IN",
+        "postalCode": "46902-5992"
+      },
+      {
+        "line": [
+          "212 CRESTVIEW LN"
+        ],
+        "city": "ALMO",
+        "state": "KY",
+        "postalCode": "42020-9458"
       },
       {
         "line": [
@@ -126,67 +142,19 @@
       },
       {
         "line": [
-          "9365 COUNSELORS ROW"
+          "1517 W BROADWAY"
         ],
-        "city": "INDIANAPOLIS",
-        "state": "IN",
-        "postalCode": "46240-6418"
-      },
-      {
-        "line": [
-          "1401 S 16th St"
-        ],
-        "city": "MURRAY",
+        "city": "MAYFIELD",
         "state": "KY",
-        "postalCode": "42071-9303"
+        "postalCode": "42066-1927"
       },
       {
         "line": [
-          "1000 S 12th Street"
+          "125 S CLARK ST STE 900"
         ],
-        "city": "MURRAY",
-        "state": "KY",
-        "postalCode": "42071-9303"
-      },
-      {
-        "line": [
-          "2905 W Sycamore St"
-        ],
-        "city": "KOKOMO",
-        "state": "IN",
-        "postalCode": "46901-4078"
-      },
-      {
-        "line": [
-          "2757 ERWIN RD"
-        ],
-        "city": "MURRAY",
-        "state": "KY",
-        "postalCode": "42071-7021"
-      },
-      {
-        "line": [
-          "1250 RADIO RD"
-        ],
-        "city": "ALMO",
-        "state": "KY",
-        "postalCode": "42020-9404"
-      },
-      {
-        "line": [
-          "9365 COUNSELORS ROW STE 210"
-        ],
-        "city": "INDIANAPOLIS",
-        "state": "IN",
-        "postalCode": "46240-6418"
-      },
-      {
-        "line": [
-          "3600 West Boulevard"
-        ],
-        "city": "KOKOMO",
-        "state": "IN",
-        "postalCode": "46902-5992"
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60603-4043"
       },
       {
         "line": [
@@ -198,14 +166,6 @@
       },
       {
         "line": [
-          "212 CRESTVIEW LN"
-        ],
-        "city": "ALMO",
-        "state": "KY",
-        "postalCode": "42020-9458"
-      },
-      {
-        "line": [
           "329 RAINBOW DR"
         ],
         "city": "KOKOMO",
@@ -214,12 +174,53 @@
       },
       {
         "line": [
-          "325 W WALNUT ST",
-          "STE 600"
+          "2905 W Sycamore St"
         ],
-        "city": "LEBANON",
+        "city": "KOKOMO",
+        "state": "IN",
+        "postalCode": "46901-4078"
+      },
+      {
+        "line": [
+          "35150 Nankin Blvd",
+          "STE 103"
+        ],
+        "city": "WESTLAND",
+        "state": "MI",
+        "postalCode": "48185-2091"
+      },
+      {
+        "line": [
+          "640 BYPASS RD"
+        ],
+        "city": "CADIZ",
         "state": "KY",
-        "postalCode": "40033-1378"
+        "postalCode": "42211-8585"
+      },
+      {
+        "line": [
+          "35055 W 12 MILE RD",
+          "Ste 250"
+        ],
+        "city": "FARMINGTON",
+        "state": "MI",
+        "postalCode": "48331-3208"
+      },
+      {
+        "line": [
+          "1169 Robertson Rd S"
+        ],
+        "city": "MURRAY",
+        "state": "KY",
+        "postalCode": "42071-0001"
+      },
+      {
+        "line": [
+          "1401 S 16th St"
+        ],
+        "city": "MURRAY",
+        "state": "KY",
+        "postalCode": "42071-9303"
       }
     ],
     "extension": [

@@ -22,14 +22,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144250176"
+        "value": "1780225326"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780225326"
+        "value": "1144250176"
       }
     ],
     "address": [
+      {
+        "line": [
+          "2401 W Belvedere Ave"
+        ],
+        "city": "BALTIMORE",
+        "state": "MD",
+        "postalCode": "21215-5216"
+      },
       {
         "line": [
           "2401 W BELVEDERE AVE"
@@ -43,14 +51,6 @@
           "2401 W BELVEDERE AVE"
         ],
         "city": "Baltimore",
-        "state": "MD",
-        "postalCode": "21215-5216"
-      },
-      {
-        "line": [
-          "2401 W Belvedere Ave"
-        ],
-        "city": "BALTIMORE",
         "state": "MD",
         "postalCode": "21215-5216"
       }

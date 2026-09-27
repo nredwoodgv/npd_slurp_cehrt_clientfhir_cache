@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194130823"
+        "value": "1972042612"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972042612"
+        "value": "1194130823"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3035 E Palmer - Wasilla Hwy",
-          "Suite 600"
-        ],
-        "city": "WASILLA",
-        "state": "AK",
-        "postalCode": "99654-7294"
-      },
       {
         "line": [
           "2741 Debarr Road",
@@ -39,6 +30,15 @@
         "city": "ANCHORAGE",
         "state": "AK",
         "postalCode": "99508-2998"
+      },
+      {
+        "line": [
+          "3035 E Palmer - Wasilla Hwy",
+          "Suite 600"
+        ],
+        "city": "WASILLA",
+        "state": "AK",
+        "postalCode": "99654-7294"
       }
     ],
     "extension": [

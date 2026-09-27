@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093988388"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1255505087"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043336910"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1043336910"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1588894703"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1093988388"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -48,19 +48,19 @@
       },
       {
         "line": [
-          "803 Poplar Street"
-        ],
-        "city": "MURRAY",
-        "state": "KY",
-        "postalCode": "42071-2400"
-      },
-      {
-        "line": [
           "300 SOUTH 8TH STE 100W"
         ],
         "city": "MURRAY",
         "state": "KY",
         "postalCode": "42071-2446"
+      },
+      {
+        "line": [
+          "803 Poplar Street"
+        ],
+        "city": "MURRAY",
+        "state": "KY",
+        "postalCode": "42071-2400"
       }
     ],
     "extension": [

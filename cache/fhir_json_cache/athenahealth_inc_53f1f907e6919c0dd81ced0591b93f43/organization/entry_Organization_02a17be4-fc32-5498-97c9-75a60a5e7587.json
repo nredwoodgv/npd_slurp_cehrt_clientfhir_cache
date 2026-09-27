@@ -22,11 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013434067"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396046637"
+        "value": "1881850956"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,10 +34,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881850956"
+        "value": "1013434067"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396046637"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3100 E Fletcher Ave"
+        ],
+        "city": "TAMPA",
+        "state": "FL",
+        "postalCode": "33613-4613"
+      },
       {
         "line": [
           "7171 N Dale Mabry Highway"
@@ -61,14 +69,6 @@
       {
         "line": [
           "3000 E Fletcher Ave"
-        ],
-        "city": "TAMPA",
-        "state": "FL",
-        "postalCode": "33613-4613"
-      },
-      {
-        "line": [
-          "3100 E Fletcher Ave"
         ],
         "city": "TAMPA",
         "state": "FL",

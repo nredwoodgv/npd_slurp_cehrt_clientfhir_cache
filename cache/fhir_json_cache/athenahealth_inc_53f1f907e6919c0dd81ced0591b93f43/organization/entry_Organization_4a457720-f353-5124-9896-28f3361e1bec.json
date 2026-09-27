@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750814737"
+        "value": "1649501347"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649501347"
+        "value": "1750814737"
       }
     ],
     "address": [
@@ -29,6 +29,14 @@
         "city": "AUSTIN",
         "state": "TX",
         "postalCode": "78746-5280"
+      },
+      {
+        "line": [
+          "4307 JAMES CASEY ST"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78745-3365"
       },
       {
         "line": [
@@ -48,27 +56,12 @@
       },
       {
         "line": [
-          "4900 Mueller Blvd"
+          "5000 BEE CAVES RD",
+          "STE 202"
         ],
-        "city": "AUSTIN",
+        "city": "West Lake Hills",
         "state": "TX",
-        "postalCode": "78723-3079"
-      },
-      {
-        "line": [
-          "919 E 32nd St"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78705-2703"
-      },
-      {
-        "line": [
-          "4307 JAMES CASEY ST"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78745-3365"
+        "postalCode": "78746-5254"
       },
       {
         "line": [
@@ -80,12 +73,11 @@
       },
       {
         "line": [
-          "5000 BEE CAVES RD",
-          "STE 202"
+          "919 E 32nd St"
         ],
-        "city": "West Lake Hills",
+        "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "78746-5254"
+        "postalCode": "78705-2703"
       },
       {
         "line": [
@@ -94,6 +86,14 @@
         "city": "AUSTIN",
         "state": "TX",
         "postalCode": "78745-3365"
+      },
+      {
+        "line": [
+          "4900 Mueller Blvd"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78723-3079"
       }
     ],
     "extension": [

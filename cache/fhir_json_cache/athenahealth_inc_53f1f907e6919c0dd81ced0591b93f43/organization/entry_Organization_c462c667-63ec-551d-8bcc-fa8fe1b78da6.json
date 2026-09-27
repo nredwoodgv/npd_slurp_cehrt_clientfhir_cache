@@ -14,14 +14,31 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669667283"
+        "value": "1528179017"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528179017"
+        "value": "1669667283"
       }
     ],
     "address": [
+      {
+        "line": [
+          "27131 CALLE ARROYO"
+        ],
+        "city": "SAN JUAN CAPISTRANO",
+        "state": "CA",
+        "postalCode": "92675-2700"
+      },
+      {
+        "line": [
+          "351 HOSPITAL ROAD",
+          "SUITE 411"
+        ],
+        "city": "NEWPORT BEACH",
+        "state": "CA",
+        "postalCode": "92663-3504"
+      },
       {
         "line": [
           "1555 SUPERIOR AVENUE"
@@ -40,21 +57,10 @@
         "postalCode": "92708-6728"
       },
       {
-        "line": [
-          "351 HOSPITAL ROAD",
-          "SUITE 411"
-        ],
-        "city": "NEWPORT BEACH",
+        "line": [],
+        "city": "COSTA MESA",
         "state": "CA",
-        "postalCode": "92663-3504"
-      },
-      {
-        "line": [
-          "1445 SUPERIOR AVENUE"
-        ],
-        "city": "NEWPORT BEACH",
-        "state": "CA",
-        "postalCode": "92663-6152"
+        "postalCode": "92626-3534"
       },
       {
         "line": [
@@ -66,17 +72,11 @@
       },
       {
         "line": [
-          "27131 CALLE ARROYO"
+          "1445 SUPERIOR AVENUE"
         ],
-        "city": "SAN JUAN CAPISTRANO",
+        "city": "NEWPORT BEACH",
         "state": "CA",
-        "postalCode": "92675-2700"
-      },
-      {
-        "line": [],
-        "city": "COSTA MESA",
-        "state": "CA",
-        "postalCode": "92626-3534"
+        "postalCode": "92663-6152"
       }
     ],
     "extension": [

@@ -14,30 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104904143"
+        "value": "1285131144"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285131144"
+        "value": "1104904143"
       }
     ],
     "address": [
       {
         "line": [
-          "9",
-          "courtney drive"
+          "1400 HOSPITAL DR"
+        ],
+        "city": "HURRICANE",
+        "state": "WV",
+        "postalCode": "25526-9202"
+      },
+      {
+        "line": [
+          "9 COURTNEY DR"
         ],
         "city": "CHARLESTON",
         "state": "WV",
         "postalCode": "25304-2699"
-      },
-      {
-        "line": [
-          "3200 MACCORKLE AVE SE"
-        ],
-        "city": "CHARLESTON",
-        "state": "WV",
-        "postalCode": "25304-1227"
       },
       {
         "line": [
@@ -49,27 +48,19 @@
       },
       {
         "line": [
+          "3200 MACCORKLE AVE SE"
+        ],
+        "city": "CHARLESTON",
+        "state": "WV",
+        "postalCode": "25304-1227"
+      },
+      {
+        "line": [
           "424 DIVISION ST"
         ],
         "city": "SOUTH CHARLESTON",
         "state": "WV",
         "postalCode": "25309-1400"
-      },
-      {
-        "line": [
-          "800 PENNSYLVANIA AVENUE"
-        ],
-        "city": "CHARLESTON",
-        "state": "WV",
-        "postalCode": "25302-3351"
-      },
-      {
-        "line": [
-          "1400 HOSPITAL DR"
-        ],
-        "city": "HURRICANE",
-        "state": "WV",
-        "postalCode": "25526-9202"
       },
       {
         "line": [
@@ -81,7 +72,16 @@
       },
       {
         "line": [
-          "9 COURTNEY DR"
+          "800 PENNSYLVANIA AVENUE"
+        ],
+        "city": "CHARLESTON",
+        "state": "WV",
+        "postalCode": "25302-3351"
+      },
+      {
+        "line": [
+          "9",
+          "courtney drive"
         ],
         "city": "CHARLESTON",
         "state": "WV",

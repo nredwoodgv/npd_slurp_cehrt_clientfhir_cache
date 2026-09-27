@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588171789"
+        "value": "1336163708"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,22 +22,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336163708"
+        "value": "1528691102"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528691102"
+        "value": "1588171789"
       }
     ],
     "address": [
-      {
-        "line": [
-          "101 E WISCONSIN AVE"
-        ],
-        "city": "BONIFAY",
-        "state": "FL",
-        "postalCode": "32425-1809"
-      },
       {
         "line": [
           "925 CARLISLE RD"
@@ -45,6 +37,14 @@
         "city": "CHIPLEY",
         "state": "FL",
         "postalCode": "32428-4360"
+      },
+      {
+        "line": [
+          "101 E WISCONSIN AVE"
+        ],
+        "city": "BONIFAY",
+        "state": "FL",
+        "postalCode": "32425-1809"
       }
     ],
     "extension": [

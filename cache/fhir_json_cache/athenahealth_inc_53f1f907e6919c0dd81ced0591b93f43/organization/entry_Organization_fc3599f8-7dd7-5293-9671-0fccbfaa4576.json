@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730412388"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962025148"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508489782"
+        "value": "1629538491"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,14 +26,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588997233"
+        "value": "1508489782"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629538491"
+        "value": "1730412388"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588997233"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1401 Medical Pkwy"
+        ],
+        "city": "CEDAR PARK",
+        "state": "TX",
+        "postalCode": "78613-7763"
+      },
       {
         "line": [
           "301 Seton Parkway",
@@ -46,14 +54,6 @@
         "city": "ROUND ROCK",
         "state": "TX",
         "postalCode": "78665-8003"
-      },
-      {
-        "line": [
-          "1401 Medical Pkwy"
-        ],
-        "city": "CEDAR PARK",
-        "state": "TX",
-        "postalCode": "78613-7763"
       }
     ],
     "extension": [

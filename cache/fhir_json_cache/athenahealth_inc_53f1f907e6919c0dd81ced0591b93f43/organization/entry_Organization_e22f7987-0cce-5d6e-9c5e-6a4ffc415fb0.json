@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285834986"
+        "value": "1609201060"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,11 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164439279"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609201060"
+        "value": "1891162962"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,50 +30,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891162962"
+        "value": "1164439279"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285834986"
       }
     ],
     "address": [
-      {
-        "line": [
-          "8800 Lockwood Avenue"
-        ],
-        "city": "SKOKIE",
-        "state": "IL",
-        "postalCode": "60077-1500"
-      },
-      {
-        "line": [
-          "2424 w peterson ave"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60659-4100"
-      },
-      {
-        "line": [
-          "8321 West Golf Road"
-        ],
-        "city": "NILES",
-        "state": "IL",
-        "postalCode": "60714-1113"
-      },
-      {
-        "line": [
-          "6301 N Western AVE"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60659-4100"
-      },
-      {
-        "line": [
-          "8321 W Golf Road"
-        ],
-        "city": "NILES",
-        "state": "IL",
-        "postalCode": "60714-1113"
-      },
       {
         "line": [
           "6301 N WESTERN AVE"
@@ -96,7 +56,15 @@
       },
       {
         "line": [
-          "2424 W PETERSON AVE"
+          "8800 Lockwood Avenue"
+        ],
+        "city": "SKOKIE",
+        "state": "IL",
+        "postalCode": "60077-1500"
+      },
+      {
+        "line": [
+          "2501 w Peterson Avenue"
         ],
         "city": "CHICAGO",
         "state": "IL",
@@ -104,7 +72,7 @@
       },
       {
         "line": [
-          "2501 w Peterson Avenue"
+          "2424 w peterson ave"
         ],
         "city": "CHICAGO",
         "state": "IL",
@@ -117,6 +85,38 @@
         "city": "CHICAGO",
         "state": "IL",
         "postalCode": "60659-4128"
+      },
+      {
+        "line": [
+          "2424 W PETERSON AVE"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60659-4100"
+      },
+      {
+        "line": [
+          "8321 W Golf Road"
+        ],
+        "city": "NILES",
+        "state": "IL",
+        "postalCode": "60714-1113"
+      },
+      {
+        "line": [
+          "8321 West Golf Road"
+        ],
+        "city": "NILES",
+        "state": "IL",
+        "postalCode": "60714-1113"
+      },
+      {
+        "line": [
+          "6301 N Western AVE"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60659-4100"
       }
     ],
     "extension": [

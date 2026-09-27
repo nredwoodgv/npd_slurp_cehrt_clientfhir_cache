@@ -18,31 +18,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104346543"
+        "value": "1649790080"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649790080"
+        "value": "1104346543"
       }
     ],
     "address": [
       {
         "line": [
-          "1784 Uinta Way",
-          "Suite E2"
+          "1784 W UINTA WAY SUITE E2"
         ],
         "city": "PARK CITY",
         "state": "UT",
-        "postalCode": "84098-7685"
-      },
-      {
-        "line": [
-          "1784 Uinta Way",
-          "STE E2"
-        ],
-        "city": "PARK CITY",
-        "state": "UT",
-        "postalCode": "84098-7685"
+        "postalCode": "84098-7669"
       },
       {
         "line": [
@@ -55,19 +45,20 @@
       },
       {
         "line": [
+          "1784 Uinta Way",
+          "Suite E2"
+        ],
+        "city": "PARK CITY",
+        "state": "UT",
+        "postalCode": "84098-7685"
+      },
+      {
+        "line": [
           "7724 West 5600 South"
         ],
         "city": "WEST JORDAN",
         "state": "UT",
         "postalCode": "84081-5400"
-      },
-      {
-        "line": [
-          "1784 W UINTA WAY SUITE E2"
-        ],
-        "city": "PARK CITY",
-        "state": "UT",
-        "postalCode": "84098-7669"
       },
       {
         "line": [
@@ -77,6 +68,15 @@
         "city": "WEST JORDAN",
         "state": "UT",
         "postalCode": "84081-5415"
+      },
+      {
+        "line": [
+          "1784 Uinta Way",
+          "STE E2"
+        ],
+        "city": "PARK CITY",
+        "state": "UT",
+        "postalCode": "84098-7685"
       }
     ],
     "extension": [

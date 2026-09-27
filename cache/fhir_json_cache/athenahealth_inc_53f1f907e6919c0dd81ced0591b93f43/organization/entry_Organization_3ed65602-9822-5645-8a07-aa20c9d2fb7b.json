@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821433129"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396152351"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730426040"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821433129"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +26,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1063731271"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396152351"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912413147"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154814390"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1013302017"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1518354547"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,38 +58,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912413147"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063731271"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518354547"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790171874"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396131389"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154814390"
+        "value": "1790171874"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1401 N 10th Ave Ste 100"
-        ],
-        "city": "STAYTON",
-        "state": "OR",
-        "postalCode": "97383-1487"
-      },
       {
         "line": [
           "390 Church St"
@@ -81,6 +73,22 @@
         "city": "SUBLIMITY",
         "state": "OR",
         "postalCode": "97385-9714"
+      },
+      {
+        "line": [
+          "1401 N 10th Ave"
+        ],
+        "city": "STAYTON",
+        "state": "OR",
+        "postalCode": "97383-1399"
+      },
+      {
+        "line": [
+          "1401 N 10th Ave Ste 100"
+        ],
+        "city": "STAYTON",
+        "state": "OR",
+        "postalCode": "97383-1487"
       },
       {
         "line": [
@@ -97,14 +105,6 @@
         "city": "SUBLIMITY",
         "state": "OR",
         "postalCode": "97385-2099"
-      },
-      {
-        "line": [
-          "1401 N 10th Ave"
-        ],
-        "city": "STAYTON",
-        "state": "OR",
-        "postalCode": "97383-1399"
       },
       {
         "line": [

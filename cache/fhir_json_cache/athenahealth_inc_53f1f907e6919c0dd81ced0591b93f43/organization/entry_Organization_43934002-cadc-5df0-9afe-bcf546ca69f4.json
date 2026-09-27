@@ -22,11 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861418220"
+        "value": "1114344280"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316315740"
+        "value": "1861418220"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,18 +34,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114344280"
+        "value": "1316315740"
       }
     ],
     "address": [
       {
         "line": [
-          "182 E REDSTONE AVE",
-          "STE A"
+          "180 E REDSTONE AVE STE A"
         ],
         "city": "CRESTVIEW",
         "state": "FL",
         "postalCode": "32539-5348"
+      },
+      {
+        "line": [
+          "7552 Navarre Pkwy",
+          "Suite 61"
+        ],
+        "city": "NAVARRE",
+        "state": "FL",
+        "postalCode": "32566-7305"
       },
       {
         "line": [
@@ -54,14 +62,6 @@
         "city": "ANNAPOLIS",
         "state": "MD",
         "postalCode": "21401-3033"
-      },
-      {
-        "line": [
-          "180 E REDSTONE AVE STE A"
-        ],
-        "city": "CRESTVIEW",
-        "state": "FL",
-        "postalCode": "32539-5348"
       },
       {
         "line": [
@@ -74,11 +74,12 @@
       },
       {
         "line": [
-          "855 Downtowner Blvd"
+          "182 E REDSTONE AVE",
+          "STE A"
         ],
-        "city": "MOBILE",
-        "state": "AL",
-        "postalCode": "36609-5403"
+        "city": "CRESTVIEW",
+        "state": "FL",
+        "postalCode": "32539-5348"
       },
       {
         "line": [
@@ -90,12 +91,11 @@
       },
       {
         "line": [
-          "7552 Navarre Pkwy",
-          "Suite 61"
+          "855 Downtowner Blvd"
         ],
-        "city": "NAVARRE",
-        "state": "FL",
-        "postalCode": "32566-7305"
+        "city": "MOBILE",
+        "state": "AL",
+        "postalCode": "36609-5403"
       }
     ],
     "extension": [

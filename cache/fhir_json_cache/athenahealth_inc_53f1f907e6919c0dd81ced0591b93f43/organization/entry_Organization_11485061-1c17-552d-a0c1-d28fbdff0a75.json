@@ -14,6 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225060312"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578545273"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1194736140"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1164530234"
       },
       {
@@ -22,62 +34,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194736140"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578545273"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225060312"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285622688"
       }
     ],
     "address": [
-      {
-        "line": [
-          "410 West Tenth Street"
-        ],
-        "city": "COLUMBUS",
-        "state": "OH",
-        "postalCode": "43210-1240"
-      },
-      {
-        "line": [
-          "210 North Main Street"
-        ],
-        "city": "LONDON",
-        "state": "OH",
-        "postalCode": "43140-1115"
-      },
-      {
-        "line": [
-          "5005 Parkcenter Avenue"
-        ],
-        "city": "DUBLIN",
-        "state": "OH",
-        "postalCode": "43017-3582"
-      },
-      {
-        "line": [
-          "210 North High Street"
-        ],
-        "city": "LONDON",
-        "state": "OH",
-        "postalCode": "43140-1115"
-      },
-      {
-        "line": [
-          "500 South Cleveland Avenue"
-        ],
-        "city": "WESTERVILLE",
-        "state": "OH",
-        "postalCode": "43081-8971"
-      },
       {
         "line": [
           "240 Parsons Avenue"
@@ -93,6 +53,46 @@
         "city": "COLUMBUS",
         "state": "OH",
         "postalCode": "43215-4741"
+      },
+      {
+        "line": [
+          "210 North Main Street"
+        ],
+        "city": "LONDON",
+        "state": "OH",
+        "postalCode": "43140-1115"
+      },
+      {
+        "line": [
+          "500 South Cleveland Avenue"
+        ],
+        "city": "WESTERVILLE",
+        "state": "OH",
+        "postalCode": "43081-8971"
+      },
+      {
+        "line": [
+          "5005 Parkcenter Avenue"
+        ],
+        "city": "DUBLIN",
+        "state": "OH",
+        "postalCode": "43017-3582"
+      },
+      {
+        "line": [
+          "410 West Tenth Street"
+        ],
+        "city": "COLUMBUS",
+        "state": "OH",
+        "postalCode": "43210-1240"
+      },
+      {
+        "line": [
+          "210 North High Street"
+        ],
+        "city": "LONDON",
+        "state": "OH",
+        "postalCode": "43140-1115"
       }
     ],
     "extension": [

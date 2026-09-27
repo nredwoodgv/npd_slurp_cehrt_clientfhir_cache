@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013264183"
+        "value": "1801143029"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,18 +22,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801143029"
+        "value": "1013264183"
       }
     ],
     "address": [
-      {
-        "line": [
-          "125 East Howard Ave"
-        ],
-        "city": "DRIGGS",
-        "state": "ID",
-        "postalCode": "83422-5137"
-      },
       {
         "line": [
           "120 E Howard Avenue"
@@ -52,11 +44,11 @@
       },
       {
         "line": [
-          "120 E Howard Avenue"
+          "283 N. 1ST EAST"
         ],
         "city": "DRIGGS",
         "state": "ID",
-        "postalCode": "83422-5122"
+        "postalCode": "83422-5112"
       },
       {
         "line": [
@@ -68,11 +60,11 @@
       },
       {
         "line": [
-          "283 N. 1ST EAST"
+          "120 E Howard Avenue"
         ],
         "city": "DRIGGS",
         "state": "ID",
-        "postalCode": "83422-5112"
+        "postalCode": "83422-5122"
       },
       {
         "line": [
@@ -81,6 +73,14 @@
         "city": "DRIGGS",
         "state": "ID",
         "postalCode": "83422-5138"
+      },
+      {
+        "line": [
+          "125 East Howard Ave"
+        ],
+        "city": "DRIGGS",
+        "state": "ID",
+        "postalCode": "83422-5137"
       }
     ],
     "extension": [

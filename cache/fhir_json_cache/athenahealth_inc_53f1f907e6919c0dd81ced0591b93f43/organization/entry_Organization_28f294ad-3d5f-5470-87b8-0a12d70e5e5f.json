@@ -14,31 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386932937"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1902857352"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588180475"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144271586"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952177446"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962453308"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619928165"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,11 +22,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619494366"
+        "value": "1588180475"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962453308"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952177446"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1326099763"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619494366"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144271586"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -59,6 +51,14 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1043261498"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619928165"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386932937"
       }
     ],
     "address": [
@@ -80,7 +80,7 @@
       },
       {
         "line": [
-          "5151 N 9TH AVENUE"
+          "5151 N 9TH ST"
         ],
         "city": "PENSACOLA",
         "state": "FL",
@@ -88,7 +88,7 @@
       },
       {
         "line": [
-          "5151 N 9TH ST"
+          "5151 N 9TH AVENUE"
         ],
         "city": "PENSACOLA",
         "state": "FL",

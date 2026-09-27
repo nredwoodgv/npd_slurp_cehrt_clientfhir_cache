@@ -14,11 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396518718"
+        "value": "1821319286"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831962265"
+        "value": "1558240473"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1134992548"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +34,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558240473"
+        "value": "1669365086"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831962265"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053290973"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,31 +50,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821319286"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669365086"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134992548"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053290973"
+        "value": "1396518718"
       }
     ],
     "address": [
-      {
-        "line": [
-          "16851 Jefferson Hwy",
-          "Ste 4C"
-        ],
-        "city": "Baton Rouge",
-        "state": "LA",
-        "postalCode": "70817-6990"
-      },
       {
         "line": [
           "400 Poydras St",
@@ -79,6 +70,15 @@
         "city": "BRIGHTON",
         "state": "MA",
         "postalCode": "02135-2071"
+      },
+      {
+        "line": [
+          "16851 Jefferson Hwy",
+          "Ste 4C"
+        ],
+        "city": "Baton Rouge",
+        "state": "LA",
+        "postalCode": "70817-6990"
       }
     ],
     "extension": [

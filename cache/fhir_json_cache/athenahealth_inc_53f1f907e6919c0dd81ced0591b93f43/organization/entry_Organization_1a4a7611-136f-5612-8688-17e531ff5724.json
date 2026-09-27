@@ -18,11 +18,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417936535"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932516697"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417936535"
+        "value": "1386051035"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,21 +38,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386051035"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1912314667"
       }
     ],
     "address": [
       {
         "line": [
-          "16921 MOUNTAINEER DRIVE"
+          "82 PINE STREET"
         ],
-        "city": "RIVERTON",
+        "city": "FRANKLIN",
         "state": "WV",
-        "postalCode": "26814-0101"
+        "postalCode": "26807-0100"
       },
       {
         "line": [
@@ -60,11 +60,11 @@
       },
       {
         "line": [
-          "82 PINE STREET"
+          "16921 MOUNTAINEER DRIVE"
         ],
-        "city": "FRANKLIN",
+        "city": "RIVERTON",
         "state": "WV",
-        "postalCode": "26807-0100"
+        "postalCode": "26814-0101"
       }
     ],
     "extension": [

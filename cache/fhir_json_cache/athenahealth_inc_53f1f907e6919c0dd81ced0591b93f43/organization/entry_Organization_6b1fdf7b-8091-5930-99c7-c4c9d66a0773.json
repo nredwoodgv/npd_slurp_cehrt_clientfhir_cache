@@ -14,6 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619503026"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1295338358"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1902400880"
       },
       {
@@ -22,211 +30,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295338358"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1790318566"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619503026"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1581 AUSTIN HWY"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78218-1848"
-      },
-      {
-        "line": [
-          "12020 Culebra Road"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78253-6478"
-      },
-      {
-        "line": [
-          "2200 PARK BEND DR",
-          "BLDG 2, SUITE 204"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78758-5387"
-      },
-      {
-        "line": [
-          "1600 PRESTON RD"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75093-5108"
-      },
-      {
-        "line": [
-          "4650 Westway Park Blvd.",
-          "Suite 206"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77041-2007"
-      },
-      {
-        "line": [
-          "5781 Kyle Pkwy"
-        ],
-        "city": "KYLE",
-        "state": "TX",
-        "postalCode": "78640-6111"
-      },
-      {
-        "line": [
-          "1625 MEDICAL CENTER DR"
-        ],
-        "city": "EL PASO",
-        "state": "TX",
-        "postalCode": "79902-5005"
-      },
-      {
-        "line": [
-          "2200 PARK BEND DR",
-          "BLDG 2, SUITE 300"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78758-5387"
-      },
-      {
-        "line": [
-          "8996 STACY RD"
-        ],
-        "city": "MCKINNEY",
-        "state": "TX",
-        "postalCode": "75070-2186"
-      },
-      {
-        "line": [
-          "799 LOUIS HENNA BLVD"
-        ],
-        "city": "ROUND ROCK",
-        "state": "TX",
-        "postalCode": "78664-7074"
-      },
-      {
-        "line": [
-          "2950 GEORGE DIETER DR",
-          "STE 6498"
-        ],
-        "city": "EL PASO",
-        "state": "TX",
-        "postalCode": "79936-2913"
-      },
-      {
-        "line": [
-          "5282 MEDICAL DR",
-          "STE 210"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78229-4849"
-      },
-      {
-        "line": [
-          "4009 Marathon Blvd",
-          "#300"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78756-3717"
-      },
-      {
-        "line": [
-          "8530 FM 78"
-        ],
-        "city": "CONVERSE",
-        "state": "TX",
-        "postalCode": "78109-1032"
-      },
-      {
-        "line": [
-          "3601 W WILLIAM CANNON DR"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78749-1525"
-      },
-      {
-        "line": [
-          "901 BITTERS RD"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78216-2368"
-      },
-      {
-        "line": [
-          "10090 RUSHING RD",
-          "STE B"
-        ],
-        "city": "EL PASO",
-        "state": "TX",
-        "postalCode": "79924-3803"
-      },
-      {
-        "line": [
-          "20800 US HIGHWAY 281 N"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78258-7523"
-      },
-      {
-        "line": [
-          "6017 INGRAM RD"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78238-4403"
-      },
-      {
-        "line": [
-          "5001 ROSS AVE",
-          "Suite 120"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75206-7706"
-      },
-      {
-        "line": [
-          "120 W SLAUGHTER LN"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78748-1700"
-      },
-      {
-        "line": [
-          "3200 RED RIVER ST STE 201"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78705-2655"
-      },
-      {
-        "line": [
-          "4534 West Gate Blvd",
-          "Suite 113"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78745-1410"
-      },
       {
         "line": [
           "3280 JOE BATTLE BLVD"
@@ -237,115 +44,11 @@
       },
       {
         "line": [
-          "4650 WESTWAY PARK BLVD",
-          "STE 206"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77041-2006"
-      },
-      {
-        "line": [
-          "720 W 34TH ST",
-          "STE 100"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78705-1241"
-      },
-      {
-        "line": [
-          "12952 Bandera Rd",
-          "Suite 105"
-        ],
-        "city": "HELOTES",
-        "state": "TX",
-        "postalCode": "78023-4690"
-      },
-      {
-        "line": [
-          "2001 N OREGON ST"
-        ],
-        "city": "EL PASO",
-        "state": "TX",
-        "postalCode": "79902-3320"
-      },
-      {
-        "line": [
-          "507 CALLES ST",
-          "STE 100"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78702-3956"
-      },
-      {
-        "line": [
-          "3908 AVENUE B STE 204"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78751-4515"
-      },
-      {
-        "line": [
           "1890 N STONEBRIDGE DR"
         ],
         "city": "MCKINNEY",
         "state": "TX",
         "postalCode": "75071-7564"
-      },
-      {
-        "line": [
-          "500 CAPITAL OF TEXAS HWY N RESERVE 6",
-          "SUITE 125"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78746-3302"
-      },
-      {
-        "line": [
-          "550 S MESA HILLS DR",
-          "STE C3"
-        ],
-        "city": "EL PASO",
-        "state": "TX",
-        "postalCode": "79912-5765"
-      },
-      {
-        "line": [
-          "4550 E Palm Valley Blvd"
-        ],
-        "city": "ROUND ROCK",
-        "state": "TX",
-        "postalCode": "78665-2657"
-      },
-      {
-        "line": [
-          "4879 WILLIAMS DR STE 103"
-        ],
-        "city": "GEORGETOWN",
-        "state": "TX",
-        "postalCode": "78633-2436"
-      },
-      {
-        "line": [
-          "6800 W IH 10",
-          "STE 200"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78201-2041"
-      },
-      {
-        "line": [
-          "5401 MONTANA AVE",
-          "STE B"
-        ],
-        "city": "EL PASO",
-        "state": "TX",
-        "postalCode": "79903-4909"
       },
       {
         "line": [
@@ -358,12 +61,38 @@
       },
       {
         "line": [
-          "3200 RED RIVER ST",
-          "SUITE 201"
+          "12201 MONTWOOD DR",
+          "STE 13125"
+        ],
+        "city": "EL PASO",
+        "state": "TX",
+        "postalCode": "79938-2620"
+      },
+      {
+        "line": [
+          "2200 PARK BEND DR",
+          "BLDG 2, SUITE 300"
         ],
         "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "78705-2655"
+        "postalCode": "78758-5387"
+      },
+      {
+        "line": [
+          "5282 MEDICAL DR",
+          "STE 210"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78229-4849"
+      },
+      {
+        "line": [
+          "3908 AVENUE B STE 204"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78751-4515"
       },
       {
         "line": [
@@ -376,20 +105,53 @@
       },
       {
         "line": [
+          "701 E FM 1626 STE 202"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78748-6035"
+      },
+      {
+        "line": [
+          "720 W 34TH ST",
+          "STE 100"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78705-1241"
+      },
+      {
+        "line": [
+          "4550 E Palm Valley Blvd"
+        ],
+        "city": "ROUND ROCK",
+        "state": "TX",
+        "postalCode": "78665-2657"
+      },
+      {
+        "line": [
+          "6017 INGRAM RD"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78238-4403"
+      },
+      {
+        "line": [
+          "550 S MESA HILLS DR",
+          "STE C3"
+        ],
+        "city": "EL PASO",
+        "state": "TX",
+        "postalCode": "79912-5765"
+      },
+      {
+        "line": [
           "720 W 34TH ST"
         ],
         "city": "AUSTIN",
         "state": "TX",
         "postalCode": "78705-1205"
-      },
-      {
-        "line": [
-          "2525 W. Anderson Ln.",
-          "Suite 152"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78757-1180"
       },
       {
         "line": [
@@ -401,27 +163,96 @@
       },
       {
         "line": [
-          "701 E FM 1626 STE 202"
+          "4650 Westway Park Blvd.",
+          "Suite 206"
         ],
-        "city": "AUSTIN",
+        "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "78748-6035"
+        "postalCode": "77041-2007"
       },
       {
         "line": [
-          "800 ROSS AVE"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75202-1804"
-      },
-      {
-        "line": [
-          "2950 GEORGE DIETER DR"
+          "2001 N OREGON ST"
         ],
         "city": "EL PASO",
         "state": "TX",
-        "postalCode": "79936-2913"
+        "postalCode": "79902-3320"
+      },
+      {
+        "line": [
+          "1335 E. Whitestone Blvd",
+          "Suite P100"
+        ],
+        "city": "CEDAR PARK",
+        "state": "TX",
+        "postalCode": "78613-7598"
+      },
+      {
+        "line": [
+          "5781 Kyle Pkwy"
+        ],
+        "city": "KYLE",
+        "state": "TX",
+        "postalCode": "78640-6111"
+      },
+      {
+        "line": [
+          "1600 PRESTON RD"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75093-5108"
+      },
+      {
+        "line": [
+          "10090 RUSHING RD",
+          "STE B"
+        ],
+        "city": "EL PASO",
+        "state": "TX",
+        "postalCode": "79924-3803"
+      },
+      {
+        "line": [
+          "1581 AUSTIN HWY"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78218-1848"
+      },
+      {
+        "line": [
+          "5401 MONTANA AVE",
+          "STE B"
+        ],
+        "city": "EL PASO",
+        "state": "TX",
+        "postalCode": "79903-4909"
+      },
+      {
+        "line": [
+          "6800 W IH 10",
+          "STE 200"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78201-2041"
+      },
+      {
+        "line": [
+          "901 LEGACY DR"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75023-8202"
+      },
+      {
+        "line": [
+          "12020 Culebra Road"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78253-6478"
       },
       {
         "line": [
@@ -434,11 +265,69 @@
       },
       {
         "line": [
-          "901 LEGACY DR"
+          "1625 MEDICAL CENTER DR"
         ],
-        "city": "PLANO",
+        "city": "EL PASO",
         "state": "TX",
-        "postalCode": "75023-8202"
+        "postalCode": "79902-5005"
+      },
+      {
+        "line": [
+          "3601 W WILLIAM CANNON DR"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78749-1525"
+      },
+      {
+        "line": [
+          "8530 FM 78"
+        ],
+        "city": "CONVERSE",
+        "state": "TX",
+        "postalCode": "78109-1032"
+      },
+      {
+        "line": [
+          "4650 WESTWAY PARK BLVD",
+          "STE 206"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77041-2006"
+      },
+      {
+        "line": [
+          "120 W SLAUGHTER LN"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78748-1700"
+      },
+      {
+        "line": [
+          "2950 GEORGE DIETER DR"
+        ],
+        "city": "EL PASO",
+        "state": "TX",
+        "postalCode": "79936-2913"
+      },
+      {
+        "line": [
+          "3200 RED RIVER ST",
+          "SUITE 201"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78705-2655"
+      },
+      {
+        "line": [
+          "800 ROSS AVE"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75202-1804"
       },
       {
         "line": [
@@ -451,39 +340,20 @@
       },
       {
         "line": [
-          "11207 N LAMAR BLVD",
-          "Suite B"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78753-3056"
-      },
-      {
-        "line": [
-          "701 E FM 1626",
-          "SUITE 100"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78748-2656"
-      },
-      {
-        "line": [
-          "12201 MONTWOOD DR",
-          "STE 13125"
-        ],
-        "city": "EL PASO",
-        "state": "TX",
-        "postalCode": "79938-2620"
-      },
-      {
-        "line": [
-          "511 OAKWOOD BLVD",
-          "SUITE 200"
+          "799 LOUIS HENNA BLVD"
         ],
         "city": "ROUND ROCK",
         "state": "TX",
-        "postalCode": "78681-4068"
+        "postalCode": "78664-7074"
+      },
+      {
+        "line": [
+          "4009 Marathon Blvd",
+          "#300"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78756-3717"
       },
       {
         "line": [
@@ -496,12 +366,133 @@
       },
       {
         "line": [
-          "1335 E. Whitestone Blvd",
-          "Suite P100"
+          "701 E FM 1626",
+          "SUITE 100"
         ],
-        "city": "CEDAR PARK",
+        "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "78613-7598"
+        "postalCode": "78748-2656"
+      },
+      {
+        "line": [
+          "507 CALLES ST",
+          "STE 100"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78702-3956"
+      },
+      {
+        "line": [
+          "511 OAKWOOD BLVD",
+          "SUITE 200"
+        ],
+        "city": "ROUND ROCK",
+        "state": "TX",
+        "postalCode": "78681-4068"
+      },
+      {
+        "line": [
+          "5001 ROSS AVE",
+          "Suite 120"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75206-7706"
+      },
+      {
+        "line": [
+          "11207 N LAMAR BLVD",
+          "Suite B"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78753-3056"
+      },
+      {
+        "line": [
+          "901 BITTERS RD"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78216-2368"
+      },
+      {
+        "line": [
+          "20800 US HIGHWAY 281 N"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78258-7523"
+      },
+      {
+        "line": [
+          "4879 WILLIAMS DR STE 103"
+        ],
+        "city": "GEORGETOWN",
+        "state": "TX",
+        "postalCode": "78633-2436"
+      },
+      {
+        "line": [
+          "2950 GEORGE DIETER DR",
+          "STE 6498"
+        ],
+        "city": "EL PASO",
+        "state": "TX",
+        "postalCode": "79936-2913"
+      },
+      {
+        "line": [
+          "2525 W. Anderson Ln.",
+          "Suite 152"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78757-1180"
+      },
+      {
+        "line": [
+          "12952 Bandera Rd",
+          "Suite 105"
+        ],
+        "city": "HELOTES",
+        "state": "TX",
+        "postalCode": "78023-4690"
+      },
+      {
+        "line": [
+          "4534 West Gate Blvd",
+          "Suite 113"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78745-1410"
+      },
+      {
+        "line": [
+          "3200 RED RIVER ST STE 201"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78705-2655"
+      },
+      {
+        "line": [
+          "8996 STACY RD"
+        ],
+        "city": "MCKINNEY",
+        "state": "TX",
+        "postalCode": "75070-2186"
+      },
+      {
+        "line": [
+          "2200 PARK BEND DR",
+          "BLDG 2, SUITE 204"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78758-5387"
       }
     ],
     "extension": [

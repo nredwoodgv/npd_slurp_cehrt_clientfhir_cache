@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467205112"
+        "value": "1205259736"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,18 +22,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205259736"
+        "value": "1467205112"
       }
     ],
     "address": [
-      {
-        "line": [
-          "24 Hospital Lane"
-        ],
-        "city": "CALAIS",
-        "state": "ME",
-        "postalCode": "04619-1329"
-      },
       {
         "line": [
           "37 PALMER ST",
@@ -42,6 +34,14 @@
         "city": "CALAIS",
         "state": "ME",
         "postalCode": "04619-1341"
+      },
+      {
+        "line": [
+          "24 Hospital Lane"
+        ],
+        "city": "CALAIS",
+        "state": "ME",
+        "postalCode": "04619-1329"
       }
     ],
     "extension": [

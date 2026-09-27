@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760866891"
+        "value": "1770964363"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1003383027"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,22 +26,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770964363"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003383027"
+        "value": "1760866891"
       }
     ],
     "address": [
-      {
-        "line": [
-          "125 Hospital Dr"
-        ],
-        "city": "WATERTOWN",
-        "state": "WI",
-        "postalCode": "53098-3303"
-      },
       {
         "line": [
           "123 Hospital Dr",
@@ -46,6 +38,14 @@
         "city": "WATERTOWN",
         "state": "WI",
         "postalCode": "53098-3336"
+      },
+      {
+        "line": [
+          "125 Hospital Dr"
+        ],
+        "city": "WATERTOWN",
+        "state": "WI",
+        "postalCode": "53098-3303"
       },
       {
         "line": [

@@ -18,19 +18,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376884692"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821176934"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952998825"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962004093"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730532003"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1740368877"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144782632"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376884692"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,7 +50,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730532003"
+        "value": "1265071765"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,15 +58,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265071765"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821176934"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952998825"
+        "value": "1144782632"
       }
     ],
     "address": [
@@ -72,12 +72,11 @@
       },
       {
         "line": [
-          "2268 HIGHWAY 8 E",
-          "RM 200"
+          "4207 Park Avenue"
         ],
-        "city": "NORMAN",
+        "city": "HOT SPRINGS NATIONAL PARK",
         "state": "AR",
-        "postalCode": "71960-8508"
+        "postalCode": "71901-9473"
       },
       {
         "line": [
@@ -86,6 +85,15 @@
         "city": "GLENWOOD",
         "state": "AR",
         "postalCode": "71943-9147"
+      },
+      {
+        "line": [
+          "2268 HIGHWAY 8 E",
+          "RM 200"
+        ],
+        "city": "NORMAN",
+        "state": "AR",
+        "postalCode": "71960-8508"
       },
       {
         "line": [
@@ -103,14 +111,6 @@
         "city": "AMITY",
         "state": "AR",
         "postalCode": "71921-8562"
-      },
-      {
-        "line": [
-          "4207 Park Avenue"
-        ],
-        "city": "HOT SPRINGS NATIONAL PARK",
-        "state": "AR",
-        "postalCode": "71901-9473"
       }
     ],
     "extension": [

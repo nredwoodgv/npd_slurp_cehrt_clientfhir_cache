@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396798302"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1033294673"
       },
       {
@@ -30,22 +26,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881981033"
+        "value": "1598929135"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598929135"
+        "value": "1396798302"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881981033"
       }
     ],
     "address": [
-      {
-        "line": [
-          "5700 Temple Rd"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37221-4171"
-      },
       {
         "line": [
           "5700 Temple Road"
@@ -53,6 +45,14 @@
         "city": "NASHVILLE",
         "state": "TN",
         "postalCode": "37221-4223"
+      },
+      {
+        "line": [
+          "5700 Temple Rd"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37221-4171"
       }
     ],
     "extension": [

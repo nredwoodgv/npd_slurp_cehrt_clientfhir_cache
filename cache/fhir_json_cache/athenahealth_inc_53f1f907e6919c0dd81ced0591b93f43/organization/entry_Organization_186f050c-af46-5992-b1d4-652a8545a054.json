@@ -14,17 +14,17 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801826680"
+        "value": "1487470274"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487470274"
+        "value": "1801826680"
       }
     ],
     "address": [
       {
         "line": [
-          "71 HYANES ST"
+          "71 HAYNES ST"
         ],
         "city": "MANCHESTER",
         "state": "CT",
@@ -32,7 +32,7 @@
       },
       {
         "line": [
-          "71 HAYNES ST"
+          "71 HYANES ST"
         ],
         "city": "MANCHESTER",
         "state": "CT",
@@ -45,6 +45,15 @@
         "city": "MANCHESTER",
         "state": "CT",
         "postalCode": "06040-4131"
+      },
+      {
+        "line": [
+          "2800 MAIN ST",
+          "Level 5"
+        ],
+        "city": "BRIDGEPORT",
+        "state": "CT",
+        "postalCode": "06606-4201"
       }
     ],
     "extension": [

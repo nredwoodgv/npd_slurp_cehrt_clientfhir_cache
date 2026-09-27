@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033276076"
+        "value": "1538230396"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538230396"
+        "value": "1033276076"
       }
     ],
     "address": [
-      {
-        "line": [
-          "100 E LANCASTER AVE"
-        ],
-        "city": "WYNNEWOOD",
-        "state": "PA",
-        "postalCode": "19096-3450"
-      },
       {
         "line": [
           "1450 E. BOOT RD, BLDG. 700a",
@@ -38,6 +30,22 @@
         "city": "WEST CHESTER",
         "state": "PA",
         "postalCode": "19380-5968"
+      },
+      {
+        "line": [
+          "701 E MARSHALL ST"
+        ],
+        "city": "WEST CHESTER",
+        "state": "PA",
+        "postalCode": "19380-4412"
+      },
+      {
+        "line": [
+          "50 North Malin Road"
+        ],
+        "city": "BROOMALL",
+        "state": "PA",
+        "postalCode": "19008-1429"
       },
       {
         "line": [
@@ -50,11 +58,11 @@
       },
       {
         "line": [
-          "701 E MARSHALL ST"
+          "100 E LANCASTER AVE"
         ],
-        "city": "WEST CHESTER",
+        "city": "WYNNEWOOD",
         "state": "PA",
-        "postalCode": "19380-4412"
+        "postalCode": "19096-3450"
       },
       {
         "line": [
@@ -63,14 +71,6 @@
         "city": "KING OF PRUSSIA",
         "state": "PA",
         "postalCode": "19406-2079"
-      },
-      {
-        "line": [
-          "50 North Malin Road"
-        ],
-        "city": "BROOMALL",
-        "state": "PA",
-        "postalCode": "19008-1429"
       }
     ],
     "extension": [

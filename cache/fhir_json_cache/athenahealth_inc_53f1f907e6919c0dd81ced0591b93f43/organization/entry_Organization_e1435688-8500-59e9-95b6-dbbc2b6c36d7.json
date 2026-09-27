@@ -14,31 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366981805"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528128063"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821196148"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831495613"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326067315"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669940078"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598703043"
+        "value": "1366981805"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -47,29 +27,29 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1336175462"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831495613"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598703043"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326067315"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528128063"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821196148"
       }
     ],
     "address": [
-      {
-        "line": [],
-        "city": "KINGSPORT",
-        "state": "TN",
-        "postalCode": "37660-5904"
-      },
-      {
-        "line": [],
-        "city": "BRISTOL",
-        "state": "TN",
-        "postalCode": "37620-7429"
-      },
-      {
-        "line": [
-          "338 COEBURN AVE SW"
-        ],
-        "city": "NORTON",
-        "state": "VA",
-        "postalCode": "24273-2606"
-      },
       {
         "line": [
           "260 Midway Medical Park",
@@ -81,12 +61,23 @@
       },
       {
         "line": [
-          "3 PROFESSIONAL PARK DRIVE",
-          "SUITE 21"
+          "338 COEBURN AVE SW"
         ],
-        "city": "JOHNSON CITY",
+        "city": "NORTON",
+        "state": "VA",
+        "postalCode": "24273-2606"
+      },
+      {
+        "line": [],
+        "city": "BRISTOL",
         "state": "TN",
-        "postalCode": "37604-6089"
+        "postalCode": "37620-1726"
+      },
+      {
+        "line": [],
+        "city": "KINGSPORT",
+        "state": "TN",
+        "postalCode": "37660-5904"
       },
       {
         "line": [
@@ -98,10 +89,19 @@
         "postalCode": "37663-2256"
       },
       {
+        "line": [
+          "3 PROFESSIONAL PARK DRIVE",
+          "SUITE 21"
+        ],
+        "city": "JOHNSON CITY",
+        "state": "TN",
+        "postalCode": "37604-6089"
+      },
+      {
         "line": [],
         "city": "BRISTOL",
         "state": "TN",
-        "postalCode": "37620-1726"
+        "postalCode": "37620-7429"
       }
     ],
     "extension": [

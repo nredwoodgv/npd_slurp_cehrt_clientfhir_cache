@@ -14,14 +14,31 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508818618"
+        "value": "1760566350"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760566350"
+        "value": "1508818618"
       }
     ],
     "address": [
+      {
+        "line": [
+          "61 Lincoln St",
+          "Suite 101"
+        ],
+        "city": "FRAMINGHAM",
+        "state": "MA",
+        "postalCode": "01702-8264"
+      },
+      {
+        "line": [
+          "115 Lincoln Street"
+        ],
+        "city": "FRAMINGHAM",
+        "state": "MA",
+        "postalCode": "01702-6358"
+      },
       {
         "line": [
           "400 Waverly St"
@@ -32,11 +49,12 @@
       },
       {
         "line": [
-          "115 Lincoln Street"
+          "85 Lincoln Street",
+          "Ste 410"
         ],
         "city": "FRAMINGHAM",
         "state": "MA",
-        "postalCode": "01702-6358"
+        "postalCode": "01702-8200"
       },
       {
         "line": [
@@ -53,24 +71,6 @@
         "city": "NORTHBOROUGH",
         "state": "MA",
         "postalCode": "01532-1662"
-      },
-      {
-        "line": [
-          "85 Lincoln Street",
-          "Ste 410"
-        ],
-        "city": "FRAMINGHAM",
-        "state": "MA",
-        "postalCode": "01702-8200"
-      },
-      {
-        "line": [
-          "61 Lincoln St",
-          "Suite 101"
-        ],
-        "city": "FRAMINGHAM",
-        "state": "MA",
-        "postalCode": "01702-8264"
       }
     ],
     "extension": [

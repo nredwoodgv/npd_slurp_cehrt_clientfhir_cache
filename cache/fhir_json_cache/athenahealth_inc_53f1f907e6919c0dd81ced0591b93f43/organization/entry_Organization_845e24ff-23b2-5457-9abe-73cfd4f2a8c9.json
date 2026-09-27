@@ -14,21 +14,110 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467958538"
+        "value": "1710578471"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710578471"
+        "value": "1467958538"
       }
     ],
     "address": [
       {
         "line": [
-          "2827 BABCOCK RD"
+          "215 E QUINCY ST"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78229-4813"
+        "postalCode": "78215-2039"
+      },
+      {
+        "line": [
+          "423 TREELINE PARK STE 202"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78209-2078"
+      },
+      {
+        "line": [
+          "3333 RESEARCH PLZ"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78235-5154"
+      },
+      {
+        "line": [
+          "11212 State Hwy 151 Plz 1",
+          "Ste 370"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78251-4498"
+      },
+      {
+        "line": [
+          "5106 W LOOP 1604 N"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78251-4408"
+      },
+      {
+        "line": [
+          "7930 FLOYD CURL DR"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78229-3925"
+      },
+      {
+        "line": [
+          "1927 ROGERS RD"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78251-4504"
+      },
+      {
+        "line": [
+          "3011 N looop 1604"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78251-4498"
+      },
+      {
+        "line": [
+          "403 TREELINE PARK"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78209-2042"
+      },
+      {
+        "line": [
+          "7700 FLOYD CURL DR"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78229-3902"
+      },
+      {
+        "line": [
+          "11212 STATE HWY 151"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78251-4504"
+      },
+      {
+        "line": [
+          "11212 STATE HIGHWAY 151 PLAZA 1, STE 370"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78251-4504"
       },
       {
         "line": [
@@ -41,62 +130,6 @@
       },
       {
         "line": [
-          "5418 N Loop 1604 West"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78249-4581"
-      },
-      {
-        "line": [
-          "5106 W LOOP 1604 N"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78251-4408"
-      },
-      {
-        "line": [
-          "7700 FLOYD CURL DR"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78229-3902"
-      },
-      {
-        "line": [
-          "423 TREELINE PARK STE 202"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78209-2078"
-      },
-      {
-        "line": [
-          "3011 N looop 1604"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78251-4498"
-      },
-      {
-        "line": [
-          "3333 RESEARCH PLZ"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78235-5154"
-      },
-      {
-        "line": [
-          "215 E QUINCY ST"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78215-2039"
-      },
-      {
-        "line": [
           "3011 W LOOP 1604 N"
         ],
         "city": "SAN ANTONIO",
@@ -105,35 +138,19 @@
       },
       {
         "line": [
-          "11212 STATE HWY 151, PLAZA 1, SUITE 370"
+          "2827 BABCOCK RD"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78251-4504"
+        "postalCode": "78229-4813"
       },
       {
         "line": [
-          "11212 STATE HWY 151"
+          "5418 N Loop 1604 West"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78251-4504"
-      },
-      {
-        "line": [
-          "7930 FLOYD CURL DR"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78229-3925"
-      },
-      {
-        "line": [
-          "11212 STATE HIGHWAY 151 PLAZA 1, STE 370"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78251-4504"
+        "postalCode": "78249-4581"
       },
       {
         "line": [
@@ -146,28 +163,11 @@
       },
       {
         "line": [
-          "403 TREELINE PARK"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78209-2042"
-      },
-      {
-        "line": [
-          "1927 ROGERS RD"
+          "11212 STATE HWY 151, PLAZA 1, SUITE 370"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
         "postalCode": "78251-4504"
-      },
-      {
-        "line": [
-          "11212 State Hwy 151 Plz 1",
-          "Ste 370"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78251-4498"
       }
     ],
     "extension": [

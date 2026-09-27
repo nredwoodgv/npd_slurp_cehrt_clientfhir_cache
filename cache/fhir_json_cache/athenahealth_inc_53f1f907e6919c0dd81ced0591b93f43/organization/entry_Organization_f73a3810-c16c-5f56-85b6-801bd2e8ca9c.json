@@ -14,18 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417683707"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730903675"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1619586898"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417683707"
       }
     ],
     "address": [
+      {
+        "line": [
+          "4711 CURRY FORD RD STE B"
+        ],
+        "city": "ORLANDO",
+        "state": "FL",
+        "postalCode": "32812-2704"
+      },
       {
         "line": [
           "5804 Monroe Road, Suite C"
@@ -41,14 +49,6 @@
         "city": "NOVI",
         "state": "MI",
         "postalCode": "48375-1882"
-      },
-      {
-        "line": [
-          "4711 CURRY FORD RD STE B"
-        ],
-        "city": "ORLANDO",
-        "state": "FL",
-        "postalCode": "32812-2704"
       }
     ],
     "extension": [

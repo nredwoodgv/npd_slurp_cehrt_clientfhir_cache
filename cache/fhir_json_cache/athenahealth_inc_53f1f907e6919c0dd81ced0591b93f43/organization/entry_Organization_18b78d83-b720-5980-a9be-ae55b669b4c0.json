@@ -14,54 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083918577"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609075324"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1134105414"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1083918577"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1184820110"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1609075324"
       }
     ],
     "address": [
-      {
-        "line": [
-          "8 west end ave"
-        ],
-        "city": "OLD GREENWICH",
-        "state": "CT",
-        "postalCode": "06870-1674"
-      },
-      {
-        "line": [
-          "1165 KING ST"
-        ],
-        "city": "GREENWICH",
-        "state": "CT",
-        "postalCode": "06831-2935"
-      },
-      {
-        "line": [
-          "1188 KING ST"
-        ],
-        "city": "GREENWICH",
-        "state": "CT",
-        "postalCode": "06831-2935"
-      },
-      {
-        "line": [
-          "122 PALMERS HILL RD"
-        ],
-        "city": "STAMFORD",
-        "state": "CT",
-        "postalCode": "06902-2134"
-      },
       {
         "line": [
           "53 COURTLAND AVE"
@@ -72,11 +40,11 @@
       },
       {
         "line": [
-          "8 WEST END AVENUE"
+          "8 west end ave"
         ],
         "city": "OLD GREENWICH",
         "state": "CT",
-        "postalCode": "06870-1642"
+        "postalCode": "06870-1674"
       },
       {
         "line": [
@@ -93,6 +61,38 @@
         "city": "GREENWICH",
         "state": "CT",
         "postalCode": "06830-3941"
+      },
+      {
+        "line": [
+          "1188 KING ST"
+        ],
+        "city": "GREENWICH",
+        "state": "CT",
+        "postalCode": "06831-2935"
+      },
+      {
+        "line": [
+          "1165 KING ST"
+        ],
+        "city": "GREENWICH",
+        "state": "CT",
+        "postalCode": "06831-2935"
+      },
+      {
+        "line": [
+          "122 PALMERS HILL RD"
+        ],
+        "city": "STAMFORD",
+        "state": "CT",
+        "postalCode": "06902-2134"
+      },
+      {
+        "line": [
+          "8 WEST END AVENUE"
+        ],
+        "city": "OLD GREENWICH",
+        "state": "CT",
+        "postalCode": "06870-1642"
       }
     ],
     "extension": [

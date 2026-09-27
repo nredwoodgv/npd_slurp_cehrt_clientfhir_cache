@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962025148"
+        "value": "1588997233"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,14 +30,30 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629538491"
+        "value": "1962025148"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588997233"
+        "value": "1629538491"
       }
     ],
     "address": [
+      {
+        "line": [
+          "800 W Central Tx Expressway Suite 155"
+        ],
+        "city": "Harker Heights",
+        "state": "TX",
+        "postalCode": "76548-1995"
+      },
+      {
+        "line": [
+          "207 AVENUE E"
+        ],
+        "city": "LAMPASAS",
+        "state": "TX",
+        "postalCode": "76550-1820"
+      },
       {
         "line": [
           "201 University Oaks Blvd",
@@ -49,36 +65,11 @@
       },
       {
         "line": [
-          "800 W Central Tx Expressway Suite 155"
+          "800 W Central Tx Expressway STE 155"
         ],
-        "city": "Harker Heights",
+        "city": "HARKER HEIGHTS",
         "state": "TX",
         "postalCode": "76548-1995"
-      },
-      {
-        "line": [
-          "201 University Oak Blvd",
-          "STE 1260"
-        ],
-        "city": "ROUND ROCK",
-        "state": "TX",
-        "postalCode": "78665-2437"
-      },
-      {
-        "line": [
-          "1101 Wolf Lakes Drive, Suite 225, Georgetown"
-        ],
-        "city": "GEORGETOWN",
-        "state": "TX",
-        "postalCode": "78628-3778"
-      },
-      {
-        "line": [
-          "207 AVENUE E"
-        ],
-        "city": "LAMPASAS",
-        "state": "TX",
-        "postalCode": "76550-1820"
       },
       {
         "line": [
@@ -91,6 +82,15 @@
       },
       {
         "line": [
+          "201 University Oak Blvd",
+          "STE 1260"
+        ],
+        "city": "ROUND ROCK",
+        "state": "TX",
+        "postalCode": "78665-2437"
+      },
+      {
+        "line": [
           "3800 W.S. Young Ste 201"
         ],
         "city": "KILLEEN",
@@ -99,11 +99,11 @@
       },
       {
         "line": [
-          "800 W Central Tx Expressway STE 155"
+          "1101 Wolf Lakes Drive, Suite 225, Georgetown"
         ],
-        "city": "HARKER HEIGHTS",
+        "city": "GEORGETOWN",
         "state": "TX",
-        "postalCode": "76548-1995"
+        "postalCode": "78628-3778"
       }
     ],
     "extension": [

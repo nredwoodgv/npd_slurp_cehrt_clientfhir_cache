@@ -18,21 +18,29 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295443000"
+        "value": "1235659103"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235659103"
+        "value": "1295443000"
       }
     ],
     "address": [
       {
         "line": [
-          "730 STONEY LANDING ROAD"
+          "2435 FOREST DRIVE"
         ],
-        "city": "MONCKS CORNER",
+        "city": "COLUMBIA",
         "state": "SC",
-        "postalCode": "29461-2950"
+        "postalCode": "29204-2026"
+      },
+      {
+        "line": [
+          "100 CALLEN BLVD"
+        ],
+        "city": "SUMMERVILLE",
+        "state": "SC",
+        "postalCode": "29486-2807"
       },
       {
         "line": [
@@ -41,14 +49,6 @@
         "city": "CHARLESTON",
         "state": "SC",
         "postalCode": "29401-1113"
-      },
-      {
-        "line": [
-          "2435 FOREST DRIVE"
-        ],
-        "city": "COLUMBIA",
-        "state": "SC",
-        "postalCode": "29204-2026"
       },
       {
         "line": [
@@ -68,6 +68,14 @@
       },
       {
         "line": [
+          "730 STONEY LANDING ROAD"
+        ],
+        "city": "MONCKS CORNER",
+        "state": "SC",
+        "postalCode": "29461-2950"
+      },
+      {
+        "line": [
           "2095 HENRY TECKLENBURG DRIVE"
         ],
         "city": "CHARLESTON",
@@ -78,23 +86,15 @@
         "line": [
           "7832 RIVERS AVE"
         ],
-        "city": "NORTH CHARLESTON",
+        "city": "CHARLESTON",
         "state": "SC",
         "postalCode": "29406-4016"
       },
       {
         "line": [
-          "100 CALLEN BLVD"
-        ],
-        "city": "SUMMERVILLE",
-        "state": "SC",
-        "postalCode": "29486-2807"
-      },
-      {
-        "line": [
           "7832 RIVERS AVE"
         ],
-        "city": "CHARLESTON",
+        "city": "NORTH CHARLESTON",
         "state": "SC",
         "postalCode": "29406-4016"
       }

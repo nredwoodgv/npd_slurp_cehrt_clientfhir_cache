@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356667117"
+        "value": "1467492041"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467492041"
+        "value": "1356667117"
       }
     ],
     "address": [
+      {
+        "line": [
+          "8700 BEVERLY BLVD"
+        ],
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "postalCode": "90048-1804"
+      },
       {
         "line": [
           "8550 Santa Monica BLVD",
@@ -33,11 +41,11 @@
       },
       {
         "line": [
-          "8700 BEVERLY BLVD"
+          "450 N ROXBURY DR STE 240"
         ],
-        "city": "LOS ANGELES",
+        "city": "BEVERLY HILLS",
         "state": "CA",
-        "postalCode": "90048-1804"
+        "postalCode": "90210-4240"
       },
       {
         "line": [
@@ -46,14 +54,6 @@
         "city": "BEVERLY HILLS",
         "state": "CA",
         "postalCode": "90211-2001"
-      },
-      {
-        "line": [
-          "450 N ROXBURY DR STE 240"
-        ],
-        "city": "BEVERLY HILLS",
-        "state": "CA",
-        "postalCode": "90210-4240"
       }
     ],
     "extension": [

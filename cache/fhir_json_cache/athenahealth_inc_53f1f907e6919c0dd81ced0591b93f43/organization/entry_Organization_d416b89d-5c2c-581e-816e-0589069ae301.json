@@ -14,19 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376862151"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538430533"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962933416"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760599906"
+        "value": "1083014914"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,19 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1538430533"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1245769744"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902002272"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457863565"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952340911"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,15 +34,35 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083014914"
+        "value": "1376862151"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528556750"
+        "value": "1457863565"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902002272"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1760599906"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952340911"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962933416"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1063917425"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528556750"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -72,11 +72,51 @@
     "address": [
       {
         "line": [
-          "1010 Edison Ave NW"
+          "1900 - 44th Street SE"
+        ],
+        "city": "Kentwood",
+        "state": "MI",
+        "postalCode": "49508-5008"
+      },
+      {
+        "line": [
+          "3400 Wilson Ave SW"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49518-8203"
+      },
+      {
+        "line": [
+          "153 Lakeside NE"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49546-3854"
+      },
+      {
+        "line": [
+          "2161 Leonard St NW"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49504-3829"
+      },
+      {
+        "line": [
+          "1000 Edison Ave NW"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
         "postalCode": "49504-3918"
+      },
+      {
+        "line": [
+          "200 Leonard St NE"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49506-1030"
       },
       {
         "line": [
@@ -85,14 +125,6 @@
         "city": "GRAND RAPIDS",
         "state": "MI",
         "postalCode": "49504-1505"
-      },
-      {
-        "line": [
-          "1551 Franklin Ave SE"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49506-8203"
       },
       {
         "line": [
@@ -112,11 +144,11 @@
       },
       {
         "line": [
-          "1845 Boston St SE"
+          "1551 Franklin Ave SE"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49506-4401"
+        "postalCode": "49506-8203"
       },
       {
         "line": [
@@ -128,27 +160,19 @@
       },
       {
         "line": [
+          "1010 Edison Ave NW"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49504-3918"
+      },
+      {
+        "line": [
           "1450 E Fulton"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
         "postalCode": "49503-3854"
-      },
-      {
-        "line": [
-          "200 Leonard St NE"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49506-1030"
-      },
-      {
-        "line": [
-          "2161 Leonard St NW"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49504-3829"
       },
       {
         "line": [
@@ -168,19 +192,11 @@
       },
       {
         "line": [
-          "3400 Wilson Ave SW"
+          "1845 Boston St SE"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49518-8203"
-      },
-      {
-        "line": [
-          "1000 Edison Ave NW"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49504-3918"
+        "postalCode": "49506-4401"
       },
       {
         "line": [
@@ -197,22 +213,6 @@
         "city": "GRAND RAPIDS",
         "state": "MI",
         "postalCode": "49503-4502"
-      },
-      {
-        "line": [
-          "153 Lakeside NE"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49546-3854"
-      },
-      {
-        "line": [
-          "1900 - 44th Street SE"
-        ],
-        "city": "Kentwood",
-        "state": "MI",
-        "postalCode": "49508-5008"
       }
     ],
     "extension": [

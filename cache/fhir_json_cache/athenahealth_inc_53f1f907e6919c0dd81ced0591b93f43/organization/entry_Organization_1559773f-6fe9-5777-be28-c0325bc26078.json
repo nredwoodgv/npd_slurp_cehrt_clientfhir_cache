@@ -14,14 +14,30 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942289731"
+        "value": "1962444802"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962444802"
+        "value": "1942289731"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1703 Merrick Ave."
+        ],
+        "city": "MERRICK",
+        "state": "NY",
+        "postalCode": "11566-1628"
+      },
+      {
+        "line": [
+          "1703 MERRICK AVE"
+        ],
+        "city": "MERRICK",
+        "state": "NY",
+        "postalCode": "11566-1628"
+      },
       {
         "line": [
           "1 HEALTHY WAY"
@@ -37,22 +53,6 @@
         "city": "LYNBROOK",
         "state": "NY",
         "postalCode": "11563-3552"
-      },
-      {
-        "line": [
-          "1703 MERRICK AVE"
-        ],
-        "city": "MERRICK",
-        "state": "NY",
-        "postalCode": "11566-1628"
-      },
-      {
-        "line": [
-          "1703 Merrick Ave."
-        ],
-        "city": "MERRICK",
-        "state": "NY",
-        "postalCode": "11566-1628"
       }
     ],
     "extension": [

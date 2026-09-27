@@ -14,21 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346044401"
+        "value": "1396961322"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396961322"
+        "value": "1346044401"
       }
     ],
     "address": [
       {
         "line": [
-          "1850 Hickory St Ste 200A"
+          "1904 PINE ST STE B"
         ],
         "city": "ABILENE",
         "state": "TX",
-        "postalCode": "79601-2305"
+        "postalCode": "79601-2450"
+      },
+      {
+        "line": [
+          "1924 PINE ST. STE 401A"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79601-2450"
       },
       {
         "line": [
@@ -48,11 +56,11 @@
       },
       {
         "line": [
-          "1904 PINE ST STE B"
+          "1850 Hickory St Ste 200A"
         ],
         "city": "ABILENE",
         "state": "TX",
-        "postalCode": "79601-2450"
+        "postalCode": "79601-2305"
       },
       {
         "line": [
@@ -61,14 +69,6 @@
         "city": "ABILENE",
         "state": "TX",
         "postalCode": "79606-5278"
-      },
-      {
-        "line": [
-          "1924 PINE ST. STE 401A"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79601-2450"
       }
     ],
     "extension": [

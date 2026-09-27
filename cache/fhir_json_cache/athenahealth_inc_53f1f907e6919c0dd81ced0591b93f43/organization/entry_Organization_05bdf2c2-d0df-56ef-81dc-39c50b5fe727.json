@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215178421"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316188147"
+        "value": "1417133380"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,14 +22,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417133380"
+        "value": "1114920329"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114920329"
+        "value": "1215178421"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316188147"
       }
     ],
     "address": [
+      {
+        "line": [
+          "One Wyoming Street"
+        ],
+        "city": "DAYTON",
+        "state": "OH",
+        "postalCode": "45409-2722"
+      },
       {
         "line": [
           "1 Medical Center Dr."
@@ -58,14 +66,6 @@
         "city": "DAYTON",
         "state": "OH",
         "postalCode": "45459-4774"
-      },
-      {
-        "line": [
-          "One Wyoming Street"
-        ],
-        "city": "DAYTON",
-        "state": "OH",
-        "postalCode": "45409-2722"
       }
     ],
     "extension": [

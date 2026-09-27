@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235234055"
+        "value": "1235155615"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235155615"
+        "value": "1235234055"
       }
     ],
     "address": [
-      {
-        "line": [
-          "255 STATE RT 3 STE 104"
-        ],
-        "city": "SECAUCUS",
-        "state": "NJ",
-        "postalCode": "07094-3857"
-      },
       {
         "line": [
           "177 Prospect Street"
@@ -40,11 +32,27 @@
       },
       {
         "line": [
+          "734 GREEN ST"
+        ],
+        "city": "ISELIN",
+        "state": "NJ",
+        "postalCode": "08830-2993"
+      },
+      {
+        "line": [
           "1005 Maple Ave"
         ],
         "city": "GLEN ROCK",
         "state": "NJ",
         "postalCode": "07452-2820"
+      },
+      {
+        "line": [
+          "255 STATE RT 3 STE 104"
+        ],
+        "city": "SECAUCUS",
+        "state": "NJ",
+        "postalCode": "07094-3857"
       },
       {
         "line": [
@@ -61,14 +69,6 @@
         "city": "HACKENSACK",
         "state": "NJ",
         "postalCode": "07601-1915"
-      },
-      {
-        "line": [
-          "734 GREEN ST"
-        ],
-        "city": "ISELIN",
-        "state": "NJ",
-        "postalCode": "08830-2993"
       },
       {
         "line": [

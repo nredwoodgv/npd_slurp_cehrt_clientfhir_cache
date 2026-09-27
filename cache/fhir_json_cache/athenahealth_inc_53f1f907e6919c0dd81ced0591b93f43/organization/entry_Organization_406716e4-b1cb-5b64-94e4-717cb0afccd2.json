@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093973836"
+        "value": "1154589901"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154589901"
+        "value": "1093973836"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,19 +32,20 @@
     "address": [
       {
         "line": [
-          "6029 Walnut Grove Ste 300"
+          "401 SOUTHCREST CIRCLE STE 103"
         ],
-        "city": "MEMPHIS",
-        "state": "TN",
-        "postalCode": "38120-2112"
+        "city": "SOUTHAVEN",
+        "state": "MS",
+        "postalCode": "38671-6726"
       },
       {
         "line": [
-          "3980 NEW COVINGTON PIKE"
+          "1430 HIGHWAY 4 EAST",
+          "P O BOX 6000"
         ],
-        "city": "MEMPHIS",
-        "state": "TN",
-        "postalCode": "38128-2500"
+        "city": "HOLLY SPRINGS",
+        "state": "MS",
+        "postalCode": "38635-2140"
       },
       {
         "line": [],
@@ -62,11 +63,19 @@
       },
       {
         "line": [
-          "401 SOUTHCREST CIRCLE STE 103"
+          "6029 WALNUT GROVE RD, STE 300"
         ],
-        "city": "SOUTHAVEN",
-        "state": "MS",
-        "postalCode": "38671-6726"
+        "city": "MEMPHIS",
+        "state": "TN",
+        "postalCode": "38120-2170"
+      },
+      {
+        "line": [
+          "3980 NEW COVINGTON PIKE"
+        ],
+        "city": "MEMPHIS",
+        "state": "TN",
+        "postalCode": "38128-2500"
       },
       {
         "line": [
@@ -78,20 +87,20 @@
       },
       {
         "line": [
-          "6029 WALNUT GROVE RD, STE 300"
-        ],
-        "city": "MEMPHIS",
-        "state": "TN",
-        "postalCode": "38120-2170"
-      },
-      {
-        "line": [
           "6005 PARK AVENUE",
           "SUITE 803"
         ],
         "city": "MEMPHIS",
         "state": "TN",
         "postalCode": "38119-5202"
+      },
+      {
+        "line": [
+          "6029 Walnut Grove Ste 300"
+        ],
+        "city": "MEMPHIS",
+        "state": "TN",
+        "postalCode": "38120-2112"
       },
       {
         "line": [
@@ -108,15 +117,6 @@
         "city": "WEST MEMPHIS",
         "state": "AR",
         "postalCode": "72301-1844"
-      },
-      {
-        "line": [
-          "1430 HIGHWAY 4 EAST",
-          "P O BOX 6000"
-        ],
-        "city": "HOLLY SPRINGS",
-        "state": "MS",
-        "postalCode": "38635-2140"
       }
     ],
     "extension": [

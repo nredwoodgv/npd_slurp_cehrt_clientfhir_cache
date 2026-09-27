@@ -14,18 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669466686"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1972597060"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1508850520"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669466686"
       }
     ],
     "address": [
+      {
+        "line": [
+          "5383 State Rt 154"
+        ],
+        "city": "PINCKNEYVILLE",
+        "state": "IL",
+        "postalCode": "62274-3342"
+      },
       {
         "line": [
           "900 N Washington St"
@@ -33,6 +41,14 @@
         "city": "DuQuoin",
         "state": "IL",
         "postalCode": "62832-1233"
+      },
+      {
+        "line": [
+          "302 Broadway St"
+        ],
+        "city": "Mount Vernon",
+        "state": "IL",
+        "postalCode": "62864-5116"
       },
       {
         "line": [
@@ -44,14 +60,6 @@
       },
       {
         "line": [
-          "4113 South Water Tower Place"
-        ],
-        "city": "Mount Vernon",
-        "state": "IL",
-        "postalCode": "62864-6293"
-      },
-      {
-        "line": [
           "1201 Ricker Dr"
         ],
         "city": "Salem",
@@ -60,19 +68,11 @@
       },
       {
         "line": [
-          "5383 State Rt 154"
-        ],
-        "city": "PINCKNEYVILLE",
-        "state": "IL",
-        "postalCode": "62274-3342"
-      },
-      {
-        "line": [
-          "302 Broadway St"
+          "4113 South Water Tower Place"
         ],
         "city": "Mount Vernon",
         "state": "IL",
-        "postalCode": "62864-5116"
+        "postalCode": "62864-6293"
       }
     ],
     "extension": [

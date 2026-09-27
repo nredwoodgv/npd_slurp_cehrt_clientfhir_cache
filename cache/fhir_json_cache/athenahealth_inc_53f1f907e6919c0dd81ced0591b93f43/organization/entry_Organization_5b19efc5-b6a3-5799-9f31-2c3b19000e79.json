@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639661937"
+        "value": "1386327872"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386327872"
+        "value": "1639661937"
       }
     ],
     "address": [
       {
         "line": [
-          "701 CAMELLIA DRIVE"
+          "5547 10TH AVE STE 2864"
         ],
-        "city": "NORTH FORT MYERS",
+        "city": "FORT MYERS",
         "state": "FL",
-        "postalCode": "33903-5242"
+        "postalCode": "33907-2864"
       },
       {
         "line": [
@@ -49,19 +49,20 @@
       },
       {
         "line": [
-          "5547 10TH AVE STE 2864"
+          "701 CAMELLIA DRIVE"
         ],
-        "city": "FORT MYERS",
+        "city": "NORTH FORT MYERS",
         "state": "FL",
-        "postalCode": "33907-2864"
+        "postalCode": "33903-5242"
       },
       {
         "line": [
-          "26724 NOMAD DRIVE"
+          "3429 DR MARTIN LUTHER KING BLVD",
+          "# 4403"
         ],
-        "city": "BONITA SPRINGS",
+        "city": "FORT MYERS",
         "state": "FL",
-        "postalCode": "34135-9946"
+        "postalCode": "33916-4403"
       },
       {
         "line": [
@@ -81,20 +82,19 @@
       },
       {
         "line": [
-          "3429 DR MARTIN LUTHER KING BLVD",
-          "# 4403"
-        ],
-        "city": "FORT MYERS",
-        "state": "FL",
-        "postalCode": "33916-4403"
-      },
-      {
-        "line": [
           "2900 Price Ave"
         ],
         "city": "FORT MYERS",
         "state": "FL",
         "postalCode": "33916-8715"
+      },
+      {
+        "line": [
+          "26724 NOMAD DRIVE"
+        ],
+        "city": "BONITA SPRINGS",
+        "state": "FL",
+        "postalCode": "34135-9946"
       }
     ],
     "extension": [

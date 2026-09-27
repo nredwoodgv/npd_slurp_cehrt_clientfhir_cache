@@ -14,6 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1558406512"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912924705"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1174647986"
       },
       {
@@ -26,7 +34,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558406512"
+        "value": "1982738118"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013031822"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -35,21 +47,17 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1174687966"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013031822"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912924705"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982738118"
       }
     ],
     "address": [
+      {
+        "line": [
+          "238 NORTHAMPTON STREET"
+        ],
+        "city": "EASTHAMPTON",
+        "state": "MA",
+        "postalCode": "01027-1046"
+      },
       {
         "line": [
           "31 HALL DRIVE"
@@ -57,14 +65,6 @@
         "city": "AMHERST",
         "state": "MA",
         "postalCode": "01002-2751"
-      },
-      {
-        "line": [
-          "70 MAIN STREET"
-        ],
-        "city": "FLORENCE",
-        "state": "MA",
-        "postalCode": "01062-1466"
       },
       {
         "line": [
@@ -76,11 +76,11 @@
       },
       {
         "line": [
-          "238 NORTHAMPTON STREET"
+          "70 MAIN STREET"
         ],
-        "city": "EASTHAMPTON",
+        "city": "FLORENCE",
         "state": "MA",
-        "postalCode": "01027-1046"
+        "postalCode": "01062-1466"
       }
     ],
     "extension": [

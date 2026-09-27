@@ -18,15 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336931211"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1841979846"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255007100"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437910080"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,11 +30,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437910080"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578612883"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336931211"
+        "value": "1255007100"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.336",
@@ -64,14 +64,6 @@
       },
       {
         "line": [
-          "827 18th street"
-        ],
-        "city": "VERO BEACH",
-        "state": "FL",
-        "postalCode": "32960-6481"
-      },
-      {
-        "line": [
           "981 37TH PL"
         ],
         "city": "VERO BEACH",
@@ -85,6 +77,14 @@
         "city": "VERO BEACH",
         "state": "FL",
         "postalCode": "32960-6559"
+      },
+      {
+        "line": [
+          "827 18th street"
+        ],
+        "city": "VERO BEACH",
+        "state": "FL",
+        "postalCode": "32960-6481"
       }
     ],
     "extension": [

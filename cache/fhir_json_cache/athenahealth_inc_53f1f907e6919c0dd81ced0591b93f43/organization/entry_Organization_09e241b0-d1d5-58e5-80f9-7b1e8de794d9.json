@@ -14,23 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043042393"
+        "value": "1922863224"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750146056"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750146999"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245040278"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033990064"
+        "value": "1568294809"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,7 +26,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124802061"
+        "value": "1750146999"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881426146"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750146056"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619502622"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1407558349"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245040278"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,7 +62,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568294809"
+        "value": "1043042393"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,7 +70,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790517050"
+        "value": "1124802061"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033990064"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -70,30 +82,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619502622"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407558349"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881426146"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922863224"
+        "value": "1790517050"
       }
     ],
     "address": [
-      {
-        "line": [
-          "711 N TAYLOR ST"
-        ],
-        "city": "GUNNISON",
-        "state": "CO",
-        "postalCode": "81230-2243"
-      },
       {
         "line": [
           "405 Elk Avenue"
@@ -101,6 +93,14 @@
         "city": "CRESTED BUTTE",
         "state": "CO",
         "postalCode": "81224-1234"
+      },
+      {
+        "line": [
+          "711 N TAYLOR ST"
+        ],
+        "city": "GUNNISON",
+        "state": "CO",
+        "postalCode": "81230-2243"
       }
     ],
     "extension": [

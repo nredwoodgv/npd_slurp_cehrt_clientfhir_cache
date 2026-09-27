@@ -18,11 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245585991"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619218575"
+        "value": "1902363203"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,45 +30,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902363203"
+        "value": "1245585991"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1760850317"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619218575"
       }
     ],
     "address": [
       {
         "line": [
-          "8700 Beverly Blvd"
-        ],
-        "city": "LOS ANGELES",
-        "state": "CA",
-        "postalCode": "90048-1804"
-      },
-      {
-        "line": [
-          "2121 Santa Monica Blvd"
-        ],
-        "city": "SANTA MONICA",
-        "state": "CA",
-        "postalCode": "90404-2303"
-      },
-      {
-        "line": [
-          "421 N Rodeo Dr Ste Ph1"
+          "450 N Roxbury Dr #600"
         ],
         "city": "BEVERLY HILLS",
         "state": "CA",
-        "postalCode": "90210-4531"
-      },
-      {
-        "line": [
-          "421 N RODEO DRIVE PH1"
-        ],
-        "city": "BEVERLY HILLS",
-        "state": "CA",
-        "postalCode": "90210-4531"
+        "postalCode": "90210-4266"
       },
       {
         "line": [
@@ -85,11 +61,36 @@
       },
       {
         "line": [
-          "421 N Rodeo Drive Penthouse 1"
+          "421 N RODEO DRIVE PH1"
         ],
         "city": "BEVERLY HILLS",
         "state": "CA",
         "postalCode": "90210-4531"
+      },
+      {
+        "line": [
+          "421 N Rodeo Dr Ste Ph1"
+        ],
+        "city": "BEVERLY HILLS",
+        "state": "CA",
+        "postalCode": "90210-4531"
+      },
+      {
+        "line": [
+          "8700 Beverly Blvd"
+        ],
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "postalCode": "90048-1804"
+      },
+      {
+        "line": [
+          "450 N ROXBURY DR",
+          "SUITE 520"
+        ],
+        "city": "BEVERLY HILLS",
+        "state": "CA",
+        "postalCode": "90210-4226"
       },
       {
         "line": [
@@ -102,12 +103,11 @@
       },
       {
         "line": [
-          "450 N ROXBURY DR",
-          "SUITE 520"
+          "2121 Santa Monica Blvd"
         ],
-        "city": "BEVERLY HILLS",
+        "city": "SANTA MONICA",
         "state": "CA",
-        "postalCode": "90210-4226"
+        "postalCode": "90404-2303"
       },
       {
         "line": [
@@ -123,7 +123,15 @@
         ],
         "city": "LOS ANGELES",
         "state": "CA",
-        "postalCode": "90048-1865"
+        "postalCode": "90048-1804"
+      },
+      {
+        "line": [
+          "421 N Rodeo Drive Penthouse 1"
+        ],
+        "city": "BEVERLY HILLS",
+        "state": "CA",
+        "postalCode": "90210-4531"
       },
       {
         "line": [
@@ -131,15 +139,7 @@
         ],
         "city": "LOS ANGELES",
         "state": "CA",
-        "postalCode": "90048-1804"
-      },
-      {
-        "line": [
-          "450 N Roxbury Dr #600"
-        ],
-        "city": "BEVERLY HILLS",
-        "state": "CA",
-        "postalCode": "90210-4266"
+        "postalCode": "90048-1865"
       }
     ],
     "extension": [

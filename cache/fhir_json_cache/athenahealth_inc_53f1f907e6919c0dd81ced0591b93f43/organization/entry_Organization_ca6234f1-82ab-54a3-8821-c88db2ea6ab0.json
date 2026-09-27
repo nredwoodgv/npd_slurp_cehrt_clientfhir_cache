@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760402663"
+        "value": "1114925047"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114925047"
+        "value": "1760402663"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,14 +36,6 @@
       },
       {
         "line": [
-          "313 E Custer"
-        ],
-        "city": "MACKAY",
-        "state": "ID",
-        "postalCode": "83251-1111"
-      },
-      {
-        "line": [
           "551 Highland Dr"
         ],
         "city": "ARCO",
@@ -57,6 +49,14 @@
         "city": "ARCO",
         "state": "ID",
         "postalCode": "83213-0145"
+      },
+      {
+        "line": [
+          "313 E Custer"
+        ],
+        "city": "MACKAY",
+        "state": "ID",
+        "postalCode": "83251-1111"
       }
     ],
     "extension": [

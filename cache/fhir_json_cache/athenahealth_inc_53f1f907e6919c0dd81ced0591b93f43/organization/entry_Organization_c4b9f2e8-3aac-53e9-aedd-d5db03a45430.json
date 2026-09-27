@@ -14,14 +14,39 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013187863"
+        "value": "1780668434"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780668434"
+        "value": "1013187863"
       }
     ],
     "address": [
+      {
+        "line": [
+          "15107 VANOWEN ST"
+        ],
+        "city": "VAN NUYS",
+        "state": "CA",
+        "postalCode": "91405-4542"
+      },
+      {
+        "line": [
+          "450 N Roxbury Drive",
+          "#520"
+        ],
+        "city": "BEVERLY HILLS",
+        "state": "CA",
+        "postalCode": "90210-4226"
+      },
+      {
+        "line": [
+          "150 N ROBERTSON BLVD #200"
+        ],
+        "city": "BEVERLY HILLS",
+        "state": "CA",
+        "postalCode": "90211-2144"
+      },
       {
         "line": [
           "450 N. ROXBURY DR",
@@ -39,31 +64,6 @@
         "city": "BEVERLY HILLS",
         "state": "CA",
         "postalCode": "90211-4020"
-      },
-      {
-        "line": [
-          "150 N ROBERTSON BLVD #200"
-        ],
-        "city": "BEVERLY HILLS",
-        "state": "CA",
-        "postalCode": "90211-2144"
-      },
-      {
-        "line": [
-          "15107 VANOWEN ST"
-        ],
-        "city": "VAN NUYS",
-        "state": "CA",
-        "postalCode": "91405-4542"
-      },
-      {
-        "line": [
-          "450 N Roxbury Drive",
-          "#520"
-        ],
-        "city": "BEVERLY HILLS",
-        "state": "CA",
-        "postalCode": "90210-4226"
       },
       {
         "line": [

@@ -18,15 +18,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013346113"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1841629946"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1205265303"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013346113"
       }
     ],
     "address": [
@@ -36,15 +36,7 @@
         ],
         "city": "Mobile",
         "state": "AL",
-        "postalCode": "36608-3763"
-      },
-      {
-        "line": [
-          "6701 Airport Blvd Suite A206"
-        ],
-        "city": "Mobile",
-        "state": "AL",
-        "postalCode": "36608-3763"
+        "postalCode": "36608-3709"
       },
       {
         "line": [
@@ -53,6 +45,31 @@
         "city": "MOBILE",
         "state": "AL",
         "postalCode": "36608-3709"
+      },
+      {
+        "line": [
+          "6701 Airport Blvd, Suite A206"
+        ],
+        "city": "Mobile",
+        "state": "AL",
+        "postalCode": "36608-3763"
+      },
+      {
+        "line": [
+          "6701 Airport Blvd",
+          "Suite A206"
+        ],
+        "city": "Mobile",
+        "state": "AL",
+        "postalCode": "36608-3763"
+      },
+      {
+        "line": [
+          "6801 AIRPORT BLVD, STE 222"
+        ],
+        "city": "MOBILE",
+        "state": "AL",
+        "postalCode": "36608-3764"
       },
       {
         "line": [
@@ -65,22 +82,6 @@
       {
         "line": [
           "6801 Airport Blvd"
-        ],
-        "city": "Mobile",
-        "state": "AL",
-        "postalCode": "36608-3709"
-      },
-      {
-        "line": [
-          "6801 AIRPORT BLVD, STE 222"
-        ],
-        "city": "MOBILE",
-        "state": "AL",
-        "postalCode": "36608-3764"
-      },
-      {
-        "line": [
-          "6701 Airport Blvd, Suite A206"
         ],
         "city": "Mobile",
         "state": "AL",

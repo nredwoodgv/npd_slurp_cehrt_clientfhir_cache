@@ -14,23 +14,27 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215999511"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
+        "value": "1750302923"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649232984"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124080320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053373951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730484031"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,29 +46,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
+        "value": "1962602300"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669801585"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215348487"
       }
     ],
     "address": [
       {
         "line": [
-          "2500 Songbird Circle"
+          "1405 W Storey"
         ],
-        "city": "BROWNWOOD",
+        "city": "SAN SABA",
         "state": "TX",
-        "postalCode": "76801-6488"
+        "postalCode": "76877-6422"
       },
       {
         "line": [
@@ -84,19 +84,11 @@
       },
       {
         "line": [
-          "1514 Indian Creek Rd"
+          "1405 W STOREY ST"
         ],
-        "city": "BROWNWOOD",
+        "city": "SAN SABA",
         "state": "TX",
-        "postalCode": "76801-6536"
-      },
-      {
-        "line": [
-          "1514 INDIAN CREEK DR"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-6536"
+        "postalCode": "76877-6422"
       },
       {
         "line": [
@@ -108,11 +100,11 @@
       },
       {
         "line": [
-          "1400 FITZGERALD"
+          "1105 FITZGERALD ST"
         ],
         "city": "BANGS",
         "state": "TX",
-        "postalCode": "76823-4000"
+        "postalCode": "76823-3232"
       },
       {
         "line": [
@@ -124,11 +116,19 @@
       },
       {
         "line": [
-          "109 Southpark Dr"
+          "1514 Indian Creek Rd"
         ],
         "city": "BROWNWOOD",
         "state": "TX",
-        "postalCode": "76801-5917"
+        "postalCode": "76801-6536"
+      },
+      {
+        "line": [
+          "1400 FITZGERALD"
+        ],
+        "city": "BANGS",
+        "state": "TX",
+        "postalCode": "76823-4000"
       },
       {
         "line": [
@@ -140,14 +140,6 @@
       },
       {
         "line": [
-          "1405 W Storey"
-        ],
-        "city": "SAN SABA",
-        "state": "TX",
-        "postalCode": "76877-6422"
-      },
-      {
-        "line": [
           "109 S PARK DR"
         ],
         "city": "BROWNWOOD",
@@ -156,19 +148,27 @@
       },
       {
         "line": [
-          "1405 W STOREY ST"
+          "109 Southpark Dr"
         ],
-        "city": "SAN SABA",
+        "city": "BROWNWOOD",
         "state": "TX",
-        "postalCode": "76877-6422"
+        "postalCode": "76801-5917"
       },
       {
         "line": [
-          "1105 FITZGERALD ST"
+          "1514 INDIAN CREEK DR"
         ],
-        "city": "BANGS",
+        "city": "BROWNWOOD",
         "state": "TX",
-        "postalCode": "76823-3232"
+        "postalCode": "76801-6536"
+      },
+      {
+        "line": [
+          "2500 Songbird Circle"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-6488"
       }
     ],
     "extension": [

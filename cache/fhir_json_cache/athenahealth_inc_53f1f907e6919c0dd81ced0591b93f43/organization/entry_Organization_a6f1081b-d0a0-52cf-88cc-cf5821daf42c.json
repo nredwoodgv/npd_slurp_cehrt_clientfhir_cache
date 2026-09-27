@@ -14,22 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821026352"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1073679379"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1245686617"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821026352"
       }
     ],
     "address": [
       {
         "line": [
-          "6800 N MACARTHUR BLVD",
-          "STE 207"
+          "6800 N MACARTHUR BLVD STE 207"
         ],
         "city": "IRVING",
         "state": "TX",

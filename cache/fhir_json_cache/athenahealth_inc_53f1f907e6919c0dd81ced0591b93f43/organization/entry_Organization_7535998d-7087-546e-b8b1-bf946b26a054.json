@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801808571"
+        "value": "1457382947"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457382947"
+        "value": "1801808571"
       }
     ],
     "address": [
@@ -32,27 +32,11 @@
       },
       {
         "line": [
-          "910 James Bowie Drive"
-        ],
-        "city": "NEW BOSTON",
-        "state": "TX",
-        "postalCode": "75570-2335"
-      },
-      {
-        "line": [
-          "2602 St Michael Dr Ste 302A"
+          "2602 St. Michael Dr. Ste 302A"
         ],
         "city": "TEXARKANA",
         "state": "TX",
         "postalCode": "75503-2387"
-      },
-      {
-        "line": [
-          "3502 Richmond Rd"
-        ],
-        "city": "TEXARKANA",
-        "state": "TX",
-        "postalCode": "75503-0705"
       },
       {
         "line": [
@@ -64,31 +48,23 @@
       },
       {
         "line": [
-          "2602 St Michael Drive Suite 201B"
+          "2604 St Michael Dr Ste 425"
         ],
         "city": "TEXARKANA",
         "state": "TX",
-        "postalCode": "75503-2320"
+        "postalCode": "75503-2378"
       },
       {
         "line": [
-          "3510 Richmond Rd"
+          "3502 Richmond Rd"
         ],
         "city": "TEXARKANA",
         "state": "TX",
-        "postalCode": "75503-0714"
+        "postalCode": "75503-0705"
       },
       {
         "line": [
-          "2006 MOORES LN"
-        ],
-        "city": "TEXARKANA",
-        "state": "TX",
-        "postalCode": "75503-1840"
-      },
-      {
-        "line": [
-          "2602 St. Michael Dr. Ste 302A"
+          "2602 St Michael Dr Ste 302A"
         ],
         "city": "TEXARKANA",
         "state": "TX",
@@ -104,19 +80,27 @@
       },
       {
         "line": [
-          "2604 St Michael Dr Ste 425"
+          "2006 MOORES LN"
         ],
         "city": "TEXARKANA",
         "state": "TX",
-        "postalCode": "75503-2378"
+        "postalCode": "75503-1840"
       },
       {
         "line": [
-          "1920 GALLERIA OAKS DR"
+          "910 James Bowie Drive"
+        ],
+        "city": "NEW BOSTON",
+        "state": "TX",
+        "postalCode": "75570-2335"
+      },
+      {
+        "line": [
+          "3510 Richmond Rd"
         ],
         "city": "TEXARKANA",
         "state": "TX",
-        "postalCode": "75503-4619"
+        "postalCode": "75503-0714"
       },
       {
         "line": [
@@ -125,6 +109,22 @@
         "city": "TEXARKANA",
         "state": "TX",
         "postalCode": "75503-5224"
+      },
+      {
+        "line": [
+          "2602 St Michael Drive Suite 201B"
+        ],
+        "city": "TEXARKANA",
+        "state": "TX",
+        "postalCode": "75503-2320"
+      },
+      {
+        "line": [
+          "1920 GALLERIA OAKS DR"
+        ],
+        "city": "TEXARKANA",
+        "state": "TX",
+        "postalCode": "75503-4619"
       }
     ],
     "extension": [

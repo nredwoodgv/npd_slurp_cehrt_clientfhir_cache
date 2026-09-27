@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346044401"
+        "value": "1396961322"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396961322"
+        "value": "1346044401"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1601 Columbia"
-        ],
-        "city": "STAMFORD",
-        "state": "TX",
-        "postalCode": "79553-6863"
-      },
       {
         "line": [
           "203 S. Geneva"
@@ -53,6 +45,14 @@
         "city": "BROWNWOOD",
         "state": "TX",
         "postalCode": "76801-5918"
+      },
+      {
+        "line": [
+          "1601 Columbia"
+        ],
+        "city": "STAMFORD",
+        "state": "TX",
+        "postalCode": "79553-6863"
       }
     ],
     "extension": [

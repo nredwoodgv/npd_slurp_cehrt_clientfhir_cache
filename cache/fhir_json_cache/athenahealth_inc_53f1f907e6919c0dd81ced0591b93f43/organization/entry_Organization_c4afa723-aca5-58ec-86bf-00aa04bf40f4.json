@@ -14,41 +14,25 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144071168"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1881058790"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1679076731"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144071168"
       }
     ],
     "address": [
       {
         "line": [
-          "4747 ARAPAHOE AVE"
+          "575 SIR FRANCIS DRAKE BLVD"
         ],
-        "city": "BOULDER",
-        "state": "CO",
-        "postalCode": "80303-1131"
-      },
-      {
-        "line": [
-          "901 CAMPUS DR"
-        ],
-        "city": "DALY CITY",
+        "city": "GREENBRAE",
         "state": "CA",
-        "postalCode": "94015-4900"
-      },
-      {
-        "line": [
-          "5656 BEE CAVE RD"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78746-5280"
+        "postalCode": "94904-2306"
       },
       {
         "line": [
@@ -60,83 +44,11 @@
       },
       {
         "line": [
-          "2450 ASHBY AVENUE"
-        ],
-        "city": "BERKELEY",
-        "state": "CA",
-        "postalCode": "94705-2067"
-      },
-      {
-        "line": [
-          "900 HYDE ST"
-        ],
-        "city": "SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94109-4806"
-      },
-      {
-        "line": [
-          "4407 BEE CAVES RD STE 612"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78746-5285"
-      },
-      {
-        "line": [
-          "601 DUBOCE AVE"
-        ],
-        "city": "SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94117-3389"
-      },
-      {
-        "line": [
-          "4743 ARAPAHOE AVE"
-        ],
-        "city": "BOULDER",
-        "state": "CO",
-        "postalCode": "80303-1113"
-      },
-      {
-        "line": [
-          "575 SIR FRANCIS DRAKE BLVD"
-        ],
-        "city": "GREENBRAE",
-        "state": "CA",
-        "postalCode": "94904-2306"
-      },
-      {
-        "line": [
           "3555 CESAR CHAVEZ"
         ],
         "city": "SAN FRANCISCO",
         "state": "CA",
         "postalCode": "94110-4403"
-      },
-      {
-        "line": [
-          "4701 BEE CAVES RD"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78746-5366"
-      },
-      {
-        "line": [
-          "1545 PINE ST APT 109"
-        ],
-        "city": "SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94109-4682"
-      },
-      {
-        "line": [
-          "575 SIR FRANCIS DRAKE BLVD"
-        ],
-        "city": "GREENBRAE",
-        "state": "CA",
-        "postalCode": "94904-2307"
       },
       {
         "line": [
@@ -156,11 +68,99 @@
       },
       {
         "line": [
+          "4743 ARAPAHOE AVE"
+        ],
+        "city": "BOULDER",
+        "state": "CO",
+        "postalCode": "80303-1113"
+      },
+      {
+        "line": [
+          "601 DUBOCE AVE"
+        ],
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94117-3389"
+      },
+      {
+        "line": [
+          "5656 BEE CAVE RD"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78746-5280"
+      },
+      {
+        "line": [
+          "4407 BEE CAVES RD STE 612"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78746-5285"
+      },
+      {
+        "line": [
+          "350 HAWTHORNE AVE"
+        ],
+        "city": "OAKLAND",
+        "state": "CA",
+        "postalCode": "94609-3108"
+      },
+      {
+        "line": [
           "1545 PINE ST APT 101"
         ],
         "city": "SAN FRANCISCO",
         "state": "CA",
         "postalCode": "94109-4682"
+      },
+      {
+        "line": [
+          "2450 ASHBY AVENUE"
+        ],
+        "city": "BERKELEY",
+        "state": "CA",
+        "postalCode": "94705-2067"
+      },
+      {
+        "line": [
+          "4747 ARAPAHOE AVE"
+        ],
+        "city": "BOULDER",
+        "state": "CO",
+        "postalCode": "80303-1131"
+      },
+      {
+        "line": [
+          "901 CAMPUS DR"
+        ],
+        "city": "DALY CITY",
+        "state": "CA",
+        "postalCode": "94015-4900"
+      },
+      {
+        "line": [
+          "575 SIR FRANCIS DRAKE BLVD"
+        ],
+        "city": "GREENBRAE",
+        "state": "CA",
+        "postalCode": "94904-2307"
+      },
+      {
+        "line": [
+          "900 HYDE ST"
+        ],
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94109-4806"
+      },
+      {
+        "line": [
+          "4701 BEE CAVES RD"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78746-5366"
       },
       {
         "line": [
@@ -172,11 +172,11 @@
       },
       {
         "line": [
-          "350 HAWTHORNE AVE"
+          "1545 PINE ST APT 109"
         ],
-        "city": "OAKLAND",
+        "city": "SAN FRANCISCO",
         "state": "CA",
-        "postalCode": "94609-3108"
+        "postalCode": "94109-4682"
       }
     ],
     "extension": [

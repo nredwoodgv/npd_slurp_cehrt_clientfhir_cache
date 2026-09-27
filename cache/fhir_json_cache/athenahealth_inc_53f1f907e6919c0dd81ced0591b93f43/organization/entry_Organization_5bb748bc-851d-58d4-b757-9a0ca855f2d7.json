@@ -18,11 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205845369"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942860176"
+        "value": "1679501746"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,50 +26,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679501746"
+        "value": "1942860176"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1205845369"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3414 golden road"
-        ],
-        "city": "TYLER",
-        "state": "TX",
-        "postalCode": "75701-8336"
-      },
-      {
-        "line": [
-          "8200 Walnut Hill"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75231-4402"
-      },
-      {
-        "line": [
-          "1204 N MOUND ST"
-        ],
-        "city": "NACOGDOCHES",
-        "state": "TX",
-        "postalCode": "75961-1212"
-      },
-      {
-        "line": [
-          "2001 NORTH JEFFERSON AVENUE"
-        ],
-        "city": "MOUNT PLEASANT",
-        "state": "TX",
-        "postalCode": "75455-2338"
-      },
-      {
-        "line": [
-          "6210 S BROADWAY AVE"
-        ],
-        "city": "TYLER",
-        "state": "TX",
-        "postalCode": "75701-4413"
-      },
       {
         "line": [
           "4920 NE STALLINGS DR"
@@ -81,54 +41,6 @@
         "city": "NACOGDOCHES",
         "state": "TX",
         "postalCode": "75965-1212"
-      },
-      {
-        "line": [
-          "4800 NE STALLINGS DR # 110"
-        ],
-        "city": "NACOGDOCHES",
-        "state": "TX",
-        "postalCode": "75965-1212"
-      },
-      {
-        "line": [
-          "4948 NE STALLINGS DR"
-        ],
-        "city": "NACOGDOCHES",
-        "state": "TX",
-        "postalCode": "75965-1212"
-      },
-      {
-        "line": [
-          "1000 S BECKHAM AVE"
-        ],
-        "city": "TYLER",
-        "state": "TX",
-        "postalCode": "75701-1908"
-      },
-      {
-        "line": [
-          "712 HAYTER STREET"
-        ],
-        "city": "NACOGDOCHES",
-        "state": "TX",
-        "postalCode": "75962-0001"
-      },
-      {
-        "line": [
-          "1300 N MOUND ST"
-        ],
-        "city": "NACOGDOCHES",
-        "state": "TX",
-        "postalCode": "75961-4029"
-      },
-      {
-        "line": [
-          "2900 S. LOOP 256"
-        ],
-        "city": "PALESTINE",
-        "state": "TX",
-        "postalCode": "75801-6958"
       },
       {
         "line": [
@@ -140,19 +52,11 @@
       },
       {
         "line": [
-          "4800 NE STALLINGS DR # 110"
-        ],
-        "city": "NACOGDOCHES",
-        "state": "TX",
-        "postalCode": "75965-1250"
-      },
-      {
-        "line": [
-          "5505 NEW COPELAND ROAD"
+          "3414 golden road"
         ],
         "city": "TYLER",
         "state": "TX",
-        "postalCode": "75703-3955"
+        "postalCode": "75701-8336"
       },
       {
         "line": [
@@ -164,11 +68,107 @@
       },
       {
         "line": [
+          "712 HAYTER STREET"
+        ],
+        "city": "NACOGDOCHES",
+        "state": "TX",
+        "postalCode": "75962-0001"
+      },
+      {
+        "line": [
+          "2900 S. LOOP 256"
+        ],
+        "city": "PALESTINE",
+        "state": "TX",
+        "postalCode": "75801-6958"
+      },
+      {
+        "line": [
+          "4800 NE STALLINGS DR # 110"
+        ],
+        "city": "NACOGDOCHES",
+        "state": "TX",
+        "postalCode": "75965-1250"
+      },
+      {
+        "line": [
+          "6210 S BROADWAY AVE"
+        ],
+        "city": "TYLER",
+        "state": "TX",
+        "postalCode": "75701-4413"
+      },
+      {
+        "line": [
+          "5505 NEW COPELAND ROAD"
+        ],
+        "city": "TYLER",
+        "state": "TX",
+        "postalCode": "75703-3955"
+      },
+      {
+        "line": [
+          "2001 NORTH JEFFERSON AVENUE"
+        ],
+        "city": "MOUNT PLEASANT",
+        "state": "TX",
+        "postalCode": "75455-2338"
+      },
+      {
+        "line": [
+          "4800 NE STALLINGS DR # 110"
+        ],
+        "city": "NACOGDOCHES",
+        "state": "TX",
+        "postalCode": "75965-1212"
+      },
+      {
+        "line": [
+          "1300 N MOUND ST"
+        ],
+        "city": "NACOGDOCHES",
+        "state": "TX",
+        "postalCode": "75961-4029"
+      },
+      {
+        "line": [
+          "8200 Walnut Hill"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75231-4402"
+      },
+      {
+        "line": [
+          "1000 S BECKHAM AVE"
+        ],
+        "city": "TYLER",
+        "state": "TX",
+        "postalCode": "75701-1908"
+      },
+      {
+        "line": [
           "2701 US HIGHWAY 271 N"
         ],
         "city": "PITTSBURG",
         "state": "TX",
         "postalCode": "75686-4289"
+      },
+      {
+        "line": [
+          "4948 NE STALLINGS DR"
+        ],
+        "city": "NACOGDOCHES",
+        "state": "TX",
+        "postalCode": "75965-1212"
+      },
+      {
+        "line": [
+          "1204 N MOUND ST"
+        ],
+        "city": "NACOGDOCHES",
+        "state": "TX",
+        "postalCode": "75961-1212"
       }
     ],
     "extension": [

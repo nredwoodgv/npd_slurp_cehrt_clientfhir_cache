@@ -22,23 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639325046"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1225034234"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396046637"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578725941"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881850956"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,7 +30,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578725941"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1164698809"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881850956"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396046637"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1639325046"
       }
     ],
     "address": [
@@ -58,6 +58,23 @@
         "city": "DAYTONA BEACH",
         "state": "FL",
         "postalCode": "32117-5169"
+      },
+      {
+        "line": [
+          "12951 W LINEBAUGH AVENUE"
+        ],
+        "city": "TAMPA",
+        "state": "FL",
+        "postalCode": "33626-4460"
+      },
+      {
+        "line": [
+          "380 Celebration Pl",
+          "2nd Floor"
+        ],
+        "city": "KISSIMMEE",
+        "state": "FL",
+        "postalCode": "34747-4606"
       },
       {
         "line": [
@@ -77,14 +94,6 @@
       },
       {
         "line": [
-          "12951 W LINEBAUGH AVENUE"
-        ],
-        "city": "TAMPA",
-        "state": "FL",
-        "postalCode": "33626-4460"
-      },
-      {
-        "line": [
           "."
         ],
         "city": "ORLANDO",
@@ -98,15 +107,6 @@
         "city": "ORLANDO",
         "state": "FL",
         "postalCode": "32803-1849"
-      },
-      {
-        "line": [
-          "380 Celebration Pl",
-          "2nd Floor"
-        ],
-        "city": "KISSIMMEE",
-        "state": "FL",
-        "postalCode": "34747-4606"
       },
       {
         "line": [

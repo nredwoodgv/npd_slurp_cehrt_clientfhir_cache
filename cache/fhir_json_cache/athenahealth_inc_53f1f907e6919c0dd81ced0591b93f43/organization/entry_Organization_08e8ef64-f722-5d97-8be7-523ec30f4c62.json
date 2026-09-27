@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336368745"
+        "value": "1497988828"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497988828"
+        "value": "1336368745"
       }
     ],
     "address": [
-      {
-        "line": [
-          "P.O. BOX 2067"
-        ],
-        "city": "REEDS SPRING",
-        "state": "MO",
-        "postalCode": "65737-2067"
-      },
       {
         "line": [
           "1015 HIGHWAY 248"
@@ -61,6 +53,14 @@
         "city": "MONETT",
         "state": "MO",
         "postalCode": "65708-1641"
+      },
+      {
+        "line": [
+          "P.O. BOX 2067"
+        ],
+        "city": "REEDS SPRING",
+        "state": "MO",
+        "postalCode": "65737-2067"
       }
     ],
     "extension": [

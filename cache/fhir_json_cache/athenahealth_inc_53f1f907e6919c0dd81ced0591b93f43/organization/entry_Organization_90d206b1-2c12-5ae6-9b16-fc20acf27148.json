@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013910140"
+        "value": "1538250899"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538250899"
+        "value": "1013910140"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
@@ -26,6 +26,12 @@
       }
     ],
     "address": [
+      {
+        "line": [],
+        "city": "JACKSON",
+        "state": "CA",
+        "postalCode": "95642-2173"
+      },
       {
         "line": [
           "155 PLACER DRIVE"
@@ -36,14 +42,6 @@
       },
       {
         "line": [
-          "235 NEW YORK RANCH RD SUITE B"
-        ],
-        "city": "JACKSON",
-        "state": "CA",
-        "postalCode": "95642-2173"
-      },
-      {
-        "line": [
           "235 New York Ranch Rd. Ste. B"
         ],
         "city": "JACKSON",
@@ -51,7 +49,9 @@
         "postalCode": "95642-2173"
       },
       {
-        "line": [],
+        "line": [
+          "235 NEW YORK RANCH RD SUITE B"
+        ],
         "city": "JACKSON",
         "state": "CA",
         "postalCode": "95642-2173"

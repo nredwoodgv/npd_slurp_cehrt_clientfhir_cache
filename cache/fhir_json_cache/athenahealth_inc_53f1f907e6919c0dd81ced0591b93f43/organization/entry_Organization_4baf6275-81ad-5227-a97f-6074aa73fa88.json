@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295392645"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407469166"
+        "value": "1811614225"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,17 +22,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811614225"
+        "value": "1295392645"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1407469166"
       }
     ],
     "address": [
       {
         "line": [
-          "2440 S Titanium Pl"
+          "302 W 5400 S STE 201"
         ],
-        "city": "MERIDIAN",
-        "state": "ID",
-        "postalCode": "83642-6703"
+        "city": "SALT LAKE CITY",
+        "state": "UT",
+        "postalCode": "84107-8431"
       },
       {
         "line": [
@@ -48,6 +48,14 @@
       },
       {
         "line": [
+          "1240 E 100 S STE 119"
+        ],
+        "city": "SAINT GEORGE",
+        "state": "UT",
+        "postalCode": "84790-3079"
+      },
+      {
+        "line": [
           "2000 S Colorado Blvd Ste 100"
         ],
         "city": "DENVER",
@@ -56,19 +64,11 @@
       },
       {
         "line": [
-          "302 W 5400 S STE 201"
+          "2440 S Titanium Pl"
         ],
-        "city": "SALT LAKE CITY",
-        "state": "UT",
-        "postalCode": "84107-8431"
-      },
-      {
-        "line": [
-          "1240 E 100 S STE 119"
-        ],
-        "city": "SAINT GEORGE",
-        "state": "UT",
-        "postalCode": "84790-3079"
+        "city": "MERIDIAN",
+        "state": "ID",
+        "postalCode": "83642-6703"
       }
     ],
     "extension": [

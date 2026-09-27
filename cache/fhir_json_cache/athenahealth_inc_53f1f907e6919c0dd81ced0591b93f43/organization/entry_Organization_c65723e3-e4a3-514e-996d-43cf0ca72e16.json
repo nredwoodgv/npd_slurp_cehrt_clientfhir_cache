@@ -14,21 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689061426"
+        "value": "1346284684"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346284684"
+        "value": "1689061426"
       }
     ],
     "address": [
       {
         "line": [
-          "107 Chicago St"
+          "5210 Highland Rd",
+          "Ste 201"
         ],
-        "city": "BROOKLYN",
+        "city": "WATERFORD",
         "state": "MI",
-        "postalCode": "49230-9703"
+        "postalCode": "48327-1970"
       },
       {
         "line": [
@@ -41,15 +42,6 @@
       },
       {
         "line": [
-          "1375 S Lapeer Rd",
-          "Ste 210"
-        ],
-        "city": "LAKE ORION",
-        "state": "MI",
-        "postalCode": "48360-1433"
-      },
-      {
-        "line": [
           "5210 Highland Rd"
         ],
         "city": "WATERFORD",
@@ -58,12 +50,20 @@
       },
       {
         "line": [
-          "5210 Highland Rd",
-          "Ste 201"
+          "107 Chicago St"
         ],
-        "city": "WATERFORD",
+        "city": "BROOKLYN",
         "state": "MI",
-        "postalCode": "48327-1970"
+        "postalCode": "49230-9703"
+      },
+      {
+        "line": [
+          "1375 S Lapeer Rd",
+          "Ste 210"
+        ],
+        "city": "LAKE ORION",
+        "state": "MI",
+        "postalCode": "48360-1433"
       }
     ],
     "extension": [

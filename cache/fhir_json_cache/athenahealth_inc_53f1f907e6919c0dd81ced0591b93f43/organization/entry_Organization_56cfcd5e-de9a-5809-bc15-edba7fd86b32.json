@@ -18,7 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437233426"
+        "value": "1003996679"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1255416897"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,21 +30,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003996679"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255416897"
+        "value": "1437233426"
       }
     ],
     "address": [
       {
         "line": [
-          "400 NORTH ST"
+          "4599 Towne Centre Rd"
         ],
-        "city": "TAWAS CITY",
+        "city": "Saginaw",
         "state": "MI",
-        "postalCode": "48763-9161"
+        "postalCode": "48604-2801"
       },
       {
         "line": [
@@ -52,11 +52,11 @@
       },
       {
         "line": [
-          "4599 Towne Centre Rd"
+          "400 NORTH ST"
         ],
-        "city": "Saginaw",
+        "city": "TAWAS CITY",
         "state": "MI",
-        "postalCode": "48604-2801"
+        "postalCode": "48763-9161"
       }
     ],
     "extension": [

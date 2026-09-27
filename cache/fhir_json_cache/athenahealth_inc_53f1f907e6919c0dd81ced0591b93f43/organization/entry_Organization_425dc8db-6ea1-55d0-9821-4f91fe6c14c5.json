@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
+        "value": "1730484031"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,15 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
+        "value": "1649232984"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,7 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
+        "value": "1124080320"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,18 +38,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
+        "value": "1053373951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750302923"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881656247"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215348487"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2001 Hutchins Ave Ste C"
-        ],
-        "city": "BALLINGER",
-        "state": "TX",
-        "postalCode": "76821-4453"
-      },
       {
         "line": [
           "2142 Sunset Dr"
@@ -69,6 +61,14 @@
         "city": "SAN ANGELO",
         "state": "TX",
         "postalCode": "76904-6829"
+      },
+      {
+        "line": [
+          "2001 Hutchins Ave Ste C"
+        ],
+        "city": "BALLINGER",
+        "state": "TX",
+        "postalCode": "76821-4453"
       }
     ],
     "extension": [

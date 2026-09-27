@@ -14,31 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861078685"
+        "value": "1447330451"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447330451"
+        "value": "1861078685"
       }
     ],
     "address": [
-      {
-        "line": [
-          "350 Hospital Way",
-          "Suite 100"
-        ],
-        "city": "SOMERSET",
-        "state": "KY",
-        "postalCode": "42503-1872"
-      },
-      {
-        "line": [
-          "100 Neighborly Way"
-        ],
-        "city": "SOMERSET",
-        "state": "KY",
-        "postalCode": "42501-6147"
-      },
       {
         "line": [
           "350 Hospital Way, Suite 100"
@@ -46,6 +29,14 @@
         "city": "SOMERSET",
         "state": "KY",
         "postalCode": "42503-1872"
+      },
+      {
+        "line": [
+          "106 Gover Street"
+        ],
+        "city": "SOMERSET",
+        "state": "KY",
+        "postalCode": "42501-3332"
       },
       {
         "line": [
@@ -57,11 +48,12 @@
       },
       {
         "line": [
-          "106 Gover Street"
+          "350 Hospital Way",
+          "Suite 100"
         ],
         "city": "SOMERSET",
         "state": "KY",
-        "postalCode": "42501-3332"
+        "postalCode": "42503-1872"
       },
       {
         "line": [
@@ -81,14 +73,6 @@
       },
       {
         "line": [
-          "100 Neighborly Way"
-        ],
-        "city": "SOMERSET",
-        "state": "KY",
-        "postalCode": "42503-6147"
-      },
-      {
-        "line": [
           "145 TOWER CIR"
         ],
         "city": "SOMERSET",
@@ -102,6 +86,22 @@
         "city": "SOMERSET",
         "state": "KY",
         "postalCode": "42501-1915"
+      },
+      {
+        "line": [
+          "100 Neighborly Way"
+        ],
+        "city": "SOMERSET",
+        "state": "KY",
+        "postalCode": "42503-6147"
+      },
+      {
+        "line": [
+          "100 Neighborly Way"
+        ],
+        "city": "SOMERSET",
+        "state": "KY",
+        "postalCode": "42501-6147"
       },
       {
         "line": [

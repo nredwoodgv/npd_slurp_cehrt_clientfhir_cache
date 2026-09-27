@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174904551"
+        "value": "1639132251"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639132251"
+        "value": "1174904551"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1712 North Access Road"
-        ],
-        "city": "CLYDE",
-        "state": "TX",
-        "postalCode": "79510-3352"
-      },
       {
         "line": [
           "6401 DIRECTORS PKWY"
@@ -37,38 +29,6 @@
         "city": "ABILENE",
         "state": "TX",
         "postalCode": "79606-5881"
-      },
-      {
-        "line": [
-          "1704 NORTH 1ST ST"
-        ],
-        "city": "MERKEL",
-        "state": "TX",
-        "postalCode": "79536-3086"
-      },
-      {
-        "line": [
-          "725 Pate St"
-        ],
-        "city": "ALBANY",
-        "state": "TX",
-        "postalCode": "76430-3225"
-      },
-      {
-        "line": [
-          "1680 ANTILLEY RD STE 120"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79606-5279"
-      },
-      {
-        "line": [
-          "819 N Broadway Street"
-        ],
-        "city": "ASPERMONT",
-        "state": "TX",
-        "postalCode": "79502-2029"
       },
       {
         "line": [
@@ -80,11 +40,11 @@
       },
       {
         "line": [
-          "217 Edwards ST"
+          "1680 ANTILLEY RD STE 120"
         ],
-        "city": "MERKEL",
+        "city": "ABILENE",
         "state": "TX",
-        "postalCode": "79536-3803"
+        "postalCode": "79606-5279"
       },
       {
         "line": [
@@ -101,6 +61,46 @@
         "city": "ABILENE",
         "state": "TX",
         "postalCode": "79606-5252"
+      },
+      {
+        "line": [
+          "725 Pate St"
+        ],
+        "city": "ALBANY",
+        "state": "TX",
+        "postalCode": "76430-3225"
+      },
+      {
+        "line": [
+          "1712 North Access Road"
+        ],
+        "city": "CLYDE",
+        "state": "TX",
+        "postalCode": "79510-3352"
+      },
+      {
+        "line": [
+          "1704 NORTH 1ST ST"
+        ],
+        "city": "MERKEL",
+        "state": "TX",
+        "postalCode": "79536-3086"
+      },
+      {
+        "line": [
+          "217 Edwards ST"
+        ],
+        "city": "MERKEL",
+        "state": "TX",
+        "postalCode": "79536-3803"
+      },
+      {
+        "line": [
+          "819 N Broadway Street"
+        ],
+        "city": "ASPERMONT",
+        "state": "TX",
+        "postalCode": "79502-2029"
       }
     ],
     "extension": [

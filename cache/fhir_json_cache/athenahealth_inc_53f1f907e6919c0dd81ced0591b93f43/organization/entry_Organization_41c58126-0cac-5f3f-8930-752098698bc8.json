@@ -14,19 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215287362"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730437245"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1487902995"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215287362"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1265780621"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730437245"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,11 +36,11 @@
     "address": [
       {
         "line": [
-          "1721 S. Stephenson Ave."
+          "18341 US 41"
         ],
-        "city": "IRON MOUNTAIN",
+        "city": "LANSE",
         "state": "MI",
-        "postalCode": "49801-3637"
+        "postalCode": "49946-8024"
       },
       {
         "line": [
@@ -52,19 +52,19 @@
       },
       {
         "line": [
+          "1500 Sand Point Rd"
+        ],
+        "city": "MUNISING",
+        "state": "MI",
+        "postalCode": "49862-1406"
+      },
+      {
+        "line": [
           "N15995 MAIN ST"
         ],
         "city": "POWERS",
         "state": "MI",
         "postalCode": "49874-9608"
-      },
-      {
-        "line": [
-          "7870 US 2"
-        ],
-        "city": "MANISTIQUE",
-        "state": "MI",
-        "postalCode": "49854-8992"
       },
       {
         "line": [
@@ -76,19 +76,19 @@
       },
       {
         "line": [
-          "1500 Sand Point Rd"
+          "1721 S. Stephenson Ave."
         ],
-        "city": "MUNISING",
+        "city": "IRON MOUNTAIN",
         "state": "MI",
-        "postalCode": "49862-1406"
+        "postalCode": "49801-3637"
       },
       {
         "line": [
-          "18341 US 41"
+          "7870 US 2"
         ],
-        "city": "LANSE",
+        "city": "MANISTIQUE",
         "state": "MI",
-        "postalCode": "49946-8024"
+        "postalCode": "49854-8992"
       }
     ],
     "extension": [

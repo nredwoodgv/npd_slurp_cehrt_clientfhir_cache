@@ -18,7 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558406512"
+        "value": "1912924705"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,19 +26,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1982738118"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1558406512"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1174647986"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912924705"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1174687966"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982738118"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -51,12 +51,26 @@
     ],
     "address": [
       {
+        "line": [],
+        "city": "Florence",
+        "state": "MA",
+        "postalCode": "01062-1466"
+      },
+      {
         "line": [
           "329 Conway Street"
         ],
-        "city": "GREENFIELD",
+        "city": "Greenfield",
         "state": "MA",
         "postalCode": "01301-1521"
+      },
+      {
+        "line": [
+          "70 Main Street"
+        ],
+        "city": "Florence",
+        "state": "MA",
+        "postalCode": "01062-1466"
       },
       {
         "line": [
@@ -68,11 +82,19 @@
       },
       {
         "line": [
-          "329 Conway Street"
+          "70 Main Street"
         ],
-        "city": "Greenfield",
+        "city": "FLORENCE",
         "state": "MA",
-        "postalCode": "01301-1521"
+        "postalCode": "01062-1466"
+      },
+      {
+        "line": [
+          "31 Hall Drive"
+        ],
+        "city": "Amherst",
+        "state": "MA",
+        "postalCode": "01002-2751"
       },
       {
         "line": [],
@@ -82,33 +104,11 @@
       },
       {
         "line": [
-          "31 HALL DRIVE"
+          "329 Conway Street"
         ],
-        "city": "AMHERST",
+        "city": "GREENFIELD",
         "state": "MA",
-        "postalCode": "01002-2751"
-      },
-      {
-        "line": [
-          "150 UNIVERSITY DRIVE"
-        ],
-        "city": "AMHERST",
-        "state": "MA",
-        "postalCode": "01002-2232"
-      },
-      {
-        "line": [
-          "70 Main Street"
-        ],
-        "city": "FLORENCE",
-        "state": "MA",
-        "postalCode": "01062-1466"
-      },
-      {
-        "line": [],
-        "city": "Florence",
-        "state": "MA",
-        "postalCode": "01062-1466"
+        "postalCode": "01301-1521"
       },
       {
         "line": [
@@ -128,19 +128,27 @@
       },
       {
         "line": [
-          "31 Hall Drive"
+          "31 HALL DRIVE"
         ],
-        "city": "Amherst",
+        "city": "AMHERST",
         "state": "MA",
         "postalCode": "01002-2751"
       },
       {
         "line": [
-          "70 Main Street"
+          "150 UNIVERSITY DRIVE"
         ],
-        "city": "Florence",
+        "city": "AMHERST",
         "state": "MA",
-        "postalCode": "01062-1466"
+        "postalCode": "01002-2232"
+      },
+      {
+        "line": [
+          "31 Hall Drive"
+        ],
+        "city": "AMHERST",
+        "state": "MA",
+        "postalCode": "01002-2751"
       },
       {
         "line": [
@@ -149,14 +157,6 @@
         "city": "AMHERST",
         "state": "MA",
         "postalCode": "01002-2754"
-      },
-      {
-        "line": [
-          "31 Hall Drive"
-        ],
-        "city": "AMHERST",
-        "state": "MA",
-        "postalCode": "01002-2751"
       }
     ],
     "extension": [

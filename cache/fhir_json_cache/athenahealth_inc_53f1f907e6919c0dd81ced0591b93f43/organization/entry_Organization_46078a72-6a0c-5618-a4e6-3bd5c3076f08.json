@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285664763"
+        "value": "1558839076"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558839076"
+        "value": "1285664763"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,19 +28,19 @@
     "address": [
       {
         "line": [
-          "1917 ASHLAND ST"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77008-3907"
-      },
-      {
-        "line": [
           "4825 ALMEDA RD"
         ],
         "city": "HOUSTON",
         "state": "TX",
         "postalCode": "77004-5655"
+      },
+      {
+        "line": [
+          "1917 ASHLAND ST"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77008-3907"
       }
     ],
     "extension": [

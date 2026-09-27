@@ -14,31 +14,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1234567890"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275685240"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134161623"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "123456789"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144217894"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "000000000"
+        "value": "1407908486"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,11 +22,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1234567890"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1518019587"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639462674"
+        "value": "123456789"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1134161623"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1275685240"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "000000000"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,7 +50,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407908486"
+        "value": "1144217894"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1639462674"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1"
       }
     ],
     "active": true,
@@ -66,23 +66,27 @@
     "telecom": [
       {
         "system": "phone",
+        "value": "(419)353-5419"
+      },
+      {
+        "system": "phone",
+        "value": "(419)479-5605"
+      },
+      {
+        "system": "phone",
         "value": "(419)383-5200"
       },
       {
         "system": "phone",
-        "value": "(419)794-7720"
-      },
-      {
-        "system": "phone",
-        "value": "(419)383-5980"
-      },
-      {
-        "system": "phone",
-        "value": "(419)484-5440"
+        "value": "(419)691-4235"
       },
       {
         "system": "phone",
         "value": "(419)473-2049"
+      },
+      {
+        "system": "phone",
+        "value": "(419)484-5440"
       },
       {
         "system": "phone",
@@ -94,55 +98,7 @@
       },
       {
         "system": "phone",
-        "value": "(555)867-5309"
-      },
-      {
-        "system": "phone",
-        "value": "(419)479-5605"
-      },
-      {
-        "system": "phone",
-        "value": "(419)335-2015"
-      },
-      {
-        "system": "phone",
-        "value": "(419)691-4235"
-      },
-      {
-        "system": "phone",
-        "value": "(734)242-7902"
-      },
-      {
-        "system": "phone",
-        "value": "(517)263-2507"
-      },
-      {
-        "system": "phone",
-        "value": "(419)353-5419"
-      },
-      {
-        "system": "phone",
         "value": "(419)251-3232"
-      },
-      {
-        "system": "phone",
-        "value": "(419)690-7900"
-      },
-      {
-        "system": "phone",
-        "value": "(419)824-1444"
-      },
-      {
-        "system": "phone",
-        "value": "(419)893-5911"
-      },
-      {
-        "system": "phone",
-        "value": "(419)291-4000"
-      },
-      {
-        "system": "phone",
-        "value": "(419)383-4000"
       },
       {
         "system": "phone",
@@ -154,10 +110,6 @@
       },
       {
         "system": "phone",
-        "value": "(734)240-8400"
-      },
-      {
-        "system": "phone",
         "value": "(517)265-0900"
       },
       {
@@ -166,11 +118,59 @@
       },
       {
         "system": "phone",
+        "value": "(419)383-4000"
+      },
+      {
+        "system": "phone",
         "value": "(419)696-7200"
       },
       {
         "system": "phone",
+        "value": "(419)794-7720"
+      },
+      {
+        "system": "phone",
+        "value": "(555)867-5309"
+      },
+      {
+        "system": "phone",
+        "value": "(419)893-5911"
+      },
+      {
+        "system": "phone",
+        "value": "(419)690-7900"
+      },
+      {
+        "system": "phone",
+        "value": "(419)824-1444"
+      },
+      {
+        "system": "phone",
+        "value": "(419)291-4000"
+      },
+      {
+        "system": "phone",
         "value": "(567)368-1500"
+      },
+      {
+        "system": "phone",
+        "value": "(734)240-8400"
+      },
+      {
+        "system": "phone",
+        "value": "(517)263-2507"
+      },
+      {
+        "system": "phone",
+        "value": "(419)335-2015"
+      },
+      {
+        "system": "phone",
+        "value": "(734)242-7902"
+      },
+      {
+        "system": "phone",
+        "value": "(419)383-5980"
       }
     ],
     "address": [
@@ -178,116 +178,12 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "4126 N Holland Sylvania",
-          "Suite 105A"
+          "960 West Wooster Street",
+          "Suite 111"
         ],
-        "city": "Toledo",
+        "city": "Bowling Green",
         "state": "OH",
-        "postalCode": "43623",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1200 Medical Center Pkwy",
-          "Suite 1100"
-        ],
-        "city": "Maumee",
-        "state": "OH",
-        "postalCode": "43537",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1200 Medical Center Pkwy",
-          "Suite 2200, Room 2222"
-        ],
-        "city": "Maumee",
-        "state": "OH",
-        "postalCode": "43537",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1400 W. Main St."
-        ],
-        "city": "Bellevue",
-        "state": "OH",
-        "postalCode": "44811",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "4126 N. Holland Sylvania Rd",
-          "Suite 105"
-        ],
-        "city": "Toledo",
-        "state": "OH",
-        "postalCode": "43623",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "4330 Navarre Avenue",
-          "Suite 103"
-        ],
-        "city": "Oregon",
-        "state": "OH",
-        "postalCode": "43616",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1200 Medical Center Pkwy",
-          "Suite 1100"
-        ],
-        "city": "Maumee",
-        "state": "OH",
-        "postalCode": "43537",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1200 Medical Center Parkway Suite 1100"
-        ],
-        "city": "Maumee",
-        "state": "OH",
-        "postalCode": "43537",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1313 Mockingbird Lane"
-        ],
-        "city": "Mockingbird Heights",
-        "state": "CA",
-        "postalCode": "90210",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1313 Mockingbird Lane"
-        ],
-        "city": "Mockingbird Heights",
-        "state": "CA",
-        "postalCode": "90210",
+        "postalCode": "43402",
         "country": "USA"
       },
       {
@@ -296,6 +192,18 @@
         "line": [
           "4126 N. Holland Sylvania",
           "Suite 105"
+        ],
+        "city": "Toledo",
+        "state": "OH",
+        "postalCode": "43623",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "4126 N Holland Sylvania",
+          "Suite 105A"
         ],
         "city": "Toledo",
         "state": "OH",
@@ -318,47 +226,23 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "625 Gibbs Street"
+          "4126 N. Holland Sylvania Rd",
+          "Suite 105"
         ],
-        "city": "Maumee",
+        "city": "Toledo",
         "state": "OH",
-        "postalCode": "43537",
+        "postalCode": "43623",
         "country": "USA"
       },
       {
         "use": "work",
         "type": "postal",
         "line": [
-          "800 Stewart Road",
-          "Suite B"
+          "1400 W. Main St."
         ],
-        "city": "Monroe",
-        "state": "MI",
-        "postalCode": "48162",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "777 Kimole Lane",
-          "Suite 130"
-        ],
-        "city": "Adrian",
-        "state": "MI",
-        "postalCode": "49221",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "960 West Wooster Street",
-          "Suite 111"
-        ],
-        "city": "Bowling Green",
+        "city": "Bellevue",
         "state": "OH",
-        "postalCode": "43402",
+        "postalCode": "44811",
         "country": "USA"
       },
       {
@@ -370,61 +254,6 @@
         "city": "Toledo",
         "state": "OH",
         "postalCode": "43608",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "2801 Bay Park Drive"
-        ],
-        "city": "Oregon",
-        "state": "Oh",
-        "postalCode": "43616",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "5200 Harroun Rd."
-        ],
-        "city": "Sylvania",
-        "state": "OH",
-        "postalCode": "43560",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "5901 Monclova Rd"
-        ],
-        "city": "Maumee",
-        "state": "OH",
-        "postalCode": "43537",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "2142 N. Cove Blvd."
-        ],
-        "city": "Toledo",
-        "state": "OH",
-        "postalCode": "43606",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "3000 Arlington Ave."
-        ],
-        "city": "Toledo",
-        "state": "OH",
-        "postalCode": "43614",
         "country": "USA"
       },
       {
@@ -453,17 +282,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "718 N. Macomb"
-        ],
-        "city": "Monroe",
-        "state": "MI",
-        "postalCode": "48162",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "818 Riverside Ave"
         ],
         "city": "Adrian",
@@ -486,11 +304,157 @@
         "use": "work",
         "type": "postal",
         "line": [
+          "3000 Arlington Ave."
+        ],
+        "city": "Toledo",
+        "state": "OH",
+        "postalCode": "43614",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
           "2600 Navarra Ave"
         ],
         "city": "Oregon",
         "state": "OH",
         "postalCode": "43616",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1200 Medical Center Pkwy",
+          "Suite 1100"
+        ],
+        "city": "Maumee",
+        "state": "OH",
+        "postalCode": "43537",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1313 Mockingbird Lane"
+        ],
+        "city": "Mockingbird Heights",
+        "state": "CA",
+        "postalCode": "90210",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1200 Medical Center Pkwy",
+          "Suite 1100"
+        ],
+        "city": "Maumee",
+        "state": "OH",
+        "postalCode": "43537",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "5901 Monclova Rd"
+        ],
+        "city": "Maumee",
+        "state": "OH",
+        "postalCode": "43537",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2801 Bay Park Drive"
+        ],
+        "city": "Oregon",
+        "state": "Oh",
+        "postalCode": "43616",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "5200 Harroun Rd."
+        ],
+        "city": "Sylvania",
+        "state": "OH",
+        "postalCode": "43560",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2142 N. Cove Blvd."
+        ],
+        "city": "Toledo",
+        "state": "OH",
+        "postalCode": "43606",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "12623 Eckel Junction Rd"
+        ],
+        "city": "Perrysburg",
+        "state": "OH",
+        "postalCode": "43551",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "718 N. Macomb"
+        ],
+        "city": "Monroe",
+        "state": "MI",
+        "postalCode": "48162",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1313 Mockingbird Lane"
+        ],
+        "city": "Mockingbird Heights",
+        "state": "CA",
+        "postalCode": "90210",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "625 Gibbs Street"
+        ],
+        "city": "Maumee",
+        "state": "OH",
+        "postalCode": "43537",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "777 Kimole Lane",
+          "Suite 130"
+        ],
+        "city": "Adrian",
+        "state": "MI",
+        "postalCode": "49221",
         "country": "USA"
       },
       {
@@ -508,11 +472,45 @@
         "use": "work",
         "type": "postal",
         "line": [
+          "1313 Mockingbird Lane"
+        ],
+        "city": "Mockingbird Heights",
+        "state": "CA",
+        "postalCode": "90210",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
           "625 Gibbs Street"
         ],
         "city": "Maumee",
         "state": "OH",
         "postalCode": "43537",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1200 Medical Center Parkway Suite 1100"
+        ],
+        "city": "Maumee",
+        "state": "OH",
+        "postalCode": "43537",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "800 Stewart Road",
+          "Suite B"
+        ],
+        "city": "Monroe",
+        "state": "MI",
+        "postalCode": "48162",
         "country": "USA"
       },
       {
@@ -531,22 +529,24 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "12623 Eckel Junction Rd"
+          "1200 Medical Center Pkwy",
+          "Suite 2200, Room 2222"
         ],
-        "city": "Perrysburg",
+        "city": "Maumee",
         "state": "OH",
-        "postalCode": "43551",
+        "postalCode": "43537",
         "country": "USA"
       },
       {
         "use": "work",
         "type": "postal",
         "line": [
-          "1313 Mockingbird Lane"
+          "4330 Navarre Avenue",
+          "Suite 103"
         ],
-        "city": "Mockingbird Heights",
-        "state": "CA",
-        "postalCode": "90210",
+        "city": "Oregon",
+        "state": "OH",
+        "postalCode": "43616",
         "country": "USA"
       }
     ],

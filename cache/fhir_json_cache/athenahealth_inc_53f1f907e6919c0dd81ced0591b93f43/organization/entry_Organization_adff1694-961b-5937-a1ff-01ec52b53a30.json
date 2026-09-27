@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073054458"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1104496819"
       },
       {
@@ -27,12 +23,16 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1902347438"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073054458"
       }
     ],
     "address": [
       {
         "line": [
-          "740 EAST STATE STREET"
+          "740 E STATE STREET"
         ],
         "city": "SHARON",
         "state": "PA",
@@ -40,7 +40,7 @@
       },
       {
         "line": [
-          "740 E STATE STREET"
+          "740 EAST STATE STREET"
         ],
         "city": "SHARON",
         "state": "PA",

@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033294673"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1881981033"
       },
       {
@@ -22,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437194669"
+        "value": "1598929135"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,11 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033294673"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598929135"
+        "value": "1437194669"
       }
     ],
     "address": [
@@ -48,19 +48,11 @@
       },
       {
         "line": [
-          "1800 Medical Center Parkway Suite 410"
+          "1700 Medical Center Pkwy"
         ],
         "city": "MURFREESBORO",
         "state": "TN",
-        "postalCode": "37129-3182"
-      },
-      {
-        "line": [
-          "1700 Medical Center Parkway"
-        ],
-        "city": "Murfreesboro",
-        "state": "TN",
-        "postalCode": "37129-2568"
+        "postalCode": "37129-2246"
       },
       {
         "line": [
@@ -72,11 +64,19 @@
       },
       {
         "line": [
-          "1700 Medical Center Pkwy"
+          "1700 Medical Center Parkway"
+        ],
+        "city": "Murfreesboro",
+        "state": "TN",
+        "postalCode": "37129-2568"
+      },
+      {
+        "line": [
+          "1800 Medical Center Parkway Suite 410"
         ],
         "city": "MURFREESBORO",
         "state": "TN",
-        "postalCode": "37129-2246"
+        "postalCode": "37129-3182"
       },
       {
         "line": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740233725"
+        "value": "1649223777"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982657029"
+        "value": "1740233725"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,41 +26,33 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649223777"
+        "value": "1982657029"
       }
     ],
     "address": [
       {
         "line": [
-          "5125 Monte Vista St"
+          "610 N. Garfield Ave"
+        ],
+        "city": "MONTEREY PARK",
+        "state": "CA",
+        "postalCode": "91755-1103"
+      },
+      {
+        "line": [
+          "1720 E. Cesar Chavez Blvd"
         ],
         "city": "LOS ANGELES",
         "state": "CA",
-        "postalCode": "90042-3931"
+        "postalCode": "90033-2496"
       },
       {
         "line": [
-          "273 Beverly Blvd"
+          "400 W HUNTINGTON DR"
         ],
-        "city": "MONTEBELLO",
+        "city": "ARCADIA",
         "state": "CA",
-        "postalCode": "90640-3775"
-      },
-      {
-        "line": [
-          "1035 West Beverly Blvd"
-        ],
-        "city": "MONTEBELLO",
-        "state": "CA",
-        "postalCode": "90640-4138"
-      },
-      {
-        "line": [
-          "8203 Telegraph Rd"
-        ],
-        "city": "PICO RIVERA",
-        "state": "CA",
-        "postalCode": "90660-4905"
+        "postalCode": "91007-3470"
       },
       {
         "line": [
@@ -80,11 +72,43 @@
       },
       {
         "line": [
-          "1720 E. Cesar Chavez Blvd"
+          "416 N GARFIELD AVE"
+        ],
+        "city": "MONTEREY PARK",
+        "state": "CA",
+        "postalCode": "91754-1203"
+      },
+      {
+        "line": [
+          "1035 West Beverly Blvd"
+        ],
+        "city": "MONTEBELLO",
+        "state": "CA",
+        "postalCode": "90640-4138"
+      },
+      {
+        "line": [
+          "273 Beverly Blvd"
+        ],
+        "city": "MONTEBELLO",
+        "state": "CA",
+        "postalCode": "90640-3775"
+      },
+      {
+        "line": [
+          "4681 N. Eagle Rock Blvd"
         ],
         "city": "LOS ANGELES",
         "state": "CA",
-        "postalCode": "90033-2496"
+        "postalCode": "90041-2023"
+      },
+      {
+        "line": [
+          "8203 Telegraph Rd"
+        ],
+        "city": "PICO RIVERA",
+        "state": "CA",
+        "postalCode": "90660-4905"
       },
       {
         "line": [
@@ -96,19 +120,11 @@
       },
       {
         "line": [
-          "416 N GARFIELD AVE"
-        ],
-        "city": "MONTEREY PARK",
-        "state": "CA",
-        "postalCode": "91754-1203"
-      },
-      {
-        "line": [
-          "4681 N. Eagle Rock Blvd"
+          "5125 Monte Vista St"
         ],
         "city": "LOS ANGELES",
         "state": "CA",
-        "postalCode": "90041-2023"
+        "postalCode": "90042-3931"
       },
       {
         "line": [
@@ -125,22 +141,6 @@
         "city": "LOS ANGELES",
         "state": "CA",
         "postalCode": "90042-3503"
-      },
-      {
-        "line": [
-          "400 W HUNTINGTON DR"
-        ],
-        "city": "ARCADIA",
-        "state": "CA",
-        "postalCode": "91007-3470"
-      },
-      {
-        "line": [
-          "610 N. Garfield Ave"
-        ],
-        "city": "MONTEREY PARK",
-        "state": "CA",
-        "postalCode": "91755-1103"
       }
     ],
     "extension": [

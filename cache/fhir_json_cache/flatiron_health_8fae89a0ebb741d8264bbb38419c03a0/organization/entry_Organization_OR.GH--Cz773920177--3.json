@@ -14,23 +14,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194396721"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316940034"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1111111111"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104291236"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962876045"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,6 +30,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1194396721"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962876045"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104291236"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316940034"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "123456789"
       }
     ],
@@ -54,43 +54,7 @@
     "telecom": [
       {
         "system": "phone",
-        "value": "(918)505-3200"
-      },
-      {
-        "system": "phone",
-        "value": "(918)252-1966"
-      },
-      {
-        "system": "phone",
-        "value": "(918)421-8028"
-      },
-      {
-        "system": "phone",
-        "value": "(918)579-7301"
-      },
-      {
-        "system": "phone",
-        "value": "(918)599-5170"
-      },
-      {
-        "system": "phone",
-        "value": "(918)477-5071"
-      },
-      {
-        "system": "phone",
-        "value": "(918)494-2200"
-      },
-      {
-        "system": "phone",
-        "value": "(918)744-2345"
-      },
-      {
-        "system": "phone",
-        "value": "(918)744-2325"
-      },
-      {
-        "system": "phone",
-        "value": "(918)388-5701"
+        "value": "(650)559-6040"
       },
       {
         "system": "phone",
@@ -98,23 +62,31 @@
       },
       {
         "system": "phone",
-        "value": "(405)372-1775"
-      },
-      {
-        "system": "phone",
-        "value": "(918)744-3047"
-      },
-      {
-        "system": "phone",
-        "value": "(918)307-0215"
-      },
-      {
-        "system": "phone",
-        "value": "(918)592-3700"
+        "value": "(918)505-3200"
       },
       {
         "system": "phone",
         "value": "(918)459-4000"
+      },
+      {
+        "system": "phone",
+        "value": "(918)599-5170"
+      },
+      {
+        "system": "phone",
+        "value": "(405)372-1775"
+      },
+      {
+        "system": "phone",
+        "value": "(918)252-1966"
+      },
+      {
+        "system": "phone",
+        "value": "(888)662-6367"
+      },
+      {
+        "system": "phone",
+        "value": "(918)592-3700"
       },
       {
         "system": "phone",
@@ -126,11 +98,39 @@
       },
       {
         "system": "phone",
-        "value": "(650)559-6040"
+        "value": "(918)307-0215"
       },
       {
         "system": "phone",
-        "value": "(888)662-6367"
+        "value": "(918)494-2200"
+      },
+      {
+        "system": "phone",
+        "value": "(918)744-2345"
+      },
+      {
+        "system": "phone",
+        "value": "(918)388-5701"
+      },
+      {
+        "system": "phone",
+        "value": "(918)477-5071"
+      },
+      {
+        "system": "phone",
+        "value": "(918)744-2325"
+      },
+      {
+        "system": "phone",
+        "value": "(918)579-7301"
+      },
+      {
+        "system": "phone",
+        "value": "(918)421-8028"
+      },
+      {
+        "system": "phone",
+        "value": "(918)744-3047"
       }
     ],
     "address": [
@@ -138,265 +138,11 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1819 E 19th St., Suite 500"
+          "111 Medical Center Drive"
         ],
-        "city": "Tulsa",
-        "state": "OK",
-        "postalCode": "74104",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "8131 S Memorial DR",
-          "#105"
-        ],
-        "city": "Tulsa",
-        "state": "OK",
-        "postalCode": "74133",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "Scheduling Fax Number"
-        ],
-        "city": "McAlester",
-        "state": "OK",
-        "postalCode": "74501",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1125 South Trenton  3rd Floor"
-        ],
-        "city": "Tulsa",
-        "state": "OK",
-        "postalCode": "74120",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "GynOnc Rounding Hospital"
-        ],
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1120 SO UTICA"
-        ],
-        "city": "TULSA",
-        "state": "OK",
-        "postalCode": "74104",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1120 SO UTICA"
-        ],
-        "city": "TULSA",
-        "state": "OK",
-        "postalCode": "74104",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "744 WEST 9TH"
-        ],
-        "city": "TULSA",
-        "state": "OK",
-        "postalCode": "74127",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "744 WEST 9TH"
-        ],
-        "city": "TULSA",
-        "state": "OK",
-        "postalCode": "74127",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "2408 E 81ST STREET"
-        ],
-        "city": "TULSA",
-        "state": "OK",
-        "postalCode": "74137",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "8801 S 101ST E AVE"
-        ],
-        "city": "TULSA",
-        "state": "OK",
-        "postalCode": "74133",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "8801 S 101ST E AVE"
-        ],
-        "city": "TULSA",
-        "state": "OK",
-        "postalCode": "74133",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "6161 SO YALE"
-        ],
-        "city": "TULSA",
-        "state": "OK",
-        "postalCode": "74136",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "6161 SO YALE"
-        ],
-        "city": "TULSA",
-        "state": "OK",
-        "postalCode": "74136",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1923 SO UTICA"
-        ],
-        "city": "TULSA",
-        "state": "OK",
-        "postalCode": "74104",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1923 SO UTICA"
-        ],
-        "city": "TULSA",
-        "state": "OK",
-        "postalCode": "74104",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "6901 SO OLYMPIA"
-        ],
-        "city": "TULSA",
-        "state": "OK",
-        "postalCode": "74132",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "6901 SO OLYMPIA"
-        ],
-        "city": "TULSA",
-        "state": "OK",
-        "postalCode": "74132",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "HEADER ONLY"
-        ],
-        "city": "TULSA",
-        "state": "OK",
-        "postalCode": "74047",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "600 South Adams",
-          "ABOVE FAX NUMBER IS GOOD AND COMES TO THIS INBOUND"
-        ],
-        "city": "Stillwater",
-        "state": "OK",
-        "postalCode": "74074-4370",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1923 S UTICA",
-          "4 SOUTH"
-        ],
-        "city": "TULSA",
-        "state": "OK",
-        "postalCode": "74104",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "800 West Boise Circle",
-          "Suite 400"
-        ],
-        "city": "Broken Arrow",
-        "state": "OK",
-        "postalCode": "74012",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "12697 E. 51st St. South"
-        ],
-        "city": "Tulsa",
-        "state": "OK",
-        "postalCode": "74146",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "12697 E. 51st Street South"
-        ],
-        "city": "Tulsa",
-        "state": "OK",
-        "postalCode": "74146",
+        "city": "Pleasanton",
+        "state": "CA",
+        "postalCode": "94000",
         "country": "USA"
       },
       {
@@ -425,6 +171,112 @@
         "use": "work",
         "type": "postal",
         "line": [
+          "HEADER ONLY"
+        ],
+        "city": "TULSA",
+        "state": "OK",
+        "postalCode": "74047",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "GynOnc Rounding Hospital"
+        ],
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1120 SO UTICA"
+        ],
+        "city": "TULSA",
+        "state": "OK",
+        "postalCode": "74104",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "8801 S 101ST E AVE"
+        ],
+        "city": "TULSA",
+        "state": "OK",
+        "postalCode": "74133",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "744 WEST 9TH"
+        ],
+        "city": "TULSA",
+        "state": "OK",
+        "postalCode": "74127",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "city": "Tulsa",
+        "state": "OK",
+        "postalCode": "74104",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "600 South Adams",
+          "ABOVE FAX NUMBER IS GOOD AND COMES TO THIS INBOUND"
+        ],
+        "city": "Stillwater",
+        "state": "OK",
+        "postalCode": "74074-4370",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "8131 S Memorial DR",
+          "#105"
+        ],
+        "city": "Tulsa",
+        "state": "OK",
+        "postalCode": "74133",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "233 Spring St"
+        ],
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10013",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "12697 E. 51st St. South"
+        ],
+        "city": "Tulsa",
+        "state": "OK",
+        "postalCode": "74146",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
           "901 N. Strong Blvd."
         ],
         "city": "McAlester",
@@ -446,7 +298,177 @@
       {
         "use": "work",
         "type": "postal",
+        "line": [
+          "1819 E 19th St., Suite 500"
+        ],
         "city": "Tulsa",
+        "state": "OK",
+        "postalCode": "74104",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "12697 E. 51st Street South"
+        ],
+        "city": "Tulsa",
+        "state": "OK",
+        "postalCode": "74146",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "800 West Boise Circle",
+          "Suite 400"
+        ],
+        "city": "Broken Arrow",
+        "state": "OK",
+        "postalCode": "74012",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "6161 SO YALE"
+        ],
+        "city": "TULSA",
+        "state": "OK",
+        "postalCode": "74136",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1923 SO UTICA"
+        ],
+        "city": "TULSA",
+        "state": "OK",
+        "postalCode": "74104",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "6901 SO OLYMPIA"
+        ],
+        "city": "TULSA",
+        "state": "OK",
+        "postalCode": "74132",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1120 SO UTICA"
+        ],
+        "city": "TULSA",
+        "state": "OK",
+        "postalCode": "74104",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "8801 S 101ST E AVE"
+        ],
+        "city": "TULSA",
+        "state": "OK",
+        "postalCode": "74133",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2408 E 81ST STREET"
+        ],
+        "city": "TULSA",
+        "state": "OK",
+        "postalCode": "74137",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "744 WEST 9TH"
+        ],
+        "city": "TULSA",
+        "state": "OK",
+        "postalCode": "74127",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "6161 SO YALE"
+        ],
+        "city": "TULSA",
+        "state": "OK",
+        "postalCode": "74136",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1923 SO UTICA"
+        ],
+        "city": "TULSA",
+        "state": "OK",
+        "postalCode": "74104",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "6901 SO OLYMPIA"
+        ],
+        "city": "TULSA",
+        "state": "OK",
+        "postalCode": "74132",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1125 South Trenton  3rd Floor"
+        ],
+        "city": "Tulsa",
+        "state": "OK",
+        "postalCode": "74120",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "Scheduling Fax Number"
+        ],
+        "city": "McAlester",
+        "state": "OK",
+        "postalCode": "74501",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1923 S UTICA",
+          "4 SOUTH"
+        ],
+        "city": "TULSA",
         "state": "OK",
         "postalCode": "74104",
         "country": "USA"
@@ -460,28 +482,6 @@
         "city": "Tulsa",
         "state": "OK",
         "postalCode": "74146",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "111 Medical Center Drive"
-        ],
-        "city": "Pleasanton",
-        "state": "CA",
-        "postalCode": "94000",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "233 Spring St"
-        ],
-        "city": "New York",
-        "state": "NY",
-        "postalCode": "10013",
         "country": "USA"
       }
     ],

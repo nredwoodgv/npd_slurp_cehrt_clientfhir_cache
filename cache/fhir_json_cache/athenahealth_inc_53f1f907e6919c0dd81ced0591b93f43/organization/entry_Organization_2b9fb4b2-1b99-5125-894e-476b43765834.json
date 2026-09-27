@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346044401"
+        "value": "1396961322"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396961322"
+        "value": "1346044401"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2000 Pine St"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79601-2434"
-      },
       {
         "line": [
           "301 Jenny George Ln. Building B"
@@ -45,6 +37,14 @@
         "city": "ABILENE",
         "state": "TX",
         "postalCode": "79606-5279"
+      },
+      {
+        "line": [
+          "2000 Pine St"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79601-2434"
       }
     ],
     "extension": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043501448"
+        "value": "1891755351"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891755351"
+        "value": "1043501448"
       }
     ],
     "address": [
@@ -41,14 +41,6 @@
       },
       {
         "line": [
-          "4646 N MARINE DR"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60640-5759"
-      },
-      {
-        "line": [
           "2400 N Ashland Ave"
         ],
         "city": "CHICAGO",
@@ -62,6 +54,14 @@
         "city": "OAK PARK",
         "state": "IL",
         "postalCode": "60304-1097"
+      },
+      {
+        "line": [
+          "4646 N MARINE DR"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60640-5759"
       }
     ],
     "extension": [

@@ -14,14 +14,30 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811942451"
+        "value": "1730136474"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730136474"
+        "value": "1811942451"
       }
     ],
     "address": [
+      {
+        "line": [
+          "845 N Michigan Avenue"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60611-2252"
+      },
+      {
+        "line": [
+          "505 Pintail Trace"
+        ],
+        "city": "CHESTERTON",
+        "state": "IN",
+        "postalCode": "46304-3072"
+      },
       {
         "line": [
           "331 W SURF ST",
@@ -33,27 +49,11 @@
       },
       {
         "line": [
-          "845 N Michigan Avenue"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60611-2252"
-      },
-      {
-        "line": [
           "998 N 129th Infantry Dr"
         ],
         "city": "JOLIET",
         "state": "IL",
         "postalCode": "60435-3159"
-      },
-      {
-        "line": [
-          "505 Pintail Trace"
-        ],
-        "city": "CHESTERTON",
-        "state": "IN",
-        "postalCode": "46304-3072"
       }
     ],
     "extension": [

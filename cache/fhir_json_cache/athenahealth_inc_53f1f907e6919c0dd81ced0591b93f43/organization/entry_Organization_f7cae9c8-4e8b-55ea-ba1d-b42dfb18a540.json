@@ -14,18 +14,17 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972459089"
+        "value": "1144357633"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144357633"
+        "value": "1972459089"
       }
     ],
     "address": [
       {
         "line": [
-          "3025 Hamaker Ct",
-          "Ste 350"
+          "3025 HAMAKER CT. SUITE 350"
         ],
         "city": "FAIRFAX",
         "state": "VA",
@@ -33,7 +32,8 @@
       },
       {
         "line": [
-          "3025 HAMAKER CT. SUITE 350"
+          "3025 Hamaker Ct",
+          "Ste 350"
         ],
         "city": "FAIRFAX",
         "state": "VA",

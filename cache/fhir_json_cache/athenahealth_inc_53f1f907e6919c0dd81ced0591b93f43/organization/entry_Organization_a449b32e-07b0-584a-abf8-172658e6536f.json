@@ -14,37 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215561329"
+        "value": "1538677026"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538677026"
+        "value": "1215561329"
       }
     ],
     "address": [
       {
         "line": [
-          "1634 LAKE LANSING RD"
+          "11656 HARTEL RD"
         ],
-        "city": "LANSING",
+        "city": "GRAND LEDGE",
         "state": "MI",
-        "postalCode": "48912-3709"
+        "postalCode": "48837-8148"
       },
       {
         "line": [
-          "303 W WEBB DR"
-        ],
-        "city": "DEWITT",
-        "state": "MI",
-        "postalCode": "48820-7955"
-      },
-      {
-        "line": [
-          "16260 PARK LAKE RD"
+          "3255 E COLEMAN RD"
         ],
         "city": "EAST LANSING",
         "state": "MI",
-        "postalCode": "48823-9480"
+        "postalCode": "48823-7330"
       },
       {
         "line": [
@@ -56,19 +48,19 @@
       },
       {
         "line": [
-          "11656 HARTEL RD"
-        ],
-        "city": "GRAND LEDGE",
-        "state": "MI",
-        "postalCode": "48837-8148"
-      },
-      {
-        "line": [
-          "1627 LAKE LANSING RD STE 200"
+          "1634 LAKE LANSING RD"
         ],
         "city": "LANSING",
         "state": "MI",
-        "postalCode": "48912-3788"
+        "postalCode": "48912-3709"
+      },
+      {
+        "line": [
+          "16260 PARK LAKE RD"
+        ],
+        "city": "EAST LANSING",
+        "state": "MI",
+        "postalCode": "48823-9480"
       },
       {
         "line": [
@@ -88,11 +80,19 @@
       },
       {
         "line": [
-          "3255 E COLEMAN RD"
+          "1627 LAKE LANSING RD STE 200"
         ],
-        "city": "EAST LANSING",
+        "city": "LANSING",
         "state": "MI",
-        "postalCode": "48823-7330"
+        "postalCode": "48912-3788"
+      },
+      {
+        "line": [
+          "303 W WEBB DR"
+        ],
+        "city": "DEWITT",
+        "state": "MI",
+        "postalCode": "48820-7955"
       }
     ],
     "extension": [

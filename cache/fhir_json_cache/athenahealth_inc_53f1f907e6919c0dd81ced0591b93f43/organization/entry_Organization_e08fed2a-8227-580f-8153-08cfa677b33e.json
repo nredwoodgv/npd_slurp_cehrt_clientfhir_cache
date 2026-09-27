@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285931089"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649228966"
+        "value": "1932402484"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932402484"
+        "value": "1649228966"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285931089"
       }
     ],
     "address": [
@@ -48,6 +48,30 @@
       },
       {
         "line": [
+          "441 Piney Forest Road"
+        ],
+        "city": "DANVILLE",
+        "state": "VA",
+        "postalCode": "24540-4154"
+      },
+      {
+        "line": [
+          "12318 Boydton Plank Road"
+        ],
+        "city": "DINWIDDIE",
+        "state": "VA",
+        "postalCode": "23841-2454"
+      },
+      {
+        "line": [
+          "1314 Riverland Rd. SE"
+        ],
+        "city": "ROANOKE",
+        "state": "VA",
+        "postalCode": "24014-3610"
+      },
+      {
+        "line": [
           "5163 CLEVELAND STREET"
         ],
         "city": "VIRGINIA BEACH",
@@ -64,30 +88,6 @@
       },
       {
         "line": [
-          "12318 Boydton Plank Road"
-        ],
-        "city": "DINWIDDIE",
-        "state": "VA",
-        "postalCode": "23841-2454"
-      },
-      {
-        "line": [
-          "34 MAGNOLIA SQ."
-        ],
-        "city": "LEXINGTON",
-        "state": "VA",
-        "postalCode": "24450-9998"
-      },
-      {
-        "line": [
-          "1314 Riverland Rd. SE"
-        ],
-        "city": "ROANOKE",
-        "state": "VA",
-        "postalCode": "24014-3610"
-      },
-      {
-        "line": [
           "1200 Sterrett Rd."
         ],
         "city": "FAIRFIELD",
@@ -96,11 +96,11 @@
       },
       {
         "line": [
-          "441 Piney Forest Road"
+          "34 MAGNOLIA SQ."
         ],
-        "city": "DANVILLE",
+        "city": "LEXINGTON",
         "state": "VA",
-        "postalCode": "24540-4154"
+        "postalCode": "24450-9998"
       }
     ],
     "extension": [

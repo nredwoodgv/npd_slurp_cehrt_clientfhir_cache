@@ -14,42 +14,33 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700934593"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1316939101"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386839819"
+        "value": "1225357395"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225357395"
+        "value": "1700934593"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386839819"
       }
     ],
     "address": [
       {
         "line": [
-          "9007 E. SHEA BLVD.",
-          "SUITE A"
+          "1616 E Maryland Ave"
         ],
-        "city": "SCOTTSDALE",
+        "city": "Phoenix",
         "state": "AZ",
-        "postalCode": "85260-7900"
+        "postalCode": "85016-1302"
       },
       {
         "line": [
-          "9003 E SHEA BLVD"
-        ],
-        "city": "SCOTTSDALE",
-        "state": "AZ",
-        "postalCode": "85260-6709"
-      },
-      {
-        "line": [
-          "1616 E MARYLAND AVE"
+          "1616 E Maryland Ave"
         ],
         "city": "PHOENIX",
         "state": "AZ",
@@ -65,11 +56,28 @@
       },
       {
         "line": [
-          "1616 E Maryland Ave"
+          "9007 E. SHEA BLVD.",
+          "SUITE A"
         ],
-        "city": "Phoenix",
+        "city": "SCOTTSDALE",
+        "state": "AZ",
+        "postalCode": "85260-7900"
+      },
+      {
+        "line": [
+          "1616 E MARYLAND AVE"
+        ],
+        "city": "PHOENIX",
         "state": "AZ",
         "postalCode": "85016-1302"
+      },
+      {
+        "line": [
+          "9003 E SHEA BLVD"
+        ],
+        "city": "SCOTTSDALE",
+        "state": "AZ",
+        "postalCode": "85260-6709"
       },
       {
         "line": [
@@ -78,14 +86,6 @@
         "city": "PHOENIX",
         "state": "AZ",
         "postalCode": "85006-2622"
-      },
-      {
-        "line": [
-          "1616 E Maryland Ave"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85016-1302"
       },
       {
         "line": [

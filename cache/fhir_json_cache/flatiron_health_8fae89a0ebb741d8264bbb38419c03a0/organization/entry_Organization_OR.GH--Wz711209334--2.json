@@ -18,15 +18,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "000000000"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "Don't Know-Placehold"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1841298999"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "000000000"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,35 +38,15 @@
     "telecom": [
       {
         "system": "phone",
-        "value": "(205)592-5077"
+        "value": "(205)939-7880"
       },
       {
         "system": "phone",
-        "value": "(205)263-9735"
+        "value": "(205)803-4330"
       },
       {
         "system": "phone",
-        "value": "(555)867-5309"
-      },
-      {
-        "system": "phone",
-        "value": "(205)620-8100"
-      },
-      {
-        "system": "phone",
-        "value": "(205)870-4783"
-      },
-      {
-        "system": "phone",
-        "value": "(205)786-6983"
-      },
-      {
-        "system": "phone",
-        "value": "(205)838-3000"
-      },
-      {
-        "system": "phone",
-        "value": "(205)664-4051"
+        "value": "(205)856-8488"
       },
       {
         "system": "phone",
@@ -82,7 +62,23 @@
       },
       {
         "system": "phone",
-        "value": "(205)803-4330"
+        "value": "(205)877-5145"
+      },
+      {
+        "system": "phone",
+        "value": "(555)867-5309"
+      },
+      {
+        "system": "phone",
+        "value": "(205)592-5077"
+      },
+      {
+        "system": "phone",
+        "value": "(205)620-8100"
+      },
+      {
+        "system": "phone",
+        "value": "(205)838-3000"
       },
       {
         "system": "phone",
@@ -90,19 +86,23 @@
       },
       {
         "system": "phone",
+        "value": "(205)263-9735"
+      },
+      {
+        "system": "phone",
+        "value": "(205)786-6983"
+      },
+      {
+        "system": "phone",
+        "value": "(205)664-4051"
+      },
+      {
+        "system": "phone",
         "value": "(205)753-4065"
       },
       {
         "system": "phone",
-        "value": "(205)877-5145"
-      },
-      {
-        "system": "phone",
-        "value": "(205)939-7880"
-      },
-      {
-        "system": "phone",
-        "value": "(205)856-8488"
+        "value": "(205)870-4783"
       }
     ],
     "address": [
@@ -110,56 +110,23 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "3686 Grandview Parkway",
-          "Suite 540"
-        ],
-        "city": "Birmingham",
-        "state": "AL",
-        "postalCode": "35243",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1313 Mockingbird Lane"
-        ],
-        "city": "Mockingbird Heights",
-        "state": "CA",
-        "postalCode": "90210",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1313 Mockingbird Lane"
-        ],
-        "city": "Mockingbird Heights",
-        "state": "CA",
-        "postalCode": "90210",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1000 First Street North"
-        ],
-        "city": "Alabaster",
-        "state": "AL",
-        "postalCode": "35007",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "3670 Grandview Parkway",
+          "2728 10th Avenue South",
           "Suite 200"
         ],
         "city": "Birmingham",
         "state": "AL",
+        "postalCode": "35205",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2550 Acton Road",
+          "Suite 150"
+        ],
+        "city": "Birmingham",
+        "state": "AL",
         "postalCode": "35243",
         "country": "USA"
       },
@@ -167,46 +134,12 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "2022 Medical Center Drive",
-          "Suite 628"
-        ],
-        "city": "Birmingham",
-        "state": "AL",
-        "postalCode": "35209",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "833 Princeton Ave SW",
-          "POB III, Suite 105-A"
-        ],
-        "city": "Birmingham",
-        "state": "AL",
-        "postalCode": "35211",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "50 Medical Park East Drive"
+          "52 Medical Park Drive East",
+          "Suite 101"
         ],
         "city": "Birmingham",
         "state": "AL",
         "postalCode": "35235",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1024 First Street North"
-        ],
-        "city": "Alabaster",
-        "state": "AL",
-        "postalCode": "35007",
         "country": "USA"
       },
       {
@@ -247,12 +180,68 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "2550 Acton Road",
-          "Suite 150"
+          "2006 Brookwood Medical Center Dr",
+          "Women's Medical Plaza Suite 104"
+        ],
+        "city": "Birmingham",
+        "state": "AL",
+        "postalCode": "35209",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1313 Mockingbird Lane"
+        ],
+        "city": "Mockingbird Heights",
+        "state": "CA",
+        "postalCode": "90210",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1313 Mockingbird Lane"
+        ],
+        "city": "Mockingbird Heights",
+        "state": "CA",
+        "postalCode": "90210",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "3686 Grandview Parkway",
+          "Suite 540"
         ],
         "city": "Birmingham",
         "state": "AL",
         "postalCode": "35243",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1000 First Street North"
+        ],
+        "city": "Alabaster",
+        "state": "AL",
+        "postalCode": "35007",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "50 Medical Park East Drive"
+        ],
+        "city": "Birmingham",
+        "state": "AL",
+        "postalCode": "35235",
         "country": "USA"
       },
       {
@@ -270,6 +259,29 @@
         "use": "work",
         "type": "postal",
         "line": [
+          "833 Princeton Ave SW",
+          "POB III, Suite 105-A"
+        ],
+        "city": "Birmingham",
+        "state": "AL",
+        "postalCode": "35211",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1024 First Street North"
+        ],
+        "city": "Alabaster",
+        "state": "AL",
+        "postalCode": "35007",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
           "70 Plaza Drive"
         ],
         "city": "Pell City",
@@ -281,36 +293,24 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "2006 Brookwood Medical Center Dr",
-          "Women's Medical Plaza Suite 104"
-        ],
-        "city": "Birmingham",
-        "state": "AL",
-        "postalCode": "35209",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "2728 10th Avenue South",
+          "3670 Grandview Parkway",
           "Suite 200"
         ],
         "city": "Birmingham",
         "state": "AL",
-        "postalCode": "35205",
+        "postalCode": "35243",
         "country": "USA"
       },
       {
         "use": "work",
         "type": "postal",
         "line": [
-          "52 Medical Park Drive East",
-          "Suite 101"
+          "2022 Medical Center Drive",
+          "Suite 628"
         ],
         "city": "Birmingham",
         "state": "AL",
-        "postalCode": "35235",
+        "postalCode": "35209",
         "country": "USA"
       },
       {

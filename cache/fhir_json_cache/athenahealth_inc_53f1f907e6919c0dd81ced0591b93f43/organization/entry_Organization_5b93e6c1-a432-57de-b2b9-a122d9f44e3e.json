@@ -18,15 +18,15 @@
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
+        "value": "36D0327316"
+      },
+      {
+        "system": "urn:oid:2.16.840.1.113883.4.7",
         "value": "36D0931052"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
         "value": "36D0931053"
-      },
-      {
-        "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "36D0327316"
       }
     ],
     "address": [
@@ -39,18 +39,18 @@
         "postalCode": "43016-8518"
       },
       {
-        "line": [],
-        "city": "COLUMBUS",
+        "line": [
+          "6870 Perimeter Drive, Ste A"
+        ],
+        "city": "Dublin",
         "state": "OH",
-        "postalCode": "43214-1111"
+        "postalCode": "43016-1196"
       },
       {
-        "line": [
-          "921 B JasonwayAvenue"
-        ],
-        "city": "Columbus",
+        "line": [],
+        "city": "DUBLIN",
         "state": "OH",
-        "postalCode": "43214-2330"
+        "postalCode": "43016-1212"
       },
       {
         "line": [
@@ -61,20 +61,6 @@
         "postalCode": "43214-3908"
       },
       {
-        "line": [],
-        "city": "DUBLIN",
-        "state": "OH",
-        "postalCode": "43016-1212"
-      },
-      {
-        "line": [
-          "6870 Perimeter Drive, Ste A"
-        ],
-        "city": "Dublin",
-        "state": "OH",
-        "postalCode": "43016-1196"
-      },
-      {
         "line": [
           "484 County Line Road West",
           "Suite 230"
@@ -82,6 +68,20 @@
         "city": "Westerville",
         "state": "OH",
         "postalCode": "43082-7080"
+      },
+      {
+        "line": [
+          "921 B JasonwayAvenue"
+        ],
+        "city": "Columbus",
+        "state": "OH",
+        "postalCode": "43214-2330"
+      },
+      {
+        "line": [],
+        "city": "COLUMBUS",
+        "state": "OH",
+        "postalCode": "43214-1111"
       }
     ],
     "extension": [

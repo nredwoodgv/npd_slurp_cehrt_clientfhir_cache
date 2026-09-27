@@ -14,6 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396798302"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437194669"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1033294673"
       },
       {
@@ -26,25 +34,32 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437194669"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396798302"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1902043433"
       }
     ],
     "address": [
       {
         "line": [
-          "4323 Carothers Parkway, Ste 308"
+          "518 West Main St, Suite B"
         ],
-        "city": "FRANKLIN",
+        "city": "SMITHVILLE",
         "state": "TN",
-        "postalCode": "37067-5918"
+        "postalCode": "37166-1100"
+      },
+      {
+        "line": [
+          "1800 Medical Ctr Pkwy",
+          "Suite 410"
+        ],
+        "city": "Murfreesboro",
+        "state": "TN",
+        "postalCode": "37129-3182"
+      },
+      {
+        "line": [],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37228-1330"
       },
       {
         "line": [
@@ -56,36 +71,27 @@
       },
       {
         "line": [
-          "518 WEST MAIN ST, STE B"
+          "322 Kennedy St"
         ],
-        "city": "SMITHVILLE",
+        "city": "Lawrenceburg",
         "state": "TN",
-        "postalCode": "37166-1138"
+        "postalCode": "38464-2122"
       },
       {
         "line": [
-          "110 St Blaise Road"
+          "122 East Franklin Street"
         ],
         "city": "GALLATIN",
         "state": "TN",
-        "postalCode": "37066-3089"
+        "postalCode": "37066-2828"
       },
       {
         "line": [
-          "300 20th Ave N",
-          "Suite G2"
+          "4323 Carothers Parkway, Ste 308"
         ],
-        "city": "Nashville",
+        "city": "FRANKLIN",
         "state": "TN",
-        "postalCode": "37203-2132"
-      },
-      {
-        "line": [
-          "652 NORTH CEDAR AVENUE"
-        ],
-        "city": "COOKEVILLE",
-        "state": "TN",
-        "postalCode": "38501-1710"
+        "postalCode": "37067-5918"
       },
       {
         "line": [
@@ -97,126 +103,19 @@
       },
       {
         "line": [
-          "322 Kennedy St"
+          "401 SEWELL DRIVE"
         ],
-        "city": "Lawrenceburg",
-        "state": "TN",
-        "postalCode": "38464-2122"
-      },
-      {
-        "line": [
-          "417 Sewell Drive"
-        ],
-        "city": "Sparta",
+        "city": "SPARTA",
         "state": "TN",
         "postalCode": "38583-0001"
       },
       {
         "line": [
-          "300 20th Ave N",
-          "Ste G8"
+          "131 French Landing Dr"
         ],
         "city": "NASHVILLE",
         "state": "TN",
-        "postalCode": "37203-2225"
-      },
-      {
-        "line": [
-          "735 McFarland Street"
-        ],
-        "city": "MORRISTOWN",
-        "state": "TN",
-        "postalCode": "37814-3977"
-      },
-      {
-        "line": [
-          "1040 N James Campbell Blvd",
-          "Suite 101"
-        ],
-        "city": "COLUMBIA",
-        "state": "TN",
-        "postalCode": "38401-2758"
-      },
-      {
-        "line": [
-          "518 West Main St, Suite B"
-        ],
-        "city": "SMITHVILLE",
-        "state": "TN",
-        "postalCode": "37166-1100"
-      },
-      {
-        "line": [
-          "4220 Harding Rd",
-          "Suite 500"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37205-2005"
-      },
-      {
-        "line": [
-          "114 Saundersville Rd"
-        ],
-        "city": "Hendersonville",
-        "state": "TN",
-        "postalCode": "37075-2482"
-      },
-      {
-        "line": [
-          "220 CUMBERLAND BND"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37228-1804"
-      },
-      {
-        "line": [
-          "300 20th Ave. N. 9th Floor"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37203-5600"
-      },
-      {
-        "line": [
-          "1040 N James Campbell Blvd Ste 101"
-        ],
-        "city": "COLUMBIA",
-        "state": "TN",
-        "postalCode": "38401-2758"
-      },
-      {
-        "line": [
-          "2650 N. Mt. Juliet Rd"
-        ],
-        "city": "MOUNT JULIET",
-        "state": "TN",
-        "postalCode": "37122-8015"
-      },
-      {
-        "line": [
-          "268 Veterans Blvd"
-        ],
-        "city": "MURFREESBORO",
-        "state": "TN",
-        "postalCode": "37128-6431"
-      },
-      {
-        "line": [
-          "2319 Rudolphtown Rd Suite A"
-        ],
-        "city": "CLARKSVILLE",
-        "state": "TN",
-        "postalCode": "37043-2382"
-      },
-      {
-        "line": [
-          "647 Dunlop Lane Suite 200"
-        ],
-        "city": "CLARKSVILLE",
-        "state": "TN",
-        "postalCode": "37040-5165"
+        "postalCode": "37228-1511"
       },
       {
         "line": [
@@ -228,35 +127,19 @@
       },
       {
         "line": [
-          "324 Doolittle Rd"
-        ],
-        "city": "WOODBURY",
-        "state": "TN",
-        "postalCode": "37190-1139"
-      },
-      {
-        "line": [
-          "2835 Hwy 231 North"
-        ],
-        "city": "Shelbyville",
-        "state": "TN",
-        "postalCode": "37160-7327"
-      },
-      {
-        "line": [
-          "1911 State Street"
+          "220 CUMBERLAND BND"
         ],
         "city": "NASHVILLE",
         "state": "TN",
-        "postalCode": "37203-2209"
+        "postalCode": "37228-1804"
       },
       {
         "line": [
-          "120 WALNUT COMMONS LN, STE D"
+          "108 Providence Trail, Suite 100"
         ],
-        "city": "COOKEVILLE",
+        "city": "MOUNT JULIET",
         "state": "TN",
-        "postalCode": "38501-4243"
+        "postalCode": "37122-6386"
       },
       {
         "line": [
@@ -269,102 +152,6 @@
       },
       {
         "line": [
-          "122 East Franklin Street"
-        ],
-        "city": "GALLATIN",
-        "state": "TN",
-        "postalCode": "37066-2828"
-      },
-      {
-        "line": [
-          "4230 Harding Road Suite 535"
-        ],
-        "city": "Nashville",
-        "state": "TN",
-        "postalCode": "37205-2018"
-      },
-      {
-        "line": [
-          "131 French Landing Dr"
-        ],
-        "city": "Nashville",
-        "state": "TN",
-        "postalCode": "37228-1511"
-      },
-      {
-        "line": [
-          "2004 Hayes Street, Suite 140"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37203-2648"
-      },
-      {
-        "line": [
-          "108 Providence Trail, Suite 100"
-        ],
-        "city": "MOUNT JULIET",
-        "state": "TN",
-        "postalCode": "37122-6386"
-      },
-      {
-        "line": [],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37228-1330"
-      },
-      {
-        "line": [
-          "131 French Landing Dr"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37228-1511"
-      },
-      {
-        "line": [
-          "35 TAYLOR AVE., STE 103"
-        ],
-        "city": "CROSSVILLE",
-        "state": "TN",
-        "postalCode": "38555-4526"
-      },
-      {
-        "line": [
-          "1040 N James Campbell Blvd",
-          "Suite 101"
-        ],
-        "city": "Columbia",
-        "state": "TN",
-        "postalCode": "38401-2758"
-      },
-      {
-        "line": [
-          "401 SEWELL DRIVE"
-        ],
-        "city": "SPARTA",
-        "state": "TN",
-        "postalCode": "38583-0001"
-      },
-      {
-        "line": [
-          "2835 Highway 231 North"
-        ],
-        "city": "Shelbyville",
-        "state": "TN",
-        "postalCode": "37160-7327"
-      },
-      {
-        "line": [
-          "1589 Sparta Rd",
-          "Suite 205"
-        ],
-        "city": "McMinnville",
-        "state": "TN",
-        "postalCode": "37110-1332"
-      },
-      {
-        "line": [
           "4230 HARDING PK, STE 901"
         ],
         "city": "NASHVILLE",
@@ -373,19 +160,19 @@
       },
       {
         "line": [
-          "1800 Medical Center Pkwy, Suite 120"
+          "300 20th Ave. N. 9th Floor"
         ],
-        "city": "MURFREESBORO",
+        "city": "NASHVILLE",
         "state": "TN",
-        "postalCode": "37129-2568"
+        "postalCode": "37203-5600"
       },
       {
         "line": [
-          "411 SEWELL ROAD"
+          "110 St Blaise Road"
         ],
-        "city": "SPARTA",
+        "city": "GALLATIN",
         "state": "TN",
-        "postalCode": "38583-1223"
+        "postalCode": "37066-3089"
       },
       {
         "line": [
@@ -398,12 +185,225 @@
       },
       {
         "line": [
-          "1800 Medical Ctr Pkwy",
-          "Suite 410"
+          "1040 N James Campbell Blvd",
+          "Suite 101"
         ],
-        "city": "Murfreesboro",
+        "city": "COLUMBIA",
         "state": "TN",
-        "postalCode": "37129-3182"
+        "postalCode": "38401-2758"
+      },
+      {
+        "line": [
+          "2835 Hwy 231 North"
+        ],
+        "city": "Shelbyville",
+        "state": "TN",
+        "postalCode": "37160-7327"
+      },
+      {
+        "line": [
+          "114 Saundersville Rd"
+        ],
+        "city": "Hendersonville",
+        "state": "TN",
+        "postalCode": "37075-2482"
+      },
+      {
+        "line": [
+          "2835 Highway 231 North"
+        ],
+        "city": "Shelbyville",
+        "state": "TN",
+        "postalCode": "37160-7327"
+      },
+      {
+        "line": [
+          "4230 Harding Road Suite 535"
+        ],
+        "city": "Nashville",
+        "state": "TN",
+        "postalCode": "37205-2018"
+      },
+      {
+        "line": [
+          "268 Veterans Blvd"
+        ],
+        "city": "MURFREESBORO",
+        "state": "TN",
+        "postalCode": "37128-6431"
+      },
+      {
+        "line": [
+          "2004 Hayes Street, Suite 140"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37203-2648"
+      },
+      {
+        "line": [
+          "1911 State Street"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37203-2209"
+      },
+      {
+        "line": [
+          "518 WEST MAIN ST, STE B"
+        ],
+        "city": "SMITHVILLE",
+        "state": "TN",
+        "postalCode": "37166-1138"
+      },
+      {
+        "line": [
+          "2319 Rudolphtown Rd Suite A"
+        ],
+        "city": "CLARKSVILLE",
+        "state": "TN",
+        "postalCode": "37043-2382"
+      },
+      {
+        "line": [
+          "300 20th Ave N",
+          "Suite G2"
+        ],
+        "city": "Nashville",
+        "state": "TN",
+        "postalCode": "37203-2132"
+      },
+      {
+        "line": [
+          "411 SEWELL ROAD"
+        ],
+        "city": "SPARTA",
+        "state": "TN",
+        "postalCode": "38583-1223"
+      },
+      {
+        "line": [
+          "35 TAYLOR AVE., STE 103"
+        ],
+        "city": "CROSSVILLE",
+        "state": "TN",
+        "postalCode": "38555-4526"
+      },
+      {
+        "line": [
+          "120 WALNUT COMMONS LN, STE D"
+        ],
+        "city": "COOKEVILLE",
+        "state": "TN",
+        "postalCode": "38501-4243"
+      },
+      {
+        "line": [
+          "417 Sewell Drive"
+        ],
+        "city": "Sparta",
+        "state": "TN",
+        "postalCode": "38583-0001"
+      },
+      {
+        "line": [
+          "2650 N. Mt. Juliet Rd"
+        ],
+        "city": "MOUNT JULIET",
+        "state": "TN",
+        "postalCode": "37122-8015"
+      },
+      {
+        "line": [
+          "300 20th Ave N",
+          "Ste G8"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37203-2225"
+      },
+      {
+        "line": [
+          "1040 N James Campbell Blvd",
+          "Suite 101"
+        ],
+        "city": "Columbia",
+        "state": "TN",
+        "postalCode": "38401-2758"
+      },
+      {
+        "line": [
+          "1040 N James Campbell Blvd Ste 101"
+        ],
+        "city": "COLUMBIA",
+        "state": "TN",
+        "postalCode": "38401-2758"
+      },
+      {
+        "line": [
+          "324 Doolittle Rd"
+        ],
+        "city": "WOODBURY",
+        "state": "TN",
+        "postalCode": "37190-1139"
+      },
+      {
+        "line": [
+          "1589 Sparta Rd",
+          "Suite 205"
+        ],
+        "city": "McMinnville",
+        "state": "TN",
+        "postalCode": "37110-1332"
+      },
+      {
+        "line": [
+          "131 French Landing Dr"
+        ],
+        "city": "Nashville",
+        "state": "TN",
+        "postalCode": "37228-1511"
+      },
+      {
+        "line": [
+          "647 Dunlop Lane Suite 200"
+        ],
+        "city": "CLARKSVILLE",
+        "state": "TN",
+        "postalCode": "37040-5165"
+      },
+      {
+        "line": [
+          "652 NORTH CEDAR AVENUE"
+        ],
+        "city": "COOKEVILLE",
+        "state": "TN",
+        "postalCode": "38501-1710"
+      },
+      {
+        "line": [
+          "4220 Harding Rd",
+          "Suite 500"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37205-2005"
+      },
+      {
+        "line": [
+          "735 McFarland Street"
+        ],
+        "city": "MORRISTOWN",
+        "state": "TN",
+        "postalCode": "37814-3977"
+      },
+      {
+        "line": [
+          "1800 Medical Center Pkwy, Suite 120"
+        ],
+        "city": "MURFREESBORO",
+        "state": "TN",
+        "postalCode": "37129-2568"
       }
     ],
     "extension": [

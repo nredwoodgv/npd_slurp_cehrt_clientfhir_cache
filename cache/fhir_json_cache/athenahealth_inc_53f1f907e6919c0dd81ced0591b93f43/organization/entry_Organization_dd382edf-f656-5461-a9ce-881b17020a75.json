@@ -18,30 +18,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528061157"
+        "value": "1649551516"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649551516"
+        "value": "1528061157"
       }
     ],
     "address": [
-      {
-        "line": [
-          "920 Santa Fe Drive"
-        ],
-        "city": "WEATHERFORD",
-        "state": "TX",
-        "postalCode": "76086-5864"
-      },
-      {
-        "line": [
-          "800 W Magnolia"
-        ],
-        "city": "FORT WORTH",
-        "state": "TX",
-        "postalCode": "76104-4611"
-      },
       {
         "line": [
           "914 Foster Lane"
@@ -57,6 +41,22 @@
         "city": "WEATHERFORD",
         "state": "TX",
         "postalCode": "76086-8714"
+      },
+      {
+        "line": [
+          "920 Santa Fe Drive"
+        ],
+        "city": "WEATHERFORD",
+        "state": "TX",
+        "postalCode": "76086-5864"
+      },
+      {
+        "line": [
+          "800 W Magnolia"
+        ],
+        "city": "FORT WORTH",
+        "state": "TX",
+        "postalCode": "76104-4611"
       }
     ],
     "extension": [

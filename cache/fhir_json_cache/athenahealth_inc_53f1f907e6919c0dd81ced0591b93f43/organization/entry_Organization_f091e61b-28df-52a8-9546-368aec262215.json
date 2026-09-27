@@ -18,7 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790098218"
+        "value": "1154965093"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154965093"
+        "value": "1790098218"
       }
     ],
     "address": [
@@ -37,6 +37,15 @@
         "city": "CHINO HILLS",
         "state": "CA",
         "postalCode": "91709-2075"
+      },
+      {
+        "line": [
+          "3633 CAMINO DEL RIO S",
+          "STE H"
+        ],
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "postalCode": "92108-4011"
       },
       {
         "line": [
@@ -57,15 +66,6 @@
       },
       {
         "line": [
-          "8945 MAGNOLIA AVE STE 200",
-          "STE 200"
-        ],
-        "city": "RIVERSIDE",
-        "state": "CA",
-        "postalCode": "92503-4436"
-      },
-      {
-        "line": [
           "8945 MAGNOLIA AVE STE 200"
         ],
         "city": "RIVERSIDE",
@@ -82,20 +82,20 @@
       },
       {
         "line": [
-          "3633 CAMINO DEL RIO S",
-          "STE H"
-        ],
-        "city": "SAN DIEGO",
-        "state": "CA",
-        "postalCode": "92108-4011"
-      },
-      {
-        "line": [
           "11825 APPLE VALLEY RD"
         ],
         "city": "APPLE VALLEY",
         "state": "CA",
         "postalCode": "92308-9364"
+      },
+      {
+        "line": [
+          "8945 MAGNOLIA AVE STE 200",
+          "STE 200"
+        ],
+        "city": "RIVERSIDE",
+        "state": "CA",
+        "postalCode": "92503-4436"
       }
     ],
     "extension": [

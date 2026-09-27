@@ -14,29 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013002138"
+        "value": "1811090475"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811090475"
+        "value": "1013002138"
       }
     ],
     "address": [
       {
         "line": [
-          "2901 Maplewood Avenue"
+          "6915 Village Medical Circle"
         ],
-        "city": "WINSTON SALEM",
+        "city": "CLEMMONS",
         "state": "NC",
-        "postalCode": "27103-4074"
-      },
-      {
-        "line": [
-          "2901 Maplewood Avenue"
-        ],
-        "city": "WINSTON SALEM",
-        "state": "NC",
-        "postalCode": "27103-4009"
+        "postalCode": "27012-0209"
       },
       {
         "line": [
@@ -48,11 +40,19 @@
       },
       {
         "line": [
-          "6915 Village Medical Circle"
+          "2901 Maplewood Avenue"
         ],
-        "city": "CLEMMONS",
+        "city": "WINSTON SALEM",
         "state": "NC",
-        "postalCode": "27012-0209"
+        "postalCode": "27103-4009"
+      },
+      {
+        "line": [
+          "2901 Maplewood Avenue"
+        ],
+        "city": "WINSTON SALEM",
+        "state": "NC",
+        "postalCode": "27103-4074"
       },
       {
         "line": [

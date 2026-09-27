@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437536521"
+        "value": "1619517521"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619517521"
+        "value": "1437536521"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,22 +26,6 @@
       }
     ],
     "address": [
-      {
-        "line": [
-          "6640 VAN NUYS BLVD STE 101"
-        ],
-        "city": "VAN NUYS",
-        "state": "CA",
-        "postalCode": "91405-4679"
-      },
-      {
-        "line": [
-          "400 CAMARILLO RANCH RD STE 101"
-        ],
-        "city": "CAMARILLO",
-        "state": "CA",
-        "postalCode": "93012-5901"
-      },
       {
         "line": [
           "1011 RANCHO CONEJO BLVD"
@@ -52,11 +36,11 @@
       },
       {
         "line": [
-          "674 COUNTY SQUARE DR STE 105"
+          "131 N EL MOLINO AVE STE 180"
         ],
-        "city": "VENTURA",
+        "city": "PASADENA",
         "state": "CA",
-        "postalCode": "93003-9014"
+        "postalCode": "91101-5601"
       },
       {
         "line": [
@@ -65,15 +49,6 @@
         "city": "NORTHRIDGE",
         "state": "CA",
         "postalCode": "91324-3920"
-      },
-      {
-        "line": [
-          "1510 E MAIN ST",
-          "STE 103"
-        ],
-        "city": "SANTA MARIA",
-        "state": "CA",
-        "postalCode": "93454-4826"
       },
       {
         "line": [
@@ -86,6 +61,15 @@
       },
       {
         "line": [
+          "1510 E MAIN ST",
+          "STE 103"
+        ],
+        "city": "SANTA MARIA",
+        "state": "CA",
+        "postalCode": "93454-4826"
+      },
+      {
+        "line": [
           "2975 SYCAMORE DR"
         ],
         "city": "SIMI VALLEY",
@@ -94,11 +78,27 @@
       },
       {
         "line": [
-          "131 N EL MOLINO AVE STE 180"
+          "674 COUNTY SQUARE DR STE 105"
         ],
-        "city": "PASADENA",
+        "city": "VENTURA",
         "state": "CA",
-        "postalCode": "91101-5601"
+        "postalCode": "93003-9014"
+      },
+      {
+        "line": [
+          "400 CAMARILLO RANCH RD STE 101"
+        ],
+        "city": "CAMARILLO",
+        "state": "CA",
+        "postalCode": "93012-5901"
+      },
+      {
+        "line": [
+          "6640 VAN NUYS BLVD STE 101"
+        ],
+        "city": "VAN NUYS",
+        "state": "CA",
+        "postalCode": "91405-4679"
       },
       {
         "line": [

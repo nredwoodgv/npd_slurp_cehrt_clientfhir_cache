@@ -14,42 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528556750"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1639111057"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1063917425"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528556750"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2500 BRETON WOODS DR SE"
-        ],
-        "city": "KENTWOOD",
-        "state": "MI",
-        "postalCode": "49512-9122"
-      },
-      {
-        "line": [
-          "200 Jefferson Ave SE"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49503-4502"
-      },
-      {
-        "line": [
-          "3925 32ND AVE,  STE 300"
-        ],
-        "city": "HUDSONVILLE",
-        "state": "MI",
-        "postalCode": "49426-8460"
-      },
       {
         "line": [
           "3290 N WELLNESS DR, STE 220"
@@ -60,11 +36,11 @@
       },
       {
         "line": [
-          "933 3 MILE RD NW, STE 210"
+          "200 Jefferson Ave SE"
         ],
-        "city": "WALKER",
+        "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49544-1673"
+        "postalCode": "49503-4502"
       },
       {
         "line": [
@@ -89,6 +65,30 @@
         "city": "GRAND RAPIDS",
         "state": "MI",
         "postalCode": "49506-8203"
+      },
+      {
+        "line": [
+          "2500 BRETON WOODS DR SE"
+        ],
+        "city": "KENTWOOD",
+        "state": "MI",
+        "postalCode": "49512-9122"
+      },
+      {
+        "line": [
+          "933 3 MILE RD NW, STE 210"
+        ],
+        "city": "WALKER",
+        "state": "MI",
+        "postalCode": "49544-1673"
+      },
+      {
+        "line": [
+          "3925 32ND AVE,  STE 300"
+        ],
+        "city": "HUDSONVILLE",
+        "state": "MI",
+        "postalCode": "49426-8460"
       }
     ],
     "extension": [

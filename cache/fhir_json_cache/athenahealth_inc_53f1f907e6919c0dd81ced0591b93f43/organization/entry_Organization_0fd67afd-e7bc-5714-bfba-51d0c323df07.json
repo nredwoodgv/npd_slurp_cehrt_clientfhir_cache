@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417012758"
+        "value": "1174796486"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174796486"
+        "value": "1417012758"
       }
     ],
     "address": [
       {
         "line": [
-          "400 W 7TH STREET"
+          "197 THOMAS JOHNSON DR"
         ],
         "city": "FREDERICK",
         "state": "MD",
-        "postalCode": "21702-4506"
+        "postalCode": "21702-4314"
       },
       {
         "line": [
@@ -40,8 +40,7 @@
       },
       {
         "line": [
-          "141 Thomas Johnson Drive",
-          "suite 200"
+          "141 THOMAS JOHNSON DR STE 200"
         ],
         "city": "FREDERICK",
         "state": "MD",
@@ -58,11 +57,11 @@
       },
       {
         "line": [
-          "197 THOMAS JOHNSON DR"
+          "400 W 7TH STREET"
         ],
         "city": "FREDERICK",
         "state": "MD",
-        "postalCode": "21702-4314"
+        "postalCode": "21702-4506"
       },
       {
         "line": [
@@ -75,7 +74,8 @@
       },
       {
         "line": [
-          "141 THOMAS JOHNSON DR STE 200"
+          "141 Thomas Johnson Drive",
+          "suite 200"
         ],
         "city": "FREDERICK",
         "state": "MD",

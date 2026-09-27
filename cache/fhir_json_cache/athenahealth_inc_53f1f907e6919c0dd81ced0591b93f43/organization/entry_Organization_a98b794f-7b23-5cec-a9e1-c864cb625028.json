@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861150427"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1467286468"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942969746"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861150427"
+        "value": "1760077481"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,18 +30,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760077481"
+        "value": "1942969746"
       }
     ],
     "address": [
-      {
-        "line": [
-          "15931 Boundary Drive"
-        ],
-        "city": "ASHLAND",
-        "state": "MS",
-        "postalCode": "38603-0092"
-      },
       {
         "line": [
           "1705 Crescent Meadows Drive"
@@ -57,6 +49,14 @@
         "city": "BOONEVILLE",
         "state": "MS",
         "postalCode": "38829-2718"
+      },
+      {
+        "line": [
+          "15931 Boundary Drive"
+        ],
+        "city": "ASHLAND",
+        "state": "MS",
+        "postalCode": "38603-0092"
       }
     ],
     "extension": [

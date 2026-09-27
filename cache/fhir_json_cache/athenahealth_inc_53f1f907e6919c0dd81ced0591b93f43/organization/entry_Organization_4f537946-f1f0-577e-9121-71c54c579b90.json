@@ -14,18 +14,42 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1134979644"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629478599"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1619731320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134979644"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1850 W WINCHESTER RD STE 115"
+        ],
+        "city": "LIBERTYVILLE",
+        "state": "IL",
+        "postalCode": "60048-5357"
+      },
+      {
+        "line": [
+          "1860 W WINCHESTER RD STE 106"
+        ],
+        "city": "LIBERTYVILLE",
+        "state": "IL",
+        "postalCode": "60048-5312"
+      },
+      {
+        "line": [
+          "2520 Elisha Ave"
+        ],
+        "city": "ZION",
+        "state": "IL",
+        "postalCode": "60099-2676"
+      },
       {
         "line": [
           "3815 E BELL RD",
@@ -37,7 +61,24 @@
       },
       {
         "line": [
-          "9327 N 3RD ST STE 200"
+          "4600 GREEN BAY RD"
+        ],
+        "city": "KENOSHA",
+        "state": "WI",
+        "postalCode": "53144-1719"
+      },
+      {
+        "line": [
+          "801 S. MILWAUKEE"
+        ],
+        "city": "LIBERTYVILLE",
+        "state": "IL",
+        "postalCode": "60048-3204"
+      },
+      {
+        "line": [
+          "9327 N 3RD ST",
+          "STE 200"
         ],
         "city": "PHOENIX",
         "state": "AZ",
@@ -53,47 +94,7 @@
       },
       {
         "line": [
-          "2520 Elisha Ave"
-        ],
-        "city": "ZION",
-        "state": "IL",
-        "postalCode": "60099-2676"
-      },
-      {
-        "line": [
-          "801 S. MILWAUKEE"
-        ],
-        "city": "LIBERTYVILLE",
-        "state": "IL",
-        "postalCode": "60048-3204"
-      },
-      {
-        "line": [
-          "4600 GREEN BAY RD"
-        ],
-        "city": "KENOSHA",
-        "state": "WI",
-        "postalCode": "53144-1719"
-      },
-      {
-        "line": [
-          "1850 W WINCHESTER RD STE 115"
-        ],
-        "city": "LIBERTYVILLE",
-        "state": "IL",
-        "postalCode": "60048-5357"
-      },
-      {
-        "line": [
           "1860 W Winchester Road"
-        ],
-        "city": "LIBERTYVILLE",
-        "state": "IL",
-        "postalCode": "60048-5312"
-      },
-      {
-        "line": [
-          "1860 W WINCHESTER RD STE 106"
         ],
         "city": "LIBERTYVILLE",
         "state": "IL",

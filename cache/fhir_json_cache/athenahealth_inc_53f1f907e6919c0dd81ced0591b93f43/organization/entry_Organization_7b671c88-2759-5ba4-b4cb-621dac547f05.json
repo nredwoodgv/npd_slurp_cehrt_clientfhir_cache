@@ -18,11 +18,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740589860"
+        "value": "1366689044"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366689044"
+        "value": "1104261890"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1740589860"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -31,13 +35,17 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669422234"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104261890"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1907 W SYCAMORE"
+        ],
+        "city": "KOKOMO",
+        "state": "IN",
+        "postalCode": "46901-5148"
+      },
       {
         "line": [
           "1907 W SYCAMORE"
@@ -61,14 +69,6 @@
         "city": "CARMEL",
         "state": "IN",
         "postalCode": "46290-1024"
-      },
-      {
-        "line": [
-          "1907 W SYCAMORE"
-        ],
-        "city": "KOKOMO",
-        "state": "IN",
-        "postalCode": "46901-5148"
       }
     ],
     "extension": [

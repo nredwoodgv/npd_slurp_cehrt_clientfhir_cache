@@ -14,26 +14,17 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780903070"
+        "value": "1841811866"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841811866"
+        "value": "1780903070"
       }
     ],
     "address": [
       {
         "line": [
-          "166 Hospital St"
-        ],
-        "city": "MONTICELLO",
-        "state": "KY",
-        "postalCode": "42633-2430"
-      },
-      {
-        "line": [
-          "1 South Creek Dr",
-          "suite 112"
+          "One South Creek Drive"
         ],
         "city": "MONTICELLO",
         "state": "KY",
@@ -58,7 +49,16 @@
       },
       {
         "line": [
-          "One South Creek Drive"
+          "166 Hospital St"
+        ],
+        "city": "MONTICELLO",
+        "state": "KY",
+        "postalCode": "42633-2430"
+      },
+      {
+        "line": [
+          "1 South Creek Dr",
+          "suite 112"
         ],
         "city": "MONTICELLO",
         "state": "KY",

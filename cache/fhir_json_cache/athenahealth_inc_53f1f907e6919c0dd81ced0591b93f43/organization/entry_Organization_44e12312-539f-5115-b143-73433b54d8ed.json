@@ -14,14 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871699074"
+        "value": "1184719809"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184719809"
+        "value": "1871699074"
       }
     ],
     "address": [
+      {
+        "line": [
+          "2089 VALE RD",
+          "SUITE 32"
+        ],
+        "city": "SAN PABLO",
+        "state": "CA",
+        "postalCode": "94806-3850"
+      },
       {
         "line": [
           "350 30TH ST STE 311"
@@ -37,15 +46,6 @@
         "city": "BERKELEY",
         "state": "CA",
         "postalCode": "94705-2017"
-      },
-      {
-        "line": [
-          "2089 VALE RD",
-          "SUITE 32"
-        ],
-        "city": "SAN PABLO",
-        "state": "CA",
-        "postalCode": "94806-3850"
       },
       {
         "line": [

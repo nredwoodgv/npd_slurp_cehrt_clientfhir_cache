@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992598213"
+        "value": "1033985726"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,31 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033985726"
+        "value": "1942076633"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548036239"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134995822"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366329468"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578325759"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447137542"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528945623"
+        "value": "1982470662"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,15 +38,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609669902"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952177644"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245117340"
+        "value": "1548036239"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992598213"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1134995822"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -74,7 +58,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982470662"
+        "value": "1609669902"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528945623"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -86,18 +74,39 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942076633"
+        "value": "1578325759"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447137542"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245117340"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1366329468"
       }
     ],
     "address": [
       {
         "line": [
-          "98-084 Kamehameha Hwy",
-          "Ste 304"
+          "850 W Hind Dr",
+          "Ste 210"
         ],
-        "city": "Aiea",
+        "city": "Honolulu",
         "state": "HI",
-        "postalCode": "96701-5124"
+        "postalCode": "96821-1845"
+      },
+      {
+        "line": [
+          "970 N Kalaheo Ave",
+          "Ste A214"
+        ],
+        "city": "Kailua",
+        "state": "HI",
+        "postalCode": "96734-1857"
       },
       {
         "line": [
@@ -119,15 +128,6 @@
       },
       {
         "line": [
-          "850 W Hind Dr",
-          "Ste 210"
-        ],
-        "city": "Honolulu",
-        "state": "HI",
-        "postalCode": "96821-1845"
-      },
-      {
-        "line": [
           "80 GUEST ST"
         ],
         "city": "BRIGHTON",
@@ -136,12 +136,12 @@
       },
       {
         "line": [
-          "970 N Kalaheo Ave",
-          "Ste A214"
+          "98-084 Kamehameha Hwy",
+          "Ste 304"
         ],
-        "city": "Kailua",
+        "city": "Aiea",
         "state": "HI",
-        "postalCode": "96734-1857"
+        "postalCode": "96701-5124"
       }
     ],
     "extension": [

@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073110607"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659775831"
+        "value": "1073987178"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,17 +26,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073987178"
+        "value": "1073110607"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1659775831"
       }
     ],
     "address": [
       {
         "line": [
-          "1720 E CESAR E CHAVEZ AVE"
+          "12900 PARK PLAZA DR"
         ],
-        "city": "LOS ANGELES",
+        "city": "CERRITOS",
         "state": "CA",
-        "postalCode": "90033-2414"
+        "postalCode": "90703-8564"
       },
       {
         "line": [
@@ -52,19 +52,19 @@
       },
       {
         "line": [
-          "12900 PARK PLAZA DR"
-        ],
-        "city": "CERRITOS",
-        "state": "CA",
-        "postalCode": "90703-8564"
-      },
-      {
-        "line": [
           "7091 E SPEEDWAY BLVD"
         ],
         "city": "TUCSON",
         "state": "AZ",
         "postalCode": "85710-1241"
+      },
+      {
+        "line": [
+          "1720 E CESAR E CHAVEZ AVE"
+        ],
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "postalCode": "90033-2414"
       }
     ],
     "extension": [

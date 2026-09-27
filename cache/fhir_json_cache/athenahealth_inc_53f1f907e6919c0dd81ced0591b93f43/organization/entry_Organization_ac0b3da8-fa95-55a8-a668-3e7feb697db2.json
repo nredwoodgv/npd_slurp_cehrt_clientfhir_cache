@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013031368"
+        "value": "1649228966"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649228966"
+        "value": "1013031368"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,14 +32,6 @@
     "address": [
       {
         "line": [
-          "2542 LANGHORNE ROAD"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24501-1602"
-      },
-      {
-        "line": [
           "3300 RIVERMONT AVENUE"
         ],
         "city": "LYNCHBURG",
@@ -48,11 +40,19 @@
       },
       {
         "line": [
-          "1330 OAK LANE, SUITE 203"
+          "2542 LANGHORNE ROAD"
         ],
         "city": "LYNCHBURG",
         "state": "VA",
-        "postalCode": "24503-2513"
+        "postalCode": "24501-1602"
+      },
+      {
+        "line": [
+          "2401 Atherholt Road"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24501-2184"
       },
       {
         "line": [
@@ -64,11 +64,11 @@
       },
       {
         "line": [
-          "2401 Atherholt Road"
+          "1330 OAK LANE, SUITE 203"
         ],
         "city": "LYNCHBURG",
         "state": "VA",
-        "postalCode": "24501-2184"
+        "postalCode": "24503-2513"
       },
       {
         "line": [

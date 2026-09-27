@@ -14,18 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1063453991"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417967365"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952593915"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063453991"
       }
     ],
     "address": [
+      {
+        "line": [
+          "200 W Cedar St"
+        ],
+        "city": "HESSTON",
+        "state": "KS",
+        "postalCode": "67062-8100"
+      },
       {
         "line": [
           "224 E Central"
@@ -33,14 +41,6 @@
         "city": "ANDOVER",
         "state": "KS",
         "postalCode": "67002-8580"
-      },
-      {
-        "line": [
-          "900 N Bayshore Dr"
-        ],
-        "city": "Wichita",
-        "state": "KS",
-        "postalCode": "67212-4807"
       },
       {
         "line": [
@@ -52,11 +52,11 @@
       },
       {
         "line": [
-          "1605 W May St"
+          "1655 S Georgetown St"
         ],
         "city": "Wichita",
         "state": "KS",
-        "postalCode": "67213-3511"
+        "postalCode": "67218-4140"
       },
       {
         "line": [
@@ -68,19 +68,19 @@
       },
       {
         "line": [
-          "200 W Cedar St"
-        ],
-        "city": "HESSTON",
-        "state": "KS",
-        "postalCode": "67062-8100"
-      },
-      {
-        "line": [
-          "1655 S Georgetown St"
+          "900 N Bayshore Dr"
         ],
         "city": "Wichita",
         "state": "KS",
-        "postalCode": "67218-4140"
+        "postalCode": "67212-4807"
+      },
+      {
+        "line": [
+          "1605 W May St"
+        ],
+        "city": "Wichita",
+        "state": "KS",
+        "postalCode": "67213-3511"
       }
     ],
     "extension": [

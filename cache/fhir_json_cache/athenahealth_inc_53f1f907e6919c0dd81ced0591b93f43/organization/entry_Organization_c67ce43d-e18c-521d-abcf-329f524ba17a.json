@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700119443"
+        "value": "1417989617"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417989617"
+        "value": "1700119443"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,35 +36,11 @@
       },
       {
         "line": [
-          "151 E REDSTONE AVE"
+          "1225 AIRPORT ROAD"
         ],
-        "city": "CRESTVIEW",
+        "city": "DESTIN",
         "state": "FL",
-        "postalCode": "32539-5352"
-      },
-      {
-        "line": [
-          "1950 BLUEWATER BLVD, STE 100"
-        ],
-        "city": "NICEVILLE",
-        "state": "FL",
-        "postalCode": "32578-3888"
-      },
-      {
-        "line": [
-          "1000 MAR WALT DRIVE"
-        ],
-        "city": "FORT WALTON BEACH",
-        "state": "FL",
-        "postalCode": "32547-6708"
-      },
-      {
-        "line": [
-          "1950 BLUEWATER BLVD"
-        ],
-        "city": "NICEVILLE",
-        "state": "FL",
-        "postalCode": "32578-3887"
+        "postalCode": "32541-2909"
       },
       {
         "line": [
@@ -76,11 +52,35 @@
       },
       {
         "line": [
-          "1225 AIRPORT ROAD"
+          "1950 BLUEWATER BLVD, STE 100"
         ],
-        "city": "DESTIN",
+        "city": "NICEVILLE",
         "state": "FL",
-        "postalCode": "32541-2909"
+        "postalCode": "32578-3888"
+      },
+      {
+        "line": [
+          "151 E REDSTONE AVE"
+        ],
+        "city": "CRESTVIEW",
+        "state": "FL",
+        "postalCode": "32539-5352"
+      },
+      {
+        "line": [
+          "1950 BLUEWATER BLVD"
+        ],
+        "city": "NICEVILLE",
+        "state": "FL",
+        "postalCode": "32578-3887"
+      },
+      {
+        "line": [
+          "1000 MAR WALT DRIVE"
+        ],
+        "city": "FORT WALTON BEACH",
+        "state": "FL",
+        "postalCode": "32547-6708"
       }
     ],
     "extension": [

@@ -14,25 +14,25 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1194320267"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1144797614"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1750849428"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194320267"
       }
     ],
     "address": [
       {
         "line": [
-          "13000 Technology Drive"
+          "10532 N. Port Washington Rd, Ste 1A"
         ],
-        "city": "EDEN PRAIRIE",
-        "state": "MN",
-        "postalCode": "55344-3606"
+        "city": "MEQUON",
+        "state": "WI",
+        "postalCode": "53092-5563"
       },
       {
         "line": [
@@ -41,6 +41,14 @@
         "city": "CHICAGO",
         "state": "IL",
         "postalCode": "60638-6625"
+      },
+      {
+        "line": [
+          "13000 Technology Drive"
+        ],
+        "city": "EDEN PRAIRIE",
+        "state": "MN",
+        "postalCode": "55344-3606"
       },
       {
         "line": [
@@ -57,14 +65,6 @@
         "city": "GREEN BAY",
         "state": "WI",
         "postalCode": "54311-4296"
-      },
-      {
-        "line": [
-          "10532 N. Port Washington Rd, Ste 1A"
-        ],
-        "city": "MEQUON",
-        "state": "WI",
-        "postalCode": "53092-5563"
       }
     ],
     "extension": [

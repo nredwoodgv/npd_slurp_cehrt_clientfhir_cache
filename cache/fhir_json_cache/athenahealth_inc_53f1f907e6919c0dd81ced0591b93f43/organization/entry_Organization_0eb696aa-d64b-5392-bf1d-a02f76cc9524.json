@@ -14,18 +14,25 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588825616"
+        "value": "1760678841"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760678841"
+        "value": "1588825616"
       }
     ],
     "address": [
       {
         "line": [
-          "1 MEDICAL PARK DR.",
-          "BLDG 4 STE B"
+          "834 West Meeting Street Ste B"
+        ],
+        "city": "LANCASTER",
+        "state": "SC",
+        "postalCode": "29720-6220"
+      },
+      {
+        "line": [
+          "One Medical Park Dr"
         ],
         "city": "CHESTER",
         "state": "SC",
@@ -41,15 +48,8 @@
       },
       {
         "line": [
-          "8351 CHARLOTTE HWY STE 100"
-        ],
-        "city": "FORT MILL",
-        "state": "SC",
-        "postalCode": "29707-6553"
-      },
-      {
-        "line": [
-          "One Medical Park Dr"
+          "1 MEDICAL PARK DR.",
+          "BLDG 4 STE B"
         ],
         "city": "CHESTER",
         "state": "SC",
@@ -57,11 +57,11 @@
       },
       {
         "line": [
-          "834 West Meeting Street Ste B"
+          "8351 CHARLOTTE HWY STE 100"
         ],
-        "city": "LANCASTER",
+        "city": "FORT MILL",
         "state": "SC",
-        "postalCode": "29720-6220"
+        "postalCode": "29707-6553"
       }
     ],
     "extension": [

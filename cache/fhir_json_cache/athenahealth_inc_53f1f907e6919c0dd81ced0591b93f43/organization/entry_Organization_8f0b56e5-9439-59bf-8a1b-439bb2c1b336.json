@@ -18,14 +18,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174744379"
+        "value": "1548640642"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548640642"
+        "value": "1174744379"
       }
     ],
     "address": [
+      {
+        "line": [
+          "6524 US Hwy 98 West"
+        ],
+        "city": "HATTIESBURG",
+        "state": "MS",
+        "postalCode": "39402-1588"
+      },
       {
         "line": [
           "5001 Hardy St."
@@ -36,7 +44,15 @@
       },
       {
         "line": [
-          "6524 US Hwy 98"
+          "5003 Hardy Street, Suite 350"
+        ],
+        "city": "HATTIESBURG",
+        "state": "MS",
+        "postalCode": "39402-1323"
+      },
+      {
+        "line": [
+          "6524 U S Hwy 98 West"
         ],
         "city": "HATTIESBURG",
         "state": "MS",
@@ -60,22 +76,6 @@
       },
       {
         "line": [
-          "6524 US Hwy 98 West"
-        ],
-        "city": "HATTIESBURG",
-        "state": "MS",
-        "postalCode": "39402-1588"
-      },
-      {
-        "line": [
-          "5003 Hardy Street, Suite 350"
-        ],
-        "city": "HATTIESBURG",
-        "state": "MS",
-        "postalCode": "39402-1323"
-      },
-      {
-        "line": [
           "5001 Hardy St."
         ],
         "city": "HATTIESBURG",
@@ -84,7 +84,7 @@
       },
       {
         "line": [
-          "6524 U S Hwy 98 West"
+          "6524 US Hwy 98"
         ],
         "city": "HATTIESBURG",
         "state": "MS",

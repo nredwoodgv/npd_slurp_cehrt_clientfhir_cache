@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649501347"
+        "value": "1750814737"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750814737"
+        "value": "1649501347"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2700 E Broad St"
-        ],
-        "city": "Mansfield",
-        "state": "TX",
-        "postalCode": "76063-5899"
-      },
       {
         "line": [
           "8000 Research Forest Dr",
@@ -38,6 +30,23 @@
         "city": "SPRING",
         "state": "TX",
         "postalCode": "77382-1507"
+      },
+      {
+        "line": [
+          "1200 Soldiers Fld Dr",
+          "Ste 201"
+        ],
+        "city": "SUGAR LAND",
+        "state": "TX",
+        "postalCode": "77479-4323"
+      },
+      {
+        "line": [
+          "2700 E Broad St"
+        ],
+        "city": "Mansfield",
+        "state": "TX",
+        "postalCode": "76063-5899"
       },
       {
         "line": [
@@ -58,29 +67,20 @@
       },
       {
         "line": [
-          "280 REGENCY PKWY"
-        ],
-        "city": "MANSFIELD",
-        "state": "TX",
-        "postalCode": "76063-7823"
-      },
-      {
-        "line": [
-          "1200 Soldiers Fld Dr",
-          "Ste 201"
-        ],
-        "city": "SUGAR LAND",
-        "state": "TX",
-        "postalCode": "77479-4323"
-      },
-      {
-        "line": [
           "2701 S Hampton Rd",
           "Ste 220B"
         ],
         "city": "DALLAS",
         "state": "TX",
         "postalCode": "75224-2363"
+      },
+      {
+        "line": [
+          "280 REGENCY PKWY"
+        ],
+        "city": "MANSFIELD",
+        "state": "TX",
+        "postalCode": "76063-7823"
       },
       {
         "line": [

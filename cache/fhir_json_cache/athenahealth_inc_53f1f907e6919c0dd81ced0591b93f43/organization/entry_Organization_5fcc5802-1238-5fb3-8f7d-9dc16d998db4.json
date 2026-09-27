@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801808571"
+        "value": "1457382947"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457382947"
+        "value": "1801808571"
       }
     ],
     "address": [
+      {
+        "line": [
+          "2606 Hospital Blvd, Suite B"
+        ],
+        "city": "CORPUS CHRISTI",
+        "state": "TX",
+        "postalCode": "78405-1804"
+      },
       {
         "line": [
           "1311 E. General Cavazos Blvd Suite 203"
@@ -29,94 +37,6 @@
         "city": "KINGSVILLE",
         "state": "TX",
         "postalCode": "78363-7123"
-      },
-      {
-        "line": [
-          "2606 Hospital Blvd, Suite F"
-        ],
-        "city": "CORPUS CHRISTI",
-        "state": "TX",
-        "postalCode": "78405-1804"
-      },
-      {
-        "line": [
-          "5802 SARATOGA BLVD STE 150"
-        ],
-        "city": "CORPUS CHRISTI",
-        "state": "TX",
-        "postalCode": "78414-4254"
-      },
-      {
-        "line": [
-          "4617 Greenwood Dr."
-        ],
-        "city": "CORPUS CHRISTI",
-        "state": "TX",
-        "postalCode": "78416-1742"
-      },
-      {
-        "line": [
-          "14725 Compass St"
-        ],
-        "city": "CORPUS CHRISTI",
-        "state": "TX",
-        "postalCode": "78418-6203"
-      },
-      {
-        "line": [
-          "1038 Texas Yes Blvd."
-        ],
-        "city": "ROBSTOWN",
-        "state": "TX",
-        "postalCode": "78380-6142"
-      },
-      {
-        "line": [
-          "2606 Hospital Blvd., Ste E"
-        ],
-        "city": "CORPUS CHRISTI",
-        "state": "TX",
-        "postalCode": "78405-1804"
-      },
-      {
-        "line": [
-          "2322 MORGAN AVENUE"
-        ],
-        "city": "CORPUS CHRISTI",
-        "state": "TX",
-        "postalCode": "78405-1947"
-      },
-      {
-        "line": [
-          "1227 3rd Street"
-        ],
-        "city": "CORPUS CHRISTI",
-        "state": "TX",
-        "postalCode": "78404-2313"
-      },
-      {
-        "line": [
-          "2606 Hospital Blvd., Suite D"
-        ],
-        "city": "CORPUS CHRISTI",
-        "state": "TX",
-        "postalCode": "78405-1804"
-      },
-      {
-        "line": [
-          "1415 Santa Fe"
-        ],
-        "city": "CORPUS CHRISTI",
-        "state": "TX",
-        "postalCode": "78404-2105"
-      },
-      {
-        "line": [
-          "311 BUDDY GANEM, SUITE A"
-        ],
-        "city": "PORTLAND",
-        "state": "TX",
-        "postalCode": "78374-3233"
       },
       {
         "line": [
@@ -136,11 +56,19 @@
       },
       {
         "line": [
-          "1415 SANTA FE"
+          "1415 Santa Fe"
         ],
         "city": "CORPUS CHRISTI",
         "state": "TX",
         "postalCode": "78404-2105"
+      },
+      {
+        "line": [
+          "4617 Greenwood Dr."
+        ],
+        "city": "CORPUS CHRISTI",
+        "state": "TX",
+        "postalCode": "78416-1742"
       },
       {
         "line": [
@@ -152,6 +80,54 @@
       },
       {
         "line": [
+          "2606 Hospital Blvd., Suite D"
+        ],
+        "city": "CORPUS CHRISTI",
+        "state": "TX",
+        "postalCode": "78405-1804"
+      },
+      {
+        "line": [
+          "2606 Hospital Blvd, Suite F"
+        ],
+        "city": "CORPUS CHRISTI",
+        "state": "TX",
+        "postalCode": "78405-1804"
+      },
+      {
+        "line": [
+          "2322 MORGAN AVENUE"
+        ],
+        "city": "CORPUS CHRISTI",
+        "state": "TX",
+        "postalCode": "78405-1947"
+      },
+      {
+        "line": [
+          "14725 Compass St"
+        ],
+        "city": "CORPUS CHRISTI",
+        "state": "TX",
+        "postalCode": "78418-6203"
+      },
+      {
+        "line": [
+          "5802 SARATOGA BLVD STE 150"
+        ],
+        "city": "CORPUS CHRISTI",
+        "state": "TX",
+        "postalCode": "78414-4254"
+      },
+      {
+        "line": [
+          "1227 3rd Street"
+        ],
+        "city": "CORPUS CHRISTI",
+        "state": "TX",
+        "postalCode": "78404-2313"
+      },
+      {
+        "line": [
           "2606 Hospital Blvd. Ste E"
         ],
         "city": "CORPUS CHRISTI",
@@ -160,11 +136,35 @@
       },
       {
         "line": [
-          "2606 Hospital Blvd, Suite B"
+          "1038 Texas Yes Blvd."
+        ],
+        "city": "ROBSTOWN",
+        "state": "TX",
+        "postalCode": "78380-6142"
+      },
+      {
+        "line": [
+          "2606 Hospital Blvd., Ste E"
         ],
         "city": "CORPUS CHRISTI",
         "state": "TX",
         "postalCode": "78405-1804"
+      },
+      {
+        "line": [
+          "1415 SANTA FE"
+        ],
+        "city": "CORPUS CHRISTI",
+        "state": "TX",
+        "postalCode": "78404-2105"
+      },
+      {
+        "line": [
+          "311 BUDDY GANEM, SUITE A"
+        ],
+        "city": "PORTLAND",
+        "state": "TX",
+        "postalCode": "78374-3233"
       },
       {
         "line": [

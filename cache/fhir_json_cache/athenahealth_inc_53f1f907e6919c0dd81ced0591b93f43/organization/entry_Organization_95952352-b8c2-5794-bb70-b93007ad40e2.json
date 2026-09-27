@@ -14,18 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215676747"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1104513126"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1508576372"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215676747"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1300 NORTHRIDGE DRIVE"
+        ],
+        "city": "PINE CITY",
+        "state": "MN",
+        "postalCode": "55063-5846"
+      },
       {
         "line": [
           "501 MAIN ST"
@@ -36,7 +44,7 @@
       },
       {
         "line": [
-          "501 Main Street"
+          "501 MAIN STREET"
         ],
         "city": "SANDSTONE",
         "state": "MN",
@@ -44,19 +52,11 @@
       },
       {
         "line": [
-          "1109 LUNDORFF DR"
+          "501 Main Street"
         ],
         "city": "SANDSTONE",
         "state": "MN",
-        "postalCode": "55072-2041"
-      },
-      {
-        "line": [
-          "1300 NORTHRIDGE DRIVE"
-        ],
-        "city": "PINE CITY",
-        "state": "MN",
-        "postalCode": "55063-5846"
+        "postalCode": "55072-6500"
       },
       {
         "line": [
@@ -76,11 +76,11 @@
       },
       {
         "line": [
-          "501 MAIN STREET"
+          "1300 NORTHRIDGE CT NW"
         ],
-        "city": "SANDSTONE",
+        "city": "PINE CITY",
         "state": "MN",
-        "postalCode": "55072-6500"
+        "postalCode": "55063-5821"
       },
       {
         "line": [
@@ -92,11 +92,11 @@
       },
       {
         "line": [
-          "1300 NORTHRIDGE CT NW"
+          "1109 LUNDORFF DR"
         ],
-        "city": "PINE CITY",
+        "city": "SANDSTONE",
         "state": "MN",
-        "postalCode": "55063-5821"
+        "postalCode": "55072-2041"
       }
     ],
     "extension": [

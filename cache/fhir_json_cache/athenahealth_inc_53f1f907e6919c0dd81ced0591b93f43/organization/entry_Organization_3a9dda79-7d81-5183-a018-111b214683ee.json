@@ -14,14 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083072342"
+        "value": "1437516887"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437516887"
+        "value": "1083072342"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3140 PRINCETON PIKE",
+          "2nd floor"
+        ],
+        "city": "Lawrenceville",
+        "state": "NJ",
+        "postalCode": "08648-2330"
+      },
       {
         "line": [
           "1445 Whitehorse-Mercerville Road",
@@ -33,15 +42,6 @@
       },
       {
         "line": [
-          "2 Capital Way",
-          "Ste 357"
-        ],
-        "city": "PENNINGTON",
-        "state": "NJ",
-        "postalCode": "08534-2421"
-      },
-      {
-        "line": [
           "3 Penns Trail"
         ],
         "city": "NEWTOWN",
@@ -50,12 +50,12 @@
       },
       {
         "line": [
-          "3140 PRINCETON PIKE",
-          "2nd floor"
+          "2 Capital Way",
+          "Ste 357"
         ],
-        "city": "Lawrenceville",
+        "city": "PENNINGTON",
         "state": "NJ",
-        "postalCode": "08648-2330"
+        "postalCode": "08534-2421"
       }
     ],
     "extension": [

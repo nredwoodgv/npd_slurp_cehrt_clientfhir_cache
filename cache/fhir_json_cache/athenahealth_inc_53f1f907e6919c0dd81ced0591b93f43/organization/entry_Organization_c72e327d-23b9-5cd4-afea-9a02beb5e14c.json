@@ -14,21 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629398219"
+        "value": "1821349317"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821349317"
+        "value": "1629398219"
       }
     ],
     "address": [
       {
         "line": [
-          "2991 CRANBERRY HWY"
+          "289 PLEASANT ST",
+          "3rd Floor"
         ],
-        "city": "East Wareham",
+        "city": "FALL RIVER",
         "state": "MA",
-        "postalCode": "02538-1354"
+        "postalCode": "02721-3005"
       },
       {
         "line": [
@@ -40,12 +41,11 @@
       },
       {
         "line": [
-          "289 PLEASANT ST",
-          "3rd Floor"
+          "2991 CRANBERRY HWY"
         ],
-        "city": "FALL RIVER",
+        "city": "East Wareham",
         "state": "MA",
-        "postalCode": "02721-3005"
+        "postalCode": "02538-1354"
       }
     ],
     "extension": [

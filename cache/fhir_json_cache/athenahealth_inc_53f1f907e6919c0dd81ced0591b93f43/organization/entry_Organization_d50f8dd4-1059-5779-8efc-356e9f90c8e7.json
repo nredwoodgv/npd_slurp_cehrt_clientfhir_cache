@@ -14,39 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902826399"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245429380"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063683977"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912295270"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487879961"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457668170"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578929816"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861770802"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831521947"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952997538"
+        "value": "1619166758"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,19 +30,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518155597"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619166758"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205469483"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1467884650"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487879961"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578929816"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -82,7 +46,43 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1063683977"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1205469483"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1518155597"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457668170"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245429380"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952997538"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902826399"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1386005395"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831521947"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912295270"
       }
     ],
     "address": [
@@ -90,9 +90,50 @@
         "line": [
           "925 West Street"
         ],
-        "city": "PERU",
+        "city": "Peru",
         "state": "IL",
         "postalCode": "61354-2757"
+      },
+      {
+        "line": [
+          "104 E. Bridge Street"
+        ],
+        "city": "STREATOR",
+        "state": "IL",
+        "postalCode": "61364-2976"
+      },
+      {
+        "line": [
+          "3230 BECKER DR"
+        ],
+        "city": "PERU",
+        "state": "IL",
+        "postalCode": "61354-1419"
+      },
+      {
+        "line": [
+          "1301 21ST ST"
+        ],
+        "city": "PERU",
+        "state": "IL",
+        "postalCode": "61354-1359"
+      },
+      {
+        "line": [
+          "1403 6th Sreet"
+        ],
+        "city": "PERU",
+        "state": "IL",
+        "postalCode": "61354-2717"
+      },
+      {
+        "line": [
+          "920 West Street Bldg A",
+          "Suite 117"
+        ],
+        "city": "PERU",
+        "state": "IL",
+        "postalCode": "61354-3351"
       },
       {
         "line": [
@@ -104,11 +145,27 @@
       },
       {
         "line": [
-          "920 West St. Suite 312"
+          "128 Bucklin St"
+        ],
+        "city": "LA SALLE",
+        "state": "IL",
+        "postalCode": "61301-2389"
+      },
+      {
+        "line": [
+          "920 West St. Suite 311"
         ],
         "city": "PERU",
         "state": "IL",
         "postalCode": "61354-2770"
+      },
+      {
+        "line": [
+          "1403 6th St"
+        ],
+        "city": "PERU",
+        "state": "IL",
+        "postalCode": "61354-2765"
       },
       {
         "line": [
@@ -128,20 +185,27 @@
       },
       {
         "line": [
-          "920 West Street Bldg A",
-          "Suite 117"
+          "925 West Street"
         ],
         "city": "PERU",
         "state": "IL",
-        "postalCode": "61354-3351"
+        "postalCode": "61354-2757"
       },
       {
         "line": [
-          "1525 E Main St"
+          "925 WEST ST"
         ],
-        "city": "STREATOR",
+        "city": "PERU",
         "state": "IL",
-        "postalCode": "61364-3162"
+        "postalCode": "61354-2757"
+      },
+      {
+        "line": [
+          "920 West St. Suite 312"
+        ],
+        "city": "PERU",
+        "state": "IL",
+        "postalCode": "61354-2770"
       },
       {
         "line": [
@@ -153,14 +217,6 @@
       },
       {
         "line": [
-          "920 West St. Suite 311"
-        ],
-        "city": "PERU",
-        "state": "IL",
-        "postalCode": "61354-2770"
-      },
-      {
-        "line": [
           "500 John Deere Road"
         ],
         "city": "MOLINE",
@@ -169,7 +225,56 @@
       },
       {
         "line": [
-          "925 WEST ST"
+          "600 E 1st Street"
+        ],
+        "city": "SPRING VALLEY",
+        "state": "IL",
+        "postalCode": "61362-1512"
+      },
+      {
+        "line": [
+          "920 West Street Bldg B"
+        ],
+        "city": "PERU",
+        "state": "IL",
+        "postalCode": "61354-2757"
+      },
+      {
+        "line": [
+          "1100 E Norris Drive"
+        ],
+        "city": "OTTAWA",
+        "state": "IL",
+        "postalCode": "61350-1604"
+      },
+      {
+        "line": [
+          "101 East Via Ghiglieri"
+        ],
+        "city": "TOLUCA",
+        "state": "IL",
+        "postalCode": "61369-9596"
+      },
+      {
+        "line": [
+          "1525 E Main St"
+        ],
+        "city": "STREATOR",
+        "state": "IL",
+        "postalCode": "61364-3162"
+      },
+      {
+        "line": [
+          "767 30th Street"
+        ],
+        "city": "ROCK ISLAND",
+        "state": "IL",
+        "postalCode": "61201-1945"
+      },
+      {
+        "line": [
+          "920 West Street",
+          "Suite 117"
         ],
         "city": "PERU",
         "state": "IL",
@@ -185,31 +290,7 @@
       },
       {
         "line": [
-          "925 West Street"
-        ],
-        "city": "Peru",
-        "state": "IL",
-        "postalCode": "61354-2757"
-      },
-      {
-        "line": [
-          "1100 E Norris Drive"
-        ],
-        "city": "OTTAWA",
-        "state": "IL",
-        "postalCode": "61350-1604"
-      },
-      {
-        "line": [
-          "1301 21ST ST"
-        ],
-        "city": "PERU",
-        "state": "IL",
-        "postalCode": "61354-1359"
-      },
-      {
-        "line": [
-          "104 E. Bridge Street"
+          "104 E. Bridge St"
         ],
         "city": "STREATOR",
         "state": "IL",
@@ -225,51 +306,12 @@
       },
       {
         "line": [
-          "516 W Frech St"
-        ],
-        "city": "STREATOR",
-        "state": "IL",
-        "postalCode": "61364-1216"
-      },
-      {
-        "line": [
-          "201 E FALCON HWY"
-        ],
-        "city": "FLANAGAN",
-        "state": "IL",
-        "postalCode": "61740-9108"
-      },
-      {
-        "line": [
-          "128 Bucklin St"
-        ],
-        "city": "LA SALLE",
-        "state": "IL",
-        "postalCode": "61301-2389"
-      },
-      {
-        "line": [
-          "920 West Street Bldg B"
+          "920 West Street  Bldg A",
+          "Suite 117"
         ],
         "city": "PERU",
         "state": "IL",
-        "postalCode": "61354-2757"
-      },
-      {
-        "line": [
-          "1403 6th St"
-        ],
-        "city": "PERU",
-        "state": "IL",
-        "postalCode": "61354-2765"
-      },
-      {
-        "line": [
-          "3230 BECKER DR"
-        ],
-        "city": "PERU",
-        "state": "IL",
-        "postalCode": "61354-1419"
+        "postalCode": "61354-3351"
       },
       {
         "line": [
@@ -281,61 +323,11 @@
       },
       {
         "line": [
-          "920 West Street",
-          "Suite 117"
-        ],
-        "city": "PERU",
-        "state": "IL",
-        "postalCode": "61354-2757"
-      },
-      {
-        "line": [
-          "925 West St"
-        ],
-        "city": "PERU",
-        "state": "IL",
-        "postalCode": "61354-2757"
-      },
-      {
-        "line": [
-          "1403 6th Sreet"
-        ],
-        "city": "PERU",
-        "state": "IL",
-        "postalCode": "61354-2717"
-      },
-      {
-        "line": [
-          "104 E. Bridge St"
+          "516 W Frech St"
         ],
         "city": "STREATOR",
         "state": "IL",
-        "postalCode": "61364-2976"
-      },
-      {
-        "line": [
-          "2322 N Eastwood Ave"
-        ],
-        "city": "STREATOR",
-        "state": "IL",
-        "postalCode": "61364-9054"
-      },
-      {
-        "line": [
-          "600 E 1st Street"
-        ],
-        "city": "SPRING VALLEY",
-        "state": "IL",
-        "postalCode": "61362-1512"
-      },
-      {
-        "line": [
-          "920 West Street  Bldg A",
-          "Suite 117"
-        ],
-        "city": "PERU",
-        "state": "IL",
-        "postalCode": "61354-3351"
+        "postalCode": "61364-1216"
       },
       {
         "line": [
@@ -347,22 +339,6 @@
       },
       {
         "line": [
-          "101 East Via Ghiglieri"
-        ],
-        "city": "TOLUCA",
-        "state": "IL",
-        "postalCode": "61369-9596"
-      },
-      {
-        "line": [
-          "767 30th Street"
-        ],
-        "city": "ROCK ISLAND",
-        "state": "IL",
-        "postalCode": "61201-1945"
-      },
-      {
-        "line": [
           "430 30th Ave"
         ],
         "city": "EAST MOLINE",
@@ -371,11 +347,27 @@
       },
       {
         "line": [
-          "530 Park Ave E"
+          "2322 N Eastwood Ave"
         ],
-        "city": "PRINCETON",
+        "city": "STREATOR",
         "state": "IL",
-        "postalCode": "61356-3901"
+        "postalCode": "61364-9054"
+      },
+      {
+        "line": [
+          "925 West St"
+        ],
+        "city": "PERU",
+        "state": "IL",
+        "postalCode": "61354-2757"
+      },
+      {
+        "line": [
+          "201 E FALCON HWY"
+        ],
+        "city": "FLANAGAN",
+        "state": "IL",
+        "postalCode": "61740-9108"
       },
       {
         "line": [
@@ -384,6 +376,14 @@
         "city": "ROCK ISLAND",
         "state": "IL",
         "postalCode": "61201-5305"
+      },
+      {
+        "line": [
+          "530 Park Ave E"
+        ],
+        "city": "PRINCETON",
+        "state": "IL",
+        "postalCode": "61356-3901"
       }
     ],
     "extension": [

@@ -18,11 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225636673"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770183766"
+        "value": "1265937312"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,11 +26,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811492978"
+        "value": "1568065969"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982201877"
+        "value": "1770183766"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,11 +38,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326543497"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417557133"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568065969"
+        "value": "1982201877"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,11 +54,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326543497"
+        "value": "1811492978"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265937312"
+        "value": "1225636673"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -68,46 +68,12 @@
     "address": [
       {
         "line": [
-          "2301 LAWRENCE ST"
+          "9197 Grant St",
+          "Suite 200"
         ],
-        "city": "DENVER",
-        "state": "CO",
-        "postalCode": "80205-2126"
-      },
-      {
-        "line": [
-          "355 Union Boulevard",
-          "Suite 105"
-        ],
-        "city": "LAKEWOOD",
-        "state": "CO",
-        "postalCode": "80228-6516"
-      },
-      {
-        "line": [
-          "9197 Grant St"
-        ],
-        "city": "DENVER",
+        "city": "Thornton",
         "state": "CO",
         "postalCode": "80229-4329"
-      },
-      {
-        "line": [
-          "1550 S POTOMAC ST",
-          "STE 130"
-        ],
-        "city": "AURORA",
-        "state": "CO",
-        "postalCode": "80012-5442"
-      },
-      {
-        "line": [
-          "1550 S. Potomac Street",
-          "Suite 130"
-        ],
-        "city": "AURORA",
-        "state": "CO",
-        "postalCode": "80012-5455"
       },
       {
         "line": [
@@ -126,12 +92,46 @@
       },
       {
         "line": [
-          "9197 Grant St",
-          "Suite 200"
+          "1550 S. Potomac Street",
+          "Suite 130"
         ],
-        "city": "Thornton",
+        "city": "AURORA",
+        "state": "CO",
+        "postalCode": "80012-5455"
+      },
+      {
+        "line": [
+          "9197 Grant St"
+        ],
+        "city": "DENVER",
         "state": "CO",
         "postalCode": "80229-4329"
+      },
+      {
+        "line": [
+          "355 Union Boulevard",
+          "Suite 105"
+        ],
+        "city": "LAKEWOOD",
+        "state": "CO",
+        "postalCode": "80228-6516"
+      },
+      {
+        "line": [
+          "2301 LAWRENCE ST"
+        ],
+        "city": "DENVER",
+        "state": "CO",
+        "postalCode": "80205-2126"
+      },
+      {
+        "line": [
+          "1550 S POTOMAC ST",
+          "STE 130"
+        ],
+        "city": "AURORA",
+        "state": "CO",
+        "postalCode": "80012-5442"
       }
     ],
     "extension": [

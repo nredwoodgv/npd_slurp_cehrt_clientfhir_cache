@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386192656"
+        "value": "1144315383"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144315383"
+        "value": "1386192656"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1301 Barbara Jordan Blvd.",
-          "Suite 400"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78723-3078"
-      },
       {
         "line": [
           "5301 B Davis Lane, Suite 200"
@@ -42,6 +33,15 @@
       {
         "line": [
           "1301 BARBARA JORDAN BLVD STE 401"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78723-3078"
+      },
+      {
+        "line": [
+          "1301 Barbara Jordan Blvd.",
+          "Suite 400"
         ],
         "city": "AUSTIN",
         "state": "TX",

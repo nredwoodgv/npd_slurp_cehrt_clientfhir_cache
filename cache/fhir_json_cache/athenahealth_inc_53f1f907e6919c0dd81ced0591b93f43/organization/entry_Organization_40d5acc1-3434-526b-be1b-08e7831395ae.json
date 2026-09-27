@@ -14,26 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801140082"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942547161"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649397308"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386024438"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740380914"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1720383862"
       },
       {
@@ -42,10 +22,38 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1801140082"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386024438"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1356402002"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1942547161"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1740380914"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649397308"
       }
     ],
     "address": [
+      {
+        "line": [
+          "604 South Main St"
+        ],
+        "city": "WATER VALLEY",
+        "state": "MS",
+        "postalCode": "38965-3468"
+      },
       {
         "line": [
           "630 South Main St"
@@ -61,14 +69,6 @@
         "city": "WATER VALLEY",
         "state": "MS",
         "postalCode": "38965-3648"
-      },
-      {
-        "line": [
-          "604 South Main St"
-        ],
-        "city": "WATER VALLEY",
-        "state": "MS",
-        "postalCode": "38965-3468"
       },
       {
         "line": [

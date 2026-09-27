@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982201877"
+        "value": "1568065969"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316540750"
+        "value": "1770183766"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1265937312"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,19 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811492978"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770183766"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568065969"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265937312"
+        "value": "1316540750"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,7 +46,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295236594"
+        "value": "1982201877"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,13 +54,30 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1295236594"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1326543497"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811492978"
       }
     ],
     "address": [
       {
         "line": [
-          "1601 East 19th Avenue",
+          "1550 S Potomac Street",
+          "Suite 130"
+        ],
+        "city": "AURORA",
+        "state": "CO",
+        "postalCode": "80012-5442"
+      },
+      {
+        "line": [
+          "1601 e 19th avenue",
           "Suite 6600"
         ],
         "city": "DENVER",
@@ -77,7 +86,7 @@
       },
       {
         "line": [
-          "1601 e 19th avenue",
+          "1601 East 19th Avenue",
           "Suite 6600"
         ],
         "city": "DENVER",
@@ -92,15 +101,6 @@
         "city": "DENVER",
         "state": "CO",
         "postalCode": "80229-4337"
-      },
-      {
-        "line": [
-          "1550 S Potomac Street",
-          "Suite 130"
-        ],
-        "city": "AURORA",
-        "state": "CO",
-        "postalCode": "80012-5442"
       }
     ],
     "extension": [

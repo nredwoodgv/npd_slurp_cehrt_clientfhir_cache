@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093325243"
+        "value": "1043780067"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043780067"
+        "value": "1093325243"
       }
     ],
     "address": [
-      {
-        "line": [
-          "7301 W PALMETTO PARK RD",
-          "STE 101A"
-        ],
-        "city": "BOCA RATON",
-        "state": "FL",
-        "postalCode": "33433-3455"
-      },
       {
         "line": [
           "8401 LAKE WORTH RD STE 219"
@@ -38,6 +29,15 @@
         "city": "LAKE WORTH",
         "state": "FL",
         "postalCode": "33467-2400"
+      },
+      {
+        "line": [
+          "6056 Boynton Beach Blvd",
+          "Suite 175"
+        ],
+        "city": "BOYNTON BEACH",
+        "state": "FL",
+        "postalCode": "33437-3500"
       },
       {
         "line": [
@@ -50,12 +50,12 @@
       },
       {
         "line": [
-          "6056 Boynton Beach Blvd",
-          "Suite 175"
+          "7301 W PALMETTO PARK RD",
+          "STE 101A"
         ],
-        "city": "BOYNTON BEACH",
+        "city": "BOCA RATON",
         "state": "FL",
-        "postalCode": "33437-3500"
+        "postalCode": "33433-3455"
       }
     ],
     "extension": [

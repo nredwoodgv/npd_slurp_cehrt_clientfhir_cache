@@ -14,29 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740387042"
+        "value": "1154625606"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154625606"
+        "value": "1740387042"
       }
     ],
     "address": [
       {
         "line": [
-          "480 DD Rd."
+          "710 S MAIN ST"
         ],
         "city": "COLUMBIA",
         "state": "IL",
-        "postalCode": "62236-3837"
-      },
-      {
-        "line": [
-          "351 LOCKWOOD DR"
-        ],
-        "city": "WATERLOO",
-        "state": "IL",
-        "postalCode": "62298-2032"
+        "postalCode": "62236-2429"
       },
       {
         "line": [
@@ -56,6 +48,14 @@
       },
       {
         "line": [
+          "351 LOCKWOOD DR"
+        ],
+        "city": "WATERLOO",
+        "state": "IL",
+        "postalCode": "62298-2032"
+      },
+      {
+        "line": [
           "208 S KOSSOTH"
         ],
         "city": "MILLSTADT",
@@ -64,11 +64,11 @@
       },
       {
         "line": [
-          "710 S MAIN ST"
+          "480 DD Rd."
         ],
         "city": "COLUMBIA",
         "state": "IL",
-        "postalCode": "62236-2429"
+        "postalCode": "62236-3837"
       }
     ],
     "extension": [

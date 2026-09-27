@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245633056"
+        "value": "1942391396"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942391396"
+        "value": "1245633056"
       }
     ],
     "address": [
-      {
-        "line": [
-          "951 W. 21st Street"
-        ],
-        "city": "NORFOLK",
-        "state": "VA",
-        "postalCode": "23517-1534"
-      },
-      {
-        "line": [
-          "1444 Kempsville Rd"
-        ],
-        "city": "VIRGINIA BEACH",
-        "state": "VA",
-        "postalCode": "23462-7302"
-      },
       {
         "line": [
           "1232 Perimeter Pkwy",
@@ -49,21 +33,28 @@
       },
       {
         "line": [
-          "5665 Lowery Rd",
-          "Suite 300"
+          "951 W. 21st Street"
         ],
         "city": "NORFOLK",
         "state": "VA",
-        "postalCode": "23502-2220"
+        "postalCode": "23517-1534"
       },
       {
         "line": [
-          "762 Independence Blvd",
-          "Suite 772"
+          "1788 Republic Road",
+          "Suite 100"
         ],
         "city": "VIRGINIA BEACH",
         "state": "VA",
-        "postalCode": "23455-6200"
+        "postalCode": "23454-4552"
+      },
+      {
+        "line": [
+          "1444 Kempsville Rd"
+        ],
+        "city": "VIRGINIA BEACH",
+        "state": "VA",
+        "postalCode": "23462-7302"
       },
       {
         "line": [
@@ -76,12 +67,21 @@
       },
       {
         "line": [
-          "1788 Republic Road",
-          "Suite 100"
+          "762 Independence Blvd",
+          "Suite 772"
         ],
         "city": "VIRGINIA BEACH",
         "state": "VA",
-        "postalCode": "23454-4552"
+        "postalCode": "23455-6200"
+      },
+      {
+        "line": [
+          "5665 Lowery Rd",
+          "Suite 300"
+        ],
+        "city": "NORFOLK",
+        "state": "VA",
+        "postalCode": "23502-2220"
       }
     ],
     "extension": [

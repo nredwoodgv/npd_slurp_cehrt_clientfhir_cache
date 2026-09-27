@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861082117"
+        "value": "1487126124"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487126124"
+        "value": "1861082117"
       }
     ],
     "address": [
@@ -32,19 +32,19 @@
       },
       {
         "line": [
-          "8901 W 74TH ST STE 328"
-        ],
-        "city": "OVERLAND PARK",
-        "state": "KS",
-        "postalCode": "66204-2203"
-      },
-      {
-        "line": [
           "2790 CLAY EDWARDS DR STE 410"
         ],
         "city": "KANSAS CITY",
         "state": "MO",
         "postalCode": "64116-3274"
+      },
+      {
+        "line": [
+          "8901 W 74TH ST STE 328"
+        ],
+        "city": "OVERLAND PARK",
+        "state": "KS",
+        "postalCode": "66204-2203"
       }
     ],
     "extension": [

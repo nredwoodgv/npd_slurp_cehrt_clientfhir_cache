@@ -14,34 +14,49 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336469790"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1508911892"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1770216855"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336469790"
       }
     ],
     "address": [
       {
         "line": [
-          "1511 Clement Street"
+          "2765 Mitchell Drive"
         ],
-        "city": "SAN FRANCISCO",
+        "city": "WALNUT CREEK",
         "state": "CA",
-        "postalCode": "94118-1031"
+        "postalCode": "94598-1601"
       },
       {
         "line": [
-          "909 Hyde Street",
-          "Suite 230"
+          "5860 Owens Drive, Ste 130"
         ],
-        "city": "SAN FRANCISCO",
+        "city": "PLEASANTON",
         "state": "CA",
-        "postalCode": "94109-4845"
+        "postalCode": "94588-3980"
+      },
+      {
+        "line": [
+          "1055 S GREEN VALLEY RD"
+        ],
+        "city": "WATSONVILLE",
+        "state": "CA",
+        "postalCode": "95076-4164"
+      },
+      {
+        "line": [
+          "415 Hospital Drive"
+        ],
+        "city": "UKIAH",
+        "state": "CA",
+        "postalCode": "95482-4545"
       },
       {
         "line": [
@@ -53,36 +68,35 @@
       },
       {
         "line": [
-          "1100 LAUREL ST, UNIT E"
+          "411 30TH ST, STE 314"
+        ],
+        "city": "OAKLAND",
+        "state": "CA",
+        "postalCode": "94609-3312"
+      },
+      {
+        "line": [
+          "990 LAUREL ST, STE A"
         ],
         "city": "SAN CARLOS",
         "state": "CA",
-        "postalCode": "94070-5000"
+        "postalCode": "94070-3900"
       },
       {
         "line": [
-          "2550 Samaritan Drive Suite D"
+          "480 Redwood Street Suite 10"
         ],
-        "city": "SAN JOSE",
+        "city": "VALLEJO",
         "state": "CA",
-        "postalCode": "95124-4104"
+        "postalCode": "94590-2958"
       },
       {
         "line": [
-          "47 Penny Lane",
-          "Suite 1"
+          "1511 Clement Street"
         ],
-        "city": "WATSONVILLE",
+        "city": "SAN FRANCISCO",
         "state": "CA",
-        "postalCode": "95076-6055"
-      },
-      {
-        "line": [
-          "3000 Colby St, Ste 107"
-        ],
-        "city": "BERKELEY",
-        "state": "CA",
-        "postalCode": "94705-2090"
+        "postalCode": "94118-1031"
       },
       {
         "line": [
@@ -103,36 +117,20 @@
       },
       {
         "line": [
+          "1 SHRADER ST",
+          "STE 580"
+        ],
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94117-1034"
+      },
+      {
+        "line": [
           "1241 East Hillsdale Boulevard Suite 210"
         ],
         "city": "SAN MATEO",
         "state": "CA",
         "postalCode": "94404-1386"
-      },
-      {
-        "line": [
-          "1580 Valencia Street",
-          "Suite 109"
-        ],
-        "city": "SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94110-4420"
-      },
-      {
-        "line": [
-          "350 Hawthorne Avenue"
-        ],
-        "city": "OAKLAND",
-        "state": "CA",
-        "postalCode": "94609-3108"
-      },
-      {
-        "line": [
-          "1375 University Avenue"
-        ],
-        "city": "HEALDSBURG",
-        "state": "CA",
-        "postalCode": "95448-3382"
       },
       {
         "line": [
@@ -145,37 +143,28 @@
       },
       {
         "line": [
-          "900 HYDE ST"
+          "909 Hyde Street",
+          "Suite 230"
         ],
         "city": "SAN FRANCISCO",
         "state": "CA",
-        "postalCode": "94109-4806"
+        "postalCode": "94109-4845"
       },
       {
         "line": [
-          "250 Bon Air Road"
+          "350 Hawthorne Avenue"
         ],
-        "city": "GREENBRAE",
+        "city": "OAKLAND",
         "state": "CA",
-        "postalCode": "94904-2315"
+        "postalCode": "94609-3108"
       },
       {
         "line": [
-          "1720 MARCO POLO WAY",
-          "SUITE A"
-        ],
-        "city": "BURLINGAME",
-        "state": "CA",
-        "postalCode": "94010-4513"
-      },
-      {
-        "line": [
-          "1 Shrader Street",
-          "Suite 510"
+          "2299 Post Street Suite 203"
         ],
         "city": "SAN FRANCISCO",
         "state": "CA",
-        "postalCode": "94117-1034"
+        "postalCode": "94115-3441"
       },
       {
         "line": [
@@ -187,30 +176,6 @@
       },
       {
         "line": [
-          "5120 Manzanita Avenue, Suite 100"
-        ],
-        "city": "CARMICHAEL",
-        "state": "CA",
-        "postalCode": "95608-0590"
-      },
-      {
-        "line": [
-          "2333 BUCHANAN ST"
-        ],
-        "city": "SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94115-1925"
-      },
-      {
-        "line": [
-          "5860 Owens Drive, Ste 130"
-        ],
-        "city": "PLEASANTON",
-        "state": "CA",
-        "postalCode": "94588-3980"
-      },
-      {
-        "line": [
           "1100 Laurel St, Unit E"
         ],
         "city": "SAN CARLOS",
@@ -219,11 +184,60 @@
       },
       {
         "line": [
-          "2765 Mitchell Drive"
+          "2105 Forest Avenue"
         ],
-        "city": "WALNUT CREEK",
+        "city": "SAN JOSE",
         "state": "CA",
-        "postalCode": "94598-1601"
+        "postalCode": "95128-1425"
+      },
+      {
+        "line": [
+          "2299 Mowry Avenue, 1st Floor"
+        ],
+        "city": "FREMONT",
+        "state": "CA",
+        "postalCode": "94539-1621"
+      },
+      {
+        "line": [
+          "20998 Redwood Rd"
+        ],
+        "city": "CASTRO VALLEY",
+        "state": "CA",
+        "postalCode": "94546-5918"
+      },
+      {
+        "line": [
+          "3000 Colby St, Ste 107"
+        ],
+        "city": "BERKELEY",
+        "state": "CA",
+        "postalCode": "94705-2090"
+      },
+      {
+        "line": [
+          "1580 Valencia Street",
+          "Suite 109"
+        ],
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94110-4420"
+      },
+      {
+        "line": [
+          "1000 Trancas Street"
+        ],
+        "city": "NAPA",
+        "state": "CA",
+        "postalCode": "94558-2906"
+      },
+      {
+        "line": [
+          "20103 Lake Chabot Rd"
+        ],
+        "city": "CASTRO VALLEY",
+        "state": "CA",
+        "postalCode": "94546-5305"
       },
       {
         "line": [
@@ -243,76 +257,35 @@
       },
       {
         "line": [
-          "20998 Redwood Rd"
-        ],
-        "city": "CASTRO VALLEY",
-        "state": "CA",
-        "postalCode": "94546-5918"
-      },
-      {
-        "line": [
-          "411 30TH ST, STE 314"
-        ],
-        "city": "OAKLAND",
-        "state": "CA",
-        "postalCode": "94609-3312"
-      },
-      {
-        "line": [
-          "1 SHRADER ST",
-          "STE 580"
+          "900 HYDE ST"
         ],
         "city": "SAN FRANCISCO",
         "state": "CA",
-        "postalCode": "94117-1034"
+        "postalCode": "94109-4806"
       },
       {
         "line": [
-          "990 LAUREL ST, STE A"
+          "250 Bon Air Road"
         ],
-        "city": "SAN CARLOS",
+        "city": "GREENBRAE",
         "state": "CA",
-        "postalCode": "94070-3900"
+        "postalCode": "94904-2315"
       },
       {
         "line": [
-          "20103 Lake Chabot Rd"
+          "5120 Manzanita Avenue, Suite 100"
         ],
-        "city": "CASTRO VALLEY",
+        "city": "CARMICHAEL",
         "state": "CA",
-        "postalCode": "94546-5305"
+        "postalCode": "95608-0590"
       },
       {
         "line": [
-          "1919 Cutting Boulevard"
+          "1825 4th Street"
         ],
-        "city": "RICHMOND",
+        "city": "SAN FRANCISCO",
         "state": "CA",
-        "postalCode": "94804-2662"
-      },
-      {
-        "line": [
-          "415 Hospital Drive"
-        ],
-        "city": "UKIAH",
-        "state": "CA",
-        "postalCode": "95482-4545"
-      },
-      {
-        "line": [
-          "480 Redwood Street Suite 10"
-        ],
-        "city": "VALLEJO",
-        "state": "CA",
-        "postalCode": "94590-2958"
-      },
-      {
-        "line": [
-          "581 McCray ST, STE F"
-        ],
-        "city": "HOLLISTER",
-        "state": "CA",
-        "postalCode": "95023-4091"
+        "postalCode": "94143-2350"
       },
       {
         "line": [
@@ -325,51 +298,78 @@
       },
       {
         "line": [
-          "1055 S GREEN VALLEY RD"
-        ],
-        "city": "WATSONVILLE",
-        "state": "CA",
-        "postalCode": "95076-4164"
-      },
-      {
-        "line": [
-          "1000 Trancas Street"
-        ],
-        "city": "NAPA",
-        "state": "CA",
-        "postalCode": "94558-2906"
-      },
-      {
-        "line": [
-          "2299 Post Street Suite 203"
-        ],
-        "city": "SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94115-3441"
-      },
-      {
-        "line": [
-          "2105 Forest Avenue"
+          "2550 Samaritan Drive Suite D"
         ],
         "city": "SAN JOSE",
         "state": "CA",
-        "postalCode": "95128-1425"
+        "postalCode": "95124-4104"
       },
       {
         "line": [
-          "1825 4th Street"
+          "2333 BUCHANAN ST"
         ],
         "city": "SAN FRANCISCO",
         "state": "CA",
-        "postalCode": "94143-2350"
+        "postalCode": "94115-1925"
       },
       {
         "line": [
-          "2299 Mowry Avenue, 1st Floor"
+          "47 Penny Lane",
+          "Suite 1"
         ],
-        "city": "FREMONT",
+        "city": "WATSONVILLE",
         "state": "CA",
-        "postalCode": "94539-1621"
+        "postalCode": "95076-6055"
+      },
+      {
+        "line": [
+          "1 Shrader Street",
+          "Suite 510"
+        ],
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94117-1034"
+      },
+      {
+        "line": [
+          "380 Diablo Rd Ste 201"
+        ],
+        "city": "DANVILLE",
+        "state": "CA",
+        "postalCode": "94526-3410"
+      },
+      {
+        "line": [
+          "1375 University Avenue"
+        ],
+        "city": "HEALDSBURG",
+        "state": "CA",
+        "postalCode": "95448-3382"
+      },
+      {
+        "line": [
+          "1100 LAUREL ST, UNIT E"
+        ],
+        "city": "SAN CARLOS",
+        "state": "CA",
+        "postalCode": "94070-5000"
+      },
+      {
+        "line": [
+          "1919 Cutting Boulevard"
+        ],
+        "city": "RICHMOND",
+        "state": "CA",
+        "postalCode": "94804-2662"
+      },
+      {
+        "line": [
+          "1720 MARCO POLO WAY",
+          "SUITE A"
+        ],
+        "city": "BURLINGAME",
+        "state": "CA",
+        "postalCode": "94010-4513"
       },
       {
         "line": [
@@ -382,11 +382,11 @@
       },
       {
         "line": [
-          "380 Diablo Rd Ste 201"
+          "581 McCray ST, STE F"
         ],
-        "city": "DANVILLE",
+        "city": "HOLLISTER",
         "state": "CA",
-        "postalCode": "94526-3410"
+        "postalCode": "95023-4091"
       }
     ],
     "extension": [
