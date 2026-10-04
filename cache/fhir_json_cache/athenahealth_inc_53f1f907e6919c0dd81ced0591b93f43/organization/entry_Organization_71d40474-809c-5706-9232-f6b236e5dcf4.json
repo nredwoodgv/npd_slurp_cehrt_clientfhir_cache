@@ -14,27 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063002202"
+        "value": "1902043433"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437749678"
+        "value": "1598929135"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972193191"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013705391"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992397152"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518346469"
+        "value": "1881981033"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,19 +34,31 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598929135"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1033294673"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902043433"
+        "value": "1013705391"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881981033"
+        "value": "1063002202"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437749678"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1518346469"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992397152"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1972193191"
       }
     ],
     "address": [
@@ -66,7 +66,7 @@
         "line": [
           "1559 Sparta St"
         ],
-        "city": "MCMINNVILLE",
+        "city": "McMinnville",
         "state": "TN",
         "postalCode": "37110-1316"
       },
@@ -75,22 +75,6 @@
           "1559 Sparta St"
         ],
         "city": "MC MINNVILLE",
-        "state": "TN",
-        "postalCode": "37110-1316"
-      },
-      {
-        "line": [
-          "1559 Sparta Street"
-        ],
-        "city": "MCMINNVILLE",
-        "state": "TN",
-        "postalCode": "37110-1316"
-      },
-      {
-        "line": [
-          "1559 Sparta St"
-        ],
-        "city": "McMinnville",
         "state": "TN",
         "postalCode": "37110-1316"
       },
@@ -112,23 +96,23 @@
       },
       {
         "line": [
-          "2413 S Chancery St"
-        ],
-        "city": "MCMINNVILLE",
-        "state": "TN",
-        "postalCode": "37110-3614"
-      },
-      {
-        "line": [
           "1559 Sparta St"
         ],
         "city": "MCMINNVILLE",
         "state": "TN",
-        "postalCode": "37110-1392"
+        "postalCode": "37110-1316"
       },
       {
         "line": [
           "1559 SPARTA ST"
+        ],
+        "city": "MCMINNVILLE",
+        "state": "TN",
+        "postalCode": "37110-1316"
+      },
+      {
+        "line": [
+          "1559 Sparta Street"
         ],
         "city": "MCMINNVILLE",
         "state": "TN",
@@ -141,6 +125,22 @@
         "city": "McMinnville",
         "state": "TN",
         "postalCode": "37110-1316"
+      },
+      {
+        "line": [
+          "1559 Sparta St"
+        ],
+        "city": "MCMINNVILLE",
+        "state": "TN",
+        "postalCode": "37110-1392"
+      },
+      {
+        "line": [
+          "2413 S Chancery St"
+        ],
+        "city": "MCMINNVILLE",
+        "state": "TN",
+        "postalCode": "37110-3614"
       }
     ],
     "extension": [

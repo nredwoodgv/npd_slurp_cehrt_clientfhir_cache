@@ -14,18 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1063917425"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1528556750"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1639111057"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063917425"
       }
     ],
     "address": [
+      {
+        "line": [
+          "2121 RAYBROOK ST SE"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49546-5793"
+      },
       {
         "line": [
           "3290 N WELLNESS DR, STE 220"
@@ -33,6 +41,14 @@
         "city": "HOLLAND",
         "state": "MI",
         "postalCode": "49424-7261"
+      },
+      {
+        "line": [
+          "3925 32ND AVE,  STE 300"
+        ],
+        "city": "HUDSONVILLE",
+        "state": "MI",
+        "postalCode": "49426-8460"
       },
       {
         "line": [
@@ -49,14 +65,6 @@
         "city": "HUDSONVILLE",
         "state": "MI",
         "postalCode": "49426-8460"
-      },
-      {
-        "line": [
-          "2121 RAYBROOK ST SE"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49546-5793"
       },
       {
         "line": [
@@ -81,14 +89,6 @@
         "city": "WALKER",
         "state": "MI",
         "postalCode": "49544-1673"
-      },
-      {
-        "line": [
-          "3925 32ND AVE,  STE 300"
-        ],
-        "city": "HUDSONVILLE",
-        "state": "MI",
-        "postalCode": "49426-8460"
       }
     ],
     "extension": [

@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306394309"
+        "value": "1962457051"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962457051"
+        "value": "1306394309"
       }
     ],
     "address": [
-      {
-        "line": [
-          "30575 Woodward Ave"
-        ],
-        "city": "ROYAL OAK",
-        "state": "MI",
-        "postalCode": "48073-0986"
-      },
       {
         "line": [
           "26211 Central Park Blvd"
@@ -40,11 +32,11 @@
       },
       {
         "line": [
-          "29110 INKSTER RD STE 225A"
+          "30575 Woodward Ave"
         ],
-        "city": "SOUTHFIELD",
+        "city": "ROYAL OAK",
         "state": "MI",
-        "postalCode": "48034-1098"
+        "postalCode": "48073-0986"
       },
       {
         "line": [
@@ -53,6 +45,14 @@
         "city": "MADISON HEIGHTS",
         "state": "MI",
         "postalCode": "48071-3487"
+      },
+      {
+        "line": [
+          "29110 INKSTER RD STE 225A"
+        ],
+        "city": "SOUTHFIELD",
+        "state": "MI",
+        "postalCode": "48034-1098"
       }
     ],
     "extension": [

@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770201766"
+        "value": "1447978358"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578281291"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,25 +26,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447978358"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1053039032"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578281291"
+        "value": "1770201766"
       }
     ],
     "address": [
       {
         "line": [
-          "900 E Broadway Ave."
+          "310 N 9th St"
         ],
         "city": "BISMARCK",
         "state": "ND",
-        "postalCode": "58501-4507"
+        "postalCode": "58501-4515"
       },
       {
         "line": [
@@ -52,83 +52,11 @@
       },
       {
         "line": [
-          "3400 Nebraska Drive"
+          "2500 Valleyview Ave"
         ],
         "city": "BISMARCK",
         "state": "ND",
-        "postalCode": "58503-1649"
-      },
-      {
-        "line": [
-          "1312 Hwy 49 N"
-        ],
-        "city": "BEULAH",
-        "state": "ND",
-        "postalCode": "58523-6038"
-      },
-      {
-        "line": [
-          "201 14 St NW"
-        ],
-        "city": "MANDAN",
-        "state": "ND",
-        "postalCode": "58554-2063"
-      },
-      {
-        "line": [
-          "4916 N WASHINGTON ST"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58503-0559"
-      },
-      {
-        "line": [
-          "2425 Hillview Ave"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58501-3056"
-      },
-      {
-        "line": [
-          "310 N 9th St"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58501-4515"
-      },
-      {
-        "line": [
-          "1000 W Century Ave"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58503-0913"
-      },
-      {
-        "line": [
-          "401 N 9th St"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58501-4530"
-      },
-      {
-        "line": [
-          "3330 Nebraska Drive"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58503-1663"
-      },
-      {
-        "line": [
-          "301 Lorainn Dr"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58503-0311"
+        "postalCode": "58501-3090"
       },
       {
         "line": [
@@ -140,19 +68,51 @@
       },
       {
         "line": [
-          "2500 Valleyview Ave"
+          "301 Lorainn Dr"
         ],
         "city": "BISMARCK",
         "state": "ND",
-        "postalCode": "58501-3090"
+        "postalCode": "58503-0311"
       },
       {
         "line": [
-          "1011 Boundary St NW"
+          "3330 Nebraska Drive"
         ],
-        "city": "MANDAN",
+        "city": "BISMARCK",
         "state": "ND",
-        "postalCode": "58554-1608"
+        "postalCode": "58503-1663"
+      },
+      {
+        "line": [
+          "1312 Hwy 49 N"
+        ],
+        "city": "BEULAH",
+        "state": "ND",
+        "postalCode": "58523-6038"
+      },
+      {
+        "line": [
+          "3400 Nebraska Drive"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58503-1649"
+      },
+      {
+        "line": [
+          "4916 N WASHINGTON ST"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58503-0559"
+      },
+      {
+        "line": [
+          "900 E Broadway Ave."
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58501-4507"
       },
       {
         "line": [
@@ -169,6 +129,46 @@
         "city": "BISMARCK",
         "state": "ND",
         "postalCode": "58504-5753"
+      },
+      {
+        "line": [
+          "1000 W Century Ave"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58503-0913"
+      },
+      {
+        "line": [
+          "2425 Hillview Ave"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58501-3056"
+      },
+      {
+        "line": [
+          "201 14 St NW"
+        ],
+        "city": "MANDAN",
+        "state": "ND",
+        "postalCode": "58554-2063"
+      },
+      {
+        "line": [
+          "401 N 9th St"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58501-4530"
+      },
+      {
+        "line": [
+          "1011 Boundary St NW"
+        ],
+        "city": "MANDAN",
+        "state": "ND",
+        "postalCode": "58554-1608"
       }
     ],
     "extension": [

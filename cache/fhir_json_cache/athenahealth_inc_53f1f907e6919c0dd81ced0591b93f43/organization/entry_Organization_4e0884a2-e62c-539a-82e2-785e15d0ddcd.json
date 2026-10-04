@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962025148"
+        "value": "1588997233"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275290694"
+        "value": "1962025148"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588997233"
+        "value": "1275290694"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,14 +38,6 @@
       }
     ],
     "address": [
-      {
-        "line": [
-          "3828 S First St"
-        ],
-        "city": "Austin",
-        "state": "TX",
-        "postalCode": "78704-7048"
-      },
       {
         "line": [
           "200 Springtown Way Ste 451"
@@ -56,27 +48,11 @@
       },
       {
         "line": [
-          "1400 N Interstate 35 Ste 320"
+          "3828 S First St"
         ],
         "city": "Austin",
         "state": "TX",
-        "postalCode": "78701-1926"
-      },
-      {
-        "line": [
-          "940 Hesters Crossing Rd"
-        ],
-        "city": "Round Rock",
-        "state": "TX",
-        "postalCode": "78681-8018"
-      },
-      {
-        "line": [
-          "525 RR 2900"
-        ],
-        "city": "Kingsland",
-        "state": "TX",
-        "postalCode": "78639-6000"
+        "postalCode": "78704-7048"
       },
       {
         "line": [
@@ -88,19 +64,20 @@
       },
       {
         "line": [
-          "1807 Slaughter Ln Ste 490"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78748-6208"
-      },
-      {
-        "line": [
           "7900 FM 1826 Ste 170"
         ],
         "city": "AUSTIN",
         "state": "TX",
         "postalCode": "78737-1409"
+      },
+      {
+        "line": [
+          "1400 N IH-35",
+          "Ste CL400"
+        ],
+        "city": "Austin",
+        "state": "TX",
+        "postalCode": "78701-1926"
       },
       {
         "line": [
@@ -112,6 +89,22 @@
       },
       {
         "line": [
+          "525 RR 2900"
+        ],
+        "city": "Kingsland",
+        "state": "TX",
+        "postalCode": "78639-6000"
+      },
+      {
+        "line": [
+          "1400 N Interstate 35 Ste 320"
+        ],
+        "city": "Austin",
+        "state": "TX",
+        "postalCode": "78701-1926"
+      },
+      {
+        "line": [
           "201 University Oaks Ste 1260"
         ],
         "city": "Round Rock",
@@ -120,12 +113,19 @@
       },
       {
         "line": [
-          "1400 N IH-35",
-          "Ste CL400"
+          "1807 Slaughter Ln Ste 490"
         ],
-        "city": "Austin",
+        "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "78701-1926"
+        "postalCode": "78748-6208"
+      },
+      {
+        "line": [
+          "940 Hesters Crossing Rd"
+        ],
+        "city": "Round Rock",
+        "state": "TX",
+        "postalCode": "78681-8018"
       },
       {
         "line": [

@@ -18,11 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588997233"
+        "value": "1629538491"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629538491"
+        "value": "1588997233"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -40,27 +40,19 @@
     "address": [
       {
         "line": [
-          "801 E Whitestone Blvd  Suite 100"
-        ],
-        "city": "CEDAR PARK",
-        "state": "TX",
-        "postalCode": "78613-7423"
-      },
-      {
-        "line": [
-          "1201 W. Louis Henna Blvd"
-        ],
-        "city": "Austin",
-        "state": "TX",
-        "postalCode": "78681-0001"
-      },
-      {
-        "line": [
           "1500 Red River St"
         ],
         "city": "AUSTIN",
         "state": "TX",
         "postalCode": "78701-1918"
+      },
+      {
+        "line": [
+          "1601 Trinity St. Suite 704D"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78712-1765"
       },
       {
         "line": [
@@ -72,11 +64,19 @@
       },
       {
         "line": [
-          "1601 Trinity St. Suite 704D"
+          "1201 W. Louis Henna Blvd"
         ],
-        "city": "AUSTIN",
+        "city": "Austin",
         "state": "TX",
-        "postalCode": "78712-1765"
+        "postalCode": "78681-0001"
+      },
+      {
+        "line": [
+          "801 E Whitestone Blvd  Suite 100"
+        ],
+        "city": "CEDAR PARK",
+        "state": "TX",
+        "postalCode": "78613-7423"
       }
     ],
     "extension": [

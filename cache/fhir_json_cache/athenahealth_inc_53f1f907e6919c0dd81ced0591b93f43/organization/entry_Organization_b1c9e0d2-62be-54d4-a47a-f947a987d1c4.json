@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043501448"
+        "value": "1891755351"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891755351"
+        "value": "1043501448"
       }
     ],
     "address": [
@@ -33,21 +33,21 @@
       },
       {
         "line": [
-          "3000 N HALSTED ST",
-          "SUITE 611"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60657-5188"
-      },
-      {
-        "line": [
           "2800 N. SHERIDAN RD",
           "SUITE 602"
         ],
         "city": "CHICAGO",
         "state": "IL",
         "postalCode": "60657-6156"
+      },
+      {
+        "line": [
+          "3000 N HALSTED ST",
+          "SUITE 611"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60657-5188"
       }
     ],
     "extension": [

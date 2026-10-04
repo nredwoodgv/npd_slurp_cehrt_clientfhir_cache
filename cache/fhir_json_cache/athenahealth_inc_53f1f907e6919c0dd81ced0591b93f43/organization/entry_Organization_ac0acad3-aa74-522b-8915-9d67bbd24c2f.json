@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073861431"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215287362"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265780621"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073861431"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730437245"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1265780621"
       }
     ],
     "address": [
@@ -44,197 +44,11 @@
       },
       {
         "line": [
-          "1523 US 2"
-        ],
-        "city": "CRYSTAL FALLS",
-        "state": "MI",
-        "postalCode": "49920-9633"
-      },
-      {
-        "line": [
-          "850 W BARAGA AVE"
-        ],
-        "city": "MARQUETTE",
-        "state": "MI",
-        "postalCode": "49855-4550"
-      },
-      {
-        "line": [
-          "425 FISHER STREET"
-        ],
-        "city": "MARQUETTE",
-        "state": "MI",
-        "postalCode": "49855-4521"
-      },
-      {
-        "line": [
-          "40 US 41 EAST"
-        ],
-        "city": "NEGAUNEE",
-        "state": "MI",
-        "postalCode": "49866-1327"
-      },
-      {
-        "line": [
-          "850 W BARAGA AVE",
-          "SUITE 10"
-        ],
-        "city": "MARQUETTE",
-        "state": "MI",
-        "postalCode": "49855-4550"
-      },
-      {
-        "line": [
-          "901 Lakeshore Drive"
-        ],
-        "city": "ISHPEMING",
-        "state": "MI",
-        "postalCode": "49849-1367"
-      },
-      {
-        "line": [
-          "500 OSBORN BLVD"
-        ],
-        "city": "SAULT SAINTE MARIE",
-        "state": "MI",
-        "postalCode": "49783-1822"
-      },
-      {
-        "line": [
-          "900 EAST MAAS"
-        ],
-        "city": "NEGAUNEE",
-        "state": "MI",
-        "postalCode": "49866-9999"
-      },
-      {
-        "line": [
           "850 W Baraga Ave"
         ],
         "city": "MARQUETTE",
         "state": "MI",
         "postalCode": "49855-2675"
-      },
-      {
-        "line": [
-          "1600 Mill Creek"
-        ],
-        "city": "MARQUETTE",
-        "state": "MI",
-        "postalCode": "49855-2675"
-      },
-      {
-        "line": [
-          "502 W HARRIE ST"
-        ],
-        "city": "NEWBERRY",
-        "state": "MI",
-        "postalCode": "49868-1209"
-      },
-      {
-        "line": [
-          "3401 LUDINGTON STREET"
-        ],
-        "city": "ESCANABA",
-        "state": "MI",
-        "postalCode": "49829-1300"
-      },
-      {
-        "line": [
-          "1225 WOODWARD AVE"
-        ],
-        "city": "IRON MOUNTAIN",
-        "state": "MI",
-        "postalCode": "49801-4312"
-      },
-      {
-        "line": [
-          "330 LINCOLN AVE"
-        ],
-        "city": "IRON RIVER",
-        "state": "MI",
-        "postalCode": "49935-8452"
-      },
-      {
-        "line": [
-          "901 LAKESHORE DR"
-        ],
-        "city": "ISHPEMING",
-        "state": "MI",
-        "postalCode": "49849-1367"
-      },
-      {
-        "line": [
-          "2525 7TH AVENUE SOUTH"
-        ],
-        "city": "ESCANABA",
-        "state": "MI",
-        "postalCode": "49829-1201"
-      },
-      {
-        "line": [
-          "500 CAMPUS DR"
-        ],
-        "city": "HANCOCK",
-        "state": "MI",
-        "postalCode": "49930-1452"
-      },
-      {
-        "line": [
-          "710 S LINCOLN RD",
-          "STE 100"
-        ],
-        "city": "ESCANABA",
-        "state": "MI",
-        "postalCode": "49829-1293"
-      },
-      {
-        "line": [
-          "2415 FIFTH AVENUE SOUTH"
-        ],
-        "city": "ESCANABA",
-        "state": "MI",
-        "postalCode": "49829-1201"
-      },
-      {
-        "line": [
-          "200 SAGINAW STREET"
-        ],
-        "city": "ISHPEMING",
-        "state": "MI",
-        "postalCode": "49849-9999"
-      },
-      {
-        "line": [
-          "1721 S STEPHENSON AVE"
-        ],
-        "city": "IRON MOUNTAIN",
-        "state": "MI",
-        "postalCode": "49801-3637"
-      },
-      {
-        "line": [
-          "601 EAST G ST"
-        ],
-        "city": "IRON MOUNTAIN",
-        "state": "MI",
-        "postalCode": "49801-4061"
-      },
-      {
-        "line": [
-          "1100 N LAKE SHORE DR"
-        ],
-        "city": "GLADSTONE",
-        "state": "MI",
-        "postalCode": "49837-1133"
-      },
-      {
-        "line": [
-          "1328 US HIGHWAY 2"
-        ],
-        "city": "CRYSTAL FALLS",
-        "state": "MI",
-        "postalCode": "49920-1045"
       },
       {
         "line": [
@@ -246,11 +60,76 @@
       },
       {
         "line": [
-          "501 S LINCOLN ROAD"
+          "601 EAST G ST"
+        ],
+        "city": "IRON MOUNTAIN",
+        "state": "MI",
+        "postalCode": "49801-4061"
+      },
+      {
+        "line": [
+          "500 CAMPUS DR"
+        ],
+        "city": "HANCOCK",
+        "state": "MI",
+        "postalCode": "49930-1452"
+      },
+      {
+        "line": [
+          "1100 N LAKE SHORE DR"
+        ],
+        "city": "GLADSTONE",
+        "state": "MI",
+        "postalCode": "49837-1133"
+      },
+      {
+        "line": [
+          "850 W BARAGA AVE"
+        ],
+        "city": "MARQUETTE",
+        "state": "MI",
+        "postalCode": "49855-4550"
+      },
+      {
+        "line": [
+          "1414 W FAIR AVE",
+          "SUITE 344"
+        ],
+        "city": "MARQUETTE",
+        "state": "MI",
+        "postalCode": "49855-5407"
+      },
+      {
+        "line": [
+          "3401 LUDINGTON STREET"
         ],
         "city": "ESCANABA",
         "state": "MI",
-        "postalCode": "49829-1276"
+        "postalCode": "49829-1300"
+      },
+      {
+        "line": [
+          "1523 US 2"
+        ],
+        "city": "CRYSTAL FALLS",
+        "state": "MI",
+        "postalCode": "49920-9633"
+      },
+      {
+        "line": [
+          "2415 FIFTH AVENUE SOUTH"
+        ],
+        "city": "ESCANABA",
+        "state": "MI",
+        "postalCode": "49829-1201"
+      },
+      {
+        "line": [
+          "502 W HARRIE ST"
+        ],
+        "city": "NEWBERRY",
+        "state": "MI",
+        "postalCode": "49868-1209"
       },
       {
         "line": [
@@ -263,11 +142,35 @@
       },
       {
         "line": [
-          "1901 Division Street"
+          "330 LINCOLN AVE"
+        ],
+        "city": "IRON RIVER",
+        "state": "MI",
+        "postalCode": "49935-8452"
+      },
+      {
+        "line": [
+          "1600 Mill Creek"
         ],
         "city": "MARQUETTE",
         "state": "MI",
         "postalCode": "49855-2675"
+      },
+      {
+        "line": [
+          "1225 WOODWARD AVE"
+        ],
+        "city": "IRON MOUNTAIN",
+        "state": "MI",
+        "postalCode": "49801-4312"
+      },
+      {
+        "line": [
+          "2525 7TH AVENUE SOUTH"
+        ],
+        "city": "ESCANABA",
+        "state": "MI",
+        "postalCode": "49829-1201"
       },
       {
         "line": [
@@ -279,6 +182,72 @@
       },
       {
         "line": [
+          "901 LAKESHORE DR"
+        ],
+        "city": "ISHPEMING",
+        "state": "MI",
+        "postalCode": "49849-1367"
+      },
+      {
+        "line": [
+          "901 Lakeshore Drive"
+        ],
+        "city": "ISHPEMING",
+        "state": "MI",
+        "postalCode": "49849-1367"
+      },
+      {
+        "line": [
+          "850 W BARAGA AVE",
+          "SUITE 10"
+        ],
+        "city": "MARQUETTE",
+        "state": "MI",
+        "postalCode": "49855-4550"
+      },
+      {
+        "line": [
+          "1328 US HIGHWAY 2"
+        ],
+        "city": "CRYSTAL FALLS",
+        "state": "MI",
+        "postalCode": "49920-1045"
+      },
+      {
+        "line": [
+          "501 S LINCOLN ROAD"
+        ],
+        "city": "ESCANABA",
+        "state": "MI",
+        "postalCode": "49829-1276"
+      },
+      {
+        "line": [
+          "900 EAST MAAS"
+        ],
+        "city": "NEGAUNEE",
+        "state": "MI",
+        "postalCode": "49866-9999"
+      },
+      {
+        "line": [
+          "710 S LINCOLN RD",
+          "STE 100"
+        ],
+        "city": "ESCANABA",
+        "state": "MI",
+        "postalCode": "49829-1293"
+      },
+      {
+        "line": [
+          "1901 Division Street"
+        ],
+        "city": "MARQUETTE",
+        "state": "MI",
+        "postalCode": "49855-2675"
+      },
+      {
+        "line": [
           "2405 LUDINGTON ST"
         ],
         "city": "ESCANABA",
@@ -287,12 +256,35 @@
       },
       {
         "line": [
-          "1414 W FAIR AVE",
-          "SUITE 344"
+          "200 SAGINAW STREET"
         ],
-        "city": "MARQUETTE",
+        "city": "ISHPEMING",
         "state": "MI",
-        "postalCode": "49855-5407"
+        "postalCode": "49849-9999"
+      },
+      {
+        "line": [
+          "500 OSBORN BLVD"
+        ],
+        "city": "SAULT SAINTE MARIE",
+        "state": "MI",
+        "postalCode": "49783-1822"
+      },
+      {
+        "line": [
+          "40 US 41 EAST"
+        ],
+        "city": "NEGAUNEE",
+        "state": "MI",
+        "postalCode": "49866-1327"
+      },
+      {
+        "line": [
+          "1721 S STEPHENSON AVE"
+        ],
+        "city": "IRON MOUNTAIN",
+        "state": "MI",
+        "postalCode": "49801-3637"
       },
       {
         "line": [
@@ -310,6 +302,14 @@
         "city": "MARQUETTE",
         "state": "MI",
         "postalCode": "49855-2675"
+      },
+      {
+        "line": [
+          "425 FISHER STREET"
+        ],
+        "city": "MARQUETTE",
+        "state": "MI",
+        "postalCode": "49855-4521"
       }
     ],
     "extension": [

@@ -14,6 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437199551"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316984974"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1316987027"
       },
       {
@@ -26,31 +34,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316984974"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437199551"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1508812363"
       }
     ],
     "address": [
       {
+        "line": [
+          "8390 SKYLINE BLVD"
+        ],
+        "city": "OAKLAND",
+        "state": "CA",
+        "postalCode": "94611-1557"
+      },
+      {
         "line": [],
         "city": "BERKELEY",
         "state": "CA",
         "postalCode": "94704-3213"
-      },
-      {
-        "line": [
-          "3000 Colby St Ste 303"
-        ],
-        "city": "BERKELEY",
-        "state": "CA",
-        "postalCode": "94705-2058"
       },
       {
         "line": [
@@ -62,11 +62,11 @@
       },
       {
         "line": [
-          "8390 SKYLINE BLVD"
+          "3000 Colby St Ste 303"
         ],
-        "city": "OAKLAND",
+        "city": "BERKELEY",
         "state": "CA",
-        "postalCode": "94611-1557"
+        "postalCode": "94705-2058"
       }
     ],
     "extension": [

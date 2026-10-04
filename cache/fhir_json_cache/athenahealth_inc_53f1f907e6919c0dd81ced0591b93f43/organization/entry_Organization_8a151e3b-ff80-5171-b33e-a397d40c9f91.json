@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033437116"
+        "value": "1215920285"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215920285"
+        "value": "1033437116"
       }
     ],
     "address": [
+      {
+        "line": [
+          "981 BEECHWOOD AVE"
+        ],
+        "city": "MIDDLETOWN",
+        "state": "IN",
+        "postalCode": "47356-9358"
+      },
       {
         "line": [
           "1630 S COUNTY FARM RD"
@@ -37,14 +45,6 @@
         "city": "WAKARUSA",
         "state": "IN",
         "postalCode": "46573-9590"
-      },
-      {
-        "line": [
-          "981 BEECHWOOD AVE"
-        ],
-        "city": "MIDDLETOWN",
-        "state": "IN",
-        "postalCode": "47356-9358"
       },
       {
         "line": [

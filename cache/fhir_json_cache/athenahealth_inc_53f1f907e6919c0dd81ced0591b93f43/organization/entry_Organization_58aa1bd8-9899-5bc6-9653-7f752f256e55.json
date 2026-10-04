@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063282879"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1760292387"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649875816"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -31,16 +23,25 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952252330"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1063282879"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649875816"
       }
     ],
     "address": [
       {
         "line": [
-          "3 St. Francis Drive"
+          "391 Serpentine Drive",
+          "#200"
         ],
-        "city": "GREENVILLE",
+        "city": "SPARTANBURG",
         "state": "SC",
-        "postalCode": "29601-3971"
+        "postalCode": "29303-3079"
       },
       {
         "line": [
@@ -52,14 +53,6 @@
       },
       {
         "line": [
-          "250 Westmoreland Road"
-        ],
-        "city": "GREER",
-        "state": "SC",
-        "postalCode": "29651-9013"
-      },
-      {
-        "line": [
           "101 East Wood Street"
         ],
         "city": "SPARTANBURG",
@@ -68,36 +61,11 @@
       },
       {
         "line": [
-          "701 Grove Road"
+          "3 St. Francis Drive"
         ],
         "city": "GREENVILLE",
         "state": "SC",
-        "postalCode": "29607-4210"
-      },
-      {
-        "line": [
-          "1700 Skylyn Drive"
-        ],
-        "city": "Spartanburg",
-        "state": "SC",
-        "postalCode": "29307-1041"
-      },
-      {
-        "line": [
-          "175 Patewood Drive"
-        ],
-        "city": "GREENVILLE",
-        "state": "SC",
-        "postalCode": "29615-3570"
-      },
-      {
-        "line": [
-          "2755 South Highway 14",
-          "Entrance A"
-        ],
-        "city": "GREER",
-        "state": "SC",
-        "postalCode": "29650-4926"
+        "postalCode": "29601-3971"
       },
       {
         "line": [
@@ -117,6 +85,14 @@
       },
       {
         "line": [
+          "175 Patewood Drive"
+        ],
+        "city": "GREENVILLE",
+        "state": "SC",
+        "postalCode": "29615-3570"
+      },
+      {
+        "line": [
           "830 S Buncombe Road"
         ],
         "city": "GREER",
@@ -125,12 +101,19 @@
       },
       {
         "line": [
-          "391 Serpentine Drive",
-          "#200"
+          "1700 Skylyn Drive"
         ],
-        "city": "SPARTANBURG",
+        "city": "Spartanburg",
         "state": "SC",
-        "postalCode": "29303-3079"
+        "postalCode": "29307-1041"
+      },
+      {
+        "line": [
+          "250 Westmoreland Road"
+        ],
+        "city": "GREER",
+        "state": "SC",
+        "postalCode": "29651-9013"
       },
       {
         "line": [
@@ -147,6 +130,23 @@
         "city": "NEWBERRY",
         "state": "SC",
         "postalCode": "29108-3035"
+      },
+      {
+        "line": [
+          "701 Grove Road"
+        ],
+        "city": "GREENVILLE",
+        "state": "SC",
+        "postalCode": "29607-4210"
+      },
+      {
+        "line": [
+          "2755 South Highway 14",
+          "Entrance A"
+        ],
+        "city": "GREER",
+        "state": "SC",
+        "postalCode": "29650-4926"
       }
     ],
     "extension": [

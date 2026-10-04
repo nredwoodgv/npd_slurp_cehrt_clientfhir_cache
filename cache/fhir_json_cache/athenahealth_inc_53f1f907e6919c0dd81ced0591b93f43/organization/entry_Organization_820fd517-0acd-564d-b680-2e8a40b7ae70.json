@@ -14,15 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1295433944"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730570581"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548836224"
+        "value": "1366018020"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366018020"
+        "value": "1548836224"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -31,21 +35,9 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1942876701"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295433944"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2608 N UNIVERSITY DR"
-        ],
-        "city": "NACOGDOCHES",
-        "state": "TX",
-        "postalCode": "75965-2904"
-      },
       {
         "line": [
           "103 Timberland Hwy"
@@ -53,14 +45,6 @@
         "city": "PINELAND",
         "state": "TX",
         "postalCode": "75968-4012"
-      },
-      {
-        "line": [
-          "507 N Jacob St"
-        ],
-        "city": "TIMPSON",
-        "state": "TX",
-        "postalCode": "75975-5255"
       },
       {
         "line": [
@@ -72,11 +56,11 @@
       },
       {
         "line": [
-          "854 Hurst Street"
+          "606 West Columbia"
         ],
-        "city": "CENTER",
+        "city": "SAN AUGUSTINE",
         "state": "TX",
-        "postalCode": "75935-3440"
+        "postalCode": "75972-1709"
       },
       {
         "line": [
@@ -88,11 +72,27 @@
       },
       {
         "line": [
-          "606 West Columbia"
+          "854 Hurst Street"
         ],
-        "city": "SAN AUGUSTINE",
+        "city": "CENTER",
         "state": "TX",
-        "postalCode": "75972-1709"
+        "postalCode": "75935-3440"
+      },
+      {
+        "line": [
+          "2608 N UNIVERSITY DR"
+        ],
+        "city": "NACOGDOCHES",
+        "state": "TX",
+        "postalCode": "75965-2904"
+      },
+      {
+        "line": [
+          "507 N Jacob St"
+        ],
+        "city": "TIMPSON",
+        "state": "TX",
+        "postalCode": "75975-5255"
       }
     ],
     "extension": [

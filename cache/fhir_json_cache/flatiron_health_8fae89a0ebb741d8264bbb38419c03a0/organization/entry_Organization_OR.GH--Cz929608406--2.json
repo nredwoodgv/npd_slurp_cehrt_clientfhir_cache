@@ -34,6 +34,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669425716"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1114919339"
       },
       {
@@ -58,7 +62,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669425716"
+        "value": "1356369755"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -90,19 +94,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1111111"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1841342789"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356369755"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "74598631"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1111111"
       }
     ],
     "active": true,
@@ -162,7 +162,15 @@
       },
       {
         "system": "phone",
+        "value": "(256)319-9000"
+      },
+      {
+        "system": "phone",
         "value": "(256)760-0422"
+      },
+      {
+        "system": "phone",
+        "value": "(256)265-1000"
       },
       {
         "system": "phone",
@@ -190,7 +198,7 @@
       },
       {
         "system": "phone",
-        "value": "(256)265-1000"
+        "value": "(256)882-3605"
       },
       {
         "system": "phone",
@@ -198,15 +206,7 @@
       },
       {
         "system": "phone",
-        "value": "(256)319-9000"
-      },
-      {
-        "system": "phone",
         "value": "(256)705-4294"
-      },
-      {
-        "system": "phone",
-        "value": "(256)882-3605"
       }
     ],
     "address": [
@@ -263,6 +263,17 @@
         "city": "No Address Available",
         "state": "AL",
         "postalCode": "12345",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "3601 CCI Drive"
+        ],
+        "city": "Huntsville",
+        "state": "AL",
+        "postalCode": "35805",
         "country": "USA"
       },
       {
@@ -391,6 +402,17 @@
         "use": "work",
         "type": "postal",
         "line": [
+          "460 Lanier Road"
+        ],
+        "city": "Madison",
+        "state": "Al",
+        "postalCode": "35758",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
           "1751 Veterans Dr, Suite 190"
         ],
         "city": "Florence",
@@ -402,11 +424,11 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "3601 CCI Drive"
+          "911 Big Cove Road"
         ],
         "city": "Huntsville",
-        "state": "AL",
-        "postalCode": "35805",
+        "state": "Al",
+        "postalCode": "35801",
         "country": "USA"
       },
       {
@@ -525,33 +547,24 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "One Hospital Drive"
+          "12090 County Line Road",
+          "Suite B"
         ],
-        "city": "Huntsville",
+        "city": "Madison",
         "state": "Al",
-        "postalCode": "35801",
+        "postalCode": "35758",
         "country": "USA"
       },
       {
         "use": "work",
         "type": "postal",
         "line": [
-          "101 Sivley Road"
+          "1107 14th Avenue SE",
+          "Suite 200"
         ],
-        "city": "Huntsville",
-        "state": "Al",
-        "postalCode": "35801",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "911 Big Cove Road"
-        ],
-        "city": "Huntsville",
-        "state": "Al",
-        "postalCode": "35801",
+        "city": "Decatur",
+        "state": "AL",
+        "postalCode": "35601",
         "country": "USA"
       },
       {
@@ -569,7 +582,41 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "721 Madison Street"
+          "101 DR W H Blake Jr Dr"
+        ],
+        "city": "Muscle Shoals",
+        "state": "AL",
+        "postalCode": "35661",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "4704 Whitesburg Drive",
+          "Suite 100"
+        ],
+        "city": "Huntsville",
+        "state": "AL",
+        "postalCode": "35802",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "901 Leighton Ave Suite 602"
+        ],
+        "city": "Anniston",
+        "state": "Al",
+        "postalCode": "36207",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "One Hospital Drive"
         ],
         "city": "Huntsville",
         "state": "Al",
@@ -580,11 +627,11 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "460 Lanier Road"
+          "721 Madison Street"
         ],
-        "city": "Madison",
+        "city": "Huntsville",
         "state": "Al",
-        "postalCode": "35758",
+        "postalCode": "35801",
         "country": "USA"
       },
       {
@@ -624,58 +671,11 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "12090 County Line Road",
-          "Suite B"
-        ],
-        "city": "Madison",
-        "state": "Al",
-        "postalCode": "35758",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1107 14th Avenue SE",
-          "Suite 200"
-        ],
-        "city": "Decatur",
-        "state": "AL",
-        "postalCode": "35601",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "101 DR W H Blake Jr Dr"
-        ],
-        "city": "Muscle Shoals",
-        "state": "AL",
-        "postalCode": "35661",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "4704 Whitesburg Drive",
-          "Suite 100"
+          "101 Sivley Road"
         ],
         "city": "Huntsville",
-        "state": "AL",
-        "postalCode": "35802",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "901 Leighton Ave Suite 602"
-        ],
-        "city": "Anniston",
         "state": "Al",
-        "postalCode": "36207",
+        "postalCode": "35801",
         "country": "USA"
       }
     ],

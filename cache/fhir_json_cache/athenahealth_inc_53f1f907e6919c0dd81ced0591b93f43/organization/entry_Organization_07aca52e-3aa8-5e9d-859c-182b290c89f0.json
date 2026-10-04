@@ -14,27 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679551238"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457746661"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104868892"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568414373"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1144251059"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417023904"
+        "value": "1295868008"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,7 +26,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295868008"
+        "value": "1679551238"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104868892"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457746661"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1568414373"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417023904"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -60,31 +60,7 @@
     "address": [
       {
         "line": [
-          "60 Maple Lane"
-        ],
-        "city": "BARTON",
-        "state": "VT",
-        "postalCode": "05822-8637"
-      },
-      {
-        "line": [
           "189 Prouty Drive"
-        ],
-        "city": "NEWPORT",
-        "state": "VT",
-        "postalCode": "05855-9326"
-      },
-      {
-        "line": [
-          "25 Bel-Aire Drive"
-        ],
-        "city": "NEWPORT",
-        "state": "VT",
-        "postalCode": "05855-9326"
-      },
-      {
-        "line": [
-          "149 Prouty Drive"
         ],
         "city": "NEWPORT",
         "state": "VT",
@@ -100,35 +76,11 @@
       },
       {
         "line": [
-          "468 Hospital Drive Suite 2"
-        ],
-        "city": "SAINT JOHNSBURY",
-        "state": "VT",
-        "postalCode": "05819-0905"
-      },
-      {
-        "line": [
           "Patient's Place of Residence"
         ],
         "city": "NEWPORT",
         "state": "VT",
         "postalCode": "05855-9326"
-      },
-      {
-        "line": [
-          "2853 US Route 5"
-        ],
-        "city": "DERBY",
-        "state": "VT",
-        "postalCode": "05829-9833"
-      },
-      {
-        "line": [
-          "577 Washington HIghway"
-        ],
-        "city": "MORRISVILLE",
-        "state": "VT",
-        "postalCode": "05661-8973"
       },
       {
         "line": [
@@ -141,6 +93,54 @@
       {
         "line": [
           "Outside Facility"
+        ],
+        "city": "NEWPORT",
+        "state": "VT",
+        "postalCode": "05855-9326"
+      },
+      {
+        "line": [
+          "468 Hospital Drive Suite 2"
+        ],
+        "city": "SAINT JOHNSBURY",
+        "state": "VT",
+        "postalCode": "05819-0905"
+      },
+      {
+        "line": [
+          "577 Washington HIghway"
+        ],
+        "city": "MORRISVILLE",
+        "state": "VT",
+        "postalCode": "05661-8973"
+      },
+      {
+        "line": [
+          "2853 US Route 5"
+        ],
+        "city": "DERBY",
+        "state": "VT",
+        "postalCode": "05829-9833"
+      },
+      {
+        "line": [
+          "60 Maple Lane"
+        ],
+        "city": "BARTON",
+        "state": "VT",
+        "postalCode": "05822-8637"
+      },
+      {
+        "line": [
+          "25 Bel-Aire Drive"
+        ],
+        "city": "NEWPORT",
+        "state": "VT",
+        "postalCode": "05855-9326"
+      },
+      {
+        "line": [
+          "149 Prouty Drive"
         ],
         "city": "NEWPORT",
         "state": "VT",

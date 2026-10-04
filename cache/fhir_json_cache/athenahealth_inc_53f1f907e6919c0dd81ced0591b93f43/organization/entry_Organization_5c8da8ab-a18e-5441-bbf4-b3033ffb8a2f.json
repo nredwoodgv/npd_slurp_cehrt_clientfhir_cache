@@ -14,14 +14,62 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336135607"
+        "value": "1003226010"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003226010"
+        "value": "1336135607"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1513 UNION AVE STE 1600"
+        ],
+        "city": "MOBERLY",
+        "state": "MO",
+        "postalCode": "65270-9407"
+      },
+      {
+        "line": [
+          "800 W JEFFERSON"
+        ],
+        "city": "KIRKSVILLE",
+        "state": "MO",
+        "postalCode": "63501-9999"
+      },
+      {
+        "line": [
+          "136 Shelby Plaza Rd"
+        ],
+        "city": "SHELBINA",
+        "state": "MO",
+        "postalCode": "63468-1065"
+      },
+      {
+        "line": [
+          "209 N Missouri St."
+        ],
+        "city": "MACON",
+        "state": "MO",
+        "postalCode": "63552-2151"
+      },
+      {
+        "line": [
+          "3100 Oak Grove Road"
+        ],
+        "city": "POPLAR BLUFF",
+        "state": "MO",
+        "postalCode": "63901-1573"
+      },
+      {
+        "line": [
+          "1515 UNION AVE"
+        ],
+        "city": "MOBERLY",
+        "state": "MO",
+        "postalCode": "65270-9407"
+      },
       {
         "line": [
           "1513 UNION AVE STE 2900"
@@ -29,6 +77,38 @@
         "city": "MOBERLY",
         "state": "MO",
         "postalCode": "65270-9407"
+      },
+      {
+        "line": [
+          "1501 UNION AVE STE B"
+        ],
+        "city": "MOBERLY",
+        "state": "MO",
+        "postalCode": "65270-9469"
+      },
+      {
+        "line": [
+          "106 BUTLER ST STE A"
+        ],
+        "city": "MACON",
+        "state": "MO",
+        "postalCode": "63552-1629"
+      },
+      {
+        "line": [
+          "305 N Keene St. Suite 107"
+        ],
+        "city": "COLUMBIA",
+        "state": "MO",
+        "postalCode": "65201-6897"
+      },
+      {
+        "line": [
+          "1600 E ROLLINS ST"
+        ],
+        "city": "MOBERLY",
+        "state": "MO",
+        "postalCode": "65270-2478"
       },
       {
         "line": [
@@ -40,19 +120,11 @@
       },
       {
         "line": [
-          "1513 UNION AVE STE 1500"
+          "1517 UNION AVE STE D"
         ],
         "city": "MOBERLY",
         "state": "MO",
-        "postalCode": "65270-9408"
-      },
-      {
-        "line": [
-          "1515 UNION AVE"
-        ],
-        "city": "MOBERLY",
-        "state": "MO",
-        "postalCode": "65270-9407"
+        "postalCode": "65270-9471"
       },
       {
         "line": [
@@ -65,39 +137,7 @@
       },
       {
         "line": [
-          "3100 Oak Grove Road"
-        ],
-        "city": "POPLAR BLUFF",
-        "state": "MO",
-        "postalCode": "63901-1573"
-      },
-      {
-        "line": [
-          "136 Shelby Plaza Rd"
-        ],
-        "city": "SHELBINA",
-        "state": "MO",
-        "postalCode": "63468-1065"
-      },
-      {
-        "line": [
-          "1513 UNION AVE STE 1600"
-        ],
-        "city": "MOBERLY",
-        "state": "MO",
-        "postalCode": "65270-9407"
-      },
-      {
-        "line": [
-          "106 BUTLER ST STE A"
-        ],
-        "city": "MACON",
-        "state": "MO",
-        "postalCode": "63552-1629"
-      },
-      {
-        "line": [
-          "1501 UNION AVE STE B"
+          "1501 UNION AVE STE A"
         ],
         "city": "MOBERLY",
         "state": "MO",
@@ -105,19 +145,11 @@
       },
       {
         "line": [
-          "800 W JEFFERSON"
-        ],
-        "city": "KIRKSVILLE",
-        "state": "MO",
-        "postalCode": "63501-9999"
-      },
-      {
-        "line": [
-          "700 E URBANDALE"
+          "1517 UNION AVE STE C"
         ],
         "city": "MOBERLY",
         "state": "MO",
-        "postalCode": "65270-1966"
+        "postalCode": "65270-9471"
       },
       {
         "line": [
@@ -130,43 +162,19 @@
       },
       {
         "line": [
-          "1501 UNION AVE Suite C D"
+          "1513 UNION AVE STE 1500"
         ],
         "city": "MOBERLY",
         "state": "MO",
-        "postalCode": "65270-9469"
+        "postalCode": "65270-9408"
       },
       {
         "line": [
-          "209 N Missouri St."
-        ],
-        "city": "MACON",
-        "state": "MO",
-        "postalCode": "63552-2151"
-      },
-      {
-        "line": [
-          "1517 UNION AVE STE C"
+          "700 E URBANDALE"
         ],
         "city": "MOBERLY",
         "state": "MO",
-        "postalCode": "65270-9471"
-      },
-      {
-        "line": [
-          "305 N Keene St. Suite 107"
-        ],
-        "city": "COLUMBIA",
-        "state": "MO",
-        "postalCode": "65201-6897"
-      },
-      {
-        "line": [
-          "1501 UNION AVE STE A"
-        ],
-        "city": "MOBERLY",
-        "state": "MO",
-        "postalCode": "65270-9469"
+        "postalCode": "65270-1966"
       },
       {
         "line": [
@@ -178,19 +186,11 @@
       },
       {
         "line": [
-          "1517 UNION AVE STE D"
+          "1501 UNION AVE Suite C D"
         ],
         "city": "MOBERLY",
         "state": "MO",
-        "postalCode": "65270-9471"
-      },
-      {
-        "line": [
-          "1600 E ROLLINS ST"
-        ],
-        "city": "MOBERLY",
-        "state": "MO",
-        "postalCode": "65270-2478"
+        "postalCode": "65270-9469"
       }
     ],
     "extension": [

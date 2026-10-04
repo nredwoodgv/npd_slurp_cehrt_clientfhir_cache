@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063229458"
+        "value": "1699143800"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699143800"
+        "value": "1063229458"
       }
     ],
     "address": [
@@ -32,11 +32,19 @@
       },
       {
         "line": [
-          "2215 BURDETT AVE"
+          "100 Hospital Drive"
         ],
-        "city": "TROY",
+        "city": "BENNINGTON",
+        "state": "VT",
+        "postalCode": "05201-5004"
+      },
+      {
+        "line": [
+          "6511 Spring Brook Ave."
+        ],
+        "city": "RHINEBECK",
         "state": "NY",
-        "postalCode": "12180-2466"
+        "postalCode": "12572-3709"
       },
       {
         "line": [
@@ -49,19 +57,11 @@
       },
       {
         "line": [
-          "6511 Spring Brook Ave."
+          "2215 BURDETT AVE"
         ],
-        "city": "RHINEBECK",
+        "city": "TROY",
         "state": "NY",
-        "postalCode": "12572-3709"
-      },
-      {
-        "line": [
-          "100 Hospital Drive"
-        ],
-        "city": "BENNINGTON",
-        "state": "VT",
-        "postalCode": "05201-5004"
+        "postalCode": "12180-2466"
       }
     ],
     "extension": [

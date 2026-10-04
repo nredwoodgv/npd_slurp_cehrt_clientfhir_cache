@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922115914"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1174955256"
       },
       {
@@ -26,7 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013434067"
+        "value": "1639325046"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1922115914"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,11 +34,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164698809"
+        "value": "1013434067"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881850956"
+        "value": "1164698809"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,18 +46,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639325046"
+        "value": "1881850956"
       }
     ],
     "address": [
       {
         "line": [
-          "305 Memorial Medical Pkwy",
-          "Suite 207"
+          "900 Hope Way"
         ],
-        "city": "DAYTONA BEACH",
+        "city": "ALTAMONTE SPRINGS",
         "state": "FL",
-        "postalCode": "32117-5169"
+        "postalCode": "32714-0000"
+      },
+      {
+        "line": [
+          "1613 N Mills Ave"
+        ],
+        "city": "ORLANDO",
+        "state": "FL",
+        "postalCode": "32803-1849"
       },
       {
         "line": [
@@ -66,23 +73,6 @@
         "city": "TAMPA",
         "state": "FL",
         "postalCode": "33626-4460"
-      },
-      {
-        "line": [
-          "380 Celebration Pl",
-          "2nd Floor"
-        ],
-        "city": "KISSIMMEE",
-        "state": "FL",
-        "postalCode": "34747-4606"
-      },
-      {
-        "line": [
-          "900 Hope Way"
-        ],
-        "city": "ALTAMONTE SPRINGS",
-        "state": "FL",
-        "postalCode": "32714-0000"
       },
       {
         "line": [
@@ -102,11 +92,20 @@
       },
       {
         "line": [
-          "1613 N Mills Ave"
+          "305 Memorial Medical Pkwy",
+          "Suite 207"
         ],
-        "city": "ORLANDO",
+        "city": "DAYTONA BEACH",
         "state": "FL",
-        "postalCode": "32803-1849"
+        "postalCode": "32117-5169"
+      },
+      {
+        "line": [
+          "380 Celebration Pl 2nd Floor"
+        ],
+        "city": "KISSIMMEE",
+        "state": "FL",
+        "postalCode": "34747-4606"
       },
       {
         "line": [

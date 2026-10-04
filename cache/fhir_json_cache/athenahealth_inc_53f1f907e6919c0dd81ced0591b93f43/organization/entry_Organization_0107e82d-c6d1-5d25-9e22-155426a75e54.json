@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508392432"
+        "value": "1801571823"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801571823"
+        "value": "1508392432"
       }
     ],
     "address": [
       {
         "line": [
-          "2451 University Hospital Dr"
+          "6701 AIRPORT BLVD"
         ],
         "city": "MOBILE",
         "state": "AL",
-        "postalCode": "36617-2300"
+        "postalCode": "36608-6705"
       },
       {
         "line": [
@@ -44,15 +44,15 @@
         ],
         "city": "MOBILE",
         "state": "AL",
-        "postalCode": "36604-3304"
+        "postalCode": "36604-1541"
       },
       {
         "line": [
-          "1601 CENTER ST"
+          "2451 University Hospital Dr"
         ],
         "city": "MOBILE",
         "state": "AL",
-        "postalCode": "36604-1541"
+        "postalCode": "36617-2300"
       },
       {
         "line": [
@@ -64,11 +64,11 @@
       },
       {
         "line": [
-          "6701 AIRPORT BLVD"
+          "1601 CENTER ST"
         ],
         "city": "MOBILE",
         "state": "AL",
-        "postalCode": "36608-6705"
+        "postalCode": "36604-3304"
       },
       {
         "line": [
@@ -77,14 +77,6 @@
         "city": "MOBILE",
         "state": "AL",
         "postalCode": "36604-3301"
-      },
-      {
-        "line": [
-          "3290 Dauphin St"
-        ],
-        "city": "MOBILE",
-        "state": "AL",
-        "postalCode": "36606-4062"
       },
       {
         "line": [
@@ -102,6 +94,14 @@
         "city": "MOBILE",
         "state": "AL",
         "postalCode": "36608-6705"
+      },
+      {
+        "line": [
+          "3290 Dauphin St"
+        ],
+        "city": "MOBILE",
+        "state": "AL",
+        "postalCode": "36606-4062"
       }
     ],
     "extension": [

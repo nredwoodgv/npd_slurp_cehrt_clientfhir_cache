@@ -14,11 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124586938"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1104386655"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861054744"
+        "value": "1871801688"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,14 +30,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124586938"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871801688"
+        "value": "1861054744"
       }
     ],
     "address": [
+      {
+        "line": [
+          "4421 Roosevelt Blvd",
+          "Suite A"
+        ],
+        "city": "MIDDLETOWN",
+        "state": "OH",
+        "postalCode": "45044-9023"
+      },
       {
         "line": [
           "4923 Ogletown Stanton Road",
@@ -53,11 +62,36 @@
       },
       {
         "line": [
-          "77 Hospital Drive, Suite 104"
+          "489 Bernardston Road"
         ],
-        "city": "NORTH ADAMS",
+        "city": "GREENFIELD",
         "state": "MA",
-        "postalCode": "01247-2538"
+        "postalCode": "01301-1238"
+      },
+      {
+        "line": [
+          "41 Acme Road",
+          "Suite 3"
+        ],
+        "city": "BREWER",
+        "state": "ME",
+        "postalCode": "04412-1543"
+      },
+      {
+        "line": [
+          "938 South Bradford Street"
+        ],
+        "city": "DOVER",
+        "state": "DE",
+        "postalCode": "19904-4139"
+      },
+      {
+        "line": [
+          "725 North St"
+        ],
+        "city": "PITTSFIELD",
+        "state": "MA",
+        "postalCode": "01201-4109"
       },
       {
         "line": [
@@ -70,30 +104,6 @@
       },
       {
         "line": [
-          "489 Bernardston Road"
-        ],
-        "city": "GREENFIELD",
-        "state": "MA",
-        "postalCode": "01301-1238"
-      },
-      {
-        "line": [
-          "938 South Bradford Street"
-        ],
-        "city": "DOVER",
-        "state": "DE",
-        "postalCode": "19904-4139"
-      },
-      {
-        "line": [
-          "42 Summer Street, Suite 201"
-        ],
-        "city": "PITTSFIELD",
-        "state": "MA",
-        "postalCode": "01201-4697"
-      },
-      {
-        "line": [
           "121 Lincoln Street, 1st Floor"
         ],
         "city": "WORCESTER",
@@ -102,29 +112,19 @@
       },
       {
         "line": [
-          "725 North St"
+          "77 Hospital Drive, Suite 104"
+        ],
+        "city": "NORTH ADAMS",
+        "state": "MA",
+        "postalCode": "01247-2538"
+      },
+      {
+        "line": [
+          "42 Summer Street, Suite 201"
         ],
         "city": "PITTSFIELD",
         "state": "MA",
-        "postalCode": "01201-4109"
-      },
-      {
-        "line": [
-          "4421 Roosevelt Blvd",
-          "Suite A"
-        ],
-        "city": "MIDDLETOWN",
-        "state": "OH",
-        "postalCode": "45044-9023"
-      },
-      {
-        "line": [
-          "41 Acme Road",
-          "Suite 3"
-        ],
-        "city": "BREWER",
-        "state": "ME",
-        "postalCode": "04412-1543"
+        "postalCode": "01201-4697"
       }
     ],
     "extension": [

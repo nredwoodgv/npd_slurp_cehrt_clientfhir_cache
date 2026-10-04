@@ -14,14 +14,57 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548624984"
+        "value": "1144818436"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144818436"
+        "value": "1548624984"
       }
     ],
     "address": [
+      {
+        "line": [
+          "34020 7 MILE RD",
+          "STE 101"
+        ],
+        "city": "LIVONIA",
+        "state": "MI",
+        "postalCode": "48152-3093"
+      },
+      {
+        "line": [
+          "1560 E MAPLE RD"
+        ],
+        "city": "TROY",
+        "state": "MI",
+        "postalCode": "48083-1135"
+      },
+      {
+        "line": [
+          "36401 VAN DYKE AVE"
+        ],
+        "city": "STERLING HEIGHTS",
+        "state": "MI",
+        "postalCode": "48312-2763"
+      },
+      {
+        "line": [
+          "42645 Garfield Rd",
+          "Ste 103"
+        ],
+        "city": "CLINTON TOWNSHIP",
+        "state": "MI",
+        "postalCode": "48038-5022"
+      },
+      {
+        "line": [
+          "42645 GARFIELD RD",
+          "STE 103"
+        ],
+        "city": "CLINTON TOWNSHIP",
+        "state": "MI",
+        "postalCode": "48038-5022"
+      },
       {
         "line": [
           "44201 Dequindre Rd"
@@ -32,15 +75,24 @@
       },
       {
         "line": [
-          "36475 Five Mile Rd"
+          "43475 DALCOMA DR",
+          "STE 100"
         ],
-        "city": "LIVONIA",
+        "city": "CLINTON TOWNSHIP",
         "state": "MI",
-        "postalCode": "48154-1971"
+        "postalCode": "48038-3593"
       },
       {
         "line": [
-          "34020 7 MILE RD STE 101"
+          "18101 Oakwood Blvd"
+        ],
+        "city": "DEARBORN",
+        "state": "MI",
+        "postalCode": "48124-4089"
+      },
+      {
+        "line": [
+          "34020 7 Mile #101"
         ],
         "city": "LIVONIA",
         "state": "MI",
@@ -56,45 +108,11 @@
       },
       {
         "line": [
-          "36401 VAN DYKE AVE"
-        ],
-        "city": "STERLING HEIGHTS",
-        "state": "MI",
-        "postalCode": "48312-2763"
-      },
-      {
-        "line": [
-          "43475 DALCOMA DR",
-          "STE 100"
-        ],
-        "city": "CLINTON TOWNSHIP",
-        "state": "MI",
-        "postalCode": "48038-3593"
-      },
-      {
-        "line": [
-          "375 BARCLAY CIR"
-        ],
-        "city": "ROCHESTER",
-        "state": "MI",
-        "postalCode": "48307-4511"
-      },
-      {
-        "line": [
-          "34020 7 Mile #101"
+          "19000 St Joes Pkwy Ste 100"
         ],
         "city": "LIVONIA",
         "state": "MI",
-        "postalCode": "48152-3093"
-      },
-      {
-        "line": [
-          "42645 Garfield Rd",
-          "Ste 103"
-        ],
-        "city": "CLINTON TOWNSHIP",
-        "state": "MI",
-        "postalCode": "48038-5022"
+        "postalCode": "48152-1477"
       },
       {
         "line": [
@@ -106,11 +124,11 @@
       },
       {
         "line": [
-          "1560 E MAPLE RD"
+          "36475 Five Mile Rd"
         ],
-        "city": "TROY",
+        "city": "LIVONIA",
         "state": "MI",
-        "postalCode": "48083-1135"
+        "postalCode": "48154-1971"
       },
       {
         "line": [
@@ -123,20 +141,11 @@
       },
       {
         "line": [
-          "42645 GARFIELD RD",
-          "STE 103"
+          "375 BARCLAY CIR"
         ],
-        "city": "CLINTON TOWNSHIP",
+        "city": "ROCHESTER",
         "state": "MI",
-        "postalCode": "48038-5022"
-      },
-      {
-        "line": [
-          "19000 St Joes Pkwy Ste 100"
-        ],
-        "city": "LIVONIA",
-        "state": "MI",
-        "postalCode": "48152-1477"
+        "postalCode": "48307-4511"
       },
       {
         "line": [
@@ -146,14 +155,6 @@
         "city": "NOVI",
         "state": "MI",
         "postalCode": "48375-1879"
-      },
-      {
-        "line": [
-          "18101 Oakwood Blvd"
-        ],
-        "city": "DEARBORN",
-        "state": "MI",
-        "postalCode": "48124-4089"
       }
     ],
     "extension": [

@@ -14,21 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891755351"
+        "value": "1043501448"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043501448"
+        "value": "1891755351"
       }
     ],
     "address": [
       {
         "line": [
-          "2233 W DIVISION ST"
+          "4646 N MARINE DR"
         ],
         "city": "CHICAGO",
         "state": "IL",
-        "postalCode": "60622-8151"
+        "postalCode": "60640-5759"
+      },
+      {
+        "line": [
+          "520 S MAPLE"
+        ],
+        "city": "OAK PARK",
+        "state": "IL",
+        "postalCode": "60304-1097"
       },
       {
         "line": [
@@ -49,19 +57,11 @@
       },
       {
         "line": [
-          "520 S MAPLE"
-        ],
-        "city": "OAK PARK",
-        "state": "IL",
-        "postalCode": "60304-1097"
-      },
-      {
-        "line": [
-          "4646 N MARINE DR"
+          "2233 W DIVISION ST"
         ],
         "city": "CHICAGO",
         "state": "IL",
-        "postalCode": "60640-5759"
+        "postalCode": "60622-8151"
       }
     ],
     "extension": [

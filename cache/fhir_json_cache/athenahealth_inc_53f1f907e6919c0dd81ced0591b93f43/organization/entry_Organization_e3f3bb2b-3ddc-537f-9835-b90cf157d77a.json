@@ -14,18 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962808519"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1083019541"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1518252873"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962808519"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1 EAST NEW YORK AVENUE"
+        ],
+        "city": "SOMERS POINT",
+        "state": "NJ",
+        "postalCode": "08244-2300"
+      },
       {
         "line": [
           "100 MEDICAL CENTER WAY"
@@ -44,11 +52,11 @@
       },
       {
         "line": [
-          "401 Bethel Road"
+          "2605 SHORE RD"
         ],
-        "city": "SOMERS POINT",
+        "city": "NORTHFIELD",
         "state": "NJ",
-        "postalCode": "08244-2060"
+        "postalCode": "08225-2136"
       },
       {
         "line": [
@@ -57,14 +65,6 @@
         "city": "SOMERS POINT",
         "state": "NJ",
         "postalCode": "08244-2060"
-      },
-      {
-        "line": [
-          "1 EAST NEW YORK AVENUE"
-        ],
-        "city": "SOMERS POINT",
-        "state": "NJ",
-        "postalCode": "08244-2300"
       }
     ],
     "extension": [

@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881050508"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124684618"
+        "value": "1538123666"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,15 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144419813"
+        "value": "1962189449"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396940029"
+        "value": "1881050508"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538123666"
+        "value": "1013776442"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,14 +38,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962189449"
+        "value": "1396940029"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013776442"
+        "value": "1124684618"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144419813"
       }
     ],
     "address": [
+      {
+        "line": [
+          "153 School Drive"
+        ],
+        "city": "DAHLONEGA",
+        "state": "GA",
+        "postalCode": "30533-0313"
+      },
       {
         "line": [
           "4038 E HIGHWAY 136"
@@ -65,14 +73,6 @@
         "city": "BLUE RIDGE",
         "state": "GA",
         "postalCode": "30513-4413"
-      },
-      {
-        "line": [
-          "153 School Drive"
-        ],
-        "city": "DAHLONEGA",
-        "state": "GA",
-        "postalCode": "30533-0313"
       }
     ],
     "extension": [

@@ -14,57 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356825848"
+        "value": "1821181876"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821181876"
+        "value": "1356825848"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1421 S POTOMAC ST",
-          "STE 220"
-        ],
-        "city": "AURORA",
-        "state": "CO",
-        "postalCode": "80012-4512"
-      },
-      {
-        "line": [
-          "1500 PARK CENTRAL DR"
-        ],
-        "city": "HIGHLANDS RANCH",
-        "state": "CO",
-        "postalCode": "80129-6688"
-      },
-      {
-        "line": [
-          "9397 CROWN CREST BLVD",
-          "STE 110"
-        ],
-        "city": "PARKER",
-        "state": "CO",
-        "postalCode": "80138-8508"
-      },
-      {
-        "line": [
-          "2352 MEADOWS BLVD",
-          "STE 250"
-        ],
-        "city": "CASTLE ROCK",
-        "state": "CO",
-        "postalCode": "80109-8417"
-      },
-      {
-        "line": [
-          "2350 MEADOWS BLVD"
-        ],
-        "city": "CASTLE ROCK",
-        "state": "CO",
-        "postalCode": "80109-8405"
-      },
       {
         "line": [
           "14200 E ARAPAHOE RD"
@@ -75,61 +32,12 @@
       },
       {
         "line": [
-          "340 PEAK ONE DR"
+          "2352 MEADOWS BLVD",
+          "STE 250"
         ],
-        "city": "FRISCO",
+        "city": "CASTLE ROCK",
         "state": "CO",
-        "postalCode": "80443-5441"
-      },
-      {
-        "line": [
-          "350 PEAK ONE DR"
-        ],
-        "city": "FRISCO",
-        "state": "CO",
-        "postalCode": "80443-3900"
-      },
-      {
-        "line": [
-          "9399 CROWN CREST BLVD",
-          "STE 220"
-        ],
-        "city": "PARKER",
-        "state": "CO",
-        "postalCode": "80138-8508"
-      },
-      {
-        "line": [
-          "9399 CROWN CREST BLVD STE 220"
-        ],
-        "city": "PARKER",
-        "state": "CO",
-        "postalCode": "80138-8572"
-      },
-      {
-        "line": [
-          "9399 CROWN CREST BLVD",
-          "STE 430"
-        ],
-        "city": "PARKER",
-        "state": "CO",
-        "postalCode": "80138-8527"
-      },
-      {
-        "line": [
-          "9777 S YOSEMITE ST"
-        ],
-        "city": "LONE TREE",
-        "state": "CO",
-        "postalCode": "80124-3191"
-      },
-      {
-        "line": [
-          "1501 S POTOMAC ST"
-        ],
-        "city": "AURORA",
-        "state": "CO",
-        "postalCode": "80012-5411"
+        "postalCode": "80109-8417"
       },
       {
         "line": [
@@ -150,20 +58,35 @@
       },
       {
         "line": [
-          "9051 SSG CHRIS FALKEL DR",
-          "UNIT 400"
+          "350 PEAK ONE DR"
         ],
-        "city": "LITTLETON",
+        "city": "FRISCO",
         "state": "CO",
-        "postalCode": "80129-3198"
+        "postalCode": "80443-3900"
       },
       {
         "line": [
-          "10101 RIDGEGATE PKWY"
+          "1501 S POTOMAC ST"
         ],
-        "city": "LONE TREE",
+        "city": "AURORA",
         "state": "CO",
-        "postalCode": "80124-5522"
+        "postalCode": "80012-5411"
+      },
+      {
+        "line": [
+          "2350 MEADOWS BLVD"
+        ],
+        "city": "CASTLE ROCK",
+        "state": "CO",
+        "postalCode": "80109-8405"
+      },
+      {
+        "line": [
+          "1421 S POTOMAC ST STE 220"
+        ],
+        "city": "AURORA",
+        "state": "CO",
+        "postalCode": "80012-4512"
       },
       {
         "line": [
@@ -175,11 +98,86 @@
       },
       {
         "line": [
+          "10101 RIDGEGATE PKWY"
+        ],
+        "city": "LONE TREE",
+        "state": "CO",
+        "postalCode": "80124-5522"
+      },
+      {
+        "line": [
+          "340 PEAK ONE DR"
+        ],
+        "city": "FRISCO",
+        "state": "CO",
+        "postalCode": "80443-5441"
+      },
+      {
+        "line": [
           "10099 RIDGEGATE PKWY #100"
         ],
         "city": "LONE TREE",
         "state": "CO",
         "postalCode": "80124-5532"
+      },
+      {
+        "line": [
+          "9397 CROWN CREST BLVD",
+          "STE 110"
+        ],
+        "city": "PARKER",
+        "state": "CO",
+        "postalCode": "80138-8508"
+      },
+      {
+        "line": [
+          "9395 CROWN CREST BLVD"
+        ],
+        "city": "PARKER",
+        "state": "CO",
+        "postalCode": "80138-8573"
+      },
+      {
+        "line": [
+          "9777 S YOSEMITE ST"
+        ],
+        "city": "LONE TREE",
+        "state": "CO",
+        "postalCode": "80124-3191"
+      },
+      {
+        "line": [
+          "9051 SSG CHRIS FALKEL DR",
+          "UNIT 400"
+        ],
+        "city": "LITTLETON",
+        "state": "CO",
+        "postalCode": "80129-3198"
+      },
+      {
+        "line": [
+          "9399 CROWN CREST BLVD",
+          "STE 430"
+        ],
+        "city": "PARKER",
+        "state": "CO",
+        "postalCode": "80138-8527"
+      },
+      {
+        "line": [
+          "1500 PARK CENTRAL DR"
+        ],
+        "city": "HIGHLANDS RANCH",
+        "state": "CO",
+        "postalCode": "80129-6688"
+      },
+      {
+        "line": [
+          "9399 CROWN CREST BLVD STE 220"
+        ],
+        "city": "PARKER",
+        "state": "CO",
+        "postalCode": "80138-8508"
       },
       {
         "line": [
@@ -191,11 +189,11 @@
       },
       {
         "line": [
-          "9395 CROWN CREST BLVD"
+          "9399 CROWN CREST BLVD STE 220"
         ],
         "city": "PARKER",
         "state": "CO",
-        "postalCode": "80138-8573"
+        "postalCode": "80138-8572"
       }
     ],
     "extension": [

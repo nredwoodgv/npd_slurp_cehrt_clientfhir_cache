@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578085296"
+        "value": "1871512160"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871512160"
+        "value": "1578085296"
       }
     ],
     "address": [
@@ -32,12 +32,11 @@
       },
       {
         "line": [
-          "1919 State Street",
-          "Ste 360"
+          "104 Hardin Suite B"
         ],
-        "city": "NEW ALBANY",
-        "state": "IN",
-        "postalCode": "47150-6801"
+        "city": "SOMERSET",
+        "state": "KY",
+        "postalCode": "42503-3800"
       },
       {
         "line": [
@@ -50,11 +49,12 @@
       },
       {
         "line": [
-          "104 Hardin Suite B"
+          "1919 State Street",
+          "Ste 360"
         ],
-        "city": "SOMERSET",
-        "state": "KY",
-        "postalCode": "42503-3800"
+        "city": "NEW ALBANY",
+        "state": "IN",
+        "postalCode": "47150-6801"
       }
     ],
     "extension": [

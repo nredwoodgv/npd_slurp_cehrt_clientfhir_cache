@@ -15,24 +15,29 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1851077952"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1366364077"
       }
     ],
     "address": [
       {
         "line": [
-          "1050 OLD DES PERES RD STE 150"
+          "232 S WOODS MILL RD"
+        ],
+        "city": "CHESTERFIELD",
+        "state": "MO",
+        "postalCode": "63017-3417"
+      },
+      {
+        "line": [
+          "1050 OLD DES PERES RD",
+          "STE 150"
         ],
         "city": "SAINT LOUIS",
         "state": "MO",
         "postalCode": "63131-1874"
-      },
-      {
-        "line": [
-          "11630 STUDT AVE"
-        ],
-        "city": "SAINT LOUIS",
-        "state": "MO",
-        "postalCode": "63141-7392"
       },
       {
         "line": [
@@ -41,6 +46,14 @@
         "city": "SAINT LOUIS",
         "state": "MO",
         "postalCode": "63131-2329"
+      },
+      {
+        "line": [
+          "11630 STUDT AVE"
+        ],
+        "city": "SAINT LOUIS",
+        "state": "MO",
+        "postalCode": "63141-7392"
       },
       {
         "line": [
@@ -53,14 +66,6 @@
       },
       {
         "line": [
-          "1015 BOWLES AVE"
-        ],
-        "city": "FENTON",
-        "state": "MO",
-        "postalCode": "63026-2394"
-      },
-      {
-        "line": [
           "10435 Clayton Rd #110"
         ],
         "city": "SAINT LOUIS",
@@ -69,11 +74,11 @@
       },
       {
         "line": [
-          "232 S WOODS MILL RD"
+          "1015 BOWLES AVE"
         ],
-        "city": "CHESTERFIELD",
+        "city": "FENTON",
         "state": "MO",
-        "postalCode": "63017-3417"
+        "postalCode": "63026-2394"
       }
     ],
     "extension": [

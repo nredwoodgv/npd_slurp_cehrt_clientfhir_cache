@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770834244"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1245600493"
       },
       {
@@ -26,22 +22,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1922775956"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1558886218"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922775956"
+        "value": "1770834244"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1010 S RIO GRAND"
-        ],
-        "city": "MONTROSE",
-        "state": "CO",
-        "postalCode": "81401-5876"
-      },
       {
         "line": [
           "87 MERCHANT DR"
@@ -60,11 +52,11 @@
       },
       {
         "line": [
-          "1250 Valley View Dr."
+          "1010 S RIO GRAND"
         ],
-        "city": "DELTA",
+        "city": "MONTROSE",
         "state": "CO",
-        "postalCode": "81416-2229"
+        "postalCode": "81401-5876"
       },
       {
         "line": [
@@ -73,6 +65,14 @@
         "city": "OLATHE",
         "state": "CO",
         "postalCode": "81425-4125"
+      },
+      {
+        "line": [
+          "1250 Valley View Dr."
+        ],
+        "city": "DELTA",
+        "state": "CO",
+        "postalCode": "81416-2229"
       }
     ],
     "extension": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548211311"
+        "value": "1457617235"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457617235"
+        "value": "1548211311"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,6 +26,46 @@
       }
     ],
     "address": [
+      {
+        "line": [
+          "6150 E. Broad Street"
+        ],
+        "city": "COLUMBUS",
+        "state": "OH",
+        "postalCode": "43213-1574"
+      },
+      {
+        "line": [
+          "1029 South Broad Street"
+        ],
+        "city": "LANCASTER",
+        "state": "OH",
+        "postalCode": "43130-4628"
+      },
+      {
+        "line": [
+          "7333 Smiths Mill Road"
+        ],
+        "city": "NEW ALBANY",
+        "state": "OH",
+        "postalCode": "43054-9291"
+      },
+      {
+        "line": [
+          "895 Old Diley Road"
+        ],
+        "city": "PICKERINGTON",
+        "state": "OH",
+        "postalCode": "43147-2009"
+      },
+      {
+        "line": [
+          "7911 Diley Road"
+        ],
+        "city": "CANAL WINCHESTER",
+        "state": "OH",
+        "postalCode": "43110-9653"
+      },
       {
         "line": [
           "25428 State Route 104"
@@ -44,22 +84,6 @@
       },
       {
         "line": [
-          "6150 E. Broad Street"
-        ],
-        "city": "COLUMBUS",
-        "state": "OH",
-        "postalCode": "43213-1574"
-      },
-      {
-        "line": [
-          "895 Old Diley Road"
-        ],
-        "city": "PICKERINGTON",
-        "state": "OH",
-        "postalCode": "43147-2009"
-      },
-      {
-        "line": [
           "120 North Pickaway Street"
         ],
         "city": "CIRCLEVILLE",
@@ -68,11 +92,11 @@
       },
       {
         "line": [
-          "7911 Diley Road"
+          "4965 Southern Point Blvd"
         ],
-        "city": "CANAL WINCHESTER",
+        "city": "ORIENT",
         "state": "OH",
-        "postalCode": "43110-9653"
+        "postalCode": "43146-9248"
       },
       {
         "line": [
@@ -92,11 +116,11 @@
       },
       {
         "line": [
-          "7333 Smiths Mill Road"
+          "7100 Graphics Way"
         ],
-        "city": "NEW ALBANY",
+        "city": "LEWIS CENTER",
         "state": "OH",
-        "postalCode": "43054-9291"
+        "postalCode": "43035-1122"
       },
       {
         "line": [
@@ -105,30 +129,6 @@
         "city": "COLUMBUS",
         "state": "OH",
         "postalCode": "43213-1327"
-      },
-      {
-        "line": [
-          "4965 Southern Point Blvd"
-        ],
-        "city": "ORIENT",
-        "state": "OH",
-        "postalCode": "43146-9248"
-      },
-      {
-        "line": [
-          "1029 South Broad Street"
-        ],
-        "city": "LANCASTER",
-        "state": "OH",
-        "postalCode": "43130-4628"
-      },
-      {
-        "line": [
-          "7100 Graphics Way"
-        ],
-        "city": "LEWIS CENTER",
-        "state": "OH",
-        "postalCode": "43035-1122"
       }
     ],
     "extension": [

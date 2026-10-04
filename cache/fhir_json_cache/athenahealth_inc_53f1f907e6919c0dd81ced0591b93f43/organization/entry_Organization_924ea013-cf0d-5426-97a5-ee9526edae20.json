@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669708467"
+        "value": "1215079678"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215079678"
+        "value": "1669708467"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1455 S VALLEY DR"
-        ],
-        "city": "LAS CRUCES",
-        "state": "NM",
-        "postalCode": "88005-3155"
-      },
-      {
-        "line": [
-          "1455 S VALLEY DR STE B"
-        ],
-        "city": "LAS CRUCES",
-        "state": "NM",
-        "postalCode": "88005-3155"
-      },
       {
         "line": [
           "2450 S TELSHOR BLVD"
@@ -53,6 +37,22 @@
         "city": "LAS CRUCES",
         "state": "NM",
         "postalCode": "88011-8255"
+      },
+      {
+        "line": [
+          "1455 S VALLEY DR STE B"
+        ],
+        "city": "LAS CRUCES",
+        "state": "NM",
+        "postalCode": "88005-3155"
+      },
+      {
+        "line": [
+          "1455 S VALLEY DR"
+        ],
+        "city": "LAS CRUCES",
+        "state": "NM",
+        "postalCode": "88005-3155"
       }
     ],
     "extension": [

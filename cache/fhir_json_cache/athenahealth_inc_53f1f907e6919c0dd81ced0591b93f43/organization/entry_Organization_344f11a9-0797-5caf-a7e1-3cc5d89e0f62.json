@@ -14,14 +14,38 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477553287"
+        "value": "1033871785"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033871785"
+        "value": "1477553287"
       }
     ],
     "address": [
+      {
+        "line": [
+          "25 HIGHLAND AVE"
+        ],
+        "city": "NEWBURYPORT",
+        "state": "MA",
+        "postalCode": "01950-3867"
+      },
+      {
+        "line": [
+          "300 FEDERAL ST # 103"
+        ],
+        "city": "ANDOVER",
+        "state": "MA",
+        "postalCode": "01810-1038"
+      },
+      {
+        "line": [
+          "600 PRIMROSE ST #203"
+        ],
+        "city": "HAVERHILL",
+        "state": "MA",
+        "postalCode": "01830-2659"
+      },
       {
         "line": [
           "20 RESEARCH PL STE 220"
@@ -32,7 +56,7 @@
       },
       {
         "line": [
-          "41 WELLMAN ST #400"
+          "41 Wellman St #400"
         ],
         "city": "LOWELL",
         "state": "MA",
@@ -40,27 +64,27 @@
       },
       {
         "line": [
-          "41 WELLMAN ST STE 400"
+          "1 General St"
         ],
-        "city": "LOWELL",
+        "city": "LAWRENCE",
         "state": "MA",
-        "postalCode": "01851-5161"
+        "postalCode": "01841-2997"
       },
       {
         "line": [
-          "295 VARNUM AVE"
+          "300 FEDERAL ST #103"
         ],
-        "city": "LOWELL",
+        "city": "ANDOVER",
         "state": "MA",
-        "postalCode": "01854-2134"
+        "postalCode": "01810-1038"
       },
       {
         "line": [
-          "20 Research Suite 130"
+          "3 Campus Dr Suite 204"
         ],
-        "city": "NORTH CHELMSFORD",
-        "state": "MA",
-        "postalCode": "01863-2454"
+        "city": "EXETER",
+        "state": "NH",
+        "postalCode": "03833-0091"
       },
       {
         "line": [
@@ -73,12 +97,28 @@
       },
       {
         "line": [
+          "295 VARNUM AVE"
+        ],
+        "city": "LOWELL",
+        "state": "MA",
+        "postalCode": "01854-2134"
+      },
+      {
+        "line": [
           "300 FEDERAL ST",
           "# 103B"
         ],
         "city": "ANDOVER",
         "state": "MA",
         "postalCode": "01810-1038"
+      },
+      {
+        "line": [
+          "1 General St"
+        ],
+        "city": "LAWRENCE",
+        "state": "MA",
+        "postalCode": "01841-2961"
       },
       {
         "line": [
@@ -98,19 +138,19 @@
       },
       {
         "line": [
-          "300 FEDERAL ST #103"
+          "41 WELLMAN ST STE 400"
         ],
-        "city": "ANDOVER",
+        "city": "LOWELL",
         "state": "MA",
-        "postalCode": "01810-1038"
+        "postalCode": "01851-5161"
       },
       {
         "line": [
-          "600 PRIMROSE ST #203"
+          "41 WELLMAN ST #400"
         ],
-        "city": "HAVERHILL",
+        "city": "LOWELL",
         "state": "MA",
-        "postalCode": "01830-2659"
+        "postalCode": "01851-5161"
       },
       {
         "line": [
@@ -122,51 +162,11 @@
       },
       {
         "line": [
-          "1 General St"
+          "20 Research Suite 130"
         ],
-        "city": "LAWRENCE",
+        "city": "NORTH CHELMSFORD",
         "state": "MA",
-        "postalCode": "01841-2997"
-      },
-      {
-        "line": [
-          "1 General St"
-        ],
-        "city": "LAWRENCE",
-        "state": "MA",
-        "postalCode": "01841-2961"
-      },
-      {
-        "line": [
-          "3 Campus Dr Suite 204"
-        ],
-        "city": "EXETER",
-        "state": "NH",
-        "postalCode": "03833-0091"
-      },
-      {
-        "line": [
-          "25 HIGHLAND AVE"
-        ],
-        "city": "NEWBURYPORT",
-        "state": "MA",
-        "postalCode": "01950-3867"
-      },
-      {
-        "line": [
-          "41 Wellman St #400"
-        ],
-        "city": "LOWELL",
-        "state": "MA",
-        "postalCode": "01851-5161"
-      },
-      {
-        "line": [
-          "300 FEDERAL ST # 103"
-        ],
-        "city": "ANDOVER",
-        "state": "MA",
-        "postalCode": "01810-1038"
+        "postalCode": "01863-2454"
       }
     ],
     "extension": [

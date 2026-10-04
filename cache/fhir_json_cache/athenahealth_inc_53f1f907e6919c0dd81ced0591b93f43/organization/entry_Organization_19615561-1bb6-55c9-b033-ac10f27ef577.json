@@ -18,15 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346284684"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366644551"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124198551"
+        "value": "1689061467"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,23 +26,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689061426"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225467814"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689061467"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1447335690"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235278714"
+        "value": "1124198551"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -59,6 +39,26 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730511775"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225467814"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689061426"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235278714"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1346284684"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1366644551"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -72,43 +72,27 @@
     "address": [
       {
         "line": [
-          "4201 St Antione St"
-        ],
-        "city": "DETROIT",
-        "state": "MI",
-        "postalCode": "48201-2153"
-      },
-      {
-        "line": [
-          "44555 Woodward Ave."
-        ],
-        "city": "PONTIAC",
-        "state": "MI",
-        "postalCode": "48341-5032"
-      },
-      {
-        "line": [
-          "5301 Huron River Dr."
-        ],
-        "city": "YPSILANTI",
-        "state": "MI",
-        "postalCode": "48197-1051"
-      },
-      {
-        "line": [
-          "6071 West Outer Dr"
-        ],
-        "city": "DETROIT",
-        "state": "MI",
-        "postalCode": "48235-2624"
-      },
-      {
-        "line": [
           "20206 Farmington Rd"
         ],
         "city": "LIVONIA",
         "state": "MI",
         "postalCode": "48152-1412"
+      },
+      {
+        "line": [
+          "37595 Seven Mile Road Suite 230"
+        ],
+        "city": "LIVONIA",
+        "state": "MI",
+        "postalCode": "48152-1003"
+      },
+      {
+        "line": [
+          "36475 Five Mile Road"
+        ],
+        "city": "LIVONIA",
+        "state": "MI",
+        "postalCode": "48154-1971"
       },
       {
         "line": [
@@ -120,11 +104,83 @@
       },
       {
         "line": [
-          "36475 Five Mile Road"
+          "775 S Main"
+        ],
+        "city": "CHELSEA",
+        "state": "MI",
+        "postalCode": "48118-1383"
+      },
+      {
+        "line": [
+          "36475 Five Mile Rd"
         ],
         "city": "LIVONIA",
         "state": "MI",
         "postalCode": "48154-1971"
+      },
+      {
+        "line": [
+          "44555 Woodward Ave Suite 505"
+        ],
+        "city": "PONTIAC",
+        "state": "MI",
+        "postalCode": "48341-5032"
+      },
+      {
+        "line": [
+          "6071 West Outer Dr"
+        ],
+        "city": "DETROIT",
+        "state": "MI",
+        "postalCode": "48235-2624"
+      },
+      {
+        "line": [
+          "44555 Woodward Ave."
+        ],
+        "city": "PONTIAC",
+        "state": "MI",
+        "postalCode": "48341-5032"
+      },
+      {
+        "line": [
+          "320 Town Center Blvd"
+        ],
+        "city": "WHITE LAKE",
+        "state": "MI",
+        "postalCode": "48386-0001"
+      },
+      {
+        "line": [
+          "3601 W. 13 Mile Rd"
+        ],
+        "city": "ROYAL OAK",
+        "state": "MI",
+        "postalCode": "48073-6712"
+      },
+      {
+        "line": [
+          "1515 COMMERCE PARK DR"
+        ],
+        "city": "CHELSEA",
+        "state": "MI",
+        "postalCode": "48118-1399"
+      },
+      {
+        "line": [
+          "440 Russell St."
+        ],
+        "city": "SALINE",
+        "state": "MI",
+        "postalCode": "48176-1105"
+      },
+      {
+        "line": [
+          "5301 Huron River Dr."
+        ],
+        "city": "YPSILANTI",
+        "state": "MI",
+        "postalCode": "48197-1051"
       },
       {
         "line": [
@@ -144,19 +200,19 @@
       },
       {
         "line": [
-          "1600 S. Canton Center Rd"
+          "4350 Jackson Road Suite 350"
         ],
-        "city": "CANTON",
+        "city": "ANN ARBOR",
         "state": "MI",
-        "postalCode": "48188-1992"
+        "postalCode": "48103-1889"
       },
       {
         "line": [
-          "1515 COMMERCE PARK DR"
+          "4201 St Antione St"
         ],
-        "city": "CHELSEA",
+        "city": "DETROIT",
         "state": "MI",
-        "postalCode": "48118-1399"
+        "postalCode": "48201-2153"
       },
       {
         "line": [
@@ -168,116 +224,11 @@
       },
       {
         "line": [
-          "5701 Bow Pointe Drive",
-          "Suite 305"
-        ],
-        "city": "CLARKSTON",
-        "state": "MI",
-        "postalCode": "48346-2078"
-      },
-      {
-        "line": [
           "44428 WOODWARD AVE"
         ],
         "city": "PONTIAC",
         "state": "MI",
         "postalCode": "48341-5023"
-      },
-      {
-        "line": [
-          "320 Town Center Blvd"
-        ],
-        "city": "WHITE LAKE",
-        "state": "MI",
-        "postalCode": "48386-0001"
-      },
-      {
-        "line": [
-          "4400 Highland Rd"
-        ],
-        "city": "WATERFORD",
-        "state": "MI",
-        "postalCode": "48328-1222"
-      },
-      {
-        "line": [
-          "3095 E. Walton Blvd"
-        ],
-        "city": "AUBURN HILLS",
-        "state": "MI",
-        "postalCode": "48326-2370"
-      },
-      {
-        "line": [
-          "775 S Main"
-        ],
-        "city": "CHELSEA",
-        "state": "MI",
-        "postalCode": "48118-1383"
-      },
-      {
-        "line": [
-          "44405 Woodward"
-        ],
-        "city": "PONTIAC",
-        "state": "MI",
-        "postalCode": "48341-5023"
-      },
-      {
-        "line": [
-          "37595 Seven Mile Road Suite 230"
-        ],
-        "city": "LIVONIA",
-        "state": "MI",
-        "postalCode": "48152-1003"
-      },
-      {
-        "line": [
-          "44555 Woodward Ave Ste 105"
-        ],
-        "city": "PONTIAC",
-        "state": "MI",
-        "postalCode": "48341-5032"
-      },
-      {
-        "line": [
-          "44555 Woodward Ave Suite 505"
-        ],
-        "city": "PONTIAC",
-        "state": "MI",
-        "postalCode": "48341-5032"
-      },
-      {
-        "line": [
-          "4350 Jackson Road Suite 350"
-        ],
-        "city": "ANN ARBOR",
-        "state": "MI",
-        "postalCode": "48103-1889"
-      },
-      {
-        "line": [
-          "3602 W. 13 Mile Rd"
-        ],
-        "city": "ROYAL OAK",
-        "state": "MI",
-        "postalCode": "48073-6713"
-      },
-      {
-        "line": [
-          "36476 Five Mile Road"
-        ],
-        "city": "LIVONIA",
-        "state": "MI",
-        "postalCode": "48154-1972"
-      },
-      {
-        "line": [
-          "36475 Five Mile Rd"
-        ],
-        "city": "LIVONIA",
-        "state": "MI",
-        "postalCode": "48154-1971"
       },
       {
         "line": [
@@ -290,6 +241,38 @@
       },
       {
         "line": [
+          "4400 Highland Rd"
+        ],
+        "city": "WATERFORD",
+        "state": "MI",
+        "postalCode": "48328-1222"
+      },
+      {
+        "line": [
+          "44555 Woodward Ave Ste 105"
+        ],
+        "city": "PONTIAC",
+        "state": "MI",
+        "postalCode": "48341-5032"
+      },
+      {
+        "line": [
+          "3095 E. Walton Blvd"
+        ],
+        "city": "AUBURN HILLS",
+        "state": "MI",
+        "postalCode": "48326-2370"
+      },
+      {
+        "line": [
+          "3602 W. 13 Mile Rd"
+        ],
+        "city": "ROYAL OAK",
+        "state": "MI",
+        "postalCode": "48073-6713"
+      },
+      {
+        "line": [
           "775 S. Main St."
         ],
         "city": "CHELSEA",
@@ -298,19 +281,36 @@
       },
       {
         "line": [
-          "440 Russell St."
+          "36476 Five Mile Road"
         ],
-        "city": "SALINE",
+        "city": "LIVONIA",
         "state": "MI",
-        "postalCode": "48176-1105"
+        "postalCode": "48154-1972"
       },
       {
         "line": [
-          "3601 W. 13 Mile Rd"
+          "5701 Bow Pointe Drive",
+          "Suite 305"
         ],
-        "city": "ROYAL OAK",
+        "city": "CLARKSTON",
         "state": "MI",
-        "postalCode": "48073-6712"
+        "postalCode": "48346-2078"
+      },
+      {
+        "line": [
+          "1600 S. Canton Center Rd"
+        ],
+        "city": "CANTON",
+        "state": "MI",
+        "postalCode": "48188-1992"
+      },
+      {
+        "line": [
+          "44405 Woodward"
+        ],
+        "city": "PONTIAC",
+        "state": "MI",
+        "postalCode": "48341-5023"
       }
     ],
     "extension": [

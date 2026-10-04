@@ -14,21 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346044401"
+        "value": "1396961322"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396961322"
+        "value": "1346044401"
       }
     ],
     "address": [
       {
         "line": [
-          "1150 N 18th Street Ste 200"
+          "125 S PARK DR STE D"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-5952"
+      },
+      {
+        "line": [
+          "1680 ANTILLEY RD STE 300"
         ],
         "city": "ABILENE",
         "state": "TX",
-        "postalCode": "79601-2931"
+        "postalCode": "79606-5247"
       },
       {
         "line": [
@@ -48,19 +56,11 @@
       },
       {
         "line": [
-          "125 S PARK DR STE D"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-5952"
-      },
-      {
-        "line": [
-          "1680 ANTILLEY RD STE 300"
+          "6250 Regional Plz Ste 1060"
         ],
         "city": "ABILENE",
         "state": "TX",
-        "postalCode": "79606-5247"
+        "postalCode": "79606-5261"
       },
       {
         "line": [
@@ -80,11 +80,11 @@
       },
       {
         "line": [
-          "6250 Regional Plz Ste 1060"
+          "1150 N 18th Street Ste 200"
         ],
         "city": "ABILENE",
         "state": "TX",
-        "postalCode": "79606-5261"
+        "postalCode": "79601-2931"
       }
     ],
     "extension": [

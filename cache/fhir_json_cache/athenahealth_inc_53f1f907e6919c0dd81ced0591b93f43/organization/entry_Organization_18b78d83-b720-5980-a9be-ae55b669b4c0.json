@@ -14,30 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134105414"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083918577"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1184820110"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1609075324"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1134105414"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1083918577"
       }
     ],
     "address": [
-      {
-        "line": [
-          "53 COURTLAND AVE"
-        ],
-        "city": "STAMFORD",
-        "state": "CT",
-        "postalCode": "06902-3401"
-      },
       {
         "line": [
           "8 west end ave"
@@ -45,6 +37,14 @@
         "city": "OLD GREENWICH",
         "state": "CT",
         "postalCode": "06870-1674"
+      },
+      {
+        "line": [
+          "122 PALMERS HILL RD"
+        ],
+        "city": "STAMFORD",
+        "state": "CT",
+        "postalCode": "06902-2134"
       },
       {
         "line": [
@@ -64,11 +64,19 @@
       },
       {
         "line": [
-          "1188 KING ST"
+          "53 COURTLAND AVE"
         ],
-        "city": "GREENWICH",
+        "city": "STAMFORD",
         "state": "CT",
-        "postalCode": "06831-2935"
+        "postalCode": "06902-3401"
+      },
+      {
+        "line": [
+          "8 WEST END AVENUE"
+        ],
+        "city": "OLD GREENWICH",
+        "state": "CT",
+        "postalCode": "06870-1642"
       },
       {
         "line": [
@@ -80,19 +88,11 @@
       },
       {
         "line": [
-          "122 PALMERS HILL RD"
+          "1188 KING ST"
         ],
-        "city": "STAMFORD",
+        "city": "GREENWICH",
         "state": "CT",
-        "postalCode": "06902-2134"
-      },
-      {
-        "line": [
-          "8 WEST END AVENUE"
-        ],
-        "city": "OLD GREENWICH",
-        "state": "CT",
-        "postalCode": "06870-1642"
+        "postalCode": "06831-2935"
       }
     ],
     "extension": [

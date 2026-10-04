@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871589333"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831185065"
+        "value": "1063453991"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,15 +26,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063453991"
+        "value": "1871589333"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831185065"
       }
     ],
     "address": [
       {
         "line": [
-          "929 N St Francis St"
+          "929 N Saint Francis Ave"
         ],
-        "city": "WICHITA",
+        "city": "Wichita",
         "state": "KS",
         "postalCode": "67214-3821"
       },
@@ -47,6 +47,14 @@
           "929 N St Francis St"
         ],
         "city": "Wichita",
+        "state": "KS",
+        "postalCode": "67214-3821"
+      },
+      {
+        "line": [
+          "929 N St Francis St"
+        ],
+        "city": "WICHITA",
         "state": "KS",
         "postalCode": "67214-3821"
       },
@@ -55,14 +63,6 @@
           "929 N ST FRANCIS ST"
         ],
         "city": "WICHITA",
-        "state": "KS",
-        "postalCode": "67214-3821"
-      },
-      {
-        "line": [
-          "929 N Saint Francis Ave"
-        ],
-        "city": "Wichita",
         "state": "KS",
         "postalCode": "67214-3821"
       }

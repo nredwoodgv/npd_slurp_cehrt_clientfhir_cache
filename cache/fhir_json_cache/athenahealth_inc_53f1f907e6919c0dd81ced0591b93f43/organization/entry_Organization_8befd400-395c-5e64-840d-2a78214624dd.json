@@ -14,23 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780929455"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1750740338"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326383092"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740648757"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144779315"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,18 +22,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144779315"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1740648757"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1770828444"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326383092"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1780929455"
       }
     ],
     "address": [
-      {
-        "line": [
-          "301 GARRETT STREET"
-        ],
-        "city": "ELK CITY",
-        "state": "OK",
-        "postalCode": "73644-3113"
-      },
       {
         "line": [
           "429 E. Downs"
@@ -60,11 +52,11 @@
       },
       {
         "line": [
-          "900 17TH STREET"
+          "619 SPECK STREET"
         ],
-        "city": "WOODWARD",
+        "city": "VICI",
         "state": "OK",
-        "postalCode": "73801-2912"
+        "postalCode": "73859-5287"
       },
       {
         "line": [
@@ -76,11 +68,27 @@
       },
       {
         "line": [
-          "623 AVE C"
+          "301 N GARRETT ST"
         ],
-        "city": "BEAVER",
+        "city": "ELK CITY",
         "state": "OK",
-        "postalCode": "73932-3126"
+        "postalCode": "73644-3113"
+      },
+      {
+        "line": [
+          "301 GARRETT STREET"
+        ],
+        "city": "ELK CITY",
+        "state": "OK",
+        "postalCode": "73644-3113"
+      },
+      {
+        "line": [
+          "619 SPECK"
+        ],
+        "city": "VICI",
+        "state": "OK",
+        "postalCode": "73859-5287"
       },
       {
         "line": [
@@ -88,7 +96,7 @@
         ],
         "city": "WOODWARD",
         "state": "OK",
-        "postalCode": "73801-2448"
+        "postalCode": "73801-2912"
       },
       {
         "line": [
@@ -100,7 +108,15 @@
       },
       {
         "line": [
-          "619 SPECK STREET"
+          "429 E DOWNS AVE"
+        ],
+        "city": "WOODWARD",
+        "state": "OK",
+        "postalCode": "73801-6107"
+      },
+      {
+        "line": [
+          "619 Speck St."
         ],
         "city": "VICI",
         "state": "OK",
@@ -116,22 +132,6 @@
       },
       {
         "line": [
-          "619 SPECK"
-        ],
-        "city": "VICI",
-        "state": "OK",
-        "postalCode": "73859-5287"
-      },
-      {
-        "line": [
-          "429 E DOWNS AVE"
-        ],
-        "city": "WOODWARD",
-        "state": "OK",
-        "postalCode": "73801-6107"
-      },
-      {
-        "line": [
           "2301 BELL AVENUE"
         ],
         "city": "ELK CITY",
@@ -140,11 +140,19 @@
       },
       {
         "line": [
-          "301 N GARRETT ST"
+          "900 17TH STREET"
         ],
-        "city": "ELK CITY",
+        "city": "WOODWARD",
         "state": "OK",
-        "postalCode": "73644-3113"
+        "postalCode": "73801-2448"
+      },
+      {
+        "line": [
+          "623 AVE C"
+        ],
+        "city": "BEAVER",
+        "state": "OK",
+        "postalCode": "73932-3126"
       },
       {
         "line": [
@@ -153,14 +161,6 @@
         "city": "ELK CITY",
         "state": "OK",
         "postalCode": "73644-3113"
-      },
-      {
-        "line": [
-          "619 Speck St."
-        ],
-        "city": "VICI",
-        "state": "OK",
-        "postalCode": "73859-5287"
       }
     ],
     "extension": [

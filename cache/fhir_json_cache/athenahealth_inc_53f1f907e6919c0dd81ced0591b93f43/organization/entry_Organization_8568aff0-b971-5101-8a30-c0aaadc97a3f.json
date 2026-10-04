@@ -18,15 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669801585"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1750302923"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,30 +38,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114235918"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962602300"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
+        "value": "1649232984"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215348487"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124080320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114235918"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1405 W Storey"
-        ],
-        "city": "SAN SABA",
-        "state": "TX",
-        "postalCode": "76877-6422"
-      },
       {
         "line": [
           "101 Miller"
@@ -84,7 +76,31 @@
       },
       {
         "line": [
-          "1405 W STOREY ST"
+          "1514 INDIAN CREEK DR"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-6536"
+      },
+      {
+        "line": [
+          "200 COUNTY ROAD 616"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76802-3294"
+      },
+      {
+        "line": [
+          "1514 Indian Creek Rd"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-6536"
+      },
+      {
+        "line": [
+          "1405 W Storey"
         ],
         "city": "SAN SABA",
         "state": "TX",
@@ -92,11 +108,11 @@
       },
       {
         "line": [
-          "200 CR 616"
+          "109 S PARK DR"
         ],
         "city": "BROWNWOOD",
         "state": "TX",
-        "postalCode": "76802-3294"
+        "postalCode": "76801-5917"
       },
       {
         "line": [
@@ -116,11 +132,11 @@
       },
       {
         "line": [
-          "1514 Indian Creek Rd"
+          "200 CR 616"
         ],
         "city": "BROWNWOOD",
         "state": "TX",
-        "postalCode": "76801-6536"
+        "postalCode": "76802-3294"
       },
       {
         "line": [
@@ -132,19 +148,19 @@
       },
       {
         "line": [
-          "200 COUNTY ROAD 616"
+          "2500 Songbird Circle"
         ],
         "city": "BROWNWOOD",
         "state": "TX",
-        "postalCode": "76802-3294"
+        "postalCode": "76801-6488"
       },
       {
         "line": [
-          "109 S PARK DR"
+          "1405 W STOREY ST"
         ],
-        "city": "BROWNWOOD",
+        "city": "SAN SABA",
         "state": "TX",
-        "postalCode": "76801-5917"
+        "postalCode": "76877-6422"
       },
       {
         "line": [
@@ -153,22 +169,6 @@
         "city": "BROWNWOOD",
         "state": "TX",
         "postalCode": "76801-5917"
-      },
-      {
-        "line": [
-          "1514 INDIAN CREEK DR"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-6536"
-      },
-      {
-        "line": [
-          "2500 Songbird Circle"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-6488"
       }
     ],
     "extension": [

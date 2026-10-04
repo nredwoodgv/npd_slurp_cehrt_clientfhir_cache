@@ -14,19 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427299841"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1316188147"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215178421"
+        "value": "1114920329"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114920329"
+        "value": "1427299841"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215178421"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,8 +36,7 @@
     "address": [
       {
         "line": [
-          "1 Wyoming st",
-          "ste 4130"
+          "One Wyoming Street"
         ],
         "city": "DAYTON",
         "state": "OH",
@@ -45,7 +44,16 @@
       },
       {
         "line": [
-          "One Wyoming Street"
+          "2300 Miami Valley Dr",
+          "Suite 260"
+        ],
+        "city": "Centerville",
+        "state": "OH",
+        "postalCode": "45459-1294"
+      },
+      {
+        "line": [
+          "ONE WYOMING STEET"
         ],
         "city": "DAYTON",
         "state": "OH",
@@ -69,6 +77,14 @@
       },
       {
         "line": [
+          "one wyoming street"
+        ],
+        "city": "DAYTON",
+        "state": "OH",
+        "postalCode": "45409-2722"
+      },
+      {
+        "line": [
           "2350 Miami Valley Dr"
         ],
         "city": "DAYTON",
@@ -77,7 +93,7 @@
       },
       {
         "line": [
-          "one wyoming street"
+          "ONE WYOMING ST"
         ],
         "city": "DAYTON",
         "state": "OH",
@@ -93,24 +109,7 @@
       },
       {
         "line": [
-          "One Wyoming St., Ste 4130"
-        ],
-        "city": "DAYTON",
-        "state": "OH",
-        "postalCode": "45409-2722"
-      },
-      {
-        "line": [
-          "ONE WYOMING STEET"
-        ],
-        "city": "DAYTON",
-        "state": "OH",
-        "postalCode": "45409-2722"
-      },
-      {
-        "line": [
-          "2300 Miami Valley Dr",
-          "Suite 260"
+          "2300 Miami Valley Dr"
         ],
         "city": "Centerville",
         "state": "OH",
@@ -118,7 +117,16 @@
       },
       {
         "line": [
-          "ONE WYOMING ST"
+          "1 Wyoming st",
+          "ste 4130"
+        ],
+        "city": "DAYTON",
+        "state": "OH",
+        "postalCode": "45409-2722"
+      },
+      {
+        "line": [
+          "One Wyoming St., Ste 4130"
         ],
         "city": "DAYTON",
         "state": "OH",
@@ -131,14 +139,6 @@
         "city": "DAYTON",
         "state": "OH",
         "postalCode": "45459-4778"
-      },
-      {
-        "line": [
-          "2300 Miami Valley Dr"
-        ],
-        "city": "Centerville",
-        "state": "OH",
-        "postalCode": "45459-1294"
       }
     ],
     "extension": [

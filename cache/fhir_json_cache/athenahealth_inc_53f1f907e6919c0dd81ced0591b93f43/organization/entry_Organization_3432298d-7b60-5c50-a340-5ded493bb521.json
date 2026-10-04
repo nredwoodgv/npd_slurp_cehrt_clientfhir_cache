@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104386655"
+        "value": "1871801688"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871801688"
+        "value": "1295397032"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,26 +30,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295397032"
+        "value": "1104386655"
       }
     ],
     "address": [
       {
         "line": [
-          "655 Main Street",
-          "Suite 2"
+          "31 Lower Main Street",
+          "Suite 3"
         ],
-        "city": "BENNINGTON",
+        "city": "MORRISVILLE",
         "state": "VT",
-        "postalCode": "05201-2225"
-      },
-      {
-        "line": [
-          "462 Hegeman Ave"
-        ],
-        "city": "COLCHESTER",
-        "state": "VT",
-        "postalCode": "05446-3187"
+        "postalCode": "05661-6100"
       },
       {
         "line": [
@@ -61,11 +53,20 @@
       },
       {
         "line": [
-          "368 River Street"
+          "655 Main Street",
+          "Suite 2"
         ],
-        "city": "SPRINGFIELD",
+        "city": "BENNINGTON",
         "state": "VT",
-        "postalCode": "05156-2242"
+        "postalCode": "05201-2225"
+      },
+      {
+        "line": [
+          "17 Catherine Street"
+        ],
+        "city": "SAINT ALBANS",
+        "state": "VT",
+        "postalCode": "05478-2205"
       },
       {
         "line": [
@@ -85,11 +86,11 @@
       },
       {
         "line": [
-          "17 Catherine Street"
+          "368 River Street"
         ],
-        "city": "SAINT ALBANS",
+        "city": "SPRINGFIELD",
         "state": "VT",
-        "postalCode": "05478-2205"
+        "postalCode": "05156-2242"
       },
       {
         "line": [
@@ -101,12 +102,11 @@
       },
       {
         "line": [
-          "31 Lower Main Street",
-          "Suite 3"
+          "462 Hegeman Ave"
         ],
-        "city": "MORRISVILLE",
+        "city": "COLCHESTER",
         "state": "VT",
-        "postalCode": "05661-6100"
+        "postalCode": "05446-3187"
       }
     ],
     "extension": [

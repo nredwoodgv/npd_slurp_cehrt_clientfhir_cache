@@ -14,23 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366981805"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821196148"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831495613"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1528128063"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336175462"
+        "value": "1366981805"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,7 +26,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821196148"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1598703043"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831495613"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336175462"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -52,29 +52,11 @@
     "address": [
       {
         "line": [
-          "301 VILLAGE CIR"
-        ],
-        "city": "BRISTOL",
-        "state": "VA",
-        "postalCode": "24201-8302"
-      },
-      {
-        "line": [
-          "16000 JOHNSTON MEMORIAL DR",
-          "Suite 100"
-        ],
-        "city": "ABINGDON",
-        "state": "VA",
-        "postalCode": "24211-7664"
-      },
-      {
-        "line": [
-          "1 Medcial Park Blvd",
-          "Suite 300E"
+          "350 BLOUNTVILLE HWY"
         ],
         "city": "BRISTOL",
         "state": "TN",
-        "postalCode": "37620-7430"
+        "postalCode": "37620-0213"
       },
       {
         "line": [
@@ -86,59 +68,11 @@
       },
       {
         "line": [
-          "16000 JOHNSTON MEMORIAL DR",
-          "SUITE 100"
-        ],
-        "city": "ABINGDON",
-        "state": "VA",
-        "postalCode": "24211-7664"
-      },
-      {
-        "line": [],
-        "city": "NORTON",
-        "state": "VA",
-        "postalCode": "24273-0001"
-      },
-      {
-        "line": [
-          "16000 JOHNSTON MEMORIAL DR STE 100"
-        ],
-        "city": "ABINGDON",
-        "state": "VA",
-        "postalCode": "24211-7664"
-      },
-      {
-        "line": [
-          "350 BLOUNTVILLE HWY"
+          "301 VILLAGE CIR"
         ],
         "city": "BRISTOL",
-        "state": "TN",
-        "postalCode": "37620-0213"
-      },
-      {
-        "line": [
-          "3 Professional Park Drive",
-          "Ste 21"
-        ],
-        "city": "JOHNSON CITY",
-        "state": "TN",
-        "postalCode": "37604-6529"
-      },
-      {
-        "line": [
-          "1 Medical Park Blvd"
-        ],
-        "city": "BRISTOL",
-        "state": "TN",
-        "postalCode": "37620-7430"
-      },
-      {
-        "line": [
-          "130 W RAVINE RD"
-        ],
-        "city": "KINGSPORT",
-        "state": "TN",
-        "postalCode": "37660-3837"
+        "state": "VA",
+        "postalCode": "24201-8302"
       },
       {
         "line": [
@@ -151,20 +85,19 @@
       },
       {
         "line": [
-          "3 PROFESSIONAL PARK DR STE 21"
+          "16000 JOHNSTON MEMORIAL DR"
         ],
-        "city": "JOHNSON CITY",
-        "state": "TN",
-        "postalCode": "37604-6529"
+        "city": "ABINGDON",
+        "state": "VA",
+        "postalCode": "24211-7664"
       },
       {
         "line": [
-          "444 Clinchfield St.",
-          "Ste.  303"
+          "350 Blountville Hwy"
         ],
-        "city": "KINGSPORT",
+        "city": "BRISTOL",
         "state": "TN",
-        "postalCode": "37660-3864"
+        "postalCode": "37620-1676"
       },
       {
         "line": [
@@ -177,11 +110,12 @@
       },
       {
         "line": [
-          "350 Blountville Hwy"
+          "16000 JOHNSTON MEMORIAL DR",
+          "Suite 100"
         ],
-        "city": "BRISTOL",
-        "state": "TN",
-        "postalCode": "37620-1676"
+        "city": "ABINGDON",
+        "state": "VA",
+        "postalCode": "24211-7664"
       },
       {
         "line": [
@@ -194,11 +128,48 @@
       },
       {
         "line": [
-          "16000 JOHNSTON MEMORIAL DR"
+          "444 Clinchfield St.",
+          "Ste.  303"
+        ],
+        "city": "KINGSPORT",
+        "state": "TN",
+        "postalCode": "37660-3864"
+      },
+      {
+        "line": [
+          "1 Medical Park Blvd"
+        ],
+        "city": "BRISTOL",
+        "state": "TN",
+        "postalCode": "37620-7430"
+      },
+      {
+        "line": [],
+        "city": "NORTON",
+        "state": "VA",
+        "postalCode": "24273-0001"
+      },
+      {
+        "line": [
+          "130 W RAVINE RD"
+        ],
+        "city": "KINGSPORT",
+        "state": "TN",
+        "postalCode": "37660-3837"
+      },
+      {
+        "line": [
+          "16000 JOHNSTON MEMORIAL DR STE 100"
         ],
         "city": "ABINGDON",
         "state": "VA",
         "postalCode": "24211-7664"
+      },
+      {
+        "line": [],
+        "city": "BRISTOL",
+        "state": "TN",
+        "postalCode": "37620-7497"
       },
       {
         "line": [
@@ -209,10 +180,39 @@
         "postalCode": "37620-7430"
       },
       {
-        "line": [],
+        "line": [
+          "16000 JOHNSTON MEMORIAL DR",
+          "SUITE 100"
+        ],
+        "city": "ABINGDON",
+        "state": "VA",
+        "postalCode": "24211-7664"
+      },
+      {
+        "line": [
+          "3 PROFESSIONAL PARK DR STE 21"
+        ],
+        "city": "JOHNSON CITY",
+        "state": "TN",
+        "postalCode": "37604-6529"
+      },
+      {
+        "line": [
+          "1 Medcial Park Blvd",
+          "Suite 300E"
+        ],
         "city": "BRISTOL",
         "state": "TN",
-        "postalCode": "37620-7497"
+        "postalCode": "37620-7430"
+      },
+      {
+        "line": [
+          "3 Professional Park Drive",
+          "Ste 21"
+        ],
+        "city": "JOHNSON CITY",
+        "state": "TN",
+        "postalCode": "37604-6529"
       }
     ],
     "extension": [

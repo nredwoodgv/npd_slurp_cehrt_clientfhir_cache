@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104643634"
+        "value": "1689557340"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154089340"
+        "value": "1477214237"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,11 +26,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689557340"
+        "value": "1154089340"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477214237"
+        "value": "1104643634"
       }
     ],
     "address": [
@@ -44,20 +44,20 @@
       },
       {
         "line": [
-          "885 3rd Ave., 29th Floor"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10022-4834"
-      },
-      {
-        "line": [
           "1816 West Point Pike",
           "Suite 227"
         ],
         "city": "LANSDALE",
         "state": "PA",
         "postalCode": "19446-9504"
+      },
+      {
+        "line": [
+          "885 3rd Ave., 29th Floor"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10022-4834"
       }
     ],
     "extension": [

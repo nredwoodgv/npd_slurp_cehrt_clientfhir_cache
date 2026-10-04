@@ -18,18 +18,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902347438"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1104367630"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1104496819"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902347438"
       }
     ],
     "address": [
+      {
+        "line": [
+          "7227 N Hwy Us 1",
+          "Suite 200"
+        ],
+        "city": "COCOA",
+        "state": "FL",
+        "postalCode": "32927-5034"
+      },
       {
         "line": [
           "111 LONGWOOD AVE"
@@ -45,15 +54,6 @@
         "city": "MERRITT ISLAND",
         "state": "FL",
         "postalCode": "32953-3488"
-      },
-      {
-        "line": [
-          "7227 N Hwy Us 1",
-          "Suite 200"
-        ],
-        "city": "COCOA",
-        "state": "FL",
-        "postalCode": "32927-5034"
       }
     ],
     "extension": [

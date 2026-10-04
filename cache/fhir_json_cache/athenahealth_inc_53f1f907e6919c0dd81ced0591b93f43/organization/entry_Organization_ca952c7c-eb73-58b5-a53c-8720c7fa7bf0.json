@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932191822"
+        "value": "1952336869"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952336869"
+        "value": "1932191822"
       }
     ],
     "address": [
-      {
-        "line": [
-          "800 FairPark Blvd"
-        ],
-        "city": "LITTLE ROCK",
-        "state": "AR",
-        "postalCode": "72204-1720"
-      },
-      {
-        "line": [
-          "10301 Kanis Road"
-        ],
-        "city": "LITTLE ROCK",
-        "state": "AR",
-        "postalCode": "72205-6205"
-      },
       {
         "line": [
           "801 S BOWMAN RD STE 3"
@@ -48,12 +32,20 @@
       },
       {
         "line": [
-          "6144 Hwy 5 North",
-          "Suite 300"
+          "2305 SPRINGHILL ROAD",
+          "SUITE 4"
         ],
-        "city": "BRYANT",
+        "city": "BENTON",
         "state": "AR",
-        "postalCode": "72022-8516"
+        "postalCode": "72019-7552"
+      },
+      {
+        "line": [
+          "800 FairPark Blvd"
+        ],
+        "city": "LITTLE ROCK",
+        "state": "AR",
+        "postalCode": "72204-1720"
       },
       {
         "line": [
@@ -65,12 +57,20 @@
       },
       {
         "line": [
-          "2305 SPRINGHILL ROAD",
-          "SUITE 4"
+          "10301 Kanis Road"
         ],
-        "city": "BENTON",
+        "city": "LITTLE ROCK",
         "state": "AR",
-        "postalCode": "72019-7552"
+        "postalCode": "72205-6205"
+      },
+      {
+        "line": [
+          "6144 Hwy 5 North",
+          "Suite 300"
+        ],
+        "city": "BRYANT",
+        "state": "AR",
+        "postalCode": "72022-8516"
       }
     ],
     "extension": [

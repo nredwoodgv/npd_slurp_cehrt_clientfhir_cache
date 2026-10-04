@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629567623"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1770098253"
       },
       {
@@ -26,33 +30,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629567623"
+        "value": "1003321597"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952941767"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003321597"
       }
     ],
     "address": [
       {
         "line": [
-          "1445 West Causeway Approach"
+          "4209 St. Claude Ave."
         ],
-        "city": "MANDEVILLE",
+        "city": "NEW ORLEANS",
         "state": "LA",
-        "postalCode": "70471-3103"
-      },
-      {
-        "line": [
-          "221 W. Genie St."
-        ],
-        "city": "CHALMETTE",
-        "state": "LA",
-        "postalCode": "70043-2125"
+        "postalCode": "70117-4258"
       },
       {
         "line": [
@@ -61,6 +53,12 @@
         "city": "NEW ORLEANS",
         "state": "LA",
         "postalCode": "70117-2950"
+      },
+      {
+        "line": [],
+        "city": "New Orleans",
+        "state": "LA",
+        "postalCode": "70017-4258"
       },
       {
         "line": [
@@ -72,11 +70,19 @@
       },
       {
         "line": [
-          "4209 St. Claude Ave."
+          "221 W. Genie Street"
         ],
-        "city": "NEW ORLEANS",
+        "city": "CHALMETTE",
         "state": "LA",
-        "postalCode": "70117-4258"
+        "postalCode": "70043-2125"
+      },
+      {
+        "line": [
+          "1445 West Causeway Approach"
+        ],
+        "city": "MANDEVILLE",
+        "state": "LA",
+        "postalCode": "70471-3103"
       },
       {
         "line": [
@@ -96,17 +102,11 @@
       },
       {
         "line": [
-          "221 W. Genie Street"
+          "221 W. Genie St."
         ],
         "city": "CHALMETTE",
         "state": "LA",
         "postalCode": "70043-2125"
-      },
-      {
-        "line": [],
-        "city": "New Orleans",
-        "state": "LA",
-        "postalCode": "70017-4258"
       }
     ],
     "extension": [

@@ -18,23 +18,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205651510"
+        "value": "1740960434"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740960434"
+        "value": "1205651510"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1495 Hickory Flat Hwy",
-          "Suite 140"
-        ],
-        "city": "CANTON",
-        "state": "GA",
-        "postalCode": "30115-8020"
-      },
       {
         "line": [
           "970 Joe Frank Harris Pkwy SE",
@@ -46,11 +37,12 @@
       },
       {
         "line": [
-          "970 JOE FRANK HARRIS PKWY SE STE 380"
+          "1495 Hickory Flat Hwy",
+          "Suite 140"
         ],
-        "city": "CARTERSVILLE",
+        "city": "CANTON",
         "state": "GA",
-        "postalCode": "30120-2163"
+        "postalCode": "30115-8020"
       },
       {
         "line": [
@@ -59,6 +51,14 @@
         "city": "BLUE RIDGE",
         "state": "GA",
         "postalCode": "30513-6239"
+      },
+      {
+        "line": [
+          "970 JOE FRANK HARRIS PKWY SE STE 380"
+        ],
+        "city": "CARTERSVILLE",
+        "state": "GA",
+        "postalCode": "30120-2163"
       }
     ],
     "extension": [

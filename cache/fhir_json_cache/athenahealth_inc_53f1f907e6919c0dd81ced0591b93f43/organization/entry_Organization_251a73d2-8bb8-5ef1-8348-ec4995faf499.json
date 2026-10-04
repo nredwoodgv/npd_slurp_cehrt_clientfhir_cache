@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164961579"
+        "value": "1700048360"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235278714"
+        "value": "1689061467"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,11 +26,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730511775"
+        "value": "1689061426"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225467814"
+        "value": "1235278714"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1164961579"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730511775"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,26 +46,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689061426"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700048360"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689061467"
+        "value": "1225467814"
       }
     ],
     "address": [
-      {
-        "line": [
-          "5301 McAuley Dr"
-        ],
-        "city": "YPSILANTI",
-        "state": "MI",
-        "postalCode": "48197-8634"
-      },
       {
         "line": [
           "440 West Russell",
@@ -77,11 +69,28 @@
       },
       {
         "line": [
+          "1600 S Canton Center Rd",
+          "Suite 2200"
+        ],
+        "city": "CANTON",
+        "state": "MI",
+        "postalCode": "48188-6334"
+      },
+      {
+        "line": [
           "775 S Main St"
         ],
         "city": "CHELSEA",
         "state": "MI",
         "postalCode": "48118-1383"
+      },
+      {
+        "line": [
+          "5301 McAuley Dr"
+        ],
+        "city": "YPSILANTI",
+        "state": "MI",
+        "postalCode": "48197-8634"
       },
       {
         "line": [
@@ -91,15 +100,6 @@
         "city": "YPSILANTI",
         "state": "MI",
         "postalCode": "48197-8634"
-      },
-      {
-        "line": [
-          "1600 S Canton Center Rd",
-          "Suite 2200"
-        ],
-        "city": "CANTON",
-        "state": "MI",
-        "postalCode": "48188-6334"
       }
     ],
     "extension": [

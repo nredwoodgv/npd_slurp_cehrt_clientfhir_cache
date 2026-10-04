@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437184165"
+        "value": "1619163052"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619163052"
+        "value": "1437184165"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,31 +28,7 @@
     "address": [
       {
         "line": [
-          "19 Amelia Drive"
-        ],
-        "city": "NANTUCKET",
-        "state": "MA",
-        "postalCode": "02554-6094"
-      },
-      {
-        "line": [
-          "199 REEDSDALE RD"
-        ],
-        "city": "MILTON",
-        "state": "MA",
-        "postalCode": "02186-3926"
-      },
-      {
-        "line": [
-          "123 Waterhouse Rd"
-        ],
-        "city": "Bourne",
-        "state": "MA",
-        "postalCode": "02532-3890"
-      },
-      {
-        "line": [
-          "71 Border Rd, Suite 300"
+          "840 Winter Street"
         ],
         "city": "WALTHAM",
         "state": "MA",
@@ -76,11 +52,27 @@
       },
       {
         "line": [
-          "840 Winter Street"
+          "123 Waterhouse Rd"
+        ],
+        "city": "Bourne",
+        "state": "MA",
+        "postalCode": "02532-3890"
+      },
+      {
+        "line": [
+          "71 Border Rd, Suite 300"
         ],
         "city": "WALTHAM",
         "state": "MA",
         "postalCode": "02451-1433"
+      },
+      {
+        "line": [
+          "19 Amelia Drive"
+        ],
+        "city": "NANTUCKET",
+        "state": "MA",
+        "postalCode": "02554-6094"
       },
       {
         "line": [
@@ -89,6 +81,14 @@
         "city": "BOSTON",
         "state": "MA",
         "postalCode": "02215-5400"
+      },
+      {
+        "line": [
+          "199 REEDSDALE RD"
+        ],
+        "city": "MILTON",
+        "state": "MA",
+        "postalCode": "02186-3926"
       }
     ],
     "extension": [

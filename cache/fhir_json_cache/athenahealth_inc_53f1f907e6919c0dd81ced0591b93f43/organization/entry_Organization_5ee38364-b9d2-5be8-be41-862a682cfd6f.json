@@ -14,7 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619062858"
+        "value": "1801830807"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1477793172"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1346263266"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346263266"
+        "value": "1831145515"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,26 +42,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801830807"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831145515"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477793172"
+        "value": "1619062858"
       }
     ],
     "address": [
-      {
-        "line": [
-          "350 NORTH 11TH STREET"
-        ],
-        "city": "SUNBURY",
-        "state": "PA",
-        "postalCode": "17801-1611"
-      },
       {
         "line": [
           "350 NORTH 11TH ST"
@@ -65,6 +57,14 @@
       {
         "line": [
           "350 North 11th Street"
+        ],
+        "city": "SUNBURY",
+        "state": "PA",
+        "postalCode": "17801-1611"
+      },
+      {
+        "line": [
+          "350 NORTH 11TH STREET"
         ],
         "city": "SUNBURY",
         "state": "PA",

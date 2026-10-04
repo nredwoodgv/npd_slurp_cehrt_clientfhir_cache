@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003079799"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144250176"
+        "value": "1144409194"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,26 +22,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144409194"
+        "value": "1003079799"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144250176"
       }
     ],
     "address": [
-      {
-        "line": [
-          "123 Made up address"
-        ],
-        "city": "COLUMBIA",
-        "state": "MD",
-        "postalCode": "21044-3259"
-      },
-      {
-        "line": [
-          "900 S CATON AVE"
-        ],
-        "city": "BALTIMORE",
-        "state": "MD",
-        "postalCode": "21229-5201"
-      },
       {
         "line": [
           "900CATON AVE"
@@ -64,11 +48,27 @@
       },
       {
         "line": [
+          "900 S CATON AVE"
+        ],
+        "city": "BALTIMORE",
+        "state": "MD",
+        "postalCode": "21229-5201"
+      },
+      {
+        "line": [
           "2373 N ROLLING ROAD"
         ],
         "city": "BALTIMORE",
         "state": "MD",
         "postalCode": "21244-1952"
+      },
+      {
+        "line": [
+          "123 Made up address"
+        ],
+        "city": "COLUMBIA",
+        "state": "MD",
+        "postalCode": "21044-3259"
       }
     ],
     "extension": [

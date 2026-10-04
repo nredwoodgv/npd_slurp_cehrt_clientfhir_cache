@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063453991"
+        "value": "1417967365"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417967365"
+        "value": "1063453991"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,27 +28,11 @@
     "address": [
       {
         "line": [
-          "200 W Cedar St"
+          "1605 W May St"
         ],
-        "city": "HESSTON",
+        "city": "Wichita",
         "state": "KS",
-        "postalCode": "67062-8100"
-      },
-      {
-        "line": [
-          "224 E Central"
-        ],
-        "city": "ANDOVER",
-        "state": "KS",
-        "postalCode": "67002-8580"
-      },
-      {
-        "line": [
-          "612 Walnut St"
-        ],
-        "city": "COTTONWOOD FALLS",
-        "state": "KS",
-        "postalCode": "66845-9798"
+        "postalCode": "67213-3511"
       },
       {
         "line": [
@@ -60,11 +44,19 @@
       },
       {
         "line": [
-          "10550 E 21ST ST N"
+          "200 W Cedar St"
         ],
-        "city": "WICHITA",
+        "city": "HESSTON",
         "state": "KS",
-        "postalCode": "67206-3509"
+        "postalCode": "67062-8100"
+      },
+      {
+        "line": [
+          "612 Walnut St"
+        ],
+        "city": "COTTONWOOD FALLS",
+        "state": "KS",
+        "postalCode": "66845-9798"
       },
       {
         "line": [
@@ -76,11 +68,19 @@
       },
       {
         "line": [
-          "1605 W May St"
+          "10550 E 21ST ST N"
         ],
-        "city": "Wichita",
+        "city": "WICHITA",
         "state": "KS",
-        "postalCode": "67213-3511"
+        "postalCode": "67206-3509"
+      },
+      {
+        "line": [
+          "224 E Central"
+        ],
+        "city": "ANDOVER",
+        "state": "KS",
+        "postalCode": "67002-8580"
       }
     ],
     "extension": [

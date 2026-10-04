@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821865569"
+        "value": "1043087786"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043087786"
+        "value": "1821865569"
       }
     ],
     "address": [
@@ -40,20 +40,20 @@
       },
       {
         "line": [
-          "900 CUMMINGS CTR STE 122U"
-        ],
-        "city": "BEVERLY",
-        "state": "MA",
-        "postalCode": "01915-6196"
-      },
-      {
-        "line": [
           "900 CUMMINGS CTR",
           "Suite 122U"
         ],
         "city": "BEVERLY",
         "state": "MA",
         "postalCode": "01915-6198"
+      },
+      {
+        "line": [
+          "900 CUMMINGS CTR STE 122U"
+        ],
+        "city": "BEVERLY",
+        "state": "MA",
+        "postalCode": "01915-6196"
       }
     ],
     "extension": [

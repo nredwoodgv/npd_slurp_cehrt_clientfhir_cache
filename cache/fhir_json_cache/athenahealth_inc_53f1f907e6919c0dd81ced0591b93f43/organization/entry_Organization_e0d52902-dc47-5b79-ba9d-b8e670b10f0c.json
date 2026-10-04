@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164920252"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700414216"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477169688"
+        "value": "1740622133"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,10 +22,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740622133"
+        "value": "1477169688"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1164920252"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700414216"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3827 N. Lafayette St."
+        ],
+        "city": "DENVER",
+        "state": "CO",
+        "postalCode": "80205-3339"
+      },
       {
         "line": [
           "5825 DELMONICO DR",
@@ -45,23 +53,15 @@
       },
       {
         "line": [
-          "3825 N LAFAYETTE ST"
-        ],
-        "city": "DENVER",
-        "state": "CO",
-        "postalCode": "80205-3339"
-      },
-      {
-        "line": [
-          "3827 N. Lafayette St."
-        ],
-        "city": "DENVER",
-        "state": "CO",
-        "postalCode": "80205-3339"
-      },
-      {
-        "line": [
           "3825 N. Lafayette St."
+        ],
+        "city": "DENVER",
+        "state": "CO",
+        "postalCode": "80205-3339"
+      },
+      {
+        "line": [
+          "3825 N LAFAYETTE ST"
         ],
         "city": "DENVER",
         "state": "CO",

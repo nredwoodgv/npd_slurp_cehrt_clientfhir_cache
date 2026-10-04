@@ -18,106 +18,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598341067"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1306449749"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1912573999"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598341067"
       }
     ],
     "address": [
       {
         "line": [
-          "525 TILTON ROAD"
+          "465 Mt Prospect Ave"
         ],
-        "city": "NORTHFIELD",
+        "city": "NEWARK",
         "state": "NJ",
-        "postalCode": "08225-1217"
-      },
-      {
-        "line": [
-          "1298 HOOKSETT RD"
-        ],
-        "city": "HOOKSETT",
-        "state": "NH",
-        "postalCode": "03106-1842"
-      },
-      {
-        "line": [
-          "418 QUINCY AVE"
-        ],
-        "city": "QUINCY",
-        "state": "MA",
-        "postalCode": "02169-8130"
-      },
-      {
-        "line": [
-          "208 NORTH RD"
-        ],
-        "city": "SANDOWN",
-        "state": "NH",
-        "postalCode": "03873-2081"
-      },
-      {
-        "line": [
-          "8 Jennifer Drive"
-        ],
-        "city": "MERRIMACK",
-        "state": "NH",
-        "postalCode": "03054-0241"
-      },
-      {
-        "line": [
-          "1620 NOOSENECK HILL RD"
-        ],
-        "city": "COVENTRY",
-        "state": "RI",
-        "postalCode": "02816-6705"
-      },
-      {
-        "line": [
-          "21 SEARLES RD"
-        ],
-        "city": "WINDHAM",
-        "state": "NH",
-        "postalCode": "03087-1203"
-      },
-      {
-        "line": [
-          "201 8TH ST N"
-        ],
-        "city": "ELLENDALE",
-        "state": "ND",
-        "postalCode": "58436-7341"
-      },
-      {
-        "line": [
-          "7 KENDALL POND RD"
-        ],
-        "city": "DERRY",
-        "state": "NH",
-        "postalCode": "03038-7283"
-      },
-      {
-        "line": [
-          "1195 N. Main Street"
-        ],
-        "city": "PROVIDENCE",
-        "state": "RI",
-        "postalCode": "02904-1824"
-      },
-      {
-        "line": [
-          "2500 English Creek Ave",
-          "Bldg. 700 Suite 702"
-        ],
-        "city": "EGG HARBOR TOWNSHIP",
-        "state": "NJ",
-        "postalCode": "08234-5549"
+        "postalCode": "07104-2907"
       },
       {
         "line": [
@@ -129,14 +48,6 @@
       },
       {
         "line": [
-          "1583 ATWOOD AVE"
-        ],
-        "city": "JOHNSTON",
-        "state": "RI",
-        "postalCode": "02919-3232"
-      },
-      {
-        "line": [
           "70 Hawthorne Drive"
         ],
         "city": "BEDFORD",
@@ -145,19 +56,11 @@
       },
       {
         "line": [
-          "750 WASHINGTON ST"
+          "7 KENDALL POND RD"
         ],
-        "city": "WEYMOUTH",
-        "state": "MA",
-        "postalCode": "02188-3325"
-      },
-      {
-        "line": [
-          "465 Mt Prospect Ave"
-        ],
-        "city": "NEWARK",
-        "state": "NJ",
-        "postalCode": "07104-2907"
+        "city": "DERRY",
+        "state": "NH",
+        "postalCode": "03038-7283"
       },
       {
         "line": [
@@ -170,19 +73,35 @@
       },
       {
         "line": [
-          "425 Albion Rd"
+          "21 SEARLES RD"
         ],
-        "city": "LINCOLN",
-        "state": "RI",
-        "postalCode": "02865-4204"
+        "city": "WINDHAM",
+        "state": "NH",
+        "postalCode": "03087-1203"
       },
       {
         "line": [
-          "60 RIVER FRONT DR"
+          "750 WASHINGTON ST"
         ],
-        "city": "MANCHESTER",
+        "city": "WEYMOUTH",
+        "state": "MA",
+        "postalCode": "02188-3325"
+      },
+      {
+        "line": [
+          "1195 N. Main Street"
+        ],
+        "city": "PROVIDENCE",
+        "state": "RI",
+        "postalCode": "02904-1824"
+      },
+      {
+        "line": [
+          "208 NORTH RD"
+        ],
+        "city": "SANDOWN",
         "state": "NH",
-        "postalCode": "03102-3237"
+        "postalCode": "03873-2081"
       },
       {
         "line": [
@@ -192,6 +111,87 @@
         "city": "EAST GREENWICH",
         "state": "RI",
         "postalCode": "02818-3191"
+      },
+      {
+        "line": [
+          "1298 HOOKSETT RD"
+        ],
+        "city": "HOOKSETT",
+        "state": "NH",
+        "postalCode": "03106-1842"
+      },
+      {
+        "line": [
+          "425 Albion Rd"
+        ],
+        "city": "LINCOLN",
+        "state": "RI",
+        "postalCode": "02865-4204"
+      },
+      {
+        "line": [
+          "201 8TH ST N"
+        ],
+        "city": "ELLENDALE",
+        "state": "ND",
+        "postalCode": "58436-7341"
+      },
+      {
+        "line": [
+          "1620 NOOSENECK HILL RD"
+        ],
+        "city": "COVENTRY",
+        "state": "RI",
+        "postalCode": "02816-6705"
+      },
+      {
+        "line": [
+          "418 QUINCY AVE"
+        ],
+        "city": "QUINCY",
+        "state": "MA",
+        "postalCode": "02169-8130"
+      },
+      {
+        "line": [
+          "525 TILTON ROAD"
+        ],
+        "city": "NORTHFIELD",
+        "state": "NJ",
+        "postalCode": "08225-1217"
+      },
+      {
+        "line": [
+          "1583 ATWOOD AVE"
+        ],
+        "city": "JOHNSTON",
+        "state": "RI",
+        "postalCode": "02919-3232"
+      },
+      {
+        "line": [
+          "2500 English Creek Ave",
+          "Bldg. 700 Suite 702"
+        ],
+        "city": "EGG HARBOR TOWNSHIP",
+        "state": "NJ",
+        "postalCode": "08234-5549"
+      },
+      {
+        "line": [
+          "8 Jennifer Drive"
+        ],
+        "city": "MERRIMACK",
+        "state": "NH",
+        "postalCode": "03054-0241"
+      },
+      {
+        "line": [
+          "60 RIVER FRONT DR"
+        ],
+        "city": "MANCHESTER",
+        "state": "NH",
+        "postalCode": "03102-3237"
       },
       {
         "line": [

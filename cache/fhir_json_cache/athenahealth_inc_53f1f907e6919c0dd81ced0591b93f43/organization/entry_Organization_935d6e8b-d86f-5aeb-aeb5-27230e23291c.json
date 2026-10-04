@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982845160"
+        "value": "1619118890"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,17 +26,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619118890"
+        "value": "1982845160"
       }
     ],
     "address": [
       {
         "line": [
-          "1726 Clarkson Road"
+          "203 Salt Lick Rd"
         ],
-        "city": "CHESTERFIELD",
+        "city": "SAINT PETERS",
         "state": "MO",
-        "postalCode": "63017-4976"
+        "postalCode": "63376-5974"
+      },
+      {
+        "line": [
+          "7257 Watson Rd."
+        ],
+        "city": "SAINT LOUIS",
+        "state": "MO",
+        "postalCode": "63119-4401"
       },
       {
         "line": [
@@ -56,14 +64,6 @@
       },
       {
         "line": [
-          "203 Salt Lick Rd"
-        ],
-        "city": "SAINT PETERS",
-        "state": "MO",
-        "postalCode": "63376-5974"
-      },
-      {
-        "line": [
           "8534 Eager Rd."
         ],
         "city": "SAINT LOUIS",
@@ -72,11 +72,11 @@
       },
       {
         "line": [
-          "7257 Watson Rd."
+          "1726 Clarkson Road"
         ],
-        "city": "SAINT LOUIS",
+        "city": "CHESTERFIELD",
         "state": "MO",
-        "postalCode": "63119-4401"
+        "postalCode": "63017-4976"
       }
     ],
     "extension": [

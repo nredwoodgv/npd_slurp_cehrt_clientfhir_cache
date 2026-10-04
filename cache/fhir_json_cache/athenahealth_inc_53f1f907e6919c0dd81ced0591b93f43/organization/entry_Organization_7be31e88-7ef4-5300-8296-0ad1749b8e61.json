@@ -14,62 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932402484"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1013031368"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649228966"
+        "value": "1932402484"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285931089"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649228966"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1902 Grace Street"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24504-3524"
-      },
-      {
-        "line": [
-          "3300 Rivermont Ave."
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24503-2030"
-      },
-      {
-        "line": [
-          "3300 Rivermont Ave"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24503-2030"
-      },
-      {
-        "line": [
-          "115 Ambriar Court"
-        ],
-        "city": "AMHERST",
-        "state": "VA",
-        "postalCode": "24521-3306"
-      },
-      {
-        "line": [
-          "501 VES ROAD"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24503-4638"
-      },
       {
         "line": [
           "317 West Main Street"
@@ -77,6 +37,14 @@
         "city": "BEDFORD",
         "state": "VA",
         "postalCode": "24523-1902"
+      },
+      {
+        "line": [
+          "1902 Grace Street"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24504-3524"
       },
       {
         "line": [
@@ -89,11 +57,19 @@
       },
       {
         "line": [
-          "125 Nationwide Drive"
+          "115 Ambriar Court"
+        ],
+        "city": "AMHERST",
+        "state": "VA",
+        "postalCode": "24521-3306"
+      },
+      {
+        "line": [
+          "3300 Rivermont Ave."
         ],
         "city": "LYNCHBURG",
         "state": "VA",
-        "postalCode": "24502-9998"
+        "postalCode": "24503-2030"
       },
       {
         "line": [
@@ -102,6 +78,30 @@
         "city": "GRETNA",
         "state": "VA",
         "postalCode": "24557-4087"
+      },
+      {
+        "line": [
+          "125 Nationwide Drive"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24502-9998"
+      },
+      {
+        "line": [
+          "501 VES ROAD"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24503-4638"
+      },
+      {
+        "line": [
+          "3300 Rivermont Ave"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24503-2030"
       }
     ],
     "extension": [

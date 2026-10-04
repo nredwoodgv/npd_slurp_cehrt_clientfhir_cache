@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528082336"
+        "value": "1205844719"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205844719"
+        "value": "1528082336"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,19 +28,19 @@
     "address": [
       {
         "line": [
+          "5492 State Highway 94 East"
+        ],
+        "city": "RAMER",
+        "state": "AL",
+        "postalCode": "36069-5008"
+      },
+      {
+        "line": [
           "30 Main Street"
         ],
         "city": "ECLECTIC",
         "state": "AL",
         "postalCode": "36024-6201"
-      },
-      {
-        "line": [
-          "107 Medical Center Dr"
-        ],
-        "city": "CLANTON",
-        "state": "AL",
-        "postalCode": "35045-2331"
       },
       {
         "line": [
@@ -52,11 +52,11 @@
       },
       {
         "line": [
-          "5492 State Highway 94 East"
+          "107 Medical Center Dr"
         ],
-        "city": "RAMER",
+        "city": "CLANTON",
         "state": "AL",
-        "postalCode": "36069-5008"
+        "postalCode": "35045-2331"
       }
     ],
     "extension": [

@@ -14,22 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962752998"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437557519"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407194319"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285614834"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1467884262"
       },
       {
@@ -38,25 +22,33 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1407194319"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437557519"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1942508379"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285614834"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962752998"
       }
     ],
     "address": [
       {
         "line": [
-          "75 3rd Avenue"
+          "Pathology"
         ],
-        "city": "WALTHAM",
+        "city": "ACTON",
         "state": "MA",
-        "postalCode": "02451-7549"
-      },
-      {
-        "line": [
-          "92 Montvale Avenue"
-        ],
-        "city": "STONEHAM",
-        "state": "MA",
-        "postalCode": "02180-3647"
+        "postalCode": "01720-3301"
       },
       {
         "line": [
@@ -68,27 +60,20 @@
       },
       {
         "line": [
-          "6 Courthouse Lane"
+          "2 Pillsbury Street",
+          "suite 501"
         ],
-        "city": "CHELMSFORD",
-        "state": "MA",
-        "postalCode": "01824-1274"
+        "city": "CONCORD",
+        "state": "NH",
+        "postalCode": "03301-3576"
       },
       {
         "line": [
-          "Pathology"
+          "92 Montvale Avenue"
         ],
-        "city": "ACTON",
+        "city": "STONEHAM",
         "state": "MA",
-        "postalCode": "01720-3301"
-      },
-      {
-        "line": [
-          "80 Erdman Way"
-        ],
-        "city": "LEOMINSTER",
-        "state": "MA",
-        "postalCode": "01453-1840"
+        "postalCode": "02180-3647"
       },
       {
         "line": [
@@ -100,12 +85,27 @@
       },
       {
         "line": [
-          "2 Pillsbury Street",
-          "suite 501"
+          "75 3rd Avenue"
         ],
-        "city": "CONCORD",
-        "state": "NH",
-        "postalCode": "03301-3576"
+        "city": "WALTHAM",
+        "state": "MA",
+        "postalCode": "02451-7549"
+      },
+      {
+        "line": [
+          "80 Erdman Way"
+        ],
+        "city": "LEOMINSTER",
+        "state": "MA",
+        "postalCode": "01453-1840"
+      },
+      {
+        "line": [
+          "6 Courthouse Lane"
+        ],
+        "city": "CHELMSFORD",
+        "state": "MA",
+        "postalCode": "01824-1274"
       }
     ],
     "extension": [

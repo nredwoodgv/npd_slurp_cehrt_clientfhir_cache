@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427823756"
+        "value": "1689449910"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750335741"
+        "value": "1427823749"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033984448"
+        "value": "1376305540"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,19 +30,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306613880"
+        "value": "1548035876"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306730866"
+        "value": "1861371718"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841184306"
+        "value": "1679467138"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295614147"
+        "value": "1750335741"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,7 +50,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548035876"
+        "value": "1841184306"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629830807"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,7 +62,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679467138"
+        "value": "1427823756"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306730866"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033984448"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1083480081"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -70,31 +86,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225917164"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376305540"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639944960"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861371718"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306612817"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083480081"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689449910"
+        "value": "1306613880"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -102,35 +94,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1295614147"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225917164"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1336914662"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629830807"
+        "value": "1639944960"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427823749"
+        "value": "1306612817"
       }
     ],
     "address": [
       {
         "line": [
-          "1380 Progress Way",
-          "Ste 101"
+          "7801 York Rd",
+          "Ste 360"
         ],
-        "city": "Eldersburg",
+        "city": "Towson",
         "state": "MD",
-        "postalCode": "21784-6498"
-      },
-      {
-        "line": [
-          "650 Ritchie Hwy",
-          "Ste 207"
-        ],
-        "city": "Severna Park",
-        "state": "MD",
-        "postalCode": "21146-3935"
+        "postalCode": "21204-7465"
       },
       {
         "line": [
@@ -143,21 +134,30 @@
       },
       {
         "line": [
+          "650 Ritchie Hwy",
+          "Ste 207"
+        ],
+        "city": "Severna Park",
+        "state": "MD",
+        "postalCode": "21146-3935"
+      },
+      {
+        "line": [
+          "1380 Progress Way",
+          "Ste 101"
+        ],
+        "city": "Eldersburg",
+        "state": "MD",
+        "postalCode": "21784-6498"
+      },
+      {
+        "line": [
           "1311 S Main Street",
           "Ste 202"
         ],
         "city": "Mt. Airy",
         "state": "MD",
         "postalCode": "21771-5457"
-      },
-      {
-        "line": [
-          "7801 York Rd",
-          "Ste 360"
-        ],
-        "city": "Towson",
-        "state": "MD",
-        "postalCode": "21204-7465"
       }
     ],
     "extension": [

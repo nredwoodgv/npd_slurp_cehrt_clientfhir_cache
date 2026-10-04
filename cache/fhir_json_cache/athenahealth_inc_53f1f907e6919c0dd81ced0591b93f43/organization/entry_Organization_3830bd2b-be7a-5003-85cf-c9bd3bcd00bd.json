@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154841021"
+        "value": "1295443000"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,17 +22,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295443000"
+        "value": "1154841021"
       }
     ],
     "address": [
       {
         "line": [
-          "2435 FOREST DRIVE"
+          "120 GATEWAY CORPORATE BLVD"
         ],
         "city": "COLUMBIA",
         "state": "SC",
-        "postalCode": "29204-2026"
+        "postalCode": "29203-9611"
+      },
+      {
+        "line": [
+          "730 STONEY LANDING ROAD"
+        ],
+        "city": "MONCKS CORNER",
+        "state": "SC",
+        "postalCode": "29461-2950"
       },
       {
         "line": [
@@ -52,11 +60,11 @@
       },
       {
         "line": [
-          "120 GATEWAY CORPORATE BLVD"
+          "7832 RIVERS AVE"
         ],
-        "city": "COLUMBIA",
+        "city": "CHARLESTON",
         "state": "SC",
-        "postalCode": "29203-9611"
+        "postalCode": "29406-4016"
       },
       {
         "line": [
@@ -68,27 +76,11 @@
       },
       {
         "line": [
-          "730 STONEY LANDING ROAD"
+          "2435 FOREST DRIVE"
         ],
-        "city": "MONCKS CORNER",
+        "city": "COLUMBIA",
         "state": "SC",
-        "postalCode": "29461-2950"
-      },
-      {
-        "line": [
-          "2095 HENRY TECKLENBURG DRIVE"
-        ],
-        "city": "CHARLESTON",
-        "state": "SC",
-        "postalCode": "29414-5733"
-      },
-      {
-        "line": [
-          "7832 RIVERS AVE"
-        ],
-        "city": "CHARLESTON",
-        "state": "SC",
-        "postalCode": "29406-4016"
+        "postalCode": "29204-2026"
       },
       {
         "line": [
@@ -97,6 +89,14 @@
         "city": "NORTH CHARLESTON",
         "state": "SC",
         "postalCode": "29406-4016"
+      },
+      {
+        "line": [
+          "2095 HENRY TECKLENBURG DRIVE"
+        ],
+        "city": "CHARLESTON",
+        "state": "SC",
+        "postalCode": "29414-5733"
       }
     ],
     "extension": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043769722"
+        "value": "1518209782"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518209782"
+        "value": "1043769722"
       }
     ],
     "address": [
@@ -30,6 +30,14 @@
         "city": "INDIANAPOLIS",
         "state": "IN",
         "postalCode": "46204-2954"
+      },
+      {
+        "line": [
+          "123 Fake Street"
+        ],
+        "city": "INDIANAPOLIS",
+        "state": "IN",
+        "postalCode": "46204-3709"
       },
       {
         "line": [
@@ -49,6 +57,14 @@
       },
       {
         "line": [
+          "4154 E. 96th St"
+        ],
+        "city": "INDIANAPOLIS",
+        "state": "IN",
+        "postalCode": "46240-1442"
+      },
+      {
+        "line": [
           "235 RIVER RD"
         ],
         "city": "ROCKINGHAM",
@@ -57,27 +73,11 @@
       },
       {
         "line": [
-          "123 Fake Street"
-        ],
-        "city": "INDIANAPOLIS",
-        "state": "IN",
-        "postalCode": "46204-3709"
-      },
-      {
-        "line": [
           "10 W Market Street"
         ],
         "city": "INDIANAPOLIS",
         "state": "IN",
         "postalCode": "46204-2964"
-      },
-      {
-        "line": [
-          "4154 E. 96th St"
-        ],
-        "city": "INDIANAPOLIS",
-        "state": "IN",
-        "postalCode": "46240-1442"
       },
       {
         "line": [

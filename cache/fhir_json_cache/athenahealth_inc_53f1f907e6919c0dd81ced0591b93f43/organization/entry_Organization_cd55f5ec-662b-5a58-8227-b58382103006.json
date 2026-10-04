@@ -14,22 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770941742"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902264971"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689034548"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659885754"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1770943631"
       },
       {
@@ -38,21 +22,45 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1659885754"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1790143766"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1770941742"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1659921740"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902264971"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689034548"
       }
     ],
     "address": [
       {
         "line": [
-          "2689 Hwy 1 South"
+          "615 Laurens St"
         ],
-        "city": "ELGIN",
+        "city": "CAMDEN",
         "state": "SC",
-        "postalCode": "29045-9055"
+        "postalCode": "29020-3523"
+      },
+      {
+        "line": [
+          "1344 Haile St"
+        ],
+        "city": "CAMDEN",
+        "state": "SC",
+        "postalCode": "29020-3076"
       },
       {
         "line": [
@@ -64,11 +72,27 @@
       },
       {
         "line": [
-          "216 E Marion St"
+          "710 Dewitt Dr"
         ],
-        "city": "KERSHAW",
+        "city": "LUGOFF",
         "state": "SC",
-        "postalCode": "29067-1442"
+        "postalCode": "29078-9069"
+      },
+      {
+        "line": [
+          "1800 Roberts St"
+        ],
+        "city": "CAMDEN",
+        "state": "SC",
+        "postalCode": "29020-3759"
+      },
+      {
+        "line": [
+          "2689 Hwy 1 South"
+        ],
+        "city": "ELGIN",
+        "state": "SC",
+        "postalCode": "29045-9055"
       },
       {
         "line": [
@@ -88,35 +112,11 @@
       },
       {
         "line": [
-          "710 Dewitt Dr"
+          "216 E Marion St"
         ],
-        "city": "LUGOFF",
+        "city": "KERSHAW",
         "state": "SC",
-        "postalCode": "29078-9069"
-      },
-      {
-        "line": [
-          "1344 Haile St"
-        ],
-        "city": "CAMDEN",
-        "state": "SC",
-        "postalCode": "29020-3076"
-      },
-      {
-        "line": [
-          "615 Laurens St"
-        ],
-        "city": "CAMDEN",
-        "state": "SC",
-        "postalCode": "29020-3523"
-      },
-      {
-        "line": [
-          "1800 Roberts St"
-        ],
-        "city": "CAMDEN",
-        "state": "SC",
-        "postalCode": "29020-3759"
+        "postalCode": "29067-1442"
       }
     ],
     "extension": [

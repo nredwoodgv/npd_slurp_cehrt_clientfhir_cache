@@ -14,61 +14,30 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447329990"
+        "value": "1477571891"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477571891"
+        "value": "1447329990"
       }
     ],
     "address": [
       {
         "line": [
-          "499 Azalea Dr"
+          "1363 South Germantown Pkwy"
         ],
-        "city": "Oxford",
-        "state": "MS",
-        "postalCode": "38655-7901"
+        "city": "Germantown",
+        "state": "TN",
+        "postalCode": "38138-2225"
       },
       {
         "line": [
-          "842 Jefferson Ave"
+          "890 Madison Ave",
+          "4th Flr"
         ],
         "city": "Memphis",
         "state": "TN",
-        "postalCode": "38103-2808"
-      },
-      {
-        "line": [
-          "100 N HUMPHREYS BLVD"
-        ],
-        "city": "MEMPHIS",
-        "state": "TN",
-        "postalCode": "38120-2146"
-      },
-      {
-        "line": [
-          "877 Jefferson Ave"
-        ],
-        "city": "Memphis",
-        "state": "TN",
-        "postalCode": "38103-2807"
-      },
-      {
-        "line": [
-          "5959 Park Ave"
-        ],
-        "city": "Memphis",
-        "state": "TN",
-        "postalCode": "38119-5200"
-      },
-      {
-        "line": [
-          "3960 New Covington Pike"
-        ],
-        "city": "Memphis",
-        "state": "TN",
-        "postalCode": "38128-2504"
+        "postalCode": "38103-3409"
       },
       {
         "line": [
@@ -80,52 +49,11 @@
       },
       {
         "line": [
-          "2986 Kate Bond Rd"
+          "1325 EASTMORELAND AVE STE 310"
         ],
-        "city": "Bartlett",
+        "city": "MEMPHIS",
         "state": "TN",
-        "postalCode": "38133-4003"
-      },
-      {
-        "line": [
-          "7691 Poplar Ave"
-        ],
-        "city": "Germantown",
-        "state": "TN",
-        "postalCode": "38138-3904"
-      },
-      {
-        "line": [
-          "1363 South Germantown Pkwy"
-        ],
-        "city": "Germantown",
-        "state": "TN",
-        "postalCode": "38138-2225"
-      },
-      {
-        "line": [
-          "6225 Humphreys Blvd"
-        ],
-        "city": "Memphis",
-        "state": "TN",
-        "postalCode": "38120-2373"
-      },
-      {
-        "line": [
-          "703 Alcorn Dr",
-          "Suite 109"
-        ],
-        "city": "CORINTH",
-        "state": "MS",
-        "postalCode": "38834-9302"
-      },
-      {
-        "line": [
-          "6225 Humphreys Blvd"
-        ],
-        "city": "Memphis",
-        "state": "TN",
-        "postalCode": "38120-2177"
+        "postalCode": "38104-7534"
       },
       {
         "line": [
@@ -137,11 +65,35 @@
       },
       {
         "line": [
-          "51 N Dunlap St"
+          "877 Jefferson Ave"
         ],
         "city": "Memphis",
         "state": "TN",
-        "postalCode": "38105-4625"
+        "postalCode": "38103-2807"
+      },
+      {
+        "line": [
+          "7691 Poplar Ave"
+        ],
+        "city": "Germantown",
+        "state": "TN",
+        "postalCode": "38138-3904"
+      },
+      {
+        "line": [
+          "6225 Humphreys Blvd"
+        ],
+        "city": "Memphis",
+        "state": "TN",
+        "postalCode": "38120-2373"
+      },
+      {
+        "line": [
+          "3960 New Covington Pike"
+        ],
+        "city": "Memphis",
+        "state": "TN",
+        "postalCode": "38128-2504"
       },
       {
         "line": [
@@ -161,20 +113,11 @@
       },
       {
         "line": [
-          "1265 Union Ave"
+          "2986 Kate Bond Rd"
         ],
-        "city": "Memphis",
+        "city": "Bartlett",
         "state": "TN",
-        "postalCode": "38103-3415"
-      },
-      {
-        "line": [
-          "890 Madison Ave",
-          "4th Flr"
-        ],
-        "city": "Memphis",
-        "state": "TN",
-        "postalCode": "38103-3409"
+        "postalCode": "38133-4003"
       },
       {
         "line": [
@@ -186,14 +129,6 @@
       },
       {
         "line": [
-          "6555 Quince Rd"
-        ],
-        "city": "Memphis",
-        "state": "TN",
-        "postalCode": "38119-8214"
-      },
-      {
-        "line": [
           "7601 Southcrest Pkwy"
         ],
         "city": "Southaven",
@@ -202,11 +137,60 @@
       },
       {
         "line": [
-          "1325 EASTMORELAND AVE STE 310"
+          "842 Jefferson Ave"
+        ],
+        "city": "Memphis",
+        "state": "TN",
+        "postalCode": "38103-2808"
+      },
+      {
+        "line": [
+          "6225 Humphreys Blvd"
+        ],
+        "city": "Memphis",
+        "state": "TN",
+        "postalCode": "38120-2177"
+      },
+      {
+        "line": [
+          "499 Azalea Dr"
+        ],
+        "city": "Oxford",
+        "state": "MS",
+        "postalCode": "38655-7901"
+      },
+      {
+        "line": [
+          "100 N HUMPHREYS BLVD"
         ],
         "city": "MEMPHIS",
         "state": "TN",
-        "postalCode": "38104-7534"
+        "postalCode": "38120-2146"
+      },
+      {
+        "line": [
+          "6555 Quince Rd"
+        ],
+        "city": "Memphis",
+        "state": "TN",
+        "postalCode": "38119-8214"
+      },
+      {
+        "line": [
+          "703 Alcorn Dr",
+          "Suite 109"
+        ],
+        "city": "CORINTH",
+        "state": "MS",
+        "postalCode": "38834-9302"
+      },
+      {
+        "line": [
+          "5959 Park Ave"
+        ],
+        "city": "Memphis",
+        "state": "TN",
+        "postalCode": "38119-5200"
       },
       {
         "line": [
@@ -216,6 +200,22 @@
         "city": "Memphis",
         "state": "TN",
         "postalCode": "38104-6638"
+      },
+      {
+        "line": [
+          "1265 Union Ave"
+        ],
+        "city": "Memphis",
+        "state": "TN",
+        "postalCode": "38103-3415"
+      },
+      {
+        "line": [
+          "51 N Dunlap St"
+        ],
+        "city": "Memphis",
+        "state": "TN",
+        "postalCode": "38105-4625"
       }
     ],
     "extension": [

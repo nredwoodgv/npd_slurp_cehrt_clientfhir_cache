@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265507537"
+        "value": "1568850600"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568850600"
+        "value": "1265507537"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,6 +26,14 @@
       }
     ],
     "address": [
+      {
+        "line": [
+          "601 SOUTH CENTER AVE"
+        ],
+        "city": "MERRILL",
+        "state": "WI",
+        "postalCode": "54452-3406"
+      },
       {
         "line": [
           "601 S CENTER AVE"
@@ -41,14 +49,6 @@
         "city": "MERRILL",
         "state": "WI",
         "postalCode": "54452-3405"
-      },
-      {
-        "line": [
-          "601 SOUTH CENTER AVE"
-        ],
-        "city": "MERRILL",
-        "state": "WI",
-        "postalCode": "54452-3406"
       }
     ],
     "extension": [

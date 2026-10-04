@@ -14,27 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689433492"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083473383"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972354504"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649039942"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467203000"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730906637"
+        "value": "1063263697"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,7 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144089459"
+        "value": "1083473383"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467203000"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,10 +34,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063263697"
+        "value": "1689433492"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144089459"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1972354504"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730906637"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649039942"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3400 W 66TH ST STE 375"
+        ],
+        "city": "MINNEAPOLIS",
+        "state": "MN",
+        "postalCode": "55435-2168"
+      },
       {
         "line": [
           "123 main st"
@@ -72,11 +80,11 @@
       },
       {
         "line": [
-          "3400 W 66TH ST STE 375"
+          "7515 GREENVILLE AVE STE 603"
         ],
-        "city": "MINNEAPOLIS",
-        "state": "MN",
-        "postalCode": "55435-2168"
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75231-3826"
       },
       {
         "line": [
@@ -94,14 +102,6 @@
         "city": "LAS VEGAS",
         "state": "NV",
         "postalCode": "89148-2429"
-      },
-      {
-        "line": [
-          "7515 GREENVILLE AVE STE 603"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75231-3826"
       }
     ],
     "extension": [

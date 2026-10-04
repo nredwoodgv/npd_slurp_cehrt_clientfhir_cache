@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447977293"
+        "value": "1134991987"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134991987"
+        "value": "1447977293"
       }
     ],
     "address": [
-      {
-        "line": [
-          "129 LUBRANO DR STE 301"
-        ],
-        "city": "ANNAPOLIS",
-        "state": "MD",
-        "postalCode": "21401-7568"
-      },
       {
         "line": [
           "129 Lubrano Drive"
@@ -37,6 +29,15 @@
         "city": "ANNAPOLIS",
         "state": "MD",
         "postalCode": "21401-7028"
+      },
+      {
+        "line": [
+          "900 23RD ST NW",
+          "900 23RD ST NW"
+        ],
+        "city": "WASHINGTON",
+        "state": "DC",
+        "postalCode": "20037-2342"
       },
       {
         "line": [
@@ -48,14 +49,6 @@
       },
       {
         "line": [
-          "900 23RD ST NW"
-        ],
-        "city": "WASHINGTON",
-        "state": "DC",
-        "postalCode": "20037-2342"
-      },
-      {
-        "line": [
           "2000 MEDICAL PKWY"
         ],
         "city": "ANNAPOLIS",
@@ -64,12 +57,19 @@
       },
       {
         "line": [
-          "900 23RD ST NW",
           "900 23RD ST NW"
         ],
         "city": "WASHINGTON",
         "state": "DC",
         "postalCode": "20037-2342"
+      },
+      {
+        "line": [
+          "129 LUBRANO DR STE 301"
+        ],
+        "city": "ANNAPOLIS",
+        "state": "MD",
+        "postalCode": "21401-7568"
       }
     ],
     "extension": [

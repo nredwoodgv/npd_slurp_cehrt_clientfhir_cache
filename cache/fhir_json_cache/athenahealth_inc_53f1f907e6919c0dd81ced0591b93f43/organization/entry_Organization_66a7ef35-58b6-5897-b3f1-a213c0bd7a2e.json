@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790997435"
+        "value": "1831049071"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831049071"
+        "value": "1790997435"
       }
     ],
     "address": [
@@ -29,6 +29,22 @@
         "city": "NEW ORLEANS",
         "state": "LA",
         "postalCode": "70112-1310"
+      },
+      {
+        "line": [
+          "701 METAIRIE RD STE 2A202"
+        ],
+        "city": "METAIRIE",
+        "state": "LA",
+        "postalCode": "70005-4044"
+      },
+      {
+        "line": [
+          "5600 General Degaulle"
+        ],
+        "city": "NEW ORLEANS",
+        "state": "LA",
+        "postalCode": "70131-7247"
       },
       {
         "line": [
@@ -48,31 +64,6 @@
       },
       {
         "line": [
-          "5600 General Degaulle"
-        ],
-        "city": "NEW ORLEANS",
-        "state": "LA",
-        "postalCode": "70131-7247"
-      },
-      {
-        "line": [
-          "2 CANAL ST",
-          "UNIT 2401"
-        ],
-        "city": "NEW ORLEANS",
-        "state": "LA",
-        "postalCode": "70130-1408"
-      },
-      {
-        "line": [
-          "701 METAIRIE RD STE 2A202"
-        ],
-        "city": "METAIRIE",
-        "state": "LA",
-        "postalCode": "70005-4044"
-      },
-      {
-        "line": [
           "14500 Hayne Blvd"
         ],
         "city": "NEW ORLEANS",
@@ -86,6 +77,15 @@
         "city": "METAIRIE",
         "state": "LA",
         "postalCode": "70005-4050"
+      },
+      {
+        "line": [
+          "2 CANAL ST",
+          "UNIT 2401"
+        ],
+        "city": "NEW ORLEANS",
+        "state": "LA",
+        "postalCode": "70130-1408"
       }
     ],
     "extension": [

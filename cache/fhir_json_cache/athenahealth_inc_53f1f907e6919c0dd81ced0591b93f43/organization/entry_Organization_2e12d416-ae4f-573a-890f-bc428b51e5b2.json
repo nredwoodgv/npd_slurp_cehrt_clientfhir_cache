@@ -14,19 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508889817"
+        "value": "1285993188"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285993188"
+        "value": "1508889817"
       }
     ],
     "address": [
       {
-        "line": [],
-        "city": "GERMANTOWN",
+        "line": [
+          "2986 KATE BOND ROAD"
+        ],
+        "city": "MEMPHIS",
         "state": "TN",
-        "postalCode": "38138-3930"
+        "postalCode": "38133-4003"
       },
       {
         "line": [
@@ -38,12 +40,10 @@
         "postalCode": "38138-3930"
       },
       {
-        "line": [
-          "2986 KATE BOND ROAD"
-        ],
-        "city": "MEMPHIS",
+        "line": [],
+        "city": "GERMANTOWN",
         "state": "TN",
-        "postalCode": "38133-4003"
+        "postalCode": "38138-3930"
       }
     ],
     "extension": [

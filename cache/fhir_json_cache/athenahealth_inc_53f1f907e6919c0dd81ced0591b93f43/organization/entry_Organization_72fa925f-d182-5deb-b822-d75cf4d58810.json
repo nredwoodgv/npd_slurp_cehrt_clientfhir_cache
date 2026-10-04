@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366149734"
+        "value": "1902900269"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902900269"
+        "value": "1366149734"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -33,6 +33,14 @@
         "city": "MEEKER",
         "state": "CO",
         "postalCode": "81641-3181"
+      },
+      {
+        "line": [
+          "651 YAMPA AVE"
+        ],
+        "city": "CRAIG",
+        "state": "CO",
+        "postalCode": "81625-2515"
       },
       {
         "line": [
@@ -66,14 +74,6 @@
         "city": "MEEKER",
         "state": "CO",
         "postalCode": "81641-3181"
-      },
-      {
-        "line": [
-          "651 YAMPA AVE"
-        ],
-        "city": "CRAIG",
-        "state": "CO",
-        "postalCode": "81625-2515"
       }
     ],
     "extension": [

@@ -14,7 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1265867287"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1194226373"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417938044"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649643420"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -27,36 +39,16 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1235598616"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194226373"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649643420"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265867287"
       }
     ],
     "address": [
       {
         "line": [
-          "99 Hwy 37 W"
+          "101 2nd St"
         ],
-        "city": "TOMS RIVER",
+        "city": "LAKEWOOD",
         "state": "NJ",
-        "postalCode": "08755-6423"
-      },
-      {
-        "line": [
-          "99 Hwy 37 West"
-        ],
-        "city": "TOMS RIVER",
-        "state": "NJ",
-        "postalCode": "08755-6423"
+        "postalCode": "08701-3324"
       },
       {
         "line": [
@@ -76,11 +68,19 @@
       },
       {
         "line": [
-          "101 2nd St"
+          "99 Hwy 37 W"
         ],
-        "city": "LAKEWOOD",
+        "city": "TOMS RIVER",
         "state": "NJ",
-        "postalCode": "08701-3324"
+        "postalCode": "08755-6423"
+      },
+      {
+        "line": [
+          "99 Hwy 37 West"
+        ],
+        "city": "TOMS RIVER",
+        "state": "NJ",
+        "postalCode": "08755-6423"
       },
       {
         "line": [

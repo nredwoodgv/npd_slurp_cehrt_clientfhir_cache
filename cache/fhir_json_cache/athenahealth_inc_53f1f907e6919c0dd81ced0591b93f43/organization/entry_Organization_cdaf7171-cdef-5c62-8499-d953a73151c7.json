@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205698479"
+        "value": "1447137740"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447137740"
+        "value": "1205698479"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,45 +36,20 @@
     "address": [
       {
         "line": [
-          "1736 Divisadero St"
-        ],
-        "city": "SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94115-3012"
-      },
-      {
-        "line": [
-          "2095 Van Ness Ave"
-        ],
-        "city": "SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94109-3009"
-      },
-      {
-        "line": [
-          "80 Guest ST"
-        ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2071"
-      },
-      {
-        "line": [
-          "100 Bush St",
-          "Ste 1428"
-        ],
-        "city": "SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94104-3916"
-      },
-      {
-        "line": [
           "9777 Wilshire Blvd",
           "Ste 820"
         ],
         "city": "BEVERLY HILLS",
         "state": "CA",
         "postalCode": "90212-1910"
+      },
+      {
+        "line": [
+          "1736 Divisadero St"
+        ],
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94115-3012"
       },
       {
         "line": [
@@ -87,12 +62,28 @@
       },
       {
         "line": [
-          "100 Meadowcreek Dr",
-          "Ste 115, 225"
+          "100 Bush St",
+          "Ste 1428"
         ],
-        "city": "CORTE MADERA",
+        "city": "SAN FRANCISCO",
         "state": "CA",
-        "postalCode": "94925-1230"
+        "postalCode": "94104-3916"
+      },
+      {
+        "line": [
+          "80 Guest ST"
+        ],
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2071"
+      },
+      {
+        "line": [
+          "2095 Van Ness Ave"
+        ],
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94109-3009"
       },
       {
         "line": [
@@ -102,6 +93,15 @@
         "city": "BERKELEY",
         "state": "CA",
         "postalCode": "94704-1872"
+      },
+      {
+        "line": [
+          "100 Meadowcreek Dr",
+          "Ste 115, 225"
+        ],
+        "city": "CORTE MADERA",
+        "state": "CA",
+        "postalCode": "94925-1230"
       },
       {
         "line": [

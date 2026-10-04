@@ -14,23 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
+        "value": "1730484031"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,7 +22,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124080320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053373951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1750302923"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215348487"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962602300"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,14 +50,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
+        "value": "1881656247"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3201 Corsicana Crossing Blvd Ste 101"
+        ],
+        "city": "CORSICANA",
+        "state": "TX",
+        "postalCode": "75109-1230"
+      },
+      {
+        "line": [
+          "3301 W PARK ROW BLVD"
+        ],
+        "city": "CORSICANA",
+        "state": "TX",
+        "postalCode": "75110-4846"
+      },
+      {
+        "line": [
+          "2500 YORLSTOWN DR"
+        ],
+        "city": "ENNIS",
+        "state": "TX",
+        "postalCode": "75119-2199"
+      },
       {
         "line": [
           "201 NORTH HOUSTON AVENUE"
@@ -69,6 +93,30 @@
         "city": "CORSICANA",
         "state": "TX",
         "postalCode": "75110-2450"
+      },
+      {
+        "line": [
+          "3002 W 2ND AVE"
+        ],
+        "city": "CORSICANA",
+        "state": "TX",
+        "postalCode": "75110-2492"
+      },
+      {
+        "line": [
+          "4000 MERIDIAN"
+        ],
+        "city": "FRANKLIN",
+        "state": "TN",
+        "postalCode": "37067-6325"
+      },
+      {
+        "line": [
+          "400 Hospital Dr Ste 208"
+        ],
+        "city": "CORSICANA",
+        "state": "TX",
+        "postalCode": "75110-2489"
       },
       {
         "line": [
@@ -89,11 +137,19 @@
       },
       {
         "line": [
-          "800 E DAWSON ST"
+          "900 GEORGE HOPPER RD"
         ],
-        "city": "TYLER",
+        "city": "MIDLOTHIAN",
         "state": "TX",
-        "postalCode": "75701-2036"
+        "postalCode": "76065-5509"
+      },
+      {
+        "line": [
+          "301 HOSPITAL DR STE 170"
+        ],
+        "city": "CORSICANA",
+        "state": "TX",
+        "postalCode": "75110-2471"
       },
       {
         "line": [
@@ -105,19 +161,11 @@
       },
       {
         "line": [
-          "2500 YORLSTOWN DR"
-        ],
-        "city": "ENNIS",
-        "state": "TX",
-        "postalCode": "75119-2199"
-      },
-      {
-        "line": [
-          "3201 Corsicana Crossing Blvd Ste 101"
+          "3001 W 4TH AVE"
         ],
         "city": "CORSICANA",
         "state": "TX",
-        "postalCode": "75109-1230"
+        "postalCode": "75110-3913"
       },
       {
         "line": [
@@ -130,27 +178,11 @@
       },
       {
         "line": [
-          "400 Hospital Dr Ste 208"
+          "800 E DAWSON ST"
         ],
-        "city": "CORSICANA",
+        "city": "TYLER",
         "state": "TX",
-        "postalCode": "75110-2489"
-      },
-      {
-        "line": [
-          "3002 W 2ND AVE"
-        ],
-        "city": "CORSICANA",
-        "state": "TX",
-        "postalCode": "75110-2492"
-      },
-      {
-        "line": [
-          "301 HOSPITAL DR STE 170"
-        ],
-        "city": "CORSICANA",
-        "state": "TX",
-        "postalCode": "75110-2471"
+        "postalCode": "75701-2036"
       },
       {
         "line": [
@@ -159,38 +191,6 @@
         "city": "CORSICANA",
         "state": "TX",
         "postalCode": "75110-2449"
-      },
-      {
-        "line": [
-          "3001 W 4TH AVE"
-        ],
-        "city": "CORSICANA",
-        "state": "TX",
-        "postalCode": "75110-3913"
-      },
-      {
-        "line": [
-          "4000 MERIDIAN"
-        ],
-        "city": "FRANKLIN",
-        "state": "TN",
-        "postalCode": "37067-6325"
-      },
-      {
-        "line": [
-          "900 GEORGE HOPPER RD"
-        ],
-        "city": "MIDLOTHIAN",
-        "state": "TX",
-        "postalCode": "76065-5509"
-      },
-      {
-        "line": [
-          "3301 W PARK ROW BLVD"
-        ],
-        "city": "CORSICANA",
-        "state": "TX",
-        "postalCode": "75110-4846"
       }
     ],
     "extension": [

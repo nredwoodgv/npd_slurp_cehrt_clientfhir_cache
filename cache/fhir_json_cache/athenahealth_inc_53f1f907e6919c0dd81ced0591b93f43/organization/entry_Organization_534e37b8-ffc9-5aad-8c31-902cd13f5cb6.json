@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245215862"
+        "value": "1861797243"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861797243"
+        "value": "1245215862"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,31 +28,8 @@
     "address": [
       {
         "line": [
-          "1608 TOPAZ DR"
-        ],
-        "city": "LOVELAND",
-        "state": "CO",
-        "postalCode": "80537-3210"
-      },
-      {
-        "line": [
-          "1000 LINCOLN STREET"
-        ],
-        "city": "FORT MORGAN",
-        "state": "CO",
-        "postalCode": "80701-3290"
-      },
-      {
-        "line": [
-          "9005 GRANT ST, SUITE 200"
-        ],
-        "city": "THORNTON",
-        "state": "CO",
-        "postalCode": "80229-4384"
-      },
-      {
-        "line": [
-          "SEE PAPERWORK FOR ADDRESS"
+          "9005 GRANT ST",
+          "STE 200"
         ],
         "city": "DENVER",
         "state": "CO",
@@ -68,19 +45,11 @@
       },
       {
         "line": [
-          "1375 E 19TH AVE"
+          "9005 GRANT ST, SUITE 200"
         ],
-        "city": "DENVER",
+        "city": "THORNTON",
         "state": "CO",
-        "postalCode": "80218-1114"
-      },
-      {
-        "line": [
-          "1208 S RIVER ST"
-        ],
-        "city": "SARATOGA",
-        "state": "WY",
-        "postalCode": "82331-1019"
+        "postalCode": "80229-4384"
       },
       {
         "line": [
@@ -93,8 +62,31 @@
       },
       {
         "line": [
-          "9005 GRANT ST",
-          "STE 200"
+          "9005 Grant Street Suite 200"
+        ],
+        "city": "DENVER",
+        "state": "CO",
+        "postalCode": "80229-4384"
+      },
+      {
+        "line": [
+          "1208 S RIVER ST"
+        ],
+        "city": "SARATOGA",
+        "state": "WY",
+        "postalCode": "82331-1019"
+      },
+      {
+        "line": [
+          "12905 W 40TH AVE STE 100"
+        ],
+        "city": "GOLDEN",
+        "state": "CO",
+        "postalCode": "80401-2791"
+      },
+      {
+        "line": [
+          "SEE PAPERWORK FOR ADDRESS"
         ],
         "city": "DENVER",
         "state": "CO",
@@ -111,19 +103,27 @@
       },
       {
         "line": [
-          "9005 Grant Street Suite 200"
+          "1000 LINCOLN STREET"
         ],
-        "city": "DENVER",
+        "city": "FORT MORGAN",
         "state": "CO",
-        "postalCode": "80229-4384"
+        "postalCode": "80701-3290"
       },
       {
         "line": [
-          "12905 W 40TH AVE STE 100"
+          "1608 TOPAZ DR"
         ],
-        "city": "GOLDEN",
+        "city": "LOVELAND",
         "state": "CO",
-        "postalCode": "80401-2791"
+        "postalCode": "80537-3210"
+      },
+      {
+        "line": [
+          "1375 E 19TH AVE"
+        ],
+        "city": "DENVER",
+        "state": "CO",
+        "postalCode": "80218-1114"
       },
       {
         "line": [

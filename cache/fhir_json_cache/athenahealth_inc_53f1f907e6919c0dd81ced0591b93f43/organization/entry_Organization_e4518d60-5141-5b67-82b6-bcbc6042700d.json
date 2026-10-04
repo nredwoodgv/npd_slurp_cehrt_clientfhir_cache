@@ -14,21 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952325532"
+        "value": "1083450530"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083450530"
+        "value": "1952325532"
       }
     ],
     "address": [
       {
         "line": [
-          "1401 AVOCADO AVE STE 608"
+          "1401 Avocado ave",
+          "Suite 608"
         ],
         "city": "NEWPORT BEACH",
         "state": "CA",
-        "postalCode": "92660-8719"
+        "postalCode": "92660-7820"
       },
       {
         "line": [
@@ -50,12 +51,11 @@
       },
       {
         "line": [
-          "1401 Avocado ave",
-          "Suite 608"
+          "1401 AVOCADO AVE STE 608"
         ],
         "city": "NEWPORT BEACH",
         "state": "CA",
-        "postalCode": "92660-7820"
+        "postalCode": "92660-8719"
       }
     ],
     "extension": [

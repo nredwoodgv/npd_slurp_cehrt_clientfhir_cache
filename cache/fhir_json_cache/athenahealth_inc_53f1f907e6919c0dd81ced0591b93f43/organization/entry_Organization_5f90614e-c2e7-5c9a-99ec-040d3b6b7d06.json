@@ -14,19 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265015580"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1295318525"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679156731"
+        "value": "1265015580"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1245489590"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1679156731"
       }
     ],
     "address": [
@@ -40,63 +40,7 @@
       },
       {
         "line": [
-          "1182 Eastside Hwy"
-        ],
-        "city": "WAYNESBORO",
-        "state": "VA",
-        "postalCode": "22980-6478"
-      },
-      {
-        "line": [
-          "78 Medical Center Drive"
-        ],
-        "city": "FISHERSVILLE",
-        "state": "VA",
-        "postalCode": "22939-2332"
-      },
-      {
-        "line": [
-          "25 Old Oaks Drive"
-        ],
-        "city": "FISHERSVILLE",
-        "state": "VA",
-        "postalCode": "22939-2433"
-      },
-      {
-        "line": [
-          "1000 SAMUEL MILLER LOOP"
-        ],
-        "city": "CHARLOTTESVILLE",
-        "state": "VA",
-        "postalCode": "22903-7527"
-      },
-      {
-        "line": [
-          "2006 Health Campus Dr"
-        ],
-        "city": "HARRISONBURG",
-        "state": "VA",
-        "postalCode": "22801-8679"
-      },
-      {
-        "line": [
-          "2006 Health Campus Drive"
-        ],
-        "city": "HARRISONBURG",
-        "state": "VA",
-        "postalCode": "22801-8679"
-      },
-      {
-        "line": [
-          "78 MEDICAL CENTER DR"
-        ],
-        "city": "FISHERSVILLE",
-        "state": "VA",
-        "postalCode": "22939-2332"
-      },
-      {
-        "line": [
-          "70 MEDICAL CENTER CIR"
+          "70 Medical Center Circle, Ste 310"
         ],
         "city": "FISHERSVILLE",
         "state": "VA",
@@ -113,30 +57,6 @@
       },
       {
         "line": [
-          "70 Medical Center Circle, Ste 105"
-        ],
-        "city": "FISHERSVILLE",
-        "state": "VA",
-        "postalCode": "22939-2273"
-      },
-      {
-        "line": [
-          "201 Lew Dewitt Blvd"
-        ],
-        "city": "WAYNESBORO",
-        "state": "VA",
-        "postalCode": "22980-1663"
-      },
-      {
-        "line": [
-          "39 BEAM LN"
-        ],
-        "city": "FISHERSVILLE",
-        "state": "VA",
-        "postalCode": "22939-2348"
-      },
-      {
-        "line": [
           "1751 ERICKSON AVE"
         ],
         "city": "HARRISONBURG",
@@ -145,11 +65,68 @@
       },
       {
         "line": [
-          "ZZZ"
+          "1182 Eastside Hwy"
+        ],
+        "city": "WAYNESBORO",
+        "state": "VA",
+        "postalCode": "22980-6478"
+      },
+      {
+        "line": [
+          "78 MEDICAL CENTER DR"
         ],
         "city": "FISHERSVILLE",
         "state": "VA",
         "postalCode": "22939-2332"
+      },
+      {
+        "line": [
+          "2006 Health Campus Drive"
+        ],
+        "city": "HARRISONBURG",
+        "state": "VA",
+        "postalCode": "22801-8679"
+      },
+      {
+        "line": [
+          "1000 SAMUEL MILLER LOOP"
+        ],
+        "city": "CHARLOTTESVILLE",
+        "state": "VA",
+        "postalCode": "22903-7527"
+      },
+      {
+        "line": [
+          "51 Ivy Ridge Ln"
+        ],
+        "city": "FISHERSVILLE",
+        "state": "VA",
+        "postalCode": "22939-2353"
+      },
+      {
+        "line": [
+          "78 Medical Center Drive, 2nd floor H&V"
+        ],
+        "city": "FISHERSVILLE",
+        "state": "VA",
+        "postalCode": "22939-2332"
+      },
+      {
+        "line": [
+          "78 Medical Center Drive"
+        ],
+        "city": "FISHERSVILLE",
+        "state": "VA",
+        "postalCode": "22939-2332"
+      },
+      {
+        "line": [
+          "70 MEDICAL CENTER CIR",
+          "STE 110"
+        ],
+        "city": "FISHERSVILLE",
+        "state": "VA",
+        "postalCode": "22939-2273"
       },
       {
         "line": [
@@ -162,14 +139,6 @@
       },
       {
         "line": [
-          "70 Medical Center Circle, Ste 310"
-        ],
-        "city": "FISHERSVILLE",
-        "state": "VA",
-        "postalCode": "22939-2273"
-      },
-      {
-        "line": [
           "78 Medical Center Drive"
         ],
         "city": "FISHERSVILLE",
@@ -178,7 +147,40 @@
       },
       {
         "line": [
-          "78 Medical Center Drive, 2nd floor H&V"
+          "23 NORTH CAMPUS DR",
+          "Suite 102"
+        ],
+        "city": "FISHERSVILLE",
+        "state": "VA",
+        "postalCode": "22939-2469"
+      },
+      {
+        "line": [
+          "2006 Health Campus Dr"
+        ],
+        "city": "HARRISONBURG",
+        "state": "VA",
+        "postalCode": "22801-8679"
+      },
+      {
+        "line": [
+          "39 BEAM LN"
+        ],
+        "city": "FISHERSVILLE",
+        "state": "VA",
+        "postalCode": "22939-2348"
+      },
+      {
+        "line": [
+          "81 Orchard Hill Circle"
+        ],
+        "city": "STAUNTON",
+        "state": "VA",
+        "postalCode": "24401-5086"
+      },
+      {
+        "line": [
+          "ZZZ"
         ],
         "city": "FISHERSVILLE",
         "state": "VA",
@@ -194,37 +196,11 @@
       },
       {
         "line": [
-          "81 Orchard Hill Circle"
-        ],
-        "city": "STAUNTON",
-        "state": "VA",
-        "postalCode": "24401-5086"
-      },
-      {
-        "line": [
-          "23 NORTH CAMPUS DR",
-          "Suite 102"
-        ],
-        "city": "FISHERSVILLE",
-        "state": "VA",
-        "postalCode": "22939-2469"
-      },
-      {
-        "line": [
-          "70 MEDICAL CENTER CIR",
-          "STE 110"
+          "70 MEDICAL CENTER CIR"
         ],
         "city": "FISHERSVILLE",
         "state": "VA",
         "postalCode": "22939-2273"
-      },
-      {
-        "line": [
-          "51 Ivy Ridge Ln"
-        ],
-        "city": "FISHERSVILLE",
-        "state": "VA",
-        "postalCode": "22939-2353"
       },
       {
         "line": [
@@ -233,6 +209,30 @@
         "city": "STAUNTON",
         "state": "VA",
         "postalCode": "24401-3002"
+      },
+      {
+        "line": [
+          "25 Old Oaks Drive"
+        ],
+        "city": "FISHERSVILLE",
+        "state": "VA",
+        "postalCode": "22939-2433"
+      },
+      {
+        "line": [
+          "70 Medical Center Circle, Ste 105"
+        ],
+        "city": "FISHERSVILLE",
+        "state": "VA",
+        "postalCode": "22939-2273"
+      },
+      {
+        "line": [
+          "201 Lew Dewitt Blvd"
+        ],
+        "city": "WAYNESBORO",
+        "state": "VA",
+        "postalCode": "22980-1663"
       }
     ],
     "extension": [

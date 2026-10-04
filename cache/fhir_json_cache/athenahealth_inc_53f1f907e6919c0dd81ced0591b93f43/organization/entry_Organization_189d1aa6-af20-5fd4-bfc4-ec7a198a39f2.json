@@ -14,6 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730412388"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629538491"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962025148"
       },
       {
@@ -22,22 +30,38 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588997233"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629538491"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730412388"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1508489782"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588997233"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1301 W 38th St Ste 107"
+        ],
+        "city": "Austin",
+        "state": "TX",
+        "postalCode": "78705-1010"
+      },
+      {
+        "line": [
+          "4112 Links Ln,  Ste 101"
+        ],
+        "city": "ROUND ROCK",
+        "state": "TX",
+        "postalCode": "78664-3902"
+      },
+      {
+        "line": [
+          "6811 Austin Center Blvd Ste 410"
+        ],
+        "city": "Austin",
+        "state": "TX",
+        "postalCode": "78731-3157"
+      },
       {
         "line": [
           "3101 Highway 71 East Ste 107"
@@ -45,22 +69,6 @@
         "city": "BASTROP",
         "state": "TX",
         "postalCode": "78602-5157"
-      },
-      {
-        "line": [
-          "11714 Wilson Parke Ave Ste 150"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78726-4061"
-      },
-      {
-        "line": [
-          "1009 W San Antonio St"
-        ],
-        "city": "Lockhart",
-        "state": "TX",
-        "postalCode": "78644-2421"
       },
       {
         "line": [
@@ -80,35 +88,11 @@
       },
       {
         "line": [
-          "6811 Austin Center Blvd Ste 410"
+          "1009 W San Antonio St"
         ],
-        "city": "Austin",
+        "city": "Lockhart",
         "state": "TX",
-        "postalCode": "78731-3157"
-      },
-      {
-        "line": [
-          "4112 Links Ln,  Ste 101"
-        ],
-        "city": "ROUND ROCK",
-        "state": "TX",
-        "postalCode": "78664-3902"
-      },
-      {
-        "line": [
-          "1401 Medical Pkwy Bldg B, Ste 220"
-        ],
-        "city": "CEDAR PARK",
-        "state": "TX",
-        "postalCode": "78613-5013"
-      },
-      {
-        "line": [
-          "1301 W 38th St Ste 107"
-        ],
-        "city": "Austin",
-        "state": "TX",
-        "postalCode": "78705-1010"
+        "postalCode": "78644-2421"
       },
       {
         "line": [
@@ -126,6 +110,22 @@
         "city": "Dripping Springs",
         "state": "TX",
         "postalCode": "78620-2350"
+      },
+      {
+        "line": [
+          "1401 Medical Pkwy Bldg B, Ste 220"
+        ],
+        "city": "CEDAR PARK",
+        "state": "TX",
+        "postalCode": "78613-5013"
+      },
+      {
+        "line": [
+          "11714 Wilson Parke Ave Ste 150"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78726-4061"
       }
     ],
     "extension": [

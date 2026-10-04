@@ -18,14 +18,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730571100"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194767186"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1972734200"
       },
       {
@@ -38,22 +30,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598213241"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1831132133"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598213241"
+        "value": "1194767186"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730571100"
       }
     ],
     "address": [
-      {
-        "line": [
-          "701 E Main st"
-        ],
-        "city": "HART",
-        "state": "MI",
-        "postalCode": "49420-1168"
-      },
       {
         "line": [
           "72 S. State Street"
@@ -61,54 +53,6 @@
         "city": "SHELBY",
         "state": "MI",
         "postalCode": "49455-1228"
-      },
-      {
-        "line": [
-          "1380 E Sherman Blvd"
-        ],
-        "city": "MUSKEGON",
-        "state": "MI",
-        "postalCode": "49444-1814"
-      },
-      {
-        "line": [
-          "1275 Kenneth"
-        ],
-        "city": "MUSKEGON",
-        "state": "MI",
-        "postalCode": "49442-5180"
-      },
-      {
-        "line": [
-          "1001 Diana st"
-        ],
-        "city": "LUDINGTON",
-        "state": "MI",
-        "postalCode": "49431-1908"
-      },
-      {
-        "line": [
-          "570 S Henry St"
-        ],
-        "city": "MUSKEGON",
-        "state": "MI",
-        "postalCode": "49442-1814"
-      },
-      {
-        "line": [
-          "1300 W Broadway Ave"
-        ],
-        "city": "MUSKEGON",
-        "state": "MI",
-        "postalCode": "49441-3530"
-      },
-      {
-        "line": [
-          "1000 E. Tinkham Ave"
-        ],
-        "city": "LUDINGTON",
-        "state": "MI",
-        "postalCode": "49431-1568"
       },
       {
         "line": [
@@ -120,11 +64,51 @@
       },
       {
         "line": [
+          "1000 E. Tinkham Ave"
+        ],
+        "city": "LUDINGTON",
+        "state": "MI",
+        "postalCode": "49431-1568"
+      },
+      {
+        "line": [
+          "570 S Henry St"
+        ],
+        "city": "MUSKEGON",
+        "state": "MI",
+        "postalCode": "49442-1814"
+      },
+      {
+        "line": [
+          "600 Denmark Street"
+        ],
+        "city": "BALDWIN",
+        "state": "MI",
+        "postalCode": "49304-7500"
+      },
+      {
+        "line": [
+          "1275 Kenneth"
+        ],
+        "city": "MUSKEGON",
+        "state": "MI",
+        "postalCode": "49442-5180"
+      },
+      {
+        "line": [
           "1061 W. Hackley Ave"
         ],
         "city": "MUSKEGON",
         "state": "MI",
         "postalCode": "49441-3059"
+      },
+      {
+        "line": [
+          "1380 E Sherman Blvd"
+        ],
+        "city": "MUSKEGON",
+        "state": "MI",
+        "postalCode": "49444-1814"
       },
       {
         "line": [
@@ -136,11 +120,27 @@
       },
       {
         "line": [
-          "600 Denmark Street"
+          "1001 Diana st"
         ],
-        "city": "BALDWIN",
+        "city": "LUDINGTON",
         "state": "MI",
-        "postalCode": "49304-7500"
+        "postalCode": "49431-1908"
+      },
+      {
+        "line": [
+          "701 E Main st"
+        ],
+        "city": "HART",
+        "state": "MI",
+        "postalCode": "49420-1168"
+      },
+      {
+        "line": [
+          "1300 W Broadway Ave"
+        ],
+        "city": "MUSKEGON",
+        "state": "MI",
+        "postalCode": "49441-3530"
       }
     ],
     "extension": [

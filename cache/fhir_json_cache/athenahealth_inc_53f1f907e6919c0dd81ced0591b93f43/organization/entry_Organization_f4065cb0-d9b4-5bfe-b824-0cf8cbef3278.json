@@ -14,19 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659931525"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255984456"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1487131025"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1659931525"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1972605285"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1255984456"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -40,11 +40,85 @@
         ],
         "city": "HUTCHINSON",
         "state": "KS",
-        "postalCode": "67502-9907"
+        "postalCode": "67502-1105"
+      },
+      {
+        "line": [
+          "2520 N WALDRON ST"
+        ],
+        "city": "HUTCHINSON",
+        "state": "KS",
+        "postalCode": "67502-1279"
+      },
+      {
+        "line": [
+          "1701 E 23rd"
+        ],
+        "city": "HUTCHINSON",
+        "state": "KS",
+        "postalCode": "67502-1105"
+      },
+      {
+        "line": [
+          "1701 East 23rd Ave",
+          "Ste. 2000"
+        ],
+        "city": "HUTCHINSON",
+        "state": "KS",
+        "postalCode": "67502-1105"
+      },
+      {
+        "line": [
+          "1701 East 23rd Ave"
+        ],
+        "city": "HUTCHINSON",
+        "state": "KS",
+        "postalCode": "67502-1105"
       },
       {
         "line": [
           "1701 E 23RD AVE"
+        ],
+        "city": "HUTCHINSON",
+        "state": "KS",
+        "postalCode": "67502-9907"
+      },
+      {
+        "line": [
+          "1000 Hospital Dr"
+        ],
+        "city": "MCPHERSON",
+        "state": "KS",
+        "postalCode": "67460-2326"
+      },
+      {
+        "line": [
+          "1701 E 23rd"
+        ],
+        "city": "HUTCHINSON",
+        "state": "KS",
+        "postalCode": "67502-9907"
+      },
+      {
+        "line": [
+          "1701 E. 23rd Ave."
+        ],
+        "city": "HUTCHINSON",
+        "state": "KS",
+        "postalCode": "67502-1105"
+      },
+      {
+        "line": [
+          "10 S MAIN ST STE B"
+        ],
+        "city": "HUTCHINSON",
+        "state": "KS",
+        "postalCode": "67501-5422"
+      },
+      {
+        "line": [
+          "1701 East 23rd Ave",
+          "Suite 2000"
         ],
         "city": "HUTCHINSON",
         "state": "KS",
@@ -61,64 +135,6 @@
       },
       {
         "line": [
-          "1701 East 23rd Ave",
-          "Ste. 2000"
-        ],
-        "city": "HUTCHINSON",
-        "state": "KS",
-        "postalCode": "67502-1105"
-      },
-      {
-        "line": [
-          "10 S MAIN ST STE B"
-        ],
-        "city": "HUTCHINSON",
-        "state": "KS",
-        "postalCode": "67501-5422"
-      },
-      {
-        "line": [
-          "1701 East 23rd Ave"
-        ],
-        "city": "HUTCHINSON",
-        "state": "KS",
-        "postalCode": "67502-1105"
-      },
-      {
-        "line": [
-          "2520 N WALDRON ST"
-        ],
-        "city": "HUTCHINSON",
-        "state": "KS",
-        "postalCode": "67502-1279"
-      },
-      {
-        "line": [
-          "1701 East 23rd Ave",
-          "Suite 2000"
-        ],
-        "city": "HUTCHINSON",
-        "state": "KS",
-        "postalCode": "67502-1105"
-      },
-      {
-        "line": [
-          "1701 E 23rd"
-        ],
-        "city": "HUTCHINSON",
-        "state": "KS",
-        "postalCode": "67502-1105"
-      },
-      {
-        "line": [
-          "1701 E. 23rd Ave."
-        ],
-        "city": "HUTCHINSON",
-        "state": "KS",
-        "postalCode": "67502-1105"
-      },
-      {
-        "line": [
           "1202 E 23RD AVE"
         ],
         "city": "HUTCHINSON",
@@ -127,11 +143,11 @@
       },
       {
         "line": [
-          "1701 E 23rd"
+          "1701 E 23rd Ave"
         ],
         "city": "HUTCHINSON",
         "state": "KS",
-        "postalCode": "67502-9907"
+        "postalCode": "67502-1105"
       },
       {
         "line": [
@@ -141,22 +157,6 @@
         "city": "HUTCHINSON",
         "state": "KS",
         "postalCode": "67502-1167"
-      },
-      {
-        "line": [
-          "1000 Hospital Dr"
-        ],
-        "city": "MCPHERSON",
-        "state": "KS",
-        "postalCode": "67460-2326"
-      },
-      {
-        "line": [
-          "1701 E 23rd Ave"
-        ],
-        "city": "HUTCHINSON",
-        "state": "KS",
-        "postalCode": "67502-1105"
       }
     ],
     "extension": [

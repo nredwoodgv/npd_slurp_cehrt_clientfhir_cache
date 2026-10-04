@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790103869"
+        "value": "1326072943"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326072943"
+        "value": "1790103869"
       }
     ],
     "address": [
@@ -29,6 +29,14 @@
         "city": "Austin",
         "state": "TX",
         "postalCode": "78749-4062"
+      },
+      {
+        "line": [
+          "5103 Kyle Centre Dr, Ste 103"
+        ],
+        "city": "KYLE",
+        "state": "TX",
+        "postalCode": "78640-6164"
       },
       {
         "line": [
@@ -53,14 +61,6 @@
         "city": "AUSTIN",
         "state": "TX",
         "postalCode": "78759-5200"
-      },
-      {
-        "line": [
-          "5103 Kyle Centre Dr, Ste 103"
-        ],
-        "city": "KYLE",
-        "state": "TX",
-        "postalCode": "78640-6164"
       }
     ],
     "extension": [

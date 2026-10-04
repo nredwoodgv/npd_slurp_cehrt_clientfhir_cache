@@ -14,19 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1124080320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,15 +22,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114235918"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730484031"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962602300"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215999511"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114235918"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,14 +42,38 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
+        "value": "1053373951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750302923"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215348487"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669801585"
       }
     ],
     "address": [
+      {
+        "line": [
+          "400 Hospital Drive Ste 210"
+        ],
+        "city": "CORSICANA",
+        "state": "TX",
+        "postalCode": "75110-2489"
+      },
+      {
+        "line": [
+          "400 Hospital Drive Ste 201"
+        ],
+        "city": "CORSICANA",
+        "state": "TX",
+        "postalCode": "75110-2489"
+      },
       {
         "line": [
           "400 Hospital Drive Ste 201"
@@ -71,22 +87,6 @@
           "400 Hospital Drive Ste 200"
         ],
         "city": "Corsicana",
-        "state": "TX",
-        "postalCode": "75110-2489"
-      },
-      {
-        "line": [
-          "400 Hospital Drive Ste 201"
-        ],
-        "city": "CORSICANA",
-        "state": "TX",
-        "postalCode": "75110-2489"
-      },
-      {
-        "line": [
-          "400 Hospital Drive Ste 210"
-        ],
-        "city": "CORSICANA",
         "state": "TX",
         "postalCode": "75110-2489"
       }

@@ -18,10 +18,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386823243"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1699365072"
       },
       {
@@ -34,11 +30,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821041617"
+        "value": "1386823243"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952703373"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821041617"
       }
     ],
     "address": [
@@ -53,21 +53,12 @@
       },
       {
         "line": [
-          "5323 4TH AVENUE CIRCLE",
-          "SUITE E"
+          "1141 N ROAD ST",
+          "STE I"
         ],
-        "city": "BRADENTON",
-        "state": "FL",
-        "postalCode": "34208-5623"
-      },
-      {
-        "line": [
-          "828 HEALTHY WAY",
-          "STE 330"
-        ],
-        "city": "VIRGINIA BEACH",
-        "state": "VA",
-        "postalCode": "23462-7958"
+        "city": "ELIZABETH CITY",
+        "state": "NC",
+        "postalCode": "27909-3354"
       },
       {
         "line": [
@@ -88,20 +79,12 @@
       },
       {
         "line": [
-          "60  Franklin St"
+          "5323 4TH AVENUE CIRCLE",
+          "SUITE E"
         ],
-        "city": "MORRISTOWN",
-        "state": "NJ",
-        "postalCode": "07960-5306"
-      },
-      {
-        "line": [
-          "1141 N ROAD ST",
-          "STE I"
-        ],
-        "city": "ELIZABETH CITY",
-        "state": "NC",
-        "postalCode": "27909-3354"
+        "city": "BRADENTON",
+        "state": "FL",
+        "postalCode": "34208-5623"
       },
       {
         "line": [
@@ -110,6 +93,23 @@
         "city": "FORT WORTH",
         "state": "TX",
         "postalCode": "76132-6109"
+      },
+      {
+        "line": [
+          "828 HEALTHY WAY",
+          "STE 330"
+        ],
+        "city": "VIRGINIA BEACH",
+        "state": "VA",
+        "postalCode": "23462-7958"
+      },
+      {
+        "line": [
+          "60  Franklin St"
+        ],
+        "city": "MORRISTOWN",
+        "state": "NJ",
+        "postalCode": "07960-5306"
       }
     ],
     "extension": [

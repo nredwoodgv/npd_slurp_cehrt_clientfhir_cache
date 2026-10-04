@@ -14,47 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528433968"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861857294"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497120836"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861865107"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336514777"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699140038"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326749417"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982079323"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609655646"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679948012"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407221849"
+        "value": "1508458563"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,19 +22,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780059121"
+        "value": "1861865107"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508458563"
+        "value": "1699140038"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881069227"
+        "value": "1861857294"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124493564"
+        "value": "1407221849"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326749417"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -82,7 +46,43 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528433968"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124493564"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881069227"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1679948012"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336514777"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1982079323"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1497120836"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1780059121"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1689049025"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1609655646"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -92,19 +92,11 @@
     "address": [
       {
         "line": [
-          "2122 MANCHESTER EXPY"
+          "2300 MANCHESTER EXPY STE H202"
         ],
         "city": "COLUMBUS",
         "state": "GA",
-        "postalCode": "31904-6878"
-      },
-      {
-        "line": [
-          "15517 SHOREBIRD LN"
-        ],
-        "city": "WINTER GARDEN",
-        "state": "FL",
-        "postalCode": "34787-4379"
+        "postalCode": "31904-6803"
       },
       {
         "line": [
@@ -117,6 +109,14 @@
       },
       {
         "line": [
+          "2122 MANCHESTER EXPY"
+        ],
+        "city": "COLUMBUS",
+        "state": "GA",
+        "postalCode": "31904-6878"
+      },
+      {
+        "line": [
           "2122 MANCHESTER EXPRESSWAY"
         ],
         "city": "COLUMBUS",
@@ -125,11 +125,11 @@
       },
       {
         "line": [
-          "2300 MANCHESTER EXPY STE H202"
+          "15517 SHOREBIRD LN"
         ],
-        "city": "COLUMBUS",
-        "state": "GA",
-        "postalCode": "31904-6803"
+        "city": "WINTER GARDEN",
+        "state": "FL",
+        "postalCode": "34787-4379"
       }
     ],
     "extension": [

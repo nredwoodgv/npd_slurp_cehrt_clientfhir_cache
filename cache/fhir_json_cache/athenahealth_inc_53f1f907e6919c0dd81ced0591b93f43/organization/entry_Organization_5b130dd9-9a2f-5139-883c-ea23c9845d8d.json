@@ -14,41 +14,25 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487290615"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1023582038"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1114129970"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487290615"
       }
     ],
     "address": [
       {
         "line": [
-          "16338 N IL HIGHWAY 37"
+          "17428 ROUTE 37"
         ],
-        "city": "MOUNT VERNON",
+        "city": "JOHNSTON CITY",
         "state": "IL",
-        "postalCode": "62864-8178"
-      },
-      {
-        "line": [
-          "1175 CEDAR CT"
-        ],
-        "city": "CARBONDALE",
-        "state": "IL",
-        "postalCode": "62901-5333"
-      },
-      {
-        "line": [
-          "21191 Shawneetown Rd"
-        ],
-        "city": "THOMPSONVILLE",
-        "state": "IL",
-        "postalCode": "62890-0172"
+        "postalCode": "62951-2235"
       },
       {
         "line": [
@@ -60,11 +44,11 @@
       },
       {
         "line": [
-          "17428 ROUTE 37"
+          "1175 CEDAR CT"
         ],
-        "city": "JOHNSTON CITY",
+        "city": "CARBONDALE",
         "state": "IL",
-        "postalCode": "62951-2235"
+        "postalCode": "62901-5333"
       },
       {
         "line": [
@@ -89,6 +73,22 @@
         "city": "NASHVILLE",
         "state": "IL",
         "postalCode": "62263-1534"
+      },
+      {
+        "line": [
+          "21191 Shawneetown Rd"
+        ],
+        "city": "THOMPSONVILLE",
+        "state": "IL",
+        "postalCode": "62890-0172"
+      },
+      {
+        "line": [
+          "16338 N IL HIGHWAY 37"
+        ],
+        "city": "MOUNT VERNON",
+        "state": "IL",
+        "postalCode": "62864-8178"
       }
     ],
     "extension": [

@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336665991"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1437661576"
       },
       {
@@ -27,9 +23,30 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629580758"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336665991"
       }
     ],
     "address": [
+      {
+        "line": [
+          "611 E. Douglas Rd",
+          "Suite 128"
+        ],
+        "city": "MISHAWAKA",
+        "state": "IN",
+        "postalCode": "46545-1464"
+      },
+      {
+        "line": [
+          "SCHEDULE TEMPLATE"
+        ],
+        "city": "PLYMOUTH",
+        "state": "IN",
+        "postalCode": "46563-9366"
+      },
       {
         "line": [
           "1915 Lake Ave"
@@ -37,70 +54,6 @@
         "city": "PLYMOUTH",
         "state": "IN",
         "postalCode": "46563-9366"
-      },
-      {
-        "line": [
-          "5230 BECK DR STE 6"
-        ],
-        "city": "ELKHART",
-        "state": "IN",
-        "postalCode": "46516-9059"
-      },
-      {
-        "line": [
-          "60160 Bodnar Blvd"
-        ],
-        "city": "MISHAWAKA",
-        "state": "IN",
-        "postalCode": "46544-9338"
-      },
-      {
-        "line": [
-          "SCHEDULE TEMPLATE"
-        ],
-        "city": "PLYMOUTH",
-        "state": "IN",
-        "postalCode": "46563-9366"
-      },
-      {
-        "line": [
-          "900 I Street"
-        ],
-        "city": "LA PORTE",
-        "state": "IN",
-        "postalCode": "46350-5533"
-      },
-      {
-        "line": [
-          "SURGERY TEMPLATE"
-        ],
-        "city": "MISHAWAKA",
-        "state": "IN",
-        "postalCode": "46545-1969"
-      },
-      {
-        "line": [
-          "53880 Carmichael Drive"
-        ],
-        "city": "SOUTH BEND",
-        "state": "IN",
-        "postalCode": "46635-1567"
-      },
-      {
-        "line": [
-          "BLOCK"
-        ],
-        "city": "SOUTH BEND",
-        "state": "IN",
-        "postalCode": "46601-1033"
-      },
-      {
-        "line": [
-          "SCHEDULE TEMPLATE"
-        ],
-        "city": "SOUTH BEND",
-        "state": "IN",
-        "postalCode": "46601-1033"
       },
       {
         "line": [
@@ -112,12 +65,59 @@
       },
       {
         "line": [
-          "611 E. Douglas Rd",
-          "Suite 128"
+          "SCHEDULE TEMPLATE"
+        ],
+        "city": "SOUTH BEND",
+        "state": "IN",
+        "postalCode": "46601-1033"
+      },
+      {
+        "line": [
+          "60160 Bodnar Blvd"
         ],
         "city": "MISHAWAKA",
         "state": "IN",
-        "postalCode": "46545-1464"
+        "postalCode": "46544-9338"
+      },
+      {
+        "line": [
+          "53880 Carmichael Drive"
+        ],
+        "city": "SOUTH BEND",
+        "state": "IN",
+        "postalCode": "46635-1567"
+      },
+      {
+        "line": [
+          "5230 BECK DR STE 6"
+        ],
+        "city": "ELKHART",
+        "state": "IN",
+        "postalCode": "46516-9059"
+      },
+      {
+        "line": [
+          "900 I Street"
+        ],
+        "city": "LA PORTE",
+        "state": "IN",
+        "postalCode": "46350-5533"
+      },
+      {
+        "line": [
+          "BLOCK"
+        ],
+        "city": "SOUTH BEND",
+        "state": "IN",
+        "postalCode": "46601-1033"
+      },
+      {
+        "line": [
+          "SURGERY TEMPLATE"
+        ],
+        "city": "MISHAWAKA",
+        "state": "IN",
+        "postalCode": "46545-1969"
       }
     ],
     "extension": [

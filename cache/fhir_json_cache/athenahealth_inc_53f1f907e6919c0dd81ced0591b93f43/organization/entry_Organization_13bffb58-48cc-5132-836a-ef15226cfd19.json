@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821087230"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285629535"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1902428840"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821087230"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,11 +32,27 @@
     "address": [
       {
         "line": [
+          "211 Cherry Ave"
+        ],
+        "city": "OAKLEY",
+        "state": "KS",
+        "postalCode": "67748-1218"
+      },
+      {
+        "line": [
           "211 CHERRY AVE"
         ],
         "city": "OAKLEY",
         "state": "KS",
         "postalCode": "67748-1201"
+      },
+      {
+        "line": [
+          "625 Price"
+        ],
+        "city": "OAKLEY",
+        "state": "KS",
+        "postalCode": "67748-1220"
       },
       {
         "line": [
@@ -48,7 +64,7 @@
       },
       {
         "line": [
-          "211 Cherry Ave"
+          "211 Cherry Ave."
         ],
         "city": "OAKLEY",
         "state": "KS",
@@ -62,22 +78,6 @@
         "city": "OAKLEY",
         "state": "KS",
         "postalCode": "67748-6061"
-      },
-      {
-        "line": [
-          "211 Cherry Ave."
-        ],
-        "city": "OAKLEY",
-        "state": "KS",
-        "postalCode": "67748-1218"
-      },
-      {
-        "line": [
-          "625 Price"
-        ],
-        "city": "OAKLEY",
-        "state": "KS",
-        "postalCode": "67748-1220"
       }
     ],
     "extension": [

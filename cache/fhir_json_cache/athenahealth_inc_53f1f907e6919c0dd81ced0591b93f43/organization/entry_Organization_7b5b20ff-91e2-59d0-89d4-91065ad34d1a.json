@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1123456789"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1356437990"
       },
       {
@@ -22,22 +26,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1123456789"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1144464215"
       }
     ],
     "address": [
-      {
-        "line": [
-          "7800 N Stadium Dr"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77030-4442"
-      },
       {
         "line": [
           "7480 BEECHNUT ST"
@@ -48,19 +40,27 @@
       },
       {
         "line": [
-          "210 COLLEGE ST"
+          "120 STATE LOOP 92"
         ],
-        "city": "SCHULENBURG",
+        "city": "LA GRANGE",
         "state": "TX",
-        "postalCode": "78956-1604"
+        "postalCode": "78945-6035"
       },
       {
         "line": [
-          "603 WYCLIFFE DRIVE"
+          "6510 LAWNDALE ST"
         ],
         "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77079-3507"
+        "postalCode": "77023-3913"
+      },
+      {
+        "line": [
+          "13820 Eagle Pass St"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77015-3916"
       },
       {
         "line": [
@@ -72,19 +72,36 @@
       },
       {
         "line": [
-          "970 Campbell Rd"
+          "603 WYCLIFFE DRIVE",
+          "SUITE B"
         ],
         "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77024-2804"
+        "postalCode": "77079-3507"
       },
       {
         "line": [
-          "11246 Fallbrook Dr"
+          "210 COLLEGE ST"
+        ],
+        "city": "SCHULENBURG",
+        "state": "TX",
+        "postalCode": "78956-1604"
+      },
+      {
+        "line": [
+          "21720 KINGSLAND BLVD, SUITE 101"
+        ],
+        "city": "KATY",
+        "state": "TX",
+        "postalCode": "77450-2551"
+      },
+      {
+        "line": [
+          "603 WYCLIFFE DRIVE"
         ],
         "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77065-4273"
+        "postalCode": "77079-3507"
       },
       {
         "line": [
@@ -96,19 +113,11 @@
       },
       {
         "line": [
-          "911 S JEFFERSON ST"
-        ],
-        "city": "LA GRANGE",
-        "state": "TX",
-        "postalCode": "78945-3105"
-      },
-      {
-        "line": [
-          "7400 Clarewood Drive"
+          "504 BERING DR"
         ],
         "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77036-4382"
+        "postalCode": "77057-1479"
       },
       {
         "line": [
@@ -128,36 +137,11 @@
       },
       {
         "line": [
-          "504 BERING DR"
+          "970 Campbell Rd"
         ],
         "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77057-1479"
-      },
-      {
-        "line": [
-          "13820 Eagle Pass St"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77015-3916"
-      },
-      {
-        "line": [
-          "6510 LAWNDALE ST"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77023-3913"
-      },
-      {
-        "line": [
-          "603 WYCLIFFE DRIVE",
-          "SUITE B"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77079-3507"
+        "postalCode": "77024-2804"
       },
       {
         "line": [
@@ -169,19 +153,19 @@
       },
       {
         "line": [
-          "8580 WOODWAY DR"
+          "11246 Fallbrook Dr"
         ],
         "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77063-2423"
+        "postalCode": "77065-4273"
       },
       {
         "line": [
-          "120 STATE LOOP 92"
+          "911 S JEFFERSON ST"
         ],
         "city": "LA GRANGE",
         "state": "TX",
-        "postalCode": "78945-6035"
+        "postalCode": "78945-3105"
       },
       {
         "line": [
@@ -193,11 +177,27 @@
       },
       {
         "line": [
-          "21720 KINGSLAND BLVD, SUITE 101"
+          "7800 N Stadium Dr"
         ],
-        "city": "KATY",
+        "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77450-2551"
+        "postalCode": "77030-4442"
+      },
+      {
+        "line": [
+          "8580 WOODWAY DR"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77063-2423"
+      },
+      {
+        "line": [
+          "7400 Clarewood Drive"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77036-4382"
       }
     ],
     "extension": [

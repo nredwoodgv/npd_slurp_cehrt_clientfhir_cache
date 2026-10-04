@@ -14,23 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992400824"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801853346"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457758617"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841785607"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326656174"
+        "value": "1578024196"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,19 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417812710"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538681283"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184673790"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770288698"
+        "value": "1841785607"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,15 +30,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366496416"
+        "value": "1770288698"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578024196"
+        "value": "1417812710"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396440244"
+        "value": "1457758617"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -74,26 +46,38 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1184673790"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1366496416"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1538681283"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1801853346"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396440244"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326656174"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992400824"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1306213020"
       }
     ],
     "address": [
-      {
-        "line": [
-          "33 E FARNUM ST"
-        ],
-        "city": "LANCASTER",
-        "state": "PA",
-        "postalCode": "17602-3540"
-      },
-      {
-        "line": [
-          "101 South 9th Street"
-        ],
-        "city": "LEBANON",
-        "state": "PA",
-        "postalCode": "17042-5108"
-      },
       {
         "line": [
           "560 S READING RD"
@@ -104,17 +88,32 @@
       },
       {
         "line": [
-          "240 Main St",
-          "Suite A"
+          "33 E FARNUM ST"
         ],
-        "city": "DENVER",
+        "city": "LANCASTER",
         "state": "PA",
-        "postalCode": "17517-0200"
+        "postalCode": "17602-3540"
+      },
+      {
+        "line": [
+          "304 N WATER ST"
+        ],
+        "city": "LANCASTER",
+        "state": "PA",
+        "postalCode": "17603-3374"
       },
       {
         "line": [
           "435 South Kinzer Ave",
           "Suite 6"
+        ],
+        "city": "NEW HOLLAND",
+        "state": "PA",
+        "postalCode": "17557-8706"
+      },
+      {
+        "line": [
+          "584 Springville Road"
         ],
         "city": "NEW HOLLAND",
         "state": "PA",
@@ -130,28 +129,19 @@
       },
       {
         "line": [
-          "304 N WATER ST"
+          "101 South 9th Street"
         ],
-        "city": "LANCASTER",
+        "city": "LEBANON",
         "state": "PA",
-        "postalCode": "17603-3374"
+        "postalCode": "17042-5108"
       },
       {
         "line": [
-          "435 S KINZER AVE",
-          "Suite 6"
-        ],
-        "city": "NEW HOLLAND",
-        "state": "PA",
-        "postalCode": "17557-8706"
-      },
-      {
-        "line": [
-          "304 N Water St"
+          "555 N Duke St"
         ],
         "city": "LANCASTER",
         "state": "PA",
-        "postalCode": "17603-3374"
+        "postalCode": "17602-2250"
       },
       {
         "line": [
@@ -163,27 +153,29 @@
       },
       {
         "line": [
-          "1445 E LINCOLN HWY"
+          "304 N Water St"
         ],
-        "city": "COATESVILLE",
+        "city": "LANCASTER",
         "state": "PA",
-        "postalCode": "19320-2449"
+        "postalCode": "17603-3374"
       },
       {
         "line": [
-          "584 Springville Road"
+          "240 Main St",
+          "Suite A"
+        ],
+        "city": "DENVER",
+        "state": "PA",
+        "postalCode": "17517-0200"
+      },
+      {
+        "line": [
+          "435 S KINZER AVE",
+          "Suite 6"
         ],
         "city": "NEW HOLLAND",
         "state": "PA",
         "postalCode": "17557-8706"
-      },
-      {
-        "line": [
-          "555 N Duke St"
-        ],
-        "city": "LANCASTER",
-        "state": "PA",
-        "postalCode": "17602-2250"
       },
       {
         "line": [
@@ -200,6 +192,14 @@
         "city": "LANCASTER",
         "state": "PA",
         "postalCode": "17602-3063"
+      },
+      {
+        "line": [
+          "1445 E LINCOLN HWY"
+        ],
+        "city": "COATESVILLE",
+        "state": "PA",
+        "postalCode": "19320-2449"
       }
     ],
     "extension": [

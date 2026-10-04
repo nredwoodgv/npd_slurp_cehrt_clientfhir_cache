@@ -18,15 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730412388"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275290694"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1508489782"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730412388"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,10 +30,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1275290694"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629538491"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1520 Leander Rd, Ste 101"
+        ],
+        "city": "Georgetown",
+        "state": "TX",
+        "postalCode": "78628-2401"
+      },
       {
         "line": [
           "3721 Williams Dr."
@@ -54,14 +62,6 @@
         "city": "GEORGETOWN",
         "state": "TX",
         "postalCode": "78628-3778"
-      },
-      {
-        "line": [
-          "1520 Leander Rd, Ste 101"
-        ],
-        "city": "Georgetown",
-        "state": "TX",
-        "postalCode": "78628-2401"
       }
     ],
     "extension": [

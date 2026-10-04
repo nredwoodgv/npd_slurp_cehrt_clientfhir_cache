@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760108047"
+        "value": "1699774646"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699774646"
+        "value": "1760108047"
       }
     ],
     "address": [
@@ -29,6 +29,14 @@
         "city": "LAWRENCE",
         "state": "MA",
         "postalCode": "01841-2355"
+      },
+      {
+        "line": [
+          "12 INGALLS CT"
+        ],
+        "city": "METHUEN",
+        "state": "MA",
+        "postalCode": "01844-3712"
       },
       {
         "line": [
@@ -45,14 +53,6 @@
         "city": "LAWRENCE",
         "state": "MA",
         "postalCode": "01843-3716"
-      },
-      {
-        "line": [
-          "12 INGALLS CT"
-        ],
-        "city": "METHUEN",
-        "state": "MA",
-        "postalCode": "01844-3712"
       }
     ],
     "extension": [

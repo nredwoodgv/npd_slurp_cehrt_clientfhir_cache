@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285420570"
+        "value": "1316165947"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316165947"
+        "value": "1285420570"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1034 N 500 W"
-        ],
-        "city": "PROVO",
-        "state": "UT",
-        "postalCode": "84604-3380"
-      },
-      {
-        "line": [
-          "11925 S STATE ST"
-        ],
-        "city": "DRAPER",
-        "state": "UT",
-        "postalCode": "84020-7735"
-      },
       {
         "line": [
           "1055 N 300 W",
@@ -57,12 +41,19 @@
       },
       {
         "line": [
-          "1055 N 300 W",
-          "Ste 400"
+          "1034 N 500 W"
         ],
         "city": "PROVO",
         "state": "UT",
-        "postalCode": "84604-3359"
+        "postalCode": "84604-3380"
+      },
+      {
+        "line": [
+          "11925 S STATE ST"
+        ],
+        "city": "DRAPER",
+        "state": "UT",
+        "postalCode": "84020-7735"
       },
       {
         "line": [
@@ -87,6 +78,15 @@
         "city": "SALT LAKE CITY",
         "state": "UT",
         "postalCode": "84124-1300"
+      },
+      {
+        "line": [
+          "1055 N 300 W",
+          "Ste 400"
+        ],
+        "city": "PROVO",
+        "state": "UT",
+        "postalCode": "84604-3359"
       }
     ],
     "extension": [

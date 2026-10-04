@@ -14,14 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710928221"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215945456"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1811926132"
       },
       {
@@ -30,7 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1710928221"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1225071491"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215945456"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -44,11 +44,11 @@
     "address": [
       {
         "line": [
-          "13111 N PORT WASHINGTON RD"
+          "2323 N LAKE DR"
         ],
-        "city": "MEQUON",
+        "city": "MILWAUKEE",
         "state": "WI",
-        "postalCode": "53097-2416"
+        "postalCode": "53211-4508"
       },
       {
         "line": [
@@ -68,19 +68,11 @@
       },
       {
         "line": [
-          "2301 N Lake Dr"
+          "13111 N PORT WASHINGTON RD"
         ],
-        "city": "MILWAUKEE",
+        "city": "MEQUON",
         "state": "WI",
-        "postalCode": "53211-4508"
-      },
-      {
-        "line": [
-          "2323 N LAKE DR"
-        ],
-        "city": "MILWAUKEE",
-        "state": "WI",
-        "postalCode": "53211-4508"
+        "postalCode": "53097-2416"
       },
       {
         "line": [
@@ -89,6 +81,14 @@
         "city": "BAY VIEW",
         "state": "WI",
         "postalCode": "53027-2521"
+      },
+      {
+        "line": [
+          "2301 N Lake Dr"
+        ],
+        "city": "MILWAUKEE",
+        "state": "WI",
+        "postalCode": "53211-4508"
       }
     ],
     "extension": [

@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356725865"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1346266152"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487650636"
+        "value": "1295589455"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,26 +26,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295589455"
+        "value": "1356725865"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487650636"
       }
     ],
     "address": [
-      {
-        "line": [
-          "504 ORONDO AVE"
-        ],
-        "city": "WENATCHEE",
-        "state": "WA",
-        "postalCode": "98801-2830"
-      },
-      {
-        "line": [
-          "140 Easy Way"
-        ],
-        "city": "WENATCHEE",
-        "state": "WA",
-        "postalCode": "98801-8108"
-      },
       {
         "line": [
           "504 Orondo Avenue"
@@ -65,6 +49,22 @@
         "city": "WENATCHEE",
         "state": "WA",
         "postalCode": "98801-1741"
+      },
+      {
+        "line": [
+          "140 Easy Way"
+        ],
+        "city": "WENATCHEE",
+        "state": "WA",
+        "postalCode": "98801-8108"
+      },
+      {
+        "line": [
+          "504 ORONDO AVE"
+        ],
+        "city": "WENATCHEE",
+        "state": "WA",
+        "postalCode": "98801-2830"
       }
     ],
     "extension": [

@@ -14,7 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427823749"
+        "value": "1295629756"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053298711"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629830807"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1841184306"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,11 +34,35 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083480081"
+        "value": "1336914662"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689449910"
+        "value": "1629843933"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1679467138"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1427823756"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306613880"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1295614147"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1518732833"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225917164"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,59 +74,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225917164"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861371718"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679467138"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548035876"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922034503"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295614147"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629830807"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336914662"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053298711"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295629756"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841184306"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518732833"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629843933"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306730866"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -98,22 +82,47 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033984448"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306613880"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427823756"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1639944960"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306730866"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548035876"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1427823749"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1922034503"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1083480081"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689449910"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033984448"
       }
     ],
     "address": [
+      {
+        "line": [
+          "211 E Six Forks Rd",
+          "Ste 116, 117, 215, 216, & 217"
+        ],
+        "city": "Raleigh",
+        "state": "NC",
+        "postalCode": "27609-7745"
+      },
       {
         "line": [
           "211 E Six Forks Rd"
@@ -137,15 +146,6 @@
         "city": "BRIGHTON",
         "state": "MA",
         "postalCode": "02135-2071"
-      },
-      {
-        "line": [
-          "211 E Six Forks Rd",
-          "Ste 116, 117, 215, 216, & 217"
-        ],
-        "city": "Raleigh",
-        "state": "NC",
-        "postalCode": "27609-7745"
       },
       {
         "line": [

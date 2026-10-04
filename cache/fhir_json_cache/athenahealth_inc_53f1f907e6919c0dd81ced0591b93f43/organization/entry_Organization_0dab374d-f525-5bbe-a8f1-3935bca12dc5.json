@@ -14,27 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104695063"
+        "value": "1871392340"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871392340"
+        "value": "1104695063"
       }
     ],
     "address": [
       {
         "line": [
-          "1298 BAY DALE DR",
-          "STE 211"
+          "1125 West St, Ste 200 #311"
         ],
-        "city": "ARNOLD",
+        "city": "ANNAPOLIS",
         "state": "MD",
-        "postalCode": "21012-2815"
+        "postalCode": "21401-4279"
       },
       {
         "line": [
           "1125 WEST ST",
-          "STE 200"
+          "STE 200 PMB 311"
         ],
         "city": "ANNAPOLIS",
         "state": "MD",
@@ -51,7 +50,8 @@
       },
       {
         "line": [
-          "1125 West St, Ste 200 #311"
+          "1125 WEST ST",
+          "STE 200"
         ],
         "city": "ANNAPOLIS",
         "state": "MD",
@@ -68,12 +68,12 @@
       },
       {
         "line": [
-          "1125 WEST ST",
-          "STE 200 PMB 311"
+          "1298 BAY DALE DR",
+          "STE 211"
         ],
-        "city": "ANNAPOLIS",
+        "city": "ARNOLD",
         "state": "MD",
-        "postalCode": "21401-4279"
+        "postalCode": "21012-2815"
       }
     ],
     "extension": [

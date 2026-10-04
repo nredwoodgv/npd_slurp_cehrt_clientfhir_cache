@@ -18,22 +18,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437536521"
+        "value": "1013312594"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013312594"
+        "value": "1437536521"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1011 RANCHO CONEJO BLVD"
-        ],
-        "city": "NEWBURY PARK",
-        "state": "CA",
-        "postalCode": "91320-1718"
-      },
       {
         "line": [
           "131 N EL MOLINO AVE STE 180"
@@ -52,29 +44,21 @@
       },
       {
         "line": [
+          "862 AEROVISTA PL",
+          "STE 210"
+        ],
+        "city": "SAN LUIS OBISPO",
+        "state": "CA",
+        "postalCode": "93401-8759"
+      },
+      {
+        "line": [
           "9235 KATY FWY",
           "STE 330"
         ],
         "city": "HOUSTON",
         "state": "TX",
         "postalCode": "77024-1533"
-      },
-      {
-        "line": [
-          "1510 E MAIN ST",
-          "STE 103"
-        ],
-        "city": "SANTA MARIA",
-        "state": "CA",
-        "postalCode": "93454-4826"
-      },
-      {
-        "line": [
-          "2975 SYCAMORE DR"
-        ],
-        "city": "SIMI VALLEY",
-        "state": "CA",
-        "postalCode": "93065-1201"
       },
       {
         "line": [
@@ -86,14 +70,6 @@
       },
       {
         "line": [
-          "400 CAMARILLO RANCH RD STE 101"
-        ],
-        "city": "CAMARILLO",
-        "state": "CA",
-        "postalCode": "93012-5901"
-      },
-      {
-        "line": [
           "6640 VAN NUYS BLVD STE 101"
         ],
         "city": "VAN NUYS",
@@ -102,12 +78,35 @@
       },
       {
         "line": [
-          "862 AEROVISTA PL",
-          "STE 210"
+          "2975 SYCAMORE DR"
         ],
-        "city": "SAN LUIS OBISPO",
+        "city": "SIMI VALLEY",
         "state": "CA",
-        "postalCode": "93401-8759"
+        "postalCode": "93065-1201"
+      },
+      {
+        "line": [
+          "400 CAMARILLO RANCH RD STE 101"
+        ],
+        "city": "CAMARILLO",
+        "state": "CA",
+        "postalCode": "93012-5901"
+      },
+      {
+        "line": [
+          "1011 RANCHO CONEJO BLVD"
+        ],
+        "city": "NEWBURY PARK",
+        "state": "CA",
+        "postalCode": "91320-1718"
+      },
+      {
+        "line": [
+          "937 E MAIN ST"
+        ],
+        "city": "SANTA MARIA",
+        "state": "CA",
+        "postalCode": "93454-5323"
       }
     ],
     "extension": [

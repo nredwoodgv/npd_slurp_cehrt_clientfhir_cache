@@ -18,11 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225809049"
+        "value": "1790551059"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790551059"
+        "value": "1225809049"
       }
     ],
     "address": [
@@ -44,6 +44,15 @@
       },
       {
         "line": [
+          "801 TRAVIS STREET",
+          "SUITE 2101, PMB 509"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77002-5730"
+      },
+      {
+        "line": [
           "6037 La Granada Suite C"
         ],
         "city": "RANCHO SANTA FE",
@@ -52,12 +61,12 @@
       },
       {
         "line": [
-          "66 W FLAGLER ST",
-          "STE 900 PMB 10098"
+          "3940 4th Ave",
+          "Suites 130/140"
         ],
-        "city": "MIAMI",
-        "state": "FL",
-        "postalCode": "33130-1807"
+        "city": "San Diego",
+        "state": "CA",
+        "postalCode": "92103-3193"
       },
       {
         "line": [
@@ -69,15 +78,6 @@
       },
       {
         "line": [
-          "801 TRAVIS STREET",
-          "SUITE 2101, PMB 509"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77002-5730"
-      },
-      {
-        "line": [
           "4110 SORRENTO VALLEY BLVD STE C"
         ],
         "city": "SAN DIEGO",
@@ -86,12 +86,12 @@
       },
       {
         "line": [
-          "3940 4th Ave",
-          "Suites 130/140"
+          "66 W FLAGLER ST",
+          "STE 900 PMB 10098"
         ],
-        "city": "San Diego",
-        "state": "CA",
-        "postalCode": "92103-3193"
+        "city": "MIAMI",
+        "state": "FL",
+        "postalCode": "33130-1807"
       }
     ],
     "extension": [

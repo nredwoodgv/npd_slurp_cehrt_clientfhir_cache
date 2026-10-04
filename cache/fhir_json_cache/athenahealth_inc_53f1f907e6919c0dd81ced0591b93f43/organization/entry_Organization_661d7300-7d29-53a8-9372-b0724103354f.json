@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730437245"
+        "value": "1265780621"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487902995"
+        "value": "1730437245"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265780621"
+        "value": "1487902995"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,19 +36,19 @@
     "address": [
       {
         "line": [
-          "901 LAKESHORE DR"
-        ],
-        "city": "ISHPEMING",
-        "state": "MI",
-        "postalCode": "49849-1367"
-      },
-      {
-        "line": [
           "850 W BARAGA AVE"
         ],
         "city": "MARQUETTE",
         "state": "MI",
         "postalCode": "49855-4550"
+      },
+      {
+        "line": [
+          "3401 LUDINGTON ST"
+        ],
+        "city": "ESCANABA",
+        "state": "MI",
+        "postalCode": "49829-1300"
       },
       {
         "line": [
@@ -68,11 +68,11 @@
       },
       {
         "line": [
-          "3401 LUDINGTON ST"
+          "901 LAKESHORE DR"
         ],
-        "city": "ESCANABA",
+        "city": "ISHPEMING",
         "state": "MI",
-        "postalCode": "49829-1300"
+        "postalCode": "49849-1367"
       }
     ],
     "extension": [

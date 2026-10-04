@@ -14,7 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841514577"
+        "value": "1942477732"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457493835"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811039191"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1164763660"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811039191"
+        "value": "1841514577"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -31,29 +43,17 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1588706873"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942477732"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164763660"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457493835"
       }
     ],
     "address": [
       {
         "line": [
-          "5900 Waldon Road",
-          "Suite D"
+          "1260 N Irish Rd",
+          "Ste C"
         ],
-        "city": "CLARKSTON",
+        "city": "DAVISON",
         "state": "MI",
-        "postalCode": "48346-4806"
+        "postalCode": "48423-2276"
       },
       {
         "line": [
@@ -66,12 +66,12 @@
       },
       {
         "line": [
-          "1260 N Irish Rd",
-          "Ste C"
+          "5900 Waldon Road",
+          "Suite D"
         ],
-        "city": "DAVISON",
+        "city": "CLARKSTON",
         "state": "MI",
-        "postalCode": "48423-2276"
+        "postalCode": "48346-4806"
       }
     ],
     "extension": [

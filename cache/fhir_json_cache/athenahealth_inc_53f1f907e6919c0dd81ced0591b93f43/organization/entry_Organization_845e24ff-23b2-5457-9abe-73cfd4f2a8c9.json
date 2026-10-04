@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710578471"
+        "value": "1467958538"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467958538"
+        "value": "1710578471"
       }
     ],
     "address": [
@@ -32,11 +32,20 @@
       },
       {
         "line": [
-          "423 TREELINE PARK STE 202"
+          "5126 W LOOP 1604 N",
+          "STE 110"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78209-2078"
+        "postalCode": "78251-4408"
+      },
+      {
+        "line": [
+          "11212 STATE HWY 151, PLAZA 1, SUITE 370"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78251-4504"
       },
       {
         "line": [
@@ -48,12 +57,52 @@
       },
       {
         "line": [
-          "11212 State Hwy 151 Plz 1",
-          "Ste 370"
+          "7930 FLOYD CURL DR"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78251-4498"
+        "postalCode": "78229-3925"
+      },
+      {
+        "line": [
+          "11212 STATE HWY 151"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78251-4504"
+      },
+      {
+        "line": [
+          "3011 W LOOP 1604 N"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78251-3901"
+      },
+      {
+        "line": [
+          "11212 STATE HIGHWAY 151 PLAZA 1",
+          "STE 370"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78251-4504"
+      },
+      {
+        "line": [
+          "2827 BABCOCK RD"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78229-4813"
+      },
+      {
+        "line": [
+          "11212 STATE HIGHWAY 151 PLAZA 1, STE 370"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78251-4504"
       },
       {
         "line": [
@@ -65,23 +114,16 @@
       },
       {
         "line": [
-          "7930 FLOYD CURL DR"
+          "7700 FLOYD CURL DR"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78229-3925"
+        "postalCode": "78229-3902"
       },
       {
         "line": [
-          "1927 ROGERS RD"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78251-4504"
-      },
-      {
-        "line": [
-          "3011 N looop 1604"
+          "11212 State Hwy 151 Plz 1",
+          "Ste 370"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
@@ -97,52 +139,11 @@
       },
       {
         "line": [
-          "7700 FLOYD CURL DR"
+          "423 TREELINE PARK STE 202"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78229-3902"
-      },
-      {
-        "line": [
-          "11212 STATE HWY 151"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78251-4504"
-      },
-      {
-        "line": [
-          "11212 STATE HIGHWAY 151 PLAZA 1, STE 370"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78251-4504"
-      },
-      {
-        "line": [
-          "5126 W LOOP 1604 N",
-          "STE 110"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78251-4408"
-      },
-      {
-        "line": [
-          "3011 W LOOP 1604 N"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78251-3901"
-      },
-      {
-        "line": [
-          "2827 BABCOCK RD"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78229-4813"
+        "postalCode": "78209-2078"
       },
       {
         "line": [
@@ -154,16 +155,15 @@
       },
       {
         "line": [
-          "11212 STATE HIGHWAY 151 PLAZA 1",
-          "STE 370"
+          "3011 N looop 1604"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78251-4504"
+        "postalCode": "78251-4498"
       },
       {
         "line": [
-          "11212 STATE HWY 151, PLAZA 1, SUITE 370"
+          "1927 ROGERS RD"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",

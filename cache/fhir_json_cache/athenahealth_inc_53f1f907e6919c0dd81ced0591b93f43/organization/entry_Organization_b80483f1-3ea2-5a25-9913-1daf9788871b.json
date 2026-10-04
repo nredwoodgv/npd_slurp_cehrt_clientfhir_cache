@@ -14,25 +14,17 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497711840"
+        "value": "1609427707"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609427707"
+        "value": "1497711840"
       }
     ],
     "address": [
       {
         "line": [
-          "12001 SOUTH FRWY, STE 304"
-        ],
-        "city": "BURLESON",
-        "state": "TX",
-        "postalCode": "76028-1234"
-      },
-      {
-        "line": [
-          "12001 South Freeway St 304",
+          "12001 South Freeway",
           "#304"
         ],
         "city": "BURLESON",
@@ -41,7 +33,15 @@
       },
       {
         "line": [
-          "12001 South Freeway",
+          "12001 SOUTH FRWY, STE 304"
+        ],
+        "city": "BURLESON",
+        "state": "TX",
+        "postalCode": "76028-7215"
+      },
+      {
+        "line": [
+          "12001 South Freeway St 304",
           "#304"
         ],
         "city": "BURLESON",
@@ -63,7 +63,7 @@
         ],
         "city": "BURLESON",
         "state": "TX",
-        "postalCode": "76028-7215"
+        "postalCode": "76028-1234"
       }
     ],
     "extension": [

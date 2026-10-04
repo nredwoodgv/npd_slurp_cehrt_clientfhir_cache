@@ -2,18 +2,12 @@
   "resource": {
     "resourceType": "Organization",
     "id": "1926",
-    "identifier": [
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962115469"
-      }
-    ],
     "active": true,
     "name": "NV Optical",
     "address": [
       {
         "line": [
-          "5125 Walnut Street"
+          "MOBILE CONCIERE SERVICES"
         ],
         "city": "Philadelphia",
         "state": "PA",
@@ -23,7 +17,7 @@
     ],
     "endpoint": [
       {
-        "reference": "Endpoint/394"
+        "reference": "Endpoint/393"
       }
     ]
   },

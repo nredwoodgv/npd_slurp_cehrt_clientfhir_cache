@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184875270"
+        "value": "1578585550"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578585550"
+        "value": "1184875270"
       }
     ],
     "address": [
-      {
-        "line": [
-          "51 NORTH 5TH STREET SUITE 301"
-        ],
-        "city": "ARCADIA",
-        "state": "CA",
-        "postalCode": "91006-3712"
-      },
-      {
-        "line": [
-          "1509 Wilson Terrace"
-        ],
-        "city": "GLENDALE",
-        "state": "CA",
-        "postalCode": "91206-4007"
-      },
       {
         "line": [
           "1500 S CENTRAL AVE STE 101"
@@ -48,19 +32,27 @@
       },
       {
         "line": [
-          "43051 15th St. W"
+          "10458 Plainview Ave"
         ],
-        "city": "LANCASTER",
+        "city": "TUJUNGA",
         "state": "CA",
-        "postalCode": "93534-6906"
+        "postalCode": "91042-1716"
       },
       {
         "line": [
-          "38920 TRADE CENTER DR"
+          "200 S LOUISE ST"
         ],
-        "city": "PALMDALE",
+        "city": "GLENDALE",
         "state": "CA",
-        "postalCode": "93551-3715"
+        "postalCode": "91205-1637"
+      },
+      {
+        "line": [
+          "1509 WILSON TER"
+        ],
+        "city": "GLENDALE",
+        "state": "CA",
+        "postalCode": "91206-4007"
       },
       {
         "line": [
@@ -80,11 +72,11 @@
       },
       {
         "line": [
-          "200 S LOUISE ST"
+          "38920 TRADE CENTER DR"
         ],
-        "city": "GLENDALE",
+        "city": "PALMDALE",
         "state": "CA",
-        "postalCode": "91205-1637"
+        "postalCode": "93551-3715"
       },
       {
         "line": [
@@ -97,19 +89,27 @@
       },
       {
         "line": [
-          "10458 Plainview Ave"
+          "43051 15th St. W"
         ],
-        "city": "TUJUNGA",
+        "city": "LANCASTER",
         "state": "CA",
-        "postalCode": "91042-1716"
+        "postalCode": "93534-6906"
       },
       {
         "line": [
-          "1509 WILSON TER"
+          "1509 Wilson Terrace"
         ],
         "city": "GLENDALE",
         "state": "CA",
         "postalCode": "91206-4007"
+      },
+      {
+        "line": [
+          "51 NORTH 5TH STREET SUITE 301"
+        ],
+        "city": "ARCADIA",
+        "state": "CA",
+        "postalCode": "91006-3712"
       }
     ],
     "extension": [

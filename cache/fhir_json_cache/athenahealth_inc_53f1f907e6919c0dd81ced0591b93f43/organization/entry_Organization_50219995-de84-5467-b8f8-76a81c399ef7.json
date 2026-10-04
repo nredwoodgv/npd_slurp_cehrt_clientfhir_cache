@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396512885"
+        "value": "1225903040"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225903040"
+        "value": "1396512885"
       }
     ],
     "address": [
-      {
-        "line": [
-          "700 GEIPE RD",
-          "STE 260"
-        ],
-        "city": "CATONSVILLE",
-        "state": "MD",
-        "postalCode": "21228-4152"
-      },
       {
         "line": [
           "207 W Millbrook Road",
@@ -39,6 +30,15 @@
         "city": "RALEIGH",
         "state": "NC",
         "postalCode": "27609-2000"
+      },
+      {
+        "line": [
+          "700 GEIPE RD",
+          "STE 260"
+        ],
+        "city": "CATONSVILLE",
+        "state": "MD",
+        "postalCode": "21228-4152"
       }
     ],
     "extension": [

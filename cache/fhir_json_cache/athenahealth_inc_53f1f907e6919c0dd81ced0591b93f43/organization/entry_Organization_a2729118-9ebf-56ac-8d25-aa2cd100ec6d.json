@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588226328"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396201000"
+        "value": "1316253875"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861118846"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396201000"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,11 +34,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316253875"
+        "value": "1598225021"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598225021"
+        "value": "1588226328"
       }
     ],
     "address": [
@@ -53,37 +53,20 @@
       },
       {
         "line": [
-          "77 Hospital Dr",
-          "Suite 104"
+          "79 Coventry St"
         ],
-        "city": "NORTH ADAMS",
-        "state": "MA",
-        "postalCode": "01247-2538"
+        "city": "NEWPORT",
+        "state": "VT",
+        "postalCode": "05855-2206"
       },
       {
         "line": [
-          "41 Acme Rd",
-          "Suite 3"
+          "409 Alfred St",
+          "Units 4 & 5"
         ],
-        "city": "BREWER",
+        "city": "BIDDEFORD",
         "state": "ME",
-        "postalCode": "04412-1543"
-      },
-      {
-        "line": [
-          "214 Main St"
-        ],
-        "city": "VERGENNES",
-        "state": "VT",
-        "postalCode": "05491-1157"
-      },
-      {
-        "line": [
-          "462 Hegeman Ave"
-        ],
-        "city": "COLCHESTER",
-        "state": "VT",
-        "postalCode": "05446-3187"
+        "postalCode": "04005-3756"
       },
       {
         "line": [
@@ -95,37 +78,11 @@
       },
       {
         "line": [
-          "79 Coventry St"
+          "214 Main St"
         ],
-        "city": "NEWPORT",
+        "city": "VERGENNES",
         "state": "VT",
-        "postalCode": "05855-2206"
-      },
-      {
-        "line": [
-          "17 Catherine Street"
-        ],
-        "city": "SAINT ALBANS",
-        "state": "VT",
-        "postalCode": "05478-2205"
-      },
-      {
-        "line": [
-          "655 Main Street",
-          "Suite 2"
-        ],
-        "city": "BENNINGTON",
-        "state": "VT",
-        "postalCode": "05201-2225"
-      },
-      {
-        "line": [
-          "4923 Ogletown Stanton Road",
-          "Suite 110"
-        ],
-        "city": "NEWARK",
-        "state": "DE",
-        "postalCode": "19713-2012"
+        "postalCode": "05491-1157"
       },
       {
         "line": [
@@ -138,6 +95,33 @@
       },
       {
         "line": [
+          "41 Acme Rd",
+          "Suite 3"
+        ],
+        "city": "BREWER",
+        "state": "ME",
+        "postalCode": "04412-1543"
+      },
+      {
+        "line": [
+          "655 Main Street",
+          "Suite 2"
+        ],
+        "city": "BENNINGTON",
+        "state": "VT",
+        "postalCode": "05201-2225"
+      },
+      {
+        "line": [
+          "77 Hospital Dr",
+          "Suite 104"
+        ],
+        "city": "NORTH ADAMS",
+        "state": "MA",
+        "postalCode": "01247-2538"
+      },
+      {
+        "line": [
           "489 Bernardston Rd"
         ],
         "city": "GREENFIELD",
@@ -146,12 +130,28 @@
       },
       {
         "line": [
-          "409 Alfred St",
-          "Units 4 & 5"
+          "462 Hegeman Ave"
         ],
-        "city": "BIDDEFORD",
-        "state": "ME",
-        "postalCode": "04005-3756"
+        "city": "COLCHESTER",
+        "state": "VT",
+        "postalCode": "05446-3187"
+      },
+      {
+        "line": [
+          "17 Catherine Street"
+        ],
+        "city": "SAINT ALBANS",
+        "state": "VT",
+        "postalCode": "05478-2205"
+      },
+      {
+        "line": [
+          "4923 Ogletown Stanton Road",
+          "Suite 110"
+        ],
+        "city": "NEWARK",
+        "state": "DE",
+        "postalCode": "19713-2012"
       }
     ],
     "extension": [

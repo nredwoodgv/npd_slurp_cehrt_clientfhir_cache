@@ -14,18 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972563187"
+        "value": "1568116291"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568116291"
+        "value": "1972563187"
       }
     ],
     "address": [
       {
         "line": [
-          "4350 E CAMELBACK RD",
-          "STE F100"
+          "4350 E CAMELBACK ROAD",
+          "F100"
         ],
         "city": "PHOENIX",
         "state": "AZ",
@@ -42,17 +42,16 @@
       },
       {
         "line": [
-          "465 W 21ST STREET",
-          "SUITE 101"
+          "2119 South Wilson Street"
         ],
         "city": "TEMPE",
         "state": "AZ",
-        "postalCode": "85282-2095"
+        "postalCode": "85282-2034"
       },
       {
         "line": [
-          "4350 E CAMELBACK ROAD",
-          "F100"
+          "4350 E CAMELBACK RD",
+          "STE F100"
         ],
         "city": "PHOENIX",
         "state": "AZ",
@@ -60,11 +59,12 @@
       },
       {
         "line": [
-          "2119 South Wilson Street"
+          "465 W 21ST STREET",
+          "SUITE 101"
         ],
         "city": "TEMPE",
         "state": "AZ",
-        "postalCode": "85282-2034"
+        "postalCode": "85282-2095"
       }
     ],
     "extension": [

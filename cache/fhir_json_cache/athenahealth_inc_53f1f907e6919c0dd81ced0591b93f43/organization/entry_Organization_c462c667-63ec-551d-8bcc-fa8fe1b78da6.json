@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528179017"
+        "value": "1669667283"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669667283"
+        "value": "1528179017"
       }
     ],
     "address": [
@@ -29,15 +29,6 @@
         "city": "SAN JUAN CAPISTRANO",
         "state": "CA",
         "postalCode": "92675-2700"
-      },
-      {
-        "line": [
-          "351 HOSPITAL ROAD",
-          "SUITE 411"
-        ],
-        "city": "NEWPORT BEACH",
-        "state": "CA",
-        "postalCode": "92663-3504"
       },
       {
         "line": [
@@ -69,6 +60,15 @@
         "city": "NEWPORT BEACH",
         "state": "CA",
         "postalCode": "92660-0797"
+      },
+      {
+        "line": [
+          "351 HOSPITAL ROAD",
+          "SUITE 411"
+        ],
+        "city": "NEWPORT BEACH",
+        "state": "CA",
+        "postalCode": "92663-3504"
       },
       {
         "line": [

@@ -18,10 +18,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033294673"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396798302"
       },
       {
@@ -30,14 +26,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902043433"
+        "value": "1033294673"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1437194669"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902043433"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1330 Cedar Ln"
+        ],
+        "city": "TULLAHOMA",
+        "state": "TN",
+        "postalCode": "37388-2283"
+      },
       {
         "line": [
           "225 Big Station Camp Blvd Ste 201"
@@ -48,20 +56,28 @@
       },
       {
         "line": [
-          "4230 Harding Road Suite 330"
+          "1805 N Jackson St"
         ],
-        "city": "Nashville",
+        "city": "TULLAHOMA",
         "state": "TN",
-        "postalCode": "37205-2018"
+        "postalCode": "37388-2290"
       },
       {
         "line": [
-          "2010 Church St",
-          "Suite 700"
+          "451 Hwy 13 S"
+        ],
+        "city": "WAVERLY",
+        "state": "TN",
+        "postalCode": "37185-2109"
+      },
+      {
+        "line": [
+          "300 20th Ave N",
+          "Suite 202"
         ],
         "city": "NASHVILLE",
         "state": "TN",
-        "postalCode": "37203-2081"
+        "postalCode": "37203-2131"
       },
       {
         "line": [
@@ -74,28 +90,37 @@
       },
       {
         "line": [
-          "1330 Cedar Ln"
+          "311 Landrum Place",
+          "Ste 700"
         ],
-        "city": "TULLAHOMA",
+        "city": "CLARKSVILLE",
         "state": "TN",
-        "postalCode": "37388-2283"
+        "postalCode": "37043-6319"
       },
       {
         "line": [
-          "4230 Harding Rd",
-          "Suite 400"
+          "4230 Harding Road Suite 330"
         ],
         "city": "Nashville",
+        "state": "TN",
+        "postalCode": "37205-2018"
+      },
+      {
+        "line": [
+          "4230 Harding Road Suite 330"
+        ],
+        "city": "NASHVILLE",
         "state": "TN",
         "postalCode": "37205-2013"
       },
       {
         "line": [
-          "100 Physicians Way, Suite 300"
+          "1800 Medical Ctr Pkwy",
+          "Suite 400"
         ],
-        "city": "LEBANON",
+        "city": "MURFREESBORO",
         "state": "TN",
-        "postalCode": "37090-8013"
+        "postalCode": "37129-3182"
       },
       {
         "line": [
@@ -115,54 +140,38 @@
       },
       {
         "line": [
-          "1805 N Jackson St"
-        ],
-        "city": "TULLAHOMA",
-        "state": "TN",
-        "postalCode": "37388-2290"
-      },
-      {
-        "line": [
-          "311 Landrum Place",
-          "Ste 700"
-        ],
-        "city": "CLARKSVILLE",
-        "state": "TN",
-        "postalCode": "37043-6319"
-      },
-      {
-        "line": [
-          "4230 Harding Road Suite 330"
+          "2010 Church St",
+          "Suite 700"
         ],
         "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37203-2081"
+      },
+      {
+        "line": [
+          "4230 Harding Rd",
+          "Suite 400"
+        ],
+        "city": "Nashville",
         "state": "TN",
         "postalCode": "37205-2013"
       },
       {
         "line": [
-          "451 Hwy 13 S"
+          "274 Centre St",
+          "Suite 100"
         ],
-        "city": "WAVERLY",
+        "city": "PLEASANT VIEW",
         "state": "TN",
-        "postalCode": "37185-2109"
+        "postalCode": "37146-7076"
       },
       {
         "line": [
-          "1800 Medical Ctr Pkwy",
-          "Suite 400"
+          "100 Physicians Way, Suite 300"
         ],
-        "city": "MURFREESBORO",
+        "city": "LEBANON",
         "state": "TN",
-        "postalCode": "37129-3182"
-      },
-      {
-        "line": [
-          "300 20th Ave N",
-          "Suite 202"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37203-2131"
+        "postalCode": "37090-8013"
       },
       {
         "line": [
@@ -179,15 +188,6 @@
         "city": "Smithville",
         "state": "TN",
         "postalCode": "37166-1138"
-      },
-      {
-        "line": [
-          "274 Centre St",
-          "Suite 100"
-        ],
-        "city": "PLEASANT VIEW",
-        "state": "TN",
-        "postalCode": "37146-7076"
       }
     ],
     "extension": [

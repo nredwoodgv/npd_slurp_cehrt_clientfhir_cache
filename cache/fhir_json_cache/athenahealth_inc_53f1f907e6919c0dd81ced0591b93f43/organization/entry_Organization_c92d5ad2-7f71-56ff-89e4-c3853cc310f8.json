@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730626169"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1003083445"
       },
       {
@@ -26,26 +22,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972770303"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1811944101"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1033386578"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1972770303"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730626169"
       }
     ],
     "address": [
-      {
-        "line": [
-          "11551 Forest Central Dr. Ste 133"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75243-3915"
-      },
       {
         "line": [
           "2840 Keller Springs Road, Ste 1104"
@@ -53,6 +45,14 @@
         "city": "CARROLLTON",
         "state": "TX",
         "postalCode": "75006-4876"
+      },
+      {
+        "line": [
+          "11551 Forest Central Dr. Ste 133"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75243-3915"
       },
       {
         "line": [

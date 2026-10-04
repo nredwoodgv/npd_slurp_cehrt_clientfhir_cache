@@ -14,21 +14,54 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750814737"
+        "value": "1649501347"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649501347"
+        "value": "1750814737"
       }
     ],
     "address": [
       {
         "line": [
-          "3301 Matlock Rd"
+          "231 S COLLINS RD"
+        ],
+        "city": "SUNNYVALE",
+        "state": "TX",
+        "postalCode": "75182-4624"
+      },
+      {
+        "line": [
+          "1871 Harroun Ave",
+          "Ste 200"
+        ],
+        "city": "MCKINNEY",
+        "state": "TX",
+        "postalCode": "75069-3496"
+      },
+      {
+        "line": [
+          "2300 LONE STAR RD"
+        ],
+        "city": "MANSFIELD",
+        "state": "TX",
+        "postalCode": "76063-8744"
+      },
+      {
+        "line": [
+          "801 W INTERSTATE 20"
         ],
         "city": "ARLINGTON",
         "state": "TX",
-        "postalCode": "76015-2908"
+        "postalCode": "76017-5851"
+      },
+      {
+        "line": [
+          "1901 N MACARTHUR BLVD"
+        ],
+        "city": "IRVING",
+        "state": "TX",
+        "postalCode": "75061-2220"
       },
       {
         "line": [
@@ -48,28 +81,19 @@
       },
       {
         "line": [
-          "801 W INTERSTATE 20"
+          "3601 N CALAIS ST"
+        ],
+        "city": "SHERMAN",
+        "state": "TX",
+        "postalCode": "75090-1785"
+      },
+      {
+        "line": [
+          "3301 Matlock Rd"
         ],
         "city": "ARLINGTON",
         "state": "TX",
-        "postalCode": "76017-5851"
-      },
-      {
-        "line": [
-          "7955 Harry Hines Blvd"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75235-3305"
-      },
-      {
-        "line": [
-          "1871 Harroun Ave",
-          "Ste 200"
-        ],
-        "city": "MCKINNEY",
-        "state": "TX",
-        "postalCode": "75069-3496"
+        "postalCode": "76015-2908"
       },
       {
         "line": [
@@ -90,19 +114,19 @@
       },
       {
         "line": [
-          "231 S Collins Rd"
+          "7777 Forest Lane"
         ],
-        "city": "SUNNYVALE",
+        "city": "DALLAS",
         "state": "TX",
-        "postalCode": "75182-4624"
+        "postalCode": "75230-2501"
       },
       {
         "line": [
-          "1901 N MACARTHUR BLVD"
+          "7955 Harry Hines Blvd"
         ],
-        "city": "IRVING",
+        "city": "DALLAS",
         "state": "TX",
-        "postalCode": "75061-2220"
+        "postalCode": "75235-3305"
       },
       {
         "line": [
@@ -114,27 +138,11 @@
       },
       {
         "line": [
-          "2300 LONE STAR RD"
+          "231 S Collins Rd"
         ],
-        "city": "MANSFIELD",
+        "city": "SUNNYVALE",
         "state": "TX",
-        "postalCode": "76063-8744"
-      },
-      {
-        "line": [
-          "7777 Forest Lane"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75230-2501"
-      },
-      {
-        "line": [
-          "3601 N CALAIS ST"
-        ],
-        "city": "SHERMAN",
-        "state": "TX",
-        "postalCode": "75090-1785"
+        "postalCode": "75182-4624"
       },
       {
         "line": [
@@ -143,14 +151,6 @@
         "city": "DALLAS",
         "state": "TX",
         "postalCode": "75204-8102"
-      },
-      {
-        "line": [
-          "231 S COLLINS RD"
-        ],
-        "city": "SUNNYVALE",
-        "state": "TX",
-        "postalCode": "75182-4624"
       }
     ],
     "extension": [

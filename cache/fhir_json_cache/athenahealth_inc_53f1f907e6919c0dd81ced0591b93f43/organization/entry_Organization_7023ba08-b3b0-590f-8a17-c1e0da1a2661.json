@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659887511"
+        "value": "1477501930"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477501930"
+        "value": "1659887511"
       }
     ],
     "address": [
+      {
+        "line": [
+          "98 Poplar Street"
+        ],
+        "city": "BLACKFOOT",
+        "state": "ID",
+        "postalCode": "83221-1758"
+      },
       {
         "line": [
           "777 HOSPITAL WAY, STE 300"
@@ -32,31 +40,15 @@
       },
       {
         "line": [
-          "777 HOSPITAL WAY"
+          "285 VISTA DRIVE"
         ],
         "city": "POCATELLO",
         "state": "ID",
-        "postalCode": "83201-5157"
+        "postalCode": "83201-4987"
       },
       {
         "line": [
           "98 POPLAR STREET"
-        ],
-        "city": "BLACKFOOT",
-        "state": "ID",
-        "postalCode": "83221-1758"
-      },
-      {
-        "line": [
-          "98 Poplar street"
-        ],
-        "city": "BLACKFOOT",
-        "state": "ID",
-        "postalCode": "83221-1758"
-      },
-      {
-        "line": [
-          "98 Poplar Street"
         ],
         "city": "BLACKFOOT",
         "state": "ID",
@@ -72,11 +64,11 @@
       },
       {
         "line": [
-          "285 VISTA DRIVE"
+          "777 HOSPITAL WAY"
         ],
         "city": "POCATELLO",
         "state": "ID",
-        "postalCode": "83201-4987"
+        "postalCode": "83201-5157"
       },
       {
         "line": [
@@ -85,6 +77,14 @@
         "city": "POCATELLO",
         "state": "ID",
         "postalCode": "83201-5176"
+      },
+      {
+        "line": [
+          "98 Poplar street"
+        ],
+        "city": "BLACKFOOT",
+        "state": "ID",
+        "postalCode": "83221-1758"
       }
     ],
     "extension": [

@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023088168"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700831500"
+        "value": "1750680757"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,11 +26,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376820605"
+        "value": "1457663197"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750680757"
+        "value": "1700831500"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,17 +38,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457663197"
+        "value": "1376820605"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1023088168"
       }
     ],
     "address": [
       {
         "line": [
-          "1101 University Dr."
+          "16001 W 9 Mile Rd"
         ],
-        "city": "ROCHESTER",
+        "city": "SOUTHFIELD",
         "state": "MI",
-        "postalCode": "48307-1863"
+        "postalCode": "48075-4818"
       },
       {
         "line": [
@@ -64,6 +64,14 @@
       },
       {
         "line": [
+          "27351 Dequindre Rd"
+        ],
+        "city": "MADISON HEIGHTS",
+        "state": "MI",
+        "postalCode": "48071-3487"
+      },
+      {
+        "line": [
           "11800 E. 12 Mile Rd."
         ],
         "city": "WARREN",
@@ -72,19 +80,11 @@
       },
       {
         "line": [
-          "16001 W 9 Mile Rd"
+          "1101 University Dr."
         ],
-        "city": "SOUTHFIELD",
+        "city": "ROCHESTER",
         "state": "MI",
-        "postalCode": "48075-4818"
-      },
-      {
-        "line": [
-          "27351 Dequindre Rd"
-        ],
-        "city": "MADISON HEIGHTS",
-        "state": "MI",
-        "postalCode": "48071-3487"
+        "postalCode": "48307-1863"
       }
     ],
     "extension": [

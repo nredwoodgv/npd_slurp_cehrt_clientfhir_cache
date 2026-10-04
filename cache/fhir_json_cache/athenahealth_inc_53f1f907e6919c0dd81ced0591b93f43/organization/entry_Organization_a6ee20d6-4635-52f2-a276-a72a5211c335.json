@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639697949"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730695594"
+        "value": "1346862752"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205263134"
+        "value": "1912425000"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1356682298"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,15 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073536900"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265459242"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235234576"
+        "value": "1699947408"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,15 +42,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215118609"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952328924"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346862752"
+        "value": "1437714987"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,15 +50,31 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912425000"
+        "value": "1730695594"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699947408"
+        "value": "1205263134"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437714987"
+        "value": "1265459242"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952328924"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235234576"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073536900"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215118609"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -82,10 +82,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356682298"
+        "value": "1639697949"
       }
     ],
     "address": [
+      {
+        "line": [
+          "901 Central Texas Expy"
+        ],
+        "city": "Lampass",
+        "state": "TX",
+        "postalCode": "76550-3382"
+      },
       {
         "line": [
           "611 N Borad St"
@@ -93,14 +101,6 @@
         "city": "Lampasas",
         "state": "TX",
         "postalCode": "76550-1105"
-      },
-      {
-        "line": [
-          "507 W Jackson St."
-        ],
-        "city": "Burnet",
-        "state": "TX",
-        "postalCode": "78611-3012"
       },
       {
         "line": [
@@ -112,11 +112,11 @@
       },
       {
         "line": [
-          "901 Central Texas Expy"
+          "507 W Jackson St."
         ],
-        "city": "Lampass",
+        "city": "Burnet",
         "state": "TX",
-        "postalCode": "76550-3382"
+        "postalCode": "78611-3012"
       }
     ],
     "extension": [

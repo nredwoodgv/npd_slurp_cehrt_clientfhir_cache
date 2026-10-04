@@ -14,59 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881058535"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1619338647"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417311168"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326402074"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720449739"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710348784"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942664677"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720722820"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376592964"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104289693"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821452566"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821459850"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831552322"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720123748"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -78,7 +26,59 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821459850"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1710348784"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1942664677"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720449739"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881058535"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417311168"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326402074"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821452566"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720123748"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831552322"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376592964"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1972967628"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720722820"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104289693"
       }
     ],
     "address": [
@@ -92,64 +92,6 @@
       },
       {
         "line": [
-          "439 US HWY 158 W"
-        ],
-        "city": "YANCEYVILLE",
-        "state": "NC",
-        "postalCode": "27379-8304"
-      },
-      {
-        "line": [
-          "2076 Hwy 42 W",
-          "Ste 300"
-        ],
-        "city": "CLAYTON",
-        "state": "NC",
-        "postalCode": "27520-5302"
-      },
-      {
-        "line": [
-          "1111 Huffman Mill Rd."
-        ],
-        "city": "BURLINGTON",
-        "state": "NC",
-        "postalCode": "27215-8700"
-      },
-      {
-        "line": [
-          "11550 Common Oaks Dr",
-          "Ste 100"
-        ],
-        "city": "RALEIGH",
-        "state": "NC",
-        "postalCode": "27614-8093"
-      },
-      {
-        "line": [
-          "107 E McClanahan Street"
-        ],
-        "city": "OXFORD",
-        "state": "NC",
-        "postalCode": "27565-2919"
-      },
-      {
-        "line": [
-          "100 Kellie Drive"
-        ],
-        "city": "SMITHFIELD",
-        "state": "NC",
-        "postalCode": "27577-4016"
-      },
-      {
-        "line": [
-          "120 Healthplex Way"
-        ],
-        "city": "APEX",
-        "state": "NC",
-        "postalCode": "27502-8403"
-      },
-      {
-        "line": [
           "11550 Common Oaks Dr."
         ],
         "city": "RALEIGH",
@@ -158,11 +100,11 @@
       },
       {
         "line": [
-          "100 Perkins Dr"
+          "3790 Guess Road"
         ],
-        "city": "CHAPEL HILL",
+        "city": "DURHAM",
         "state": "NC",
-        "postalCode": "27514-1783"
+        "postalCode": "27705-6916"
       },
       {
         "line": [
@@ -175,11 +117,53 @@
       },
       {
         "line": [
-          "3790 Guess Road"
+          "120 Healthplex Way"
         ],
-        "city": "DURHAM",
+        "city": "APEX",
         "state": "NC",
-        "postalCode": "27705-6916"
+        "postalCode": "27502-8403"
+      },
+      {
+        "line": [
+          "107 E McClanahan Street"
+        ],
+        "city": "OXFORD",
+        "state": "NC",
+        "postalCode": "27565-2919"
+      },
+      {
+        "line": [
+          "439 US HWY 158 W"
+        ],
+        "city": "YANCEYVILLE",
+        "state": "NC",
+        "postalCode": "27379-8304"
+      },
+      {
+        "line": [
+          "100 Perkins Dr"
+        ],
+        "city": "CHAPEL HILL",
+        "state": "NC",
+        "postalCode": "27514-1783"
+      },
+      {
+        "line": [
+          "2076 Hwy 42 W",
+          "Ste 300"
+        ],
+        "city": "CLAYTON",
+        "state": "NC",
+        "postalCode": "27520-5302"
+      },
+      {
+        "line": [
+          "11550 Common Oaks Dr",
+          "Ste 100"
+        ],
+        "city": "RALEIGH",
+        "state": "NC",
+        "postalCode": "27614-8093"
       },
       {
         "line": [
@@ -188,6 +172,22 @@
         "city": "DURHAM",
         "state": "NC",
         "postalCode": "27713-7512"
+      },
+      {
+        "line": [
+          "100 Kellie Drive"
+        ],
+        "city": "SMITHFIELD",
+        "state": "NC",
+        "postalCode": "27577-4016"
+      },
+      {
+        "line": [
+          "1111 Huffman Mill Rd."
+        ],
+        "city": "BURLINGTON",
+        "state": "NC",
+        "postalCode": "27215-8700"
       }
     ],
     "extension": [

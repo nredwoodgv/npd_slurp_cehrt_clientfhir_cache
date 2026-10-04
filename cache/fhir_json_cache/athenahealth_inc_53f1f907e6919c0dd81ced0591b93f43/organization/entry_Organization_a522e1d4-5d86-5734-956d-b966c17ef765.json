@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447830070"
+        "value": "1972473932"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972473932"
+        "value": "1447830070"
       }
     ],
     "address": [
+      {
+        "line": [
+          "17316 NE STATE RD 65"
+        ],
+        "city": "HOSFORD",
+        "state": "FL",
+        "postalCode": "32334-2415"
+      },
       {
         "line": [
           "4636 HIGHWAY 90",
@@ -38,14 +46,6 @@
         "city": "BRISTOL",
         "state": "FL",
         "postalCode": "32321-2412"
-      },
-      {
-        "line": [
-          "17316 NE STATE RD 65"
-        ],
-        "city": "HOSFORD",
-        "state": "FL",
-        "postalCode": "32334-2415"
       }
     ],
     "extension": [

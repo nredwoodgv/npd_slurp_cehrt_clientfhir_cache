@@ -14,6 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1134176472"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720390453"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548609761"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578696092"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1124099858"
       },
       {
@@ -23,33 +39,9 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1427251420"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578696092"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720390453"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134176472"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548609761"
       }
     ],
     "address": [
-      {
-        "line": [
-          "11800 E 12 MILE RD"
-        ],
-        "city": "WARREN",
-        "state": "MI",
-        "postalCode": "48093-3472"
-      },
       {
         "line": [
           "11900 East 12 Mile Road, Suite 206"
@@ -57,6 +49,14 @@
         "city": "WARREN",
         "state": "MI",
         "postalCode": "48093-3490"
+      },
+      {
+        "line": [
+          "11800 E 12 MILE RD"
+        ],
+        "city": "WARREN",
+        "state": "MI",
+        "postalCode": "48093-3472"
       }
     ],
     "extension": [

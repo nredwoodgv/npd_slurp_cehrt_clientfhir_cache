@@ -14,14 +14,30 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386652667"
+        "value": "1356489850"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356489850"
+        "value": "1386652667"
       }
     ],
     "address": [
+      {
+        "line": [
+          "400 Charter Blvd"
+        ],
+        "city": "MACON",
+        "state": "GA",
+        "postalCode": "31210-4853"
+      },
+      {
+        "line": [
+          "1960 HWY 247 CONNECTOR"
+        ],
+        "city": "BYRON",
+        "state": "GA",
+        "postalCode": "31008-5663"
+      },
       {
         "line": [
           "3708 Northside Drive"
@@ -29,38 +45,6 @@
         "city": "MACON",
         "state": "GA",
         "postalCode": "31210-2404"
-      },
-      {
-        "line": [
-          "247 S MAIN ST"
-        ],
-        "city": "REIDSVILLE",
-        "state": "GA",
-        "postalCode": "30453-4605"
-      },
-      {
-        "line": [
-          "350 Hospital Drive"
-        ],
-        "city": "MACON",
-        "state": "GA",
-        "postalCode": "31217-3871"
-      },
-      {
-        "line": [
-          "821 North Cobb Street"
-        ],
-        "city": "MILLEDGEVILLE",
-        "state": "GA",
-        "postalCode": "31061-2343"
-      },
-      {
-        "line": [
-          "222 Perry Highway"
-        ],
-        "city": "HAWKINSVILLE",
-        "state": "GA",
-        "postalCode": "31036-6748"
       },
       {
         "line": [
@@ -73,6 +57,30 @@
       },
       {
         "line": [
+          "222 Perry Highway"
+        ],
+        "city": "HAWKINSVILLE",
+        "state": "GA",
+        "postalCode": "31036-6748"
+      },
+      {
+        "line": [
+          "350 Hospital Drive"
+        ],
+        "city": "MACON",
+        "state": "GA",
+        "postalCode": "31217-3871"
+      },
+      {
+        "line": [
+          "350 Hospital Dr"
+        ],
+        "city": "MACON",
+        "state": "GA",
+        "postalCode": "31217-3871"
+      },
+      {
+        "line": [
           "1659 Watson Blvd"
         ],
         "city": "WARNER ROBINS",
@@ -81,19 +89,19 @@
       },
       {
         "line": [
-          "400 Charter Blvd"
+          "247 S MAIN ST"
         ],
-        "city": "MACON",
+        "city": "REIDSVILLE",
         "state": "GA",
-        "postalCode": "31210-4853"
+        "postalCode": "30453-4605"
       },
       {
         "line": [
-          "2803 North Columbia Street, Ste D"
+          "821 North Cobb Street"
         ],
         "city": "MILLEDGEVILLE",
         "state": "GA",
-        "postalCode": "31061-6448"
+        "postalCode": "31061-2343"
       },
       {
         "line": [
@@ -105,11 +113,11 @@
       },
       {
         "line": [
-          "350 Hospital Dr"
+          "2803 North Columbia Street, Ste D"
         ],
-        "city": "MACON",
+        "city": "MILLEDGEVILLE",
         "state": "GA",
-        "postalCode": "31217-3871"
+        "postalCode": "31061-6448"
       },
       {
         "line": [

@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992372403"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1073367546"
       },
       {
@@ -26,27 +22,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992372403"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1043889967"
       }
     ],
     "address": [
-      {
-        "line": [
-          "93 CHERRY ST",
-          "UNIT G1"
-        ],
-        "city": "NEW CANAAN",
-        "state": "CT",
-        "postalCode": "06840-5521"
-      },
-      {
-        "line": [
-          "69 Grove Street"
-        ],
-        "city": "NEW CANAAN",
-        "state": "CT",
-        "postalCode": "06840-5325"
-      },
       {
         "line": [
           "1001 FISCHER BLVD SUITE 3 PMB 1048"
@@ -65,12 +48,20 @@
       },
       {
         "line": [
-          "1800 PHOENIX BLVD",
-          "STE 128-12 PMB 1532"
+          "69 Grove Street"
         ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30349-5593"
+        "city": "NEW CANAAN",
+        "state": "CT",
+        "postalCode": "06840-5325"
+      },
+      {
+        "line": [
+          "93 CHERRY ST",
+          "UNIT G1"
+        ],
+        "city": "NEW CANAAN",
+        "state": "CT",
+        "postalCode": "06840-5521"
       },
       {
         "line": [
@@ -79,6 +70,23 @@
         "city": "NEW YORK",
         "state": "NY",
         "postalCode": "10016-2607"
+      },
+      {
+        "line": [
+          "4917 ENCANTO RD PMB 1018"
+        ],
+        "city": "SNOWFLAKE",
+        "state": "AZ",
+        "postalCode": "85937-6075"
+      },
+      {
+        "line": [
+          "1800 PHOENIX BLVD",
+          "STE 128-12 PMB 1532"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30349-5593"
       }
     ],
     "extension": [

@@ -14,31 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467492041"
+        "value": "1356667117"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356667117"
+        "value": "1467492041"
       }
     ],
     "address": [
-      {
-        "line": [
-          "8700 BEVERLY BLVD"
-        ],
-        "city": "LOS ANGELES",
-        "state": "CA",
-        "postalCode": "90048-1804"
-      },
-      {
-        "line": [
-          "8550 Santa Monica BLVD",
-          "Floor 2"
-        ],
-        "city": "WEST HOLLYWOOD",
-        "state": "CA",
-        "postalCode": "90069-4498"
-      },
       {
         "line": [
           "450 N ROXBURY DR STE 240"
@@ -54,6 +37,23 @@
         "city": "BEVERLY HILLS",
         "state": "CA",
         "postalCode": "90211-2001"
+      },
+      {
+        "line": [
+          "8550 Santa Monica BLVD",
+          "Floor 2"
+        ],
+        "city": "WEST HOLLYWOOD",
+        "state": "CA",
+        "postalCode": "90069-4498"
+      },
+      {
+        "line": [
+          "8700 BEVERLY BLVD"
+        ],
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "postalCode": "90048-1804"
       }
     ],
     "extension": [

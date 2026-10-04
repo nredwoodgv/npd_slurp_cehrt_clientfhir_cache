@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407808579"
+        "value": "1184690984"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184690984"
+        "value": "1407808579"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,12 +36,12 @@
       },
       {
         "line": [
-          "1720 EL CAMINO REAL",
-          "SUITE 150"
+          "1720 El Camino Real",
+          "105"
         ],
         "city": "BURLINGAME",
         "state": "CA",
-        "postalCode": "94010-3224"
+        "postalCode": "94010-3211"
       },
       {
         "line": [
@@ -53,8 +53,7 @@
       },
       {
         "line": [
-          "1720 El Camino Real",
-          "105"
+          "1720 El Camino Real Ste 105"
         ],
         "city": "BURLINGAME",
         "state": "CA",
@@ -62,11 +61,12 @@
       },
       {
         "line": [
-          "1720 El Camino Real Ste 105"
+          "1720 EL CAMINO REAL",
+          "SUITE 150"
         ],
         "city": "BURLINGAME",
         "state": "CA",
-        "postalCode": "94010-3211"
+        "postalCode": "94010-3224"
       }
     ],
     "extension": [

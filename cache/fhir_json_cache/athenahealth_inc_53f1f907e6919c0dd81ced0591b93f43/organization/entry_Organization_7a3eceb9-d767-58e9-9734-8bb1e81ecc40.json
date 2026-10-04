@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619114378"
+        "value": "1962879908"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,10 +22,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962879908"
+        "value": "1619114378"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3844 CONVENTION ST"
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70806-3803"
+      },
       {
         "line": [
           "3844-3850 Convention Street"
@@ -33,6 +41,12 @@
         "city": "Baton Rouge",
         "state": "LA",
         "postalCode": "70806-3806"
+      },
+      {
+        "line": [],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70806-8306"
       },
       {
         "line": [
@@ -43,26 +57,12 @@
         "postalCode": "70806-0601"
       },
       {
-        "line": [],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70806-8306"
-      },
-      {
         "line": [
           "3844 CONVENTION STREET"
         ],
         "city": "BATON ROUGE",
         "state": "LA",
         "postalCode": "70806-3806"
-      },
-      {
-        "line": [
-          "3844 CONVENTION ST"
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70806-3803"
       }
     ],
     "extension": [

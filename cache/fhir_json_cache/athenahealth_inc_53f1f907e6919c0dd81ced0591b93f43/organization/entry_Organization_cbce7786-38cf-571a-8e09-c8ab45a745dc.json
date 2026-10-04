@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881981033"
+        "value": "1033294673"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902043433"
+        "value": "1881981033"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396798302"
+        "value": "1902043433"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,52 +34,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033294673"
+        "value": "1396798302"
       }
     ],
     "address": [
-      {
-        "line": [
-          "222 22nd Ave N",
-          "Suite 501"
-        ],
-        "city": "Nashville",
-        "state": "TN",
-        "postalCode": "37203-1871"
-      },
-      {
-        "line": [
-          "502 N Garden St",
-          "Suite 107"
-        ],
-        "city": "Columbia",
-        "state": "TN",
-        "postalCode": "38402-3237"
-      },
-      {
-        "line": [
-          "120 WALNUT COMMONS LN, STE C"
-        ],
-        "city": "COOKEVILLE",
-        "state": "TN",
-        "postalCode": "38501-6037"
-      },
-      {
-        "line": [
-          "120 Walnut Commons Ln, Suite D"
-        ],
-        "city": "COOKEVILLE",
-        "state": "TN",
-        "postalCode": "38501-6037"
-      },
-      {
-        "line": [
-          "435 SEWELL ROAD"
-        ],
-        "city": "COOKEVILLE",
-        "state": "TN",
-        "postalCode": "38501-1710"
-      },
       {
         "line": [
           "120 Walnut Commons Ln Suite B"
@@ -87,46 +45,6 @@
         "city": "COOKEVILLE",
         "state": "TN",
         "postalCode": "38501-6037"
-      },
-      {
-        "line": [
-          "300 20TH AVE NORTH STE 604"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37203-2115"
-      },
-      {
-        "line": [
-          "131 French Landing Dr"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37228-1511"
-      },
-      {
-        "line": [
-          "200 Stone Crest Blvd"
-        ],
-        "city": "Smyrna",
-        "state": "TN",
-        "postalCode": "37167-6810"
-      },
-      {
-        "line": [
-          "2001 Woodmont Blvd"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37215-1588"
-      },
-      {
-        "line": [
-          "1909 Mallory Ln"
-        ],
-        "city": "Franklin",
-        "state": "TN",
-        "postalCode": "37067-2830"
       },
       {
         "line": [
@@ -139,35 +57,68 @@
       },
       {
         "line": [
-          "6130 Nolensville Pike"
+          "131 French Landing Dr"
         ],
         "city": "NASHVILLE",
         "state": "TN",
-        "postalCode": "37211-6183"
+        "postalCode": "37228-1511"
       },
       {
         "line": [
-          "518 WEST MAIN ST"
+          "120 WALNUT COMMONS LN, STE C"
         ],
-        "city": "SMITHVILLE",
+        "city": "COOKEVILLE",
         "state": "TN",
-        "postalCode": "37166-1100"
+        "postalCode": "38501-6037"
       },
       {
         "line": [
-          "225 N Willow Ave"
+          "1645 SOUTH MAIN STREET"
         ],
-        "city": "Cookeville",
+        "city": "CROSSVILLE",
         "state": "TN",
-        "postalCode": "38501-2335"
+        "postalCode": "38555-2908"
       },
       {
         "line": [
-          "2011 Murphy Ave Ste 301"
+          "2001 Woodmont Blvd"
         ],
         "city": "NASHVILLE",
         "state": "TN",
-        "postalCode": "37203-2023"
+        "postalCode": "37215-1588"
+      },
+      {
+        "line": [
+          "417 Sewell Dr"
+        ],
+        "city": "SPARTA",
+        "state": "TN",
+        "postalCode": "38583-1223"
+      },
+      {
+        "line": [
+          "502 N Garden St",
+          "Suite 107"
+        ],
+        "city": "Columbia",
+        "state": "TN",
+        "postalCode": "38402-3237"
+      },
+      {
+        "line": [
+          "435 SEWELL ROAD"
+        ],
+        "city": "COOKEVILLE",
+        "state": "TN",
+        "postalCode": "38501-1710"
+      },
+      {
+        "line": [
+          "300 20th Avenue N, Suite 403"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37203-2131"
       },
       {
         "line": [
@@ -180,11 +131,27 @@
       },
       {
         "line": [
-          "1645 SOUTH MAIN STREET"
+          "518 WEST MAIN ST"
         ],
-        "city": "CROSSVILLE",
+        "city": "SMITHVILLE",
         "state": "TN",
-        "postalCode": "38555-2908"
+        "postalCode": "37166-1100"
+      },
+      {
+        "line": [
+          "2011 Murphy Ave Ste 301"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37203-2023"
+      },
+      {
+        "line": [
+          "6130 Nolensville Pike"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37211-6183"
       },
       {
         "line": [
@@ -196,19 +163,52 @@
       },
       {
         "line": [
-          "417 Sewell Dr"
+          "200 Stone Crest Blvd"
         ],
-        "city": "SPARTA",
+        "city": "Smyrna",
         "state": "TN",
-        "postalCode": "38583-1223"
+        "postalCode": "37167-6810"
       },
       {
         "line": [
-          "300 20th Avenue N, Suite 403"
+          "225 N Willow Ave"
+        ],
+        "city": "Cookeville",
+        "state": "TN",
+        "postalCode": "38501-2335"
+      },
+      {
+        "line": [
+          "300 20TH AVE NORTH STE 604"
         ],
         "city": "NASHVILLE",
         "state": "TN",
-        "postalCode": "37203-2131"
+        "postalCode": "37203-2115"
+      },
+      {
+        "line": [
+          "120 Walnut Commons Ln, Suite D"
+        ],
+        "city": "COOKEVILLE",
+        "state": "TN",
+        "postalCode": "38501-6037"
+      },
+      {
+        "line": [
+          "222 22nd Ave N",
+          "Suite 501"
+        ],
+        "city": "Nashville",
+        "state": "TN",
+        "postalCode": "37203-1871"
+      },
+      {
+        "line": [
+          "1909 Mallory Ln"
+        ],
+        "city": "Franklin",
+        "state": "TN",
+        "postalCode": "37067-2830"
       }
     ],
     "extension": [

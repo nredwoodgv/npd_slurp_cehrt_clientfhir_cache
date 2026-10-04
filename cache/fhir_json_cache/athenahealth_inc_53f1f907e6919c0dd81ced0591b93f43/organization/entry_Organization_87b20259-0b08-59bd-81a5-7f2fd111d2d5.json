@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346652575"
+        "value": "1285079764"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285079764"
+        "value": "1346652575"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2414 Commercial Ave"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78221-1703"
-      },
       {
         "line": [
           "315 N. San Saba Suite 960"
@@ -48,11 +40,36 @@
       },
       {
         "line": [
+          "1434 E Sonterra Blvd, Ste 109"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78258-7362"
+      },
+      {
+        "line": [
           "1310 McCullough Ave"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
         "postalCode": "78212-5601"
+      },
+      {
+        "line": [
+          "2414 Commercial Ave"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78221-1703"
+      },
+      {
+        "line": [
+          "11503 NW MILITARY HWY",
+          "SUITE 113"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78231-1884"
       },
       {
         "line": [
@@ -70,23 +87,6 @@
         "city": "SAN ANTONIO",
         "state": "TX",
         "postalCode": "78249-3533"
-      },
-      {
-        "line": [
-          "11503 NW MILITARY HWY",
-          "SUITE 113"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78231-1884"
-      },
-      {
-        "line": [
-          "1434 E Sonterra Blvd, Ste 109"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78258-7362"
       }
     ],
     "extension": [

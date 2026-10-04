@@ -14,11 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396201000"
+        "value": "1598225021"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073175956"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1548739170"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396201000"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -27,17 +35,17 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1316253875"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073175956"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598225021"
       }
     ],
     "address": [
+      {
+        "line": [
+          "167 ACADEMY ST STE B"
+        ],
+        "city": "PRESQUE ISLE",
+        "state": "ME",
+        "postalCode": "04769-3167"
+      },
       {
         "line": [
           "725 North St"
@@ -45,31 +53,6 @@
         "city": "PITTSFIELD",
         "state": "MA",
         "postalCode": "01201-4109"
-      },
-      {
-        "line": [
-          "4923 Ogletown Stanton Road",
-          "Suite 110"
-        ],
-        "city": "NEWARK",
-        "state": "DE",
-        "postalCode": "19713-2012"
-      },
-      {
-        "line": [
-          "938 South Bradford Street"
-        ],
-        "city": "DOVER",
-        "state": "DE",
-        "postalCode": "19901-4139"
-      },
-      {
-        "line": [
-          "12 Dallaire Ave"
-        ],
-        "city": "CHICOPEE",
-        "state": "MA",
-        "postalCode": "01020-1237"
       },
       {
         "line": [
@@ -90,11 +73,37 @@
       },
       {
         "line": [
-          "121 Lincoln Street"
+          "12 Dallaire Ave"
         ],
-        "city": "WORCESTER",
+        "city": "CHICOPEE",
         "state": "MA",
-        "postalCode": "01605-2429"
+        "postalCode": "01020-1237"
+      },
+      {
+        "line": [
+          "4421 Roosevelt Blvd",
+          "Suite A"
+        ],
+        "city": "MIDDLETOWN",
+        "state": "OH",
+        "postalCode": "45044-9023"
+      },
+      {
+        "line": [
+          "938 South Bradford Street"
+        ],
+        "city": "DOVER",
+        "state": "DE",
+        "postalCode": "19901-4139"
+      },
+      {
+        "line": [
+          "4923 Ogletown Stanton Road",
+          "Suite 110"
+        ],
+        "city": "NEWARK",
+        "state": "DE",
+        "postalCode": "19713-2012"
       },
       {
         "line": [
@@ -115,12 +124,11 @@
       },
       {
         "line": [
-          "409 Alfred St",
-          "Unit 4"
+          "121 Lincoln Street"
         ],
-        "city": "BIDDEFORD",
-        "state": "ME",
-        "postalCode": "04005-3756"
+        "city": "WORCESTER",
+        "state": "MA",
+        "postalCode": "01605-2429"
       },
       {
         "line": [
@@ -132,29 +140,21 @@
       },
       {
         "line": [
-          "4421 Roosevelt Blvd",
-          "Suite A"
-        ],
-        "city": "MIDDLETOWN",
-        "state": "OH",
-        "postalCode": "45044-9023"
-      },
-      {
-        "line": [
-          "167 ACADEMY ST STE B"
-        ],
-        "city": "PRESQUE ISLE",
-        "state": "ME",
-        "postalCode": "04769-3167"
-      },
-      {
-        "line": [
           "489 Bernardston Road",
           "Suite 108"
         ],
         "city": "GREENFIELD",
         "state": "MA",
         "postalCode": "01301-1238"
+      },
+      {
+        "line": [
+          "409 Alfred St",
+          "Unit 4"
+        ],
+        "city": "BIDDEFORD",
+        "state": "ME",
+        "postalCode": "04005-3756"
       }
     ],
     "extension": [

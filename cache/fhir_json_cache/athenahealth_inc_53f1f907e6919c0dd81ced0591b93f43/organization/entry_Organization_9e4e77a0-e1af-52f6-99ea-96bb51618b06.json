@@ -18,35 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376884692"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821176934"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952998825"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962004093"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730532003"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740368877"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508240482"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174976492"
+        "value": "1376884692"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,11 +30,35 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821176934"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1316279375"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1740368877"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174976492"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1508240482"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730532003"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1144782632"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962004093"
       }
     ],
     "address": [
@@ -72,11 +72,12 @@
       },
       {
         "line": [
-          "4207 Park Avenue"
+          "1661 Airport Road",
+          "SUITE F"
         ],
         "city": "HOT SPRINGS NATIONAL PARK",
         "state": "AR",
-        "postalCode": "71901-9473"
+        "postalCode": "71913-8184"
       },
       {
         "line": [
@@ -88,21 +89,11 @@
       },
       {
         "line": [
-          "2268 HIGHWAY 8 E",
-          "RM 200"
-        ],
-        "city": "NORMAN",
-        "state": "AR",
-        "postalCode": "71960-8508"
-      },
-      {
-        "line": [
-          "1661 Airport Road",
-          "SUITE F"
+          "4207 Park Avenue"
         ],
         "city": "HOT SPRINGS NATIONAL PARK",
         "state": "AR",
-        "postalCode": "71913-8184"
+        "postalCode": "71901-9473"
       },
       {
         "line": [
@@ -111,6 +102,15 @@
         "city": "AMITY",
         "state": "AR",
         "postalCode": "71921-8562"
+      },
+      {
+        "line": [
+          "2268 HIGHWAY 8 E",
+          "RM 200"
+        ],
+        "city": "NORMAN",
+        "state": "AR",
+        "postalCode": "71960-8508"
       }
     ],
     "extension": [

@@ -14,52 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073824330"
+        "value": "1962478362"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962478362"
+        "value": "1073824330"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1516 Steeple Street NE"
-        ],
-        "city": "CONOVER",
-        "state": "NC",
-        "postalCode": "28613-7506"
-      },
-      {
-        "line": [
-          "327 1ST AVE NW"
-        ],
-        "city": "HICKORY",
-        "state": "NC",
-        "postalCode": "28601-6122"
-      },
-      {
-        "line": [
-          "2001 Eastside Drive"
-        ],
-        "city": "NEWTON",
-        "state": "NC",
-        "postalCode": "28658-1933"
-      },
-      {
-        "line": [
-          "20 4th St. SW"
-        ],
-        "city": "HICKORY",
-        "state": "NC",
-        "postalCode": "28602-2963"
-      },
-      {
-        "line": [],
-        "city": "HICKORY",
-        "state": "NC",
-        "postalCode": "28601-6122"
-      },
       {
         "line": [
           "350 E. Parker Rd. Suite 100"
@@ -78,11 +40,65 @@
       },
       {
         "line": [
+          "1516 Steeple Street NE"
+        ],
+        "city": "CONOVER",
+        "state": "NC",
+        "postalCode": "28613-7506"
+      },
+      {
+        "line": [
           "401 N. 4th Ave."
         ],
         "city": "MAIDEN",
         "state": "NC",
         "postalCode": "28650-4922"
+      },
+      {
+        "line": [
+          "350 E. Parker Rd. Suite 101"
+        ],
+        "city": "MORGANTON",
+        "state": "NC",
+        "postalCode": "28655-5155"
+      },
+      {
+        "line": [
+          "608 4th St. SW"
+        ],
+        "city": "CONOVER",
+        "state": "NC",
+        "postalCode": "28613-2635"
+      },
+      {
+        "line": [],
+        "city": "HICKORY",
+        "state": "NC",
+        "postalCode": "28601-6122"
+      },
+      {
+        "line": [
+          "2001 Eastside Drive"
+        ],
+        "city": "NEWTON",
+        "state": "NC",
+        "postalCode": "28658-1933"
+      },
+      {
+        "line": [
+          "1018 5th St SE"
+        ],
+        "city": "HICKORY",
+        "state": "NC",
+        "postalCode": "28602-3918"
+      },
+      {
+        "line": [
+          "327 1ST AVE NW"
+        ],
+        "city": "HICKORY",
+        "state": "NC",
+        "postalCode": "28601-6122"
       },
       {
         "line": [
@@ -102,14 +118,6 @@
       },
       {
         "line": [
-          "608 4th St. SW"
-        ],
-        "city": "CONOVER",
-        "state": "NC",
-        "postalCode": "28613-2635"
-      },
-      {
-        "line": [
           "3060 11th Ave Dr. SE"
         ],
         "city": "HICKORY",
@@ -118,19 +126,11 @@
       },
       {
         "line": [
-          "350 E. Parker Rd. Suite 101"
-        ],
-        "city": "MORGANTON",
-        "state": "NC",
-        "postalCode": "28655-5155"
-      },
-      {
-        "line": [
-          "1018 5th St SE"
+          "20 4th St. SW"
         ],
         "city": "HICKORY",
         "state": "NC",
-        "postalCode": "28602-3918"
+        "postalCode": "28602-2963"
       }
     ],
     "extension": [

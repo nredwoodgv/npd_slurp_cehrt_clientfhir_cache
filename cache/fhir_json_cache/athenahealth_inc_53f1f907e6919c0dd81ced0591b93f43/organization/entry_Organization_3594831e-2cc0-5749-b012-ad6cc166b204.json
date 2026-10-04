@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346244688"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1205845369"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1679501746"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1346244688"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,8 +32,16 @@
     "address": [
       {
         "line": [
-          "7115 Greenville Ave",
-          "Suite 310"
+          "6020 Parker Rd",
+          "Suite 240"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75093-0004"
+      },
+      {
+        "line": [
+          "7115 GREENVILLE AVE STE 310"
         ],
         "city": "DALLAS",
         "state": "TX",
@@ -50,60 +58,8 @@
       },
       {
         "line": [
-          "8210 WALNUT HILL LN",
-          "SUITE 130"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75231-4313"
-      },
-      {
-        "line": [
-          "7115 GREENVILLE AVE STE 310"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75231-5103"
-      },
-      {
-        "line": [
-          "640 KELLER PKWY",
-          "STE 100"
-        ],
-        "city": "KELLER",
-        "state": "TX",
-        "postalCode": "76248-2559"
-      },
-      {
-        "line": [
           "721 Keller Parkway",
           "Suite 107a"
-        ],
-        "city": "KELLER",
-        "state": "TX",
-        "postalCode": "76248-2404"
-      },
-      {
-        "line": [
-          "6020 W. Parker Rd",
-          "Suite 240"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75093-0004"
-      },
-      {
-        "line": [
-          "925 Hilltop Dr.",
-          "Suite 101"
-        ],
-        "city": "WEATHERFORD",
-        "state": "TX",
-        "postalCode": "76086-5890"
-      },
-      {
-        "line": [
-          "721 Keller Parkway STE 107B"
         ],
         "city": "KELLER",
         "state": "TX",
@@ -119,28 +75,12 @@
       },
       {
         "line": [
-          "8210 WALNUT HILL LN STE 130"
+          "640 KELLER PKWY",
+          "STE 100"
         ],
-        "city": "DALLAS",
+        "city": "KELLER",
         "state": "TX",
-        "postalCode": "75231-4418"
-      },
-      {
-        "line": [
-          "8210 Walnut Hill Ln STE 130"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75231-4418"
-      },
-      {
-        "line": [
-          "6020 Parker Rd",
-          "Suite 240"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75093-0004"
+        "postalCode": "76248-2559"
       },
       {
         "line": [
@@ -152,11 +92,71 @@
       },
       {
         "line": [
+          "8210 Walnut Hill Ln STE 130"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75231-4418"
+      },
+      {
+        "line": [
+          "925 Hilltop Dr.",
+          "Suite 101"
+        ],
+        "city": "WEATHERFORD",
+        "state": "TX",
+        "postalCode": "76086-5890"
+      },
+      {
+        "line": [
           "8081 Walnut Hill STE 1000"
         ],
         "city": "DALLAS",
         "state": "TX",
         "postalCode": "75231-4313"
+      },
+      {
+        "line": [
+          "6020 W. Parker Rd",
+          "Suite 240"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75093-0004"
+      },
+      {
+        "line": [
+          "7115 Greenville Ave",
+          "Suite 310"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75231-5103"
+      },
+      {
+        "line": [
+          "8210 WALNUT HILL LN STE 130"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75231-4418"
+      },
+      {
+        "line": [
+          "8210 WALNUT HILL LN",
+          "SUITE 130"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75231-4313"
+      },
+      {
+        "line": [
+          "721 Keller Parkway STE 107B"
+        ],
+        "city": "KELLER",
+        "state": "TX",
+        "postalCode": "76248-2404"
       }
     ],
     "extension": [

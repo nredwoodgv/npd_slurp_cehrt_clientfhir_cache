@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396782363"
+        "value": "1992752224"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1780638478"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,14 +26,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992752224"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780638478"
+        "value": "1396782363"
       }
     ],
     "address": [
+      {
+        "line": [
+          "2200 Wabash Avenue"
+        ],
+        "city": "Springfield",
+        "state": "IL",
+        "postalCode": "62704-5352"
+      },
       {
         "line": [
           "2200 Wabash Avenue",
@@ -43,14 +51,6 @@
         "line": [
           "2200 Wabash Avenue",
           "1st Floor"
-        ],
-        "city": "Springfield",
-        "state": "IL",
-        "postalCode": "62704-5352"
-      },
-      {
-        "line": [
-          "2200 Wabash Avenue"
         ],
         "city": "Springfield",
         "state": "IL",

@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891962221"
+        "value": "1376813972"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376813972"
+        "value": "1891962221"
       }
     ],
     "address": [
-      {
-        "line": [
-          "7 KENNEDY DRIVE"
-        ],
-        "city": "PUTNAM",
-        "state": "CT",
-        "postalCode": "06260-1939"
-      },
       {
         "line": [
           "10 THURBER ROAD"
@@ -37,6 +29,14 @@
         "city": "PUTNAM",
         "state": "CT",
         "postalCode": "06260-2518"
+      },
+      {
+        "line": [
+          "150 WARE ROAD"
+        ],
+        "city": "DAYVILLE",
+        "state": "CT",
+        "postalCode": "06241-1126"
       },
       {
         "line": [
@@ -48,11 +48,11 @@
       },
       {
         "line": [
-          "150 WARE ROAD"
+          "7 KENNEDY DRIVE"
         ],
-        "city": "DAYVILLE",
+        "city": "PUTNAM",
         "state": "CT",
-        "postalCode": "06241-1126"
+        "postalCode": "06260-1939"
       }
     ],
     "extension": [

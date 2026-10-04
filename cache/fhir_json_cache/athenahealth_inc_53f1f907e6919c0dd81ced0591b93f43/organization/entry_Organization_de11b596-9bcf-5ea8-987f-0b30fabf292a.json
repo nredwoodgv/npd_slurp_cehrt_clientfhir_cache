@@ -14,35 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083532618"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1376844878"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1164720868"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1083532618"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1520 North DIVISION Street",
-          "Great River Medical Center Anesthesia Department"
-        ],
-        "city": "BLYTHEVILLE",
-        "state": "AR",
-        "postalCode": "72315-1448"
-      },
-      {
-        "line": [
-          "1520 North Division"
-        ],
-        "city": "BLYTHEVILLE",
-        "state": "AR",
-        "postalCode": "72315-1448"
-      },
       {
         "line": [
           "1521 North 10th Suite G"
@@ -61,11 +44,12 @@
       },
       {
         "line": [
-          "602 W Union Ave Ste B"
+          "1520 North DIVISION Street",
+          "Great River Medical Center Anesthesia Department"
         ],
-        "city": "OSCEOLA",
+        "city": "BLYTHEVILLE",
         "state": "AR",
-        "postalCode": "72370-3001"
+        "postalCode": "72315-1448"
       },
       {
         "line": [
@@ -77,11 +61,27 @@
       },
       {
         "line": [
+          "602 W Union Ave Ste B"
+        ],
+        "city": "OSCEOLA",
+        "state": "AR",
+        "postalCode": "72370-3001"
+      },
+      {
+        "line": [
           "611 West Lee Ave"
         ],
         "city": "OSCEOLA",
         "state": "AR",
         "postalCode": "72370-3001"
+      },
+      {
+        "line": [
+          "1520 North Division"
+        ],
+        "city": "BLYTHEVILLE",
+        "state": "AR",
+        "postalCode": "72315-1448"
       }
     ],
     "extension": [

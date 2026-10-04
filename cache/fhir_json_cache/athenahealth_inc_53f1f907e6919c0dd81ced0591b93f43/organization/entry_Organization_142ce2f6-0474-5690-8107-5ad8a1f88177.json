@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730412388"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629538491"
+        "value": "1275290694"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275290694"
+        "value": "1629538491"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,26 +30,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730412388"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1508489782"
       }
     ],
     "address": [
-      {
-        "line": [
-          "313 E 12th ST  SUITE 101"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78701-1955"
-      },
-      {
-        "line": [
-          "201 Seton Parkway"
-        ],
-        "city": "Round Rock",
-        "state": "TX",
-        "postalCode": "78665-8000"
-      },
       {
         "line": [
           "4616 W Howard Lane Suite 850"
@@ -64,11 +48,11 @@
       },
       {
         "line": [
-          "2716 Spirit of Texas Dr, Ste 160"
+          "625 E 10TH ST"
         ],
         "city": "Austin",
         "state": "TX",
-        "postalCode": "78719-2353"
+        "postalCode": "78701-2612"
       },
       {
         "line": [
@@ -80,19 +64,11 @@
       },
       {
         "line": [
-          "1520 Rutherford Ln"
-        ],
-        "city": "Austin",
-        "state": "TX",
-        "postalCode": "78754-3827"
-      },
-      {
-        "line": [
-          "4301 W William Cannon DR, Bldg. E, Suite 320"
+          "313 E 12th ST  SUITE 101"
         ],
         "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "78749-1474"
+        "postalCode": "78701-1955"
       },
       {
         "line": [
@@ -120,11 +96,35 @@
       },
       {
         "line": [
-          "625 E 10TH ST"
+          "1520 Rutherford Ln"
         ],
         "city": "Austin",
         "state": "TX",
-        "postalCode": "78701-2612"
+        "postalCode": "78754-3827"
+      },
+      {
+        "line": [
+          "4301 W William Cannon DR, Bldg. E, Suite 320"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78749-1474"
+      },
+      {
+        "line": [
+          "201 Seton Parkway"
+        ],
+        "city": "Round Rock",
+        "state": "TX",
+        "postalCode": "78665-8000"
+      },
+      {
+        "line": [
+          "2716 Spirit of Texas Dr, Ste 160"
+        ],
+        "city": "Austin",
+        "state": "TX",
+        "postalCode": "78719-2353"
       }
     ],
     "extension": [

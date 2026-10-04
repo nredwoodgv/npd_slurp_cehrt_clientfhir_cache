@@ -18,19 +18,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558344978"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417987124"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427005131"
+        "value": "1558344978"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396926747"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1427005131"
       }
     ],
     "address": [
@@ -44,6 +44,14 @@
       },
       {
         "line": [
+          "2 SHIRCLIFF WAY SUITE 720"
+        ],
+        "city": "JACKSONVILLE",
+        "state": "FL",
+        "postalCode": "32204-4759"
+      },
+      {
+        "line": [
           "1 SHIRCLIFF WAY"
         ],
         "city": "JACKSONVILLE",
@@ -52,43 +60,11 @@
       },
       {
         "line": [
-          "3 Shircliff Way"
-        ],
-        "city": "JACKSONVILLE",
-        "state": "FL",
-        "postalCode": "32216-9999"
-      },
-      {
-        "line": [
-          "7963 Normandy Blvd"
-        ],
-        "city": "JACKSONVILLE",
-        "state": "FL",
-        "postalCode": "32221-6640"
-      },
-      {
-        "line": [
-          "205 Trinity Way"
-        ],
-        "city": "SAINT JOHNS",
-        "state": "FL",
-        "postalCode": "32259-1155"
-      },
-      {
-        "line": [
           "4205 BELFORT RD Suite 4010"
         ],
         "city": "JACKSONVILLE",
         "state": "FL",
         "postalCode": "32216-1475"
-      },
-      {
-        "line": [
-          "3 Shircliff Way"
-        ],
-        "city": "Jacksonville",
-        "state": "FL",
-        "postalCode": "32204-4777"
       },
       {
         "line": [
@@ -101,14 +77,6 @@
       },
       {
         "line": [
-          "355 CROSSING BLVD"
-        ],
-        "city": "ORANGE PARK",
-        "state": "FL",
-        "postalCode": "32073-2860"
-      },
-      {
-        "line": [
           "."
         ],
         "city": "SAINT LOUIS",
@@ -117,11 +85,27 @@
       },
       {
         "line": [
-          "2 SHIRCLIFF WAY SUITE 720"
+          "3 Shircliff Way"
+        ],
+        "city": "Jacksonville",
+        "state": "FL",
+        "postalCode": "32204-4777"
+      },
+      {
+        "line": [
+          "205 Trinity Way"
+        ],
+        "city": "SAINT JOHNS",
+        "state": "FL",
+        "postalCode": "32259-1155"
+      },
+      {
+        "line": [
+          "7963 Normandy Blvd"
         ],
         "city": "JACKSONVILLE",
         "state": "FL",
-        "postalCode": "32204-4759"
+        "postalCode": "32221-6640"
       },
       {
         "line": [
@@ -130,6 +114,22 @@
         "city": "Jacksonville",
         "state": "FL",
         "postalCode": "32204-4748"
+      },
+      {
+        "line": [
+          "355 CROSSING BLVD"
+        ],
+        "city": "ORANGE PARK",
+        "state": "FL",
+        "postalCode": "32073-2860"
+      },
+      {
+        "line": [
+          "3 Shircliff Way"
+        ],
+        "city": "JACKSONVILLE",
+        "state": "FL",
+        "postalCode": "32216-9999"
       }
     ],
     "extension": [

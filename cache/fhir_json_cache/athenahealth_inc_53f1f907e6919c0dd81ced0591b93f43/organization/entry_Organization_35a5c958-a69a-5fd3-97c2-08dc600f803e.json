@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447330451"
+        "value": "1861078685"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861078685"
+        "value": "1447330451"
       }
     ],
     "address": [
       {
         "line": [
-          "350 Hospital Way, Suite 100"
+          "305 Langdon Street"
         ],
         "city": "SOMERSET",
         "state": "KY",
-        "postalCode": "42503-1872"
+        "postalCode": "42501-2750"
       },
       {
         "line": [
@@ -57,27 +57,19 @@
       },
       {
         "line": [
-          "555 Bourne Avenue"
-        ],
-        "city": "SOMERSET",
-        "state": "KY",
-        "postalCode": "42501-1915"
-      },
-      {
-        "line": [
-          "305 Langdon Street"
-        ],
-        "city": "SOMERSET",
-        "state": "KY",
-        "postalCode": "42501-2750"
-      },
-      {
-        "line": [
           "145 TOWER CIR"
         ],
         "city": "SOMERSET",
         "state": "KY",
         "postalCode": "42503-3479"
+      },
+      {
+        "line": [
+          "100 Neighborly Way"
+        ],
+        "city": "SOMERSET",
+        "state": "KY",
+        "postalCode": "42503-6147"
       },
       {
         "line": [
@@ -89,11 +81,11 @@
       },
       {
         "line": [
-          "100 Neighborly Way"
+          "350 Hospital Way, Suite 100"
         ],
         "city": "SOMERSET",
         "state": "KY",
-        "postalCode": "42503-6147"
+        "postalCode": "42503-1872"
       },
       {
         "line": [
@@ -110,6 +102,14 @@
         "city": "SOMERSET",
         "state": "KY",
         "postalCode": "42501-1952"
+      },
+      {
+        "line": [
+          "555 Bourne Avenue"
+        ],
+        "city": "SOMERSET",
+        "state": "KY",
+        "postalCode": "42501-1915"
       }
     ],
     "extension": [

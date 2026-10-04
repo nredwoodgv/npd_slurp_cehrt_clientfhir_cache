@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144630609"
+        "value": "1427626696"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427626696"
+        "value": "1144630609"
       }
     ],
     "address": [
@@ -32,6 +32,14 @@
       },
       {
         "line": [
+          "3901 W 15TH ST"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75075-7738"
+      },
+      {
+        "line": [
           "17950 PRESTON RD"
         ],
         "city": "DALLAS",
@@ -40,44 +48,19 @@
       },
       {
         "line": [
-          "1105 CENTRAL EXPY N STE 2350"
-        ],
-        "city": "ALLEN",
-        "state": "TX",
-        "postalCode": "75013-6116"
-      },
-      {
-        "line": [
-          "12400 DALLAS PKWY"
+          "12505 LEBANON RD"
         ],
         "city": "FRISCO",
         "state": "TX",
-        "postalCode": "75033-4224"
+        "postalCode": "75035-8298"
       },
       {
         "line": [
-          "8080 STATE HWY 121, SUITE 100"
+          "5575 FRISCO SQUARE BLVD STE 100"
         ],
-        "city": "MCKINNEY",
+        "city": "FRISCO",
         "state": "TX",
-        "postalCode": "75070-2903"
-      },
-      {
-        "line": [
-          "931 STATE HIGHWAY 121",
-          "SUITE 3300"
-        ],
-        "city": "ALLEN",
-        "state": "TX",
-        "postalCode": "75013-1184"
-      },
-      {
-        "line": [
-          "3901 W 15TH ST"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75075-7738"
+        "postalCode": "75034-3309"
       },
       {
         "line": [
@@ -89,19 +72,27 @@
       },
       {
         "line": [
+          "5252 W UNIVERSITY DR"
+        ],
+        "city": "MCKINNEY",
+        "state": "TX",
+        "postalCode": "75071-7822"
+      },
+      {
+        "line": [
+          "1105 CENTRAL EXPY N STE 2350"
+        ],
+        "city": "ALLEN",
+        "state": "TX",
+        "postalCode": "75013-6116"
+      },
+      {
+        "line": [
           "5500 FRISCO SQUARE BLVD"
         ],
         "city": "FRISCO",
         "state": "TX",
         "postalCode": "75034-3305"
-      },
-      {
-        "line": [
-          "5575 FRISCO SQUARE BLVD STE 100"
-        ],
-        "city": "FRISCO",
-        "state": "TX",
-        "postalCode": "75034-3309"
       },
       {
         "line": [
@@ -121,19 +112,20 @@
       },
       {
         "line": [
-          "12505 LEBANON RD"
+          "12400 DALLAS PKWY"
         ],
         "city": "FRISCO",
         "state": "TX",
-        "postalCode": "75035-8298"
+        "postalCode": "75033-4224"
       },
       {
         "line": [
-          "5252 W UNIVERSITY DR"
+          "931 STATE HIGHWAY 121",
+          "SUITE 3300"
         ],
-        "city": "MCKINNEY",
+        "city": "ALLEN",
         "state": "TX",
-        "postalCode": "75071-7822"
+        "postalCode": "75013-1184"
       },
       {
         "line": [
@@ -142,6 +134,14 @@
         "city": "MCKINNEY",
         "state": "TX",
         "postalCode": "75069-1650"
+      },
+      {
+        "line": [
+          "8080 STATE HWY 121, SUITE 100"
+        ],
+        "city": "MCKINNEY",
+        "state": "TX",
+        "postalCode": "75070-2903"
       }
     ],
     "extension": [

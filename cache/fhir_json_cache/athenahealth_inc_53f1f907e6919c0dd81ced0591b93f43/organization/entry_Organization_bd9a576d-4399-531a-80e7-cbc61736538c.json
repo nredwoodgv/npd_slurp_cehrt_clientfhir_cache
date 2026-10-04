@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396041075"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1548418742"
       },
       {
@@ -31,17 +27,13 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1720292261"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396041075"
       }
     ],
     "address": [
-      {
-        "line": [
-          "50 Hospital Drive Ste 4B"
-        ],
-        "city": "HENDERSONVILLE",
-        "state": "NC",
-        "postalCode": "28792-7209"
-      },
       {
         "line": [
           "80 Doctors Drive",
@@ -50,6 +42,14 @@
         "city": "HENDERSONVILLE",
         "state": "NC",
         "postalCode": "28792-7289"
+      },
+      {
+        "line": [
+          "50 Hospital Drive Ste 4B"
+        ],
+        "city": "HENDERSONVILLE",
+        "state": "NC",
+        "postalCode": "28792-7209"
       }
     ],
     "extension": [

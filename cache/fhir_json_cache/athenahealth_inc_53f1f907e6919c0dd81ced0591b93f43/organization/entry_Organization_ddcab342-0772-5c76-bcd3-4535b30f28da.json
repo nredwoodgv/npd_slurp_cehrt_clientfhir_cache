@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801318928"
+        "value": "1013017839"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013017839"
+        "value": "1801318928"
       }
     ],
     "address": [
@@ -33,12 +33,11 @@
       },
       {
         "line": [
-          "895 S State St",
-          "Suite 201"
+          "1041 W STEARNS RD"
         ],
-        "city": "HAMPSHIRE",
+        "city": "BARTLETT",
         "state": "IL",
-        "postalCode": "60140-9600"
+        "postalCode": "60103-4509"
       },
       {
         "line": [
@@ -50,11 +49,12 @@
       },
       {
         "line": [
-          "1041 W STEARNS RD"
+          "895 S State St",
+          "Suite 201"
         ],
-        "city": "BARTLETT",
+        "city": "HAMPSHIRE",
         "state": "IL",
-        "postalCode": "60103-4509"
+        "postalCode": "60140-9600"
       }
     ],
     "extension": [

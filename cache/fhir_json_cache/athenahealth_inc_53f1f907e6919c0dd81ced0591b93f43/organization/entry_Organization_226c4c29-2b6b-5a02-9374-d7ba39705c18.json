@@ -14,21 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134191836"
+        "value": "1073780730"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073780730"
+        "value": "1134191836"
       }
     ],
     "address": [
       {
         "line": [
-          "110 BULLARD PKWY"
+          "1 OLD KINGS RD"
         ],
-        "city": "TEMPLE TERRACE",
+        "city": "PALM COAST",
         "state": "FL",
-        "postalCode": "33617-5510"
+        "postalCode": "32137-4613"
+      },
+      {
+        "line": [
+          "99 Magnolia Ave"
+        ],
+        "city": "AUBURNDALE",
+        "state": "FL",
+        "postalCode": "33823-3401"
       },
       {
         "line": [
@@ -48,22 +56,6 @@
       },
       {
         "line": [
-          "99 Magnolia Ave"
-        ],
-        "city": "AUBURNDALE",
-        "state": "FL",
-        "postalCode": "33823-3401"
-      },
-      {
-        "line": [
-          "12280 LAKE UNDERHILL RD"
-        ],
-        "city": "ORLANDO",
-        "state": "FL",
-        "postalCode": "32825-5009"
-      },
-      {
-        "line": [
           "11801 Panama City Beach Parkway"
         ],
         "city": "PANAMA CITY BEACH",
@@ -80,22 +72,6 @@
       },
       {
         "line": [
-          "1 OLD KINGS RD"
-        ],
-        "city": "PALM COAST",
-        "state": "FL",
-        "postalCode": "32137-4613"
-      },
-      {
-        "line": [
-          "11398 QUAIL ROOST DR"
-        ],
-        "city": "MIAMI",
-        "state": "FL",
-        "postalCode": "33157-6566"
-      },
-      {
-        "line": [
           "13454 S ORANGE BLOSSOM TRL"
         ],
         "city": "ORLANDO",
@@ -109,6 +85,30 @@
         "city": "TAMPA",
         "state": "FL",
         "postalCode": "33606-2412"
+      },
+      {
+        "line": [
+          "11398 QUAIL ROOST DR"
+        ],
+        "city": "MIAMI",
+        "state": "FL",
+        "postalCode": "33157-6566"
+      },
+      {
+        "line": [
+          "110 BULLARD PKWY"
+        ],
+        "city": "TEMPLE TERRACE",
+        "state": "FL",
+        "postalCode": "33617-5510"
+      },
+      {
+        "line": [
+          "12280 LAKE UNDERHILL RD"
+        ],
+        "city": "ORLANDO",
+        "state": "FL",
+        "postalCode": "32825-5009"
       }
     ],
     "extension": [

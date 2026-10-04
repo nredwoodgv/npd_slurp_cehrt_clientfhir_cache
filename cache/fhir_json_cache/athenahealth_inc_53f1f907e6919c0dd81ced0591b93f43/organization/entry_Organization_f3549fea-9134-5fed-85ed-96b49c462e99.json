@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396961322"
+        "value": "1346044401"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346044401"
+        "value": "1396961322"
       }
     ],
     "address": [
-      {
-        "line": [
-          "203 S. Geneva"
-        ],
-        "city": "BRECKENRIDGE",
-        "state": "TX",
-        "postalCode": "76424-4702"
-      },
       {
         "line": [
           "1 Avenue N"
@@ -40,19 +32,27 @@
       },
       {
         "line": [
-          "2371 Crockett Drive Suite 102"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-5918"
-      },
-      {
-        "line": [
           "1601 Columbia"
         ],
         "city": "STAMFORD",
         "state": "TX",
         "postalCode": "79553-6863"
+      },
+      {
+        "line": [
+          "203 S. Geneva"
+        ],
+        "city": "BRECKENRIDGE",
+        "state": "TX",
+        "postalCode": "76424-4702"
+      },
+      {
+        "line": [
+          "2371 Crockett Drive Suite 102"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-5918"
       }
     ],
     "extension": [

@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255922043"
+        "value": "1255967956"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255967956"
+        "value": "1255922043"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,19 +36,11 @@
     "address": [
       {
         "line": [
-          "20881 STATE HIGHWAY 198"
+          "200 Pleasant St"
         ],
-        "city": "SAEGERTOWN",
+        "city": "BRADFORD",
         "state": "PA",
-        "postalCode": "16433-6159"
-      },
-      {
-        "line": [
-          "1521 W 54TH ST"
-        ],
-        "city": "ERIE",
-        "state": "PA",
-        "postalCode": "16509-2620"
+        "postalCode": "16701-1065"
       },
       {
         "line": [
@@ -60,19 +52,11 @@
       },
       {
         "line": [
-          "682 Pleasant Drive"
+          "701 Rouse Ave"
         ],
-        "city": "WARREN",
+        "city": "YOUNGSVILLE",
         "state": "PA",
-        "postalCode": "16365-3468"
-      },
-      {
-        "line": [
-          "17083 ROUTE 6"
-        ],
-        "city": "SMETHPORT",
-        "state": "PA",
-        "postalCode": "16749-4025"
+        "postalCode": "16371-1605"
       },
       {
         "line": [
@@ -84,19 +68,27 @@
       },
       {
         "line": [
-          "5535 PEACH ST"
+          "50 Langmaid Lane"
         ],
-        "city": "ERIE",
+        "city": "BRADFORD",
         "state": "PA",
-        "postalCode": "16509-2603"
+        "postalCode": "16701-3987"
       },
       {
         "line": [
-          "701 Rouse Ave"
+          "20881 STATE HIGHWAY 198"
         ],
-        "city": "YOUNGSVILLE",
+        "city": "SAEGERTOWN",
         "state": "PA",
-        "postalCode": "16371-1605"
+        "postalCode": "16433-6159"
+      },
+      {
+        "line": [
+          "682 Pleasant Drive"
+        ],
+        "city": "WARREN",
+        "state": "PA",
+        "postalCode": "16365-3468"
       },
       {
         "line": [
@@ -108,11 +100,19 @@
       },
       {
         "line": [
-          "50 Langmaid Lane"
+          "17083 ROUTE 6"
         ],
-        "city": "BRADFORD",
+        "city": "SMETHPORT",
         "state": "PA",
-        "postalCode": "16701-3987"
+        "postalCode": "16749-4025"
+      },
+      {
+        "line": [
+          "5535 PEACH ST"
+        ],
+        "city": "ERIE",
+        "state": "PA",
+        "postalCode": "16509-2603"
       },
       {
         "line": [
@@ -124,11 +124,11 @@
       },
       {
         "line": [
-          "200 Pleasant St"
+          "1521 W 54TH ST"
         ],
-        "city": "BRADFORD",
+        "city": "ERIE",
         "state": "PA",
-        "postalCode": "16701-1065"
+        "postalCode": "16509-2620"
       }
     ],
     "extension": [

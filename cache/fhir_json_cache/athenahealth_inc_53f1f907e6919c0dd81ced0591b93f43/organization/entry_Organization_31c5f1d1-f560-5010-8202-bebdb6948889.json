@@ -14,19 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477009959"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902851843"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669606588"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356448740"
+        "value": "1477009959"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,11 +26,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740311471"
+        "value": "1356448740"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578797494"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902851843"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1740311471"
       }
     ],
     "address": [
@@ -60,19 +60,11 @@
       },
       {
         "line": [
-          "615 W Nursery"
+          "103 Nursery St"
         ],
         "city": "BUTLER",
         "state": "MO",
-        "postalCode": "64730-0370"
-      },
-      {
-        "line": [
-          "416 S High St"
-        ],
-        "city": "BUTLER",
-        "state": "MO",
-        "postalCode": "64730-1827"
+        "postalCode": "64730-2331"
       },
       {
         "line": [
@@ -84,6 +76,14 @@
       },
       {
         "line": [
+          "416 S High St"
+        ],
+        "city": "BUTLER",
+        "state": "MO",
+        "postalCode": "64730-1827"
+      },
+      {
+        "line": [
           "411 S. Delaware St"
         ],
         "city": "BUTLER",
@@ -92,11 +92,11 @@
       },
       {
         "line": [
-          "103 Nursery St"
+          "615 W Nursery"
         ],
         "city": "BUTLER",
         "state": "MO",
-        "postalCode": "64730-2331"
+        "postalCode": "64730-0370"
       }
     ],
     "extension": [

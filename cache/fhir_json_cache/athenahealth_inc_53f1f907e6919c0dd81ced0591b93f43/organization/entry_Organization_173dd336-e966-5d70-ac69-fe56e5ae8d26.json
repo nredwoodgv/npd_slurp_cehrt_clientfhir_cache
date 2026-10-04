@@ -14,29 +14,54 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043501448"
+        "value": "1891755351"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891755351"
+        "value": "1043501448"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1585  N BARRINGTON ROAD",
+          "SUITE 605"
+        ],
+        "city": "HOFFMAN ESTATES",
+        "state": "IL",
+        "postalCode": "60169-5020"
+      },
+      {
+        "line": [
+          "1555 Barrington Road"
+        ],
+        "city": "HOFFMAN ESTATES",
+        "state": "IL",
+        "postalCode": "60169-7261"
+      },
+      {
+        "line": [
+          "129 WEST RAND ROAD"
+        ],
+        "city": "ARLINGTON HEIGHTS",
+        "state": "IL",
+        "postalCode": "60004-3142"
+      },
+      {
+        "line": [
+          "365 E NORTH AVE"
+        ],
+        "city": "MELROSE PARK",
+        "state": "IL",
+        "postalCode": "60164-0001"
+      },
       {
         "line": [
           "1555 N BARRINGTON ROAD"
         ],
         "city": "HOFFMAN ESTATES",
         "state": "IL",
-        "postalCode": "60169-1019"
-      },
-      {
-        "line": [
-          "3815 HIGHLAND AVE"
-        ],
-        "city": "DOWNERS GROVE",
-        "state": "IL",
-        "postalCode": "60515-1500"
+        "postalCode": "60169-5020"
       },
       {
         "line": [
@@ -56,50 +81,25 @@
       },
       {
         "line": [
-          "1555 Barrington Road"
+          "1555 N BARRINGTON ROAD"
         ],
         "city": "HOFFMAN ESTATES",
         "state": "IL",
-        "postalCode": "60169-7261"
+        "postalCode": "60169-1019"
+      },
+      {
+        "line": [
+          "3815 HIGHLAND AVE"
+        ],
+        "city": "DOWNERS GROVE",
+        "state": "IL",
+        "postalCode": "60515-1500"
       },
       {
         "line": [
           "365 E NORTH AVE"
         ],
         "city": "NORTHLAKE",
-        "state": "IL",
-        "postalCode": "60164-0001"
-      },
-      {
-        "line": [
-          "1585  N BARRINGTON ROAD",
-          "SUITE 605"
-        ],
-        "city": "HOFFMAN ESTATES",
-        "state": "IL",
-        "postalCode": "60169-5020"
-      },
-      {
-        "line": [
-          "129 WEST RAND ROAD"
-        ],
-        "city": "ARLINGTON HEIGHTS",
-        "state": "IL",
-        "postalCode": "60004-3142"
-      },
-      {
-        "line": [
-          "1555 N BARRINGTON ROAD"
-        ],
-        "city": "HOFFMAN ESTATES",
-        "state": "IL",
-        "postalCode": "60169-5020"
-      },
-      {
-        "line": [
-          "365 E NORTH AVE"
-        ],
-        "city": "MELROSE PARK",
         "state": "IL",
         "postalCode": "60164-0001"
       }

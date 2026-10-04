@@ -18,30 +18,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932664091"
+        "value": "1285664763"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285664763"
+        "value": "1932664091"
       }
     ],
     "address": [
-      {
-        "line": [
-          "400 Rosalind Redfern Suite 240"
-        ],
-        "city": "Midland",
-        "state": "TX",
-        "postalCode": "79701-5856"
-      },
-      {
-        "line": [
-          "4911 Andrews Hwy, Suite B, Midland TX"
-        ],
-        "city": "MIDLAND",
-        "state": "TX",
-        "postalCode": "79703-9999"
-      },
       {
         "line": [
           "400 S Ike Ave"
@@ -52,11 +36,11 @@
       },
       {
         "line": [
-          "600 Interstate 20 East"
+          "720 Hospital Drive"
         ],
-        "city": "STANTON",
+        "city": "Andrews",
         "state": "TX",
-        "postalCode": "79782-9999"
+        "postalCode": "79714-3617"
       },
       {
         "line": [
@@ -76,11 +60,27 @@
       },
       {
         "line": [
-          "720 Hospital Drive"
+          "600 Interstate 20 East"
         ],
-        "city": "Andrews",
+        "city": "STANTON",
         "state": "TX",
-        "postalCode": "79714-3617"
+        "postalCode": "79782-9999"
+      },
+      {
+        "line": [
+          "400 Rosalind Redfern Suite 240"
+        ],
+        "city": "Midland",
+        "state": "TX",
+        "postalCode": "79701-5856"
+      },
+      {
+        "line": [
+          "4911 Andrews Hwy, Suite B, Midland TX"
+        ],
+        "city": "MIDLAND",
+        "state": "TX",
+        "postalCode": "79703-9999"
       }
     ],
     "extension": [

@@ -14,18 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245266337"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1528390507"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1063614923"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245266337"
       }
     ],
     "address": [
+      {
+        "line": [
+          "9119 S Exchange Ave"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60617-4225"
+      },
       {
         "line": [
           "4440 95th St"
@@ -44,14 +52,6 @@
       },
       {
         "line": [
-          "1500 S California Ave"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60608-1782"
-      },
-      {
-        "line": [
           "9119 S. Exchange",
           "340B00577200CF"
         ],
@@ -61,11 +61,11 @@
       },
       {
         "line": [
-          "9119 S Exchange Ave"
+          "1500 S California Ave"
         ],
         "city": "CHICAGO",
         "state": "IL",
-        "postalCode": "60617-4225"
+        "postalCode": "60608-1782"
       }
     ],
     "extension": [

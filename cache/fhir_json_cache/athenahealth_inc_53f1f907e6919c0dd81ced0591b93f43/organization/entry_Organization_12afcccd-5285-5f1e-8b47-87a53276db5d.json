@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417443771"
+        "value": "1396655544"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396655544"
+        "value": "1417443771"
       }
     ],
     "address": [
-      {
-        "line": [
-          "180 PARKWOOD DRIVE"
-        ],
-        "city": "ELKIN",
-        "state": "NC",
-        "postalCode": "28621-2430"
-      },
-      {
-        "line": [
-          "2012 Chandleer Forest Court"
-        ],
-        "city": "INDIAN TRAIL",
-        "state": "NC",
-        "postalCode": "28079-3216"
-      },
       {
         "line": [
           "117 EAST KING'S HIGHWAY"
@@ -45,6 +29,15 @@
         "city": "EDEN",
         "state": "NC",
         "postalCode": "27288-5201"
+      },
+      {
+        "line": [
+          "909 Camden Grandview Road",
+          "Unit A"
+        ],
+        "city": "CHARLOTTE",
+        "state": "NC",
+        "postalCode": "28202-3639"
       },
       {
         "line": [
@@ -56,11 +49,11 @@
       },
       {
         "line": [
-          "896 Kite Road"
+          "180 PARKWOOD DRIVE"
         ],
-        "city": "MILLERS CREEK",
+        "city": "ELKIN",
         "state": "NC",
-        "postalCode": "28651-8502"
+        "postalCode": "28621-2430"
       },
       {
         "line": [
@@ -72,12 +65,19 @@
       },
       {
         "line": [
-          "909 Camden Grandview Road",
-          "Unit A"
+          "2012 Chandleer Forest Court"
         ],
-        "city": "CHARLOTTE",
+        "city": "INDIAN TRAIL",
         "state": "NC",
-        "postalCode": "28202-3639"
+        "postalCode": "28079-3216"
+      },
+      {
+        "line": [
+          "896 Kite Road"
+        ],
+        "city": "MILLERS CREEK",
+        "state": "NC",
+        "postalCode": "28651-8502"
       }
     ],
     "extension": [

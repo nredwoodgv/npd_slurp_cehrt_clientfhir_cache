@@ -14,14 +14,38 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548567498"
+        "value": "1386911006"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386911006"
+        "value": "1548567498"
       }
     ],
     "address": [
+      {
+        "line": [
+          "2601 W.Alameda Avenue #312"
+        ],
+        "city": "BURBANK",
+        "state": "CA",
+        "postalCode": "91505-4406"
+      },
+      {
+        "line": [
+          "7240 Medical Center Dr."
+        ],
+        "city": "WEST HILLS",
+        "state": "CA",
+        "postalCode": "91307-1906"
+      },
+      {
+        "line": [
+          "42135 10TH ST W"
+        ],
+        "city": "LANCASTER",
+        "state": "CA",
+        "postalCode": "93534-7095"
+      },
       {
         "line": [
           "4005 MISSION OAKS BLVD"
@@ -32,20 +56,11 @@
       },
       {
         "line": [
-          "5858 Horton St.",
-          "Suite 100"
+          "3510 N MOORPARK RD STE 101"
         ],
-        "city": "EMERYVILLE",
+        "city": "THOUSAND OAKS",
         "state": "CA",
-        "postalCode": "94608-2007"
-      },
-      {
-        "line": [
-          "7240 Medical Center Dr."
-        ],
-        "city": "WEST HILLS",
-        "state": "CA",
-        "postalCode": "91307-1906"
+        "postalCode": "91360-2688"
       },
       {
         "line": [
@@ -58,14 +73,6 @@
       },
       {
         "line": [
-          "2601 W.Alameda Avenue #312"
-        ],
-        "city": "BURBANK",
-        "state": "CA",
-        "postalCode": "91505-4406"
-      },
-      {
-        "line": [
           "302 W LA VETA AVE STE 100"
         ],
         "city": "ORANGE",
@@ -74,19 +81,21 @@
       },
       {
         "line": [
-          "3510 N MOORPARK RD STE 101"
+          "5858 Horton St.",
+          "Suite 100"
         ],
-        "city": "THOUSAND OAKS",
+        "city": "EMERYVILLE",
         "state": "CA",
-        "postalCode": "91360-2688"
+        "postalCode": "94608-2007"
       },
       {
         "line": [
-          "42135 10TH ST W"
+          "225 W. Broadway Suite 350",
+          "380"
         ],
-        "city": "LANCASTER",
+        "city": "GLENDALE",
         "state": "CA",
-        "postalCode": "93534-7095"
+        "postalCode": "91204-1303"
       },
       {
         "line": [
@@ -103,15 +112,6 @@
         "city": "PASADENA",
         "state": "CA",
         "postalCode": "91105-2015"
-      },
-      {
-        "line": [
-          "225 W. Broadway Suite 350",
-          "380"
-        ],
-        "city": "GLENDALE",
-        "state": "CA",
-        "postalCode": "91204-1303"
       }
     ],
     "extension": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205886447"
+        "value": "1407806664"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407806664"
+        "value": "1205886447"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -44,8 +44,7 @@
       },
       {
         "line": [
-          "344 E MAIN ST",
-          "STE 303"
+          "344 E MAIN ST"
         ],
         "city": "MOUNT KISCO",
         "state": "NY",
@@ -53,7 +52,8 @@
       },
       {
         "line": [
-          "344 E MAIN ST"
+          "344 E MAIN ST",
+          "STE 303"
         ],
         "city": "MOUNT KISCO",
         "state": "NY",

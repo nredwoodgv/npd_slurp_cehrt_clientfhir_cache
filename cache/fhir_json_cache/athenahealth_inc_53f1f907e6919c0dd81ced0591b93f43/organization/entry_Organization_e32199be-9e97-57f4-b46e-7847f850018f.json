@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720725500"
+        "value": "1245746635"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245746635"
+        "value": "1720725500"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,20 +28,20 @@
     "address": [
       {
         "line": [
+          "6179 S BALSAM WAY STE 210"
+        ],
+        "city": "LITTLETON",
+        "state": "CO",
+        "postalCode": "80123-3093"
+      },
+      {
+        "line": [
           "500 E HAMPDEN AVE",
           "STE 206"
         ],
         "city": "ENGLEWOOD",
         "state": "CO",
         "postalCode": "80113-2795"
-      },
-      {
-        "line": [
-          "6179 S BALSAM WAY STE 210"
-        ],
-        "city": "LITTLETON",
-        "state": "CO",
-        "postalCode": "80123-3093"
       }
     ],
     "extension": [

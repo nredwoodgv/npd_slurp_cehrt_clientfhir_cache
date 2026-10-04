@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144755455"
+        "value": "1194413534"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194413534"
+        "value": "1144755455"
       }
     ],
     "address": [
       {
         "line": [
-          "47 W Spring St"
+          "300 Pearl Street"
         ],
-        "city": "WINOOSKI",
+        "city": "BURLINGTON",
         "state": "VT",
-        "postalCode": "05404-1397"
+        "postalCode": "05401-8531"
       },
       {
         "line": [
@@ -40,22 +40,6 @@
       },
       {
         "line": [
-          "18 Carmichael St"
-        ],
-        "city": "ESSEX JUNCTION",
-        "state": "VT",
-        "postalCode": "05452-4476"
-      },
-      {
-        "line": [
-          "200 Wake Robin"
-        ],
-        "city": "SHELBURNE",
-        "state": "VT",
-        "postalCode": "05482-9998"
-      },
-      {
-        "line": [
           "1200 NORTH AVE"
         ],
         "city": "BURLINGTON",
@@ -64,11 +48,19 @@
       },
       {
         "line": [
-          "1510 WILLISTON RD"
+          "272 Church Street"
         ],
-        "city": "SOUTH BURLINGTON",
+        "city": "BURLINGTON",
         "state": "VT",
-        "postalCode": "05403-6430"
+        "postalCode": "05401-4695"
+      },
+      {
+        "line": [
+          "200 Wake Robin"
+        ],
+        "city": "SHELBURNE",
+        "state": "VT",
+        "postalCode": "05482-9998"
       },
       {
         "line": [
@@ -88,27 +80,27 @@
       },
       {
         "line": [
-          "300 Pearl Street"
+          "47 W Spring St"
         ],
-        "city": "BURLINGTON",
+        "city": "WINOOSKI",
         "state": "VT",
-        "postalCode": "05401-8531"
+        "postalCode": "05404-1397"
       },
       {
         "line": [
-          "3113 Roosevelt Hwy"
+          "1510 WILLISTON RD"
         ],
-        "city": "COLCHESTER",
+        "city": "SOUTH BURLINGTON",
         "state": "VT",
-        "postalCode": "05446-8068"
+        "postalCode": "05403-6430"
       },
       {
         "line": [
-          "272 Church Street"
+          "18 Carmichael St"
         ],
-        "city": "BURLINGTON",
+        "city": "ESSEX JUNCTION",
         "state": "VT",
-        "postalCode": "05401-4695"
+        "postalCode": "05452-4476"
       },
       {
         "line": [
@@ -117,6 +109,14 @@
         "city": "BURLINGTON",
         "state": "VT",
         "postalCode": "05408-1323"
+      },
+      {
+        "line": [
+          "3113 Roosevelt Hwy"
+        ],
+        "city": "COLCHESTER",
+        "state": "VT",
+        "postalCode": "05446-8068"
       }
     ],
     "extension": [

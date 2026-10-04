@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1558588772"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861400095"
       },
       {
@@ -22,46 +26,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558588772"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1225348584"
       }
     ],
     "address": [
-      {
-        "line": [
-          "28050 GRAND RIVER AVE"
-        ],
-        "city": "FARMINGTON HILLS",
-        "state": "MI",
-        "postalCode": "48336-5919"
-      },
-      {
-        "line": [
-          "5050 TOUHY AVE"
-        ],
-        "city": "SKOKIE",
-        "state": "IL",
-        "postalCode": "60077-3542"
-      },
-      {
-        "line": [
-          "2900 N LAKE SHORE DR"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60657-5640"
-      },
-      {
-        "line": [
-          "20300 FORT ST"
-        ],
-        "city": "RIVERVIEW",
-        "state": "MI",
-        "postalCode": "48193-4560"
-      },
       {
         "line": [
           "G4007 W COURT ST STE B"
@@ -80,11 +48,27 @@
       },
       {
         "line": [
-          "120 DODGE AVE"
+          "2900 N LAKE SHORE DR"
         ],
-        "city": "EVANSTON",
+        "city": "CHICAGO",
         "state": "IL",
-        "postalCode": "60202-3622"
+        "postalCode": "60657-5640"
+      },
+      {
+        "line": [
+          "43494 WOODWARD AVE STE 208"
+        ],
+        "city": "BLOOMFIELD HILLS",
+        "state": "MI",
+        "postalCode": "48302-5054"
+      },
+      {
+        "line": [
+          "105 WATER ST"
+        ],
+        "city": "PLYMOUTH",
+        "state": "IN",
+        "postalCode": "46563-2148"
       },
       {
         "line": [
@@ -96,11 +80,11 @@
       },
       {
         "line": [
-          "8401 HOLLY RD"
+          "33400 6 MILE RD STE B"
         ],
-        "city": "GRAND BLANC",
+        "city": "LIVONIA",
         "state": "MI",
-        "postalCode": "48439-1812"
+        "postalCode": "48152-3165"
       },
       {
         "line": [
@@ -113,27 +97,59 @@
       },
       {
         "line": [
+          "28050 GRAND RIVER AVE"
+        ],
+        "city": "FARMINGTON HILLS",
+        "state": "MI",
+        "postalCode": "48336-5919"
+      },
+      {
+        "line": [
+          "909 W MAPLE RD STE 111"
+        ],
+        "city": "CLAWSON",
+        "state": "MI",
+        "postalCode": "48017-1000"
+      },
+      {
+        "line": [
+          "5050 TOUHY AVE"
+        ],
+        "city": "SKOKIE",
+        "state": "IL",
+        "postalCode": "60077-3542"
+      },
+      {
+        "line": [
+          "20300 FORT ST"
+        ],
+        "city": "RIVERVIEW",
+        "state": "MI",
+        "postalCode": "48193-4560"
+      },
+      {
+        "line": [
+          "900 COOK RD"
+        ],
+        "city": "GROSSE POINTE",
+        "state": "MI",
+        "postalCode": "48236-2739"
+      },
+      {
+        "line": [
+          "120 DODGE AVE"
+        ],
+        "city": "EVANSTON",
+        "state": "IL",
+        "postalCode": "60202-3622"
+      },
+      {
+        "line": [
           "39312 Woodward Ave"
         ],
         "city": "BLOOMFIELD HILLS",
         "state": "MI",
         "postalCode": "48304-5007"
-      },
-      {
-        "line": [
-          "43494 WOODWARD AVE STE 208"
-        ],
-        "city": "BLOOMFIELD HILLS",
-        "state": "MI",
-        "postalCode": "48302-5054"
-      },
-      {
-        "line": [
-          "33400 6 MILE RD STE B"
-        ],
-        "city": "LIVONIA",
-        "state": "MI",
-        "postalCode": "48152-3165"
       },
       {
         "line": [
@@ -145,19 +161,11 @@
       },
       {
         "line": [
-          "105 WATER ST"
+          "8401 HOLLY RD"
         ],
-        "city": "PLYMOUTH",
-        "state": "IN",
-        "postalCode": "46563-2148"
-      },
-      {
-        "line": [
-          "909 W MAPLE RD STE 111"
-        ],
-        "city": "CLAWSON",
+        "city": "GRAND BLANC",
         "state": "MI",
-        "postalCode": "48017-1000"
+        "postalCode": "48439-1812"
       },
       {
         "line": [
@@ -174,14 +182,6 @@
         "city": "CHICAGO",
         "state": "IL",
         "postalCode": "60640-3894"
-      },
-      {
-        "line": [
-          "900 COOK RD"
-        ],
-        "city": "GROSSE POINTE",
-        "state": "MI",
-        "postalCode": "48236-2739"
       }
     ],
     "extension": [

@@ -22,26 +22,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396041075"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1477995124"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1720292261"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396041075"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1881 Pisgah Drive Building A"
-        ],
-        "city": "HENDERSONVILLE",
-        "state": "NC",
-        "postalCode": "28791-3760"
-      },
       {
         "line": [
           "333 Gashes Creek Road"
@@ -52,11 +44,11 @@
       },
       {
         "line": [
-          "81 Doctors Drive"
+          "1881 Pisgah Drive Building A"
         ],
         "city": "HENDERSONVILLE",
         "state": "NC",
-        "postalCode": "28792-7209"
+        "postalCode": "28791-3760"
       },
       {
         "line": [
@@ -65,6 +57,14 @@
         "city": "ARDEN",
         "state": "NC",
         "postalCode": "28704-8794"
+      },
+      {
+        "line": [
+          "81 Doctors Drive"
+        ],
+        "city": "HENDERSONVILLE",
+        "state": "NC",
+        "postalCode": "28792-7209"
       }
     ],
     "extension": [

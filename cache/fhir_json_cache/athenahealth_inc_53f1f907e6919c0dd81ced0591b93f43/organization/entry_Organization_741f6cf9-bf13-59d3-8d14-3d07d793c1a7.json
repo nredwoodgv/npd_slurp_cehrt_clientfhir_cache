@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235606542"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952077703"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1770248338"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235606542"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,30 +32,11 @@
     "address": [
       {
         "line": [
-          "600 N. 2nd St",
-          "Suite 401"
+          "1301 K ST. NW, FLOOR 3"
         ],
-        "city": "HARRISBURG",
-        "state": "PA",
-        "postalCode": "17101-1071"
-      },
-      {
-        "line": [
-          "99 Hudson St",
-          "5th Floor"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10013-2815"
-      },
-      {
-        "line": [
-          "1555 W. Shoreline Drive",
-          "Suite 100"
-        ],
-        "city": "BOISE",
-        "state": "ID",
-        "postalCode": "83702-9107"
+        "city": "WASHINGTON",
+        "state": "DC",
+        "postalCode": "20005-3307"
       },
       {
         "line": [
@@ -68,20 +49,21 @@
       },
       {
         "line": [
-          "1301 K St, NW Floor 3"
+          "720 South Colorado Blvd",
+          "13th Floor"
         ],
-        "city": "WASHINGTON",
-        "state": "DC",
-        "postalCode": "20005-3307"
+        "city": "DENVER",
+        "state": "CO",
+        "postalCode": "80246-1904"
       },
       {
         "line": [
-          "5800 S Eastern Ave",
-          "Suite 500"
+          "99 Hudson St",
+          "5th Floor"
         ],
-        "city": "Commerce",
-        "state": "CA",
-        "postalCode": "90040-4033"
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10013-2815"
       },
       {
         "line": [
@@ -94,12 +76,21 @@
       },
       {
         "line": [
-          "605 N Michigan Ave",
-          "4th Floor"
+          "4400 Easton Commons Way",
+          "Suite 125"
         ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60611-3141"
+        "city": "Columbus",
+        "state": "OH",
+        "postalCode": "43219-6223"
+      },
+      {
+        "line": [
+          "445 Minnesota Street",
+          "Suite 1500"
+        ],
+        "city": "Saint Paul",
+        "state": "MN",
+        "postalCode": "55101-2269"
       },
       {
         "line": [
@@ -111,12 +102,39 @@
       },
       {
         "line": [
-          "1266 E. Main St",
-          "Suite 700R"
+          "301 S. Beford St.",
+          "Suite 1"
         ],
-        "city": "STAMFORD",
-        "state": "CT",
-        "postalCode": "06902-3507"
+        "city": "MADISON",
+        "state": "WI",
+        "postalCode": "53703-3691"
+      },
+      {
+        "line": [
+          "5800 S Eastern Ave",
+          "Suite 500"
+        ],
+        "city": "Commerce",
+        "state": "CA",
+        "postalCode": "90040-4033"
+      },
+      {
+        "line": [
+          "240 Elm Street",
+          "2nd & 3rd Floors"
+        ],
+        "city": "SOMERVILLE",
+        "state": "MA",
+        "postalCode": "02144-2935"
+      },
+      {
+        "line": [
+          "100 S Ashley Drive",
+          "Suite 600"
+        ],
+        "city": "Tampa",
+        "state": "FL",
+        "postalCode": "33602-5300"
       },
       {
         "line": [
@@ -125,6 +143,68 @@
         "city": "MIDVALE",
         "state": "UT",
         "postalCode": "84047-2904"
+      },
+      {
+        "line": [
+          "2950 North Loop W",
+          "Suite 500"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77092-8830"
+      },
+      {
+        "line": [
+          "3800 N Central Ave",
+          "Suite 460"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85012-1995"
+      },
+      {
+        "line": [
+          "112 SW 7th Street",
+          "Suite 3C"
+        ],
+        "city": "TOPEKA",
+        "state": "KS",
+        "postalCode": "66603-3858"
+      },
+      {
+        "line": [
+          "780 Commercial St SE",
+          "Suite 100"
+        ],
+        "city": "SALEM",
+        "state": "OR",
+        "postalCode": "97301-3465"
+      },
+      {
+        "line": [
+          "2 Office Park Ct",
+          "Suite 103"
+        ],
+        "city": "COLUMBIA",
+        "state": "SC",
+        "postalCode": "29223-5948"
+      },
+      {
+        "line": [
+          "1301 K St, NW Floor 3"
+        ],
+        "city": "WASHINGTON",
+        "state": "DC",
+        "postalCode": "20005-3307"
+      },
+      {
+        "line": [
+          "1266 E. Main St",
+          "Suite 700R"
+        ],
+        "city": "STAMFORD",
+        "state": "CT",
+        "postalCode": "06902-3507"
       },
       {
         "line": [
@@ -146,92 +226,21 @@
       },
       {
         "line": [
-          "100 S Ashley Drive",
-          "Suite 600"
-        ],
-        "city": "Tampa",
-        "state": "FL",
-        "postalCode": "33602-5300"
-      },
-      {
-        "line": [
-          "301 S. Beford St.",
-          "Suite 1"
-        ],
-        "city": "MADISON",
-        "state": "WI",
-        "postalCode": "53703-3691"
-      },
-      {
-        "line": [
-          "1301 K ST. NW, FLOOR 3"
-        ],
-        "city": "WASHINGTON",
-        "state": "DC",
-        "postalCode": "20005-3307"
-      },
-      {
-        "line": [
-          "780 Commercial St SE",
+          "1555 W. Shoreline Drive",
           "Suite 100"
         ],
-        "city": "SALEM",
-        "state": "OR",
-        "postalCode": "97301-3465"
+        "city": "BOISE",
+        "state": "ID",
+        "postalCode": "83702-9107"
       },
       {
         "line": [
-          "4400 Easton Commons Way",
-          "Suite 125"
+          "605 N Michigan Ave",
+          "4th Floor"
         ],
-        "city": "Columbus",
-        "state": "OH",
-        "postalCode": "43219-6223"
-      },
-      {
-        "line": [
-          "112 SW 7th Street",
-          "Suite 3C"
-        ],
-        "city": "TOPEKA",
-        "state": "KS",
-        "postalCode": "66603-3858"
-      },
-      {
-        "line": [
-          "445 Minnesota Street",
-          "Suite 1500"
-        ],
-        "city": "Saint Paul",
-        "state": "MN",
-        "postalCode": "55101-2269"
-      },
-      {
-        "line": [
-          "720 South Colorado Blvd",
-          "13th Floor"
-        ],
-        "city": "DENVER",
-        "state": "CO",
-        "postalCode": "80246-1904"
-      },
-      {
-        "line": [
-          "240 Elm Street",
-          "2nd & 3rd Floors"
-        ],
-        "city": "SOMERVILLE",
-        "state": "MA",
-        "postalCode": "02144-2935"
-      },
-      {
-        "line": [
-          "2 Office Park Ct",
-          "Suite 103"
-        ],
-        "city": "COLUMBIA",
-        "state": "SC",
-        "postalCode": "29223-5948"
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60611-3141"
       },
       {
         "line": [
@@ -244,21 +253,12 @@
       },
       {
         "line": [
-          "2950 North Loop W",
-          "Suite 500"
+          "600 N. 2nd St",
+          "Suite 401"
         ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77092-8830"
-      },
-      {
-        "line": [
-          "3800 N Central Ave",
-          "Suite 460"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85012-1995"
+        "city": "HARRISBURG",
+        "state": "PA",
+        "postalCode": "17101-1071"
       }
     ],
     "extension": [

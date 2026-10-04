@@ -14,58 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912061706"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1184787731"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1487694345"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912061706"
       }
     ],
     "address": [
       {
         "line": [
-          "171 Ramapo Rd"
-        ],
-        "city": "GARNERVILLE",
-        "state": "NY",
-        "postalCode": "10923-1552"
-      },
-      {
-        "line": [
-          "1592 Route 739"
-        ],
-        "city": "DINGMANS FERRY",
-        "state": "PA",
-        "postalCode": "18328-3513"
-      },
-      {
-        "line": [
-          "972 Route 45",
-          "Suite 103"
-        ],
-        "city": "POMONA",
-        "state": "NY",
-        "postalCode": "10970-3566"
-      },
-      {
-        "line": [
-          "257 Lafayette Ave"
+          "79 Route 59",
+          "Suite 5"
         ],
         "city": "SUFFERN",
         "state": "NY",
-        "postalCode": "10901-4830"
-      },
-      {
-        "line": [
-          "100 Commerce Dr"
-        ],
-        "city": "NEW WINDSOR",
-        "state": "NY",
-        "postalCode": "12553-6936"
+        "postalCode": "10901-4900"
       },
       {
         "line": [
@@ -77,12 +45,11 @@
       },
       {
         "line": [
-          "79 Route 59",
-          "Suite 5"
+          "171 Ramapo Rd"
         ],
-        "city": "SUFFERN",
+        "city": "GARNERVILLE",
         "state": "NY",
-        "postalCode": "10901-4900"
+        "postalCode": "10923-1552"
       },
       {
         "line": [
@@ -95,11 +62,44 @@
       },
       {
         "line": [
+          "972 Route 45",
+          "Suite 103"
+        ],
+        "city": "POMONA",
+        "state": "NY",
+        "postalCode": "10970-3566"
+      },
+      {
+        "line": [
+          "1592 Route 739"
+        ],
+        "city": "DINGMANS FERRY",
+        "state": "PA",
+        "postalCode": "18328-3513"
+      },
+      {
+        "line": [
+          "100 Commerce Dr"
+        ],
+        "city": "NEW WINDSOR",
+        "state": "NY",
+        "postalCode": "12553-6936"
+      },
+      {
+        "line": [
           "20 Squadron Blvd"
         ],
         "city": "NEW CITY",
         "state": "NY",
         "postalCode": "10956-5200"
+      },
+      {
+        "line": [
+          "257 Lafayette Ave"
+        ],
+        "city": "SUFFERN",
+        "state": "NY",
+        "postalCode": "10901-4830"
       }
     ],
     "extension": [

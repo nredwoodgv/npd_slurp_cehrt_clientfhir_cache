@@ -14,14 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346044401"
+        "value": "1396961322"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396961322"
+        "value": "1346044401"
       }
     ],
     "address": [
+      {
+        "line": [
+          "2371 CROCKETT DR",
+          "STE 102"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-5920"
+      },
       {
         "line": [
           "1904 Pine St Suite 200"
@@ -37,15 +46,6 @@
         "city": "ABILENE",
         "state": "TX",
         "postalCode": "79602-5058"
-      },
-      {
-        "line": [
-          "2371 CROCKETT DR",
-          "STE 102"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-5920"
       }
     ],
     "extension": [

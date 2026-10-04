@@ -14,7 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174858302"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1497982805"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669702163"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,26 +30,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174858302"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1205875614"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669702163"
       }
     ],
     "address": [
-      {
-        "line": [
-          "150 CHASE DR"
-        ],
-        "city": "LANDER",
-        "state": "WY",
-        "postalCode": "82520-3425"
-      },
       {
         "line": [
           "2100 West Sunset Driv"
@@ -52,7 +44,7 @@
       },
       {
         "line": [
-          "2100 West Sunset Drive"
+          "2100 West Sunset Dr."
         ],
         "city": "RIVERTON",
         "state": "WY",
@@ -60,7 +52,15 @@
       },
       {
         "line": [
-          "2100 West Sunset Dr."
+          "150 CHASE DR"
+        ],
+        "city": "LANDER",
+        "state": "WY",
+        "postalCode": "82520-3425"
+      },
+      {
+        "line": [
+          "2100 West Sunset Drive"
         ],
         "city": "RIVERTON",
         "state": "WY",

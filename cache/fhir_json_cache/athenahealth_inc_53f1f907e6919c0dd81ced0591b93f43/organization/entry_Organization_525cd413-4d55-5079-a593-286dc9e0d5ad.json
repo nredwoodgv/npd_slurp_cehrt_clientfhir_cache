@@ -14,22 +14,30 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245981810"
+        "value": "1881728996"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881728996"
+        "value": "1245981810"
       }
     ],
     "address": [
       {
         "line": [
-          "6666 Security Boulevard",
-          "SUITE 4"
+          "3401 ERDMAN AVE STE A"
         ],
-        "city": "GWYNN OAK",
+        "city": "BALTIMORE",
         "state": "MD",
-        "postalCode": "21207-4025"
+        "postalCode": "21213-1956"
+      },
+      {
+        "line": [
+          "4201 Northview Dr",
+          "SUITE 101"
+        ],
+        "city": "BOWIE",
+        "state": "MD",
+        "postalCode": "20716-2644"
       },
       {
         "line": [
@@ -42,12 +50,11 @@
       },
       {
         "line": [
-          "1103 North Point Blvd",
-          "Suite 404"
+          "2373 Rolling Rd"
         ],
-        "city": "BALTIMORE",
+        "city": "WINDSOR MILL",
         "state": "MD",
-        "postalCode": "21224-3469"
+        "postalCode": "21244-2373"
       },
       {
         "line": [
@@ -59,28 +66,12 @@
       },
       {
         "line": [
-          "2563 Forest Dr #201"
-        ],
-        "city": "ANNAPOLIS",
-        "state": "MD",
-        "postalCode": "21401-3869"
-      },
-      {
-        "line": [
-          "4600 WILKENS AVE",
-          "102"
+          "1103 North Point Blvd",
+          "Suite 404"
         ],
         "city": "BALTIMORE",
         "state": "MD",
-        "postalCode": "21229-4843"
-      },
-      {
-        "line": [
-          "4395 NICOLE DR"
-        ],
-        "city": "LANHAM",
-        "state": "MD",
-        "postalCode": "20706-4349"
+        "postalCode": "21224-3469"
       },
       {
         "line": [
@@ -102,20 +93,19 @@
       },
       {
         "line": [
-          "2373 Rolling Rd"
+          "1308 EASTERN BLVD"
         ],
-        "city": "WINDSOR MILL",
+        "city": "ESSEX",
         "state": "MD",
-        "postalCode": "21244-2373"
+        "postalCode": "21221-3423"
       },
       {
         "line": [
-          "7389 BALTIMORE ANNAPOLIS BLVD",
-          "L"
+          "4395 NICOLE DR"
         ],
-        "city": "GLEN BURNIE",
+        "city": "LANHAM",
         "state": "MD",
-        "postalCode": "21061-3228"
+        "postalCode": "20706-4349"
       },
       {
         "line": [
@@ -128,20 +118,38 @@
       },
       {
         "line": [
-          "3401 ERDMAN AVE STE A"
+          "4600 WILKENS AVE",
+          "102"
         ],
         "city": "BALTIMORE",
         "state": "MD",
-        "postalCode": "21213-1956"
+        "postalCode": "21229-4843"
       },
       {
         "line": [
-          "4201 Northview Dr",
-          "SUITE 101"
+          "6666 Security Boulevard",
+          "SUITE 4"
         ],
-        "city": "BOWIE",
+        "city": "GWYNN OAK",
         "state": "MD",
-        "postalCode": "20716-2644"
+        "postalCode": "21207-4025"
+      },
+      {
+        "line": [
+          "2563 Forest Dr #201"
+        ],
+        "city": "ANNAPOLIS",
+        "state": "MD",
+        "postalCode": "21401-3869"
+      },
+      {
+        "line": [
+          "7389 BALTIMORE ANNAPOLIS BLVD",
+          "L"
+        ],
+        "city": "GLEN BURNIE",
+        "state": "MD",
+        "postalCode": "21061-3228"
       },
       {
         "line": [
@@ -150,14 +158,6 @@
         "city": "BALTIMORE",
         "state": "MD",
         "postalCode": "21231-3062"
-      },
-      {
-        "line": [
-          "1308 EASTERN BLVD"
-        ],
-        "city": "ESSEX",
-        "state": "MD",
-        "postalCode": "21221-3423"
       }
     ],
     "extension": [

@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811719537"
+        "value": "1619833852"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619833852"
+        "value": "1811719537"
       }
     ],
     "address": [
+      {
+        "line": [
+          "703 S Mill Street"
+        ],
+        "city": "WINNSBORO",
+        "state": "TX",
+        "postalCode": "75494-3125"
+      },
       {
         "line": [
           "300 Willow Creek Parkway",
@@ -30,14 +38,6 @@
         "city": "PALESTINE",
         "state": "TX",
         "postalCode": "75801-4433"
-      },
-      {
-        "line": [
-          "703 S Mill Street"
-        ],
-        "city": "WINNSBORO",
-        "state": "TX",
-        "postalCode": "75494-3125"
       }
     ],
     "extension": [

@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154834083"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1134632045"
       },
       {
@@ -26,19 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639152556"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285662486"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730692641"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013399625"
+        "value": "1154972883"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,7 +30,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154972883"
+        "value": "1013399625"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1083164099"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1639152556"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730692641"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154834083"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,18 +54,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083164099"
+        "value": "1285662486"
       }
     ],
     "address": [
-      {
-        "line": [
-          "820 W WASHINGTON ST"
-        ],
-        "city": "EUFAULA",
-        "state": "AL",
-        "postalCode": "36027-1822"
-      },
       {
         "line": [
           "324 MACON ST"
@@ -77,6 +69,14 @@
       {
         "line": [
           "820 West Washington Street"
+        ],
+        "city": "EUFAULA",
+        "state": "AL",
+        "postalCode": "36027-1822"
+      },
+      {
+        "line": [
+          "820 W WASHINGTON ST"
         ],
         "city": "EUFAULA",
         "state": "AL",

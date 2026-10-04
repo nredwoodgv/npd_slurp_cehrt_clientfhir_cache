@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548601016"
+        "value": "1306117460"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306117460"
+        "value": "1548601016"
       }
     ],
     "address": [
+      {
+        "line": [
+          "2100 Audubon Ave"
+        ],
+        "city": "THIBODAUX",
+        "state": "LA",
+        "postalCode": "70301-5014"
+      },
       {
         "line": [
           "1731 LUTCHER AVENUE"
@@ -37,14 +45,6 @@
         "city": "CUT OFF",
         "state": "LA",
         "postalCode": "70345-3371"
-      },
-      {
-        "line": [
-          "2100 Audubon Ave"
-        ],
-        "city": "THIBODAUX",
-        "state": "LA",
-        "postalCode": "70301-5014"
       }
     ],
     "extension": [

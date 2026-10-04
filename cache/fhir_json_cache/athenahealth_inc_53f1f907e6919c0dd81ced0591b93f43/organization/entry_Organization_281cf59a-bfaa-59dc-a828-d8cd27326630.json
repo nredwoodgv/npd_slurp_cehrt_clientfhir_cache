@@ -14,6 +14,34 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114133485"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588737266"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1255378139"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902979081"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174537500"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629272968"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114962461"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1942317631"
       },
       {
@@ -22,47 +50,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114133485"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730117805"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174537500"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114962461"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1366515496"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588737266"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902979081"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629272968"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255378139"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386716520"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457663197"
+        "value": "1730117805"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -74,11 +66,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700831500"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023088168"
+        "value": "1386716520"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -86,47 +74,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1023088168"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1376820605"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700831500"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457663197"
       }
     ],
     "address": [
       {
         "line": [
-          "17700 23 MILE"
-        ],
-        "city": "MACOMB",
-        "state": "MI",
-        "postalCode": "48044-1154"
-      },
-      {
-        "line": [
-          "17700 23 Mile Rd."
-        ],
-        "city": "MACOMB",
-        "state": "MI",
-        "postalCode": "48044-1154"
-      },
-      {
-        "line": [
           "17700 23 Mile Rd"
         ],
         "city": "Macomb",
-        "state": "MI",
-        "postalCode": "48044-1156"
-      },
-      {
-        "line": [
-          "17700 23 Mile Rd"
-        ],
-        "city": "Macomb",
-        "state": "MI",
-        "postalCode": "48044-1154"
-      },
-      {
-        "line": [
-          "1770 23 MILE RD"
-        ],
-        "city": "MACOMB",
         "state": "MI",
         "postalCode": "48044-1154"
       },
@@ -148,7 +116,39 @@
       },
       {
         "line": [
+          "17700 23 MILE"
+        ],
+        "city": "MACOMB",
+        "state": "MI",
+        "postalCode": "48044-1154"
+      },
+      {
+        "line": [
+          "17700 23 Mile Rd"
+        ],
+        "city": "Macomb",
+        "state": "MI",
+        "postalCode": "48044-1156"
+      },
+      {
+        "line": [
+          "17700 23 Mile Rd."
+        ],
+        "city": "MACOMB",
+        "state": "MI",
+        "postalCode": "48044-1154"
+      },
+      {
+        "line": [
           "17700 23 Mile"
+        ],
+        "city": "MACOMB",
+        "state": "MI",
+        "postalCode": "48044-1154"
+      },
+      {
+        "line": [
+          "1770 23 MILE RD"
         ],
         "city": "MACOMB",
         "state": "MI",

@@ -14,19 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235598616"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1043306574"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649643420"
+        "value": "1265867287"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194226373"
+        "value": "1649643420"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,18 +34,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265867287"
+        "value": "1235598616"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1194226373"
       }
     ],
     "address": [
-      {
-        "line": [
-          "10 STOCKTON DRIVE"
-        ],
-        "city": "TOMS RIVER",
-        "state": "NJ",
-        "postalCode": "08755-7335"
-      },
       {
         "line": [
           "686 RTE 70"
@@ -65,6 +57,14 @@
         "city": "MANAHAWKIN",
         "state": "NJ",
         "postalCode": "08050-2707"
+      },
+      {
+        "line": [
+          "10 STOCKTON DRIVE"
+        ],
+        "city": "TOMS RIVER",
+        "state": "NJ",
+        "postalCode": "08755-7335"
       }
     ],
     "extension": [

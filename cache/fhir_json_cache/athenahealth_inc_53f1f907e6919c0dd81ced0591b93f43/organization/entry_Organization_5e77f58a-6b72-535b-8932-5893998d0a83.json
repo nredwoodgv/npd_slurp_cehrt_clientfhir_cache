@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730412388"
+        "value": "1275290694"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629538491"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962025148"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,26 +30,49 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275290694"
+        "value": "1962025148"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730412388"
       }
     ],
     "address": [
       {
         "line": [
-          "1905 SW H K  Dodgen Loop"
+          "1101 Wolf Lake Dr",
+          "STE 100"
         ],
-        "city": "TEMPLE",
+        "city": "GEORGETOWN",
         "state": "TX",
-        "postalCode": "76502-1814"
+        "postalCode": "78628-3778"
       },
       {
         "line": [
-          "11111 Research Blvd",
-          "Suite 210"
+          "1101 Wolf Lake Dr",
+          "STE 225"
         ],
-        "city": "AUSTIN",
+        "city": "GEORGETOWN",
         "state": "TX",
-        "postalCode": "78759-5791"
+        "postalCode": "78628-3778"
+      },
+      {
+        "line": [
+          "5103 Kyle Center Dr",
+          "STE 108"
+        ],
+        "city": "KYLE",
+        "state": "TX",
+        "postalCode": "78640-6164"
+      },
+      {
+        "line": [
+          "201 University Oaks Blvd",
+          "Suite 1260"
+        ],
+        "city": "ROUND ROCK",
+        "state": "TX",
+        "postalCode": "78665-2437"
       },
       {
         "line": [
@@ -74,38 +93,29 @@
       },
       {
         "line": [
+          "11111 Research Blvd",
+          "Suite 210"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78759-5791"
+      },
+      {
+        "line": [
+          "1905 SW H K  Dodgen Loop"
+        ],
+        "city": "TEMPLE",
+        "state": "TX",
+        "postalCode": "76502-1814"
+      },
+      {
+        "line": [
           "1004 W 32nd St",
           "STE 100"
         ],
         "city": "AUSTIN",
         "state": "TX",
         "postalCode": "78705-1915"
-      },
-      {
-        "line": [
-          "5103 Kyle Center Dr",
-          "STE 108"
-        ],
-        "city": "KYLE",
-        "state": "TX",
-        "postalCode": "78640-6164"
-      },
-      {
-        "line": [
-          "5103 Kyle Center Drive Suite 108"
-        ],
-        "city": "KYLE",
-        "state": "TX",
-        "postalCode": "78640-6164"
-      },
-      {
-        "line": [
-          "1101 Wolf Lake Dr",
-          "STE 225"
-        ],
-        "city": "GEORGETOWN",
-        "state": "TX",
-        "postalCode": "78628-3778"
       },
       {
         "line": [
@@ -117,21 +127,11 @@
       },
       {
         "line": [
-          "201 University Oaks Blvd",
-          "Suite 1260"
+          "5103 Kyle Center Drive Suite 108"
         ],
-        "city": "ROUND ROCK",
+        "city": "KYLE",
         "state": "TX",
-        "postalCode": "78665-2437"
-      },
-      {
-        "line": [
-          "1101 Wolf Lake Dr",
-          "STE 100"
-        ],
-        "city": "GEORGETOWN",
-        "state": "TX",
-        "postalCode": "78628-3778"
+        "postalCode": "78640-6164"
       }
     ],
     "extension": [

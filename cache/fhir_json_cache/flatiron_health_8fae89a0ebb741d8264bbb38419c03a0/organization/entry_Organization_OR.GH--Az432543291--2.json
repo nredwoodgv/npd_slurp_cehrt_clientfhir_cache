@@ -14,11 +14,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740313782"
+        "value": "12345678"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "12345678"
+        "value": "1740313782"
       }
     ],
     "active": true,
@@ -26,7 +26,7 @@
     "telecom": [
       {
         "system": "phone",
-        "value": "(787)653-3434"
+        "value": "(555)555-5555"
       },
       {
         "system": "phone",
@@ -34,14 +34,37 @@
       },
       {
         "system": "phone",
-        "value": "(787)744-8686"
+        "value": "(787)653-3434"
       },
       {
         "system": "phone",
-        "value": "(555)555-5555"
+        "value": "(787)744-8686"
       }
     ],
     "address": [
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "Hospital Hima Piso G"
+        ],
+        "city": "Caguas",
+        "state": "PR",
+        "postalCode": "00725",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "Urb Turabo Gardens Carr 172",
+          "Expreso Hacia Cayey salida #21"
+        ],
+        "city": "Caguas",
+        "state": "PR",
+        "postalCode": "00725",
+        "country": "USA"
+      },
       {
         "use": "work",
         "type": "postal",
@@ -69,31 +92,8 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "Urb Turabo Gardens Carr 172",
-          "Expreso Hacia Cayey salida #21"
-        ],
-        "city": "Caguas",
-        "state": "PR",
-        "postalCode": "00725",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "HOSPITAL PAVIA  CAGUAS PISO G",
           "100 AVE LUIS MUNOZ MARIN"
-        ],
-        "city": "Caguas",
-        "state": "PR",
-        "postalCode": "00725",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "Hospital Hima Piso G"
         ],
         "city": "Caguas",
         "state": "PR",

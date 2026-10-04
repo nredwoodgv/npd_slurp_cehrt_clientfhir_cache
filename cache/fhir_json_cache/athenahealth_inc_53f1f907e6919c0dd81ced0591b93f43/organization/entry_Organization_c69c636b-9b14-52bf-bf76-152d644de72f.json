@@ -14,29 +14,38 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609834886"
+        "value": "1053424648"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053424648"
+        "value": "1609834886"
       }
     ],
     "address": [
       {
         "line": [
-          "250 Harrison Street"
+          "845 CENTURY MEDICAL DR",
+          "STE A"
         ],
         "city": "TITUSVILLE",
         "state": "FL",
-        "postalCode": "32780-5026"
+        "postalCode": "32796-2157"
       },
       {
         "line": [
-          "1832 Country Club Drive"
+          "5005 Port St. John Pkwy"
+        ],
+        "city": "COCOA",
+        "state": "FL",
+        "postalCode": "32927-4305"
+      },
+      {
+        "line": [
+          "494 N WASHINGTON AVE"
         ],
         "city": "TITUSVILLE",
         "state": "FL",
-        "postalCode": "32780-5346"
+        "postalCode": "32796-2871"
       },
       {
         "line": [
@@ -57,31 +66,6 @@
       },
       {
         "line": [
-          "250 HARRISON ST"
-        ],
-        "city": "TITUSVILLE",
-        "state": "FL",
-        "postalCode": "32780-5094"
-      },
-      {
-        "line": [
-          "845 CENTURY MEDICAL DR",
-          "STE A"
-        ],
-        "city": "TITUSVILLE",
-        "state": "FL",
-        "postalCode": "32796-2157"
-      },
-      {
-        "line": [
-          "836 Century Medical Drive"
-        ],
-        "city": "TITUSVILLE",
-        "state": "FL",
-        "postalCode": "32796-2141"
-      },
-      {
-        "line": [
           "1350 HICKORY ST"
         ],
         "city": "MELBOURNE",
@@ -90,11 +74,11 @@
       },
       {
         "line": [
-          "250 HARRISON ST"
+          "951 N Washington Ave"
         ],
         "city": "TITUSVILLE",
         "state": "FL",
-        "postalCode": "32780-5026"
+        "postalCode": "32796-2163"
       },
       {
         "line": [
@@ -103,6 +87,14 @@
         "city": "TITUSVILLE",
         "state": "FL",
         "postalCode": "32796-2871"
+      },
+      {
+        "line": [
+          "1705 JESS PARRISH CT"
+        ],
+        "city": "TITUSVILLE",
+        "state": "FL",
+        "postalCode": "32796-2158"
       },
       {
         "line": [
@@ -115,55 +107,6 @@
       },
       {
         "line": [
-          "494 N WASHINGTON AVE"
-        ],
-        "city": "TITUSVILLE",
-        "state": "FL",
-        "postalCode": "32796-2871"
-      },
-      {
-        "line": [
-          "250 HARRISON STREET"
-        ],
-        "city": "TITUSVILLE",
-        "state": "FL",
-        "postalCode": "32780-5094"
-      },
-      {
-        "line": [
-          "5005 PORT ST JOHN PKWY STE 2300",
-          "SUITE 2300"
-        ],
-        "city": "COCOA",
-        "state": "FL",
-        "postalCode": "32927-4305"
-      },
-      {
-        "line": [
-          "951 N Washington Ave"
-        ],
-        "city": "TITUSVILLE",
-        "state": "FL",
-        "postalCode": "32796-2163"
-      },
-      {
-        "line": [
-          "1705 JESS PARRISH CT"
-        ],
-        "city": "TITUSVILLE",
-        "state": "FL",
-        "postalCode": "32796-2158"
-      },
-      {
-        "line": [
-          "220 N Grove Street"
-        ],
-        "city": "MERRITT ISLAND",
-        "state": "FL",
-        "postalCode": "32953-3444"
-      },
-      {
-        "line": [
           "8082 SPACE COMMERCE WAY"
         ],
         "city": "MERRITT ISLAND",
@@ -172,12 +115,11 @@
       },
       {
         "line": [
-          "5005 PORT ST JOHN PKWY STE 2300",
-          "SUITE 2500"
+          "250 Harrison Street"
         ],
-        "city": "COCOA",
+        "city": "TITUSVILLE",
         "state": "FL",
-        "postalCode": "32927-4305"
+        "postalCode": "32780-5026"
       },
       {
         "line": [
@@ -189,6 +131,88 @@
       },
       {
         "line": [
+          "5005 Port St John Pkwy",
+          "Suite 2300"
+        ],
+        "city": "Port St John",
+        "state": "FL",
+        "postalCode": "32927-4305"
+      },
+      {
+        "line": [
+          "250 HARRISON ST"
+        ],
+        "city": "TITUSVILLE",
+        "state": "FL",
+        "postalCode": "32780-5094"
+      },
+      {
+        "line": [
+          "250 HARRISON STREET"
+        ],
+        "city": "TITUSVILLE",
+        "state": "FL",
+        "postalCode": "32780-5094"
+      },
+      {
+        "line": [
+          "836 Century Medical Drive"
+        ],
+        "city": "TITUSVILLE",
+        "state": "FL",
+        "postalCode": "32796-2141"
+      },
+      {
+        "line": [
+          "250 HARRISON ST"
+        ],
+        "city": "TITUSVILLE",
+        "state": "FL",
+        "postalCode": "32780-5026"
+      },
+      {
+        "line": [
+          "250 Harrison St"
+        ],
+        "city": "TITUSVILLE",
+        "state": "FL",
+        "postalCode": "32780-5026"
+      },
+      {
+        "line": [
+          "845 CENTURY MEDICAL DR STE B"
+        ],
+        "city": "TITUSVILLE",
+        "state": "FL",
+        "postalCode": "32796-2157"
+      },
+      {
+        "line": [
+          "5005 Port St. John Parkway",
+          "Suite 2100"
+        ],
+        "city": "COCOA",
+        "state": "FL",
+        "postalCode": "32927-4305"
+      },
+      {
+        "line": [
+          "830 Century Medical Drive, Suite B"
+        ],
+        "city": "TITUSVILLE",
+        "state": "FL",
+        "postalCode": "32796-2159"
+      },
+      {
+        "line": [
+          "220 N Grove Street"
+        ],
+        "city": "MERRITT ISLAND",
+        "state": "FL",
+        "postalCode": "32953-3444"
+      },
+      {
+        "line": [
           "494 N Washington Ave"
         ],
         "city": "TITUSVILLE",
@@ -197,11 +221,11 @@
       },
       {
         "line": [
-          "2225 Knox McRae Dr"
+          "825 Century Medical Drive"
         ],
         "city": "TITUSVILLE",
         "state": "FL",
-        "postalCode": "32796-2163"
+        "postalCode": "32796-5026"
       },
       {
         "line": [
@@ -214,15 +238,43 @@
       },
       {
         "line": [
-          "830 Century Medical Drive, Suite B"
+          "5005 PORT ST JOHN PKWY STE 2300",
+          "SUITE 2300"
         ],
-        "city": "TITUSVILLE",
+        "city": "COCOA",
         "state": "FL",
-        "postalCode": "32796-2159"
+        "postalCode": "32927-4305"
       },
       {
         "line": [
-          "5005 Port St. John Pkwy"
+          "1832 Country Club Drive"
+        ],
+        "city": "TITUSVILLE",
+        "state": "FL",
+        "postalCode": "32780-5346"
+      },
+      {
+        "line": [
+          "5005 Port St. John Pkwy",
+          "Suite 2500"
+        ],
+        "city": "COCOA",
+        "state": "FL",
+        "postalCode": "32927-4305"
+      },
+      {
+        "line": [
+          "5005 Port St John Pkwy",
+          "Suite 2300"
+        ],
+        "city": "COCOA",
+        "state": "FL",
+        "postalCode": "32927-4305"
+      },
+      {
+        "line": [
+          "5005 PORT ST JOHN PKWY STE 2300",
+          "SUITE 2500"
         ],
         "city": "COCOA",
         "state": "FL",
@@ -239,63 +291,11 @@
       },
       {
         "line": [
-          "825 Century Medical Drive"
+          "2225 Knox McRae Dr"
         ],
         "city": "TITUSVILLE",
         "state": "FL",
-        "postalCode": "32796-5026"
-      },
-      {
-        "line": [
-          "5005 Port St John Pkwy",
-          "Suite 2300"
-        ],
-        "city": "Port St John",
-        "state": "FL",
-        "postalCode": "32927-4305"
-      },
-      {
-        "line": [
-          "845 CENTURY MEDICAL DR STE B"
-        ],
-        "city": "TITUSVILLE",
-        "state": "FL",
-        "postalCode": "32796-2157"
-      },
-      {
-        "line": [
-          "5005 Port St John Pkwy",
-          "Suite 2300"
-        ],
-        "city": "COCOA",
-        "state": "FL",
-        "postalCode": "32927-4305"
-      },
-      {
-        "line": [
-          "250 Harrison St"
-        ],
-        "city": "TITUSVILLE",
-        "state": "FL",
-        "postalCode": "32780-5026"
-      },
-      {
-        "line": [
-          "5005 Port St. John Parkway",
-          "Suite 2100"
-        ],
-        "city": "COCOA",
-        "state": "FL",
-        "postalCode": "32927-4305"
-      },
-      {
-        "line": [
-          "5005 Port St. John Pkwy",
-          "Suite 2500"
-        ],
-        "city": "COCOA",
-        "state": "FL",
-        "postalCode": "32927-4305"
+        "postalCode": "32796-2163"
       }
     ],
     "extension": [

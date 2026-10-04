@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700589645"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962378208"
       },
       {
@@ -27,100 +23,16 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629280367"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700589645"
       }
     ],
     "address": [
       {
         "line": [
-          "721 E. Court St."
-        ],
-        "city": "PARIS",
-        "state": "IL",
-        "postalCode": "61944-2460"
-      },
-      {
-        "line": [
-          "1 PHIPPS LN"
-        ],
-        "city": "PARIS",
-        "state": "IL",
-        "postalCode": "61944-2919"
-      },
-      {
-        "line": [
-          "727 E COURT ST"
-        ],
-        "city": "PARIS",
-        "state": "IL",
-        "postalCode": "61944-2460"
-      },
-      {
-        "line": [
-          "721 E. Court St"
-        ],
-        "city": "PARIS",
-        "state": "IL",
-        "postalCode": "61944-2460"
-      },
-      {
-        "line": [
-          "721 E. COURT ST"
-        ],
-        "city": "PARIS",
-        "state": "IL",
-        "postalCode": "61944-2460"
-      },
-      {
-        "line": [
-          "721 E COURT ST"
-        ],
-        "city": "PARIS",
-        "state": "IL",
-        "postalCode": "61944-2460"
-      },
-      {
-        "line": [
-          "3901 S 7TH ST"
-        ],
-        "city": "TERRE HAUTE",
-        "state": "IN",
-        "postalCode": "47802-5709"
-      },
-      {
-        "line": [
-          "112 W MADISON"
-        ],
-        "city": "CHRISMAN",
-        "state": "IL",
-        "postalCode": "61924-1118"
-      },
-      {
-        "line": [
-          "3736 S 4TH ST"
-        ],
-        "city": "TERRE HAUTE",
-        "state": "IN",
-        "postalCode": "47802-5507"
-      },
-      {
-        "line": [
-          "721 E Court St"
-        ],
-        "city": "PARIS",
-        "state": "IL",
-        "postalCode": "61944-2460"
-      },
-      {
-        "line": [
-          "721 E COURT STREET"
-        ],
-        "city": "PARIS",
-        "state": "IL",
-        "postalCode": "61944-2460"
-      },
-      {
-        "line": [
-          "721 E. COURT ST."
+          "721 E. Court st"
         ],
         "city": "PARIS",
         "state": "IL",
@@ -136,11 +48,11 @@
       },
       {
         "line": [
-          "5 SOUTH WALNUT ST"
+          "721 E COURT ST"
         ],
-        "city": "OAKLAND",
+        "city": "PARIS",
         "state": "IL",
-        "postalCode": "61943-7153"
+        "postalCode": "61944-2460"
       },
       {
         "line": [
@@ -153,7 +65,7 @@
       },
       {
         "line": [
-          "721 E. Court st"
+          "721 E. Court St"
         ],
         "city": "PARIS",
         "state": "IL",
@@ -161,11 +73,67 @@
       },
       {
         "line": [
-          "1000 N 2ND ST"
+          "5 SOUTH WALNUT ST"
         ],
-        "city": "MARSHALL",
+        "city": "OAKLAND",
         "state": "IL",
-        "postalCode": "62441-4263"
+        "postalCode": "61943-7153"
+      },
+      {
+        "line": [
+          "721 E. COURT ST."
+        ],
+        "city": "PARIS",
+        "state": "IL",
+        "postalCode": "61944-2460"
+      },
+      {
+        "line": [
+          "721 E COURT STREET"
+        ],
+        "city": "PARIS",
+        "state": "IL",
+        "postalCode": "61944-2460"
+      },
+      {
+        "line": [
+          "721 East Court Street"
+        ],
+        "city": "PARIS",
+        "state": "IL",
+        "postalCode": "61944-2460"
+      },
+      {
+        "line": [
+          "1 PHIPPS LN"
+        ],
+        "city": "PARIS",
+        "state": "IL",
+        "postalCode": "61944-2919"
+      },
+      {
+        "line": [
+          "721 E. Court St."
+        ],
+        "city": "PARIS",
+        "state": "IL",
+        "postalCode": "61944-2460"
+      },
+      {
+        "line": [
+          "3901 S 7TH ST"
+        ],
+        "city": "TERRE HAUTE",
+        "state": "IN",
+        "postalCode": "47802-5709"
+      },
+      {
+        "line": [
+          "721 E. COURT ST"
+        ],
+        "city": "PARIS",
+        "state": "IL",
+        "postalCode": "61944-2460"
       },
       {
         "line": [
@@ -177,6 +145,38 @@
       },
       {
         "line": [
+          "727 E COURT ST"
+        ],
+        "city": "PARIS",
+        "state": "IL",
+        "postalCode": "61944-2460"
+      },
+      {
+        "line": [
+          "3736 S 4TH ST"
+        ],
+        "city": "TERRE HAUTE",
+        "state": "IN",
+        "postalCode": "47802-5507"
+      },
+      {
+        "line": [
+          "1000 N 2ND ST"
+        ],
+        "city": "MARSHALL",
+        "state": "IL",
+        "postalCode": "62441-4263"
+      },
+      {
+        "line": [
+          "721 E Court St"
+        ],
+        "city": "PARIS",
+        "state": "IL",
+        "postalCode": "61944-2460"
+      },
+      {
+        "line": [
           "721 E Court St"
         ],
         "city": "PARIS",
@@ -185,11 +185,11 @@
       },
       {
         "line": [
-          "721 East Court Street"
+          "112 W MADISON"
         ],
-        "city": "PARIS",
+        "city": "CHRISMAN",
         "state": "IL",
-        "postalCode": "61944-2460"
+        "postalCode": "61924-1118"
       }
     ],
     "extension": [

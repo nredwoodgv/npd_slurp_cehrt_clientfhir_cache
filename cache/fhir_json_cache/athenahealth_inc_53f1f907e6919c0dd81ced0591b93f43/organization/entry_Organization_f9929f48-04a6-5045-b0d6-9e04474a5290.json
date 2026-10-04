@@ -14,55 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659301992"
+        "value": "1104539774"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104539774"
+        "value": "1659301992"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1601 HIGHWAY 13 E STE 110"
-        ],
-        "city": "BURNSVILLE",
-        "state": "MN",
-        "postalCode": "55337-6877"
-      },
-      {
-        "line": [
-          "7400 France Ave S"
-        ],
-        "city": "EDINA",
-        "state": "MN",
-        "postalCode": "55435-4738"
-      },
-      {
-        "line": [
-          "1818 E 23rd Ave"
-        ],
-        "city": "HUTCHINSON",
-        "state": "KS",
-        "postalCode": "67502-1106"
-      },
-      {
-        "line": [
-          "1818 E 23RD AVE"
-        ],
-        "city": "HUTCHINSON",
-        "state": "KS",
-        "postalCode": "67502-1106"
-      },
-      {
-        "line": [
-          "1601 East Hwy 13",
-          "Suite 211"
-        ],
-        "city": "BURNSVILLE",
-        "state": "MN",
-        "postalCode": "55337-5105"
-      },
       {
         "line": [
           "323 S MINNESOTA ST"
@@ -81,11 +40,52 @@
       },
       {
         "line": [
+          "1601 East Hwy 13",
+          "Suite 211"
+        ],
+        "city": "BURNSVILLE",
+        "state": "MN",
+        "postalCode": "55337-5105"
+      },
+      {
+        "line": [
+          "1818 E 23RD AVE"
+        ],
+        "city": "HUTCHINSON",
+        "state": "KS",
+        "postalCode": "67502-1106"
+      },
+      {
+        "line": [
+          "1601 HIGHWAY 13 E STE 110"
+        ],
+        "city": "BURNSVILLE",
+        "state": "MN",
+        "postalCode": "55337-6877"
+      },
+      {
+        "line": [
           "111 17th Ave East"
         ],
         "city": "ALEXANDRIA",
         "state": "MN",
         "postalCode": "56308-3798"
+      },
+      {
+        "line": [
+          "7400 France Ave S"
+        ],
+        "city": "EDINA",
+        "state": "MN",
+        "postalCode": "55435-4738"
+      },
+      {
+        "line": [
+          "6600 state hwy 29 s"
+        ],
+        "city": "ALEXANDRIA",
+        "state": "MN",
+        "postalCode": "56308-6196"
       },
       {
         "line": [
@@ -97,11 +97,11 @@
       },
       {
         "line": [
-          "6600 state hwy 29 s"
+          "1818 E 23rd Ave"
         ],
-        "city": "ALEXANDRIA",
-        "state": "MN",
-        "postalCode": "56308-6196"
+        "city": "HUTCHINSON",
+        "state": "KS",
+        "postalCode": "67502-1106"
       }
     ],
     "extension": [

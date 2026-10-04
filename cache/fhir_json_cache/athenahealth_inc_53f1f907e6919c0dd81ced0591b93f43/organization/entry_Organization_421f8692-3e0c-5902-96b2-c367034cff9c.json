@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265128763"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1083300768"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1407453046"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1265128763"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -40,101 +40,11 @@
     "address": [
       {
         "line": [
-          "2101 SW 21ST ST"
+          "3085 MOUNTAINWOOD CIR"
         ],
-        "city": "TOPEKA",
-        "state": "KS",
-        "postalCode": "66604-3174"
-      },
-      {
-        "line": [
-          "5601 S 59TH ST STE C"
-        ],
-        "city": "LINCOLN",
-        "state": "NE",
-        "postalCode": "68516-2340"
-      },
-      {
-        "line": [
-          "7 SAINT PAUL ST STE 820"
-        ],
-        "city": "BALTIMORE",
-        "state": "MD",
-        "postalCode": "21202-1681"
-      },
-      {
-        "line": [
-          "900 FORT STREET MALL",
-          "STE 1680"
-        ],
-        "city": "HONOLULU",
-        "state": "HI",
-        "postalCode": "96813-3716"
-      },
-      {
-        "line": [
-          "698 12TH ST SE STE 200"
-        ],
-        "city": "SALEM",
-        "state": "OR",
-        "postalCode": "97301-4010"
-      },
-      {
-        "line": [
-          "222 JEFFERSON BLVD"
-        ],
-        "city": "WARWICK",
-        "state": "RI",
-        "postalCode": "02888-3847"
-      },
-      {
-        "line": [
-          "120 W SWEET AVE"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58504-5566"
-      },
-      {
-        "line": [
-          "221 BOLIVAR ST"
-        ],
-        "city": "JEFFERSON CITY",
-        "state": "MO",
-        "postalCode": "65101-1572"
-      },
-      {
-        "line": [
-          "15205 TRADITIONS LAKE PKWY"
-        ],
-        "city": "EDMOND",
-        "state": "OK",
-        "postalCode": "73013-1198"
-      },
-      {
-        "line": [
-          "186 N. Main Street, 2nd Floor Suite 1"
-        ],
-        "city": "PLYMOUTH",
-        "state": "MI",
-        "postalCode": "48170-1111"
-      },
-      {
-        "line": [
-          "828 LANE ALLEN RD",
-          "STE 219"
-        ],
-        "city": "LEXINGTON",
-        "state": "KY",
-        "postalCode": "40504-3659"
-      },
-      {
-        "line": [
-          "600 S 2ND ST STE 404"
-        ],
-        "city": "SPRINGFIELD",
-        "state": "IL",
-        "postalCode": "62704-2542"
+        "city": "JUNEAU",
+        "state": "AK",
+        "postalCode": "99801-9624"
       },
       {
         "line": [
@@ -147,58 +57,6 @@
       },
       {
         "line": [
-          "40 W 14TH ST",
-          "STE 28"
-        ],
-        "city": "HELENA",
-        "state": "MT",
-        "postalCode": "59601-3385"
-      },
-      {
-        "line": [
-          "2908 POSTON AVE"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37203-1309"
-      },
-      {
-        "line": [
-          "37 EASTON AVE",
-          "STE 200 # 208"
-        ],
-        "city": "NEW BRUNSWICK",
-        "state": "NJ",
-        "postalCode": "08901-1830"
-      },
-      {
-        "line": [
-          "2810 COLISEUM CENTRE DR",
-          "STE 120"
-        ],
-        "city": "CHARLOTTE",
-        "state": "NC",
-        "postalCode": "28217-3255"
-      },
-      {
-        "line": [
-          "900 OLD ROSWELL LAKES PKWY STE 310"
-        ],
-        "city": "ROSWELL",
-        "state": "GA",
-        "postalCode": "30076-8667"
-      },
-      {
-        "line": [
-          "207 E CAPITOL AVE",
-          "STE 101B"
-        ],
-        "city": "PIERRE",
-        "state": "SD",
-        "postalCode": "57501-3175"
-      },
-      {
-        "line": [
           "248 E CAPITOL ST",
           "STE 840"
         ],
@@ -208,86 +66,20 @@
       },
       {
         "line": [
-          "505 5th Avenue",
-          "Suite 729"
-        ],
-        "city": "DES MOINES",
-        "state": "IA",
-        "postalCode": "50309-2352"
-      },
-      {
-        "line": [
-          "64 E BROADWAY RD",
-          "STE 200 # 261"
-        ],
-        "city": "TEMPE",
-        "state": "AZ",
-        "postalCode": "85282-1377"
-      },
-      {
-        "line": [
-          "1201 HAYS ST"
+          "115 N CALHOUN ST",
+          "STE 4"
         ],
         "city": "TALLAHASSEE",
         "state": "FL",
-        "postalCode": "32301-2699"
+        "postalCode": "32301-1568"
       },
       {
         "line": [
-          "850 NEW BURTON RD",
-          "STE 201"
+          "300 DESCHUTES WAY SW STE 208"
         ],
-        "city": "DOVER",
-        "state": "DE",
-        "postalCode": "19904-5786"
-      },
-      {
-        "line": [
-          "2 OFFICE PARK CT STE 103"
-        ],
-        "city": "COLUMBIA",
-        "state": "SC",
-        "postalCode": "29223-5948"
-      },
-      {
-        "line": [
-          "1 BOSTON PL STE 2600"
-        ],
-        "city": "BOSTON",
-        "state": "MA",
-        "postalCode": "02108-4420"
-      },
-      {
-        "line": [
-          "2005 E 2700 S STE 200"
-        ],
-        "city": "SALT LAKE CITY",
-        "state": "UT",
-        "postalCode": "84109-1766"
-      },
-      {
-        "line": [
-          "1900 W LITTLETON BLVD"
-        ],
-        "city": "LITTLETON",
-        "state": "CO",
-        "postalCode": "80120-2023"
-      },
-      {
-        "line": [
-          "75 YORK ST STE 2"
-        ],
-        "city": "PORTLAND",
-        "state": "ME",
-        "postalCode": "04101-4670"
-      },
-      {
-        "line": [
-          "1325 J ST STE 1550"
-        ],
-        "city": "SACRAMENTO",
-        "state": "CA",
-        "postalCode": "95814-2976"
+        "city": "OLYMPIA",
+        "state": "WA",
+        "postalCode": "98501-7719"
       },
       {
         "line": [
@@ -300,11 +92,11 @@
       },
       {
         "line": [
-          "300 DESCHUTES WAY SW STE 208"
+          "128 CAPITOL ST"
         ],
-        "city": "OLYMPIA",
-        "state": "WA",
-        "postalCode": "98501-7719"
+        "city": "CHARLESTON",
+        "state": "WV",
+        "postalCode": "25301-2610"
       },
       {
         "line": [
@@ -316,12 +108,37 @@
       },
       {
         "line": [
-          "525 PARK ST",
-          "STE 247"
+          "900 OLD ROSWELL LAKES PKWY STE 310"
         ],
-        "city": "SAINT PAUL",
-        "state": "MN",
-        "postalCode": "55103-2106"
+        "city": "ROSWELL",
+        "state": "GA",
+        "postalCode": "30076-8667"
+      },
+      {
+        "line": [
+          "2810 COLISEUM CENTRE DR",
+          "STE 120"
+        ],
+        "city": "CHARLOTTE",
+        "state": "NC",
+        "postalCode": "28217-3255"
+      },
+      {
+        "line": [
+          "2 OFFICE PARK CT STE 103"
+        ],
+        "city": "COLUMBIA",
+        "state": "SC",
+        "postalCode": "29223-5948"
+      },
+      {
+        "line": [
+          "64 E BROADWAY RD",
+          "STE 200 # 261"
+        ],
+        "city": "TEMPE",
+        "state": "AZ",
+        "postalCode": "85282-1377"
       },
       {
         "line": [
@@ -333,93 +150,21 @@
       },
       {
         "line": [
-          "100 SHOCKOE SLIP FL 2"
+          "900 FORT STREET MALL",
+          "STE 1680"
         ],
-        "city": "RICHMOND",
-        "state": "VA",
-        "postalCode": "23219-4100"
+        "city": "HONOLULU",
+        "state": "HI",
+        "postalCode": "96813-3716"
       },
       {
         "line": [
-          "3958 BROWN PARK DR STE D"
+          "207 E CAPITOL AVE",
+          "STE 101B"
         ],
-        "city": "HILLIARD",
-        "state": "OH",
-        "postalCode": "43026-1160"
-      },
-      {
-        "line": [
-          "100 WILBURN RD",
-          "STE 100"
-        ],
-        "city": "SUN PRAIRIE",
-        "state": "WI",
-        "postalCode": "53590-1478"
-      },
-      {
-        "line": [
-          "4459B BLUEBONNET BLVD"
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70809-9639"
-      },
-      {
-        "line": [
-          "1215 TWIN LAKES",
-          "300 Spring Building, Suite 900 DR"
-        ],
-        "city": "LITTLE ROCK",
-        "state": "AR",
-        "postalCode": "72201-1111"
-      },
-      {
-        "line": [
-          "122 E 42ND ST FL 18"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10168-1899"
-      },
-      {
-        "line": [
-          "3085 MOUNTAINWOOD CIR"
-        ],
-        "city": "JUNEAU",
-        "state": "AK",
-        "postalCode": "99801-9624"
-      },
-      {
-        "line": [
-          "321 W WINNIE LN STE 104"
-        ],
-        "city": "CARSON CITY",
-        "state": "NV",
-        "postalCode": "89703-2154"
-      },
-      {
-        "line": [
-          "600 N 2ND ST"
-        ],
-        "city": "HARRISBURG",
-        "state": "PA",
-        "postalCode": "17101-1092"
-      },
-      {
-        "line": [
-          "1154 Route 30"
-        ],
-        "city": "TOWNSHEND",
-        "state": "VT",
-        "postalCode": "05353-1111"
-      },
-      {
-        "line": [
-          "128 CAPITOL ST"
-        ],
-        "city": "CHARLESTON",
-        "state": "WV",
-        "postalCode": "25301-2610"
+        "city": "PIERRE",
+        "state": "SD",
+        "postalCode": "57501-3175"
       },
       {
         "line": [
@@ -432,11 +177,163 @@
       },
       {
         "line": [
-          "211 E 7TH ST STE 260"
+          "100 WILBURN RD",
+          "STE 100"
         ],
-        "city": "AUSTIN",
+        "city": "SUN PRAIRIE",
+        "state": "WI",
+        "postalCode": "53590-1478"
+      },
+      {
+        "line": [
+          "186 N. Main Street, 2nd Floor Suite 1"
+        ],
+        "city": "PLYMOUTH",
+        "state": "MI",
+        "postalCode": "48170-1111"
+      },
+      {
+        "line": [
+          "1 BOSTON PL STE 2600"
+        ],
+        "city": "BOSTON",
+        "state": "MA",
+        "postalCode": "02108-4420"
+      },
+      {
+        "line": [
+          "1601 ELM ST",
+          "STE 4360"
+        ],
+        "city": "DALLAS",
         "state": "TX",
-        "postalCode": "78701-3334"
+        "postalCode": "75201-7268"
+      },
+      {
+        "line": [
+          "120 W SWEET AVE"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58504-5566"
+      },
+      {
+        "line": [
+          "992 DAVIDSON DR",
+          "STE B"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37205-1051"
+      },
+      {
+        "line": [
+          "1555 W SHORELINE DR",
+          "Suite 100"
+        ],
+        "city": "BOISE",
+        "state": "ID",
+        "postalCode": "83702-9107"
+      },
+      {
+        "line": [
+          "2101 SW 21ST ST"
+        ],
+        "city": "TOPEKA",
+        "state": "KS",
+        "postalCode": "66604-3174"
+      },
+      {
+        "line": [
+          "250 BROWNS HILL CT"
+        ],
+        "city": "MIDLOTHIAN",
+        "state": "VA",
+        "postalCode": "23114-9510"
+      },
+      {
+        "line": [
+          "209 ROUTE 35"
+        ],
+        "city": "CHESTER",
+        "state": "VT",
+        "postalCode": "05143-8569"
+      },
+      {
+        "line": [
+          "222 JEFFERSON BLVD"
+        ],
+        "city": "WARWICK",
+        "state": "RI",
+        "postalCode": "02888-3847"
+      },
+      {
+        "line": [
+          "1519 YORK RD"
+        ],
+        "city": "LUTHERVILLE TIMONIUM",
+        "state": "MD",
+        "postalCode": "21093-5611"
+      },
+      {
+        "line": [
+          "321 W WINNIE LN STE 104"
+        ],
+        "city": "CARSON CITY",
+        "state": "NV",
+        "postalCode": "89703-2154"
+      },
+      {
+        "line": [
+          "3958 BROWN PARK DR STE D"
+        ],
+        "city": "HILLIARD",
+        "state": "OH",
+        "postalCode": "43026-1160"
+      },
+      {
+        "line": [
+          "1215 TWIN LAKES",
+          "300 Spring Building, Suite 900 DR"
+        ],
+        "city": "LITTLE ROCK",
+        "state": "AR",
+        "postalCode": "72201-1111"
+      },
+      {
+        "line": [
+          "37 EASTON AVE",
+          "STE 200 # 208"
+        ],
+        "city": "NEW BRUNSWICK",
+        "state": "NJ",
+        "postalCode": "08901-1830"
+      },
+      {
+        "line": [
+          "615 S BISHOP AVE",
+          "STE F"
+        ],
+        "city": "ROLLA",
+        "state": "MO",
+        "postalCode": "65401-4318"
+      },
+      {
+        "line": [
+          "400 LOCUST ST",
+          "STE 400"
+        ],
+        "city": "DES MOINES",
+        "state": "IA",
+        "postalCode": "50309-2352"
+      },
+      {
+        "line": [
+          "75 YORK ST STE 2"
+        ],
+        "city": "PORTLAND",
+        "state": "ME",
+        "postalCode": "04101-4670"
       },
       {
         "line": [
@@ -448,12 +345,120 @@
       },
       {
         "line": [
-          "1555 W SHORELINE DR",
-          "Suite 100"
+          "600 N 2ND ST"
         ],
-        "city": "BOISE",
-        "state": "ID",
-        "postalCode": "83702-9107"
+        "city": "HARRISBURG",
+        "state": "PA",
+        "postalCode": "17101-1092"
+      },
+      {
+        "line": [
+          "698 12TH ST SE STE 200"
+        ],
+        "city": "SALEM",
+        "state": "OR",
+        "postalCode": "97301-4010"
+      },
+      {
+        "line": [
+          "1325 J ST STE 1550"
+        ],
+        "city": "SACRAMENTO",
+        "state": "CA",
+        "postalCode": "95814-2976"
+      },
+      {
+        "line": [
+          "828 LANE ALLEN RD",
+          "STE 219"
+        ],
+        "city": "LEXINGTON",
+        "state": "KY",
+        "postalCode": "40504-3659"
+      },
+      {
+        "line": [
+          "15205 TRADITIONS LAKE PKWY"
+        ],
+        "city": "EDMOND",
+        "state": "OK",
+        "postalCode": "73013-1198"
+      },
+      {
+        "line": [
+          "2005 E 2700 S STE 200"
+        ],
+        "city": "SALT LAKE CITY",
+        "state": "UT",
+        "postalCode": "84109-1766"
+      },
+      {
+        "line": [
+          "5601 S 59TH ST STE C"
+        ],
+        "city": "LINCOLN",
+        "state": "NE",
+        "postalCode": "68516-2340"
+      },
+      {
+        "line": [
+          "525 PARK ST",
+          "STE 247"
+        ],
+        "city": "SAINT PAUL",
+        "state": "MN",
+        "postalCode": "55103-2106"
+      },
+      {
+        "line": [
+          "122 E 42ND ST FL 18"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10168-1899"
+      },
+      {
+        "line": [
+          "40 W 14TH ST",
+          "STE 28"
+        ],
+        "city": "HELENA",
+        "state": "MT",
+        "postalCode": "59601-3385"
+      },
+      {
+        "line": [
+          "600 17TH ST",
+          "STE 1450S # 900"
+        ],
+        "city": "DENVER",
+        "state": "CO",
+        "postalCode": "80202-5463"
+      },
+      {
+        "line": [
+          "4459B BLUEBONNET BLVD"
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70809-9639"
+      },
+      {
+        "line": [
+          "600 S 2ND ST STE 404"
+        ],
+        "city": "SPRINGFIELD",
+        "state": "IL",
+        "postalCode": "62704-2542"
+      },
+      {
+        "line": [
+          "850 NEW BURTON RD",
+          "STE 201"
+        ],
+        "city": "DOVER",
+        "state": "DE",
+        "postalCode": "19904-5786"
       }
     ],
     "extension": [

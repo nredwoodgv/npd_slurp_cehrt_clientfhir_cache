@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831674654"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669909388"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336625540"
+        "value": "1831674654"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,19 +26,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336625540"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1558829937"
       }
     ],
     "address": [
-      {
-        "line": [
-          "325 W WALNUT ST",
-          "STE 600"
-        ],
-        "city": "LEBANON",
-        "state": "KY",
-        "postalCode": "40033-1378"
-      },
       {
         "line": [
           "9365 COUNSELORS ROW",
@@ -54,35 +45,11 @@
       },
       {
         "line": [
-          "27275 Haggerty Rd"
-        ],
-        "city": "NOVI",
-        "state": "MI",
-        "postalCode": "48377-3633"
-      },
-      {
-        "line": [
-          "1250 RADIO RD"
-        ],
-        "city": "ALMO",
-        "state": "KY",
-        "postalCode": "42020-9404"
-      },
-      {
-        "line": [
-          "9365 COUNSELORS ROW"
-        ],
-        "city": "INDIANAPOLIS",
-        "state": "IN",
-        "postalCode": "46240-6418"
-      },
-      {
-        "line": [
-          "2200 S Dixon Rd"
+          "2905 W Sycamore St"
         ],
         "city": "KOKOMO",
         "state": "IN",
-        "postalCode": "46902-6406"
+        "postalCode": "46901-4078"
       },
       {
         "line": [
@@ -94,11 +61,35 @@
       },
       {
         "line": [
-          "825 N MERIDIAN ST"
+          "27275 Haggerty Rd"
         ],
-        "city": "GREENTOWN",
+        "city": "NOVI",
+        "state": "MI",
+        "postalCode": "48377-3633"
+      },
+      {
+        "line": [
+          "9365 COUNSELORS ROW"
+        ],
+        "city": "INDIANAPOLIS",
         "state": "IN",
-        "postalCode": "46936-1263"
+        "postalCode": "46240-6418"
+      },
+      {
+        "line": [
+          "125 S CLARK ST STE 900"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60603-4043"
+      },
+      {
+        "line": [
+          "329 RAINBOW DR"
+        ],
+        "city": "KOKOMO",
+        "state": "IN",
+        "postalCode": "46902-3869"
       },
       {
         "line": [
@@ -110,19 +101,37 @@
       },
       {
         "line": [
-          "3600 West Boulevard"
-        ],
-        "city": "KOKOMO",
-        "state": "IN",
-        "postalCode": "46902-5992"
-      },
-      {
-        "line": [
-          "212 CRESTVIEW LN"
+          "1250 RADIO RD"
         ],
         "city": "ALMO",
         "state": "KY",
-        "postalCode": "42020-9458"
+        "postalCode": "42020-9404"
+      },
+      {
+        "line": [
+          "640 BYPASS RD"
+        ],
+        "city": "CADIZ",
+        "state": "KY",
+        "postalCode": "42211-8585"
+      },
+      {
+        "line": [
+          "325 W WALNUT ST",
+          "STE 600"
+        ],
+        "city": "LEBANON",
+        "state": "KY",
+        "postalCode": "40033-1378"
+      },
+      {
+        "line": [
+          "35150 Nankin Blvd",
+          "STE 103"
+        ],
+        "city": "WESTLAND",
+        "state": "MI",
+        "postalCode": "48185-2091"
       },
       {
         "line": [
@@ -142,19 +151,27 @@
       },
       {
         "line": [
-          "1517 W BROADWAY"
+          "825 N MERIDIAN ST"
         ],
-        "city": "MAYFIELD",
-        "state": "KY",
-        "postalCode": "42066-1927"
+        "city": "GREENTOWN",
+        "state": "IN",
+        "postalCode": "46936-1263"
       },
       {
         "line": [
-          "125 S CLARK ST STE 900"
+          "212 CRESTVIEW LN"
         ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60603-4043"
+        "city": "ALMO",
+        "state": "KY",
+        "postalCode": "42020-9458"
+      },
+      {
+        "line": [
+          "1401 S 16th St"
+        ],
+        "city": "MURRAY",
+        "state": "KY",
+        "postalCode": "42071-9303"
       },
       {
         "line": [
@@ -166,36 +183,19 @@
       },
       {
         "line": [
-          "329 RAINBOW DR"
+          "1169 Robertson Rd S"
         ],
-        "city": "KOKOMO",
-        "state": "IN",
-        "postalCode": "46902-3869"
-      },
-      {
-        "line": [
-          "2905 W Sycamore St"
-        ],
-        "city": "KOKOMO",
-        "state": "IN",
-        "postalCode": "46901-4078"
-      },
-      {
-        "line": [
-          "35150 Nankin Blvd",
-          "STE 103"
-        ],
-        "city": "WESTLAND",
-        "state": "MI",
-        "postalCode": "48185-2091"
-      },
-      {
-        "line": [
-          "640 BYPASS RD"
-        ],
-        "city": "CADIZ",
+        "city": "MURRAY",
         "state": "KY",
-        "postalCode": "42211-8585"
+        "postalCode": "42071-0001"
+      },
+      {
+        "line": [
+          "1517 W BROADWAY"
+        ],
+        "city": "MAYFIELD",
+        "state": "KY",
+        "postalCode": "42066-1927"
       },
       {
         "line": [
@@ -208,19 +208,19 @@
       },
       {
         "line": [
-          "1169 Robertson Rd S"
+          "2200 S Dixon Rd"
         ],
-        "city": "MURRAY",
-        "state": "KY",
-        "postalCode": "42071-0001"
+        "city": "KOKOMO",
+        "state": "IN",
+        "postalCode": "46902-6406"
       },
       {
         "line": [
-          "1401 S 16th St"
+          "3600 West Boulevard"
         ],
-        "city": "MURRAY",
-        "state": "KY",
-        "postalCode": "42071-9303"
+        "city": "KOKOMO",
+        "state": "IN",
+        "postalCode": "46902-5992"
       }
     ],
     "extension": [

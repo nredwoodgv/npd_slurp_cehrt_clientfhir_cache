@@ -14,37 +14,56 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881851194"
+        "value": "1902883887"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902883887"
+        "value": "1881851194"
       }
     ],
     "address": [
       {
         "line": [
-          "506 6TH ST"
+          "506 6th ave"
         ],
         "city": "BROOKLYN",
         "state": "NY",
-        "postalCode": "11215-3609"
+        "postalCode": "11215-0121"
       },
       {
         "line": [
-          "20900 biscayne blvd"
+          "350 ENGLE ST",
+          "MAIN FLOOR"
         ],
-        "city": "AVENTURA",
-        "state": "FL",
-        "postalCode": "33180-1204"
-      },
-      {
-        "line": [
-          "30 PROSPECT AVE"
-        ],
-        "city": "HACKENSACK",
+        "city": "ENGLEWOOD",
         "state": "NJ",
-        "postalCode": "07601-1915"
+        "postalCode": "07631-1808"
+      },
+      {
+        "line": [
+          "501 east 79th st",
+          "suite 15e"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10075-0735"
+      },
+      {
+        "line": [
+          "21097 NE 27TH COURT",
+          "330"
+        ],
+        "city": "MIAMI",
+        "state": "FL",
+        "postalCode": "33180-1206"
+      },
+      {
+        "line": [
+          "232 W 25TH ST"
+        ],
+        "city": "ERIE",
+        "state": "PA",
+        "postalCode": "16544-0002"
       },
       {
         "line": [
@@ -65,36 +84,11 @@
       },
       {
         "line": [
-          "535 5TH AVE FL 5"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10017-3620"
-      },
-      {
-        "line": [
-          "515 6TH STREET"
+          "506 6TH ST"
         ],
         "city": "BROOKLYN",
         "state": "NY",
         "postalCode": "11215-3609"
-      },
-      {
-        "line": [
-          "127 SOUTH BROADWAY"
-        ],
-        "city": "YONKERS",
-        "state": "NY",
-        "postalCode": "10701-4006"
-      },
-      {
-        "line": [
-          "21097 NE 27TH COURT",
-          "330"
-        ],
-        "city": "MIAMI",
-        "state": "FL",
-        "postalCode": "33180-1206"
       },
       {
         "line": [
@@ -107,15 +101,7 @@
       },
       {
         "line": [
-          "232 W 25TH ST"
-        ],
-        "city": "ERIE",
-        "state": "PA",
-        "postalCode": "16544-0002"
-      },
-      {
-        "line": [
-          "12 SOUTH BROADWAY"
+          "127 SOUTH BROADWAY"
         ],
         "city": "YONKERS",
         "state": "NY",
@@ -123,11 +109,11 @@
       },
       {
         "line": [
-          "506 6th ave"
+          "535 5TH AVE FL 5"
         ],
-        "city": "BROOKLYN",
+        "city": "NEW YORK",
         "state": "NY",
-        "postalCode": "11215-0121"
+        "postalCode": "10017-3620"
       },
       {
         "line": [
@@ -139,21 +125,35 @@
       },
       {
         "line": [
-          "350 ENGLE ST",
-          "MAIN FLOOR"
+          "30 PROSPECT AVE"
         ],
-        "city": "ENGLEWOOD",
+        "city": "HACKENSACK",
         "state": "NJ",
-        "postalCode": "07631-1808"
+        "postalCode": "07601-1915"
       },
       {
         "line": [
-          "501 east 79th st",
-          "suite 15e"
+          "515 6TH STREET"
         ],
-        "city": "NEW YORK",
+        "city": "BROOKLYN",
         "state": "NY",
-        "postalCode": "10075-0735"
+        "postalCode": "11215-3609"
+      },
+      {
+        "line": [
+          "20900 biscayne blvd"
+        ],
+        "city": "AVENTURA",
+        "state": "FL",
+        "postalCode": "33180-1204"
+      },
+      {
+        "line": [
+          "12 SOUTH BROADWAY"
+        ],
+        "city": "YONKERS",
+        "state": "NY",
+        "postalCode": "10701-4006"
       }
     ],
     "extension": [

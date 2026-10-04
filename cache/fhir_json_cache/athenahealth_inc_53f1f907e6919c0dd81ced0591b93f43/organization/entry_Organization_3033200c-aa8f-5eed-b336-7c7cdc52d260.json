@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649228966"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1013031368"
       },
       {
@@ -22,22 +26,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649228966"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932402484"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2010 ATHERHOLT RD"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24501-1106"
-      },
       {
         "line": [
           "1901 TATE SPRINGS ROAD"
@@ -48,8 +40,15 @@
       },
       {
         "line": [
-          "OAK VASSAR MEDICAL BLDG",
-          "1330 OAK LANE SUITE 100"
+          "2010 ATHERHOLT RD"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24501-1106"
+      },
+      {
+        "line": [
+          "3300 RIVERMONT AVENUE"
         ],
         "city": "LYNCHBURG",
         "state": "VA",
@@ -57,7 +56,17 @@
       },
       {
         "line": [
-          "3300 RIVERMONT AVENUE"
+          "OAK VASSAR MEDICAL BLDG",
+          "1330 OAKE LANE SUITE 100"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24503-2513"
+      },
+      {
+        "line": [
+          "OAK VASSAR MEDICAL BLDG",
+          "1330 OAK LANE SUITE 100"
         ],
         "city": "LYNCHBURG",
         "state": "VA",
@@ -78,15 +87,6 @@
         "city": "LYNCHBURG",
         "state": "VA",
         "postalCode": "24503-2030"
-      },
-      {
-        "line": [
-          "OAK VASSAR MEDICAL BLDG",
-          "1330 OAKE LANE SUITE 100"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24503-2513"
       }
     ],
     "extension": [

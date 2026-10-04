@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588132062"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1154965093"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1871095190"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588132062"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,20 +32,20 @@
     "address": [
       {
         "line": [
-          "14837 PEYTON DR"
-        ],
-        "city": "CHINO HILLS",
-        "state": "CA",
-        "postalCode": "91709-2075"
-      },
-      {
-        "line": [
           "3633 CAMINO DEL RIO S",
           "STE H"
         ],
         "city": "SAN DIEGO",
         "state": "CA",
         "postalCode": "92108-4011"
+      },
+      {
+        "line": [
+          "8945 MAGNOLIA AVE STE 200"
+        ],
+        "city": "RIVERSIDE",
+        "state": "CA",
+        "postalCode": "92503-4436"
       },
       {
         "line": [
@@ -66,19 +66,12 @@
       },
       {
         "line": [
-          "8945 MAGNOLIA AVE STE 200"
+          "8945 MAGNOLIA AVE STE 200",
+          "STE 200"
         ],
         "city": "RIVERSIDE",
         "state": "CA",
         "postalCode": "92503-4436"
-      },
-      {
-        "line": [
-          "14837 Peyton Dr"
-        ],
-        "city": "CHINO HILLS",
-        "state": "CA",
-        "postalCode": "91709-0001"
       },
       {
         "line": [
@@ -90,12 +83,19 @@
       },
       {
         "line": [
-          "8945 MAGNOLIA AVE STE 200",
-          "STE 200"
+          "14837 PEYTON DR"
         ],
-        "city": "RIVERSIDE",
+        "city": "CHINO HILLS",
         "state": "CA",
-        "postalCode": "92503-4436"
+        "postalCode": "91709-2075"
+      },
+      {
+        "line": [
+          "14837 Peyton Dr"
+        ],
+        "city": "CHINO HILLS",
+        "state": "CA",
+        "postalCode": "91709-0001"
       }
     ],
     "extension": [

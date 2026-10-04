@@ -14,38 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326015470"
+        "value": "1760007330"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760007330"
+        "value": "1326015470"
       }
     ],
     "address": [
-      {
-        "line": [
-          "8700 Beverly Boulevard"
-        ],
-        "city": "LOS ANGELES",
-        "state": "CA",
-        "postalCode": "90048-1804"
-      },
-      {
-        "line": [
-          "3851 Katella Ave #150"
-        ],
-        "city": "LOS ALAMITOS",
-        "state": "CA",
-        "postalCode": "90720-4931"
-      },
-      {
-        "line": [
-          "351 hospital road suite 110"
-        ],
-        "city": "NEWPORT BEACH",
-        "state": "CA",
-        "postalCode": "92663-3509"
-      },
       {
         "line": [
           "18111 BROOKHURST ST STE 3200"
@@ -56,11 +32,11 @@
       },
       {
         "line": [
-          "1661 Golden Rain Road"
+          "8700 Beverly Boulevard"
         ],
-        "city": "SEAL BEACH",
+        "city": "LOS ANGELES",
         "state": "CA",
-        "postalCode": "90740-4907"
+        "postalCode": "90048-1804"
       },
       {
         "line": [
@@ -76,7 +52,31 @@
         ],
         "city": "NEWPORT BEACH",
         "state": "CA",
+        "postalCode": "92663-3509"
+      },
+      {
+        "line": [
+          "351 hospital road suite 110"
+        ],
+        "city": "NEWPORT BEACH",
+        "state": "CA",
         "postalCode": "92663-3503"
+      },
+      {
+        "line": [
+          "1661 Golden Rain Road"
+        ],
+        "city": "SEAL BEACH",
+        "state": "CA",
+        "postalCode": "90740-4907"
+      },
+      {
+        "line": [
+          "3851 Katella Ave #150"
+        ],
+        "city": "LOS ALAMITOS",
+        "state": "CA",
+        "postalCode": "90720-4931"
       }
     ],
     "extension": [

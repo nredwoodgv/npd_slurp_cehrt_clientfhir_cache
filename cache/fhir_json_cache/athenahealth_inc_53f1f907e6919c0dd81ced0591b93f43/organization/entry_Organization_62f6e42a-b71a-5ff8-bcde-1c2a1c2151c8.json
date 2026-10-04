@@ -14,21 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366644551"
+        "value": "1346284684"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346284684"
+        "value": "1366644551"
       }
     ],
     "address": [
       {
         "line": [
-          "44405 Woodward"
+          "44555 Woodward Ave",
+          "Suite 305"
         ],
         "city": "PONTIAC",
         "state": "MI",
-        "postalCode": "48341-5023"
+        "postalCode": "48341-5031"
       },
       {
         "line": [
@@ -41,12 +42,11 @@
       },
       {
         "line": [
-          "44555 Woodward Ave",
-          "Suite 305"
+          "44405 Woodward"
         ],
         "city": "PONTIAC",
         "state": "MI",
-        "postalCode": "48341-5031"
+        "postalCode": "48341-5023"
       }
     ],
     "extension": [

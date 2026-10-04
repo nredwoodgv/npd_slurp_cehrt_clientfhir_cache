@@ -14,26 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952298812"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1467347278"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1457201956"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952298812"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1497678437"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2300 PATTERSON ST"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37203-1538"
-      },
       {
         "line": [
           "11201 SHAKER BLVD",
@@ -45,11 +41,36 @@
       },
       {
         "line": [
-          "11201 Shaker Blvd"
+          "1559 SPARTA ST"
         ],
-        "city": "CLEVELAND",
-        "state": "OH",
-        "postalCode": "44104-3869"
+        "city": "MCMINNVILLE",
+        "state": "TN",
+        "postalCode": "37110-1316"
+      },
+      {
+        "line": [
+          "1900 Patterson St",
+          "Suite 105"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37203-2119"
+      },
+      {
+        "line": [
+          "4220 HARDING RD"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37205-2005"
+      },
+      {
+        "line": [
+          "2300 PATTERSON ST"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37203-1538"
       },
       {
         "line": [
@@ -79,19 +100,11 @@
       },
       {
         "line": [
-          "1559 SPARTA ST"
+          "6700 PEARL RD"
         ],
-        "city": "MCMINNVILLE",
-        "state": "TN",
-        "postalCode": "37110-1316"
-      },
-      {
-        "line": [
-          "4220 HARDING RD"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37205-2005"
+        "city": "CLEVELAND",
+        "state": "OH",
+        "postalCode": "44130-3828"
       },
       {
         "line": [
@@ -103,20 +116,20 @@
       },
       {
         "line": [
-          "1900 Patterson St",
-          "Suite 105"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37203-2119"
-      },
-      {
-        "line": [
-          "6700 PEARL RD"
+          "11201 Shaker Blvd"
         ],
         "city": "CLEVELAND",
         "state": "OH",
-        "postalCode": "44130-3828"
+        "postalCode": "44104-3869"
+      },
+      {
+        "line": [
+          "3540 Maitland Dr",
+          "Suite 102"
+        ],
+        "city": "RALEIGH",
+        "state": "NC",
+        "postalCode": "27610-1230"
       }
     ],
     "extension": [

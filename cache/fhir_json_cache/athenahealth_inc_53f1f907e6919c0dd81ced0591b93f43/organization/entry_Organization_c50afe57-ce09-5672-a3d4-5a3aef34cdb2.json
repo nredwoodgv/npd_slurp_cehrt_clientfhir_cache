@@ -18,14 +18,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548739170"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588226328"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396201000"
       },
       {
@@ -34,87 +26,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588226328"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1073175956"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548739170"
       }
     ],
     "address": [
-      {
-        "line": [
-          "406 West Main St",
-          "Suite 100"
-        ],
-        "city": "ABINGDON",
-        "state": "VA",
-        "postalCode": "24210-2608"
-      },
-      {
-        "line": [
-          "4003 Steelsburg Hwy"
-        ],
-        "city": "CEDAR BLUFF",
-        "state": "VA",
-        "postalCode": "24609-7019"
-      },
-      {
-        "line": [
-          "4001 Prince William Parkway",
-          "Suite 300"
-        ],
-        "city": "WOODBRIDGE",
-        "state": "VA",
-        "postalCode": "22192-7667"
-      },
-      {
-        "line": [
-          "1245 E MAIN ST"
-        ],
-        "city": "LEBANON",
-        "state": "VA",
-        "postalCode": "24266-5016"
-      },
-      {
-        "line": [
-          "310 Cloverleaf Square",
-          "Ste. B2"
-        ],
-        "city": "BIG STONE GAP",
-        "state": "VA",
-        "postalCode": "24219-3074"
-      },
-      {
-        "line": [
-          "373 CECIL D QUILLEN DR STE 103"
-        ],
-        "city": "DUFFIELD",
-        "state": "VA",
-        "postalCode": "24244-4085"
-      },
-      {
-        "line": [
-          "12 Dallaire Ave"
-        ],
-        "city": "CHICOPEE",
-        "state": "MA",
-        "postalCode": "01020-1237"
-      },
-      {
-        "line": [
-          "40 Lambert Street",
-          "Suite 212"
-        ],
-        "city": "STAUNTON",
-        "state": "VA",
-        "postalCode": "24401-2446"
-      },
-      {
-        "line": [
-          "6330 Five Mile Centre Park",
-          "Ste. 400"
-        ],
-        "city": "FREDERICKSBURG",
-        "state": "VA",
-        "postalCode": "22407-5516"
-      },
       {
         "line": [
           "2609 Sheffield Dr."
@@ -133,11 +56,20 @@
       },
       {
         "line": [
-          "5554 Redbud Highway"
+          "40 Lambert Street",
+          "Suite 212"
         ],
-        "city": "HONAKER",
+        "city": "STAUNTON",
         "state": "VA",
-        "postalCode": "24260-7409"
+        "postalCode": "24401-2446"
+      },
+      {
+        "line": [
+          "4003 Steelsburg Hwy"
+        ],
+        "city": "CEDAR BLUFF",
+        "state": "VA",
+        "postalCode": "24609-7019"
       },
       {
         "line": [
@@ -146,6 +78,65 @@
         "city": "CLINTWOOD",
         "state": "VA",
         "postalCode": "24228-6845"
+      },
+      {
+        "line": [
+          "1245 E MAIN ST"
+        ],
+        "city": "LEBANON",
+        "state": "VA",
+        "postalCode": "24266-5016"
+      },
+      {
+        "line": [
+          "6330 Five Mile Centre Park",
+          "Ste. 400"
+        ],
+        "city": "FREDERICKSBURG",
+        "state": "VA",
+        "postalCode": "22407-5516"
+      },
+      {
+        "line": [
+          "12 Dallaire Ave"
+        ],
+        "city": "CHICOPEE",
+        "state": "MA",
+        "postalCode": "01020-1237"
+      },
+      {
+        "line": [
+          "406 West Main St",
+          "Suite 100"
+        ],
+        "city": "ABINGDON",
+        "state": "VA",
+        "postalCode": "24210-2608"
+      },
+      {
+        "line": [
+          "4001 Prince William Parkway",
+          "Suite 300"
+        ],
+        "city": "WOODBRIDGE",
+        "state": "VA",
+        "postalCode": "22192-7667"
+      },
+      {
+        "line": [
+          "5554 Redbud Highway"
+        ],
+        "city": "HONAKER",
+        "state": "VA",
+        "postalCode": "24260-7409"
+      },
+      {
+        "line": [
+          "373 CECIL D QUILLEN DR STE 103"
+        ],
+        "city": "DUFFIELD",
+        "state": "VA",
+        "postalCode": "24244-4085"
       },
       {
         "line": [
@@ -162,6 +153,15 @@
         "city": "WINCHESTER",
         "state": "VA",
         "postalCode": "22601-4140"
+      },
+      {
+        "line": [
+          "310 Cloverleaf Square",
+          "Ste. B2"
+        ],
+        "city": "BIG STONE GAP",
+        "state": "VA",
+        "postalCode": "24219-3074"
       }
     ],
     "extension": [

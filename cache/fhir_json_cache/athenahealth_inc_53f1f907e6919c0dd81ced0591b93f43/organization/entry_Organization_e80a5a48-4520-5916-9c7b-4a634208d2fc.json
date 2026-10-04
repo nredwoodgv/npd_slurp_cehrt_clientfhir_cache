@@ -14,27 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215999511"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,15 +22,35 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1881656247"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124080320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750302923"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215348487"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730484031"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669801585"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053373951"
       }
     ],
     "address": [
@@ -64,19 +64,11 @@
       },
       {
         "line": [
-          "1514 INDIAN CREEK DR"
+          "2410 SONG BIRD CIR"
         ],
         "city": "BROWNWOOD",
         "state": "TX",
-        "postalCode": "76801-6536"
-      },
-      {
-        "line": [
-          "200 COUNTY ROAD 616"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76802-3294"
+        "postalCode": "76801-8413"
       },
       {
         "line": [
@@ -96,6 +88,14 @@
       },
       {
         "line": [
+          "2501 Morris Sheppard Dr"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-5919"
+      },
+      {
+        "line": [
           "2400 W BROWN ST"
         ],
         "city": "SAN SABA",
@@ -104,11 +104,19 @@
       },
       {
         "line": [
-          "2501 Morris Sheppard Dr"
+          "1514 INDIAN CREEK DR"
         ],
         "city": "BROWNWOOD",
         "state": "TX",
-        "postalCode": "76801-5919"
+        "postalCode": "76801-6536"
+      },
+      {
+        "line": [
+          "1105 FITZGERALD ST"
+        ],
+        "city": "BANGS",
+        "state": "TX",
+        "postalCode": "76823-3232"
       },
       {
         "line": [
@@ -128,19 +136,11 @@
       },
       {
         "line": [
-          "1105 FITZGERALD ST"
-        ],
-        "city": "BANGS",
-        "state": "TX",
-        "postalCode": "76823-3232"
-      },
-      {
-        "line": [
-          "2410 SONG BIRD CIR"
+          "200 COUNTY ROAD 616"
         ],
         "city": "BROWNWOOD",
         "state": "TX",
-        "postalCode": "76801-8413"
+        "postalCode": "76802-3294"
       }
     ],
     "extension": [
