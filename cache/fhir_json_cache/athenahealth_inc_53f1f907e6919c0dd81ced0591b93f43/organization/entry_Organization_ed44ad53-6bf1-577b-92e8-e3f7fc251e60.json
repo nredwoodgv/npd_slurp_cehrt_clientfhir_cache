@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992752224"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1780638478"
       },
       {
@@ -27,25 +23,13 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1528782042"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992752224"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1025 S 6th St"
-        ],
-        "city": "Springfield",
-        "state": "IL",
-        "postalCode": "62703-2403"
-      },
-      {
-        "line": [
-          "1025 S 6th St"
-        ],
-        "city": "SPRINGFIELD",
-        "state": "IL",
-        "postalCode": "62703-2403"
-      },
       {
         "line": [
           "1025 S 6TH ST"
@@ -56,11 +40,12 @@
       },
       {
         "line": [
-          "1250 E Tremont St"
+          "1025 S 6th St",
+          "East Building, 2nd Floor"
         ],
-        "city": "HILLSBORO",
+        "city": "SPRINGFIELD",
         "state": "IL",
-        "postalCode": "62049-1912"
+        "postalCode": "62703-2403"
       },
       {
         "line": [
@@ -73,19 +58,11 @@
       },
       {
         "line": [
-          "206 N Pearl St"
+          "7309 N Knoxville Ave"
         ],
-        "city": "Teutopolis",
+        "city": "PEORIA",
         "state": "IL",
-        "postalCode": "62467-1134"
-      },
-      {
-        "line": [
-          "1280 E Tremont St"
-        ],
-        "city": "HILLSBORO",
-        "state": "IL",
-        "postalCode": "62049-1912"
+        "postalCode": "61614-2079"
       },
       {
         "line": [
@@ -97,19 +74,43 @@
       },
       {
         "line": [
-          "600 N Main St"
+          "1250 E Tremont St"
         ],
-        "city": "Taylorville",
+        "city": "HILLSBORO",
         "state": "IL",
-        "postalCode": "62568-1668"
+        "postalCode": "62049-1912"
       },
       {
         "line": [
-          "1225 Woodland dr"
+          "1025 S 6th St"
         ],
-        "city": "MT ZION",
+        "city": "SPRINGFIELD",
         "state": "IL",
-        "postalCode": "62549-1237"
+        "postalCode": "62703-2403"
+      },
+      {
+        "line": [
+          "1025 S 6th St"
+        ],
+        "city": "Springfield",
+        "state": "IL",
+        "postalCode": "62703-2403"
+      },
+      {
+        "line": [
+          "1280 E Tremont St"
+        ],
+        "city": "HILLSBORO",
+        "state": "IL",
+        "postalCode": "62049-1912"
+      },
+      {
+        "line": [
+          "501 N Main St"
+        ],
+        "city": "Flora",
+        "state": "IL",
+        "postalCode": "62839-1405"
       },
       {
         "line": [
@@ -137,37 +138,36 @@
       },
       {
         "line": [
+          "206 N Pearl St"
+        ],
+        "city": "Teutopolis",
+        "state": "IL",
+        "postalCode": "62467-1134"
+      },
+      {
+        "line": [
+          "600 N Main St"
+        ],
+        "city": "Taylorville",
+        "state": "IL",
+        "postalCode": "62568-1668"
+      },
+      {
+        "line": [
+          "1225 Woodland dr"
+        ],
+        "city": "MT ZION",
+        "state": "IL",
+        "postalCode": "62549-1237"
+      },
+      {
+        "line": [
           "1025 S 6th St",
           "Lower Level"
         ],
         "city": "SPRINGFIELD",
         "state": "IL",
         "postalCode": "62703-2403"
-      },
-      {
-        "line": [
-          "7309 N Knoxville Ave"
-        ],
-        "city": "PEORIA",
-        "state": "IL",
-        "postalCode": "61614-2079"
-      },
-      {
-        "line": [
-          "1025 S 6th St",
-          "East Building, 2nd Floor"
-        ],
-        "city": "SPRINGFIELD",
-        "state": "IL",
-        "postalCode": "62703-2403"
-      },
-      {
-        "line": [
-          "501 N Main St"
-        ],
-        "city": "Flora",
-        "state": "IL",
-        "postalCode": "62839-1405"
       }
     ],
     "extension": [

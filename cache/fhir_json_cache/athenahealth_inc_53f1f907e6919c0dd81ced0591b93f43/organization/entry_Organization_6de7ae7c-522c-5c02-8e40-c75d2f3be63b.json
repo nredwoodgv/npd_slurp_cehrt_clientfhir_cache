@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053777839"
+        "value": "1972216836"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972216836"
+        "value": "1053777839"
       }
     ],
     "address": [
@@ -32,12 +32,28 @@
       },
       {
         "line": [
-          "Kronos Health",
-          "360 Merrimack St. Entrance G, Ste100"
+          "89 MORTON ST"
+        ],
+        "city": "ANDOVER",
+        "state": "MA",
+        "postalCode": "01810-2036"
+      },
+      {
+        "line": [
+          "360 MERRIMACK ST",
+          "Bldg 9"
         ],
         "city": "LAWRENCE",
         "state": "MA",
-        "postalCode": "01843-1740"
+        "postalCode": "01843-1764"
+      },
+      {
+        "line": [
+          "1275 TURNPIKE ST"
+        ],
+        "city": "NORTH ANDOVER",
+        "state": "MA",
+        "postalCode": "01845-6141"
       },
       {
         "line": [
@@ -66,43 +82,11 @@
       },
       {
         "line": [
-          "2000 EMERALD CT"
+          "254 LOWELL ST"
         ],
-        "city": "TEWKSBURY",
+        "city": "ANDOVER",
         "state": "MA",
-        "postalCode": "01876-5220"
-      },
-      {
-        "line": [
-          "1801 TURNPIKE ST"
-        ],
-        "city": "NORTH ANDOVER",
-        "state": "MA",
-        "postalCode": "01845-6322"
-      },
-      {
-        "line": [
-          "189 MAPLE ST"
-        ],
-        "city": "LAWRENCE",
-        "state": "MA",
-        "postalCode": "01841-3761"
-      },
-      {
-        "line": [
-          "175 BERKELEY ST"
-        ],
-        "city": "METHUEN",
-        "state": "MA",
-        "postalCode": "01844-4998"
-      },
-      {
-        "line": [
-          "480 JACKSON ST"
-        ],
-        "city": "METHUEN",
-        "state": "MA",
-        "postalCode": "01844-4020"
+        "postalCode": "01810-4600"
       },
       {
         "line": [
@@ -114,27 +98,11 @@
       },
       {
         "line": [
-          "360 MERRIMACK ST STE 100"
+          "480 JACKSON ST"
         ],
-        "city": "LAWRENCE",
+        "city": "METHUEN",
         "state": "MA",
-        "postalCode": "01843-1740"
-      },
-      {
-        "line": [
-          "1275 TURNPIKE ST"
-        ],
-        "city": "NORTH ANDOVER",
-        "state": "MA",
-        "postalCode": "01845-6141"
-      },
-      {
-        "line": [
-          "89 MORTON ST"
-        ],
-        "city": "ANDOVER",
-        "state": "MA",
-        "postalCode": "01810-2036"
+        "postalCode": "01844-4020"
       },
       {
         "line": [
@@ -146,20 +114,11 @@
       },
       {
         "line": [
-          "141 ELM ST"
+          "1801 TURNPIKE ST"
         ],
-        "city": "ANDOVER",
+        "city": "NORTH ANDOVER",
         "state": "MA",
-        "postalCode": "01810-1600"
-      },
-      {
-        "line": [
-          "360 MERRIMACK ST",
-          "Bldg 9"
-        ],
-        "city": "LAWRENCE",
-        "state": "MA",
-        "postalCode": "01843-1764"
+        "postalCode": "01845-6322"
       },
       {
         "line": [
@@ -171,6 +130,22 @@
       },
       {
         "line": [
+          "360 MERRIMACK ST STE 100"
+        ],
+        "city": "LAWRENCE",
+        "state": "MA",
+        "postalCode": "01843-1740"
+      },
+      {
+        "line": [
+          "189 MAPLE ST"
+        ],
+        "city": "LAWRENCE",
+        "state": "MA",
+        "postalCode": "01841-3761"
+      },
+      {
+        "line": [
           "777 WINCHESTER ST"
         ],
         "city": "NEWTON CENTER",
@@ -179,16 +154,41 @@
       },
       {
         "line": [
-          "254 LOWELL ST"
+          "360 MERRIMACK ST",
+          "BLDG 9 ENTRANCE G SUITE 100"
         ],
-        "city": "ANDOVER",
+        "city": "LAWRENCE",
         "state": "MA",
-        "postalCode": "01810-4600"
+        "postalCode": "01843-1740"
       },
       {
         "line": [
-          "360 MERRIMACK ST",
-          "BLDG 9 ENTRANCE G SUITE 100"
+          "2000 EMERALD CT"
+        ],
+        "city": "TEWKSBURY",
+        "state": "MA",
+        "postalCode": "01876-5220"
+      },
+      {
+        "line": [
+          "175 BERKELEY ST"
+        ],
+        "city": "METHUEN",
+        "state": "MA",
+        "postalCode": "01844-4998"
+      },
+      {
+        "line": [
+          "141 ELM ST"
+        ],
+        "city": "ANDOVER",
+        "state": "MA",
+        "postalCode": "01810-1600"
+      },
+      {
+        "line": [
+          "Kronos Health",
+          "360 Merrimack St. Entrance G, Ste100"
         ],
         "city": "LAWRENCE",
         "state": "MA",

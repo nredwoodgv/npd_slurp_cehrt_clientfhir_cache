@@ -14,33 +14,33 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437536521"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1619517521"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1013312594"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437536521"
       }
     ],
     "address": [
       {
         "line": [
-          "131 N EL MOLINO AVE STE 180"
+          "674 COUNTY SQUARE DR STE 105"
         ],
-        "city": "PASADENA",
+        "city": "VENTURA",
         "state": "CA",
-        "postalCode": "91101-5601"
+        "postalCode": "93003-9014"
       },
       {
         "line": [
-          "9003 RESEDA BLVD STE 110"
+          "400 CAMARILLO RANCH RD STE 101"
         ],
-        "city": "NORTHRIDGE",
+        "city": "CAMARILLO",
         "state": "CA",
-        "postalCode": "91324-3920"
+        "postalCode": "93012-5901"
       },
       {
         "line": [
@@ -53,20 +53,11 @@
       },
       {
         "line": [
-          "9235 KATY FWY",
-          "STE 330"
+          "131 N EL MOLINO AVE STE 180"
         ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77024-1533"
-      },
-      {
-        "line": [
-          "674 COUNTY SQUARE DR STE 105"
-        ],
-        "city": "VENTURA",
+        "city": "PASADENA",
         "state": "CA",
-        "postalCode": "93003-9014"
+        "postalCode": "91101-5601"
       },
       {
         "line": [
@@ -78,19 +69,28 @@
       },
       {
         "line": [
+          "9235 KATY FWY",
+          "STE 330"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77024-1533"
+      },
+      {
+        "line": [
+          "9003 RESEDA BLVD STE 110"
+        ],
+        "city": "NORTHRIDGE",
+        "state": "CA",
+        "postalCode": "91324-3920"
+      },
+      {
+        "line": [
           "2975 SYCAMORE DR"
         ],
         "city": "SIMI VALLEY",
         "state": "CA",
         "postalCode": "93065-1201"
-      },
-      {
-        "line": [
-          "400 CAMARILLO RANCH RD STE 101"
-        ],
-        "city": "CAMARILLO",
-        "state": "CA",
-        "postalCode": "93012-5901"
       },
       {
         "line": [

@@ -14,18 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1891933560"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1407094436"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1659316008"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891933560"
       }
     ],
     "address": [
+      {
+        "line": [
+          "806 South Ponderosa Street"
+        ],
+        "city": "PAYSON",
+        "state": "AZ",
+        "postalCode": "85541-5541"
+      },
       {
         "line": [
           "1501 North Gilbert Road",
@@ -51,14 +59,6 @@
         "city": "CHANDLER",
         "state": "AZ",
         "postalCode": "85224-5603"
-      },
-      {
-        "line": [
-          "806 South Ponderosa Street"
-        ],
-        "city": "PAYSON",
-        "state": "AZ",
-        "postalCode": "85541-5541"
       }
     ],
     "extension": [

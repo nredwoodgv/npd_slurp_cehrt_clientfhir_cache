@@ -14,21 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801801550"
+        "value": "1538492046"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538492046"
+        "value": "1801801550"
       }
     ],
     "address": [
       {
         "line": [
-          "1802 59th St West"
+          "4112 20th Street West"
         ],
         "city": "BRADENTON",
         "state": "FL",
-        "postalCode": "34209-3142"
+        "postalCode": "34205-5001"
+      },
+      {
+        "line": [
+          "8636 East State Road 70"
+        ],
+        "city": "BRADENTON",
+        "state": "FL",
+        "postalCode": "34202-3785"
       },
       {
         "line": [
@@ -48,27 +56,12 @@
       },
       {
         "line": [
-          "4112 20th Street West"
+          "714 MANATEE AVE EAST",
+          "SUITE B"
         ],
         "city": "BRADENTON",
         "state": "FL",
-        "postalCode": "34205-5001"
-      },
-      {
-        "line": [
-          "5460 63rd St East"
-        ],
-        "city": "BRADENTON",
-        "state": "FL",
-        "postalCode": "34203-7808"
-      },
-      {
-        "line": [
-          "100 3rd Ave West"
-        ],
-        "city": "BRADENTON",
-        "state": "FL",
-        "postalCode": "34205-8638"
+        "postalCode": "34208-1235"
       },
       {
         "line": [
@@ -80,20 +73,27 @@
       },
       {
         "line": [
-          "8636 East State Road 70"
+          "100 3rd Ave West"
         ],
         "city": "BRADENTON",
         "state": "FL",
-        "postalCode": "34202-3785"
+        "postalCode": "34205-8638"
       },
       {
         "line": [
-          "714 MANATEE AVE EAST",
-          "SUITE B"
+          "1802 59th St West"
         ],
         "city": "BRADENTON",
         "state": "FL",
-        "postalCode": "34208-1235"
+        "postalCode": "34209-3142"
+      },
+      {
+        "line": [
+          "5460 63rd St East"
+        ],
+        "city": "BRADENTON",
+        "state": "FL",
+        "postalCode": "34203-7808"
       }
     ],
     "extension": [

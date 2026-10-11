@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114344280"
+        "value": "1861418220"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,68 +26,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861418220"
+        "value": "1316315740"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316315740"
+        "value": "1114344280"
       }
     ],
     "address": [
-      {
-        "line": [
-          "8100 Sandpiper Circle",
-          "Suite 214"
-        ],
-        "city": "NOTTINGHAM",
-        "state": "MD",
-        "postalCode": "21236-4999"
-      },
-      {
-        "line": [
-          "10905 Fort Washington Rd",
-          "Suite 405"
-        ],
-        "city": "FORT WASHINGTON",
-        "state": "MD",
-        "postalCode": "20744-5807"
-      },
-      {
-        "line": [
-          "1576 Merritt Blvd",
-          "Suite 18"
-        ],
-        "city": "DUNDALK",
-        "state": "MD",
-        "postalCode": "21222-2132"
-      },
-      {
-        "line": [
-          "23000 Moakley Street",
-          "Suite 206"
-        ],
-        "city": "LEONARDTOWN",
-        "state": "MD",
-        "postalCode": "20650-2917"
-      },
-      {
-        "line": [
-          "810 Bestgate Rd",
-          "Suite 220"
-        ],
-        "city": "ANNAPOLIS",
-        "state": "MD",
-        "postalCode": "21401-3033"
-      },
-      {
-        "line": [
-          "120 Sallitt Drive",
-          "Suite D"
-        ],
-        "city": "STEVENSVILLE",
-        "state": "MD",
-        "postalCode": "21666-2154"
-      },
       {
         "line": [
           "160 Sallitt Drive",
@@ -96,77 +42,6 @@
         "city": "STEVENSVILLE",
         "state": "MD",
         "postalCode": "21666-2285"
-      },
-      {
-        "line": [
-          "4175 N Hanson Ct",
-          "Suite 202"
-        ],
-        "city": "BOWIE",
-        "state": "MD",
-        "postalCode": "20716-3182"
-      },
-      {
-        "line": [
-          "2960 Technology Place",
-          "Suite 103"
-        ],
-        "city": "WALDORF",
-        "state": "MD",
-        "postalCode": "20601-4968"
-      },
-      {
-        "line": [
-          "1673 S State Street"
-        ],
-        "city": "DOVER",
-        "state": "DE",
-        "postalCode": "19901-5148"
-      },
-      {
-        "line": [
-          "826 Washington Rd",
-          "Ste 131"
-        ],
-        "city": "WESTMINSTER",
-        "state": "MD",
-        "postalCode": "21157-5750"
-      },
-      {
-        "line": [
-          "826 Washington Rd",
-          "Suite 210"
-        ],
-        "city": "WESTMINSTER",
-        "state": "MD",
-        "postalCode": "21157-5780"
-      },
-      {
-        "line": [
-          "6602 Church Hill Rd",
-          "Suite 550"
-        ],
-        "city": "CHESTERTOWN",
-        "state": "MD",
-        "postalCode": "21620-2323"
-      },
-      {
-        "line": [
-          "19851 Observation Dr",
-          "Suite 360"
-        ],
-        "city": "GERMANTOWN",
-        "state": "MD",
-        "postalCode": "20876-4070"
-      },
-      {
-        "line": [
-          "7671 Quarterfield Rd.",
-          "Suite 301"
-        ],
-        "city": "GLEN BURNIE",
-        "state": "MD",
-        "postalCode": "21061-4525"
       },
       {
         "line": [
@@ -179,19 +54,38 @@
       },
       {
         "line": [
-          "8367 Cherry Lane"
+          "6602 Church Hill Rd",
+          "Suite 550"
         ],
-        "city": "LAUREL",
+        "city": "CHESTERTOWN",
         "state": "MD",
-        "postalCode": "20707-4831"
+        "postalCode": "21620-2323"
       },
       {
         "line": [
-          "598 Cynwood Dr #105"
+          "1673 S State Street"
         ],
-        "city": "EASTON",
+        "city": "DOVER",
+        "state": "DE",
+        "postalCode": "19901-5148"
+      },
+      {
+        "line": [
+          "1576 Merritt Blvd",
+          "Suite 18"
+        ],
+        "city": "DUNDALK",
         "state": "MD",
-        "postalCode": "21601-4302"
+        "postalCode": "21222-2132"
+      },
+      {
+        "line": [
+          "120 Sallitt Drive",
+          "Suite D"
+        ],
+        "city": "STEVENSVILLE",
+        "state": "MD",
+        "postalCode": "21666-2154"
       },
       {
         "line": [
@@ -212,12 +106,118 @@
       },
       {
         "line": [
+          "598 Cynwood Dr #105"
+        ],
+        "city": "EASTON",
+        "state": "MD",
+        "postalCode": "21601-4302"
+      },
+      {
+        "line": [
+          "7671 Quarterfield Rd.",
+          "Suite 301"
+        ],
+        "city": "GLEN BURNIE",
+        "state": "MD",
+        "postalCode": "21061-4525"
+      },
+      {
+        "line": [
+          "8100 Sandpiper Circle",
+          "Suite 214"
+        ],
+        "city": "NOTTINGHAM",
+        "state": "MD",
+        "postalCode": "21236-4999"
+      },
+      {
+        "line": [
+          "810 Bestgate Rd",
+          "Suite 220"
+        ],
+        "city": "ANNAPOLIS",
+        "state": "MD",
+        "postalCode": "21401-3033"
+      },
+      {
+        "line": [
+          "8367 Cherry Lane"
+        ],
+        "city": "LAUREL",
+        "state": "MD",
+        "postalCode": "20707-4831"
+      },
+      {
+        "line": [
+          "826 Washington Rd",
+          "Ste 131"
+        ],
+        "city": "WESTMINSTER",
+        "state": "MD",
+        "postalCode": "21157-5750"
+      },
+      {
+        "line": [
+          "23000 Moakley Street",
+          "Suite 206"
+        ],
+        "city": "LEONARDTOWN",
+        "state": "MD",
+        "postalCode": "20650-2917"
+      },
+      {
+        "line": [
+          "4175 N Hanson Ct",
+          "Suite 202"
+        ],
+        "city": "BOWIE",
+        "state": "MD",
+        "postalCode": "20716-3182"
+      },
+      {
+        "line": [
+          "19851 Observation Dr",
+          "Suite 360"
+        ],
+        "city": "GERMANTOWN",
+        "state": "MD",
+        "postalCode": "20876-4070"
+      },
+      {
+        "line": [
+          "10905 Fort Washington Rd",
+          "Suite 405"
+        ],
+        "city": "FORT WASHINGTON",
+        "state": "MD",
+        "postalCode": "20744-5807"
+      },
+      {
+        "line": [
+          "2960 Technology Place",
+          "Suite 103"
+        ],
+        "city": "WALDORF",
+        "state": "MD",
+        "postalCode": "20601-4968"
+      },
+      {
+        "line": [
           "7671 Quarterfield Rd",
           "Suite 301"
         ],
         "city": "GLEN BURNIE",
         "state": "MD",
         "postalCode": "21061-4525"
+      },
+      {
+        "line": [
+          "826 Washington Rd",
+          "Suite 210"
+        ],
+        "city": "WESTMINSTER",
+        "state": "MD",
+        "postalCode": "21157-5780"
       }
     ],
     "extension": [

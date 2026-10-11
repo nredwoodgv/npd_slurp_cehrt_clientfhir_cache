@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629398219"
+        "value": "1821349317"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821349317"
+        "value": "1629398219"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1 PEARL STREET, SUITE 1800"
+        ],
+        "city": "BROCKTON",
+        "state": "MA",
+        "postalCode": "02301-2867"
+      },
       {
         "line": [
           "2100 DORCHESTER AVENUE"
@@ -29,14 +37,6 @@
         "city": "DORCHESTER CENTER",
         "state": "MA",
         "postalCode": "02124-5615"
-      },
-      {
-        "line": [
-          "736 CAMBRIDGE STREET"
-        ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2907"
       },
       {
         "line": [
@@ -49,11 +49,11 @@
       },
       {
         "line": [
-          "1 PEARL STREET, SUITE 1800"
+          "736 CAMBRIDGE STREET"
         ],
-        "city": "BROCKTON",
+        "city": "BRIGHTON",
         "state": "MA",
-        "postalCode": "02301-2867"
+        "postalCode": "02135-2907"
       }
     ],
     "extension": [

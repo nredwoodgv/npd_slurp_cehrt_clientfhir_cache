@@ -14,21 +14,30 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275726648"
+        "value": "1669926887"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669926887"
+        "value": "1275726648"
       }
     ],
     "address": [
       {
         "line": [
-          "1810 LINDBERG DR STE 2400"
+          "1810 LINDBERG DR",
+          "STE 2400"
         ],
         "city": "SLIDELL",
         "state": "LA",
-        "postalCode": "70458-8159"
+        "postalCode": "70458-8160"
+      },
+      {
+        "line": [
+          "1810 Lindberg Drive, Suite 1400"
+        ],
+        "city": "SLIDELL",
+        "state": "LA",
+        "postalCode": "70458-8084"
       },
       {
         "line": [
@@ -48,11 +57,11 @@
       },
       {
         "line": [
-          "1810 Lindberg Drive, Suite 1400"
+          "1810 LINDBERG DR STE 2400"
         ],
         "city": "SLIDELL",
         "state": "LA",
-        "postalCode": "70458-8084"
+        "postalCode": "70458-8159"
       },
       {
         "line": [

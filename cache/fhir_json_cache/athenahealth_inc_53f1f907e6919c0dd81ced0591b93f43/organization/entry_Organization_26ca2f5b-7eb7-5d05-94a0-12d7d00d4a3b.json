@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306484050"
+        "value": "1306124714"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,18 +34,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306124714"
+        "value": "1306484050"
       }
     ],
     "address": [
-      {
-        "line": [
-          "110 MEMORIAL HOSPITAL DR"
-        ],
-        "city": "HUNTSVILLE",
-        "state": "TX",
-        "postalCode": "77340-4940"
-      },
       {
         "line": [
           "110 Memorial Hospital Drive"
@@ -62,6 +54,14 @@
         "city": "HUNTSVILLE",
         "state": "TX",
         "postalCode": "77340-4957"
+      },
+      {
+        "line": [
+          "110 MEMORIAL HOSPITAL DR"
+        ],
+        "city": "HUNTSVILLE",
+        "state": "TX",
+        "postalCode": "77340-4940"
       }
     ],
     "extension": [

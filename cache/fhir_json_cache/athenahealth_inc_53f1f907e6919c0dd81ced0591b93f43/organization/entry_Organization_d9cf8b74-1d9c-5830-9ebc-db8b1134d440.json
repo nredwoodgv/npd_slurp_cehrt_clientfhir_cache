@@ -14,64 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245658285"
+        "value": "1639426984"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639426984"
+        "value": "1245658285"
       }
     ],
     "address": [
-      {
-        "line": [
-          "4910 MEMORIAL DR STE A"
-        ],
-        "city": "STONE MOUNTAIN",
-        "state": "GA",
-        "postalCode": "30083-4148"
-      },
-      {
-        "line": [
-          "1940 PARKER CT STE A"
-        ],
-        "city": "STONE MOUNTAIN",
-        "state": "GA",
-        "postalCode": "30087-3456"
-      },
-      {
-        "line": [
-          "3660 Market Street"
-        ],
-        "city": "CLARKSTON",
-        "state": "GA",
-        "postalCode": "30021-1246"
-      },
-      {
-        "line": [
-          "6328 OAKWOOD CIR"
-        ],
-        "city": "NORCROSS",
-        "state": "GA",
-        "postalCode": "30093-1639"
-      },
-      {
-        "line": [
-          "4025 Lawrenceville Hwy NW",
-          "SUITE A"
-        ],
-        "city": "LILBURN",
-        "state": "GA",
-        "postalCode": "30047-2878"
-      },
-      {
-        "line": [
-          "3997 Lawrenceville Hwy NW",
-          "Suite 1 &2"
-        ],
-        "city": "LILBURN",
-        "state": "GA",
-        "postalCode": "30047-2832"
-      },
       {
         "line": [
           "8095 ROSWELL RD",
@@ -80,22 +30,6 @@
         "city": "ATLANTA",
         "state": "GA",
         "postalCode": "30350-3931"
-      },
-      {
-        "line": [
-          "4355 JOHNS CREEK PKWY STE 500"
-        ],
-        "city": "SUWANEE",
-        "state": "GA",
-        "postalCode": "30024-9100"
-      },
-      {
-        "line": [
-          "4158 STONE MOUNTAIN HWY STE B"
-        ],
-        "city": "LILBURN",
-        "state": "GA",
-        "postalCode": "30047-3338"
       },
       {
         "line": [
@@ -108,6 +42,72 @@
       },
       {
         "line": [
+          "1940 PARKER CT STE A"
+        ],
+        "city": "STONE MOUNTAIN",
+        "state": "GA",
+        "postalCode": "30087-3456"
+      },
+      {
+        "line": [
+          "3997 Lawrenceville Hwy NW",
+          "Suite 1 &2"
+        ],
+        "city": "LILBURN",
+        "state": "GA",
+        "postalCode": "30047-2832"
+      },
+      {
+        "line": [
+          "4910 MEMORIAL DR STE A"
+        ],
+        "city": "STONE MOUNTAIN",
+        "state": "GA",
+        "postalCode": "30083-4148"
+      },
+      {
+        "line": [
+          "4158 STONE MOUNTAIN HWY STE B"
+        ],
+        "city": "LILBURN",
+        "state": "GA",
+        "postalCode": "30047-3338"
+      },
+      {
+        "line": [
+          "6328 OAKWOOD CIR"
+        ],
+        "city": "NORCROSS",
+        "state": "GA",
+        "postalCode": "30093-1639"
+      },
+      {
+        "line": [
+          "2256 ROCKBRIDGE ROAD SW"
+        ],
+        "city": "STONE MOUNTAIN",
+        "state": "GA",
+        "postalCode": "30086-3517"
+      },
+      {
+        "line": [
+          "4025 Lawrenceville Hwy NW",
+          "SUITE A"
+        ],
+        "city": "LILBURN",
+        "state": "GA",
+        "postalCode": "30047-2878"
+      },
+      {
+        "line": [
+          "3660 Market Street"
+        ],
+        "city": "CLARKSTON",
+        "state": "GA",
+        "postalCode": "30021-1246"
+      },
+      {
+        "line": [
           "3330 PEACHTREE CORNERS CIRCLE",
           "STE H"
         ],
@@ -117,11 +117,11 @@
       },
       {
         "line": [
-          "2256 ROCKBRIDGE ROAD SW"
+          "4355 JOHNS CREEK PKWY STE 500"
         ],
-        "city": "STONE MOUNTAIN",
+        "city": "SUWANEE",
         "state": "GA",
-        "postalCode": "30086-3517"
+        "postalCode": "30024-9100"
       }
     ],
     "extension": [

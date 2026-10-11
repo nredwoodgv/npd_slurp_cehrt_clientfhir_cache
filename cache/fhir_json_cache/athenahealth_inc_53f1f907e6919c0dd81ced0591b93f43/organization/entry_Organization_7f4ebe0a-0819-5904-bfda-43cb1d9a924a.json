@@ -14,29 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437521291"
+        "value": "1922876796"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922876796"
+        "value": "1437521291"
       }
     ],
     "address": [
       {
         "line": [
-          "2045 Centre Stone Ct Ste A"
+          "8240 118th Ave Ste 350"
         ],
-        "city": "COLUMBUS",
-        "state": "GA",
-        "postalCode": "31904-4561"
-      },
-      {
-        "line": [
-          "1501 PASADENA AVE S"
-        ],
-        "city": "SAINT PETERSBURG",
+        "city": "LARGO",
         "state": "FL",
-        "postalCode": "33707-3717"
+        "postalCode": "33773-5015"
       },
       {
         "line": [
@@ -48,11 +40,27 @@
       },
       {
         "line": [
+          "2045 Centre Stone Ct Ste A"
+        ],
+        "city": "COLUMBUS",
+        "state": "GA",
+        "postalCode": "31904-4561"
+      },
+      {
+        "line": [
           "8787 BRYAN DAIRY RD"
         ],
         "city": "SEMINOLE",
         "state": "FL",
         "postalCode": "33777-1251"
+      },
+      {
+        "line": [
+          "8240 118TH AVE STE 350"
+        ],
+        "city": "LARGO",
+        "state": "FL",
+        "postalCode": "33773-5015"
       },
       {
         "line": [
@@ -64,19 +72,11 @@
       },
       {
         "line": [
-          "8240 118th Ave Ste 350"
+          "1501 PASADENA AVE S"
         ],
-        "city": "LARGO",
+        "city": "SAINT PETERSBURG",
         "state": "FL",
-        "postalCode": "33773-5015"
-      },
-      {
-        "line": [
-          "8240 118TH AVE STE 350"
-        ],
-        "city": "LARGO",
-        "state": "FL",
-        "postalCode": "33773-5015"
+        "postalCode": "33707-3717"
       }
     ],
     "extension": [

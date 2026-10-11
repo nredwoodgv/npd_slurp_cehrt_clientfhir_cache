@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942545397"
+        "value": "1740318773"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740318773"
+        "value": "1942545397"
       }
     ],
     "address": [
-      {
-        "line": [
-          "378 SYOSSET-WOODBURY RD"
-        ],
-        "city": "SYOSSET",
-        "state": "NY",
-        "postalCode": "11791-1200"
-      },
       {
         "line": [
           "259 1ST ST"
@@ -40,11 +32,11 @@
       },
       {
         "line": [
-          "14    1ST STREET"
+          "378 SYOSSET-WOODBURY RD"
         ],
-        "city": "WESTBURY",
+        "city": "SYOSSET",
         "state": "NY",
-        "postalCode": "11590-3719"
+        "postalCode": "11791-1200"
       },
       {
         "line": [
@@ -53,6 +45,14 @@
         "city": "ROCKVILLE CENTRE",
         "state": "NY",
         "postalCode": "11571-1000"
+      },
+      {
+        "line": [
+          "14    1ST STREET"
+        ],
+        "city": "WESTBURY",
+        "state": "NY",
+        "postalCode": "11590-3719"
       }
     ],
     "extension": [

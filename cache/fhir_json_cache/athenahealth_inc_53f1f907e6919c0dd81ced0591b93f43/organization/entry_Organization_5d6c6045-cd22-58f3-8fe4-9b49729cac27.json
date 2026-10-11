@@ -14,14 +14,30 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215079678"
+        "value": "1669708467"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669708467"
+        "value": "1215079678"
       }
     ],
     "address": [
+      {
+        "line": [
+          "2450 S TELSHOR BLVD"
+        ],
+        "city": "LAS CRUCES",
+        "state": "NM",
+        "postalCode": "88011-5069"
+      },
+      {
+        "line": [
+          "905 S 8TH ST"
+        ],
+        "city": "DEMING",
+        "state": "NM",
+        "postalCode": "88030-4037"
+      },
       {
         "line": [
           "2474 INDIAN WELLS RD"
@@ -32,11 +48,11 @@
       },
       {
         "line": [
-          "2450 S TELSHOR BLVD"
+          "4441 E LOHMAN AVE"
         ],
         "city": "LAS CRUCES",
         "state": "NM",
-        "postalCode": "88011-5069"
+        "postalCode": "88011-8267"
       },
       {
         "line": [
@@ -56,22 +72,6 @@
       },
       {
         "line": [
-          "900 W ASH ST"
-        ],
-        "city": "DEMING",
-        "state": "NM",
-        "postalCode": "88030-4000"
-      },
-      {
-        "line": [
-          "4441 E LOHMAN AVE"
-        ],
-        "city": "LAS CRUCES",
-        "state": "NM",
-        "postalCode": "88011-8267"
-      },
-      {
-        "line": [
           "4351 E LOHMAN AVE"
         ],
         "city": "LAS CRUCES",
@@ -80,11 +80,11 @@
       },
       {
         "line": [
-          "905 S 8TH ST"
+          "900 W ASH ST"
         ],
         "city": "DEMING",
         "state": "NM",
-        "postalCode": "88030-4037"
+        "postalCode": "88030-4000"
       }
     ],
     "extension": [

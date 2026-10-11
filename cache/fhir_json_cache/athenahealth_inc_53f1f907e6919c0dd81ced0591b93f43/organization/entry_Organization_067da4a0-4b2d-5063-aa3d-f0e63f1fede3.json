@@ -18,27 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902065766"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467752998"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154746899"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568095065"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760841159"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821482530"
+        "value": "1447598321"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,7 +30,39 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1760841159"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831232669"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902065766"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467752998"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821482530"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1003075607"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1568095065"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154746899"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1790275576"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -59,28 +71,16 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1205336690"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831232669"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790275576"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447598321"
       }
     ],
     "address": [
       {
         "line": [
-          "200 AVENUE B NW"
+          "225 E Lincoln Ave"
         ],
-        "city": "WINTER HAVEN",
+        "city": "LAKE WALES",
         "state": "FL",
-        "postalCode": "33881-4536"
+        "postalCode": "33853-3546"
       },
       {
         "line": [
@@ -100,6 +100,14 @@
       },
       {
         "line": [
+          "325 AVENUE B NW"
+        ],
+        "city": "WINTER HAVEN",
+        "state": "FL",
+        "postalCode": "33881-4651"
+      },
+      {
+        "line": [
           "220 W Central Ave"
         ],
         "city": "WINTER HAVEN",
@@ -108,11 +116,11 @@
       },
       {
         "line": [
-          "325 AVENUE B NW"
+          "200 AVENUE B NW"
         ],
         "city": "WINTER HAVEN",
         "state": "FL",
-        "postalCode": "33881-4651"
+        "postalCode": "33881-4536"
       },
       {
         "line": [
@@ -124,27 +132,19 @@
       },
       {
         "line": [
-          "47 5th Street NW"
-        ],
-        "city": "WINTER HAVEN",
-        "state": "FL",
-        "postalCode": "33881-4672"
-      },
-      {
-        "line": [
-          "225 E Lincoln Ave"
-        ],
-        "city": "LAKE WALES",
-        "state": "FL",
-        "postalCode": "33853-3546"
-      },
-      {
-        "line": [
           "950 CR 17A West"
         ],
         "city": "AVON PARK",
         "state": "FL",
         "postalCode": "33825-2164"
+      },
+      {
+        "line": [
+          "47 5th Street NW"
+        ],
+        "city": "WINTER HAVEN",
+        "state": "FL",
+        "postalCode": "33881-4672"
       }
     ],
     "extension": [

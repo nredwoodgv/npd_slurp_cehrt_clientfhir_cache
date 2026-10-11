@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578595872"
+        "value": "1205030053"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,23 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336183052"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1740504943"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932988201"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053580365"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205030053"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -47,17 +31,25 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1710693346"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053580365"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336183052"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578595872"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1932988201"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1721 S STEPHENSON AVE"
-        ],
-        "city": "IRON MOUNTAIN",
-        "state": "MI",
-        "postalCode": "49801-3637"
-      },
       {
         "line": [
           "1711 S Stephenson Ave"
@@ -68,19 +60,27 @@
       },
       {
         "line": [
-          "1500 SANDPOINT RD"
-        ],
-        "city": "MUNISING",
-        "state": "MI",
-        "postalCode": "49862-1406"
-      },
-      {
-        "line": [
           "717 W Washington ST STE C"
         ],
         "city": "Marquette",
         "state": "MI",
         "postalCode": "49855-4100"
+      },
+      {
+        "line": [
+          "1721 S STEPHENSON AVE"
+        ],
+        "city": "IRON MOUNTAIN",
+        "state": "MI",
+        "postalCode": "49801-3637"
+      },
+      {
+        "line": [
+          "1500 SANDPOINT RD"
+        ],
+        "city": "MUNISING",
+        "state": "MI",
+        "postalCode": "49862-1406"
       }
     ],
     "extension": [

@@ -18,7 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992752224"
+        "value": "1780638478"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,10 +26,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780638478"
+        "value": "1992752224"
       }
     ],
     "address": [
+      {
+        "line": [
+          "900 N 1ST ST"
+        ],
+        "city": "SPRINGFIELD",
+        "state": "IL",
+        "postalCode": "62702-3749"
+      },
       {
         "line": [
           "900 North 1st Street",
@@ -38,14 +46,6 @@
         "city": "Springfield",
         "state": "IL",
         "postalCode": "62703-2403"
-      },
-      {
-        "line": [
-          "900 N 1ST ST"
-        ],
-        "city": "SPRINGFIELD",
-        "state": "IL",
-        "postalCode": "62702-3749"
       }
     ],
     "extension": [

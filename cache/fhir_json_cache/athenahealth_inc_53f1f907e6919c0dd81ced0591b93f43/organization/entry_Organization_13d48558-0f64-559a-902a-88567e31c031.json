@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437176203"
+        "value": "1457704850"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457704850"
+        "value": "1437176203"
       }
     ],
     "address": [
-      {
-        "line": [
-          "22010 Moross"
-        ],
-        "city": "DETROIT",
-        "state": "MI",
-        "postalCode": "48236-2160"
-      },
       {
         "line": [
           "17700 23 Mile Rd, Ste 200"
@@ -37,6 +29,14 @@
         "city": "Macomb",
         "state": "MI",
         "postalCode": "48044-1154"
+      },
+      {
+        "line": [
+          "22010 Moross"
+        ],
+        "city": "DETROIT",
+        "state": "MI",
+        "postalCode": "48236-2160"
       }
     ],
     "extension": [

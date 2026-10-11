@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386961555"
+        "value": "1255666012"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255666012"
+        "value": "1386961555"
       }
     ],
     "address": [
-      {
-        "line": [
-          "4712 Penn Ave"
-        ],
-        "city": "Sinking Spring",
-        "state": "PA",
-        "postalCode": "19608-9670"
-      },
       {
         "line": [
           "11 Fairlane Rd"
@@ -37,6 +29,14 @@
         "city": "READING",
         "state": "PA",
         "postalCode": "19606-9567"
+      },
+      {
+        "line": [
+          "4712 Penn Ave"
+        ],
+        "city": "Sinking Spring",
+        "state": "PA",
+        "postalCode": "19608-9670"
       },
       {
         "line": [

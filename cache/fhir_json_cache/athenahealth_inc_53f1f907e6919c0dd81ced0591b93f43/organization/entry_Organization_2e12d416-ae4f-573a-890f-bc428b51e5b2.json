@@ -14,14 +14,20 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285993188"
+        "value": "1508889817"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508889817"
+        "value": "1285993188"
       }
     ],
     "address": [
+      {
+        "line": [],
+        "city": "GERMANTOWN",
+        "state": "TN",
+        "postalCode": "38138-3930"
+      },
       {
         "line": [
           "2986 KATE BOND ROAD"
@@ -35,12 +41,6 @@
           "7705 POPLAR AVE",
           "310B"
         ],
-        "city": "GERMANTOWN",
-        "state": "TN",
-        "postalCode": "38138-3930"
-      },
-      {
-        "line": [],
         "city": "GERMANTOWN",
         "state": "TN",
         "postalCode": "38138-3930"

@@ -15,16 +15,20 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1558521179"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861378168"
       }
     ],
     "address": [
       {
         "line": [
-          "2300 S. Oak Grove Rd"
+          "2900 S Loop 256"
         ],
-        "city": "ENNIS",
+        "city": "PALESTINE",
         "state": "TX",
-        "postalCode": "75119-6841"
+        "postalCode": "75801-6958"
       },
       {
         "line": [
@@ -36,35 +40,11 @@
       },
       {
         "line": [
-          "2900 S Loop 256"
-        ],
-        "city": "PALESTINE",
-        "state": "TX",
-        "postalCode": "75801-6958"
-      },
-      {
-        "line": [
           "514 South Bonham Ste D"
         ],
         "city": "MEXIA",
         "state": "TX",
         "postalCode": "76667-3664"
-      },
-      {
-        "line": [
-          "30 VARIAH ST"
-        ],
-        "city": "PALESTINE",
-        "state": "TX",
-        "postalCode": "75801-4011"
-      },
-      {
-        "line": [
-          "1625 West Spring"
-        ],
-        "city": "PALESTINE",
-        "state": "TX",
-        "postalCode": "75801-7943"
       },
       {
         "line": [
@@ -76,19 +56,27 @@
       },
       {
         "line": [
-          "2265 South Sycamore"
-        ],
-        "city": "PALESTINE",
-        "state": "TX",
-        "postalCode": "75801-4774"
-      },
-      {
-        "line": [
           "4002 South Loop 256"
         ],
         "city": "PALESTINE",
         "state": "TX",
         "postalCode": "75801-2825"
+      },
+      {
+        "line": [
+          "2300 S. Oak Grove Rd"
+        ],
+        "city": "ENNIS",
+        "state": "TX",
+        "postalCode": "75119-6841"
+      },
+      {
+        "line": [
+          "2265 South Sycamore"
+        ],
+        "city": "PALESTINE",
+        "state": "TX",
+        "postalCode": "75801-4774"
       },
       {
         "line": [
@@ -100,11 +88,11 @@
       },
       {
         "line": [
-          "2212 West Reagan Street"
+          "30 VARIAH ST"
         ],
         "city": "PALESTINE",
         "state": "TX",
-        "postalCode": "75801-2222"
+        "postalCode": "75801-4011"
       },
       {
         "line": [
@@ -113,6 +101,22 @@
         "city": "PALESTINE",
         "state": "TX",
         "postalCode": "75801-6978"
+      },
+      {
+        "line": [
+          "1625 West Spring"
+        ],
+        "city": "PALESTINE",
+        "state": "TX",
+        "postalCode": "75801-7943"
+      },
+      {
+        "line": [
+          "2212 West Reagan Street"
+        ],
+        "city": "PALESTINE",
+        "state": "TX",
+        "postalCode": "75801-2222"
       }
     ],
     "extension": [

@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396068318"
+        "value": "1861765364"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,15 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396068318"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1083987978"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861765364"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457543399"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -41,12 +37,16 @@
         "value": "1255848719"
       },
       {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457543399"
+      },
+      {
         "system": "urn:oid:2.16.840.1.113883.4.7",
         "value": "19D2001635"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "19D2001637"
+        "value": "19D2001636"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
@@ -54,13 +54,37 @@
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "19D2001636"
+        "value": "19D2001637"
       }
     ],
     "address": [
       {
         "line": [
           "155 Del Orleans Ave."
+        ],
+        "city": "DENHAM SPRINGS",
+        "state": "LA",
+        "postalCode": "70726-4818"
+      },
+      {
+        "line": [
+          "6300 MAIN ST"
+        ],
+        "city": "ZACHARY",
+        "state": "LA",
+        "postalCode": "70791-4037"
+      },
+      {
+        "line": [
+          "6110 Main Street Suite D"
+        ],
+        "city": "ZACHARY",
+        "state": "LA",
+        "postalCode": "70791-4033"
+      },
+      {
+        "line": [
+          "155 Del Orleans Ave"
         ],
         "city": "DENHAM SPRINGS",
         "state": "LA",
@@ -77,27 +101,20 @@
       },
       {
         "line": [
-          "155 Del Orleans Ave"
+          "8080 BLUE BONNET BLVD.",
+          "SUITE 2121"
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70810-7830"
+      },
+      {
+        "line": [
+          "155 del ORLEANS AVE"
         ],
         "city": "DENHAM SPRINGS",
         "state": "LA",
         "postalCode": "70726-4818"
-      },
-      {
-        "line": [
-          "6110 Main Street Suite D"
-        ],
-        "city": "ZACHARY",
-        "state": "LA",
-        "postalCode": "70791-4033"
-      },
-      {
-        "line": [
-          "6300 MAIN ST"
-        ],
-        "city": "ZACHARY",
-        "state": "LA",
-        "postalCode": "70791-4037"
       },
       {
         "line": [
@@ -106,15 +123,6 @@
         "city": "BATON ROUGE",
         "state": "LA",
         "postalCode": "70808-4322"
-      },
-      {
-        "line": [
-          "8080 BLUE BONNET BLVD.",
-          "SUITE 2121"
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70810-7830"
       },
       {
         "line": [
@@ -127,11 +135,11 @@
       },
       {
         "line": [
-          "155 del ORLEANS AVE"
+          "9032 PERKINS RD"
         ],
-        "city": "DENHAM SPRINGS",
+        "city": "BATON ROUGE",
         "state": "LA",
-        "postalCode": "70726-4818"
+        "postalCode": "70810-4375"
       },
       {
         "line": [
@@ -141,14 +149,6 @@
         "city": "BATON ROUGE",
         "state": "LA",
         "postalCode": "70810-7830"
-      },
-      {
-        "line": [
-          "9032 PERKINS RD"
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70810-4375"
       }
     ],
     "extension": [

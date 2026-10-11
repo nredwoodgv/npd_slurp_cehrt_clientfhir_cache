@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598929135"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1033294673"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902043433"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,27 +26,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902043433"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1437194669"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598929135"
       }
     ],
     "address": [
-      {
-        "line": [
-          "300 20Th Ave N",
-          "9th Fl"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37203-2131"
-      },
-      {
-        "line": [
-          "300 20th Ave N, 7Th Fl"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37203-2131"
-      },
       {
         "line": [
           "300 20Th Ave N",
@@ -67,7 +50,24 @@
       {
         "line": [
           "300 20Th Ave N",
+          "9th Fl"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37203-2131"
+      },
+      {
+        "line": [
+          "300 20Th Ave N",
           "7th Fl"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37203-2131"
+      },
+      {
+        "line": [
+          "300 20th Ave N, 7Th Fl"
         ],
         "city": "NASHVILLE",
         "state": "TN",

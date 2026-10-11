@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447524392"
+        "value": "1598958431"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598958431"
+        "value": "1447524392"
       }
     ],
     "address": [
-      {
-        "line": [
-          "712 Hayter Street"
-        ],
-        "city": "NACOGDOCHES",
-        "state": "TX",
-        "postalCode": "75965-1111"
-      },
-      {
-        "line": [
-          "501 Timpson St"
-        ],
-        "city": "CHESTER",
-        "state": "TX",
-        "postalCode": "75936-3439"
-      },
       {
         "line": [
           "17580 I-45 South"
@@ -48,11 +32,19 @@
       },
       {
         "line": [
-          "1201 W Frank Ave"
+          "505 S John Reddit Dr"
         ],
         "city": "LUFKIN",
         "state": "TX",
-        "postalCode": "75904-3357"
+        "postalCode": "75904-3120"
+      },
+      {
+        "line": [
+          "712 Hayter Street"
+        ],
+        "city": "NACOGDOCHES",
+        "state": "TX",
+        "postalCode": "75965-1111"
       },
       {
         "line": [
@@ -64,7 +56,39 @@
       },
       {
         "line": [
-          "1201 W Frank"
+          "1020 North St."
+        ],
+        "city": "NACOGDOCHES",
+        "state": "TX",
+        "postalCode": "75961-4406"
+      },
+      {
+        "line": [
+          "501 Timpson St"
+        ],
+        "city": "CHESTER",
+        "state": "TX",
+        "postalCode": "75936-3439"
+      },
+      {
+        "line": [
+          "280 Moffet Drive"
+        ],
+        "city": "CENTER",
+        "state": "TX",
+        "postalCode": "75935-8520"
+      },
+      {
+        "line": [
+          "1204 North Mound St"
+        ],
+        "city": "NACOGDOCHES",
+        "state": "TX",
+        "postalCode": "75961-4027"
+      },
+      {
+        "line": [
+          "1201 W Frank Ave"
         ],
         "city": "LUFKIN",
         "state": "TX",
@@ -80,43 +104,19 @@
       },
       {
         "line": [
-          "505 S John Reddit Dr"
-        ],
-        "city": "LUFKIN",
-        "state": "TX",
-        "postalCode": "75904-3120"
-      },
-      {
-        "line": [
-          "1204 North Mound St"
-        ],
-        "city": "NACOGDOCHES",
-        "state": "TX",
-        "postalCode": "75961-4027"
-      },
-      {
-        "line": [
-          "1020 North St."
-        ],
-        "city": "NACOGDOCHES",
-        "state": "TX",
-        "postalCode": "75961-4406"
-      },
-      {
-        "line": [
-          "280 Moffet Drive"
-        ],
-        "city": "CENTER",
-        "state": "TX",
-        "postalCode": "75935-8520"
-      },
-      {
-        "line": [
           "501 Timpson St"
         ],
         "city": "CENTER",
         "state": "TX",
         "postalCode": "75935-3439"
+      },
+      {
+        "line": [
+          "1201 W Frank"
+        ],
+        "city": "LUFKIN",
+        "state": "TX",
+        "postalCode": "75904-3357"
       }
     ],
     "extension": [

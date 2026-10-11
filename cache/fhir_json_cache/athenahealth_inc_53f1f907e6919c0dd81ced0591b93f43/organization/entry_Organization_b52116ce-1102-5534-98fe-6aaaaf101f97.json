@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205257029"
+        "value": "1518361369"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518361369"
+        "value": "1235789140"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,24 +30,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235789140"
+        "value": "1205257029"
       }
     ],
     "address": [
-      {
-        "line": [
-          "101 S HARTFORD STREET"
-        ],
-        "city": "BRECKENRIDGE",
-        "state": "TX",
-        "postalCode": "76424-4711"
-      },
-      {
-        "line": [],
-        "city": "BRECKENRIDGE",
-        "state": "TX",
-        "postalCode": "76424-4711"
-      },
       {
         "line": [
           "210 E DYER ST"
@@ -58,19 +44,19 @@
       },
       {
         "line": [
-          "200 S Geneva St"
+          "210 N SMITH ST"
         ],
         "city": "BRECKENRIDGE",
         "state": "TX",
-        "postalCode": "76424-4702"
+        "postalCode": "76424-3442"
       },
       {
         "line": [
-          "200 S GENEVA ST"
+          "101 S HARTFORD STREET"
         ],
         "city": "BRECKENRIDGE",
         "state": "TX",
-        "postalCode": "76424-4702"
+        "postalCode": "76424-4711"
       },
       {
         "line": [
@@ -82,11 +68,25 @@
       },
       {
         "line": [
-          "210 N SMITH ST"
+          "200 S GENEVA ST"
         ],
         "city": "BRECKENRIDGE",
         "state": "TX",
-        "postalCode": "76424-3442"
+        "postalCode": "76424-4702"
+      },
+      {
+        "line": [],
+        "city": "BRECKENRIDGE",
+        "state": "TX",
+        "postalCode": "76424-4711"
+      },
+      {
+        "line": [
+          "200 S Geneva St"
+        ],
+        "city": "BRECKENRIDGE",
+        "state": "TX",
+        "postalCode": "76424-4702"
       }
     ],
     "extension": [

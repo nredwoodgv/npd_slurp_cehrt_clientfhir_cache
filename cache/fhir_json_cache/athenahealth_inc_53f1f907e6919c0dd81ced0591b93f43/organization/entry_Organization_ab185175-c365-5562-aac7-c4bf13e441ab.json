@@ -14,14 +14,31 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962860528"
+        "value": "1750636650"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750636650"
+        "value": "1962860528"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3810 N. Grant Avenue"
+        ],
+        "city": "LOVELAND",
+        "state": "CO",
+        "postalCode": "80538-8412"
+      },
+      {
+        "line": [
+          "7447 East Berry Ave",
+          "Unit 100"
+        ],
+        "city": "Greenwood Village",
+        "state": "CO",
+        "postalCode": "80111-2146"
+      },
       {
         "line": [
           "3810 N. GRANT AVE"
@@ -41,19 +58,12 @@
       },
       {
         "line": [
-          "3810 Grant Ave"
+          "125 Iverness Dr.",
+          "E Suite 150"
         ],
-        "city": "LOVELAND",
+        "city": "ENGLEWOOD",
         "state": "CO",
-        "postalCode": "80538-8412"
-      },
-      {
-        "line": [
-          "3810 N. Grant Avenue"
-        ],
-        "city": "LOVELAND",
-        "state": "CO",
-        "postalCode": "80538-8412"
+        "postalCode": "80112-5137"
       },
       {
         "line": [
@@ -66,15 +76,6 @@
       },
       {
         "line": [
-          "125 Iverness Dr.",
-          "E Suite 150"
-        ],
-        "city": "ENGLEWOOD",
-        "state": "CO",
-        "postalCode": "80112-5137"
-      },
-      {
-        "line": [
           "1501 S Potomac St"
         ],
         "city": "AURORA",
@@ -83,12 +84,11 @@
       },
       {
         "line": [
-          "7447 East Berry Ave",
-          "Unit 100"
+          "3810 Grant Ave"
         ],
-        "city": "Greenwood Village",
+        "city": "LOVELAND",
         "state": "CO",
-        "postalCode": "80111-2146"
+        "postalCode": "80538-8412"
       }
     ],
     "extension": [

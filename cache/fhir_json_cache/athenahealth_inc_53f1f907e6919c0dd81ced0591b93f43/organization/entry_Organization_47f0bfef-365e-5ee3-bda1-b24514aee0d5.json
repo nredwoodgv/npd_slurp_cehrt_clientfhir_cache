@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336665991"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1437661576"
       },
       {
@@ -23,29 +27,16 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629580758"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336665991"
       }
     ],
     "address": [
       {
         "line": [
-          "611 E. Douglas Rd",
-          "Suite 128"
+          "5230 BECK DR STE 6"
         ],
-        "city": "MISHAWAKA",
+        "city": "ELKHART",
         "state": "IN",
-        "postalCode": "46545-1464"
-      },
-      {
-        "line": [
-          "SCHEDULE TEMPLATE"
-        ],
-        "city": "PLYMOUTH",
-        "state": "IN",
-        "postalCode": "46563-9366"
+        "postalCode": "46516-9059"
       },
       {
         "line": [
@@ -59,17 +50,17 @@
         "line": [
           "SCHEDULE TEMPLATE"
         ],
-        "city": "MISHAWAKA",
+        "city": "SOUTH BEND",
         "state": "IN",
-        "postalCode": "46545-1469"
+        "postalCode": "46601-1033"
       },
       {
         "line": [
           "SCHEDULE TEMPLATE"
         ],
-        "city": "SOUTH BEND",
+        "city": "MISHAWAKA",
         "state": "IN",
-        "postalCode": "46601-1033"
+        "postalCode": "46545-1469"
       },
       {
         "line": [
@@ -81,6 +72,14 @@
       },
       {
         "line": [
+          "BLOCK"
+        ],
+        "city": "SOUTH BEND",
+        "state": "IN",
+        "postalCode": "46601-1033"
+      },
+      {
+        "line": [
           "53880 Carmichael Drive"
         ],
         "city": "SOUTH BEND",
@@ -89,11 +88,20 @@
       },
       {
         "line": [
-          "5230 BECK DR STE 6"
+          "611 E. Douglas Rd",
+          "Suite 128"
         ],
-        "city": "ELKHART",
+        "city": "MISHAWAKA",
         "state": "IN",
-        "postalCode": "46516-9059"
+        "postalCode": "46545-1464"
+      },
+      {
+        "line": [
+          "SURGERY TEMPLATE"
+        ],
+        "city": "MISHAWAKA",
+        "state": "IN",
+        "postalCode": "46545-1969"
       },
       {
         "line": [
@@ -105,19 +113,11 @@
       },
       {
         "line": [
-          "BLOCK"
+          "SCHEDULE TEMPLATE"
         ],
-        "city": "SOUTH BEND",
+        "city": "PLYMOUTH",
         "state": "IN",
-        "postalCode": "46601-1033"
-      },
-      {
-        "line": [
-          "SURGERY TEMPLATE"
-        ],
-        "city": "MISHAWAKA",
-        "state": "IN",
-        "postalCode": "46545-1969"
+        "postalCode": "46563-9366"
       }
     ],
     "extension": [

@@ -14,14 +14,30 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952336869"
+        "value": "1932191822"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932191822"
+        "value": "1952336869"
       }
     ],
     "address": [
+      {
+        "line": [
+          "800 FairPark Blvd"
+        ],
+        "city": "LITTLE ROCK",
+        "state": "AR",
+        "postalCode": "72204-1720"
+      },
+      {
+        "line": [
+          "10301 Kanis Road"
+        ],
+        "city": "LITTLE ROCK",
+        "state": "AR",
+        "postalCode": "72205-6205"
+      },
       {
         "line": [
           "801 S BOWMAN RD STE 3"
@@ -29,6 +45,15 @@
         "city": "LITTLE ROCK",
         "state": "AR",
         "postalCode": "72211-3427"
+      },
+      {
+        "line": [
+          "6144 Hwy 5 North",
+          "Suite 300"
+        ],
+        "city": "BRYANT",
+        "state": "AR",
+        "postalCode": "72022-8516"
       },
       {
         "line": [
@@ -41,36 +66,11 @@
       },
       {
         "line": [
-          "800 FairPark Blvd"
-        ],
-        "city": "LITTLE ROCK",
-        "state": "AR",
-        "postalCode": "72204-1720"
-      },
-      {
-        "line": [
           "3480 Landers Road"
         ],
         "city": "NORTH LITTLE ROCK",
         "state": "AR",
         "postalCode": "72117-2514"
-      },
-      {
-        "line": [
-          "10301 Kanis Road"
-        ],
-        "city": "LITTLE ROCK",
-        "state": "AR",
-        "postalCode": "72205-6205"
-      },
-      {
-        "line": [
-          "6144 Hwy 5 North",
-          "Suite 300"
-        ],
-        "city": "BRYANT",
-        "state": "AR",
-        "postalCode": "72022-8516"
       }
     ],
     "extension": [

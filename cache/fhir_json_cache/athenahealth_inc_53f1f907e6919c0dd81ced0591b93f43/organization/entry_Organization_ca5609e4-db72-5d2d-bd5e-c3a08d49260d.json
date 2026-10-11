@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861818379"
+        "value": "1861810186"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,19 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326463357"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861810186"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598213241"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1831132133"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730571100"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,10 +34,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730571100"
+        "value": "1326463357"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861818379"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598213241"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1275 Kenneth"
+        ],
+        "city": "MUSKEGON",
+        "state": "MI",
+        "postalCode": "49442-5180"
+      },
+      {
+        "line": [
+          "600 Denmark Street"
+        ],
+        "city": "BALDWIN",
+        "state": "MI",
+        "postalCode": "49304-7500"
+      },
       {
         "line": [
           "72 S. State Street"
@@ -56,11 +72,11 @@
       },
       {
         "line": [
-          "2053 S Sheridan Dr"
+          "1300 W Broadway Ave"
         ],
         "city": "MUSKEGON",
         "state": "MI",
-        "postalCode": "49442-6254"
+        "postalCode": "49441-3530"
       },
       {
         "line": [
@@ -80,19 +96,11 @@
       },
       {
         "line": [
-          "600 Denmark Street"
-        ],
-        "city": "BALDWIN",
-        "state": "MI",
-        "postalCode": "49304-7500"
-      },
-      {
-        "line": [
-          "1275 Kenneth"
+          "2053 S Sheridan Dr"
         ],
         "city": "MUSKEGON",
         "state": "MI",
-        "postalCode": "49442-5180"
+        "postalCode": "49442-6254"
       },
       {
         "line": [
@@ -104,11 +112,11 @@
       },
       {
         "line": [
-          "1380 E Sherman Blvd"
+          "1001 Diana st"
         ],
-        "city": "MUSKEGON",
+        "city": "LUDINGTON",
         "state": "MI",
-        "postalCode": "49444-1814"
+        "postalCode": "49431-1908"
       },
       {
         "line": [
@@ -120,11 +128,11 @@
       },
       {
         "line": [
-          "1001 Diana st"
+          "1380 E Sherman Blvd"
         ],
-        "city": "LUDINGTON",
+        "city": "MUSKEGON",
         "state": "MI",
-        "postalCode": "49431-1908"
+        "postalCode": "49444-1814"
       },
       {
         "line": [
@@ -133,14 +141,6 @@
         "city": "HART",
         "state": "MI",
         "postalCode": "49420-1168"
-      },
-      {
-        "line": [
-          "1300 W Broadway Ave"
-        ],
-        "city": "MUSKEGON",
-        "state": "MI",
-        "postalCode": "49441-3530"
       }
     ],
     "extension": [

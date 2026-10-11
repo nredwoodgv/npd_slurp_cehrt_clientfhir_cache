@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386458552"
+        "value": "1922749399"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922749399"
+        "value": "1134774623"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +30,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134774623"
+        "value": "1386458552"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144034430"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -39,13 +43,17 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1548902984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144034430"
       }
     ],
     "address": [
+      {
+        "line": [
+          "4719 HIGHWAY 90"
+        ],
+        "city": "MARIANNA",
+        "state": "FL",
+        "postalCode": "32446-7839"
+      },
       {
         "line": [
           "2870 MONTGOMERY HWY"
@@ -56,20 +64,11 @@
       },
       {
         "line": [
-          "951 PRIM AVE",
-          "STE 20"
-        ],
-        "city": "GRACEVILLE",
-        "state": "FL",
-        "postalCode": "32440-2500"
-      },
-      {
-        "line": [
-          "4719 HIGHWAY 90"
+          "4295 5TH AVE"
         ],
         "city": "MARIANNA",
         "state": "FL",
-        "postalCode": "32446-7839"
+        "postalCode": "32446-2176"
       },
       {
         "line": [
@@ -81,11 +80,12 @@
       },
       {
         "line": [
-          "4719 Highway 90"
+          "951 PRIM AVE",
+          "STE 20"
         ],
-        "city": "MARIANNA",
+        "city": "GRACEVILLE",
         "state": "FL",
-        "postalCode": "32446-7839"
+        "postalCode": "32440-2500"
       },
       {
         "line": [
@@ -113,11 +113,11 @@
       },
       {
         "line": [
-          "4295 5TH AVE"
+          "4719 Highway 90"
         ],
         "city": "MARIANNA",
         "state": "FL",
-        "postalCode": "32446-2176"
+        "postalCode": "32446-7839"
       }
     ],
     "extension": [

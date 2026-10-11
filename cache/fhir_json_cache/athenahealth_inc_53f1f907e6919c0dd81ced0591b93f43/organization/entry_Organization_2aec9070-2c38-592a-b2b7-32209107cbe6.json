@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124868963"
+        "value": "1134965015"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134965015"
+        "value": "1124868963"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,22 +26,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477399350"
+        "value": "1558107433"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558107433"
+        "value": "1477399350"
       }
     ],
     "address": [
-      {
-        "line": [
-          "107 Boyles Drive"
-        ],
-        "city": "RUSSELLVILLE",
-        "state": "KY",
-        "postalCode": "42276-8853"
-      },
       {
         "line": [
           "139 Pearl St"
@@ -49,6 +41,15 @@
         "city": "AUBURN",
         "state": "KY",
         "postalCode": "42206-5121"
+      },
+      {
+        "line": [
+          "1719 Nashville Street",
+          "Suite C"
+        ],
+        "city": "RUSSELLVILLE",
+        "state": "KY",
+        "postalCode": "42276-9774"
       },
       {
         "line": [
@@ -61,12 +62,11 @@
       },
       {
         "line": [
-          "1719 Nashville Street",
-          "Suite C"
+          "107 Boyles Drive"
         ],
         "city": "RUSSELLVILLE",
         "state": "KY",
-        "postalCode": "42276-9774"
+        "postalCode": "42276-8853"
       }
     ],
     "extension": [

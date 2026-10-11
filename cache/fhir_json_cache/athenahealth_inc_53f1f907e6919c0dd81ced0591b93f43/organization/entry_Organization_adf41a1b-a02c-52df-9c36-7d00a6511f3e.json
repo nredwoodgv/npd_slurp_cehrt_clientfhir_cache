@@ -26,15 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457863565"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760599906"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962933416"
+        "value": "1245769744"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,7 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245769744"
+        "value": "1760599906"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,18 +46,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457863565"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952340911"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962933416"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1840 Wealthy St SE"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49506-2921"
-      },
       {
         "line": [
           "310 Lafayette SE"
@@ -76,11 +68,11 @@
       },
       {
         "line": [
-          "200 Jefferson Ave SE"
+          "1840 Wealthy St SE"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49503-4502"
+        "postalCode": "49506-2921"
       },
       {
         "line": [
@@ -100,19 +92,27 @@
       },
       {
         "line": [
-          "1500 E Sherman Blvd"
-        ],
-        "city": "MUSKEGON",
-        "state": "MI",
-        "postalCode": "49444-1867"
-      },
-      {
-        "line": [
           "235 Wealthy St SE"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
         "postalCode": "49503-5247"
+      },
+      {
+        "line": [
+          "200 Jefferson Ave SE"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49503-4502"
+      },
+      {
+        "line": [
+          "1500 E Sherman Blvd"
+        ],
+        "city": "MUSKEGON",
+        "state": "MI",
+        "postalCode": "49444-1867"
       }
     ],
     "extension": [

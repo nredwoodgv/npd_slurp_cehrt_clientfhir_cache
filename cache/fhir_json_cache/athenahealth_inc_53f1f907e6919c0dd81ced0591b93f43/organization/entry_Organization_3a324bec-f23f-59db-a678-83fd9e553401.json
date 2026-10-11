@@ -14,14 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356544118"
+        "value": "1750814737"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750814737"
+        "value": "1356544118"
       }
     ],
     "address": [
+      {
+        "line": [
+          "400 W. Arbrook Blvd.",
+          "Sre. 201"
+        ],
+        "city": "ARLINGTON",
+        "state": "TX",
+        "postalCode": "76014-3174"
+      },
       {
         "line": [],
         "city": "ARLINGTON",
@@ -35,15 +44,6 @@
         "city": "ARLINGTON",
         "state": "TX",
         "postalCode": "76014-3176"
-      },
-      {
-        "line": [
-          "400 W. Arbrook Blvd.",
-          "Sre. 201"
-        ],
-        "city": "ARLINGTON",
-        "state": "TX",
-        "postalCode": "76014-3174"
       }
     ],
     "extension": [

@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588834824"
+        "value": "1649440983"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174106124"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,11 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194759290"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871872184"
+        "value": "1902166945"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,7 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982328548"
+        "value": "1740450089"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,11 +46,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457008385"
+        "value": "1982328548"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770745036"
+        "value": "1194759290"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1255660056"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,41 +62,37 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619679008"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174106124"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902166945"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740450089"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649440983"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730671751"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255660056"
+        "value": "1619679008"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457008385"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1871872184"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588834824"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1770745036"
       }
     ],
     "address": [
       {
         "line": [
-          "503 Roosevelt Blvd."
+          "12 Kanawha Terrace"
         ],
-        "city": "ELEANOR",
+        "city": "SAINT ALBANS",
         "state": "WV",
-        "postalCode": "25070-9998"
+        "postalCode": "25177-2750"
       },
       {
         "line": [
@@ -104,11 +104,36 @@
       },
       {
         "line": [
-          "800 PENNSYLVANIA AVE"
+          "800 PENNSYLVANIA AVENUE"
+        ],
+        "city": "SOUTH CHARLESTON",
+        "state": "WV",
+        "postalCode": "25309-3351"
+      },
+      {
+        "line": [
+          "12803 Winfield RD"
+        ],
+        "city": "WINFIELD",
+        "state": "WV",
+        "postalCode": "25213-7449"
+      },
+      {
+        "line": [
+          "1500 Greenbrier St",
+          "#160"
         ],
         "city": "CHARLESTON",
         "state": "WV",
-        "postalCode": "25309-3351"
+        "postalCode": "25311-1007"
+      },
+      {
+        "line": [
+          "515 Main Street"
+        ],
+        "city": "MADISON",
+        "state": "WV",
+        "postalCode": "25130-1417"
       },
       {
         "line": [
@@ -128,44 +153,11 @@
       },
       {
         "line": [
-          "800 PENNSYLVANIA AVENUE"
-        ],
-        "city": "SOUTH CHARLESTON",
-        "state": "WV",
-        "postalCode": "25309-3351"
-      },
-      {
-        "line": [
           "108 Washington Street W #201"
         ],
         "city": "CHARLESTON",
         "state": "WV",
         "postalCode": "25302-2344"
-      },
-      {
-        "line": [
-          "1"
-        ],
-        "city": "SCOTT DEPOT",
-        "state": "WV",
-        "postalCode": "25560-9552"
-      },
-      {
-        "line": [
-          "515 Main Street"
-        ],
-        "city": "MADISON",
-        "state": "WV",
-        "postalCode": "25130-1417"
-      },
-      {
-        "line": [
-          "1500 Greenbrier St",
-          "#160"
-        ],
-        "city": "CHARLESTON",
-        "state": "WV",
-        "postalCode": "25311-1007"
       },
       {
         "line": [
@@ -177,19 +169,27 @@
       },
       {
         "line": [
-          "12803 Winfield RD"
+          "503 Roosevelt Blvd."
         ],
-        "city": "WINFIELD",
+        "city": "ELEANOR",
         "state": "WV",
-        "postalCode": "25213-7449"
+        "postalCode": "25070-9998"
       },
       {
         "line": [
-          "12 Kanawha Terrace"
+          "800 PENNSYLVANIA AVE"
         ],
-        "city": "SAINT ALBANS",
+        "city": "CHARLESTON",
         "state": "WV",
-        "postalCode": "25177-2750"
+        "postalCode": "25309-3351"
+      },
+      {
+        "line": [
+          "1"
+        ],
+        "city": "SCOTT DEPOT",
+        "state": "WV",
+        "postalCode": "25560-9552"
       }
     ],
     "extension": [

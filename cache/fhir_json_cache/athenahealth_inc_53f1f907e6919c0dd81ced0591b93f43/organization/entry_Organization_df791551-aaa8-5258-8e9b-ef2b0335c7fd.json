@@ -14,7 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598225021"
+        "value": "1396201000"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316253875"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588226328"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,33 +34,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396201000"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588226328"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316253875"
+        "value": "1598225021"
       }
     ],
     "address": [
       {
         "line": [
-          "167 ACADEMY ST STE B"
+          "4923 Ogletown Stanton Road",
+          "Suite 110"
         ],
-        "city": "PRESQUE ISLE",
-        "state": "ME",
-        "postalCode": "04769-3167"
-      },
-      {
-        "line": [
-          "725 North St"
-        ],
-        "city": "PITTSFIELD",
-        "state": "MA",
-        "postalCode": "01201-4109"
+        "city": "NEWARK",
+        "state": "DE",
+        "postalCode": "19713-2012"
       },
       {
         "line": [
@@ -65,19 +58,11 @@
       },
       {
         "line": [
-          "147 RIVERSIDE DR STE 1"
+          "51 HIGH ST STE 1"
         ],
-        "city": "AUGUSTA",
+        "city": "DEXTER",
         "state": "ME",
-        "postalCode": "04330-4100"
-      },
-      {
-        "line": [
-          "12 Dallaire Ave"
-        ],
-        "city": "CHICOPEE",
-        "state": "MA",
-        "postalCode": "01020-1237"
+        "postalCode": "04930-1326"
       },
       {
         "line": [
@@ -90,20 +75,19 @@
       },
       {
         "line": [
-          "938 South Bradford Street"
+          "12 Dallaire Ave"
         ],
-        "city": "DOVER",
-        "state": "DE",
-        "postalCode": "19901-4139"
+        "city": "CHICOPEE",
+        "state": "MA",
+        "postalCode": "01020-1237"
       },
       {
         "line": [
-          "4923 Ogletown Stanton Road",
-          "Suite 110"
+          "167 ACADEMY ST STE B"
         ],
-        "city": "NEWARK",
-        "state": "DE",
-        "postalCode": "19713-2012"
+        "city": "PRESQUE ISLE",
+        "state": "ME",
+        "postalCode": "04769-3167"
       },
       {
         "line": [
@@ -116,19 +100,28 @@
       },
       {
         "line": [
-          "51 HIGH ST STE 1"
+          "725 North St"
         ],
-        "city": "DEXTER",
-        "state": "ME",
-        "postalCode": "04930-1326"
+        "city": "PITTSFIELD",
+        "state": "MA",
+        "postalCode": "01201-4109"
       },
       {
         "line": [
-          "121 Lincoln Street"
+          "489 Bernardston Road",
+          "Suite 108"
         ],
-        "city": "WORCESTER",
+        "city": "GREENFIELD",
         "state": "MA",
-        "postalCode": "01605-2429"
+        "postalCode": "01301-1238"
+      },
+      {
+        "line": [
+          "938 South Bradford Street"
+        ],
+        "city": "DOVER",
+        "state": "DE",
+        "postalCode": "19901-4139"
       },
       {
         "line": [
@@ -140,12 +133,19 @@
       },
       {
         "line": [
-          "489 Bernardston Road",
-          "Suite 108"
+          "121 Lincoln Street"
         ],
-        "city": "GREENFIELD",
+        "city": "WORCESTER",
         "state": "MA",
-        "postalCode": "01301-1238"
+        "postalCode": "01605-2429"
+      },
+      {
+        "line": [
+          "147 RIVERSIDE DR STE 1"
+        ],
+        "city": "AUGUSTA",
+        "state": "ME",
+        "postalCode": "04330-4100"
       },
       {
         "line": [

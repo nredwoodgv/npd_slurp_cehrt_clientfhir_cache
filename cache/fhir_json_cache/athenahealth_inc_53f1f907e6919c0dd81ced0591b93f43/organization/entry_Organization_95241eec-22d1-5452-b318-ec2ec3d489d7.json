@@ -14,26 +14,24 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821349317"
+        "value": "1629398219"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629398219"
+        "value": "1821349317"
       }
     ],
     "address": [
       {
         "line": [
-          "55 FRUIT ST"
-        ],
-        "city": "BOSTON",
-        "state": "MA",
-        "postalCode": "02114-2621"
-      },
-      {
-        "line": [
           "736 CAMBRIDGE ST"
         ],
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2907"
+      },
+      {
+        "line": [],
         "city": "BRIGHTON",
         "state": "MA",
         "postalCode": "02135-2907"
@@ -48,14 +46,6 @@
       },
       {
         "line": [
-          "60 East Street, Suite 1100"
-        ],
-        "city": "METHUEN",
-        "state": "MA",
-        "postalCode": "01844-4597"
-      },
-      {
-        "line": [
           "60 East Street"
         ],
         "city": "METHUEN",
@@ -63,10 +53,12 @@
         "postalCode": "01844-4500"
       },
       {
-        "line": [],
-        "city": "BRIGHTON",
+        "line": [
+          "55 FRUIT ST"
+        ],
+        "city": "BOSTON",
         "state": "MA",
-        "postalCode": "02135-2907"
+        "postalCode": "02114-2621"
       },
       {
         "line": [
@@ -75,6 +67,14 @@
         "city": "WESTWOOD",
         "state": "MA",
         "postalCode": "02090-2391"
+      },
+      {
+        "line": [
+          "60 East Street, Suite 1100"
+        ],
+        "city": "METHUEN",
+        "state": "MA",
+        "postalCode": "01844-4597"
       }
     ],
     "extension": [

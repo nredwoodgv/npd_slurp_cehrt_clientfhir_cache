@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043501448"
+        "value": "1891755351"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891755351"
+        "value": "1043501448"
       }
     ],
     "address": [
-      {
-        "line": [
-          "660 Northwest Moreland Road"
-        ],
-        "city": "LAKE FOREST",
-        "state": "IL",
-        "postalCode": "60045-1659"
-      },
-      {
-        "line": [
-          "355 RIDGE AVE"
-        ],
-        "city": "EVANSTON",
-        "state": "IL",
-        "postalCode": "60202-3328"
-      },
       {
         "line": [
           "2650 Ridge Ave"
@@ -54,6 +38,22 @@
         "city": "WILMETTE",
         "state": "IL",
         "postalCode": "60091-2964"
+      },
+      {
+        "line": [
+          "660 Northwest Moreland Road"
+        ],
+        "city": "LAKE FOREST",
+        "state": "IL",
+        "postalCode": "60045-1659"
+      },
+      {
+        "line": [
+          "355 RIDGE AVE"
+        ],
+        "city": "EVANSTON",
+        "state": "IL",
+        "postalCode": "60202-3328"
       }
     ],
     "extension": [

@@ -18,15 +18,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376590430"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285083154"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932256542"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1265474050"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376590430"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -39,24 +43,12 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1407883341"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285083154"
       }
     ],
     "address": [
       {
         "line": [
           "200 W 134th Place"
-        ],
-        "city": "CUT OFF",
-        "state": "LA",
-        "postalCode": "70345-4143"
-      },
-      {
-        "line": [
-          "200 W. 134th Place"
         ],
         "city": "CUT OFF",
         "state": "LA",
@@ -72,7 +64,7 @@
       },
       {
         "line": [
-          "200 W 134th Pl"
+          "200 W. 134th Place"
         ],
         "city": "CUT OFF",
         "state": "LA",
@@ -109,6 +101,14 @@
         "city": "CUT OFF",
         "state": "LA",
         "postalCode": "70345-4153"
+      },
+      {
+        "line": [
+          "200 W 134th Pl"
+        ],
+        "city": "CUT OFF",
+        "state": "LA",
+        "postalCode": "70345-4143"
       }
     ],
     "extension": [

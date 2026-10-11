@@ -14,19 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609669902"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992598213"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033985726"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245117340"
+        "value": "1528945623"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,35 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497517676"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144082322"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982470662"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366329468"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285400978"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528945623"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447137542"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013700327"
+        "value": "1992598213"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -70,7 +30,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134995822"
+        "value": "1245117340"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1609669902"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144082322"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952177644"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -78,7 +50,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548036239"
+        "value": "1366329468"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -86,18 +58,38 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952177644"
+        "value": "1285400978"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013700327"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1134995822"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1497517676"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033985726"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447137542"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1982470662"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548036239"
       }
     ],
     "address": [
-      {
-        "line": [
-          "80 GUEST ST"
-        ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2071"
-      },
       {
         "line": [
           "5252 N Edgewood Dr",
@@ -109,12 +101,11 @@
       },
       {
         "line": [
-          "393 E Riverside Dr",
-          "Ste 201"
+          "80 GUEST ST"
         ],
-        "city": "St George",
-        "state": "UT",
-        "postalCode": "84790-7124"
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2071"
       },
       {
         "line": [
@@ -124,6 +115,15 @@
         "city": "MURRAY",
         "state": "UT",
         "postalCode": "84107-4246"
+      },
+      {
+        "line": [
+          "393 E Riverside Dr",
+          "Ste 201"
+        ],
+        "city": "St George",
+        "state": "UT",
+        "postalCode": "84790-7124"
       }
     ],
     "extension": [

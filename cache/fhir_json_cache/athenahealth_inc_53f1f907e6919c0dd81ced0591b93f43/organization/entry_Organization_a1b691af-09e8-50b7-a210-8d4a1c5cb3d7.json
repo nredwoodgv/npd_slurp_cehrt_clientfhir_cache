@@ -14,27 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114235918"
+        "value": "1215348487"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,29 +22,49 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730484031"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
+        "value": "1750302923"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053373951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962602300"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669801585"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881656247"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124080320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114235918"
       }
     ],
     "address": [
       {
         "line": [
-          "1406 Texana"
+          "107 S Swift St."
         ],
-        "city": "HALLETTSVILLE",
+        "city": "REFUGIO",
         "state": "TX",
-        "postalCode": "77964-2021"
+        "postalCode": "78377-2425"
       },
       {
         "line": [
@@ -76,14 +76,6 @@
       },
       {
         "line": [
-          "1302 N Depot"
-        ],
-        "city": "Victoria",
-        "state": "TX",
-        "postalCode": "77901-6005"
-      },
-      {
-        "line": [
           "6502 Nursery Dr."
         ],
         "city": "VICTORIA",
@@ -92,11 +84,19 @@
       },
       {
         "line": [
-          "107 S Swift St."
+          "1406 Texana"
         ],
-        "city": "REFUGIO",
+        "city": "HALLETTSVILLE",
         "state": "TX",
-        "postalCode": "78377-2425"
+        "postalCode": "77964-2021"
+      },
+      {
+        "line": [
+          "1302 N Depot"
+        ],
+        "city": "Victoria",
+        "state": "TX",
+        "postalCode": "77901-6005"
       }
     ],
     "extension": [

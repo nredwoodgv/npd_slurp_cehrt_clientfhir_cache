@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801571823"
+        "value": "1508392432"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508392432"
+        "value": "1801571823"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1700 CENTER ST"
+        ],
+        "city": "MOBILE",
+        "state": "AL",
+        "postalCode": "36604-3301"
+      },
       {
         "line": [
           "6701 AIRPORT BLVD"
@@ -40,6 +48,22 @@
       },
       {
         "line": [
+          "3290 Dauphin St"
+        ],
+        "city": "MOBILE",
+        "state": "AL",
+        "postalCode": "36606-4062"
+      },
+      {
+        "line": [
+          "30500 STATE HIGHWAY 181"
+        ],
+        "city": "SPANISH FORT",
+        "state": "AL",
+        "postalCode": "36527-5803"
+      },
+      {
+        "line": [
           "1601 CENTER ST"
         ],
         "city": "MOBILE",
@@ -48,19 +72,20 @@
       },
       {
         "line": [
+          "6701 Airport Blvd",
+          "# AT06"
+        ],
+        "city": "MOBILE",
+        "state": "AL",
+        "postalCode": "36608-6705"
+      },
+      {
+        "line": [
           "2451 University Hospital Dr"
         ],
         "city": "MOBILE",
         "state": "AL",
         "postalCode": "36617-2300"
-      },
-      {
-        "line": [
-          "1700 CENTER ST"
-        ],
-        "city": "MOBILE",
-        "state": "AL",
-        "postalCode": "36604-3301"
       },
       {
         "line": [
@@ -80,28 +105,11 @@
       },
       {
         "line": [
-          "30500 STATE HIGHWAY 181"
-        ],
-        "city": "SPANISH FORT",
-        "state": "AL",
-        "postalCode": "36527-5803"
-      },
-      {
-        "line": [
-          "6701 Airport Blvd",
-          "# AT06"
+          "1610 CENTER ST"
         ],
         "city": "MOBILE",
         "state": "AL",
-        "postalCode": "36608-6705"
-      },
-      {
-        "line": [
-          "3290 Dauphin St"
-        ],
-        "city": "MOBILE",
-        "state": "AL",
-        "postalCode": "36606-4062"
+        "postalCode": "36604-1541"
       }
     ],
     "extension": [

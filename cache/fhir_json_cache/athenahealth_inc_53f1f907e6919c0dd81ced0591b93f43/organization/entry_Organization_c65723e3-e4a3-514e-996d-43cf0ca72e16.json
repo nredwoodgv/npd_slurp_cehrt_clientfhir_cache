@@ -14,40 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346284684"
+        "value": "1689061426"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689061426"
+        "value": "1346284684"
       }
     ],
     "address": [
-      {
-        "line": [
-          "5210 Highland Rd"
-        ],
-        "city": "WATERFORD",
-        "state": "MI",
-        "postalCode": "48327-1970"
-      },
-      {
-        "line": [
-          "5210 Highland Rd",
-          "Ste 201"
-        ],
-        "city": "WATERFORD",
-        "state": "MI",
-        "postalCode": "48327-1970"
-      },
-      {
-        "line": [
-          "1375 S Lapeer Rd",
-          "Ste 210"
-        ],
-        "city": "LAKE ORION",
-        "state": "MI",
-        "postalCode": "48360-1433"
-      },
       {
         "line": [
           "107 Chicago St"
@@ -64,6 +38,32 @@
         "city": "ROCHESTER",
         "state": "MI",
         "postalCode": "48309-3868"
+      },
+      {
+        "line": [
+          "5210 Highland Rd",
+          "Ste 201"
+        ],
+        "city": "WATERFORD",
+        "state": "MI",
+        "postalCode": "48327-1970"
+      },
+      {
+        "line": [
+          "5210 Highland Rd"
+        ],
+        "city": "WATERFORD",
+        "state": "MI",
+        "postalCode": "48327-1970"
+      },
+      {
+        "line": [
+          "1375 S Lapeer Rd",
+          "Ste 210"
+        ],
+        "city": "LAKE ORION",
+        "state": "MI",
+        "postalCode": "48360-1433"
       }
     ],
     "extension": [

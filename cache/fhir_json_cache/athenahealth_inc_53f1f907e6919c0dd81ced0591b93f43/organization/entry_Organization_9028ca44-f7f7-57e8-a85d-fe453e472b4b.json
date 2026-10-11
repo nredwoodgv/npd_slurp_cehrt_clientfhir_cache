@@ -14,14 +14,30 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427035039"
+        "value": "1568536480"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568536480"
+        "value": "1427035039"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3000 Fellowship Dr"
+        ],
+        "city": "WHITEHALL",
+        "state": "PA",
+        "postalCode": "18052-3342"
+      },
+      {
+        "line": [
+          "850 S. 5th St"
+        ],
+        "city": "ALLENTOWN",
+        "state": "PA",
+        "postalCode": "18103-3308"
+      },
       {
         "line": [
           "850 South 5th Steet"
@@ -41,14 +57,6 @@
       },
       {
         "line": [
-          "850 S. 5th St"
-        ],
-        "city": "ALLENTOWN",
-        "state": "PA",
-        "postalCode": "18103-3308"
-      },
-      {
-        "line": [
           "175 West North Street"
         ],
         "city": "NAZARETH",
@@ -62,14 +70,6 @@
         "city": "BETHLEHEM",
         "state": "PA",
         "postalCode": "18017-7306"
-      },
-      {
-        "line": [
-          "3000 Fellowship Dr"
-        ],
-        "city": "WHITEHALL",
-        "state": "PA",
-        "postalCode": "18052-3342"
       }
     ],
     "extension": [

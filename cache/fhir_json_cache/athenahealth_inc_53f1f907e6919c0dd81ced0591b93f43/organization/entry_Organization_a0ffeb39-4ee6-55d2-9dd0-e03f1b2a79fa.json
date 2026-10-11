@@ -14,14 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134114507"
+        "value": "1710375662"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710375662"
+        "value": "1134114507"
       }
     ],
     "address": [
+      {
+        "line": [
+          "11119 ROCKVILLE PIKE STE 207",
+          "STE 207"
+        ],
+        "city": "ROCKVILLE",
+        "state": "MD",
+        "postalCode": "20852-3143"
+      },
       {
         "line": [
           "1500 FOREST GLEN RD"
@@ -29,6 +38,23 @@
         "city": "SILVER SPRING",
         "state": "MD",
         "postalCode": "20910-1460"
+      },
+      {
+        "line": [
+          "6931 Arlington Road",
+          "SUITE 520"
+        ],
+        "city": "BETHESDA",
+        "state": "MD",
+        "postalCode": "20814-7200"
+      },
+      {
+        "line": [
+          "3001 HOSPITAL DRIVE"
+        ],
+        "city": "CHEVERLY",
+        "state": "MD",
+        "postalCode": "20785-1189"
       },
       {
         "line": [
@@ -46,32 +72,6 @@
         "city": "HYATTSVILLE",
         "state": "MD",
         "postalCode": "20785-1189"
-      },
-      {
-        "line": [
-          "11119 ROCKVILLE PIKE STE 207",
-          "STE 207"
-        ],
-        "city": "ROCKVILLE",
-        "state": "MD",
-        "postalCode": "20852-3143"
-      },
-      {
-        "line": [
-          "3001 HOSPITAL DRIVE"
-        ],
-        "city": "CHEVERLY",
-        "state": "MD",
-        "postalCode": "20785-1189"
-      },
-      {
-        "line": [
-          "6931 Arlington Road",
-          "SUITE 520"
-        ],
-        "city": "BETHESDA",
-        "state": "MD",
-        "postalCode": "20814-7200"
       },
       {
         "line": [

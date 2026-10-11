@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629272968"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902979081"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174537500"
+        "value": "1376644922"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,11 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255378139"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588737266"
+        "value": "1174537500"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,7 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366515496"
+        "value": "1629272968"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,7 +42,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376644922"
+        "value": "1366515496"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588737266"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902979081"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1255378139"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,7 +66,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386716520"
+        "value": "1457663197"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -74,19 +74,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386716520"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1750680757"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376820605"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457663197"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912965088"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -94,7 +86,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912965088"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1023088168"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376820605"
       }
     ],
     "address": [
@@ -104,11 +104,11 @@
         ],
         "city": "East China",
         "state": "MI",
-        "postalCode": "48054-2914"
+        "postalCode": "48054-2909"
       },
       {
         "line": [
-          "4100 RIVER RD"
+          "4100 River Road"
         ],
         "city": "EAST CHINA",
         "state": "MI",
@@ -124,7 +124,23 @@
       },
       {
         "line": [
-          "4100 River Road"
+          "4100 River Rd"
+        ],
+        "city": "East China",
+        "state": "MI",
+        "postalCode": "48054-2914"
+      },
+      {
+        "line": [
+          "4100 River Rd"
+        ],
+        "city": "EAST CHINA",
+        "state": "MI",
+        "postalCode": "48054-2909"
+      },
+      {
+        "line": [
+          "4100 RIVER RD"
         ],
         "city": "EAST CHINA",
         "state": "MI",
@@ -136,15 +152,7 @@
         ],
         "city": "EAST CHINA",
         "state": "MI",
-        "postalCode": "48054-2909"
-      },
-      {
-        "line": [
-          "4100 River Rd"
-        ],
-        "city": "East China",
-        "state": "MI",
-        "postalCode": "48054-2909"
+        "postalCode": "48054-2914"
       },
       {
         "line": [
@@ -161,14 +169,6 @@
         "city": "EAST CHINA",
         "state": "MI",
         "postalCode": "48054-2904"
-      },
-      {
-        "line": [
-          "4100 River Rd"
-        ],
-        "city": "EAST CHINA",
-        "state": "MI",
-        "postalCode": "48054-2914"
       }
     ],
     "extension": [

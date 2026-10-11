@@ -14,25 +14,25 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568858686"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1942254347"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730491945"
+        "value": "1568858686"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1043815848"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730491945"
       }
     ],
     "address": [
       {
         "line": [
-          "1 DIAMOND HILL RD"
+          "1 DIAMOND HILL ROAD"
         ],
         "city": "BERKELEY HEIGHTS",
         "state": "NJ",
@@ -40,7 +40,31 @@
       },
       {
         "line": [
-          "1345 6TH AVENUE"
+          "1989 MERRICK ROAD"
+        ],
+        "city": "MERRICK",
+        "state": "NY",
+        "postalCode": "11566-4643"
+      },
+      {
+        "line": [
+          "140 Park Ave"
+        ],
+        "city": "FLORHAM PARK",
+        "state": "NJ",
+        "postalCode": "07932-1049"
+      },
+      {
+        "line": [
+          "2317 ROUTE 22 CENTER ISLAND"
+        ],
+        "city": "UNION",
+        "state": "NJ",
+        "postalCode": "07083-8558"
+      },
+      {
+        "line": [
+          "1345 6TH AVEUNE"
         ],
         "city": "NEW YORK",
         "state": "NY",
@@ -48,7 +72,7 @@
       },
       {
         "line": [
-          "1 DIAMOND HILL ROAD"
+          "1 DIAMOND HILL RD"
         ],
         "city": "BERKELEY HEIGHTS",
         "state": "NJ",
@@ -64,19 +88,27 @@
       },
       {
         "line": [
-          "83 Hanover Rd"
+          "800 River Road"
         ],
-        "city": "FLORHAM PARK",
+        "city": "NEW MILFORD",
         "state": "NJ",
-        "postalCode": "07932-1508"
+        "postalCode": "07646-3127"
       },
       {
         "line": [
-          "1989 MERRICK ROAD"
+          "901 Franklin Avenue"
         ],
-        "city": "MERRICK",
+        "city": "GARDEN CITY",
         "state": "NY",
-        "postalCode": "11566-4643"
+        "postalCode": "11530-2933"
+      },
+      {
+        "line": [
+          "8 MOUNTAIN BLVD"
+        ],
+        "city": "WARREN",
+        "state": "NJ",
+        "postalCode": "07059-2638"
       },
       {
         "line": [
@@ -88,11 +120,11 @@
       },
       {
         "line": [
-          "633 From Rd"
+          "83 Hanover Rd"
         ],
-        "city": "PARAMUS",
+        "city": "FLORHAM PARK",
         "state": "NJ",
-        "postalCode": "07652-3514"
+        "postalCode": "07932-1508"
       },
       {
         "line": [
@@ -104,7 +136,7 @@
       },
       {
         "line": [
-          "1345 AVENUE OF THE AMERICAS"
+          "1345 6TH AVE"
         ],
         "city": "NEW YORK",
         "state": "NY",
@@ -112,11 +144,11 @@
       },
       {
         "line": [
-          "140 Park Ave"
+          "18 W 18th St"
         ],
-        "city": "FLORHAM PARK",
-        "state": "NJ",
-        "postalCode": "07932-1049"
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10011-4607"
       },
       {
         "line": [
@@ -125,14 +157,6 @@
         "city": "NEW YORK",
         "state": "NY",
         "postalCode": "10017-2303"
-      },
-      {
-        "line": [
-          "800 River Road"
-        ],
-        "city": "NEW MILFORD",
-        "state": "NJ",
-        "postalCode": "07646-3127"
       },
       {
         "line": [
@@ -145,38 +169,6 @@
       },
       {
         "line": [
-          "18 W 18th St"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10011-4607"
-      },
-      {
-        "line": [
-          "2317 ROUTE 22 CENTER ISLAND"
-        ],
-        "city": "UNION",
-        "state": "NJ",
-        "postalCode": "07083-8558"
-      },
-      {
-        "line": [
-          "1345 6TH AVE"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10105-0302"
-      },
-      {
-        "line": [
-          "1345 6TH AVEUNE"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10105-0018"
-      },
-      {
-        "line": [
           "224 Midland Ave",
           "224 Midland Ave"
         ],
@@ -186,36 +178,44 @@
       },
       {
         "line": [
+          "17-17 ROUTE 208"
+        ],
+        "city": "FAIR LAWN",
+        "state": "NJ",
+        "postalCode": "07410-2820"
+      },
+      {
+        "line": [
+          "1345 AVENUE OF THE AMERICAS"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10105-0302"
+      },
+      {
+        "line": [
+          "633 From Rd"
+        ],
+        "city": "PARAMUS",
+        "state": "NJ",
+        "postalCode": "07652-3514"
+      },
+      {
+        "line": [
+          "1345 6TH AVENUE"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10105-0018"
+      },
+      {
+        "line": [
           "535 Fifth Avenue",
           "5th Floor"
         ],
         "city": "NEW YORK",
         "state": "NY",
         "postalCode": "10017-8027"
-      },
-      {
-        "line": [
-          "8 MOUNTAIN BLVD"
-        ],
-        "city": "WARREN",
-        "state": "NJ",
-        "postalCode": "07059-2638"
-      },
-      {
-        "line": [
-          "901 Franklin Avenue"
-        ],
-        "city": "GARDEN CITY",
-        "state": "NY",
-        "postalCode": "11530-2933"
-      },
-      {
-        "line": [
-          "17-17 ROUTE 208"
-        ],
-        "city": "FAIR LAWN",
-        "state": "NJ",
-        "postalCode": "07410-2820"
       }
     ],
     "extension": [

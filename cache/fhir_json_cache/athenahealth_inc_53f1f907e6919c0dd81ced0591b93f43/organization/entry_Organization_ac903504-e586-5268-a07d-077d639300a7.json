@@ -14,22 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386939668"
+        "value": "1386163822"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386163822"
+        "value": "1386939668"
       }
     ],
     "address": [
       {
         "line": [
-          "113 SHORT ST",
-          "STE 8"
+          "1107 RIVERVIEW ST"
         ],
-        "city": "POUNDING MILL",
+        "city": "GRUNDY",
         "state": "VA",
-        "postalCode": "24637-4278"
+        "postalCode": "24614-9481"
       },
       {
         "line": [
@@ -41,11 +40,12 @@
       },
       {
         "line": [
-          "1107 RIVERVIEW ST"
+          "113 SHORT ST",
+          "STE 8"
         ],
-        "city": "GRUNDY",
+        "city": "POUNDING MILL",
         "state": "VA",
-        "postalCode": "24614-9481"
+        "postalCode": "24637-4278"
       }
     ],
     "extension": [

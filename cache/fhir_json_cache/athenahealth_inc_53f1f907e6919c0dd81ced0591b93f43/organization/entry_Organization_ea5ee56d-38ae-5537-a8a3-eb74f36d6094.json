@@ -14,13 +14,17 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861378168"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1558521179"
       }
     ],
     "address": [
       {
         "line": [
-          "600 S. Bonham St"
+          "600 S. Bonham St."
         ],
         "city": "MEXIA",
         "state": "TX",
@@ -28,7 +32,7 @@
       },
       {
         "line": [
-          "600 S. Bonham St."
+          "600 S. Bonham St"
         ],
         "city": "MEXIA",
         "state": "TX",

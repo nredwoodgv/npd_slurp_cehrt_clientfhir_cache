@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467347278"
+        "value": "1497678437"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,14 +22,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952298812"
+        "value": "1467347278"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497678437"
+        "value": "1952298812"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3540 Maitland Dr",
+          "Suite 102"
+        ],
+        "city": "RALEIGH",
+        "state": "NC",
+        "postalCode": "27610-1230"
+      },
       {
         "line": [
           "11201 SHAKER BLVD",
@@ -58,6 +67,14 @@
       },
       {
         "line": [
+          "2000 CHURCH ST"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37236-0001"
+      },
+      {
+        "line": [
           "4220 HARDING RD"
         ],
         "city": "NASHVILLE",
@@ -66,19 +83,27 @@
       },
       {
         "line": [
+          "11201 Shaker Blvd"
+        ],
+        "city": "CLEVELAND",
+        "state": "OH",
+        "postalCode": "44104-3869"
+      },
+      {
+        "line": [
+          "6700 PEARL RD"
+        ],
+        "city": "CLEVELAND",
+        "state": "OH",
+        "postalCode": "44130-3828"
+      },
+      {
+        "line": [
           "2300 PATTERSON ST"
         ],
         "city": "NASHVILLE",
         "state": "TN",
         "postalCode": "37203-1538"
-      },
-      {
-        "line": [
-          "520 W Main St"
-        ],
-        "city": "SMITHVILLE",
-        "state": "TN",
-        "postalCode": "37166-1138"
       },
       {
         "line": [
@@ -91,45 +116,20 @@
       },
       {
         "line": [
+          "520 W Main St"
+        ],
+        "city": "SMITHVILLE",
+        "state": "TN",
+        "postalCode": "37166-1138"
+      },
+      {
+        "line": [
           "2813 WHIPPLE AVE NW",
           "STE C"
         ],
         "city": "CANTON",
         "state": "OH",
         "postalCode": "44708-1531"
-      },
-      {
-        "line": [
-          "6700 PEARL RD"
-        ],
-        "city": "CLEVELAND",
-        "state": "OH",
-        "postalCode": "44130-3828"
-      },
-      {
-        "line": [
-          "2000 CHURCH ST"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37236-0001"
-      },
-      {
-        "line": [
-          "11201 Shaker Blvd"
-        ],
-        "city": "CLEVELAND",
-        "state": "OH",
-        "postalCode": "44104-3869"
-      },
-      {
-        "line": [
-          "3540 Maitland Dr",
-          "Suite 102"
-        ],
-        "city": "RALEIGH",
-        "state": "NC",
-        "postalCode": "27610-1230"
       }
     ],
     "extension": [

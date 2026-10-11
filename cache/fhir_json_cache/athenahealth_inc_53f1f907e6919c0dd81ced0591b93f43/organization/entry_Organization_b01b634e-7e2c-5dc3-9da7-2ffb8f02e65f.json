@@ -18,14 +18,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316322027"
+        "value": "1679564702"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679564702"
+        "value": "1316322027"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1165 Hwy 1 South, Suite 300"
+        ],
+        "city": "LUGOFF",
+        "state": "SC",
+        "postalCode": "29078-8966"
+      },
       {
         "line": [
           "2435 Forest Dr"
@@ -35,14 +43,6 @@
         "postalCode": "29204-2026"
       },
       {
-        "line": [
-          "1315 Roberts St"
-        ],
-        "city": "CAMDEN",
-        "state": "SC",
-        "postalCode": "29020-3737"
-      },
-      {
         "line": [],
         "city": "BETHUNE",
         "state": "SC",
@@ -50,11 +50,11 @@
       },
       {
         "line": [
-          "1165 Hwy 1 South, Suite 300"
+          "1315 Roberts St"
         ],
-        "city": "LUGOFF",
+        "city": "CAMDEN",
         "state": "SC",
-        "postalCode": "29078-8966"
+        "postalCode": "29020-3737"
       }
     ],
     "extension": [

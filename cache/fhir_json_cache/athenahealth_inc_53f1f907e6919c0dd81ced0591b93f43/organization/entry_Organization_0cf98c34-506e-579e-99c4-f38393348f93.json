@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891755351"
+        "value": "1043501448"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043501448"
+        "value": "1891755351"
       }
     ],
     "address": [
@@ -31,13 +31,10 @@
         "postalCode": "60515-1500"
       },
       {
-        "line": [
-          "2400 N Ashland Ave",
-          "SUITE 250"
-        ],
-        "city": "CHICAGO",
+        "line": [],
+        "city": "WILMETTE",
         "state": "IL",
-        "postalCode": "60614-2021"
+        "postalCode": "60091-2999"
       },
       {
         "line": [
@@ -48,18 +45,13 @@
         "postalCode": "60631-3708"
       },
       {
-        "line": [],
-        "city": "WILMETTE",
-        "state": "IL",
-        "postalCode": "60091-2999"
-      },
-      {
         "line": [
-          "1044 N FRANCISCO"
+          "2400 N Ashland Ave",
+          "SUITE 250"
         ],
         "city": "CHICAGO",
         "state": "IL",
-        "postalCode": "60622-2743"
+        "postalCode": "60614-2021"
       },
       {
         "line": [
@@ -69,6 +61,14 @@
         "city": "CHICAGO",
         "state": "IL",
         "postalCode": "60657-5188"
+      },
+      {
+        "line": [
+          "1044 N FRANCISCO"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60622-2743"
       }
     ],
     "extension": [

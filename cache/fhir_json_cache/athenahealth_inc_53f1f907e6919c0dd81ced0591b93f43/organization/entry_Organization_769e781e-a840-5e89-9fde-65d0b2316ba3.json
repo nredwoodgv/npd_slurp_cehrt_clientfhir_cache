@@ -14,31 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164231171"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922863224"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215563366"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1881426146"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881275915"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790517050"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043042393"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,15 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619502622"
+        "value": "1164231171"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124802061"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407558349"
+        "value": "1033990064"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,11 +34,39 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750146999"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1790517050"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1750146056"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245040278"
+        "value": "1215563366"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619502622"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1407558349"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1043042393"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1922863224"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881275915"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -78,37 +78,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750146999"
+        "value": "1245040278"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033990064"
+        "value": "1124802061"
       }
     ],
     "address": [
       {
         "line": [
-          "300 East Denver Avenue"
+          "1 WESTERN WAY CRYSTAL HALL 104"
         ],
         "city": "GUNNISON",
         "state": "CO",
-        "postalCode": "81230-2210"
-      },
-      {
-        "line": [
-          "117 N. Taylor St"
-        ],
-        "city": "GUNNISON",
-        "state": "CO",
-        "postalCode": "81230-2131"
-      },
-      {
-        "line": [
-          "214 Sixth Street Suite 4"
-        ],
-        "city": "CRESTED BUTTE",
-        "state": "CO",
-        "postalCode": "81224-1234"
+        "postalCode": "81231-0001"
       },
       {
         "line": [
@@ -120,11 +104,19 @@
       },
       {
         "line": [
-          "1 WESTERN WAY CRYSTAL HALL 104"
+          "214 Sixth Street Suite 4"
+        ],
+        "city": "CRESTED BUTTE",
+        "state": "CO",
+        "postalCode": "81224-1234"
+      },
+      {
+        "line": [
+          "117 N. Taylor St"
         ],
         "city": "GUNNISON",
         "state": "CO",
-        "postalCode": "81231-0001"
+        "postalCode": "81230-2131"
       },
       {
         "line": [
@@ -133,6 +125,14 @@
         "city": "GUNNISON",
         "state": "CO",
         "postalCode": "81230-2722"
+      },
+      {
+        "line": [
+          "300 East Denver Avenue"
+        ],
+        "city": "GUNNISON",
+        "state": "CO",
+        "postalCode": "81230-2210"
       }
     ],
     "extension": [

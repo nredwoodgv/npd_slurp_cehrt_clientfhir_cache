@@ -14,22 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649748674"
+        "value": "1457547457"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457547457"
+        "value": "1649748674"
       }
     ],
     "address": [
       {
         "line": [
-          "One Tiffany Pointe",
-          "Suite 105"
+          "ONE TIFFANY PT STE 105"
         ],
         "city": "BLOOMINGDALE",
         "state": "IL",
-        "postalCode": "60108-2936"
+        "postalCode": "60108-2915"
       },
       {
         "line": [
@@ -41,11 +40,12 @@
       },
       {
         "line": [
-          "ONE TIFFANY PT STE 105"
+          "One Tiffany Pointe",
+          "Suite 105"
         ],
         "city": "BLOOMINGDALE",
         "state": "IL",
-        "postalCode": "60108-2915"
+        "postalCode": "60108-2936"
       }
     ],
     "extension": [

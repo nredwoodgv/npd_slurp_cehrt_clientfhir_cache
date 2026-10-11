@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346904885"
+        "value": "1821819665"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821819665"
+        "value": "1346904885"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,6 +34,22 @@
       }
     ],
     "address": [
+      {
+        "line": [
+          "1405 WHITE ST"
+        ],
+        "city": "RUSTON",
+        "state": "LA",
+        "postalCode": "71270-7213"
+      },
+      {
+        "line": [
+          "1745 BAILEY AVE"
+        ],
+        "city": "HAYNESVILLE",
+        "state": "LA",
+        "postalCode": "71038-5411"
+      },
       {
         "line": [
           "2401 N SERVICE RD E"
@@ -44,11 +60,11 @@
       },
       {
         "line": [
-          "1745 BAILEY AVE"
+          "411 E Vaughn Ave Suite 104"
         ],
-        "city": "HAYNESVILLE",
+        "city": "RUSTON",
         "state": "LA",
-        "postalCode": "71038-5411"
+        "postalCode": "71270-5975"
       },
       {
         "line": [
@@ -68,27 +84,11 @@
       },
       {
         "line": [
-          "411 E Vaughn Ave Suite 104"
-        ],
-        "city": "RUSTON",
-        "state": "LA",
-        "postalCode": "71270-5975"
-      },
-      {
-        "line": [
           "3720 HIGHWAY 80"
         ],
         "city": "RUSTON",
         "state": "LA",
         "postalCode": "71270-8943"
-      },
-      {
-        "line": [
-          "1405 WHITE ST"
-        ],
-        "city": "RUSTON",
-        "state": "LA",
-        "postalCode": "71270-7213"
       },
       {
         "line": [

@@ -18,7 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588433502"
+        "value": "1285511170"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285511170"
+        "value": "1588433502"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,48 +34,6 @@
       }
     ],
     "address": [
-      {
-        "line": [
-          "431 MASON PARK BLVD STE C"
-        ],
-        "city": "KATY",
-        "state": "TX",
-        "postalCode": "77450-6234"
-      },
-      {
-        "line": [
-          "4615 UNIVERSITY DR"
-        ],
-        "city": "DURHAM",
-        "state": "NC",
-        "postalCode": "27707-3458"
-      },
-      {
-        "line": [
-          "233 S 13TH ST",
-          "STE 1100"
-        ],
-        "city": "LINCOLN",
-        "state": "NE",
-        "postalCode": "68508-2003"
-      },
-      {
-        "line": [
-          "1880 N STONEBRIDGE DR"
-        ],
-        "city": "MCKINNEY",
-        "state": "TX",
-        "postalCode": "75071-7438"
-      },
-      {
-        "line": [
-          "401 N Michigan Av",
-          "STE 1200"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60611-4264"
-      },
       {
         "line": [
           "4320 N BELT LINE RD",
@@ -95,6 +53,31 @@
       },
       {
         "line": [
+          "431 MASON PARK BLVD STE C"
+        ],
+        "city": "KATY",
+        "state": "TX",
+        "postalCode": "77450-6234"
+      },
+      {
+        "line": [
+          "233 S 13TH ST",
+          "STE 1100"
+        ],
+        "city": "LINCOLN",
+        "state": "NE",
+        "postalCode": "68508-2003"
+      },
+      {
+        "line": [
+          "4615 UNIVERSITY DR"
+        ],
+        "city": "DURHAM",
+        "state": "NC",
+        "postalCode": "27707-3458"
+      },
+      {
+        "line": [
           "1233 N MAYFAIR RD"
         ],
         "city": "MILWAUKEE",
@@ -103,11 +86,28 @@
       },
       {
         "line": [
-          "6319 S Fairview"
+          "1880 N STONEBRIDGE DR"
         ],
-        "city": "WESTMONT",
+        "city": "MCKINNEY",
+        "state": "TX",
+        "postalCode": "75071-7438"
+      },
+      {
+        "line": [
+          "885 GOLD HILL RD"
+        ],
+        "city": "FORT MILL",
+        "state": "SC",
+        "postalCode": "29708-7946"
+      },
+      {
+        "line": [
+          "401 N Michigan Av",
+          "STE 1200"
+        ],
+        "city": "CHICAGO",
         "state": "IL",
-        "postalCode": "60559-2889"
+        "postalCode": "60611-4264"
       },
       {
         "line": [
@@ -119,11 +119,11 @@
       },
       {
         "line": [
-          "885 GOLD HILL RD"
+          "6319 S Fairview"
         ],
-        "city": "FORT MILL",
-        "state": "SC",
-        "postalCode": "29708-7946"
+        "city": "WESTMONT",
+        "state": "IL",
+        "postalCode": "60559-2889"
       }
     ],
     "extension": [

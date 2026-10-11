@@ -22,11 +22,11 @@
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "36D0931053"
+        "value": "36D0931052"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "36D0931052"
+        "value": "36D0931053"
       }
     ],
     "address": [
@@ -37,21 +37,6 @@
         "city": "DUBLIN",
         "state": "OH",
         "postalCode": "43016-8518"
-      },
-      {
-        "line": [
-          "484 County Line Road West",
-          "Suite 230"
-        ],
-        "city": "Westerville",
-        "state": "OH",
-        "postalCode": "43082-7080"
-      },
-      {
-        "line": [],
-        "city": "DUBLIN",
-        "state": "OH",
-        "postalCode": "43016-1212"
       },
       {
         "line": [
@@ -70,6 +55,18 @@
         "postalCode": "43016-1196"
       },
       {
+        "line": [],
+        "city": "DUBLIN",
+        "state": "OH",
+        "postalCode": "43016-1212"
+      },
+      {
+        "line": [],
+        "city": "COLUMBUS",
+        "state": "OH",
+        "postalCode": "43214-1111"
+      },
+      {
         "line": [
           "3535 Olentangy River Road"
         ],
@@ -78,10 +75,13 @@
         "postalCode": "43214-3908"
       },
       {
-        "line": [],
-        "city": "COLUMBUS",
+        "line": [
+          "484 County Line Road West",
+          "Suite 230"
+        ],
+        "city": "Westerville",
         "state": "OH",
-        "postalCode": "43214-1111"
+        "postalCode": "43082-7080"
       }
     ],
     "extension": [

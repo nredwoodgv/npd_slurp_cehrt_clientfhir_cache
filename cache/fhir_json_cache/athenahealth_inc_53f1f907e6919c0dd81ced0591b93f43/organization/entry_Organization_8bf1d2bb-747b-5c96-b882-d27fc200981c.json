@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457399982"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487613121"
+        "value": "1578327896"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,26 +26,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578327896"
+        "value": "1487613121"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457399982"
       }
     ],
     "address": [
-      {
-        "line": [
-          "117 SW Virginia Circle"
-        ],
-        "city": "MAYO",
-        "state": "FL",
-        "postalCode": "32066-0228"
-      },
-      {
-        "line": [
-          "555 N BYRON BUTLER PARKWAY"
-        ],
-        "city": "PERRY",
-        "state": "FL",
-        "postalCode": "32347-2300"
-      },
       {
         "line": [
           "333 N BYRON BUTLER PKY"
@@ -57,6 +41,22 @@
         "city": "PERRY",
         "state": "FL",
         "postalCode": "32347-2117"
+      },
+      {
+        "line": [
+          "333 N BYRON BUTLER PKWY"
+        ],
+        "city": "PERRY",
+        "state": "FL",
+        "postalCode": "32347-2300"
+      },
+      {
+        "line": [
+          "117 SW Virginia Circle"
+        ],
+        "city": "MAYO",
+        "state": "FL",
+        "postalCode": "32066-0228"
       },
       {
         "line": [
@@ -68,7 +68,7 @@
       },
       {
         "line": [
-          "333 N BYRON BUTLER PKWY"
+          "555 N BYRON BUTLER PARKWAY"
         ],
         "city": "PERRY",
         "state": "FL",

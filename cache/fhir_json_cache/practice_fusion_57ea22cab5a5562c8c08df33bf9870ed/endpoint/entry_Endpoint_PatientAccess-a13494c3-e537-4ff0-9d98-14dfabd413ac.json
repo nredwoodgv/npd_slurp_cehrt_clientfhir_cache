@@ -3,7 +3,7 @@
     "resourceType": "Endpoint",
     "id": "PatientAccess-a13494c3-e537-4ff0-9d98-14dfabd413ac",
     "name": "Patient Access",
-    "address": "https://api.patientfusion.com/fhir/r4/v1/a13494c3-e537-4ff0-9d98-14dfabd413ac",
+    "address": "https://api.practicefusion.com/fhir/fmh/r4/v1/a13494c3-e537-4ff0-9d98-14dfabd413ac",
     "status": "active",
     "connectionType": {
       "system": "http://terminology.hl7.org/CodeSystem/endpoint-connection-type",
@@ -23,5 +23,5 @@
       }
     ]
   },
-  "fullUrl": "https://api.patientfusion.com/fhir/r4/v1/a13494c3-e537-4ff0-9d98-14dfabd413ac"
+  "fullUrl": "https://api.practicefusion.com/fhir/fmh/r4/v1/a13494c3-e537-4ff0-9d98-14dfabd413ac"
 }

@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205605342"
+        "value": "1205835485"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205835485"
+        "value": "1205605342"
       }
     ],
     "address": [
-      {
-        "line": [
-          "11890 HEALING WAY"
-        ],
-        "city": "SILVER SPRING",
-        "state": "MD",
-        "postalCode": "20904-7917"
-      },
       {
         "line": [
           "1150 VARNUM ST., SE"
@@ -48,21 +40,19 @@
       },
       {
         "line": [
-          "5632 Annapolis Rd",
-          "Suite 4"
+          "75 Thomas Johnson Dr Ste I"
         ],
-        "city": "BLADENSBURG",
+        "city": "FREDERICK",
         "state": "MD",
-        "postalCode": "20710-2213"
+        "postalCode": "21702-4895"
       },
       {
         "line": [
-          "7603 GEORGIA AVE NW",
-          "Suite 100"
+          "7600 CARROLL AVE"
         ],
-        "city": "WASHINGTON",
-        "state": "DC",
-        "postalCode": "20012-1141"
+        "city": "TAKOMA PARK",
+        "state": "MD",
+        "postalCode": "20912-6311"
       },
       {
         "line": [
@@ -83,19 +73,29 @@
       },
       {
         "line": [
-          "75 Thomas Johnson Dr Ste I"
+          "5632 Annapolis Rd",
+          "Suite 4"
         ],
-        "city": "FREDERICK",
+        "city": "BLADENSBURG",
         "state": "MD",
-        "postalCode": "21702-4895"
+        "postalCode": "20710-2213"
       },
       {
         "line": [
-          "7600 CARROLL AVE"
+          "11890 HEALING WAY"
         ],
-        "city": "TAKOMA PARK",
+        "city": "SILVER SPRING",
         "state": "MD",
-        "postalCode": "20912-6311"
+        "postalCode": "20904-7917"
+      },
+      {
+        "line": [
+          "7603 GEORGIA AVE NW",
+          "Suite 100"
+        ],
+        "city": "WASHINGTON",
+        "state": "DC",
+        "postalCode": "20012-1141"
       }
     ],
     "extension": [

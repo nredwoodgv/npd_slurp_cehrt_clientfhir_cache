@@ -14,21 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790103869"
+        "value": "1326072943"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326072943"
+        "value": "1790103869"
       }
     ],
     "address": [
       {
         "line": [
-          "1301 Barbara Jordan Blvd Ste 200"
+          "1301 Barbara Jordan Blvd Ste 200G"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78723-3078"
+      },
+      {
+        "line": [
+          "6811 Austin Center Blvd Ste 400"
         ],
         "city": "Austin",
         "state": "TX",
-        "postalCode": "78723-3078"
+        "postalCode": "78731-3157"
       },
       {
         "line": [
@@ -37,6 +45,22 @@
         "city": "Round Rock",
         "state": "TX",
         "postalCode": "78665-2437"
+      },
+      {
+        "line": [
+          "1000 Hesters Crossing Rd"
+        ],
+        "city": "Round Rock",
+        "state": "TX",
+        "postalCode": "78681-8020"
+      },
+      {
+        "line": [
+          "1301 Barbara Jordan Blvd Ste 200"
+        ],
+        "city": "Austin",
+        "state": "TX",
+        "postalCode": "78723-3078"
       },
       {
         "line": [
@@ -53,30 +77,6 @@
         "city": "Woodway",
         "state": "TX",
         "postalCode": "76712-6111"
-      },
-      {
-        "line": [
-          "1000 Hesters Crossing Rd"
-        ],
-        "city": "Round Rock",
-        "state": "TX",
-        "postalCode": "78681-8020"
-      },
-      {
-        "line": [
-          "1301 Barbara Jordan Blvd Ste 200G"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78723-3078"
-      },
-      {
-        "line": [
-          "6811 Austin Center Blvd Ste 400"
-        ],
-        "city": "Austin",
-        "state": "TX",
-        "postalCode": "78731-3157"
       }
     ],
     "extension": [

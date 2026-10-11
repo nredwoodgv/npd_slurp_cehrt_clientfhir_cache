@@ -22,21 +22,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265507537"
+        "value": "1942554514"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942554514"
+        "value": "1265507537"
       }
     ],
     "address": [
       {
         "line": [
-          "100 NORTH GREEN AVE"
+          "1226 BERLIN ST"
         ],
-        "city": "STEVENS POINT",
+        "city": "WAUPACA",
         "state": "WI",
-        "postalCode": "54481-1309"
+        "postalCode": "54981-1997"
       },
       {
         "line": [
@@ -48,19 +48,19 @@
       },
       {
         "line": [
-          "3349 WHITING AVE"
+          "2201 EAGLE SUMMIT"
         ],
         "city": "STEVENS POINT",
         "state": "WI",
-        "postalCode": "54481-5143"
+        "postalCode": "54482-8977"
       },
       {
         "line": [
-          "185 S CHET KRAUSE DR"
+          "2251 North Shore Drive"
         ],
-        "city": "IOLA",
+        "city": "RHINELANDER",
         "state": "WI",
-        "postalCode": "54945-9300"
+        "postalCode": "54501-6710"
       },
       {
         "line": [
@@ -80,67 +80,11 @@
       },
       {
         "line": [
-          "900 ILLINOIS AVE"
-        ],
-        "city": "STRATFORD",
-        "state": "WI",
-        "postalCode": "54484-3196"
-      },
-      {
-        "line": [
-          "401 W Mohawk Dr"
-        ],
-        "city": "TOMAHAWK",
-        "state": "WI",
-        "postalCode": "54487-2273"
-      },
-      {
-        "line": [
-          "1800 SHERMAN AVE"
+          "3349 WHITING AVE"
         ],
         "city": "STEVENS POINT",
         "state": "WI",
-        "postalCode": "54481-7215"
-      },
-      {
-        "line": [
-          "2251 North Shore Drive"
-        ],
-        "city": "RHINELANDER",
-        "state": "WI",
-        "postalCode": "54501-6710"
-      },
-      {
-        "line": [
-          "2201 EAGLE SUMMIT"
-        ],
-        "city": "STEVENS POINT",
-        "state": "WI",
-        "postalCode": "54482-8977"
-      },
-      {
-        "line": [
-          "1902 POST RD"
-        ],
-        "city": "STEVENS POINT",
-        "state": "WI",
-        "postalCode": "54481-6503"
-      },
-      {
-        "line": [
-          "824 ILLINOIS AVE"
-        ],
-        "city": "STEVENS POINT",
-        "state": "WI",
-        "postalCode": "54481-3112"
-      },
-      {
-        "line": [
-          "2831 MAPLE DR"
-        ],
-        "city": "PLOVER",
-        "state": "WI",
-        "postalCode": "54467-3662"
+        "postalCode": "54481-5143"
       },
       {
         "line": [
@@ -152,11 +96,11 @@
       },
       {
         "line": [
-          "3380 BRIDLEWOOD DR"
+          "1800 SHERMAN AVE"
         ],
-        "city": "PLOVER",
+        "city": "STEVENS POINT",
         "state": "WI",
-        "postalCode": "54467-3892"
+        "postalCode": "54481-7215"
       },
       {
         "line": [
@@ -168,27 +112,43 @@
       },
       {
         "line": [
-          "1800 BLUEBELL LN"
+          "900 ILLINOIS AVE"
         ],
-        "city": "STEVENS POINT",
+        "city": "STRATFORD",
         "state": "WI",
-        "postalCode": "54481-8983"
+        "postalCode": "54484-3196"
       },
       {
         "line": [
-          "1300 MARIA DR"
+          "100 NORTH GREEN AVE"
         ],
         "city": "STEVENS POINT",
         "state": "WI",
-        "postalCode": "54482-1141"
+        "postalCode": "54481-1309"
       },
       {
         "line": [
-          "825 WHITING AVE"
+          "824 ILLINOIS AVE"
         ],
         "city": "STEVENS POINT",
         "state": "WI",
-        "postalCode": "54481-5246"
+        "postalCode": "54481-3112"
+      },
+      {
+        "line": [
+          "1902 POST RD"
+        ],
+        "city": "STEVENS POINT",
+        "state": "WI",
+        "postalCode": "54481-6503"
+      },
+      {
+        "line": [
+          "401 W Mohawk Dr"
+        ],
+        "city": "TOMAHAWK",
+        "state": "WI",
+        "postalCode": "54487-2273"
       },
       {
         "line": [
@@ -200,11 +160,35 @@
       },
       {
         "line": [
-          "1226 BERLIN ST"
+          "185 S CHET KRAUSE DR"
         ],
-        "city": "WAUPACA",
+        "city": "IOLA",
         "state": "WI",
-        "postalCode": "54981-1997"
+        "postalCode": "54945-9300"
+      },
+      {
+        "line": [
+          "1800 BLUEBELL LN"
+        ],
+        "city": "STEVENS POINT",
+        "state": "WI",
+        "postalCode": "54481-8983"
+      },
+      {
+        "line": [
+          "2831 MAPLE DR"
+        ],
+        "city": "PLOVER",
+        "state": "WI",
+        "postalCode": "54467-3662"
+      },
+      {
+        "line": [
+          "825 WHITING AVE"
+        ],
+        "city": "STEVENS POINT",
+        "state": "WI",
+        "postalCode": "54481-5246"
       },
       {
         "line": [
@@ -213,6 +197,22 @@
         "city": "STEVENS POINT",
         "state": "WI",
         "postalCode": "54482-8974"
+      },
+      {
+        "line": [
+          "1300 MARIA DR"
+        ],
+        "city": "STEVENS POINT",
+        "state": "WI",
+        "postalCode": "54482-1141"
+      },
+      {
+        "line": [
+          "3380 BRIDLEWOOD DR"
+        ],
+        "city": "PLOVER",
+        "state": "WI",
+        "postalCode": "54467-3892"
       }
     ],
     "extension": [

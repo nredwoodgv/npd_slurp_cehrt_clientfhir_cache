@@ -18,6 +18,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316188147"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1427299841"
       },
       {
@@ -27,21 +31,9 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215178421"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316188147"
       }
     ],
     "address": [
-      {
-        "line": [
-          "One Wyoming St"
-        ],
-        "city": "DAYTON",
-        "state": "OH",
-        "postalCode": "45409-2722"
-      },
       {
         "line": [
           "2300 Miami Valley Dr"
@@ -49,6 +41,14 @@
         "city": "DAYTON",
         "state": "OH",
         "postalCode": "45459-1294"
+      },
+      {
+        "line": [
+          "One Wyoming St"
+        ],
+        "city": "DAYTON",
+        "state": "OH",
+        "postalCode": "45409-2722"
       },
       {
         "line": [

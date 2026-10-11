@@ -18,11 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144308099"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235234899"
+        "value": "1619079290"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,21 +26,33 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619079290"
+        "value": "1144308099"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235234899"
       }
     ],
     "address": [
       {
-        "line": [],
-        "city": "new york",
+        "line": [
+          "130 East 77th Street"
+        ],
+        "city": "New York",
         "state": "NY",
-        "postalCode": "10023"
+        "postalCode": "10075-1851"
       },
       {
         "line": [],
         "city": "NEW YORK",
         "state": "NY",
         "postalCode": "10019-1412"
+      },
+      {
+        "line": [],
+        "city": "new york",
+        "state": "NY",
+        "postalCode": "10023"
       },
       {
         "line": [
@@ -53,14 +61,6 @@
         "city": "NEW YORK",
         "state": "NY",
         "postalCode": "10019-1412"
-      },
-      {
-        "line": [
-          "130 East 77th Street"
-        ],
-        "city": "New York",
-        "state": "NY",
-        "postalCode": "10075-1851"
       }
     ],
     "extension": [

@@ -18,11 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588997233"
+        "value": "1629538491"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275290694"
+        "value": "1962025148"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,11 +30,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629538491"
+        "value": "1588997233"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962025148"
+        "value": "1275290694"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -56,6 +56,14 @@
       },
       {
         "line": [
+          "1601 Trinity Street Suite 6"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78712-1765"
+      },
+      {
+        "line": [
           "1601 Trinity St",
           "Suite 1.106"
         ],
@@ -65,7 +73,8 @@
       },
       {
         "line": [
-          "1601 Trinity Street Suite 6"
+          "1601 Trinity St",
+          "STE 9,901S"
         ],
         "city": "AUSTIN",
         "state": "TX",
@@ -78,15 +87,6 @@
         "city": "Austin",
         "state": "TX",
         "postalCode": "78712-1766"
-      },
-      {
-        "line": [
-          "1601 Trinity St",
-          "STE 9,901S"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78712-1765"
       }
     ],
     "extension": [

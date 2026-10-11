@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437557519"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1154794261"
       },
       {
@@ -26,22 +22,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467884262"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407194319"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1942508379"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285614834"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467884262"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437557519"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1407194319"
       }
     ],
     "address": [
+      {
+        "line": [
+          "609 south main street"
+        ],
+        "city": "WOLFEBORO",
+        "state": "NH",
+        "postalCode": "03894-4411"
+      },
       {
         "line": [
           "133 Littleton Road",
@@ -50,14 +58,6 @@
         "city": "Westford",
         "state": "MA",
         "postalCode": "01886-3115"
-      },
-      {
-        "line": [
-          "609 south main street"
-        ],
-        "city": "WOLFEBORO",
-        "state": "NH",
-        "postalCode": "03894-4411"
       }
     ],
     "extension": [

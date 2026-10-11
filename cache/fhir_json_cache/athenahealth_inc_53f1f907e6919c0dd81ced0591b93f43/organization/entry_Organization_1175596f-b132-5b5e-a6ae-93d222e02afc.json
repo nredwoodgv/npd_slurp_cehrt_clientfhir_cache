@@ -18,10 +18,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1407109812"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396718409"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1720 S. Gadsden Street"
+        ],
+        "city": "TALLAHASSEE",
+        "state": "FL",
+        "postalCode": "32301-5506"
+      },
       {
         "line": [
           "2813 RIDGEWAY ST"
@@ -32,7 +44,7 @@
       },
       {
         "line": [
-          "1720 S. Gadsden Street"
+          "1720 SOUTH GADSDEN ST"
         ],
         "city": "TALLAHASSEE",
         "state": "FL",

@@ -14,6 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437910080"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1255007100"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336931211"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1841979846"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1750860938"
       },
       {
@@ -22,23 +38,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437910080"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1265319271"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841979846"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336931211"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255007100"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.336",
@@ -58,19 +58,11 @@
       {
         "line": [
           "840 37TH PL",
-          "Unit B"
+          "STE B"
         ],
         "city": "VERO BEACH",
         "state": "FL",
         "postalCode": "32960-6502"
-      },
-      {
-        "line": [
-          "1255 37TH ST STE C"
-        ],
-        "city": "VERO BEACH",
-        "state": "FL",
-        "postalCode": "32960-6550"
       },
       {
         "line": [
@@ -82,8 +74,16 @@
       },
       {
         "line": [
+          "1255 37TH ST STE C"
+        ],
+        "city": "VERO BEACH",
+        "state": "FL",
+        "postalCode": "32960-6550"
+      },
+      {
+        "line": [
           "840 37TH PL",
-          "STE B"
+          "Unit B"
         ],
         "city": "VERO BEACH",
         "state": "FL",

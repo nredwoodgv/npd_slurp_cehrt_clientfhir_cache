@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073615456"
+        "value": "1457617235"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,17 +22,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457617235"
+        "value": "1073615456"
       }
     ],
     "address": [
       {
         "line": [
-          "7100 Graphics Way Suite 1500"
+          "5965 East Broad Street Suite 200"
         ],
-        "city": "LEWIS CENTER",
+        "city": "COLUMBUS",
         "state": "OH",
-        "postalCode": "43035-8114"
+        "postalCode": "43213-1562"
       },
       {
         "line": [
@@ -44,12 +44,11 @@
       },
       {
         "line": [
-          "5300 North Meadows Dr",
-          "Building 1, Suite 280"
+          "7100 Graphics Way Suite 1500"
         ],
-        "city": "GROVE CITY",
+        "city": "LEWIS CENTER",
         "state": "OH",
-        "postalCode": "43123-2546"
+        "postalCode": "43035-8114"
       },
       {
         "line": [
@@ -61,11 +60,12 @@
       },
       {
         "line": [
-          "5965 East Broad Street Suite 200"
+          "5300 North Meadows Dr",
+          "Building 1, Suite 280"
         ],
-        "city": "COLUMBUS",
+        "city": "GROVE CITY",
         "state": "OH",
-        "postalCode": "43213-1562"
+        "postalCode": "43123-2546"
       }
     ],
     "extension": [

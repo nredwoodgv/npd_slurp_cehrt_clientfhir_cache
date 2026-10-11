@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609279330"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407962046"
+        "value": "1932925062"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,10 +22,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932925062"
+        "value": "1407962046"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1609279330"
       }
     ],
     "address": [
+      {
+        "line": [
+          "68 Hospital Road"
+        ],
+        "city": "SYLVA",
+        "state": "NC",
+        "postalCode": "28779-2722"
+      },
       {
         "line": [
           "80 HEALTHCARE DR",
@@ -38,14 +46,6 @@
         "city": "SYLVA",
         "state": "NC",
         "postalCode": "28779-5146"
-      },
-      {
-        "line": [
-          "68 Hospital Road"
-        ],
-        "city": "SYLVA",
-        "state": "NC",
-        "postalCode": "28779-2722"
       },
       {
         "line": [

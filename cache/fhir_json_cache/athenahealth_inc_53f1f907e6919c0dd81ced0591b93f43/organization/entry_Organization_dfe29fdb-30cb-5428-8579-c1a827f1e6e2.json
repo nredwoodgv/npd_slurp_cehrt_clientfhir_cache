@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003139387"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1891155974"
       },
       {
@@ -27,17 +23,21 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932610482"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1003139387"
       }
     ],
     "address": [
       {
         "line": [
-          "1851 MESQUITE AVE",
-          "Ste. 116"
+          "1741 Mesquite Ave",
+          "Suite 200"
         ],
         "city": "LAKE HAVASU CITY",
         "state": "AZ",
-        "postalCode": "86403-5689"
+        "postalCode": "86403-5680"
       },
       {
         "line": [
@@ -50,12 +50,12 @@
       },
       {
         "line": [
-          "1741 Mesquite Ave",
-          "Suite 200"
+          "1851 MESQUITE AVE",
+          "Ste. 116"
         ],
         "city": "LAKE HAVASU CITY",
         "state": "AZ",
-        "postalCode": "86403-5680"
+        "postalCode": "86403-5689"
       }
     ],
     "extension": [

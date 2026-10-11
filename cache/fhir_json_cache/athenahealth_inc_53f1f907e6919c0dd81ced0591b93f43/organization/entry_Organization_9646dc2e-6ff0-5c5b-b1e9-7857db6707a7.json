@@ -22,10 +22,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306319280"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1992206478"
       },
       {
@@ -34,36 +30,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306319280"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1912756164"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538622436"
+        "value": "1962281923"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962281923"
+        "value": "1538622436"
       }
     ],
     "address": [
-      {
-        "line": [
-          "4938 Hampden Lane",
-          "Suite 296"
-        ],
-        "city": "BETHESDA",
-        "state": "MD",
-        "postalCode": "20814-2914"
-      },
-      {
-        "line": [
-          "55 CHAPEL ST",
-          "SUITE 300"
-        ],
-        "city": "NEWTON",
-        "state": "MA",
-        "postalCode": "02458-1060"
-      },
       {
         "line": [
           "7330 Staples Mill Rd"
@@ -74,11 +56,12 @@
       },
       {
         "line": [
-          "10 LANGLEY RD STE 400"
+          "10 CONCORD CROSSING",
+          "STE 250"
         ],
-        "city": "NEWTON CENTER",
+        "city": "CONCORD",
         "state": "MA",
-        "postalCode": "02459-1972"
+        "postalCode": "01742-3499"
       },
       {
         "line": [
@@ -99,20 +82,12 @@
       },
       {
         "line": [
-          "123 Main St."
+          "55 CHAPEL ST",
+          "SUITE 300"
         ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10017-1020"
-      },
-      {
-        "line": [
-          "10 CONCORD CROSSING",
-          "STE 250"
-        ],
-        "city": "CONCORD",
+        "city": "NEWTON",
         "state": "MA",
-        "postalCode": "01742-3499"
+        "postalCode": "02458-1060"
       },
       {
         "line": [
@@ -125,12 +100,37 @@
       },
       {
         "line": [
+          "4938 Hampden Lane",
+          "Suite 296"
+        ],
+        "city": "BETHESDA",
+        "state": "MD",
+        "postalCode": "20814-2914"
+      },
+      {
+        "line": [
+          "10 LANGLEY RD STE 400"
+        ],
+        "city": "NEWTON CENTER",
+        "state": "MA",
+        "postalCode": "02459-1972"
+      },
+      {
+        "line": [
           "55 Chapel St.",
           "Suite 300"
         ],
         "city": "NEWTON",
         "state": "MA",
         "postalCode": "02458-1060"
+      },
+      {
+        "line": [
+          "123 Main St."
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10017-1020"
       }
     ],
     "extension": [

@@ -18,18 +18,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396782363"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1780638478"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1992752224"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396782363"
       }
     ],
     "address": [
+      {
+        "line": [
+          "7309 N KNOXVILLE AVE STE 2"
+        ],
+        "city": "PEORIA",
+        "state": "IL",
+        "postalCode": "61614-2086"
+      },
       {
         "line": [
           "7309 N Knoxville Ave"
@@ -45,14 +53,6 @@
         "city": "Peoria",
         "state": "IL",
         "postalCode": "61614-2079"
-      },
-      {
-        "line": [
-          "7309 N KNOXVILLE AVE STE 2"
-        ],
-        "city": "PEORIA",
-        "state": "IL",
-        "postalCode": "61614-2086"
       },
       {
         "line": [

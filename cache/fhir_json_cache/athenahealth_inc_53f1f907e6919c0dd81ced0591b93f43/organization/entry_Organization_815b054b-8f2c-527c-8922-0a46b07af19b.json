@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144409194"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1780225326"
       },
       {
@@ -27,25 +23,13 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1003079799"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144409194"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3701 Eldorado Ave"
-        ],
-        "city": "BALTIMORE",
-        "state": "MD",
-        "postalCode": "21207-7658"
-      },
-      {
-        "line": [
-          "621 Wildwood Parkway"
-        ],
-        "city": "BALTIMORE",
-        "state": "MD",
-        "postalCode": "21229-1811"
-      },
       {
         "line": [
           "900 Caton Avenue"
@@ -56,19 +40,20 @@
       },
       {
         "line": [
-          "4502 Park Heights Ave"
-        ],
-        "city": "Baltimore",
-        "state": "MD",
-        "postalCode": "21215-6330"
-      },
-      {
-        "line": [
-          "3407 Wilkens Ave Suite 300"
+          "900 Caton Ave",
+          "4th Floor"
         ],
         "city": "BALTIMORE",
         "state": "MD",
-        "postalCode": "21229-5222"
+        "postalCode": "21229-5201"
+      },
+      {
+        "line": [
+          "3701 Eldorado Ave"
+        ],
+        "city": "BALTIMORE",
+        "state": "MD",
+        "postalCode": "21207-7658"
       },
       {
         "line": [
@@ -80,12 +65,27 @@
       },
       {
         "line": [
-          "900 Caton Ave",
-          "4th Floor"
+          "3407 Wilkens Ave Suite 300"
         ],
         "city": "BALTIMORE",
         "state": "MD",
-        "postalCode": "21229-5201"
+        "postalCode": "21229-5222"
+      },
+      {
+        "line": [
+          "4502 Park Heights Ave"
+        ],
+        "city": "Baltimore",
+        "state": "MD",
+        "postalCode": "21215-6330"
+      },
+      {
+        "line": [
+          "621 Wildwood Parkway"
+        ],
+        "city": "BALTIMORE",
+        "state": "MD",
+        "postalCode": "21229-1811"
       }
     ],
     "extension": [

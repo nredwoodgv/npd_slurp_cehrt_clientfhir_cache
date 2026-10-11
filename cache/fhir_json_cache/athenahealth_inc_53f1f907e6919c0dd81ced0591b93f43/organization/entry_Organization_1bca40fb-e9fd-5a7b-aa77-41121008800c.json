@@ -22,11 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558797118"
+        "value": "1417297847"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417297847"
+        "value": "1558797118"
       }
     ],
     "address": [
@@ -40,11 +40,51 @@
       },
       {
         "line": [
+          "1010 Murray Ave"
+        ],
+        "city": "SAN LUIS OBISPO",
+        "state": "CA",
+        "postalCode": "93405-1806"
+      },
+      {
+        "line": [
+          "1150 North Indian Canyon Dr"
+        ],
+        "city": "PALM SPRINGS",
+        "state": "CA",
+        "postalCode": "92262-4872"
+      },
+      {
+        "line": [
+          "39000 Bob Hope Dr"
+        ],
+        "city": "RANCHO MIRAGE",
+        "state": "CA",
+        "postalCode": "92270-3221"
+      },
+      {
+        "line": [
           "8700 Beverly Blvd"
         ],
         "city": "LOS ANGELES",
         "state": "CA",
         "postalCode": "90048-1804"
+      },
+      {
+        "line": [
+          "6722 White Feather Rd"
+        ],
+        "city": "JOSHUA TREE",
+        "state": "CA",
+        "postalCode": "92252-6605"
+      },
+      {
+        "line": [
+          "11234 Anderson St"
+        ],
+        "city": "LOMA LINDA",
+        "state": "CA",
+        "postalCode": "92354-2804"
       },
       {
         "line": [
@@ -57,20 +97,12 @@
       },
       {
         "line": [
-          "35800 Bob Hope Drive",
-          "Suite 100"
+          "47647 Caleo Bay Dr",
+          "Ste 101"
         ],
-        "city": "RANCHO MIRAGE",
+        "city": "LA QUINTA",
         "state": "CA",
-        "postalCode": "92270-1739"
-      },
-      {
-        "line": [
-          "600 North Highland Springs Avenue"
-        ],
-        "city": "BANNING",
-        "state": "CA",
-        "postalCode": "92220-3046"
+        "postalCode": "92253-8857"
       },
       {
         "line": [
@@ -83,36 +115,11 @@
       },
       {
         "line": [
-          "39000 Bob Hope Dr"
+          "47763 Monroe St"
         ],
-        "city": "RANCHO MIRAGE",
+        "city": "INDIO",
         "state": "CA",
-        "postalCode": "92270-3221"
-      },
-      {
-        "line": [
-          "11234 Anderson St"
-        ],
-        "city": "LOMA LINDA",
-        "state": "CA",
-        "postalCode": "92354-2804"
-      },
-      {
-        "line": [
-          "47647 Caleo Bay Dr",
-          "Ste 101"
-        ],
-        "city": "LA QUINTA",
-        "state": "CA",
-        "postalCode": "92253-8857"
-      },
-      {
-        "line": [
-          "1150 North Indian Canyon Dr"
-        ],
-        "city": "PALM SPRINGS",
-        "state": "CA",
-        "postalCode": "92262-4872"
+        "postalCode": "92201-6711"
       },
       {
         "line": [
@@ -124,19 +131,28 @@
       },
       {
         "line": [
-          "6722 White Feather Rd"
+          "1150 N Indian Canyon Dr"
         ],
-        "city": "JOSHUA TREE",
+        "city": "PALM SPRINGS",
         "state": "CA",
-        "postalCode": "92252-6605"
+        "postalCode": "92262-4872"
       },
       {
         "line": [
-          "1010 Murray Ave"
+          "600 North Highland Springs Avenue"
         ],
-        "city": "SAN LUIS OBISPO",
+        "city": "BANNING",
         "state": "CA",
-        "postalCode": "93405-1806"
+        "postalCode": "92220-3046"
+      },
+      {
+        "line": [
+          "1180 N. Indian Canyon Dr.",
+          "Ste E218"
+        ],
+        "city": "PALM SPRINGS",
+        "state": "CA",
+        "postalCode": "92262-4885"
       },
       {
         "line": [
@@ -149,11 +165,12 @@
       },
       {
         "line": [
-          "1150 N Indian Canyon Dr"
+          "35800 Bob Hope Drive",
+          "Suite 100"
         ],
-        "city": "PALM SPRINGS",
+        "city": "RANCHO MIRAGE",
         "state": "CA",
-        "postalCode": "92262-4872"
+        "postalCode": "92270-1739"
       },
       {
         "line": [
@@ -162,23 +179,6 @@
         "city": "INDIO",
         "state": "CA",
         "postalCode": "92201-3120"
-      },
-      {
-        "line": [
-          "47763 Monroe St"
-        ],
-        "city": "INDIO",
-        "state": "CA",
-        "postalCode": "92201-6711"
-      },
-      {
-        "line": [
-          "1180 N. Indian Canyon Dr.",
-          "Ste E218"
-        ],
-        "city": "PALM SPRINGS",
-        "state": "CA",
-        "postalCode": "92262-4885"
       }
     ],
     "extension": [

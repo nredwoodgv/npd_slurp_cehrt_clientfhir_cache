@@ -14,14 +14,38 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356982599"
+        "value": "1063470235"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063470235"
+        "value": "1356982599"
       }
     ],
     "address": [
+      {
+        "line": [
+          "104 FORBES ST STE 102"
+        ],
+        "city": "ANNAPOLIS",
+        "state": "MD",
+        "postalCode": "21401-1543"
+      },
+      {
+        "line": [
+          "4797 Marlboro Pike"
+        ],
+        "city": "CAPITOL HEIGHTS",
+        "state": "MD",
+        "postalCode": "20743-5213"
+      },
+      {
+        "line": [
+          "2700 South Haven Rd"
+        ],
+        "city": "ANNAPOLIS",
+        "state": "MD",
+        "postalCode": "21401-7122"
+      },
       {
         "line": [
           "163 Jennifer Rd"
@@ -32,11 +56,19 @@
       },
       {
         "line": [
-          "104 FORBES ST STE 102"
+          "305 College Parkway"
         ],
-        "city": "ANNAPOLIS",
+        "city": "ARNOLD",
         "state": "MD",
-        "postalCode": "21401-1543"
+        "postalCode": "21012-2912"
+      },
+      {
+        "line": [
+          "835 BRIGHTSEAT RD"
+        ],
+        "city": "HYATTSVILLE",
+        "state": "MD",
+        "postalCode": "20785-4798"
       },
       {
         "line": [
@@ -53,30 +85,6 @@
         "city": "LANHAM",
         "state": "MD",
         "postalCode": "20706-4362"
-      },
-      {
-        "line": [
-          "2700 South Haven Rd"
-        ],
-        "city": "ANNAPOLIS",
-        "state": "MD",
-        "postalCode": "21401-7122"
-      },
-      {
-        "line": [
-          "835 BRIGHTSEAT RD"
-        ],
-        "city": "HYATTSVILLE",
-        "state": "MD",
-        "postalCode": "20785-4798"
-      },
-      {
-        "line": [
-          "4797 Marlboro Pike"
-        ],
-        "city": "CAPITOL HEIGHTS",
-        "state": "MD",
-        "postalCode": "20743-5213"
       },
       {
         "line": [
@@ -104,14 +112,6 @@
         "city": "ANNAPOLIS",
         "state": "MD",
         "postalCode": "21401-1543"
-      },
-      {
-        "line": [
-          "305 College Parkway"
-        ],
-        "city": "ARNOLD",
-        "state": "MD",
-        "postalCode": "21012-2912"
       }
     ],
     "extension": [

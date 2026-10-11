@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1023204062"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1871553073"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1205137536"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023204062"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,19 +32,19 @@
     "address": [
       {
         "line": [
+          "609 W Maple Ave"
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72764-5335"
+      },
+      {
+        "line": [
           "3000 Medical Center Pkwy"
         ],
         "city": "Bentonville",
         "state": "AR",
         "postalCode": "72712-3217"
-      },
-      {
-        "line": [
-          "609 W Maple"
-        ],
-        "city": "Springdale",
-        "state": "AR",
-        "postalCode": "72764-5335"
       },
       {
         "line": [
@@ -56,19 +56,19 @@
       },
       {
         "line": [
-          "609 W Maple Ave"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72764-5335"
-      },
-      {
-        "line": [
           "4301 Greathouse Springs Road"
         ],
         "city": "SPRINGDALE",
         "state": "AR",
         "postalCode": "72762-8701"
+      },
+      {
+        "line": [
+          "609 W Maple"
+        ],
+        "city": "Springdale",
+        "state": "AR",
+        "postalCode": "72764-5335"
       }
     ],
     "extension": [

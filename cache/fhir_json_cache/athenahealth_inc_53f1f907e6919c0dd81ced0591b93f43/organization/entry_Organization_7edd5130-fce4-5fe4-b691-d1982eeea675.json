@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740387042"
+        "value": "1154625606"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154625606"
+        "value": "1740387042"
       }
     ],
     "address": [
-      {
-        "line": [
-          "710 S MAIN ST"
-        ],
-        "city": "COLUMBIA",
-        "state": "IL",
-        "postalCode": "62236-2429"
-      },
       {
         "line": [
           "208 S KOSSOTH"
@@ -48,14 +40,6 @@
       },
       {
         "line": [
-          "351 LOCKWOOD DR"
-        ],
-        "city": "RED BUD",
-        "state": "IL",
-        "postalCode": "62278-2032"
-      },
-      {
-        "line": [
           "480 DD Rd."
         ],
         "city": "COLUMBIA",
@@ -69,6 +53,22 @@
         "city": "MILLSTADT",
         "state": "IL",
         "postalCode": "62260-1564"
+      },
+      {
+        "line": [
+          "710 S MAIN ST"
+        ],
+        "city": "COLUMBIA",
+        "state": "IL",
+        "postalCode": "62236-2429"
+      },
+      {
+        "line": [
+          "351 LOCKWOOD DR"
+        ],
+        "city": "RED BUD",
+        "state": "IL",
+        "postalCode": "62278-2032"
       }
     ],
     "extension": [

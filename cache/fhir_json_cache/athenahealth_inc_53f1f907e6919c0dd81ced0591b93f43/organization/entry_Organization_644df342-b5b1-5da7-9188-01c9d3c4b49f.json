@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790158343"
+        "value": "1497128045"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497128045"
+        "value": "1790158343"
       }
     ],
     "address": [
-      {
-        "line": [
-          "9263 MEDICAL PLAZA DR STE B"
-        ],
-        "city": "CHARLESTON",
-        "state": "SC",
-        "postalCode": "29406-7112"
-      },
       {
         "line": [
           "2270 ASHLEY CROSSING DRIVE",
@@ -38,6 +30,14 @@
         "city": "CHARLESTON",
         "state": "SC",
         "postalCode": "29414-5749"
+      },
+      {
+        "line": [
+          "9263 MEDICAL PLAZA DR STE B"
+        ],
+        "city": "CHARLESTON",
+        "state": "SC",
+        "postalCode": "29406-7112"
       }
     ],
     "extension": [

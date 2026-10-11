@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1851698310"
+        "value": "1841298999"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013468727"
+        "value": "1851698310"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,14 +26,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649624255"
+        "value": "1013468727"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841298999"
+        "value": "1649624255"
       }
     ],
     "address": [
+      {
+        "line": [
+          "."
+        ],
+        "city": "BIRMINGHAM",
+        "state": "AL",
+        "postalCode": "35235-3401"
+      },
       {
         "line": [
           "810 St Vincent's Drive"
@@ -41,14 +49,6 @@
         "city": "BIRMINGHAM",
         "state": "AL",
         "postalCode": "35205-1601"
-      },
-      {
-        "line": [
-          "1411 THOMPSON CIR"
-        ],
-        "city": "GARDENDALE",
-        "state": "AL",
-        "postalCode": "35071-2514"
       },
       {
         "line": [
@@ -60,12 +60,11 @@
       },
       {
         "line": [
-          "10330 N MERIDIAN ST",
-          "STE 201"
+          "1411 THOMPSON CIR"
         ],
-        "city": "INDIANAPOLIS",
-        "state": "IN",
-        "postalCode": "46290-1024"
+        "city": "GARDENDALE",
+        "state": "AL",
+        "postalCode": "35071-2514"
       },
       {
         "line": [
@@ -77,11 +76,12 @@
       },
       {
         "line": [
-          "."
+          "10330 N MERIDIAN ST",
+          "STE 201"
         ],
-        "city": "BIRMINGHAM",
-        "state": "AL",
-        "postalCode": "35235-3401"
+        "city": "INDIANAPOLIS",
+        "state": "IN",
+        "postalCode": "46290-1024"
       }
     ],
     "extension": [

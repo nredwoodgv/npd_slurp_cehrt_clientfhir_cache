@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316411929"
+        "value": "1487761177"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235181041"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,22 +30,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487761177"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235181041"
+        "value": "1316411929"
       }
     ],
     "address": [
       {
         "line": [
-          "225 Water St",
-          "Suite C105"
+          "1598 South County Trail",
+          "Suite 100"
         ],
-        "city": "PLYMOUTH",
+        "city": "EAST GREENWICH",
+        "state": "RI",
+        "postalCode": "02818-1627"
+      },
+      {
+        "line": [
+          "795 Middle Street"
+        ],
+        "city": "FALL RIVER",
         "state": "MA",
-        "postalCode": "02360-4026"
+        "postalCode": "02721-1733"
       },
       {
         "line": [
@@ -54,20 +62,12 @@
       },
       {
         "line": [
-          "795 Middle Street"
+          "225 Water St",
+          "Suite C105"
         ],
-        "city": "FALL RIVER",
+        "city": "PLYMOUTH",
         "state": "MA",
-        "postalCode": "02721-1733"
-      },
-      {
-        "line": [
-          "1598 South County Trail",
-          "Suite 203"
-        ],
-        "city": "EAST GREENWICH",
-        "state": "RI",
-        "postalCode": "02818-1627"
+        "postalCode": "02360-4026"
       },
       {
         "line": [
@@ -80,16 +80,16 @@
       },
       {
         "line": [
-          "20 Roche Brothers Way"
+          "1 Kettle Point Ave"
         ],
-        "city": "NORTH EASTON",
-        "state": "MA",
-        "postalCode": "02356-1000"
+        "city": "EAST PROVIDENCE",
+        "state": "RI",
+        "postalCode": "02914-5375"
       },
       {
         "line": [
           "1598 South County Trail",
-          "Suite 100"
+          "Suite 203"
         ],
         "city": "EAST GREENWICH",
         "state": "RI",
@@ -97,11 +97,11 @@
       },
       {
         "line": [
-          "1 Kettle Point Ave"
+          "20 Roche Brothers Way"
         ],
-        "city": "EAST PROVIDENCE",
-        "state": "RI",
-        "postalCode": "02914-5375"
+        "city": "NORTH EASTON",
+        "state": "MA",
+        "postalCode": "02356-1000"
       }
     ],
     "extension": [

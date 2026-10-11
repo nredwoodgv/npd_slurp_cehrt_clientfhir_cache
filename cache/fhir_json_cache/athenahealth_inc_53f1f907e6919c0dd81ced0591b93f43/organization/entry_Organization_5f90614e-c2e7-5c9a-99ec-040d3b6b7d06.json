@@ -22,21 +22,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245489590"
+        "value": "1679156731"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679156731"
+        "value": "1245489590"
       }
     ],
     "address": [
       {
         "line": [
-          "23 North Campus Drive"
+          "201 Lew Dewitt Blvd"
         ],
-        "city": "FISHERSVILLE",
+        "city": "WAYNESBORO",
         "state": "VA",
-        "postalCode": "22939-2332"
+        "postalCode": "22980-1663"
       },
       {
         "line": [
@@ -48,32 +48,7 @@
       },
       {
         "line": [
-          "644 UNIVERSITY BLVD",
-          "STE A"
-        ],
-        "city": "HARRISONBURG",
-        "state": "VA",
-        "postalCode": "22801-3773"
-      },
-      {
-        "line": [
-          "1751 ERICKSON AVE"
-        ],
-        "city": "HARRISONBURG",
-        "state": "VA",
-        "postalCode": "22801-8555"
-      },
-      {
-        "line": [
-          "1182 Eastside Hwy"
-        ],
-        "city": "WAYNESBORO",
-        "state": "VA",
-        "postalCode": "22980-6478"
-      },
-      {
-        "line": [
-          "78 MEDICAL CENTER DR"
+          "78 Medical Center Drive"
         ],
         "city": "FISHERSVILLE",
         "state": "VA",
@@ -81,11 +56,11 @@
       },
       {
         "line": [
-          "2006 Health Campus Drive"
+          "23 North Campus Drive"
         ],
-        "city": "HARRISONBURG",
+        "city": "FISHERSVILLE",
         "state": "VA",
-        "postalCode": "22801-8679"
+        "postalCode": "22939-2332"
       },
       {
         "line": [
@@ -97,6 +72,22 @@
       },
       {
         "line": [
+          "201 DODGE ST"
+        ],
+        "city": "STUARTS DRAFT",
+        "state": "VA",
+        "postalCode": "24477-2835"
+      },
+      {
+        "line": [
+          "81 Orchard Hill Circle"
+        ],
+        "city": "STAUNTON",
+        "state": "VA",
+        "postalCode": "24401-5086"
+      },
+      {
+        "line": [
           "51 Ivy Ridge Ln"
         ],
         "city": "FISHERSVILLE",
@@ -105,54 +96,11 @@
       },
       {
         "line": [
-          "78 Medical Center Drive, 2nd floor H&V"
+          "1182 Eastside Hwy"
         ],
-        "city": "FISHERSVILLE",
+        "city": "WAYNESBORO",
         "state": "VA",
-        "postalCode": "22939-2332"
-      },
-      {
-        "line": [
-          "78 Medical Center Drive"
-        ],
-        "city": "FISHERSVILLE",
-        "state": "VA",
-        "postalCode": "22939-2332"
-      },
-      {
-        "line": [
-          "70 MEDICAL CENTER CIR",
-          "STE 110"
-        ],
-        "city": "FISHERSVILLE",
-        "state": "VA",
-        "postalCode": "22939-2273"
-      },
-      {
-        "line": [
-          "70 Medical Center Drive",
-          "STE 202"
-        ],
-        "city": "FISHERSVILLE",
-        "state": "VA",
-        "postalCode": "22939-2332"
-      },
-      {
-        "line": [
-          "78 Medical Center Drive"
-        ],
-        "city": "FISHERSVILLE",
-        "state": "VA",
-        "postalCode": "22939-2232"
-      },
-      {
-        "line": [
-          "23 NORTH CAMPUS DR",
-          "Suite 102"
-        ],
-        "city": "FISHERSVILLE",
-        "state": "VA",
-        "postalCode": "22939-2469"
+        "postalCode": "22980-6478"
       },
       {
         "line": [
@@ -172,15 +120,16 @@
       },
       {
         "line": [
-          "81 Orchard Hill Circle"
+          "23 NORTH CAMPUS DR",
+          "Suite 102"
         ],
-        "city": "STAUNTON",
+        "city": "FISHERSVILLE",
         "state": "VA",
-        "postalCode": "24401-5086"
+        "postalCode": "22939-2469"
       },
       {
         "line": [
-          "ZZZ"
+          "78 Medical Center Drive, 2nd floor H&V"
         ],
         "city": "FISHERSVILLE",
         "state": "VA",
@@ -188,27 +137,11 @@
       },
       {
         "line": [
-          "201 DODGE ST"
+          "2006 Health Campus Drive"
         ],
-        "city": "STUARTS DRAFT",
+        "city": "HARRISONBURG",
         "state": "VA",
-        "postalCode": "24477-2835"
-      },
-      {
-        "line": [
-          "70 MEDICAL CENTER CIR"
-        ],
-        "city": "FISHERSVILLE",
-        "state": "VA",
-        "postalCode": "22939-2273"
-      },
-      {
-        "line": [
-          "1513 W BEVERLEY ST"
-        ],
-        "city": "STAUNTON",
-        "state": "VA",
-        "postalCode": "24401-3002"
+        "postalCode": "22801-8679"
       },
       {
         "line": [
@@ -220,6 +153,64 @@
       },
       {
         "line": [
+          "70 Medical Center Drive",
+          "STE 202"
+        ],
+        "city": "FISHERSVILLE",
+        "state": "VA",
+        "postalCode": "22939-2332"
+      },
+      {
+        "line": [
+          "70 MEDICAL CENTER CIR"
+        ],
+        "city": "FISHERSVILLE",
+        "state": "VA",
+        "postalCode": "22939-2273"
+      },
+      {
+        "line": [
+          "78 MEDICAL CENTER DR"
+        ],
+        "city": "FISHERSVILLE",
+        "state": "VA",
+        "postalCode": "22939-2332"
+      },
+      {
+        "line": [
+          "644 UNIVERSITY BLVD",
+          "STE A"
+        ],
+        "city": "HARRISONBURG",
+        "state": "VA",
+        "postalCode": "22801-3773"
+      },
+      {
+        "line": [
+          "1513 W BEVERLEY ST"
+        ],
+        "city": "STAUNTON",
+        "state": "VA",
+        "postalCode": "24401-3002"
+      },
+      {
+        "line": [
+          "78 Medical Center Drive"
+        ],
+        "city": "FISHERSVILLE",
+        "state": "VA",
+        "postalCode": "22939-2232"
+      },
+      {
+        "line": [
+          "ZZZ"
+        ],
+        "city": "FISHERSVILLE",
+        "state": "VA",
+        "postalCode": "22939-2332"
+      },
+      {
+        "line": [
           "70 Medical Center Circle, Ste 105"
         ],
         "city": "FISHERSVILLE",
@@ -228,11 +219,20 @@
       },
       {
         "line": [
-          "201 Lew Dewitt Blvd"
+          "70 MEDICAL CENTER CIR",
+          "STE 110"
         ],
-        "city": "WAYNESBORO",
+        "city": "FISHERSVILLE",
         "state": "VA",
-        "postalCode": "22980-1663"
+        "postalCode": "22939-2273"
+      },
+      {
+        "line": [
+          "1751 ERICKSON AVE"
+        ],
+        "city": "HARRISONBURG",
+        "state": "VA",
+        "postalCode": "22801-8555"
       }
     ],
     "extension": [

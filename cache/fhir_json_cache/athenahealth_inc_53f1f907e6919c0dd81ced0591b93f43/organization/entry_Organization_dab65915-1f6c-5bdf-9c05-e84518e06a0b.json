@@ -14,38 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669708467"
+        "value": "1215079678"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215079678"
+        "value": "1669708467"
       }
     ],
     "address": [
       {
         "line": [
-          "3900 E LOHMAN AVE STE B"
+          "2450 S Telshor Blvd"
         ],
         "city": "LAS CRUCES",
         "state": "NM",
-        "postalCode": "88011-5061"
-      },
-      {
-        "line": [
-          "4351 E LOHMAN AVE",
-          "STE 320"
-        ],
-        "city": "LAS CRUCES",
-        "state": "NM",
-        "postalCode": "88011-8262"
-      },
-      {
-        "line": [
-          "4311 E LOHMAN AVE"
-        ],
-        "city": "LAS CRUCES",
-        "state": "NM",
-        "postalCode": "88011-8255"
+        "postalCode": "88011-5069"
       },
       {
         "line": [
@@ -57,15 +40,23 @@
       },
       {
         "line": [
-          "2450 S TELSHOR BLVD"
+          "3900 E LOHMAN AVE STE B"
         ],
         "city": "LAS CRUCES",
         "state": "NM",
-        "postalCode": "88011-5069"
+        "postalCode": "88011-5061"
       },
       {
         "line": [
-          "2450 S Telshor Blvd"
+          "4311 E LOHMAN AVE"
+        ],
+        "city": "LAS CRUCES",
+        "state": "NM",
+        "postalCode": "88011-8255"
+      },
+      {
+        "line": [
+          "2450 S TELSHOR BLVD"
         ],
         "city": "LAS CRUCES",
         "state": "NM",
@@ -78,6 +69,15 @@
         "city": "LAS CRUCES",
         "state": "NM",
         "postalCode": "88011-8258"
+      },
+      {
+        "line": [
+          "4351 E LOHMAN AVE",
+          "STE 320"
+        ],
+        "city": "LAS CRUCES",
+        "state": "NM",
+        "postalCode": "88011-8262"
       }
     ],
     "extension": [

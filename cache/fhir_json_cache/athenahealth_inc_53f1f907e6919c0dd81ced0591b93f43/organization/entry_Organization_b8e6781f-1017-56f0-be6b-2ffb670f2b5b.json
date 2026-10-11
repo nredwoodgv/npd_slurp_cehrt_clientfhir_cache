@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558344978"
+        "value": "1396926747"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,21 +22,38 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396926747"
+        "value": "1558344978"
       }
     ],
     "address": [
       {
         "line": [
-          "4201 Belfort Road"
+          "300 SAINT ELIZABETH WAY",
+          "STE 110"
         ],
-        "city": "JACKSONVILLE",
+        "city": "SAINT JOHNS",
+        "state": "FL",
+        "postalCode": "32259-1153"
+      },
+      {
+        "line": [
+          "4201 Belfort Rd"
+        ],
+        "city": "Jacksonville",
         "state": "FL",
         "postalCode": "32216-1431"
       },
       {
         "line": [
-          "4201 BELFORT RD"
+          "4201 Belfort Road"
+        ],
+        "city": "Jacksonville",
+        "state": "FL",
+        "postalCode": "32216-1431"
+      },
+      {
+        "line": [
+          "1 Shircliff Way"
         ],
         "city": "JACKSONVILLE",
         "state": "FL",
@@ -52,7 +69,15 @@
       },
       {
         "line": [
-          "4201 Belfort Rd"
+          "4205 Belfort Road Ste 3004"
+        ],
+        "city": "JACKSONVILLE",
+        "state": "FL",
+        "postalCode": "32216-1474"
+      },
+      {
+        "line": [
+          "4201 BELFORT RD"
         ],
         "city": "JACKSONVILLE",
         "state": "FL",
@@ -60,17 +85,26 @@
       },
       {
         "line": [
+          "2 SHIRCLIFF WAY",
+          "STE 300"
+        ],
+        "city": "JACKSONVILLE",
+        "state": "FL",
+        "postalCode": "32204-4765"
+      },
+      {
+        "line": [
           "4201 Belfort Road"
         ],
-        "city": "Jacksonville",
+        "city": "JACKSONVILLE",
         "state": "FL",
         "postalCode": "32216-1431"
       },
       {
         "line": [
-          "4201 Belfort Rd"
+          "4201 BELFORT ROAD"
         ],
-        "city": "Jacksonville",
+        "city": "JACKSONVILE",
         "state": "FL",
         "postalCode": "32216-1431"
       },
@@ -85,15 +119,6 @@
       },
       {
         "line": [
-          "300 SAINT ELIZABETH WAY",
-          "STE 110"
-        ],
-        "city": "SAINT JOHNS",
-        "state": "FL",
-        "postalCode": "32259-1153"
-      },
-      {
-        "line": [
           "1658 ST VINCENTS WAY",
           "STE 210"
         ],
@@ -103,34 +128,9 @@
       },
       {
         "line": [
-          "2 SHIRCLIFF WAY",
-          "STE 300"
+          "4201 Belfort Rd"
         ],
         "city": "JACKSONVILLE",
-        "state": "FL",
-        "postalCode": "32204-4765"
-      },
-      {
-        "line": [
-          "4205 Belfort Road Ste 3004"
-        ],
-        "city": "JACKSONVILLE",
-        "state": "FL",
-        "postalCode": "32216-1474"
-      },
-      {
-        "line": [
-          "1 Shircliff Way"
-        ],
-        "city": "JACKSONVILLE",
-        "state": "FL",
-        "postalCode": "32216-1431"
-      },
-      {
-        "line": [
-          "4201 BELFORT ROAD"
-        ],
-        "city": "JACKSONVILE",
         "state": "FL",
         "postalCode": "32216-1431"
       }

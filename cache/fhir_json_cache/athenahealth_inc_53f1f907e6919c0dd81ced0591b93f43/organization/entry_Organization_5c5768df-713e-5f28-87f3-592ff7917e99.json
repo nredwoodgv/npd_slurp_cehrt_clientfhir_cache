@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1760909444"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629595236"
       },
       {
@@ -23,13 +27,17 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1457361040"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760909444"
       }
     ],
     "address": [
+      {
+        "line": [
+          "98 Spitbrook Rd"
+        ],
+        "city": "Nashua",
+        "state": "NH",
+        "postalCode": "03062-5737"
+      },
       {
         "line": [
           "14 Research Place"
@@ -45,14 +53,6 @@
         "city": "WESTFORD",
         "state": "MA",
         "postalCode": "01886-3532"
-      },
-      {
-        "line": [
-          "98 Spitbrook Rd"
-        ],
-        "city": "Nashua",
-        "state": "NH",
-        "postalCode": "03062-5737"
       }
     ],
     "extension": [

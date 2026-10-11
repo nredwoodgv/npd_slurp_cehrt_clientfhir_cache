@@ -14,14 +14,31 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134315229"
+        "value": "1790974574"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790974574"
+        "value": "1134315229"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1325 HIGHWAY 6"
+        ],
+        "city": "SUGAR LAND",
+        "state": "TX",
+        "postalCode": "77478-4906"
+      },
+      {
+        "line": [
+          "1213 Hermann Dr.",
+          "Ste 260"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77004-7074"
+      },
       {
         "line": [
           "1705 JACKSON ST"
@@ -40,29 +57,11 @@
       },
       {
         "line": [
-          "610 S WAYSIDE DR",
-          "UNIT B"
+          "1550 FIRST COLONY BLVD"
         ],
-        "city": "HOUSTON",
+        "city": "SUGAR LAND",
         "state": "TX",
-        "postalCode": "77011-4605"
-      },
-      {
-        "line": [
-          "1213 Hermann Dr.",
-          "Ste 260"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77004-7074"
-      },
-      {
-        "line": [
-          "6123 GATEWOOD MANOR DR"
-        ],
-        "city": "KATY",
-        "state": "TX",
-        "postalCode": "77494-8603"
+        "postalCode": "77479-4000"
       },
       {
         "line": [
@@ -83,27 +82,11 @@
       },
       {
         "line": [
-          "1550 FIRST COLONY BLVD"
+          "6123 GATEWOOD MANOR DR"
         ],
-        "city": "SUGAR LAND",
+        "city": "KATY",
         "state": "TX",
-        "postalCode": "77479-4000"
-      },
-      {
-        "line": [
-          "17500 W GRAND PKWY S"
-        ],
-        "city": "SUGAR LAND",
-        "state": "TX",
-        "postalCode": "77479-2562"
-      },
-      {
-        "line": [
-          "1325 HIGHWAY 6"
-        ],
-        "city": "SUGAR LAND",
-        "state": "TX",
-        "postalCode": "77478-4906"
+        "postalCode": "77494-8603"
       },
       {
         "line": [
@@ -120,6 +103,23 @@
         "city": "KATY",
         "state": "TX",
         "postalCode": "77450-2551"
+      },
+      {
+        "line": [
+          "610 S WAYSIDE DR",
+          "UNIT B"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77011-4605"
+      },
+      {
+        "line": [
+          "17500 W GRAND PKWY S"
+        ],
+        "city": "SUGAR LAND",
+        "state": "TX",
+        "postalCode": "77479-2562"
       }
     ],
     "extension": [

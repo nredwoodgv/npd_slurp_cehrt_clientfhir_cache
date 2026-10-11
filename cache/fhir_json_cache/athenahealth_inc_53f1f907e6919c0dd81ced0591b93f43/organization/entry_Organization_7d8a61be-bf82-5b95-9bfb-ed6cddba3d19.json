@@ -18,11 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1851586614"
+        "value": "1386352193"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386352193"
+        "value": "1851586614"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,6 +30,14 @@
       }
     ],
     "address": [
+      {
+        "line": [
+          "611 N 2nd Ave"
+        ],
+        "city": "MAYWOOD",
+        "state": "IL",
+        "postalCode": "60153-1111"
+      },
       {
         "line": [
           "117 S 6th Ave"
@@ -48,14 +56,6 @@
       },
       {
         "line": [
-          "1414 Main Street"
-        ],
-        "city": "MELROSE PARK",
-        "state": "IL",
-        "postalCode": "60160-3139"
-      },
-      {
-        "line": [
           "170 N 23rd"
         ],
         "city": "MELROSE PARK",
@@ -64,19 +64,11 @@
       },
       {
         "line": [
-          "611 N 2nd Ave"
-        ],
-        "city": "MAYWOOD",
-        "state": "IL",
-        "postalCode": "60153-1111"
-      },
-      {
-        "line": [
           "1414 Main Street"
         ],
         "city": "MELROSE PARK",
         "state": "IL",
-        "postalCode": "60160-3902"
+        "postalCode": "60160-3139"
       },
       {
         "line": [
@@ -85,6 +77,14 @@
         "city": "BROADVIEW",
         "state": "IL",
         "postalCode": "60155-3960"
+      },
+      {
+        "line": [
+          "1414 Main Street"
+        ],
+        "city": "MELROSE PARK",
+        "state": "IL",
+        "postalCode": "60160-3902"
       }
     ],
     "extension": [

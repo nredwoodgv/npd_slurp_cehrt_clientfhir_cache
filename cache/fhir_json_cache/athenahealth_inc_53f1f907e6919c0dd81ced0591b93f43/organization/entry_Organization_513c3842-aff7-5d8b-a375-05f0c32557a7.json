@@ -18,7 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740233725"
+        "value": "1942255195"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952382947"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,41 +30,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942255195"
+        "value": "1740233725"
       }
     ],
     "address": [
       {
         "line": [
-          "400 W HUNTINGTON DR"
+          "610 N. Garfield Ave"
         ],
-        "city": "ARCADIA",
+        "city": "MONTEREY PARK",
         "state": "CA",
-        "postalCode": "91007-3470"
-      },
-      {
-        "line": [
-          "1720 E. Cesar Chavez Blvd"
-        ],
-        "city": "LOS ANGELES",
-        "state": "CA",
-        "postalCode": "90033-2496"
-      },
-      {
-        "line": [
-          "4445 Magnolia Ave"
-        ],
-        "city": "RIVERSIDE",
-        "state": "CA",
-        "postalCode": "92501-4135"
-      },
-      {
-        "line": [
-          "4681 N. Eagle Rock Blvd"
-        ],
-        "city": "LOS ANGELES",
-        "state": "CA",
-        "postalCode": "90041-2023"
+        "postalCode": "91755-1103"
       },
       {
         "line": [
@@ -72,14 +52,6 @@
       },
       {
         "line": [
-          "5125 Monte Vista St"
-        ],
-        "city": "LOS ANGELES",
-        "state": "CA",
-        "postalCode": "90042-3931"
-      },
-      {
-        "line": [
           "150 BELLEFONTAINE ST"
         ],
         "city": "PASADENA",
@@ -88,11 +60,43 @@
       },
       {
         "line": [
-          "2221 Lincoln Park Ave"
+          "1720 E. Cesar Chavez Blvd"
         ],
         "city": "LOS ANGELES",
         "state": "CA",
-        "postalCode": "90031-2496"
+        "postalCode": "90033-2496"
+      },
+      {
+        "line": [
+          "400 W HUNTINGTON DR"
+        ],
+        "city": "ARCADIA",
+        "state": "CA",
+        "postalCode": "91007-3470"
+      },
+      {
+        "line": [
+          "1035 West Beverly Blvd"
+        ],
+        "city": "MONTEBELLO",
+        "state": "CA",
+        "postalCode": "90640-4138"
+      },
+      {
+        "line": [
+          "5125 Monte Vista St"
+        ],
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "postalCode": "90042-3931"
+      },
+      {
+        "line": [
+          "4445 Magnolia Ave"
+        ],
+        "city": "RIVERSIDE",
+        "state": "CA",
+        "postalCode": "92501-4135"
       },
       {
         "line": [
@@ -104,30 +108,6 @@
       },
       {
         "line": [
-          "416 N GARFIELD AVE"
-        ],
-        "city": "MONTEREY PARK",
-        "state": "CA",
-        "postalCode": "91754-1203"
-      },
-      {
-        "line": [
-          "610 N. Garfield Ave"
-        ],
-        "city": "MONTEREY PARK",
-        "state": "CA",
-        "postalCode": "91755-1103"
-      },
-      {
-        "line": [
-          "8203 Telegraph Rd"
-        ],
-        "city": "PICO RIVERA",
-        "state": "CA",
-        "postalCode": "90660-4905"
-      },
-      {
-        "line": [
           "273 Beverly Blvd"
         ],
         "city": "MONTEBELLO",
@@ -136,11 +116,35 @@
       },
       {
         "line": [
-          "1035 West Beverly Blvd"
+          "4681 N. Eagle Rock Blvd"
         ],
-        "city": "MONTEBELLO",
+        "city": "LOS ANGELES",
         "state": "CA",
-        "postalCode": "90640-4138"
+        "postalCode": "90041-2023"
+      },
+      {
+        "line": [
+          "2221 Lincoln Park Ave"
+        ],
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "postalCode": "90031-2496"
+      },
+      {
+        "line": [
+          "416 N GARFIELD AVE"
+        ],
+        "city": "MONTEREY PARK",
+        "state": "CA",
+        "postalCode": "91754-1203"
+      },
+      {
+        "line": [
+          "8203 Telegraph Rd"
+        ],
+        "city": "PICO RIVERA",
+        "state": "CA",
+        "postalCode": "90660-4905"
       }
     ],
     "extension": [

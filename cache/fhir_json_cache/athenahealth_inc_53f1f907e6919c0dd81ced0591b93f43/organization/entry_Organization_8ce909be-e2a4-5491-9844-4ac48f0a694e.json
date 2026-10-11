@@ -22,22 +22,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548211311"
+        "value": "1457617235"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457617235"
+        "value": "1548211311"
       }
     ],
     "address": [
-      {
-        "line": [
-          "6150 E Broad St"
-        ],
-        "city": "COLUMBUS",
-        "state": "OH",
-        "postalCode": "43213-1574"
-      },
       {
         "line": [
           "55 North High Street"
@@ -45,6 +37,12 @@
         "city": "NEW ALBANY",
         "state": "OH",
         "postalCode": "43054-7099"
+      },
+      {
+        "line": [],
+        "city": "WATERTOWN",
+        "state": "MA",
+        "postalCode": "02472-2782"
       },
       {
         "line": [
@@ -55,10 +53,12 @@
         "postalCode": "43213-3800"
       },
       {
-        "line": [],
-        "city": "WATERTOWN",
-        "state": "MA",
-        "postalCode": "02472-2782"
+        "line": [
+          "6150 E Broad St"
+        ],
+        "city": "COLUMBUS",
+        "state": "OH",
+        "postalCode": "43213-1574"
       }
     ],
     "extension": [

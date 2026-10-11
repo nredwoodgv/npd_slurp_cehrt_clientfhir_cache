@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558588772"
+        "value": "1861400095"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861400095"
+        "value": "1558588772"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,11 +32,19 @@
     "address": [
       {
         "line": [
-          "G4007 W COURT ST STE B"
+          "1695 12 MILE RD STE 220"
         ],
-        "city": "FLINT",
+        "city": "BERKLEY",
         "state": "MI",
-        "postalCode": "48532-3560"
+        "postalCode": "48072-2100"
+      },
+      {
+        "line": [
+          "20300 FORT ST"
+        ],
+        "city": "RIVERVIEW",
+        "state": "MI",
+        "postalCode": "48193-4560"
       },
       {
         "line": [
@@ -56,76 +64,11 @@
       },
       {
         "line": [
-          "43494 WOODWARD AVE STE 208"
+          "908 W ARYGLE"
         ],
-        "city": "BLOOMFIELD HILLS",
-        "state": "MI",
-        "postalCode": "48302-5054"
-      },
-      {
-        "line": [
-          "105 WATER ST"
-        ],
-        "city": "PLYMOUTH",
-        "state": "IN",
-        "postalCode": "46563-2148"
-      },
-      {
-        "line": [
-          "1695 12 MILE RD STE 220"
-        ],
-        "city": "BERKLEY",
-        "state": "MI",
-        "postalCode": "48072-2100"
-      },
-      {
-        "line": [
-          "33400 6 MILE RD STE B"
-        ],
-        "city": "LIVONIA",
-        "state": "MI",
-        "postalCode": "48152-3165"
-      },
-      {
-        "line": [
-          "835 MASON ST",
-          "Suite C350"
-        ],
-        "city": "DEARBORN",
-        "state": "MI",
-        "postalCode": "48124-2231"
-      },
-      {
-        "line": [
-          "28050 GRAND RIVER AVE"
-        ],
-        "city": "FARMINGTON HILLS",
-        "state": "MI",
-        "postalCode": "48336-5919"
-      },
-      {
-        "line": [
-          "909 W MAPLE RD STE 111"
-        ],
-        "city": "CLAWSON",
-        "state": "MI",
-        "postalCode": "48017-1000"
-      },
-      {
-        "line": [
-          "5050 TOUHY AVE"
-        ],
-        "city": "SKOKIE",
+        "city": "CHICAGO",
         "state": "IL",
-        "postalCode": "60077-3542"
-      },
-      {
-        "line": [
-          "20300 FORT ST"
-        ],
-        "city": "RIVERVIEW",
-        "state": "MI",
-        "postalCode": "48193-4560"
+        "postalCode": "60640-3894"
       },
       {
         "line": [
@@ -137,11 +80,27 @@
       },
       {
         "line": [
-          "120 DODGE AVE"
+          "33400 6 MILE RD STE B"
         ],
-        "city": "EVANSTON",
-        "state": "IL",
-        "postalCode": "60202-3622"
+        "city": "LIVONIA",
+        "state": "MI",
+        "postalCode": "48152-3165"
+      },
+      {
+        "line": [
+          "28050 GRAND RIVER AVE"
+        ],
+        "city": "FARMINGTON HILLS",
+        "state": "MI",
+        "postalCode": "48336-5919"
+      },
+      {
+        "line": [
+          "105 WATER ST"
+        ],
+        "city": "PLYMOUTH",
+        "state": "IN",
+        "postalCode": "46563-2148"
       },
       {
         "line": [
@@ -161,11 +120,44 @@
       },
       {
         "line": [
+          "909 W MAPLE RD STE 111"
+        ],
+        "city": "CLAWSON",
+        "state": "MI",
+        "postalCode": "48017-1000"
+      },
+      {
+        "line": [
+          "835 MASON ST",
+          "Suite C350"
+        ],
+        "city": "DEARBORN",
+        "state": "MI",
+        "postalCode": "48124-2231"
+      },
+      {
+        "line": [
+          "120 DODGE AVE"
+        ],
+        "city": "EVANSTON",
+        "state": "IL",
+        "postalCode": "60202-3622"
+      },
+      {
+        "line": [
           "8401 HOLLY RD"
         ],
         "city": "GRAND BLANC",
         "state": "MI",
         "postalCode": "48439-1812"
+      },
+      {
+        "line": [
+          "43494 WOODWARD AVE STE 208"
+        ],
+        "city": "BLOOMFIELD HILLS",
+        "state": "MI",
+        "postalCode": "48302-5054"
       },
       {
         "line": [
@@ -177,11 +169,19 @@
       },
       {
         "line": [
-          "908 W ARYGLE"
+          "5050 TOUHY AVE"
         ],
-        "city": "CHICAGO",
+        "city": "SKOKIE",
         "state": "IL",
-        "postalCode": "60640-3894"
+        "postalCode": "60077-3542"
+      },
+      {
+        "line": [
+          "G4007 W COURT ST STE B"
+        ],
+        "city": "FLINT",
+        "state": "MI",
+        "postalCode": "48532-3560"
       }
     ],
     "extension": [

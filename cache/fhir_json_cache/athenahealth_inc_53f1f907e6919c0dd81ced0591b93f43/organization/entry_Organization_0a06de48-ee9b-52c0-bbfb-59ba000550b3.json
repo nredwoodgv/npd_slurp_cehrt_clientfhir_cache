@@ -18,11 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588180475"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619928165"
+        "value": "1144271586"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,15 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306363007"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144271586"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043261498"
+        "value": "1619928165"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,11 +34,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962453308"
+        "value": "1306363007"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952177446"
+        "value": "1962453308"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,7 +46,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952177446"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588180475"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1043261498"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1528336302"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912495375"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -71,10 +75,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1912466194"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912495375"
       }
     ],
     "address": [
@@ -96,38 +96,6 @@
       },
       {
         "line": [
-          "5151 N 9th Ave"
-        ],
-        "city": "Pensacola",
-        "state": "FL",
-        "postalCode": "32504-8777"
-      },
-      {
-        "line": [
-          "5151 N 9th Ave"
-        ],
-        "city": "PENSACOLA",
-        "state": "FL",
-        "postalCode": "32504-8721"
-      },
-      {
-        "line": [
-          "5151 N 9TH AVE"
-        ],
-        "city": "PENSACOLA",
-        "state": "FL",
-        "postalCode": "32504-8721"
-      },
-      {
-        "line": [
-          "5147 N 9th Ave"
-        ],
-        "city": "PENSACOLA",
-        "state": "FL",
-        "postalCode": "32503-8771"
-      },
-      {
-        "line": [
           "4451 Bayou Blvd"
         ],
         "city": "PENSACOLA",
@@ -146,9 +114,25 @@
         "line": [
           "5151 N 9th Ave"
         ],
-        "city": "Pensacola",
+        "city": "PENSACOLA",
         "state": "FL",
-        "postalCode": "32504-8724"
+        "postalCode": "32504-8721"
+      },
+      {
+        "line": [
+          "5147 N 9th Ave"
+        ],
+        "city": "PENSACOLA",
+        "state": "FL",
+        "postalCode": "32503-8771"
+      },
+      {
+        "line": [
+          "5151 N 9TH AVE"
+        ],
+        "city": "PENSACOLA",
+        "state": "FL",
+        "postalCode": "32504-8721"
       },
       {
         "line": [
@@ -160,17 +144,32 @@
       },
       {
         "line": [
-          "5151 N 9TH AVE",
-          "ER"
+          "5151 N 9th ve"
         ],
-        "city": "PENSACOLA",
+        "city": "Pensacola",
         "state": "FL",
         "postalCode": "32504-8721"
       },
       {
         "line": [
-          "5151 N 9th Ave",
-          "1st Floor Bayou Tower"
+          "5151 N 9th Ave"
+        ],
+        "city": "Pensacola",
+        "state": "FL",
+        "postalCode": "32504-8777"
+      },
+      {
+        "line": [
+          "5151 N 9th Ave"
+        ],
+        "city": "Pensacola",
+        "state": "FL",
+        "postalCode": "32504-8724"
+      },
+      {
+        "line": [
+          "5151 N 9TH AVE",
+          "ER"
         ],
         "city": "PENSACOLA",
         "state": "FL",
@@ -186,9 +185,10 @@
       },
       {
         "line": [
-          "5151 N 9th ve"
+          "5151 N 9th Ave",
+          "1st Floor Bayou Tower"
         ],
-        "city": "Pensacola",
+        "city": "PENSACOLA",
         "state": "FL",
         "postalCode": "32504-8721"
       }

@@ -18,14 +18,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134243249"
+        "value": "1164124111"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164124111"
+        "value": "1134243249"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1937 W HARVARD AVE"
+        ],
+        "city": "ROSEBURG",
+        "state": "OR",
+        "postalCode": "97471-2720"
+      },
       {
         "line": [
           "2570 NW Edenbower Blvd"
@@ -36,15 +44,7 @@
       },
       {
         "line": [
-          "1458 Quail Lane"
-        ],
-        "city": "ROSEBURG",
-        "state": "OR",
-        "postalCode": "97471-9252"
-      },
-      {
-        "line": [
-          "1937 W HARVARD AVE"
+          "1937 W Harvard Ave"
         ],
         "city": "ROSEBURG",
         "state": "OR",
@@ -60,11 +60,11 @@
       },
       {
         "line": [
-          "1937 W Harvard Ave"
+          "121 Cordelia Dr"
         ],
-        "city": "ROSEBURG",
+        "city": "MYRTLE CREEK",
         "state": "OR",
-        "postalCode": "97471-2720"
+        "postalCode": "97457-7411"
       },
       {
         "line": [
@@ -84,11 +84,11 @@
       },
       {
         "line": [
-          "121 Cordelia Dr"
+          "1458 Quail Lane"
         ],
-        "city": "MYRTLE CREEK",
+        "city": "ROSEBURG",
         "state": "OR",
-        "postalCode": "97457-7411"
+        "postalCode": "97471-9252"
       }
     ],
     "extension": [

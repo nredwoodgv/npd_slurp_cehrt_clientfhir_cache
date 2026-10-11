@@ -14,22 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821349317"
+        "value": "1629398219"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629398219"
+        "value": "1821349317"
       }
     ],
     "address": [
       {
         "line": [
-          "289 PLEASANT ST",
-          "3rd Floor"
+          "535 FAUNCE CORNER RD"
         ],
-        "city": "FALL RIVER",
+        "city": "NORTH DARTMOUTH",
         "state": "MA",
-        "postalCode": "02721-3005"
+        "postalCode": "02747-1242"
       },
       {
         "line": [
@@ -41,11 +40,12 @@
       },
       {
         "line": [
-          "535 FAUNCE CORNER RD"
+          "289 PLEASANT ST",
+          "3rd Floor"
         ],
-        "city": "NORTH DARTMOUTH",
+        "city": "FALL RIVER",
         "state": "MA",
-        "postalCode": "02747-1242"
+        "postalCode": "02721-3005"
       }
     ],
     "extension": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629433784"
+        "value": "1265467195"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265467195"
+        "value": "1629433784"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,31 +28,7 @@
     "address": [
       {
         "line": [
-          "1201 Ricker Dr"
-        ],
-        "city": "SALEM",
-        "state": "IL",
-        "postalCode": "62881-4263"
-      },
-      {
-        "line": [
           "1201 Ricker Rd"
-        ],
-        "city": "SALEM",
-        "state": "IL",
-        "postalCode": "62881-4263"
-      },
-      {
-        "line": [
-          "1201 Ricker Drive"
-        ],
-        "city": "SALEM",
-        "state": "IL",
-        "postalCode": "62881-4263"
-      },
-      {
-        "line": [
-          "1201 RIcker Dr"
         ],
         "city": "SALEM",
         "state": "IL",
@@ -68,7 +44,24 @@
       },
       {
         "line": [
-          "1201 Ricker Road"
+          "1 Good Samaritan Way",
+          "Good Samaritan"
+        ],
+        "city": "MOUNT VERNON",
+        "state": "IL",
+        "postalCode": "62864-2402"
+      },
+      {
+        "line": [
+          "1201 Ricker Dr"
+        ],
+        "city": "SALEM",
+        "state": "IL",
+        "postalCode": "62881-4263"
+      },
+      {
+        "line": [
+          "1201 Ricker Drive"
         ],
         "city": "SALEM",
         "state": "IL",
@@ -85,12 +78,11 @@
       },
       {
         "line": [
-          "1 Good Samaritan Way",
-          "Good Samaritan"
+          "1201 RIcker Dr"
         ],
-        "city": "MOUNT VERNON",
+        "city": "SALEM",
         "state": "IL",
-        "postalCode": "62864-2402"
+        "postalCode": "62881-4263"
       },
       {
         "line": [
@@ -100,6 +92,14 @@
         "city": "CENTRALIA",
         "state": "IL",
         "postalCode": "62801-3056"
+      },
+      {
+        "line": [
+          "1201 Ricker Road"
+        ],
+        "city": "SALEM",
+        "state": "IL",
+        "postalCode": "62881-4263"
       }
     ],
     "extension": [

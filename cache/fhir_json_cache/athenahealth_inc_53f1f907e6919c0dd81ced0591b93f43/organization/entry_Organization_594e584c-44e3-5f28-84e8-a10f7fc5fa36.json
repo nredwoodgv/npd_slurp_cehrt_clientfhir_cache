@@ -18,11 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013468727"
+        "value": "1225585383"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225585383"
+        "value": "1013468727"
       }
     ],
     "address": [
@@ -36,14 +36,6 @@
       },
       {
         "line": [
-          "150 Gilbreath Dr"
-        ],
-        "city": "ONEONTA",
-        "state": "AL",
-        "postalCode": "35121-2827"
-      },
-      {
-        "line": [
           "212 ELLEN STREET"
         ],
         "city": "ONEONTA",
@@ -52,11 +44,11 @@
       },
       {
         "line": [
-          "810 St Vincents Drive"
+          "150 Gilbreath Dr"
         ],
-        "city": "BIRMINGHAM",
+        "city": "ONEONTA",
         "state": "AL",
-        "postalCode": "35205-1601"
+        "postalCode": "35121-2827"
       },
       {
         "line": [
@@ -65,6 +57,14 @@
         "city": "ONEONTA",
         "state": "AL",
         "postalCode": "35121-1334"
+      },
+      {
+        "line": [
+          "810 St Vincents Drive"
+        ],
+        "city": "BIRMINGHAM",
+        "state": "AL",
+        "postalCode": "35205-1601"
       }
     ],
     "extension": [

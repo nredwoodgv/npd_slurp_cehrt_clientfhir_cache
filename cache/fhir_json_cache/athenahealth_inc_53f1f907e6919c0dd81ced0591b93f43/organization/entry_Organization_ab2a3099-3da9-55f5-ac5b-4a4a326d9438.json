@@ -18,18 +18,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992752224"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396782363"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1780638478"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992752224"
       }
     ],
     "address": [
+      {
+        "line": [
+          "15 Founders Lane",
+          "1st Floor"
+        ],
+        "city": "JACKSONVILLE",
+        "state": "IL",
+        "postalCode": "62650-3918"
+      },
       {
         "line": [
           "15 Founders Lane"
@@ -46,15 +55,6 @@
         "city": "JACKSONVILLE",
         "state": "IL",
         "postalCode": "62650-3924"
-      },
-      {
-        "line": [
-          "15 Founders Lane",
-          "1st Floor"
-        ],
-        "city": "JACKSONVILLE",
-        "state": "IL",
-        "postalCode": "62650-3918"
       },
       {
         "line": [

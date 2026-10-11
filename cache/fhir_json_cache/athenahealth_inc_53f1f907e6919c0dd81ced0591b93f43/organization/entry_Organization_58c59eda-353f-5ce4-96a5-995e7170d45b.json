@@ -14,18 +14,17 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558711937"
+        "value": "1093307811"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093307811"
+        "value": "1558711937"
       }
     ],
     "address": [
       {
         "line": [
-          "730 MAIN ST",
-          "Ste 1D"
+          "730 MAIN ST STE 1D"
         ],
         "city": "MILLIS",
         "state": "MA",
@@ -33,26 +32,8 @@
       },
       {
         "line": [
-          "730 MAIN ST",
-          "STE 1D"
-        ],
-        "city": "MILLIS",
-        "state": "MA",
-        "postalCode": "02054-1612"
-      },
-      {
-        "line": [
-          "730 main st",
-          "suite 1d"
-        ],
-        "city": "MILLIS",
-        "state": "MA",
-        "postalCode": "02054-1506"
-      },
-      {
-        "line": [
-          "730 main st",
-          "suite 1d"
+          "730 Main St",
+          "Suite 1D"
         ],
         "city": "MILLIS",
         "state": "MA",
@@ -62,24 +43,6 @@
         "line": [
           "730 main st",
           "suite 1d"
-        ],
-        "city": "MILLIS",
-        "state": "MA",
-        "postalCode": "02054-1613"
-      },
-      {
-        "line": [
-          "730 main st",
-          "suite 1D"
-        ],
-        "city": "MILLIS",
-        "state": "MA",
-        "postalCode": "02054-1613"
-      },
-      {
-        "line": [
-          "730 MAIN STREET",
-          "SUITE 1D"
         ],
         "city": "MILLIS",
         "state": "MA",
@@ -95,12 +58,39 @@
       },
       {
         "line": [
-          "730 Main St",
-          "Suite 1D"
+          "730 MAIN STREET",
+          "SUITE 1D"
         ],
         "city": "MILLIS",
         "state": "MA",
         "postalCode": "02054-1612"
+      },
+      {
+        "line": [
+          "730 main st",
+          "suite 1d"
+        ],
+        "city": "MILLIS",
+        "state": "MA",
+        "postalCode": "02054-1613"
+      },
+      {
+        "line": [
+          "730 MAIN ST",
+          "Ste 1D"
+        ],
+        "city": "MILLIS",
+        "state": "MA",
+        "postalCode": "02054-1612"
+      },
+      {
+        "line": [
+          "730 main st",
+          "suite 1D"
+        ],
+        "city": "MILLIS",
+        "state": "MA",
+        "postalCode": "02054-1613"
       },
       {
         "line": [
@@ -109,6 +99,15 @@
         "city": "MILLIS",
         "state": "MA",
         "postalCode": "02054-1612"
+      },
+      {
+        "line": [
+          "730 main st",
+          "suite 1d"
+        ],
+        "city": "MILLIS",
+        "state": "MA",
+        "postalCode": "02054-1506"
       }
     ],
     "extension": [

@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710183520"
+        "value": "1215965082"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215965082"
+        "value": "1710183520"
       }
     ],
     "address": [
-      {
-        "line": [
-          "5911 BENORE RD"
-        ],
-        "city": "TOLEDO",
-        "state": "OH",
-        "postalCode": "43612-3955"
-      },
       {
         "line": [
           "1421 S REYNOLDS RD"
@@ -37,6 +29,14 @@
         "city": "TOLEDO",
         "state": "OH",
         "postalCode": "43615-7413"
+      },
+      {
+        "line": [
+          "5911 BENORE RD"
+        ],
+        "city": "TOLEDO",
+        "state": "OH",
+        "postalCode": "43612-3955"
       }
     ],
     "extension": [

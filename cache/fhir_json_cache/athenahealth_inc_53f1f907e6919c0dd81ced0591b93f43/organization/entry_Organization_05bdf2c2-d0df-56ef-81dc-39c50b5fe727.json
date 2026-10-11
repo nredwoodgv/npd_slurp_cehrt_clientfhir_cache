@@ -18,6 +18,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417133380"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1427299841"
       },
       {
@@ -27,21 +31,9 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1316188147"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417133380"
       }
     ],
     "address": [
-      {
-        "line": [
-          "One Wyoming Street"
-        ],
-        "city": "DAYTON",
-        "state": "OH",
-        "postalCode": "45409-2722"
-      },
       {
         "line": [
           "1 Medical Center Dr."
@@ -49,6 +41,15 @@
         "city": "FRANKLIN",
         "state": "OH",
         "postalCode": "45005-2584"
+      },
+      {
+        "line": [
+          "2200 Philadelphia Dr",
+          "Suite 644"
+        ],
+        "city": "DAYTON",
+        "state": "OH",
+        "postalCode": "45406-1830"
       },
       {
         "line": [
@@ -60,12 +61,11 @@
       },
       {
         "line": [
-          "2200 Philadelphia Dr",
-          "Suite 644"
+          "One Wyoming Street"
         ],
         "city": "DAYTON",
         "state": "OH",
-        "postalCode": "45406-1830"
+        "postalCode": "45409-2722"
       }
     ],
     "extension": [

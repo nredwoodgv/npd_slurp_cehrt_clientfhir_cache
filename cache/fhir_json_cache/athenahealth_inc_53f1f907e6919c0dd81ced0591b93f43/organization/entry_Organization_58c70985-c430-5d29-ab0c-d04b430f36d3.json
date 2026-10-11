@@ -18,22 +18,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902279607"
+        "value": "1912305483"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912305483"
+        "value": "1902279607"
       }
     ],
     "address": [
-      {
-        "line": [
-          "400 Mill Plain Rd"
-        ],
-        "city": "Fairfield",
-        "state": "CT",
-        "postalCode": "06824-5048"
-      },
       {
         "line": [
           "2800 Main St"
@@ -44,11 +36,11 @@
       },
       {
         "line": [
-          "300 Armory Road"
+          "21 Maefair Court"
         ],
-        "city": "STRATFORD",
+        "city": "Trumbull",
         "state": "CT",
-        "postalCode": "06614-1752"
+        "postalCode": "06611-4871"
       },
       {
         "line": [
@@ -60,11 +52,27 @@
       },
       {
         "line": [
-          "21 Maefair Ct"
+          "2875 Main St"
         ],
-        "city": "Trumbull",
+        "city": "Bridgeport",
         "state": "CT",
-        "postalCode": "06611-4871"
+        "postalCode": "06606-4204"
+      },
+      {
+        "line": [
+          "400 Mill Plain Rd"
+        ],
+        "city": "Fairfield",
+        "state": "CT",
+        "postalCode": "06824-5048"
+      },
+      {
+        "line": [
+          "2890 Main St Ste 2A"
+        ],
+        "city": "Stratford",
+        "state": "CT",
+        "postalCode": "06614-4980"
       },
       {
         "line": [
@@ -84,15 +92,7 @@
       },
       {
         "line": [
-          "2890 Main St Ste 2A"
-        ],
-        "city": "Stratford",
-        "state": "CT",
-        "postalCode": "06614-4980"
-      },
-      {
-        "line": [
-          "21 Maefair Court"
+          "21 Maefair Ct"
         ],
         "city": "Trumbull",
         "state": "CT",
@@ -100,11 +100,11 @@
       },
       {
         "line": [
-          "2875 Main St"
+          "300 Armory Road"
         ],
-        "city": "Bridgeport",
+        "city": "STRATFORD",
         "state": "CT",
-        "postalCode": "06606-4204"
+        "postalCode": "06614-1752"
       }
     ],
     "extension": [

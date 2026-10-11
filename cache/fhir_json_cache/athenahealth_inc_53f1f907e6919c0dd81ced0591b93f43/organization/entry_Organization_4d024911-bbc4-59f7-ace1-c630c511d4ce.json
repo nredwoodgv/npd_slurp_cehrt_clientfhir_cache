@@ -18,19 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124489489"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467883801"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386005643"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467813725"
+        "value": "1477984805"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,11 +26,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477984805"
+        "value": "1003277369"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750816518"
+        "value": "1386005643"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124489489"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,41 +42,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003277369"
+        "value": "1750816518"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467813725"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467883801"
       }
     ],
     "address": [
       {
         "line": [
-          "1602 SKIPWITH ROAD"
+          "2621 GROVE AVENUE"
         ],
-        "city": "HENRICO",
+        "city": "RICHMOND",
         "state": "VA",
-        "postalCode": "23229-5205"
-      },
-      {
-        "line": [
-          "9275 CHAMBERLAYNE ROAD"
-        ],
-        "city": "MECHANICSVILLE",
-        "state": "VA",
-        "postalCode": "23116-2800"
-      },
-      {
-        "line": [
-          "411 WEST RANDOLPH ROAD"
-        ],
-        "city": "HOPEWELL",
-        "state": "VA",
-        "postalCode": "23860-2938"
-      },
-      {
-        "line": [
-          "7700 EAST PARHAM ROAD"
-        ],
-        "city": "HENRICO",
-        "state": "VA",
-        "postalCode": "23294-4301"
+        "postalCode": "23220-4308"
       },
       {
         "line": [
@@ -96,27 +72,11 @@
       },
       {
         "line": [
-          "7101 JAHNKE ROAD"
+          "9275 CHAMBERLAYNE ROAD"
         ],
-        "city": "RICHMOND",
+        "city": "MECHANICSVILLE",
         "state": "VA",
-        "postalCode": "23225-4017"
-      },
-      {
-        "line": [
-          "12720 TUCKAHOE CREEK COURT"
-        ],
-        "city": "HENRICO",
-        "state": "VA",
-        "postalCode": "23238-1121"
-      },
-      {
-        "line": [
-          "1401 JOHNSTON WILLIS DRIVE"
-        ],
-        "city": "RICHMOND",
-        "state": "VA",
-        "postalCode": "23235-4730"
+        "postalCode": "23116-2800"
       },
       {
         "line": [
@@ -128,11 +88,51 @@
       },
       {
         "line": [
-          "2621 GROVE AVENUE"
+          "1401 JOHNSTON WILLIS DRIVE"
         ],
         "city": "RICHMOND",
         "state": "VA",
-        "postalCode": "23220-4308"
+        "postalCode": "23235-4730"
+      },
+      {
+        "line": [
+          "7101 JAHNKE ROAD"
+        ],
+        "city": "RICHMOND",
+        "state": "VA",
+        "postalCode": "23225-4017"
+      },
+      {
+        "line": [
+          "1602 SKIPWITH ROAD"
+        ],
+        "city": "HENRICO",
+        "state": "VA",
+        "postalCode": "23229-5205"
+      },
+      {
+        "line": [
+          "7700 EAST PARHAM ROAD"
+        ],
+        "city": "HENRICO",
+        "state": "VA",
+        "postalCode": "23294-4301"
+      },
+      {
+        "line": [
+          "411 WEST RANDOLPH ROAD"
+        ],
+        "city": "HOPEWELL",
+        "state": "VA",
+        "postalCode": "23860-2938"
+      },
+      {
+        "line": [
+          "12720 TUCKAHOE CREEK COURT"
+        ],
+        "city": "HENRICO",
+        "state": "VA",
+        "postalCode": "23238-1121"
       },
       {
         "line": [

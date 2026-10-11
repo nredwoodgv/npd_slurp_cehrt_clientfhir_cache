@@ -14,17 +14,33 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881369189"
+        "value": "1457562860"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457562860"
+        "value": "1881369189"
       }
     ],
     "address": [
       {
         "line": [
+          "4800 Cordova St"
+        ],
+        "city": "ANCHORAGE",
+        "state": "AK",
+        "postalCode": "99503-7218"
+      },
+      {
+        "line": [
           "4315 Diplomacy Dr"
+        ],
+        "city": "ANCHORAGE",
+        "state": "AK",
+        "postalCode": "99508-2932"
+      },
+      {
+        "line": [
+          "3200 Providence Dr"
         ],
         "city": "ANCHORAGE",
         "state": "AK",
@@ -40,11 +56,11 @@
       },
       {
         "line": [
-          "3200 Providence Dr"
+          "2741 DeBarr Rd c416"
         ],
         "city": "ANCHORAGE",
         "state": "AK",
-        "postalCode": "99508-2932"
+        "postalCode": "99508-2967"
       },
       {
         "line": [
@@ -57,11 +73,11 @@
       },
       {
         "line": [
-          "2741 DeBarr Rd c416"
+          "2841 DeBarr Road"
         ],
         "city": "ANCHORAGE",
         "state": "AK",
-        "postalCode": "99508-2967"
+        "postalCode": "99508-2958"
       },
       {
         "line": [
@@ -70,22 +86,6 @@
         "city": "ANCHORAGE",
         "state": "AK",
         "postalCode": "99508-2932"
-      },
-      {
-        "line": [
-          "4800 Cordova St"
-        ],
-        "city": "ANCHORAGE",
-        "state": "AK",
-        "postalCode": "99503-7218"
-      },
-      {
-        "line": [
-          "2841 DeBarr Road"
-        ],
-        "city": "ANCHORAGE",
-        "state": "AK",
-        "postalCode": "99508-2958"
       }
     ],
     "extension": [

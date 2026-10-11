@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
+        "value": "1881656247"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,19 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114235918"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
+        "value": "1124080320"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -47,17 +31,25 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1750302923"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962602300"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114235918"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730484031"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215999511"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2501 Sawgrass Dr"
-        ],
-        "city": "San Angelo",
-        "state": "TX",
-        "postalCode": "76904-7610"
-      },
       {
         "line": [
           "308 Hudspeth"
@@ -65,6 +57,14 @@
         "city": "SONORA",
         "state": "TX",
         "postalCode": "76950-8003"
+      },
+      {
+        "line": [
+          "6102 Grand Court Road"
+        ],
+        "city": "San Angelo",
+        "state": "TX",
+        "postalCode": "76901-4949"
       },
       {
         "line": [
@@ -76,11 +76,11 @@
       },
       {
         "line": [
-          "6102 Grand Court Road"
+          "2501 Sawgrass Dr"
         ],
         "city": "San Angelo",
         "state": "TX",
-        "postalCode": "76901-4949"
+        "postalCode": "76904-7610"
       }
     ],
     "extension": [

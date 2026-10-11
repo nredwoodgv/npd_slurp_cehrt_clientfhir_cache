@@ -14,27 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578353835"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1972394773"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1235920372"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578353835"
       }
     ],
     "address": [
-      {
-        "line": [
-          "525 ROUTE 73 N",
-          "STE 117"
-        ],
-        "city": "MARLTON",
-        "state": "NJ",
-        "postalCode": "08053-3422"
-      },
       {
         "line": [
           "9 W BROAD ST",
@@ -52,6 +43,15 @@
         "city": "NEW YORK",
         "state": "NY",
         "postalCode": "10169-0018"
+      },
+      {
+        "line": [
+          "525 ROUTE 73 N",
+          "STE 117"
+        ],
+        "city": "MARLTON",
+        "state": "NJ",
+        "postalCode": "08053-3422"
       }
     ],
     "extension": [

@@ -14,41 +14,25 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922439389"
+        "value": "1023467594"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023467594"
+        "value": "1922439389"
       }
     ],
     "address": [
       {
         "line": [
-          "5575 FRISCO SQ BLVD SUITE 100"
+          "3321 COLORADO BLVD"
         ],
-        "city": "FRISCO",
+        "city": "DENTON",
         "state": "TX",
-        "postalCode": "75034-3305"
+        "postalCode": "76210-6817"
       },
       {
         "line": [
           "3901 W 15th St"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75075-7738"
-      },
-      {
-        "line": [
-          "500 W MAIN ST"
-        ],
-        "city": "LEWISVILLE",
-        "state": "TX",
-        "postalCode": "75057-3629"
-      },
-      {
-        "line": [
-          "3901 W 15th st"
         ],
         "city": "PLANO",
         "state": "TX",
@@ -64,19 +48,11 @@
       },
       {
         "line": [
-          "3321 COLORADO BLVD"
+          "3316 Colorado Blvd"
         ],
         "city": "DENTON",
         "state": "TX",
-        "postalCode": "76210-6817"
-      },
-      {
-        "line": [
-          "50 W MAIN ST"
-        ],
-        "city": "LEWISVILLE",
-        "state": "TX",
-        "postalCode": "75057-3629"
+        "postalCode": "76210-6864"
       },
       {
         "line": [
@@ -88,11 +64,35 @@
       },
       {
         "line": [
-          "3316 Colorado Blvd"
+          "5575 FRISCO SQ BLVD SUITE 100"
         ],
-        "city": "DENTON",
+        "city": "FRISCO",
         "state": "TX",
-        "postalCode": "76210-6864"
+        "postalCode": "75034-3305"
+      },
+      {
+        "line": [
+          "500 W MAIN ST"
+        ],
+        "city": "LEWISVILLE",
+        "state": "TX",
+        "postalCode": "75057-3629"
+      },
+      {
+        "line": [
+          "50 W MAIN ST"
+        ],
+        "city": "LEWISVILLE",
+        "state": "TX",
+        "postalCode": "75057-3629"
+      },
+      {
+        "line": [
+          "3901 W 15th st"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75075-7738"
       }
     ],
     "extension": [

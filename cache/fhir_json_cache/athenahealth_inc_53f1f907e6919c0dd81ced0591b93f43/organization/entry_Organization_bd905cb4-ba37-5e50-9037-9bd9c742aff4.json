@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609983691"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124029400"
+        "value": "1548993603"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +26,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548993603"
+        "value": "1124029400"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1609983691"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,14 +38,6 @@
       }
     ],
     "address": [
-      {
-        "line": [
-          "186 Hospital Dr"
-        ],
-        "city": "GRANTSVILLE",
-        "state": "WV",
-        "postalCode": "26147-7100"
-      },
       {
         "line": [
           "376 WV HIGHWAY 5 E"
@@ -61,6 +53,14 @@
         "city": "GLENVILLE",
         "state": "WV",
         "postalCode": "26351-1405"
+      },
+      {
+        "line": [
+          "186 Hospital Dr"
+        ],
+        "city": "GRANTSVILLE",
+        "state": "WV",
+        "postalCode": "26147-7100"
       }
     ],
     "extension": [

@@ -14,22 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124668660"
+        "value": "1366909277"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366909277"
+        "value": "1124668660"
       }
     ],
     "address": [
       {
         "line": [
-          "6500 COYLE AVE",
-          "SUITE 1"
+          "1300 S ELISEO DR",
+          "STE 203"
         ],
-        "city": "CARMICHAEL",
+        "city": "GREENBRAE",
         "state": "CA",
-        "postalCode": "95608-0301"
+        "postalCode": "94904-2015"
       },
       {
         "line": [
@@ -59,12 +59,12 @@
       },
       {
         "line": [
-          "1300 S ELISEO DR",
-          "STE 203"
+          "6500 COYLE AVE",
+          "SUITE 1"
         ],
-        "city": "GREENBRAE",
+        "city": "CARMICHAEL",
         "state": "CA",
-        "postalCode": "94904-2015"
+        "postalCode": "95608-0301"
       }
     ],
     "extension": [

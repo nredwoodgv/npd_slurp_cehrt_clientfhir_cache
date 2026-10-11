@@ -18,11 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558344978"
+        "value": "1417987124"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417987124"
+        "value": "1558344978"
       }
     ],
     "address": [
@@ -33,6 +33,14 @@
         "city": "FLEMING ISLAND",
         "state": "FL",
         "postalCode": "32003-7453"
+      },
+      {
+        "line": [
+          "1545 Branan Field Rd"
+        ],
+        "city": "MIDDLEBURG",
+        "state": "FL",
+        "postalCode": "32068-8428"
       },
       {
         "line": [
@@ -49,14 +57,6 @@
         "city": "ORANGE PARK",
         "state": "FL",
         "postalCode": "32073-2969"
-      },
-      {
-        "line": [
-          "1545 Branan Field Rd"
-        ],
-        "city": "MIDDLEBURG",
-        "state": "FL",
-        "postalCode": "32068-8428"
       }
     ],
     "extension": [

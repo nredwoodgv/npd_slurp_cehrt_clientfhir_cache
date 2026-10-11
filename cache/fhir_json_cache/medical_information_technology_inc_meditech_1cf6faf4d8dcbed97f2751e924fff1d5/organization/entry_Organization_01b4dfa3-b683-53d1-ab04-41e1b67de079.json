@@ -5,6 +5,12 @@
     "meta": {
       "lastUpdated": "2026-07-04T04:21:30.000Z"
     },
+    "identifier": [
+      {
+        "system": "urn:ietf:rfc:3986",
+        "value": "https://sanjorgehospital.com"
+      }
+    ],
     "name": "The San Jorge Hospital, Inc.",
     "active": true,
     "type": [
@@ -20,12 +26,8 @@
     ],
     "telecom": [
       {
-        "extension": [
-          {
-            "url": "http://hl7.org/fhir/StructureDefinition/data-absent-reason",
-            "valueCode": "asked-unknown"
-          }
-        ]
+        "system": "url",
+        "value": "https://sanjorgehospital.com"
       }
     ],
     "address": [

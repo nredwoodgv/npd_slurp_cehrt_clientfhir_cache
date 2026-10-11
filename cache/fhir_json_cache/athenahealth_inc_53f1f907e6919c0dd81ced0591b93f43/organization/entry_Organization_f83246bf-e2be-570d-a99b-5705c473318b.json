@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740960434"
+        "value": "1144371576"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,17 +22,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144371576"
+        "value": "1740960434"
       }
     ],
     "address": [
       {
         "line": [
-          "3905 BROOKSIDE PKWY STE 101"
+          "320 HOSPITAL RD"
         ],
-        "city": "ALPHARETTA",
+        "city": "CANTON",
         "state": "GA",
-        "postalCode": "30022-4429"
+        "postalCode": "30114-2410"
       },
       {
         "line": [
@@ -42,48 +42,6 @@
         "city": "CUMMING",
         "state": "GA",
         "postalCode": "30040-2824"
-      },
-      {
-        "line": [
-          "3970 DEP BILL CANTRELL MEMORIAL RD"
-        ],
-        "city": "CUMMING",
-        "state": "GA",
-        "postalCode": "30040-2824"
-      },
-      {
-        "line": [
-          "11315 JOHNS CREEK PKWY",
-          "STE 320"
-        ],
-        "city": "DULUTH",
-        "state": "GA",
-        "postalCode": "30097-2644"
-      },
-      {
-        "line": [
-          "73 PRESTIGE LANE",
-          "SUITE 205"
-        ],
-        "city": "DAWSONVILLE",
-        "state": "GA",
-        "postalCode": "30534-8952"
-      },
-      {
-        "line": [
-          "53 Gordon Road, Suite 102"
-        ],
-        "city": "JASPER",
-        "state": "GA",
-        "postalCode": "30143-7104"
-      },
-      {
-        "line": [
-          "320 HOSPITAL RD"
-        ],
-        "city": "CANTON",
-        "state": "GA",
-        "postalCode": "30114-2410"
       },
       {
         "line": [
@@ -104,7 +62,49 @@
       },
       {
         "line": [
+          "53 Gordon Road, Suite 102"
+        ],
+        "city": "JASPER",
+        "state": "GA",
+        "postalCode": "30143-7104"
+      },
+      {
+        "line": [
+          "73 PRESTIGE LANE",
+          "SUITE 205"
+        ],
+        "city": "DAWSONVILLE",
+        "state": "GA",
+        "postalCode": "30534-8952"
+      },
+      {
+        "line": [
+          "11315 JOHNS CREEK PKWY",
+          "STE 320"
+        ],
+        "city": "DULUTH",
+        "state": "GA",
+        "postalCode": "30097-2644"
+      },
+      {
+        "line": [
           "3970 Dep Bill Cantrell Memorial Rd"
+        ],
+        "city": "CUMMING",
+        "state": "GA",
+        "postalCode": "30040-2824"
+      },
+      {
+        "line": [
+          "3905 BROOKSIDE PKWY STE 101"
+        ],
+        "city": "ALPHARETTA",
+        "state": "GA",
+        "postalCode": "30022-4429"
+      },
+      {
+        "line": [
+          "3970 DEP BILL CANTRELL MEMORIAL RD"
         ],
         "city": "CUMMING",
         "state": "GA",

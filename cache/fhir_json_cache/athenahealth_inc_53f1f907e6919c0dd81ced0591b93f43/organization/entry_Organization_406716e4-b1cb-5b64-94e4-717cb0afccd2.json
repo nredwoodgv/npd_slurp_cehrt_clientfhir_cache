@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154589901"
+        "value": "1093973836"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093973836"
+        "value": "1053346064"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,18 +26,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053346064"
+        "value": "1154589901"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1727 KIRBY PKWY #150"
-        ],
-        "city": "MEMPHIS",
-        "state": "TN",
-        "postalCode": "38120-8328"
-      },
       {
         "line": [
           "2100 N 7th street"
@@ -48,12 +40,33 @@
       },
       {
         "line": [
-          "1430 HIGHWAY 4 EAST",
-          "P O BOX 6000"
+          "3980 NEW COVINGTON PIKE"
         ],
-        "city": "HOLLY SPRINGS",
+        "city": "MEMPHIS",
+        "state": "TN",
+        "postalCode": "38128-2500"
+      },
+      {
+        "line": [
+          "401 SOUTHCREST CIRCLE STE 103"
+        ],
+        "city": "SOUTHAVEN",
         "state": "MS",
-        "postalCode": "38635-2140"
+        "postalCode": "38671-6726"
+      },
+      {
+        "line": [],
+        "city": "HAYTI",
+        "state": "MO",
+        "postalCode": "63851-1242"
+      },
+      {
+        "line": [
+          "1727 KIRBY PKWY #150"
+        ],
+        "city": "MEMPHIS",
+        "state": "TN",
+        "postalCode": "38120-8328"
       },
       {
         "line": [
@@ -65,10 +78,20 @@
         "postalCode": "38119-5202"
       },
       {
-        "line": [],
-        "city": "HAYTI",
-        "state": "MO",
-        "postalCode": "63851-1242"
+        "line": [
+          "310 JUDGE SMITH DRIVE"
+        ],
+        "city": "MARION",
+        "state": "AR",
+        "postalCode": "72364-2220"
+      },
+      {
+        "line": [
+          "6029 WALNUT GROVE RD, STE 300"
+        ],
+        "city": "MEMPHIS",
+        "state": "TN",
+        "postalCode": "38120-2170"
       },
       {
         "line": [
@@ -88,35 +111,12 @@
       },
       {
         "line": [
-          "401 SOUTHCREST CIRCLE STE 103"
+          "1430 HIGHWAY 4 EAST",
+          "P O BOX 6000"
         ],
-        "city": "SOUTHAVEN",
+        "city": "HOLLY SPRINGS",
         "state": "MS",
-        "postalCode": "38671-6726"
-      },
-      {
-        "line": [
-          "6029 WALNUT GROVE RD, STE 300"
-        ],
-        "city": "MEMPHIS",
-        "state": "TN",
-        "postalCode": "38120-2170"
-      },
-      {
-        "line": [
-          "310 JUDGE SMITH DRIVE"
-        ],
-        "city": "MARION",
-        "state": "AR",
-        "postalCode": "72364-2220"
-      },
-      {
-        "line": [
-          "3980 NEW COVINGTON PIKE"
-        ],
-        "city": "MEMPHIS",
-        "state": "TN",
-        "postalCode": "38128-2500"
+        "postalCode": "38635-2140"
       }
     ],
     "extension": [

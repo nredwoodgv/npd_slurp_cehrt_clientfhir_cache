@@ -18,11 +18,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962827063"
+        "value": "1982913018"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1255308342"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811310576"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,11 +38,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811310576"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982913018"
+        "value": "1962827063"
       }
     ],
     "address": [
@@ -49,18 +49,18 @@
         "postalCode": "29072-1234"
       },
       {
+        "line": [],
+        "city": "COLUMBIA",
+        "state": "SC",
+        "postalCode": "29203-6882"
+      },
+      {
         "line": [
           "104 Saluda Pointe Drive"
         ],
         "city": "LEXINGTON",
         "state": "SC",
         "postalCode": "29072-7295"
-      },
-      {
-        "line": [],
-        "city": "COLUMBIA",
-        "state": "SC",
-        "postalCode": "29203-6882"
       },
       {
         "line": [

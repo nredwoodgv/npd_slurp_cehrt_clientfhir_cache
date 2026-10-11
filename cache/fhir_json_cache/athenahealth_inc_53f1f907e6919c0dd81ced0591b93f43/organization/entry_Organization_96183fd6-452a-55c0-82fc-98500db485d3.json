@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528585296"
+        "value": "1457361040"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,23 +22,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457361040"
+        "value": "1629595236"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629595236"
+        "value": "1528585296"
       }
     ],
     "address": [
-      {
-        "line": [
-          "10 RESEARCH PL",
-          "SUITE 101"
-        ],
-        "city": "NORTH CHELMSFORD",
-        "state": "MA",
-        "postalCode": "01863-2456"
-      },
       {
         "line": [
           "187 BILLERICA RD"
@@ -49,11 +40,11 @@
       },
       {
         "line": [
-          "151 MAIN ST"
+          "14 Research Pl"
         ],
-        "city": "SHREWSBURY",
+        "city": "NORTH CHELMSFORD",
         "state": "MA",
-        "postalCode": "01545-2101"
+        "postalCode": "01863-2412"
       },
       {
         "line": [
@@ -65,20 +56,20 @@
       },
       {
         "line": [
-          "14 Research Pl"
+          "14 Research Place"
         ],
         "city": "NORTH CHELMSFORD",
         "state": "MA",
-        "postalCode": "01863-2414"
+        "postalCode": "01863-2460"
       },
       {
         "line": [
-          "23 KEEWAYDEN ST",
-          "SUITE 100"
+          "10 RESEARCH PL",
+          "SUITE 101"
         ],
-        "city": "SALEM",
-        "state": "NH",
-        "postalCode": "03079-2840"
+        "city": "NORTH CHELMSFORD",
+        "state": "MA",
+        "postalCode": "01863-2456"
       },
       {
         "line": [
@@ -90,11 +81,27 @@
       },
       {
         "line": [
+          "295 varnum ave"
+        ],
+        "city": "LOWELL",
+        "state": "MA",
+        "postalCode": "01854-2134"
+      },
+      {
+        "line": [
+          "151 MAIN ST"
+        ],
+        "city": "SHREWSBURY",
+        "state": "MA",
+        "postalCode": "01545-2101"
+      },
+      {
+        "line": [
           "14 Research Pl"
         ],
         "city": "NORTH CHELMSFORD",
         "state": "MA",
-        "postalCode": "01863-2412"
+        "postalCode": "01863-2414"
       },
       {
         "line": [
@@ -115,19 +122,12 @@
       },
       {
         "line": [
-          "295 varnum ave"
+          "23 KEEWAYDEN ST",
+          "SUITE 100"
         ],
-        "city": "LOWELL",
-        "state": "MA",
-        "postalCode": "01854-2134"
-      },
-      {
-        "line": [
-          "14 Research Place"
-        ],
-        "city": "NORTH CHELMSFORD",
-        "state": "MA",
-        "postalCode": "01863-2460"
+        "city": "SALEM",
+        "state": "NH",
+        "postalCode": "03079-2840"
       }
     ],
     "extension": [

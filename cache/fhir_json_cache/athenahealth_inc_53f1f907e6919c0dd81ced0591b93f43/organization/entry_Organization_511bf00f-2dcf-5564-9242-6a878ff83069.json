@@ -14,19 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265867287"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194226373"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417938044"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649643420"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,11 +22,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235598616"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1194226373"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1265867287"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1043306574"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235598616"
+        "value": "1649643420"
       }
     ],
     "address": [
@@ -52,6 +52,14 @@
       },
       {
         "line": [
+          "99 Hwy 37 West"
+        ],
+        "city": "TOMS RIVER",
+        "state": "NJ",
+        "postalCode": "08755-6423"
+      },
+      {
+        "line": [
           "855 Somerset Ave"
         ],
         "city": "LAKEWOOD",
@@ -60,7 +68,7 @@
       },
       {
         "line": [
-          "101 Second St"
+          "625 Clifton St"
         ],
         "city": "LAKEWOOD",
         "state": "NJ",
@@ -76,27 +84,19 @@
       },
       {
         "line": [
-          "99 Hwy 37 West"
-        ],
-        "city": "TOMS RIVER",
-        "state": "NJ",
-        "postalCode": "08755-6423"
-      },
-      {
-        "line": [
-          "625 Clifton St"
-        ],
-        "city": "LAKEWOOD",
-        "state": "NJ",
-        "postalCode": "08701-3324"
-      },
-      {
-        "line": [
           "99 Hwy 37W"
         ],
         "city": "TOMS RIVER",
         "state": "NJ",
         "postalCode": "08755-6423"
+      },
+      {
+        "line": [
+          "101 Second St"
+        ],
+        "city": "LAKEWOOD",
+        "state": "NJ",
+        "postalCode": "08701-3324"
       }
     ],
     "extension": [

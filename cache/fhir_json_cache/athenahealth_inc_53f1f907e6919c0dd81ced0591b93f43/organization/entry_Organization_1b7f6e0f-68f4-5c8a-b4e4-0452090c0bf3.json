@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639132251"
+        "value": "1174904551"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174904551"
+        "value": "1639132251"
       }
     ],
     "address": [
+      {
+        "line": [
+          "725 Pate St"
+        ],
+        "city": "ALBANY",
+        "state": "TX",
+        "postalCode": "76430-3225"
+      },
       {
         "line": [
           "1704 NORTH 1ST ST"
@@ -40,22 +48,6 @@
       },
       {
         "line": [
-          "217 Edwards ST"
-        ],
-        "city": "MERKEL",
-        "state": "TX",
-        "postalCode": "79536-3803"
-      },
-      {
-        "line": [
-          "6050 HOSPITAL DR"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79606-5252"
-      },
-      {
-        "line": [
           "819 N Broadway Street"
         ],
         "city": "ASPERMONT",
@@ -64,27 +56,11 @@
       },
       {
         "line": [
-          "725 Pate St"
+          "1712 North Access Road"
         ],
-        "city": "ALBANY",
+        "city": "CLYDE",
         "state": "TX",
-        "postalCode": "76430-3225"
-      },
-      {
-        "line": [
-          "1680 ANTILLEY RD STE 120"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79606-5279"
-      },
-      {
-        "line": [
-          "6250 US HWY 83"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79606-5215"
+        "postalCode": "79510-3352"
       },
       {
         "line": [
@@ -96,11 +72,35 @@
       },
       {
         "line": [
-          "1712 North Access Road"
+          "1680 ANTILLEY RD STE 120"
         ],
-        "city": "CLYDE",
+        "city": "ABILENE",
         "state": "TX",
-        "postalCode": "79510-3352"
+        "postalCode": "79606-5279"
+      },
+      {
+        "line": [
+          "6050 HOSPITAL DR"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79606-5252"
+      },
+      {
+        "line": [
+          "217 Edwards ST"
+        ],
+        "city": "MERKEL",
+        "state": "TX",
+        "postalCode": "79536-3803"
+      },
+      {
+        "line": [
+          "6250 US HWY 83"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79606-5215"
       }
     ],
     "extension": [

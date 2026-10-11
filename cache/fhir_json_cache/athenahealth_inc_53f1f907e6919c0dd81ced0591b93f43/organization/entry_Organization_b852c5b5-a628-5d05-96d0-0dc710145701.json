@@ -14,22 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922695949"
+        "value": "1346993029"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346993029"
+        "value": "1922695949"
       }
     ],
     "address": [
       {
         "line": [
-          "9456 State Road",
-          "Suite 11-V490"
+          "2045 W Grand Ave Ste B"
         ],
-        "city": "PHILADELPHIA",
-        "state": "PA",
-        "postalCode": "19114-3079"
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60612-1577"
       },
       {
         "line": [
@@ -41,30 +40,11 @@
       },
       {
         "line": [
-          "750 N Saint Paul St",
-          "Ste 250"
+          "382 NE 191st Street"
         ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75201-3206"
-      },
-      {
-        "line": [
-          "3296 Westerville Rd",
-          "Unit #464"
-        ],
-        "city": "COLUMBUS",
-        "state": "OH",
-        "postalCode": "43224-3790"
-      },
-      {
-        "line": [
-          "625 Kenmoor Ave",
-          "Ste 350"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49546-2395"
+        "city": "MIAMI",
+        "state": "FL",
+        "postalCode": "33179-3899"
       },
       {
         "line": [
@@ -77,20 +57,19 @@
       },
       {
         "line": [
-          "2045 W Grand Ave Ste B"
+          "9466 Georgia Ave"
         ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60612-1577"
+        "city": "SILVER SPRING",
+        "state": "MD",
+        "postalCode": "20910-1456"
       },
       {
         "line": [
-          "1624 Market St",
-          "Ste 226"
+          "228 Park Ave S."
         ],
-        "city": "DENVER",
-        "state": "CO",
-        "postalCode": "80202-1559"
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10003-1502"
       },
       {
         "line": [
@@ -99,6 +78,33 @@
         "city": "KNOXVILLE",
         "state": "TN",
         "postalCode": "37922-2380"
+      },
+      {
+        "line": [
+          "3296 Westerville Rd",
+          "Unit #464"
+        ],
+        "city": "COLUMBUS",
+        "state": "OH",
+        "postalCode": "43224-3790"
+      },
+      {
+        "line": [
+          "750 N Saint Paul St",
+          "Ste 250"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75201-3206"
+      },
+      {
+        "line": [
+          "625 Kenmoor Ave",
+          "Ste 350"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49546-2395"
       },
       {
         "line": [
@@ -111,14 +117,6 @@
       },
       {
         "line": [
-          "9466 Georgia Ave"
-        ],
-        "city": "SILVER SPRING",
-        "state": "MD",
-        "postalCode": "20910-1456"
-      },
-      {
-        "line": [
           "548 Market Street"
         ],
         "city": "SAN FRANCISCO",
@@ -127,19 +125,21 @@
       },
       {
         "line": [
-          "382 NE 191st Street"
+          "9456 State Road",
+          "Suite 11-V490"
         ],
-        "city": "MIAMI",
-        "state": "FL",
-        "postalCode": "33179-3899"
+        "city": "PHILADELPHIA",
+        "state": "PA",
+        "postalCode": "19114-3079"
       },
       {
         "line": [
-          "228 Park Ave S."
+          "1624 Market St",
+          "Ste 226"
         ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10003-1502"
+        "city": "DENVER",
+        "state": "CO",
+        "postalCode": "80202-1559"
       }
     ],
     "extension": [

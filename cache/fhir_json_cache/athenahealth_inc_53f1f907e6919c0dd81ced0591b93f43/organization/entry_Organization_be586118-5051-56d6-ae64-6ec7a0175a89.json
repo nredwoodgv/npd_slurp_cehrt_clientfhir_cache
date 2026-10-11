@@ -14,11 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801526009"
+        "value": "1407518780"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326434440"
+        "value": "1952993065"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831064609"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,19 +34,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407518780"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831064609"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1336738350"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598357600"
+        "value": "1326434440"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,26 +46,38 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952993065"
+        "value": "1598357600"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1801526009"
       }
     ],
     "address": [
       {
         "line": [
-          "101 N 1st Ave"
+          "470 NOOR AVE",
+          "Suite B. #1057"
         ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85003-1902"
+        "city": "SOUTH SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94080-5957"
       },
       {
         "line": [
-          "188 VALLEY STREET",
-          "SUITE 201"
+          "6112 N Mesa Street #6092"
         ],
-        "city": "PROVIDENCE",
-        "state": "RI",
-        "postalCode": "02909-2458"
+        "city": "EL PASO",
+        "state": "TX",
+        "postalCode": "79912-4516"
+      },
+      {
+        "line": [
+          "2550 Albany Avenue, #1074"
+        ],
+        "city": "WEST HARTFORD",
+        "state": "CT",
+        "postalCode": "06117-2335"
       },
       {
         "line": [
@@ -89,23 +97,6 @@
       },
       {
         "line": [
-          "470 NOOR AVE",
-          "Suite B. #1057"
-        ],
-        "city": "SOUTH SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94080-5957"
-      },
-      {
-        "line": [
-          "2550 Albany Avenue, #1074"
-        ],
-        "city": "WEST HARTFORD",
-        "state": "CT",
-        "postalCode": "06117-2335"
-      },
-      {
-        "line": [
           "613 Washington Blvd",
           "#1151"
         ],
@@ -115,11 +106,12 @@
       },
       {
         "line": [
-          "512 S Peterson Avenue #2006"
+          "188 VALLEY STREET",
+          "SUITE 201"
         ],
-        "city": "DOUGLAS",
-        "state": "GA",
-        "postalCode": "31533-5254"
+        "city": "PROVIDENCE",
+        "state": "RI",
+        "postalCode": "02909-2458"
       },
       {
         "line": [
@@ -132,11 +124,19 @@
       },
       {
         "line": [
-          "6112 N Mesa Street #6092"
+          "512 S Peterson Avenue #2006"
         ],
-        "city": "EL PASO",
-        "state": "TX",
-        "postalCode": "79912-4516"
+        "city": "DOUGLAS",
+        "state": "GA",
+        "postalCode": "31533-5254"
+      },
+      {
+        "line": [
+          "101 N 1st Ave"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85003-1902"
       }
     ],
     "extension": [

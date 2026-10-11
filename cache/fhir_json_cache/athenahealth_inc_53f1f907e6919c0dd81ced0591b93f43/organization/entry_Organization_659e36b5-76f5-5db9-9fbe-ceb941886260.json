@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801808571"
+        "value": "1457382947"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457382947"
+        "value": "1801808571"
       }
     ],
     "address": [
@@ -29,14 +29,6 @@
         "city": "ALEXANDRIA",
         "state": "LA",
         "postalCode": "71301-3842"
-      },
-      {
-        "line": [
-          "3330 Masonic Drive"
-        ],
-        "city": "ALEXANDRIA",
-        "state": "LA",
-        "postalCode": "71303-3841"
       },
       {
         "line": [
@@ -53,6 +45,14 @@
         "city": "ALEXANDRIA",
         "state": "LA",
         "postalCode": "71301-3842"
+      },
+      {
+        "line": [
+          "3330 Masonic Drive"
+        ],
+        "city": "ALEXANDRIA",
+        "state": "LA",
+        "postalCode": "71303-3841"
       }
     ],
     "extension": [

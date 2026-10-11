@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376813972"
+        "value": "1891962221"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891962221"
+        "value": "1376813972"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
@@ -28,19 +28,11 @@
     "address": [
       {
         "line": [
-          "320 POMFRET ST"
+          "320 POMFRET STREET"
         ],
         "city": "PUTNAM",
         "state": "CT",
         "postalCode": "06260-1836"
-      },
-      {
-        "line": [
-          "72 CHURCH STREET"
-        ],
-        "city": "PUTNAM",
-        "state": "CT",
-        "postalCode": "06260-1810"
       },
       {
         "line": [
@@ -60,7 +52,7 @@
       },
       {
         "line": [
-          "320 POMFRET STREET"
+          "320 POMFRET ST"
         ],
         "city": "PUTNAM",
         "state": "CT",
@@ -68,7 +60,31 @@
       },
       {
         "line": [
+          "612 HARTFORD PIKE"
+        ],
+        "city": "DAYVILLE",
+        "state": "CT",
+        "postalCode": "06241-2106"
+      },
+      {
+        "line": [
+          "150 WARE ROAD"
+        ],
+        "city": "DAYVILLE",
+        "state": "CT",
+        "postalCode": "06241-1126"
+      },
+      {
+        "line": [
           "72 CHURCH ST"
+        ],
+        "city": "PUTNAM",
+        "state": "CT",
+        "postalCode": "06260-1810"
+      },
+      {
+        "line": [
+          "72 CHURCH STREET"
         ],
         "city": "PUTNAM",
         "state": "CT",
@@ -81,22 +97,6 @@
         "city": "DAYVILLE",
         "state": "CT",
         "postalCode": "06241-2159"
-      },
-      {
-        "line": [
-          "612 HARTFORD PIKE"
-        ],
-        "city": "DAYVILLE",
-        "state": "CT",
-        "postalCode": "06241-2106"
-      },
-      {
-        "line": [
-          "44 CANTERBURY RD"
-        ],
-        "city": "BROOKLYN",
-        "state": "CT",
-        "postalCode": "06234-1903"
       },
       {
         "line": [
@@ -116,11 +116,11 @@
       },
       {
         "line": [
-          "150 WARE ROAD"
+          "44 CANTERBURY RD"
         ],
-        "city": "DAYVILLE",
+        "city": "BROOKLYN",
         "state": "CT",
-        "postalCode": "06241-1126"
+        "postalCode": "06234-1903"
       },
       {
         "line": [

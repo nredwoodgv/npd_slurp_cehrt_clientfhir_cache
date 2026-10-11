@@ -18,31 +18,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578407706"
+        "value": "1437770468"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437770468"
+        "value": "1578407706"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2520 Samaritan Dr",
-          "#201B"
-        ],
-        "city": "SAN JOSE",
-        "state": "CA",
-        "postalCode": "95124-4106"
-      },
-      {
-        "line": [
-          "6 LANDMARK SQ FL 4"
-        ],
-        "city": "STAMFORD",
-        "state": "CT",
-        "postalCode": "06901-2704"
-      },
       {
         "line": [
           "4540 E 7TH ST"
@@ -50,15 +33,6 @@
         "city": "LONG BEACH",
         "state": "CA",
         "postalCode": "90804-4327"
-      },
-      {
-        "line": [
-          "16100 Sand Canyon Avenue",
-          "Riid, Suite 240"
-        ],
-        "city": "IRVINE",
-        "state": "CA",
-        "postalCode": "92618-3724"
       },
       {
         "line": [
@@ -71,11 +45,37 @@
       },
       {
         "line": [
+          "16100 Sand Canyon Avenue",
+          "Riid, Suite 240"
+        ],
+        "city": "IRVINE",
+        "state": "CA",
+        "postalCode": "92618-3724"
+      },
+      {
+        "line": [
+          "2520 Samaritan Dr",
+          "#201B"
+        ],
+        "city": "SAN JOSE",
+        "state": "CA",
+        "postalCode": "95124-4106"
+      },
+      {
+        "line": [
           "10000 LAKEWOOD BLVD"
         ],
         "city": "DOWNEY",
         "state": "CA",
         "postalCode": "90240-4020"
+      },
+      {
+        "line": [
+          "6 LANDMARK SQ FL 4"
+        ],
+        "city": "STAMFORD",
+        "state": "CT",
+        "postalCode": "06901-2704"
       }
     ],
     "extension": [

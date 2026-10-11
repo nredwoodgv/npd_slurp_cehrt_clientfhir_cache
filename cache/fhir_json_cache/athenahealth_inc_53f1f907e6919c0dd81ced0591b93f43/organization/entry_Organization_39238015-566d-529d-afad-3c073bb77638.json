@@ -14,31 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134176472"
+        "value": "1629272968"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114962461"
+        "value": "1902979081"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548609761"
+        "value": "1588737266"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124099858"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720390453"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578696092"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427251420"
+        "value": "1174537500"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,7 +38,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902979081"
+        "value": "1114133485"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,11 +46,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255378139"
+        "value": "1114962461"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114133485"
+        "value": "1255378139"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -70,27 +58,31 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174537500"
+        "value": "1548609761"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629272968"
+        "value": "1720390453"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588737266"
+        "value": "1578696092"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386716520"
+        "value": "1134176472"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700831500"
+        "value": "1427251420"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376820605"
+        "value": "1124099858"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457663197"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -98,11 +90,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023088168"
+        "value": "1386716520"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750680757"
+        "value": "1376820605"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -110,18 +102,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457663197"
+        "value": "1700831500"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750680757"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1023088168"
       }
     ],
     "address": [
-      {
-        "line": [
-          "22601 EAST NINE MILE ROAD"
-        ],
-        "city": "ST CLAIR SHORES",
-        "state": "MI",
-        "postalCode": "48080-1917"
-      },
       {
         "line": [
           "22601 E NINE MILE ROAD"
@@ -134,9 +126,9 @@
         "line": [
           "22601 EAST NINE MILE ROAD"
         ],
-        "city": "SAINT CLAIR SHORES",
+        "city": "ST CLAIR SHORES",
         "state": "MI",
-        "postalCode": "48080-1971"
+        "postalCode": "48080-1917"
       },
       {
         "line": [
@@ -145,6 +137,14 @@
         "city": "SAINT CLAIR SHORES",
         "state": "MI",
         "postalCode": "48080-1917"
+      },
+      {
+        "line": [
+          "22601 EAST NINE MILE ROAD"
+        ],
+        "city": "SAINT CLAIR SHORES",
+        "state": "MI",
+        "postalCode": "48080-1971"
       }
     ],
     "extension": [

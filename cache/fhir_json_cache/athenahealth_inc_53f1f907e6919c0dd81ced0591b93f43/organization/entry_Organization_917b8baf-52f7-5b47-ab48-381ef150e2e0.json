@@ -14,11 +14,27 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285400978"
+        "value": "1144082322"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134995822"
+        "value": "1982470662"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1942076633"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245117340"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1366329468"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548036239"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,27 +46,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992598205"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497517676"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1659250520"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447137542"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245117340"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144082322"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,19 +54,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982470662"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548036239"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528945623"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366329468"
+        "value": "1992598205"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -78,25 +62,50 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992598213"
+        "value": "1528945623"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942076633"
+        "value": "1134995822"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952177644"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1497517676"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992598213"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447137542"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285400978"
       }
     ],
     "address": [
       {
         "line": [
-          "337 E Main St"
+          "8559 S Mason Montgomery Rd",
+          "Condo Units #25"
         ],
-        "city": "Lancaster",
+        "city": "Mason",
         "state": "OH",
-        "postalCode": "43130-3845"
+        "postalCode": "45040-9381"
+      },
+      {
+        "line": [
+          "62 Westerview Dr"
+        ],
+        "city": "Westerville",
+        "state": "OH",
+        "postalCode": "43081-2682"
       },
       {
         "line": [
@@ -109,6 +118,14 @@
       },
       {
         "line": [
+          "80 GUEST ST"
+        ],
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2071"
+      },
+      {
+        "line": [
           "3055 Kettering Blvd",
           "Ste 218"
         ],
@@ -118,11 +135,11 @@
       },
       {
         "line": [
-          "62 Westerview Dr"
+          "337 E Main St"
         ],
-        "city": "Westerville",
+        "city": "Lancaster",
         "state": "OH",
-        "postalCode": "43081-2682"
+        "postalCode": "43130-3845"
       },
       {
         "line": [
@@ -131,23 +148,6 @@
         "city": "Columbus",
         "state": "OH",
         "postalCode": "43220-2247"
-      },
-      {
-        "line": [
-          "80 GUEST ST"
-        ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2071"
-      },
-      {
-        "line": [
-          "8559 S Mason Montgomery Rd",
-          "Condo Units #25-#26"
-        ],
-        "city": "Mason",
-        "state": "OH",
-        "postalCode": "45040-9381"
       }
     ],
     "extension": [

@@ -14,14 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073110607"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972879773"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1073987178"
       },
       {
@@ -30,18 +22,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1972879773"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073110607"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1659775831"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1720 E CESAR E CHAVEZ AVE"
-        ],
-        "city": "LOS ANGELES",
-        "state": "CA",
-        "postalCode": "90033-2414"
-      },
       {
         "line": [
           "12900 PARK PLAZA DR"
@@ -52,11 +44,11 @@
       },
       {
         "line": [
-          "7091 E SPEEDWAY BLVD"
+          "1720 E CESAR E CHAVEZ AVE"
         ],
-        "city": "TUCSON",
-        "state": "AZ",
-        "postalCode": "85710-1241"
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "postalCode": "90033-2414"
       },
       {
         "line": [
@@ -65,6 +57,14 @@
         "city": "DOWNEY",
         "state": "CA",
         "postalCode": "90241-4917"
+      },
+      {
+        "line": [
+          "7091 E SPEEDWAY BLVD"
+        ],
+        "city": "TUCSON",
+        "state": "AZ",
+        "postalCode": "85710-1241"
       }
     ],
     "extension": [

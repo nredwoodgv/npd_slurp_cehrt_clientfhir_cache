@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861810186"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598213241"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730571100"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861810186"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -43,6 +39,10 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1831132133"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598213241"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -68,19 +68,19 @@
       },
       {
         "line": [
-          "1212 E. Sherman Blvd."
-        ],
-        "city": "MUSKEGON",
-        "state": "MI",
-        "postalCode": "49444-1879"
-      },
-      {
-        "line": [
           "601 West Savidge St."
         ],
         "city": "SPRING LAKE",
         "state": "MI",
         "postalCode": "49456-1620"
+      },
+      {
+        "line": [
+          "1212 E. Sherman Blvd."
+        ],
+        "city": "MUSKEGON",
+        "state": "MI",
+        "postalCode": "49444-1879"
       }
     ],
     "extension": [

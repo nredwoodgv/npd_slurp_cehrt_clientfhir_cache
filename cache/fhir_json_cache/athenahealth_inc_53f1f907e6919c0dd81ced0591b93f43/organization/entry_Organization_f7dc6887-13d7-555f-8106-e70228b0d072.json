@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407235971"
+        "value": "1174744379"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174744379"
+        "value": "1407235971"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,14 +36,6 @@
       },
       {
         "line": [
-          "1030 RIVER OAKS DR"
-        ],
-        "city": "FLOWOOD",
-        "state": "MS",
-        "postalCode": "39232-9553"
-      },
-      {
-        "line": [
           "1225 N STATE ST"
         ],
         "city": "JACKSON",
@@ -52,11 +44,11 @@
       },
       {
         "line": [
-          "760 LAKELAND DR"
+          "1030 RIVER OAKS DR"
         ],
-        "city": "JACKSON",
+        "city": "FLOWOOD",
         "state": "MS",
-        "postalCode": "39216-4610"
+        "postalCode": "39232-9553"
       },
       {
         "line": [
@@ -65,6 +57,14 @@
         "city": "FLOWOOD",
         "state": "MS",
         "postalCode": "39232-7640"
+      },
+      {
+        "line": [
+          "760 LAKELAND DR"
+        ],
+        "city": "JACKSON",
+        "state": "MS",
+        "postalCode": "39216-4610"
       }
     ],
     "extension": [

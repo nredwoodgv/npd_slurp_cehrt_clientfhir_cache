@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861797243"
+        "value": "1245215862"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245215862"
+        "value": "1861797243"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,8 +28,15 @@
     "address": [
       {
         "line": [
-          "9005 GRANT ST",
-          "STE 200"
+          "1208 S RIVER ST"
+        ],
+        "city": "SARATOGA",
+        "state": "WY",
+        "postalCode": "82331-1019"
+      },
+      {
+        "line": [
+          "SEE PAPERWORK FOR ADDRESS"
         ],
         "city": "DENVER",
         "state": "CO",
@@ -37,17 +44,25 @@
       },
       {
         "line": [
-          "1000 Lincoln Street"
+          "26659 PLEASANT PARK RD"
         ],
-        "city": "FORT MORGAN",
+        "city": "CONIFER",
         "state": "CO",
-        "postalCode": "80701-3290"
+        "postalCode": "80433-7768"
       },
       {
         "line": [
-          "9005 GRANT ST, SUITE 200"
+          "12905 W 40TH AVE STE 100"
         ],
-        "city": "THORNTON",
+        "city": "GOLDEN",
+        "state": "CO",
+        "postalCode": "80401-2791"
+      },
+      {
+        "line": [
+          "9005 Grant Street Suite 200"
+        ],
+        "city": "DENVER",
         "state": "CO",
         "postalCode": "80229-4384"
       },
@@ -62,7 +77,8 @@
       },
       {
         "line": [
-          "9005 Grant Street Suite 200"
+          "9005 GRANT ST",
+          "STE 200"
         ],
         "city": "DENVER",
         "state": "CO",
@@ -70,36 +86,27 @@
       },
       {
         "line": [
-          "1208 S RIVER ST"
+          "9005 GRANT ST, SUITE 200"
         ],
-        "city": "SARATOGA",
-        "state": "WY",
-        "postalCode": "82331-1019"
-      },
-      {
-        "line": [
-          "12905 W 40TH AVE STE 100"
-        ],
-        "city": "GOLDEN",
-        "state": "CO",
-        "postalCode": "80401-2791"
-      },
-      {
-        "line": [
-          "SEE PAPERWORK FOR ADDRESS"
-        ],
-        "city": "DENVER",
+        "city": "THORNTON",
         "state": "CO",
         "postalCode": "80229-4384"
       },
       {
         "line": [
-          "2030 MOUNTAIN VIEW AVE",
-          "STE 310"
+          "1375 E 19TH AVE"
         ],
-        "city": "LONGMONT",
+        "city": "DENVER",
         "state": "CO",
-        "postalCode": "80501-3181"
+        "postalCode": "80218-1114"
+      },
+      {
+        "line": [
+          "1000 Lincoln Street"
+        ],
+        "city": "FORT MORGAN",
+        "state": "CO",
+        "postalCode": "80701-3290"
       },
       {
         "line": [
@@ -119,19 +126,12 @@
       },
       {
         "line": [
-          "1375 E 19TH AVE"
+          "2030 MOUNTAIN VIEW AVE",
+          "STE 310"
         ],
-        "city": "DENVER",
+        "city": "LONGMONT",
         "state": "CO",
-        "postalCode": "80218-1114"
-      },
-      {
-        "line": [
-          "26659 PLEASANT PARK RD"
-        ],
-        "city": "CONIFER",
-        "state": "CO",
-        "postalCode": "80433-7768"
+        "postalCode": "80501-3181"
       }
     ],
     "extension": [

@@ -14,14 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821731548"
+        "value": "1497438428"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497438428"
+        "value": "1821731548"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1601 Market Street",
+          "SUITE 1500"
+        ],
+        "city": "PHILADELPHIA",
+        "state": "PA",
+        "postalCode": "19103-2301"
+      },
       {
         "line": [
           "1800 9TH AVE"
@@ -49,14 +58,6 @@
       },
       {
         "line": [
-          "2815 ELLIOTT AVE STE 100"
-        ],
-        "city": "SEATTLE",
-        "state": "WA",
-        "postalCode": "98121-2991"
-      },
-      {
-        "line": [
           "1601 Market St",
           "Suite 1500"
         ],
@@ -66,12 +67,11 @@
       },
       {
         "line": [
-          "1601 Market Street",
-          "SUITE 1500"
+          "2815 ELLIOTT AVE STE 100"
         ],
-        "city": "PHILADELPHIA",
-        "state": "PA",
-        "postalCode": "19103-2301"
+        "city": "SEATTLE",
+        "state": "WA",
+        "postalCode": "98121-2991"
       }
     ],
     "extension": [

@@ -154,6 +154,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649337510"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "000000000"
       },
       {
@@ -387,6 +391,10 @@
       {
         "system": "phone",
         "value": "(706)548-0500"
+      },
+      {
+        "system": "phone",
+        "value": "(706)549-5560"
       },
       {
         "system": "phone",
@@ -1003,6 +1011,17 @@
         "type": "postal",
         "line": [
           "245 Floyd Dr."
+        ],
+        "city": "Athens",
+        "state": "GA",
+        "postalCode": "30607",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "3320 Old Jefferson Rd. Ste 200A"
         ],
         "city": "Athens",
         "state": "GA",

@@ -14,18 +14,27 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1942239520"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1407806664"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1205886447"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942239520"
       }
     ],
     "address": [
+      {
+        "line": [
+          "344 E MAIN ST",
+          "STE 303"
+        ],
+        "city": "MOUNT KISCO",
+        "state": "NY",
+        "postalCode": "10549-3036"
+      },
       {
         "line": [
           "50 E 77TH ST"
@@ -45,15 +54,6 @@
       {
         "line": [
           "344 E MAIN ST"
-        ],
-        "city": "MOUNT KISCO",
-        "state": "NY",
-        "postalCode": "10549-3036"
-      },
-      {
-        "line": [
-          "344 E MAIN ST",
-          "STE 303"
         ],
         "city": "MOUNT KISCO",
         "state": "NY",
