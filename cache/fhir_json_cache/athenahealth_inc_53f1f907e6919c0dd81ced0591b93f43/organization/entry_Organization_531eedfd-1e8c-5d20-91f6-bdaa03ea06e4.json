@@ -14,26 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013744218"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1336976539"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1003637257"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013744218"
       }
     ],
     "address": [
-      {
-        "line": [
-          "30 PERWAL ST"
-        ],
-        "city": "WESTWOOD",
-        "state": "MA",
-        "postalCode": "02090-1928"
-      },
       {
         "line": [
           "40 BURTON HILLS BLVD",
@@ -42,6 +34,14 @@
         "city": "NASHVILLE",
         "state": "TN",
         "postalCode": "37215-6287"
+      },
+      {
+        "line": [
+          "30 PERWAL ST"
+        ],
+        "city": "WESTWOOD",
+        "state": "MA",
+        "postalCode": "02090-1928"
       }
     ],
     "extension": [

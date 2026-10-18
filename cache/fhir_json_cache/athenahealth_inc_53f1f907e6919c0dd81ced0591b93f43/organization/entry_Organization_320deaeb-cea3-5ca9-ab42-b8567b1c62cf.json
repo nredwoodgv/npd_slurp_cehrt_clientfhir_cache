@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861418220"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1912607300"
       },
       {
@@ -31,90 +27,16 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1114344280"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861418220"
       }
     ],
     "address": [
       {
         "line": [
-          "160 Sallitt Drive",
-          "Suite 100"
-        ],
-        "city": "STEVENSVILLE",
-        "state": "MD",
-        "postalCode": "21666-2285"
-      },
-      {
-        "line": [
-          "4660 Wilkens Ave",
-          "Suite 302"
-        ],
-        "city": "BALTIMORE",
-        "state": "MD",
-        "postalCode": "21229-4848"
-      },
-      {
-        "line": [
-          "6602 Church Hill Rd",
-          "Suite 550"
-        ],
-        "city": "CHESTERTOWN",
-        "state": "MD",
-        "postalCode": "21620-2323"
-      },
-      {
-        "line": [
-          "1673 S State Street"
-        ],
-        "city": "DOVER",
-        "state": "DE",
-        "postalCode": "19901-5148"
-      },
-      {
-        "line": [
-          "1576 Merritt Blvd",
-          "Suite 18"
-        ],
-        "city": "DUNDALK",
-        "state": "MD",
-        "postalCode": "21222-2132"
-      },
-      {
-        "line": [
-          "120 Sallitt Drive",
-          "Suite D"
-        ],
-        "city": "STEVENSVILLE",
-        "state": "MD",
-        "postalCode": "21666-2154"
-      },
-      {
-        "line": [
-          "6569 N Charles Street"
-        ],
-        "city": "TOWSON",
-        "state": "MD",
-        "postalCode": "21204-5806"
-      },
-      {
-        "line": [
-          "7920 McDonogh Rd.",
-          "Suite 201"
-        ],
-        "city": "OWINGS MILLS",
-        "state": "MD",
-        "postalCode": "21117-5350"
-      },
-      {
-        "line": [
-          "598 Cynwood Dr #105"
-        ],
-        "city": "EASTON",
-        "state": "MD",
-        "postalCode": "21601-4302"
-      },
-      {
-        "line": [
-          "7671 Quarterfield Rd.",
+          "7671 Quarterfield Rd",
           "Suite 301"
         ],
         "city": "GLEN BURNIE",
@@ -132,20 +54,38 @@
       },
       {
         "line": [
-          "810 Bestgate Rd",
-          "Suite 220"
+          "4175 N Hanson Ct",
+          "Suite 202"
         ],
-        "city": "ANNAPOLIS",
+        "city": "BOWIE",
         "state": "MD",
-        "postalCode": "21401-3033"
+        "postalCode": "20716-3182"
       },
       {
         "line": [
-          "8367 Cherry Lane"
+          "7671 Quarterfield Rd.",
+          "Suite 301"
         ],
-        "city": "LAUREL",
+        "city": "GLEN BURNIE",
         "state": "MD",
-        "postalCode": "20707-4831"
+        "postalCode": "21061-4525"
+      },
+      {
+        "line": [
+          "160 Sallitt Drive",
+          "Suite 100"
+        ],
+        "city": "STEVENSVILLE",
+        "state": "MD",
+        "postalCode": "21666-2285"
+      },
+      {
+        "line": [
+          "598 Cynwood Dr #105"
+        ],
+        "city": "EASTON",
+        "state": "MD",
+        "postalCode": "21601-4302"
       },
       {
         "line": [
@@ -158,21 +98,28 @@
       },
       {
         "line": [
-          "23000 Moakley Street",
-          "Suite 206"
+          "1673 S State Street"
         ],
-        "city": "LEONARDTOWN",
-        "state": "MD",
-        "postalCode": "20650-2917"
+        "city": "DOVER",
+        "state": "DE",
+        "postalCode": "19901-5148"
       },
       {
         "line": [
-          "4175 N Hanson Ct",
-          "Suite 202"
+          "6569 N Charles Street"
         ],
-        "city": "BOWIE",
+        "city": "TOWSON",
         "state": "MD",
-        "postalCode": "20716-3182"
+        "postalCode": "21204-5806"
+      },
+      {
+        "line": [
+          "826 Washington Rd",
+          "Suite 210"
+        ],
+        "city": "WESTMINSTER",
+        "state": "MD",
+        "postalCode": "21157-5780"
       },
       {
         "line": [
@@ -185,12 +132,38 @@
       },
       {
         "line": [
+          "120 Sallitt Drive",
+          "Suite D"
+        ],
+        "city": "STEVENSVILLE",
+        "state": "MD",
+        "postalCode": "21666-2154"
+      },
+      {
+        "line": [
+          "8367 Cherry Lane"
+        ],
+        "city": "LAUREL",
+        "state": "MD",
+        "postalCode": "20707-4831"
+      },
+      {
+        "line": [
           "10905 Fort Washington Rd",
           "Suite 405"
         ],
         "city": "FORT WASHINGTON",
         "state": "MD",
         "postalCode": "20744-5807"
+      },
+      {
+        "line": [
+          "23000 Moakley Street",
+          "Suite 206"
+        ],
+        "city": "LEONARDTOWN",
+        "state": "MD",
+        "postalCode": "20650-2917"
       },
       {
         "line": [
@@ -203,21 +176,48 @@
       },
       {
         "line": [
-          "7671 Quarterfield Rd",
-          "Suite 301"
+          "810 Bestgate Rd",
+          "Suite 220"
         ],
-        "city": "GLEN BURNIE",
+        "city": "ANNAPOLIS",
         "state": "MD",
-        "postalCode": "21061-4525"
+        "postalCode": "21401-3033"
       },
       {
         "line": [
-          "826 Washington Rd",
-          "Suite 210"
+          "4660 Wilkens Ave",
+          "Suite 302"
         ],
-        "city": "WESTMINSTER",
+        "city": "BALTIMORE",
         "state": "MD",
-        "postalCode": "21157-5780"
+        "postalCode": "21229-4848"
+      },
+      {
+        "line": [
+          "7920 McDonogh Rd.",
+          "Suite 201"
+        ],
+        "city": "OWINGS MILLS",
+        "state": "MD",
+        "postalCode": "21117-5350"
+      },
+      {
+        "line": [
+          "6602 Church Hill Rd",
+          "Suite 550"
+        ],
+        "city": "CHESTERTOWN",
+        "state": "MD",
+        "postalCode": "21620-2323"
+      },
+      {
+        "line": [
+          "1576 Merritt Blvd",
+          "Suite 18"
+        ],
+        "city": "DUNDALK",
+        "state": "MD",
+        "postalCode": "21222-2132"
       }
     ],
     "extension": [

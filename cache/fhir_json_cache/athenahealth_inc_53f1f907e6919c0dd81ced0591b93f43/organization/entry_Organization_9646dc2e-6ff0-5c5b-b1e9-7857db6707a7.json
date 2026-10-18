@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831620293"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720556541"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1992206478"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831620293"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +26,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962281923"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1306319280"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720556541"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,14 +42,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962281923"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1538622436"
       }
     ],
     "address": [
+      {
+        "line": [
+          "55 CHAPEL ST",
+          "SUITE 300"
+        ],
+        "city": "NEWTON",
+        "state": "MA",
+        "postalCode": "02458-1060"
+      },
       {
         "line": [
           "7330 Staples Mill Rd"
@@ -56,12 +65,46 @@
       },
       {
         "line": [
-          "10 CONCORD CROSSING",
-          "STE 250"
+          "3108 Glendale Boulevard",
+          "Suite 505"
         ],
-        "city": "CONCORD",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "postalCode": "90039-1806"
+      },
+      {
+        "line": [
+          "10 LANGLEY RD STE 400"
+        ],
+        "city": "NEWTON CENTER",
         "state": "MA",
-        "postalCode": "01742-3499"
+        "postalCode": "02459-1972"
+      },
+      {
+        "line": [
+          "123 Main St."
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10017-1020"
+      },
+      {
+        "line": [
+          "55 Chapel St.",
+          "Suite 300"
+        ],
+        "city": "NEWTON",
+        "state": "MA",
+        "postalCode": "02458-1060"
+      },
+      {
+        "line": [
+          "4938 Hampden Lane",
+          "Suite 296"
+        ],
+        "city": "BETHESDA",
+        "state": "MD",
+        "postalCode": "20814-2914"
       },
       {
         "line": [
@@ -82,55 +125,12 @@
       },
       {
         "line": [
-          "55 CHAPEL ST",
-          "SUITE 300"
+          "10 CONCORD CROSSING",
+          "STE 250"
         ],
-        "city": "NEWTON",
+        "city": "CONCORD",
         "state": "MA",
-        "postalCode": "02458-1060"
-      },
-      {
-        "line": [
-          "3108 Glendale Boulevard",
-          "Suite 505"
-        ],
-        "city": "LOS ANGELES",
-        "state": "CA",
-        "postalCode": "90039-1806"
-      },
-      {
-        "line": [
-          "4938 Hampden Lane",
-          "Suite 296"
-        ],
-        "city": "BETHESDA",
-        "state": "MD",
-        "postalCode": "20814-2914"
-      },
-      {
-        "line": [
-          "10 LANGLEY RD STE 400"
-        ],
-        "city": "NEWTON CENTER",
-        "state": "MA",
-        "postalCode": "02459-1972"
-      },
-      {
-        "line": [
-          "55 Chapel St.",
-          "Suite 300"
-        ],
-        "city": "NEWTON",
-        "state": "MA",
-        "postalCode": "02458-1060"
-      },
-      {
-        "line": [
-          "123 Main St."
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10017-1020"
+        "postalCode": "01742-3499"
       }
     ],
     "extension": [

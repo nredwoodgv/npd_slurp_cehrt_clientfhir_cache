@@ -14,11 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285674572"
+        "value": "1437199718"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457551533"
+        "value": "1194949701"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1255308342"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,15 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659596302"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417142662"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255308342"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,7 +42,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437199718"
+        "value": "1285674572"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,7 +50,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194949701"
+        "value": "1659596302"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457551533"
       }
     ],
     "address": [
@@ -69,12 +69,11 @@
       },
       {
         "line": [
-          "14 Medical Park",
-          "Suite 200"
+          "104 Saluda Pointe Drive"
         ],
-        "city": "COLUMBIA",
+        "city": "LEXINGTON",
         "state": "SC",
-        "postalCode": "29203-6874"
+        "postalCode": "29072-7295"
       },
       {
         "line": [
@@ -86,11 +85,12 @@
       },
       {
         "line": [
-          "104 Saluda Pointe Drive"
+          "14 Medical Park",
+          "Suite 200"
         ],
-        "city": "LEXINGTON",
+        "city": "COLUMBIA",
         "state": "SC",
-        "postalCode": "29072-7295"
+        "postalCode": "29203-6874"
       }
     ],
     "extension": [

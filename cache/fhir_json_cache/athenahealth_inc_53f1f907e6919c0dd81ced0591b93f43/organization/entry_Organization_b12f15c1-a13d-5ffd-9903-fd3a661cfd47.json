@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841878006"
+        "value": "1992383145"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992383145"
+        "value": "1841878006"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2435 Forest Dr"
-        ],
-        "city": "COLUMBIA",
-        "state": "SC",
-        "postalCode": "29204-2026"
-      },
       {
         "line": [
           "120 Gateway Corp Blvd"
@@ -40,11 +32,61 @@
       },
       {
         "line": [
+          "2437 FOREST DRIVE"
+        ],
+        "city": "COLUMBIA",
+        "state": "SC",
+        "postalCode": "29203-1236"
+      },
+      {
+        "line": [
+          "2750 Laurel Street",
+          "Suite 104"
+        ],
+        "city": "COLUMBIA",
+        "state": "SC",
+        "postalCode": "29204-2025"
+      },
+      {
+        "line": [
+          "29204-2026"
+        ],
+        "city": "COLUMBIA",
+        "state": "SC",
+        "postalCode": "29204-2026"
+      },
+      {
+        "line": [
+          "3000 St Matthews Rd"
+        ],
+        "city": "ORANGEBURG",
+        "state": "SC",
+        "postalCode": "29118-1442"
+      },
+      {
+        "line": [
+          "5 Richland Medical Park"
+        ],
+        "city": "COLUMBIA",
+        "state": "SC",
+        "postalCode": "29203-6863"
+      },
+      {
+        "line": [
           "1304 W BOBO NEWSOM HWY"
         ],
         "city": "HARTSVILLE",
         "state": "SC",
         "postalCode": "29550-4710"
+      },
+      {
+        "line": [
+          "114 Gateway Corporate Blvd.",
+          "Suite 450"
+        ],
+        "city": "COLUMBIA",
+        "state": "SC",
+        "postalCode": "29203-9785"
       },
       {
         "line": [
@@ -64,70 +106,11 @@
       },
       {
         "line": [
-          "3000 St Matthews Rd"
-        ],
-        "city": "ORANGEBURG",
-        "state": "SC",
-        "postalCode": "29118-1442"
-      },
-      {
-        "line": [
-          "29204-2026"
+          "2435 Forest Dr"
         ],
         "city": "COLUMBIA",
         "state": "SC",
         "postalCode": "29204-2026"
-      },
-      {
-        "line": [
-          "2437 FOREST DRIVE"
-        ],
-        "city": "COLUMBIA",
-        "state": "SC",
-        "postalCode": "29203-1236"
-      },
-      {
-        "line": [
-          "1315 Roberts St"
-        ],
-        "city": "CAMDEN",
-        "state": "SC",
-        "postalCode": "29020-3737"
-      },
-      {
-        "line": [
-          "1655 BERNADIN ST",
-          "STE 350"
-        ],
-        "city": "COLUMBIA",
-        "state": "SC",
-        "postalCode": "29204-2026"
-      },
-      {
-        "line": [
-          "114 Gateway Corporate Blvd.",
-          "Suite 450"
-        ],
-        "city": "COLUMBIA",
-        "state": "SC",
-        "postalCode": "29203-9785"
-      },
-      {
-        "line": [
-          "2750 Laurel Street",
-          "Suite 104"
-        ],
-        "city": "COLUMBIA",
-        "state": "SC",
-        "postalCode": "29204-2025"
-      },
-      {
-        "line": [
-          "5 Richland Medical Park"
-        ],
-        "city": "COLUMBIA",
-        "state": "SC",
-        "postalCode": "29203-6863"
       },
       {
         "line": [
@@ -144,6 +127,23 @@
         "city": "CAMDEN",
         "state": "SC",
         "postalCode": "29020-3076"
+      },
+      {
+        "line": [
+          "1655 BERNADIN ST",
+          "STE 350"
+        ],
+        "city": "COLUMBIA",
+        "state": "SC",
+        "postalCode": "29204-2026"
+      },
+      {
+        "line": [
+          "1315 Roberts St"
+        ],
+        "city": "CAMDEN",
+        "state": "SC",
+        "postalCode": "29020-3737"
       }
     ],
     "extension": [

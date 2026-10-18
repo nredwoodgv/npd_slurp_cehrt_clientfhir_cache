@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598799017"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811096423"
+        "value": "1356570147"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,15 +26,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871694620"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1689048464"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356570147"
+        "value": "1871694620"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811096423"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598799017"
       }
     ],
     "address": [
@@ -52,7 +52,16 @@
       },
       {
         "line": [
-          "901 W GREENWOOD ST STE 8"
+          "420 Thomson Circle"
+        ],
+        "city": "ABBEVILLE",
+        "state": "SC",
+        "postalCode": "29620-5656"
+      },
+      {
+        "line": [
+          "901 West Greenwood St",
+          "Ste 1"
         ],
         "city": "ABBEVILLE",
         "state": "SC",
@@ -68,16 +77,7 @@
       },
       {
         "line": [
-          "6 College St"
-        ],
-        "city": "DUE WEST",
-        "state": "SC",
-        "postalCode": "29639-1234"
-      },
-      {
-        "line": [
-          "901 West Greenwood St",
-          "Ste 1"
+          "901 W GREENWOOD ST STE 8"
         ],
         "city": "ABBEVILLE",
         "state": "SC",
@@ -85,11 +85,11 @@
       },
       {
         "line": [
-          "420 Thomson Circle"
+          "6 College St"
         ],
-        "city": "ABBEVILLE",
+        "city": "DUE WEST",
         "state": "SC",
-        "postalCode": "29620-5656"
+        "postalCode": "29639-1234"
       }
     ],
     "extension": [

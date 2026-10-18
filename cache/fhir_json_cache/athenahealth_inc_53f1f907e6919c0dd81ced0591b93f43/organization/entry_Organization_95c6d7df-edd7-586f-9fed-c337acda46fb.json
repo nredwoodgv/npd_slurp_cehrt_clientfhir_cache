@@ -14,29 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699143800"
+        "value": "1063229458"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063229458"
+        "value": "1699143800"
       }
     ],
     "address": [
       {
         "line": [
-          "6511 Spring Brook Ave."
+          "24 CENTURY HILL DR",
+          "STE 1"
         ],
-        "city": "RHINEBECK",
+        "city": "LATHAM",
         "state": "NY",
-        "postalCode": "12572-3709"
-      },
-      {
-        "line": [
-          "43 NEW SCOTLAND AVE"
-        ],
-        "city": "ALBANY",
-        "state": "NY",
-        "postalCode": "12208-3412"
+        "postalCode": "12110-2133"
       },
       {
         "line": [
@@ -56,12 +49,19 @@
       },
       {
         "line": [
-          "24 CENTURY HILL DR",
-          "STE 1"
+          "43 NEW SCOTLAND AVE"
         ],
-        "city": "LATHAM",
+        "city": "ALBANY",
         "state": "NY",
-        "postalCode": "12110-2133"
+        "postalCode": "12208-3412"
+      },
+      {
+        "line": [
+          "6511 Spring Brook Ave."
+        ],
+        "city": "RHINEBECK",
+        "state": "NY",
+        "postalCode": "12572-3709"
       }
     ],
     "extension": [

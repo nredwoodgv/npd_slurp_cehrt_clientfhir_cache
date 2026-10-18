@@ -14,77 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811784093"
+        "value": "1275922734"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275922734"
+        "value": "1811784093"
       }
     ],
     "address": [
       {
         "line": [
-          "550 N HILLSIDE ST"
+          "4500 MEDICAL CENTER DR"
         ],
-        "city": "WICHITA",
-        "state": "KS",
-        "postalCode": "67214-4910"
-      },
-      {
-        "line": [
-          "PO BOX 731467"
-        ],
-        "city": "DALLAS",
+        "city": "MCKINNEY",
         "state": "TX",
-        "postalCode": "75373-1467"
-      },
-      {
-        "line": [
-          "2515 SCRIPTURE ST"
-        ],
-        "city": "DENTON",
-        "state": "TX",
-        "postalCode": "76201-2311"
-      },
-      {
-        "line": [
-          "3901 W 15TH ST"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75075-7738"
-      },
-      {
-        "line": [
-          "PO BOX 840407"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75284-0407"
-      },
-      {
-        "line": [
-          "3301 MATLOCK RD"
-        ],
-        "city": "ARLINGTON",
-        "state": "TX",
-        "postalCode": "76015-2908"
-      },
-      {
-        "line": [
-          "3535 S I-35 E"
-        ],
-        "city": "DENTON",
-        "state": "TX",
-        "postalCode": "76210-6850"
-      },
-      {
-        "line": [
-          "811 WRIGHT ST"
-        ],
-        "city": "ARLINGTON",
-        "state": "TX",
-        "postalCode": "76012-4708"
+        "postalCode": "75069-1650"
       },
       {
         "line": [
@@ -96,11 +40,19 @@
       },
       {
         "line": [
-          "550 N HILLSIDE STREET"
+          "3101 N TARRANT PKWY"
         ],
-        "city": "WICHITA",
-        "state": "KS",
-        "postalCode": "67214-4910"
+        "city": "FORT WORTH",
+        "state": "TX",
+        "postalCode": "76177-8601"
+      },
+      {
+        "line": [
+          "3316 COLORADO BLVD"
+        ],
+        "city": "DENTON",
+        "state": "TX",
+        "postalCode": "76210-6864"
       },
       {
         "line": [
@@ -109,6 +61,38 @@
         "city": "PLANO",
         "state": "TX",
         "postalCode": "75093-8185"
+      },
+      {
+        "line": [
+          "5500 FRISCO SQUARE BLVD"
+        ],
+        "city": "FRISCO",
+        "state": "TX",
+        "postalCode": "75034-3305"
+      },
+      {
+        "line": [
+          "900 8TH AVE"
+        ],
+        "city": "FORT WORTH",
+        "state": "TX",
+        "postalCode": "76104-3902"
+      },
+      {
+        "line": [
+          "7502 GREENVILLE AVE"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75231-3802"
+      },
+      {
+        "line": [
+          "3901 W 15TH ST"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75075-7738"
       },
       {
         "line": [
@@ -128,27 +112,59 @@
       },
       {
         "line": [
-          "5500 FRISCO SQUARE BLVD"
+          "3301 MATLOCK RD"
         ],
-        "city": "FRISCO",
+        "city": "ARLINGTON",
         "state": "TX",
-        "postalCode": "75034-3305"
+        "postalCode": "76015-2908"
       },
       {
         "line": [
-          "1600 HOSPITAL PKWY"
+          "550 N HILLSIDE ST"
         ],
-        "city": "BEDFORD",
-        "state": "TX",
-        "postalCode": "76022-6913"
+        "city": "WICHITA",
+        "state": "KS",
+        "postalCode": "67214-4910"
       },
       {
         "line": [
-          "7502 GREENVILLE AVE"
+          "3535 S I-35 E"
         ],
-        "city": "DALLAS",
+        "city": "DENTON",
         "state": "TX",
-        "postalCode": "75231-3802"
+        "postalCode": "76210-6850"
+      },
+      {
+        "line": [
+          "2818 N GREENWICH RD"
+        ],
+        "city": "WICHITA",
+        "state": "KS",
+        "postalCode": "67226-8210"
+      },
+      {
+        "line": [
+          "1400 8TH AVE"
+        ],
+        "city": "FORT WORTH",
+        "state": "TX",
+        "postalCode": "76104-4110"
+      },
+      {
+        "line": [
+          "713 E ANDERSON ST"
+        ],
+        "city": "WEATHERFORD",
+        "state": "TX",
+        "postalCode": "76086-5705"
+      },
+      {
+        "line": [
+          "2770 N WEBB RD"
+        ],
+        "city": "WICHITA",
+        "state": "KS",
+        "postalCode": "67226-8112"
       },
       {
         "line": [
@@ -160,36 +176,19 @@
       },
       {
         "line": [
-          "900 8TH AVE"
+          "1301 PENNSYLVANIA AVE"
         ],
         "city": "FORT WORTH",
         "state": "TX",
-        "postalCode": "76104-3902"
+        "postalCode": "76104-2122"
       },
       {
         "line": [
-          "4001 West 15th Street",
-          "Suite 480"
+          "1600 HOSPITAL PKWY"
         ],
-        "city": "Plano",
+        "city": "BEDFORD",
         "state": "TX",
-        "postalCode": "75093-5853"
-      },
-      {
-        "line": [
-          "4500 MEDICAL CENTER DR"
-        ],
-        "city": "MCKINNEY",
-        "state": "TX",
-        "postalCode": "75069-1650"
-      },
-      {
-        "line": [
-          "929 N SAINT FRANCIS ST"
-        ],
-        "city": "WICHITA",
-        "state": "KS",
-        "postalCode": "67214-3821"
+        "postalCode": "76022-6913"
       },
       {
         "line": [
@@ -209,75 +208,44 @@
       },
       {
         "line": [
-          "9300 E 29TH ST N"
-        ],
-        "city": "WICHITA",
-        "state": "KS",
-        "postalCode": "67226-2182"
-      },
-      {
-        "line": [
-          "1301 PENNSYLVANIA AVE"
-        ],
-        "city": "FORT WORTH",
-        "state": "TX",
-        "postalCode": "76104-2122"
-      },
-      {
-        "line": [
-          "713 E ANDERSON ST"
-        ],
-        "city": "WEATHERFORD",
-        "state": "TX",
-        "postalCode": "76086-5705"
-      },
-      {
-        "line": [
-          "3101 N TARRANT PKWY"
-        ],
-        "city": "FORT WORTH",
-        "state": "TX",
-        "postalCode": "76177-8601"
-      },
-      {
-        "line": [
-          "1400 8TH AVE"
-        ],
-        "city": "FORT WORTH",
-        "state": "TX",
-        "postalCode": "76104-4110"
-      },
-      {
-        "line": [
-          "3316 COLORADO BLVD"
+          "2515 SCRIPTURE ST"
         ],
         "city": "DENTON",
         "state": "TX",
-        "postalCode": "76210-6864"
+        "postalCode": "76201-2311"
       },
       {
         "line": [
-          "7200 OAKMONT BOULEVARD"
+          "4401 BOOTH CALLOWAY RD"
         ],
-        "city": "FORT WORTH",
+        "city": "NORTH RICHLAND HILLS",
         "state": "TX",
-        "postalCode": "76132-3902"
+        "postalCode": "76180-7371"
       },
       {
         "line": [
-          "2770 N WEBB RD"
+          "4001 West 15th Street",
+          "Suite 480"
         ],
-        "city": "WICHITA",
-        "state": "KS",
-        "postalCode": "67226-8112"
+        "city": "Plano",
+        "state": "TX",
+        "postalCode": "75093-5853"
       },
       {
         "line": [
-          "2818 N GREENWICH RD"
+          "PO BOX 840407"
         ],
-        "city": "WICHITA",
-        "state": "KS",
-        "postalCode": "67226-8210"
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75284-0407"
+      },
+      {
+        "line": [
+          "811 WRIGHT ST"
+        ],
+        "city": "ARLINGTON",
+        "state": "TX",
+        "postalCode": "76012-4708"
       },
       {
         "line": [
@@ -289,11 +257,51 @@
       },
       {
         "line": [
-          "4401 BOOTH CALLOWAY RD"
+          "550 N HILLSIDE STREET"
         ],
-        "city": "NORTH RICHLAND HILLS",
+        "city": "WICHITA",
+        "state": "KS",
+        "postalCode": "67214-4910"
+      },
+      {
+        "line": [
+          "PO BOX 731467"
+        ],
+        "city": "DALLAS",
         "state": "TX",
-        "postalCode": "76180-7371"
+        "postalCode": "75373-1467"
+      },
+      {
+        "line": [
+          "9300 E 29TH ST N"
+        ],
+        "city": "WICHITA",
+        "state": "KS",
+        "postalCode": "67226-2182"
+      },
+      {
+        "line": [
+          "7200 OAKMONT BOULEVARD"
+        ],
+        "city": "FORT WORTH",
+        "state": "TX",
+        "postalCode": "76132-3902"
+      },
+      {
+        "line": [
+          "10864 TEXAS HEALTH TRL"
+        ],
+        "city": "KELLER",
+        "state": "TX",
+        "postalCode": "76244-4897"
+      },
+      {
+        "line": [
+          "929 N SAINT FRANCIS ST"
+        ],
+        "city": "WICHITA",
+        "state": "KS",
+        "postalCode": "67214-3821"
       },
       {
         "line": [
@@ -311,14 +319,6 @@
         "city": "WICHITA",
         "state": "KS",
         "postalCode": "67214-3821"
-      },
-      {
-        "line": [
-          "10864 TEXAS HEALTH TRL"
-        ],
-        "city": "KELLER",
-        "state": "TX",
-        "postalCode": "76244-4897"
       }
     ],
     "extension": [

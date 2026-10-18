@@ -14,31 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396518718"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1851164271"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134992548"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053290973"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831962265"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417720830"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992598114"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,18 +26,41 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053290973"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1134992548"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831962265"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992598114"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669365086"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396518718"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1851164271"
       }
     ],
     "address": [
       {
         "line": [
-          "16851 Jefferson Hwy",
-          "Ste 4C"
+          "80 GUEST ST"
         ],
-        "city": "Baton Rouge",
-        "state": "LA",
-        "postalCode": "70817-6990"
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2071"
       },
       {
         "line": [
@@ -74,11 +73,12 @@
       },
       {
         "line": [
-          "80 GUEST ST"
+          "16851 Jefferson Hwy",
+          "Ste 4C"
         ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2071"
+        "city": "Baton Rouge",
+        "state": "LA",
+        "postalCode": "70817-6990"
       }
     ],
     "extension": [

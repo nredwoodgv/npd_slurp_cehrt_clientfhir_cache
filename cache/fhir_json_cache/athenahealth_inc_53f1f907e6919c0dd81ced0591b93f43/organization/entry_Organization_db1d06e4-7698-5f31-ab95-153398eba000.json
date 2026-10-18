@@ -14,17 +14,17 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063896546"
+        "value": "1396514931"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396514931"
+        "value": "1063896546"
       }
     ],
     "address": [
       {
         "line": [
-          "1233 N NORTHWOOD CENTER COURT"
+          "1233 N Northwood Center Court"
         ],
         "city": "COEUR D ALENE",
         "state": "ID",
@@ -40,19 +40,19 @@
       },
       {
         "line": [
+          "1233 N NORTHWOOD CENTER COURT"
+        ],
+        "city": "COEUR D ALENE",
+        "state": "ID",
+        "postalCode": "83814-6190"
+      },
+      {
+        "line": [
           "8552 N GOVERNMENT WAY"
         ],
         "city": "HAYDEN",
         "state": "ID",
         "postalCode": "83835-9280"
-      },
-      {
-        "line": [
-          "1233 N Northwood Center Court"
-        ],
-        "city": "COEUR D ALENE",
-        "state": "ID",
-        "postalCode": "83814-6190"
       }
     ],
     "extension": [

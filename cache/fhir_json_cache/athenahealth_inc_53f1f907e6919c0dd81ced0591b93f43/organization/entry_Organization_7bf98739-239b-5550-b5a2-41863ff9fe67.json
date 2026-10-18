@@ -14,29 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124406632"
+        "value": "1942400692"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942400692"
+        "value": "1124406632"
       }
     ],
     "address": [
       {
         "line": [
-          "16466 Bernardo Center Drive, Suite 177"
+          "123 Main St"
         ],
-        "city": "SAN DIEGO",
+        "city": "EL CAJON",
         "state": "CA",
-        "postalCode": "92128-2522"
-      },
-      {
-        "line": [
-          "16466 BERNARDO CENTER DR #150"
-        ],
-        "city": "SAN DIEGO",
-        "state": "CA",
-        "postalCode": "92128-2522"
+        "postalCode": "92021-1234"
       },
       {
         "line": [
@@ -45,6 +37,14 @@
         "city": "POWAY",
         "state": "CA",
         "postalCode": "92064-2405"
+      },
+      {
+        "line": [
+          "16466 BERNARDO CENTER DR #150"
+        ],
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "postalCode": "92128-2522"
       },
       {
         "line": [
@@ -72,7 +72,8 @@
       },
       {
         "line": [
-          "16466 BERNARDO CENTER DR. STE. 177"
+          "16466 Bernardo Center Drive",
+          "Suite 177"
         ],
         "city": "SAN DIEGO",
         "state": "CA",
@@ -80,16 +81,7 @@
       },
       {
         "line": [
-          "123 Main St"
-        ],
-        "city": "EL CAJON",
-        "state": "CA",
-        "postalCode": "92021-1234"
-      },
-      {
-        "line": [
-          "16466 Bernardo Center Drive",
-          "Suite 177"
+          "16466 Bernardo Center Drive, Suite 177"
         ],
         "city": "SAN DIEGO",
         "state": "CA",
@@ -103,6 +95,14 @@
         "city": "ESCONDIDO",
         "state": "CA",
         "postalCode": "92029-4112"
+      },
+      {
+        "line": [
+          "16466 BERNARDO CENTER DR. STE. 177"
+        ],
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "postalCode": "92128-2522"
       }
     ],
     "extension": [

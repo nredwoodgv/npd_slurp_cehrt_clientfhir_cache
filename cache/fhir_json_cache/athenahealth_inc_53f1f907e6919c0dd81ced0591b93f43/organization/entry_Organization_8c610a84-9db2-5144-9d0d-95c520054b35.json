@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912264862"
+        "value": "1558797118"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,14 +22,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558797118"
+        "value": "1417297847"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417297847"
+        "value": "1912264862"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3700 E. South Street"
+        ],
+        "city": "LAKEWOOD",
+        "state": "CA",
+        "postalCode": "90712-1419"
+      },
       {
         "line": [
           "400 W. Mineral King Ave"
@@ -40,43 +48,11 @@
       },
       {
         "line": [
-          "3033 W Orange Avenue"
+          "2601 E Chapman Ave"
         ],
-        "city": "ANAHEIM",
+        "city": "ORANGE",
         "state": "CA",
-        "postalCode": "92804-3156"
-      },
-      {
-        "line": [
-          "21250 Hawthorne Blvd Suite 435"
-        ],
-        "city": "TORRANCE",
-        "state": "CA",
-        "postalCode": "90503-5504"
-      },
-      {
-        "line": [
-          "14662 Newport Beach"
-        ],
-        "city": "TUSTIN",
-        "state": "CA",
-        "postalCode": "92780-6064"
-      },
-      {
-        "line": [
-          "1772 Beach Blvd"
-        ],
-        "city": "HUNTINGTON BEACH",
-        "state": "CA",
-        "postalCode": "92647-6819"
-      },
-      {
-        "line": [
-          "1025 S Anaheim Blvd"
-        ],
-        "city": "ANAHEIM",
-        "state": "CA",
-        "postalCode": "92805-5806"
+        "postalCode": "92869-3206"
       },
       {
         "line": [
@@ -89,11 +65,19 @@
       },
       {
         "line": [
-          "3700 E. South Street"
+          "1700 Mount Vernon Ave"
         ],
-        "city": "LAKEWOOD",
+        "city": "BAKERSFIELD",
         "state": "CA",
-        "postalCode": "90712-1419"
+        "postalCode": "93306-4018"
+      },
+      {
+        "line": [
+          "101 E Valencia Mesa Dr"
+        ],
+        "city": "FULLERTON",
+        "state": "CA",
+        "postalCode": "92835-3809"
       },
       {
         "line": [
@@ -105,19 +89,85 @@
       },
       {
         "line": [
-          "2601 E Chapman Ave"
+          "21250 Hawthorne Blvd Suite 435"
         ],
-        "city": "ORANGE",
+        "city": "TORRANCE",
         "state": "CA",
-        "postalCode": "92869-3206"
+        "postalCode": "90503-5504"
       },
       {
         "line": [
-          "1700 Mount Vernon Ave"
+          "17772 Beach Blvd"
         ],
-        "city": "BAKERSFIELD",
+        "city": "HUNTINGTON BEACH",
         "state": "CA",
-        "postalCode": "93306-4018"
+        "postalCode": "92647-6819"
+      },
+      {
+        "line": [
+          "7677 Center Ave Suite 104"
+        ],
+        "city": "HUNTINGTON BEACH",
+        "state": "CA",
+        "postalCode": "92647-3030"
+      },
+      {
+        "line": [
+          "3033 W Orange Avenue"
+        ],
+        "city": "ANAHEIM",
+        "state": "CA",
+        "postalCode": "92804-3156"
+      },
+      {
+        "line": [
+          "11190 Warner Ave Ste 212"
+        ],
+        "city": "FOUNTAIN VALLEY",
+        "state": "CA",
+        "postalCode": "92708-4045"
+      },
+      {
+        "line": [
+          "9920 Talbert Ave"
+        ],
+        "city": "FOUNTAIN VALLEY",
+        "state": "CA",
+        "postalCode": "92708-5153"
+      },
+      {
+        "line": [
+          "1025 S Anaheim Blvd"
+        ],
+        "city": "ANAHEIM",
+        "state": "CA",
+        "postalCode": "92805-5806"
+      },
+      {
+        "line": [
+          "11160 Warner Ave",
+          "Ste 117"
+        ],
+        "city": "FOUNTAIN VALLEY",
+        "state": "CA",
+        "postalCode": "92708-4010"
+      },
+      {
+        "line": [
+          "1154 N. Euclid Street"
+        ],
+        "city": "ANAHEIM",
+        "state": "CA",
+        "postalCode": "92801-1955"
+      },
+      {
+        "line": [
+          "3771 Katella Ave",
+          "STE 100"
+        ],
+        "city": "LOS ALAMITOS",
+        "state": "CA",
+        "postalCode": "90720-3111"
       },
       {
         "line": [
@@ -130,46 +180,6 @@
       },
       {
         "line": [
-          "1154 N. Euclid Street"
-        ],
-        "city": "ANAHEIM",
-        "state": "CA",
-        "postalCode": "92801-1955"
-      },
-      {
-        "line": [
-          "9920 Talbert Ave"
-        ],
-        "city": "FOUNTAIN VALLEY",
-        "state": "CA",
-        "postalCode": "92708-5153"
-      },
-      {
-        "line": [
-          "11190 Warner Ave Ste 212"
-        ],
-        "city": "FOUNTAIN VALLEY",
-        "state": "CA",
-        "postalCode": "92708-4045"
-      },
-      {
-        "line": [
-          "7677 Center Ave Suite 104"
-        ],
-        "city": "HUNTINGTON BEACH",
-        "state": "CA",
-        "postalCode": "92647-3030"
-      },
-      {
-        "line": [
-          "101 E Valencia Mesa Dr"
-        ],
-        "city": "FULLERTON",
-        "state": "CA",
-        "postalCode": "92835-3809"
-      },
-      {
-        "line": [
           "14662 Newport Ave"
         ],
         "city": "TUSTIN",
@@ -178,11 +188,11 @@
       },
       {
         "line": [
-          "1510 San Pablo St"
+          "17772 BEACH BLVD"
         ],
-        "city": "LOS ANGELES",
+        "city": "HUNTINGTON BEACH",
         "state": "CA",
-        "postalCode": "90033-5320"
+        "postalCode": "92647-6819"
       },
       {
         "line": [
@@ -195,12 +205,11 @@
       },
       {
         "line": [
-          "11160 Warner Ave",
-          "Ste 117"
+          "1510 San Pablo St"
         ],
-        "city": "FOUNTAIN VALLEY",
+        "city": "LOS ANGELES",
         "state": "CA",
-        "postalCode": "92708-4010"
+        "postalCode": "90033-5320"
       },
       {
         "line": [
@@ -220,7 +229,7 @@
       },
       {
         "line": [
-          "17772 BEACH BLVD"
+          "1772 Beach Blvd"
         ],
         "city": "HUNTINGTON BEACH",
         "state": "CA",
@@ -228,20 +237,11 @@
       },
       {
         "line": [
-          "17772 Beach Blvd"
+          "14662 Newport Beach"
         ],
-        "city": "HUNTINGTON BEACH",
+        "city": "TUSTIN",
         "state": "CA",
-        "postalCode": "92647-6819"
-      },
-      {
-        "line": [
-          "3771 Katella Ave",
-          "STE 100"
-        ],
-        "city": "LOS ALAMITOS",
-        "state": "CA",
-        "postalCode": "90720-3111"
+        "postalCode": "92780-6064"
       }
     ],
     "extension": [

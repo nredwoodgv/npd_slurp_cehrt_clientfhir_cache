@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952077703"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1316614811"
       },
       {
@@ -26,46 +22,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952077703"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1235606542"
       }
     ],
     "address": [
-      {
-        "line": [
-          "720 South Colorado Blvd",
-          "13th Floor"
-        ],
-        "city": "DENVER",
-        "state": "CO",
-        "postalCode": "80246-1904"
-      },
-      {
-        "line": [
-          "1266 E. Main St",
-          "Suite 700R"
-        ],
-        "city": "STAMFORD",
-        "state": "CT",
-        "postalCode": "06902-3507"
-      },
-      {
-        "line": [
-          "5800 S Eastern Ave",
-          "Suite 500"
-        ],
-        "city": "Commerce",
-        "state": "CA",
-        "postalCode": "90040-4033"
-      },
-      {
-        "line": [
-          "605 N Michigan Ave",
-          "4th Floor"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60611-3141"
-      },
       {
         "line": [
           "2950 North Loop W",
@@ -86,109 +50,12 @@
       },
       {
         "line": [
-          "240 Elm Street",
-          "2nd & 3rd Floors"
-        ],
-        "city": "SOMERVILLE",
-        "state": "MA",
-        "postalCode": "02144-2935"
-      },
-      {
-        "line": [
-          "40600 Ann Arbor Rd E",
-          "Suite 201"
-        ],
-        "city": "PLYMOUTH",
-        "state": "MI",
-        "postalCode": "48170-4675"
-      },
-      {
-        "line": [
-          "2 Office Park Ct",
-          "Suite 103"
-        ],
-        "city": "COLUMBIA",
-        "state": "SC",
-        "postalCode": "29223-5948"
-      },
-      {
-        "line": [
-          "1301 K St, NW Floor 3"
-        ],
-        "city": "WASHINGTON",
-        "state": "DC",
-        "postalCode": "20005-3307"
-      },
-      {
-        "line": [
-          "445 Minnesota Street",
-          "Suite 1500"
-        ],
-        "city": "Saint Paul",
-        "state": "MN",
-        "postalCode": "55101-2269"
-      },
-      {
-        "line": [
-          "600 N. 2nd St",
-          "Suite 401"
-        ],
-        "city": "HARRISBURG",
-        "state": "PA",
-        "postalCode": "17101-1071"
-      },
-      {
-        "line": [
-          "4400 Easton Commons Way",
-          "Suite 125"
-        ],
-        "city": "Columbus",
-        "state": "OH",
-        "postalCode": "43219-6223"
-      },
-      {
-        "line": [
-          "703 MAIN ST"
-        ],
-        "city": "PATERSON",
-        "state": "NJ",
-        "postalCode": "07503-2621"
-      },
-      {
-        "line": [
-          "100 S Ashley Drive",
-          "Suite 600"
-        ],
-        "city": "Tampa",
-        "state": "FL",
-        "postalCode": "33602-5300"
-      },
-      {
-        "line": [
-          "1555 W. Shoreline Drive",
+          "780 Commercial St SE",
           "Suite 100"
         ],
-        "city": "BOISE",
-        "state": "ID",
-        "postalCode": "83702-9107"
-      },
-      {
-        "line": [
-          "40 Burton Hills Blvd",
-          "Suite 200"
-        ],
-        "city": "Nashville",
-        "state": "TN",
-        "postalCode": "37215-5902"
-      },
-      {
-        "line": [
-          "711 Capitol Way S.",
-          "Suite 204"
-        ],
-        "city": "OLYMPIA",
-        "state": "WA",
-        "postalCode": "98501-1267"
+        "city": "SALEM",
+        "state": "OR",
+        "postalCode": "97301-3465"
       },
       {
         "line": [
@@ -201,11 +68,37 @@
       },
       {
         "line": [
+          "3500 Lenox Road",
+          "Suite 1500"
+        ],
+        "city": "Atlanta",
+        "state": "GA",
+        "postalCode": "30326-4231"
+      },
+      {
+        "line": [
+          "1301 K St, NW Floor 3"
+        ],
+        "city": "WASHINGTON",
+        "state": "DC",
+        "postalCode": "20005-3307"
+      },
+      {
+        "line": [
           "1301 K ST. NW, FLOOR 3"
         ],
         "city": "WASHINGTON",
         "state": "DC",
         "postalCode": "20005-3307"
+      },
+      {
+        "line": [
+          "720 South Colorado Blvd",
+          "13th Floor"
+        ],
+        "city": "DENVER",
+        "state": "CO",
+        "postalCode": "80246-1904"
       },
       {
         "line": [
@@ -218,12 +111,29 @@
       },
       {
         "line": [
-          "160 Mine Lake Ct",
-          "Suite 200"
+          "711 Capitol Way S.",
+          "Suite 204"
         ],
-        "city": "RALEIGH",
-        "state": "NC",
-        "postalCode": "27615-6417"
+        "city": "OLYMPIA",
+        "state": "WA",
+        "postalCode": "98501-1267"
+      },
+      {
+        "line": [
+          "5800 S Eastern Ave",
+          "Suite 500"
+        ],
+        "city": "Commerce",
+        "state": "CA",
+        "postalCode": "90040-4033"
+      },
+      {
+        "line": [
+          "1108 E. South Union Ave"
+        ],
+        "city": "MIDVALE",
+        "state": "UT",
+        "postalCode": "84047-2904"
       },
       {
         "line": [
@@ -236,29 +146,119 @@
       },
       {
         "line": [
-          "3500 Lenox Road",
-          "Suite 1500"
+          "240 Elm Street",
+          "2nd & 3rd Floors"
         ],
-        "city": "Atlanta",
-        "state": "GA",
-        "postalCode": "30326-4231"
+        "city": "SOMERVILLE",
+        "state": "MA",
+        "postalCode": "02144-2935"
       },
       {
         "line": [
-          "1108 E. South Union Ave"
+          "703 MAIN ST"
         ],
-        "city": "MIDVALE",
-        "state": "UT",
-        "postalCode": "84047-2904"
+        "city": "PATERSON",
+        "state": "NJ",
+        "postalCode": "07503-2621"
       },
       {
         "line": [
-          "780 Commercial St SE",
+          "40 Burton Hills Blvd",
+          "Suite 200"
+        ],
+        "city": "Nashville",
+        "state": "TN",
+        "postalCode": "37215-5902"
+      },
+      {
+        "line": [
+          "605 N Michigan Ave",
+          "4th Floor"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60611-3141"
+      },
+      {
+        "line": [
+          "1266 E. Main St",
+          "Suite 700R"
+        ],
+        "city": "STAMFORD",
+        "state": "CT",
+        "postalCode": "06902-3507"
+      },
+      {
+        "line": [
+          "600 N. 2nd St",
+          "Suite 401"
+        ],
+        "city": "HARRISBURG",
+        "state": "PA",
+        "postalCode": "17101-1071"
+      },
+      {
+        "line": [
+          "100 S Ashley Drive",
+          "Suite 600"
+        ],
+        "city": "Tampa",
+        "state": "FL",
+        "postalCode": "33602-5300"
+      },
+      {
+        "line": [
+          "2 Office Park Ct",
+          "Suite 103"
+        ],
+        "city": "COLUMBIA",
+        "state": "SC",
+        "postalCode": "29223-5948"
+      },
+      {
+        "line": [
+          "4400 Easton Commons Way",
+          "Suite 125"
+        ],
+        "city": "Columbus",
+        "state": "OH",
+        "postalCode": "43219-6223"
+      },
+      {
+        "line": [
+          "160 Mine Lake Ct",
+          "Suite 200"
+        ],
+        "city": "RALEIGH",
+        "state": "NC",
+        "postalCode": "27615-6417"
+      },
+      {
+        "line": [
+          "40600 Ann Arbor Rd E",
+          "Suite 201"
+        ],
+        "city": "PLYMOUTH",
+        "state": "MI",
+        "postalCode": "48170-4675"
+      },
+      {
+        "line": [
+          "1555 W. Shoreline Drive",
           "Suite 100"
         ],
-        "city": "SALEM",
-        "state": "OR",
-        "postalCode": "97301-3465"
+        "city": "BOISE",
+        "state": "ID",
+        "postalCode": "83702-9107"
+      },
+      {
+        "line": [
+          "445 Minnesota Street",
+          "Suite 1500"
+        ],
+        "city": "Saint Paul",
+        "state": "MN",
+        "postalCode": "55101-2269"
       }
     ],
     "extension": [

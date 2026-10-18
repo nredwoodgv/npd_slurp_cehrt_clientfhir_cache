@@ -4,16 +4,12 @@
     "id": "205",
     "identifier": [
       {
-        "system": "https://github.com/synthetichealth/synthea",
-        "value": "56090ab7-1f97-37ff-a434-194f9c6e5510"
-      },
-      {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "FI"
+        "value": "1497837538"
       },
       {
-        "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "ca-peiVCI"
+        "system": "https://api-datamanager.carecloud.com/fhir/sid/talkehr/practice",
+        "value": "205"
       }
     ],
     "active": true,
@@ -25,17 +21,25 @@
             "code": "prov",
             "display": "Healthcare Provider"
           }
-        ],
-        "text": "Healthcare Provider"
+        ]
       }
     ],
     "name": "CHARLES TERRY, MD",
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "6098964107",
+        "use": "work"
+      }
+    ],
     "address": [
       {
+        "text": "2381 LAWRENCEVILLE ROAD SUITE 104, LAWRENCEVILLE, NJ 086482025, MERCER",
         "line": [
           "2381 LAWRENCEVILLE ROAD SUITE 104"
         ],
         "city": "LAWRENCEVILLE",
+        "district": "MERCER",
         "state": "NJ",
         "postalCode": "086482025",
         "country": "US"

@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891755351"
+        "value": "1043501448"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043501448"
+        "value": "1891755351"
       }
     ],
     "address": [
       {
         "line": [
-          "365 E NORTH AVE"
+          "800 Biesterfield Road"
         ],
-        "city": "NORTHLAKE",
+        "city": "ELK GROVE VILLAGE",
         "state": "IL",
-        "postalCode": "60164-0001"
+        "postalCode": "60007-6306"
       },
       {
         "line": [
@@ -48,19 +48,11 @@
       },
       {
         "line": [
-          "1555 Barrington Road"
+          "365 E NORTH AVE"
         ],
-        "city": "HOFFMAN ESTATES",
+        "city": "NORTHLAKE",
         "state": "IL",
-        "postalCode": "60169-7261"
-      },
-      {
-        "line": [
-          "800 Biesterfield Road"
-        ],
-        "city": "ELK GROVE VILLAGE",
-        "state": "IL",
-        "postalCode": "60007-6306"
+        "postalCode": "60164-0001"
       },
       {
         "line": [
@@ -80,12 +72,19 @@
       },
       {
         "line": [
-          "1585  N BARRINGTON ROAD",
-          "SUITE 605"
+          "365 E NORTH AVE"
+        ],
+        "city": "MELROSE PARK",
+        "state": "IL",
+        "postalCode": "60164-0001"
+      },
+      {
+        "line": [
+          "1555 Barrington Road"
         ],
         "city": "HOFFMAN ESTATES",
         "state": "IL",
-        "postalCode": "60169-5020"
+        "postalCode": "60169-7261"
       },
       {
         "line": [
@@ -97,11 +96,12 @@
       },
       {
         "line": [
-          "365 E NORTH AVE"
+          "1585  N BARRINGTON ROAD",
+          "SUITE 605"
         ],
-        "city": "MELROSE PARK",
+        "city": "HOFFMAN ESTATES",
         "state": "IL",
-        "postalCode": "60164-0001"
+        "postalCode": "60169-5020"
       }
     ],
     "extension": [

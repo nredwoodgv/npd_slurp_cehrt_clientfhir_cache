@@ -30,21 +30,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346014602"
+        "value": "1184471872"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184471872"
+        "value": "1346014602"
       }
     ],
     "address": [
       {
         "line": [
-          "1169 EASTERN PKWY STE 2313"
+          "1401 HARRODSBURG RD STE A530"
         ],
-        "city": "LOUISVILLE",
+        "city": "LEXINGTON",
         "state": "KY",
-        "postalCode": "40217-1444"
+        "postalCode": "40504-1717"
       },
       {
         "line": [
@@ -57,12 +57,28 @@
       },
       {
         "line": [
+          "3660 GUION RD STE 210"
+        ],
+        "city": "INDIANAPOLIS",
+        "state": "IN",
+        "postalCode": "46222-1691"
+      },
+      {
+        "line": [
           "9403 KENWOOD RD",
           "STE D-202"
         ],
         "city": "Blue Ash",
         "state": "OH",
         "postalCode": "45242-6895"
+      },
+      {
+        "line": [
+          "1169 EASTERN PKWY STE 2313"
+        ],
+        "city": "LOUISVILLE",
+        "state": "KY",
+        "postalCode": "40217-1444"
       },
       {
         "line": [
@@ -75,14 +91,6 @@
       },
       {
         "line": [
-          "3660 GUION RD STE 210"
-        ],
-        "city": "INDIANAPOLIS",
-        "state": "IN",
-        "postalCode": "46222-1691"
-      },
-      {
-        "line": [
           "700 W. LEA BLVD",
           "STE 202"
         ],
@@ -92,11 +100,12 @@
       },
       {
         "line": [
-          "3454 OAK ALLEY CT STE 202"
+          "2201 MURPHY AVE",
+          "SUITE 103"
         ],
-        "city": "TOLEDO",
-        "state": "OH",
-        "postalCode": "43606-1370"
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37203-1892"
       },
       {
         "line": [
@@ -108,20 +117,11 @@
       },
       {
         "line": [
-          "1401 HARRODSBURG RD STE A530"
+          "3454 OAK ALLEY CT STE 202"
         ],
-        "city": "LEXINGTON",
-        "state": "KY",
-        "postalCode": "40504-1717"
-      },
-      {
-        "line": [
-          "2201 MURPHY AVE",
-          "SUITE 103"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37203-1892"
+        "city": "TOLEDO",
+        "state": "OH",
+        "postalCode": "43606-1370"
       }
     ],
     "extension": [

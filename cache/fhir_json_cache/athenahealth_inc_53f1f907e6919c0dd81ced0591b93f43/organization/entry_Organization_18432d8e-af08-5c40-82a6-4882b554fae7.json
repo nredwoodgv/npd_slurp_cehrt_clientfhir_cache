@@ -20,43 +20,55 @@
     "address": [
       {
         "line": [
-          "550 BROADVIEW AVE"
+          "349 LEGION DR"
         ],
         "city": "WARRENTON",
         "state": "VA",
-        "postalCode": "20186-2036"
+        "postalCode": "20186-3537"
       },
       {
         "line": [
-          "550 BROADVIEW AVE STE 102"
-        ],
-        "city": "WARRENTON",
-        "state": "VA",
-        "postalCode": "20186-2036"
-      },
-      {
-        "line": [
-          "6477 COLLEGE PARK SQ STE 106"
+          "5589 GREENWICH RD",
+          "STE 101"
         ],
         "city": "VIRGINIA BEACH",
         "state": "VA",
-        "postalCode": "23464-3611"
+        "postalCode": "23462-6565"
       },
       {
         "line": [
-          "9161 LIBERIA AVE"
+          "2012 S TOLLGATE RD",
+          "STE 100-102"
         ],
-        "city": "MANASSAS",
+        "city": "BEL AIR",
+        "state": "MD",
+        "postalCode": "21015-5901"
+      },
+      {
+        "line": [
+          "2002 Orange Rd",
+          "Ste 105"
+        ],
+        "city": "CULPEPER",
         "state": "VA",
-        "postalCode": "20110-1727"
+        "postalCode": "22701-3980"
       },
       {
         "line": [
-          "5589 GREENWICH RD"
+          "5589 Greenwich Rd",
+          "ste 100"
         ],
-        "city": "virginia beach",
+        "city": "VIRGINIA BEACH",
         "state": "VA",
         "postalCode": "23462-6565"
+      },
+      {
+        "line": [
+          "1101 BATTLEFIELD BLVD N"
+        ],
+        "city": "CHESAPEAKE",
+        "state": "VA",
+        "postalCode": "23320-4735"
       },
       {
         "line": [
@@ -77,79 +89,11 @@
       },
       {
         "line": [
-          "5589 Greenwich Rd",
-          "ste 100"
+          "15100 WASHINGTON ST STE 203"
         ],
-        "city": "VIRGINIA BEACH",
+        "city": "HAYMARKET",
         "state": "VA",
-        "postalCode": "23462-6565"
-      },
-      {
-        "line": [
-          "105 STONY POINTE WAY"
-        ],
-        "city": "STRASBURG",
-        "state": "VA",
-        "postalCode": "22657-2670"
-      },
-      {
-        "line": [
-          "601 OLD WAGNER RD"
-        ],
-        "city": "PETERSBURG",
-        "state": "VA",
-        "postalCode": "23805-9313"
-      },
-      {
-        "line": [
-          "6512 WOODLAKE VILLAGE CIR"
-        ],
-        "city": "MIDLOTHIAN",
-        "state": "VA",
-        "postalCode": "23112-2200"
-      },
-      {
-        "line": [
-          "349 LEGION DR"
-        ],
-        "city": "WARRENTON",
-        "state": "VA",
-        "postalCode": "20186-3537"
-      },
-      {
-        "line": [
-          "1101 BATTLEFIELD BLVD N"
-        ],
-        "city": "CHESAPEAKE",
-        "state": "VA",
-        "postalCode": "23320-4735"
-      },
-      {
-        "line": [
-          "2012 S TOLLGATE RD",
-          "STE 100-102"
-        ],
-        "city": "BEL AIR",
-        "state": "MD",
-        "postalCode": "21015-5901"
-      },
-      {
-        "line": [
-          "8100 Sandpiper Circle",
-          "Suite 104"
-        ],
-        "city": "NOTTINGHAM",
-        "state": "MD",
-        "postalCode": "21236-4991"
-      },
-      {
-        "line": [
-          "2012 S TOLLGATE RD",
-          "Ste 111-112"
-        ],
-        "city": "BEL AIR",
-        "state": "MD",
-        "postalCode": "21015-5900"
+        "postalCode": "20169-4920"
       },
       {
         "line": [
@@ -158,31 +102,6 @@
         "city": "CHESAPEAKE",
         "state": "VA",
         "postalCode": "23320-4941"
-      },
-      {
-        "line": [
-          "103 E 6TH ST"
-        ],
-        "city": "FRONT ROYAL",
-        "state": "VA",
-        "postalCode": "22630-3407"
-      },
-      {
-        "line": [
-          "360 E PULASKI HWY",
-          "STE 2B"
-        ],
-        "city": "ELKTON",
-        "state": "MD",
-        "postalCode": "21921-6595"
-      },
-      {
-        "line": [
-          "704 THIMBLE SHOALS BLVD"
-        ],
-        "city": "NEWPORT NEWS",
-        "state": "VA",
-        "postalCode": "23606-4544"
       },
       {
         "line": [
@@ -195,29 +114,110 @@
       },
       {
         "line": [
-          "5589 GREENWICH RD",
-          "STE 101"
+          "550 BROADVIEW AVE"
+        ],
+        "city": "WARRENTON",
+        "state": "VA",
+        "postalCode": "20186-2036"
+      },
+      {
+        "line": [
+          "704 THIMBLE SHOALS BLVD"
+        ],
+        "city": "NEWPORT NEWS",
+        "state": "VA",
+        "postalCode": "23606-4544"
+      },
+      {
+        "line": [
+          "360 E PULASKI HWY",
+          "STE 2B"
+        ],
+        "city": "ELKTON",
+        "state": "MD",
+        "postalCode": "21921-6595"
+      },
+      {
+        "line": [
+          "9161 LIBERIA AVE"
+        ],
+        "city": "MANASSAS",
+        "state": "VA",
+        "postalCode": "20110-1727"
+      },
+      {
+        "line": [
+          "6477 COLLEGE PARK SQ STE 106"
         ],
         "city": "VIRGINIA BEACH",
+        "state": "VA",
+        "postalCode": "23464-3611"
+      },
+      {
+        "line": [
+          "550 BROADVIEW AVE STE 102"
+        ],
+        "city": "WARRENTON",
+        "state": "VA",
+        "postalCode": "20186-2036"
+      },
+      {
+        "line": [
+          "103 E 6TH ST"
+        ],
+        "city": "FRONT ROYAL",
+        "state": "VA",
+        "postalCode": "22630-3407"
+      },
+      {
+        "line": [
+          "105 STONY POINTE WAY"
+        ],
+        "city": "STRASBURG",
+        "state": "VA",
+        "postalCode": "22657-2670"
+      },
+      {
+        "line": [
+          "5589 GREENWICH RD"
+        ],
+        "city": "virginia beach",
         "state": "VA",
         "postalCode": "23462-6565"
       },
       {
         "line": [
-          "15100 WASHINGTON ST STE 203"
+          "6512 WOODLAKE VILLAGE CIR"
         ],
-        "city": "HAYMARKET",
+        "city": "MIDLOTHIAN",
         "state": "VA",
-        "postalCode": "20169-4920"
+        "postalCode": "23112-2200"
       },
       {
         "line": [
-          "2002 Orange Rd",
-          "Ste 105"
+          "8100 Sandpiper Circle",
+          "Suite 104"
         ],
-        "city": "CULPEPER",
+        "city": "NOTTINGHAM",
+        "state": "MD",
+        "postalCode": "21236-4991"
+      },
+      {
+        "line": [
+          "601 OLD WAGNER RD Bldg D"
+        ],
+        "city": "PETERSBURG",
         "state": "VA",
-        "postalCode": "22701-3980"
+        "postalCode": "23805-9313"
+      },
+      {
+        "line": [
+          "2012 S TOLLGATE RD",
+          "Ste 111-112"
+        ],
+        "city": "BEL AIR",
+        "state": "MD",
+        "postalCode": "21015-5900"
       },
       {
         "line": [

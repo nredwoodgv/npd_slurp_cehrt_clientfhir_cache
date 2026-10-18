@@ -14,19 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578123428"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1093224123"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811578438"
+        "value": "1578123428"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1518778687"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811578438"
       }
     ],
     "address": [
@@ -40,6 +40,14 @@
       },
       {
         "line": [
+          "1187 South Lapeer Rd"
+        ],
+        "city": "LAPEER",
+        "state": "MI",
+        "postalCode": "48446-3081"
+      },
+      {
+        "line": [
           "5202 MILLER RD"
         ],
         "city": "FLINT",
@@ -48,19 +56,27 @@
       },
       {
         "line": [
-          "4599 TOWNE CENTRE RD"
+          "441 S LIVERNOIS RD STE 260"
         ],
-        "city": "SAGINAW",
+        "city": "ROCHESTER",
         "state": "MI",
-        "postalCode": "48604-2804"
+        "postalCode": "48307-2593"
       },
       {
         "line": [
-          "25330 W 6 MILE RD"
+          "150 MILLWOOD STREET"
         ],
-        "city": "REDFORD",
+        "city": "CARO",
         "state": "MI",
-        "postalCode": "48240-2105"
+        "postalCode": "48723-1656"
+      },
+      {
+        "line": [
+          "4427 VENOY RD"
+        ],
+        "city": "WAYNE",
+        "state": "MI",
+        "postalCode": "48184-1871"
       },
       {
         "line": [
@@ -80,19 +96,11 @@
       },
       {
         "line": [
-          "15400 TRENTON RD"
+          "3601 WILDER RD"
         ],
-        "city": "SOUTHGATE",
+        "city": "BAY CITY",
         "state": "MI",
-        "postalCode": "48195-2075"
-      },
-      {
-        "line": [
-          "1187 South Lapeer Rd"
-        ],
-        "city": "LAPEER",
-        "state": "MI",
-        "postalCode": "48446-3081"
+        "postalCode": "48706-2113"
       },
       {
         "line": [
@@ -104,27 +112,11 @@
       },
       {
         "line": [
-          "150 MILLWOOD STREET"
+          "25330 W 6 MILE RD"
         ],
-        "city": "CARO",
+        "city": "REDFORD",
         "state": "MI",
-        "postalCode": "48723-1656"
-      },
-      {
-        "line": [
-          "3601 WILDER RD"
-        ],
-        "city": "BAY CITY",
-        "state": "MI",
-        "postalCode": "48706-2113"
-      },
-      {
-        "line": [
-          "4427 VENOY RD"
-        ],
-        "city": "WAYNE",
-        "state": "MI",
-        "postalCode": "48184-1871"
+        "postalCode": "48240-2105"
       },
       {
         "line": [
@@ -136,11 +128,19 @@
       },
       {
         "line": [
-          "441 S LIVERNOIS RD STE 260"
+          "4599 TOWNE CENTRE RD"
         ],
-        "city": "ROCHESTER",
+        "city": "SAGINAW",
         "state": "MI",
-        "postalCode": "48307-2593"
+        "postalCode": "48604-2804"
+      },
+      {
+        "line": [
+          "15400 TRENTON RD"
+        ],
+        "city": "SOUTHGATE",
+        "state": "MI",
+        "postalCode": "48195-2075"
       }
     ],
     "extension": [

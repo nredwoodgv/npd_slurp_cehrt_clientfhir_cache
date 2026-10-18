@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235234055"
+        "value": "1235155615"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235155615"
+        "value": "1235234055"
       }
     ],
     "address": [
-      {
-        "line": [
-          "255 STATE RT 3 STE 104"
-        ],
-        "city": "SECAUCUS",
-        "state": "NJ",
-        "postalCode": "07094-3857"
-      },
-      {
-        "line": [
-          "177 Prospect Street"
-        ],
-        "city": "PASSAIC",
-        "state": "NJ",
-        "postalCode": "07055-5150"
-      },
       {
         "line": [
           "1 NORTH WASHINGTON AVENUE"
@@ -45,14 +29,6 @@
         "city": "BERGENFIELD",
         "state": "NJ",
         "postalCode": "07621-2125"
-      },
-      {
-        "line": [
-          "1005 Maple Ave"
-        ],
-        "city": "GLEN ROCK",
-        "state": "NJ",
-        "postalCode": "07452-2820"
       },
       {
         "line": [
@@ -64,6 +40,30 @@
       },
       {
         "line": [
+          "1 N Washington Avenue"
+        ],
+        "city": "BERGENFIELD",
+        "state": "NJ",
+        "postalCode": "07621-2125"
+      },
+      {
+        "line": [
+          "177 Prospect Street"
+        ],
+        "city": "PASSAIC",
+        "state": "NJ",
+        "postalCode": "07055-5150"
+      },
+      {
+        "line": [
+          "255 STATE RT 3 STE 104"
+        ],
+        "city": "SECAUCUS",
+        "state": "NJ",
+        "postalCode": "07094-3857"
+      },
+      {
+        "line": [
           "734 GREEN ST"
         ],
         "city": "ISELIN",
@@ -72,11 +72,11 @@
       },
       {
         "line": [
-          "1 N Washington Avenue"
+          "1005 Maple Ave"
         ],
-        "city": "BERGENFIELD",
+        "city": "GLEN ROCK",
         "state": "NJ",
-        "postalCode": "07621-2125"
+        "postalCode": "07452-2820"
       }
     ],
     "extension": [

@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487902995"
+        "value": "1215287362"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073861431"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,38 +30,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215287362"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073861431"
+        "value": "1487902995"
       }
     ],
     "address": [
-      {
-        "line": [
-          "901 LAKESHORE DR"
-        ],
-        "city": "ISHPEMING",
-        "state": "MI",
-        "postalCode": "49849-1367"
-      },
-      {
-        "line": [
-          "435 ROAD PLACE"
-        ],
-        "city": "ISHPEMING",
-        "state": "MI",
-        "postalCode": "49849-9999"
-      },
-      {
-        "line": [
-          "500 OSBORN BLVD"
-        ],
-        "city": "SAULT SAINTE MARIE",
-        "state": "MI",
-        "postalCode": "49783-1822"
-      },
       {
         "line": [
           "850 W BARAGA AVE"
@@ -73,6 +49,30 @@
         "city": "ESCANABA",
         "state": "MI",
         "postalCode": "49829-1300"
+      },
+      {
+        "line": [
+          "435 ROAD PLACE"
+        ],
+        "city": "ISHPEMING",
+        "state": "MI",
+        "postalCode": "49849-9999"
+      },
+      {
+        "line": [
+          "901 LAKESHORE DR"
+        ],
+        "city": "ISHPEMING",
+        "state": "MI",
+        "postalCode": "49849-1367"
+      },
+      {
+        "line": [
+          "500 OSBORN BLVD"
+        ],
+        "city": "SAULT SAINTE MARIE",
+        "state": "MI",
+        "postalCode": "49783-1822"
       }
     ],
     "extension": [

@@ -30,10 +30,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1111111118"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1548207889"
       },
       {
@@ -42,7 +38,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1111111118"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1111111117"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1111111119"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "11111111110"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -246,10 +254,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "11111111110"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1003428400"
       },
       {
@@ -314,10 +318,6 @@
       },
       {
         "system": "phone",
-        "value": "(931)563-1835"
-      },
-      {
-        "system": "phone",
         "value": "(931)393-3143"
       },
       {
@@ -331,6 +331,14 @@
       {
         "system": "phone",
         "value": "(615)385-3751"
+      },
+      {
+        "system": "phone",
+        "value": "(931)563-1835"
+      },
+      {
+        "system": "phone",
+        "value": "(111)111-1111"
       },
       {
         "system": "phone",
@@ -518,10 +526,6 @@
       },
       {
         "system": "phone",
-        "value": "(111)111-1111"
-      },
-      {
-        "system": "phone",
         "value": "(423)266-4764"
       },
       {
@@ -630,18 +634,6 @@
         "type": "postal",
         "line": [
           "2230 N. Jackson Street",
-          "Suite 100 A"
-        ],
-        "city": "Tullahoma",
-        "state": "TN",
-        "postalCode": "373388",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "2230 N. Jackson Street",
           "Suite 200"
         ],
         "city": "Tullahoma",
@@ -682,6 +674,29 @@
         "city": "Nashville",
         "state": "TN",
         "postalCode": "37205",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2230 N. Jackson Street",
+          "Suite 100 A"
+        ],
+        "city": "Tullahoma",
+        "state": "TN",
+        "postalCode": "373388",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2620 Peerless Rd NW"
+        ],
+        "city": "Cleveland",
+        "state": "TN",
+        "postalCode": "37312-3732",
         "country": "USA"
       },
       {

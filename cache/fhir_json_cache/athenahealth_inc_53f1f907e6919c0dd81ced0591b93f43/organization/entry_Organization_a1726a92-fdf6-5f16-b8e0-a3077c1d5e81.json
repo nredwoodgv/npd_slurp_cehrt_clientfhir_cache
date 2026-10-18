@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538606181"
+        "value": "1497701106"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,18 +22,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497701106"
+        "value": "1538606181"
       }
     ],
     "address": [
-      {
-        "line": [
-          "600 Northern Blvd"
-        ],
-        "city": "ALBANY",
-        "state": "NY",
-        "postalCode": "12204-1004"
-      },
       {
         "line": [
           "315 South Manning Blvd"
@@ -46,15 +38,23 @@
         "line": [
           "315 South Manning Blvd"
         ],
-        "city": "Albany",
+        "city": "ALBANY",
         "state": "NY",
         "postalCode": "12208-1707"
       },
       {
         "line": [
-          "315 South Manning Blvd"
+          "600 Northern Blvd"
         ],
         "city": "ALBANY",
+        "state": "NY",
+        "postalCode": "12204-1004"
+      },
+      {
+        "line": [
+          "315 South Manning Blvd"
+        ],
+        "city": "Albany",
         "state": "NY",
         "postalCode": "12208-1707"
       }

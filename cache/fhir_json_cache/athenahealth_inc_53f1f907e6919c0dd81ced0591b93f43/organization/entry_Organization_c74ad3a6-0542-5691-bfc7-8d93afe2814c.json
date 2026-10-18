@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578281291"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275587826"
+        "value": "1053039032"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,14 +22,42 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053039032"
+        "value": "1770201766"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770201766"
+        "value": "1578281291"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1275587826"
       }
     ],
     "address": [
+      {
+        "line": [
+          "2500 Valleyview Ave"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58501-3090"
+      },
+      {
+        "line": [
+          "401 N 9th St"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58501-4530"
+      },
+      {
+        "line": [
+          "900 E Broadway Ave."
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58501-4507"
+      },
       {
         "line": [
           "4916 N WASHINGTON ST"
@@ -41,30 +65,6 @@
         "city": "BISMARCK",
         "state": "ND",
         "postalCode": "58503-0559"
-      },
-      {
-        "line": [
-          "2425 Hillview Ave"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58501-3056"
-      },
-      {
-        "line": [
-          "1312 Hwy 49 N"
-        ],
-        "city": "BEULAH",
-        "state": "ND",
-        "postalCode": "58523-6038"
-      },
-      {
-        "line": [
-          "4580 Coleman St"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58503-0347"
       },
       {
         "line": [
@@ -76,11 +76,67 @@
       },
       {
         "line": [
-          "3330 Nebraska Drive"
+          "3400 Nebraska Drive"
         ],
         "city": "BISMARCK",
         "state": "ND",
-        "postalCode": "58503-1663"
+        "postalCode": "58503-1649"
+      },
+      {
+        "line": [
+          "1000 W Century Ave"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58503-0913"
+      },
+      {
+        "line": [
+          "301 Lorainn Dr"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58503-0311"
+      },
+      {
+        "line": [
+          "727 Kirkwood Mall"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58504-5753"
+      },
+      {
+        "line": [
+          "1021 N 21 St"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58501-3109"
+      },
+      {
+        "line": [
+          "4580 Coleman St"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58503-0347"
+      },
+      {
+        "line": [
+          "1312 Hwy 49 N"
+        ],
+        "city": "BEULAH",
+        "state": "ND",
+        "postalCode": "58523-6038"
+      },
+      {
+        "line": [
+          "2425 Hillview Ave"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58501-3056"
       },
       {
         "line": [
@@ -100,38 +156,6 @@
       },
       {
         "line": [
-          "727 Kirkwood Mall"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58504-5753"
-      },
-      {
-        "line": [
-          "401 N 9th St"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58501-4530"
-      },
-      {
-        "line": [
-          "3400 Nebraska Drive"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58503-1649"
-      },
-      {
-        "line": [
-          "2500 Valleyview Ave"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58501-3090"
-      },
-      {
-        "line": [
           "310 N 9th St"
         ],
         "city": "BISMARCK",
@@ -140,35 +164,11 @@
       },
       {
         "line": [
-          "1000 W Century Ave"
+          "3330 Nebraska Drive"
         ],
         "city": "BISMARCK",
         "state": "ND",
-        "postalCode": "58503-0913"
-      },
-      {
-        "line": [
-          "900 E Broadway Ave."
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58501-4507"
-      },
-      {
-        "line": [
-          "301 Lorainn Dr"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58503-0311"
-      },
-      {
-        "line": [
-          "1021 N 21 St"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58501-3109"
+        "postalCode": "58503-1663"
       }
     ],
     "extension": [

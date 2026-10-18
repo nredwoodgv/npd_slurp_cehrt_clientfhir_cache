@@ -22,11 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962453308"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1619494366"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306363007"
+        "value": "1326099763"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,19 +42,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144271586"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962453308"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952177446"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326099763"
+        "value": "1144271586"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306363007"
       }
     ],
     "address": [
@@ -64,11 +64,11 @@
       },
       {
         "line": [
-          "7720 US Hwy 98 W Ste 110"
+          "27 Mack Bayou Loop Ste 1000"
         ],
-        "city": "MIRAMAR BEACH",
+        "city": "SANTA ROSA BEACH",
         "state": "FL",
-        "postalCode": "32550-7230"
+        "postalCode": "32459-2604"
       },
       {
         "line": [
@@ -80,11 +80,11 @@
       },
       {
         "line": [
-          "27 Mack Bayou Loop Ste 1000"
+          "7720 US Hwy 98 W Ste 110"
         ],
-        "city": "SANTA ROSA BEACH",
+        "city": "MIRAMAR BEACH",
         "state": "FL",
-        "postalCode": "32459-2604"
+        "postalCode": "32550-7230"
       }
     ],
     "extension": [

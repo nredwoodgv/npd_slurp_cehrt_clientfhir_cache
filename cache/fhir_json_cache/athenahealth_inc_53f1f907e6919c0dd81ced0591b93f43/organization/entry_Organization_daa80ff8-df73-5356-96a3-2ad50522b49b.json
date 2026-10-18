@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740858562"
+        "value": "1619577905"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619577905"
+        "value": "1740858562"
       }
     ],
     "address": [
-      {
-        "line": [
-          "626 S SPRINGFIELD AVE"
-        ],
-        "city": "BOLIVAR",
-        "state": "MO",
-        "postalCode": "65613-2454"
-      },
       {
         "line": [
           "200 CORPORATE LAKE DR"
@@ -40,11 +32,11 @@
       },
       {
         "line": [
-          "2410 S LIMIT AVE"
+          "626 S SPRINGFIELD AVE"
         ],
-        "city": "SEDALIA",
+        "city": "BOLIVAR",
         "state": "MO",
-        "postalCode": "65301-6910"
+        "postalCode": "65613-2454"
       },
       {
         "line": [
@@ -62,6 +54,14 @@
         "city": "JEFFERSON CITY",
         "state": "MO",
         "postalCode": "65109-1234"
+      },
+      {
+        "line": [
+          "2410 S LIMIT AVE"
+        ],
+        "city": "SEDALIA",
+        "state": "MO",
+        "postalCode": "65301-6910"
       }
     ],
     "extension": [

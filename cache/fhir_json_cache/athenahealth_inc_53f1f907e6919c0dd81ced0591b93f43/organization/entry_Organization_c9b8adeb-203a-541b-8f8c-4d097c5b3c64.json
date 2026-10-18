@@ -20,14 +20,6 @@
     "address": [
       {
         "line": [
-          "1700 San Pablo Ave, Ste.D"
-        ],
-        "city": "PINOLE",
-        "state": "CA",
-        "postalCode": "94564-2068"
-      },
-      {
-        "line": [
           "2970 Hilltop Mall Road",
           "Suite 203"
         ],
@@ -44,10 +36,12 @@
         "postalCode": "94945-2418"
       },
       {
-        "line": [],
-        "city": "VALLEJO",
+        "line": [
+          "San Quentin Prison"
+        ],
+        "city": "SAN QUENTIN",
         "state": "CA",
-        "postalCode": "94589-2583"
+        "postalCode": "94964-0002"
       },
       {
         "line": [
@@ -59,15 +53,6 @@
       },
       {
         "line": [
-          "5789 State Farm Dr",
-          "Suite 195"
-        ],
-        "city": "ROHNERT PARK",
-        "state": "CA",
-        "postalCode": "94928-6308"
-      },
-      {
-        "line": [
           "100 Hospital Drive #303"
         ],
         "city": "VALLEJO",
@@ -76,11 +61,26 @@
       },
       {
         "line": [
-          "San Quentin Prison"
+          "1700 San Pablo Ave, Ste.D"
         ],
-        "city": "SAN QUENTIN",
+        "city": "PINOLE",
         "state": "CA",
-        "postalCode": "94964-0002"
+        "postalCode": "94564-2068"
+      },
+      {
+        "line": [],
+        "city": "VALLEJO",
+        "state": "CA",
+        "postalCode": "94589-2583"
+      },
+      {
+        "line": [
+          "5789 State Farm Dr",
+          "Suite 195"
+        ],
+        "city": "ROHNERT PARK",
+        "state": "CA",
+        "postalCode": "94928-6308"
       }
     ],
     "extension": [

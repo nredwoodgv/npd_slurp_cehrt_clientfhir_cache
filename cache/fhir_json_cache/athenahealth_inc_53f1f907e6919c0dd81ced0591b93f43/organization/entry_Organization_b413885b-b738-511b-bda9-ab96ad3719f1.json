@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356743611"
+        "value": "1811971302"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811971302"
+        "value": "1356743611"
       }
     ],
     "address": [
@@ -32,11 +32,19 @@
       },
       {
         "line": [
-          "3000 ARLINGTON AVENUE"
+          "3333 GLENDALE AVE"
         ],
         "city": "TOLEDO",
         "state": "OH",
-        "postalCode": "43614-8008"
+        "postalCode": "43614-2426"
+      },
+      {
+        "line": [
+          "3000 ARLINGTON Ave"
+        ],
+        "city": "TOLEDO",
+        "state": "OH",
+        "postalCode": "43614-2595"
       },
       {
         "line": [
@@ -49,14 +57,6 @@
       },
       {
         "line": [
-          "3333 GLENDALE AVE"
-        ],
-        "city": "TOLEDO",
-        "state": "OH",
-        "postalCode": "43614-2426"
-      },
-      {
-        "line": [
           "3000 ARLINGTON AVE."
         ],
         "city": "TOLEDO",
@@ -65,7 +65,7 @@
       },
       {
         "line": [
-          "3000 ARLINGTON Ave"
+          "3333 GLENDALE AVE"
         ],
         "city": "TOLEDO",
         "state": "OH",
@@ -73,11 +73,11 @@
       },
       {
         "line": [
-          "3333 GLENDALE AVE"
+          "3000 ARLINGTON AVENUE"
         ],
         "city": "TOLEDO",
         "state": "OH",
-        "postalCode": "43614-2595"
+        "postalCode": "43614-8008"
       }
     ],
     "extension": [

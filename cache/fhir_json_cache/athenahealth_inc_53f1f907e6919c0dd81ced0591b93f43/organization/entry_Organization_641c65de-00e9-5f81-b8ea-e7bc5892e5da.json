@@ -18,6 +18,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1932971876"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1699301614"
       },
       {
@@ -27,10 +31,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417729617"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932971876"
       }
     ],
     "address": [
@@ -45,21 +45,19 @@
       },
       {
         "line": [
-          "442 5TH AVE",
-          "# 1983"
+          "1 MARINA PARK DR STE 1410"
         ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10018-2794"
+        "city": "BOSTON",
+        "state": "MA",
+        "postalCode": "02210-1874"
       },
       {
         "line": [
-          "1111 LINCOLN RD",
-          "STE 500"
+          "5718 WESTHEIMER RD STE 1000"
         ],
-        "city": "MIAMI BEACH",
-        "state": "FL",
-        "postalCode": "33139-2439"
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77057-9903"
       },
       {
         "line": [
@@ -72,23 +70,6 @@
       },
       {
         "line": [
-          "350 West 42ND Street",
-          "Unit 37G"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10036-6959"
-      },
-      {
-        "line": [
-          "5718 WESTHEIMER RD STE 1000"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77057-9903"
-      },
-      {
-        "line": [
           "4445 WILLARD AVE STE 600"
         ],
         "city": "CHEVY CHASE",
@@ -97,8 +78,17 @@
       },
       {
         "line": [
-          "350 WEST 42ND STREET",
-          "UNIT 37G"
+          "442 5TH AVE",
+          "# 1983"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10018-2794"
+      },
+      {
+        "line": [
+          "350 West 42ND Street",
+          "Unit 37G"
         ],
         "city": "NEW YORK",
         "state": "NY",
@@ -114,11 +104,21 @@
       },
       {
         "line": [
-          "1 MARINA PARK DR STE 1410"
+          "350 WEST 42ND STREET",
+          "UNIT 37G"
         ],
-        "city": "BOSTON",
-        "state": "MA",
-        "postalCode": "02210-1874"
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10036-6959"
+      },
+      {
+        "line": [
+          "1111 LINCOLN RD",
+          "STE 500"
+        ],
+        "city": "MIAMI BEACH",
+        "state": "FL",
+        "postalCode": "33139-2439"
       }
     ],
     "extension": [

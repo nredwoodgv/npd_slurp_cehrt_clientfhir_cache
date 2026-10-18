@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1558839076"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285664763"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932664091"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558839076"
       }
     ],
     "address": [
@@ -33,6 +33,30 @@
         "city": "MIDLAND",
         "state": "TX",
         "postalCode": "79703-9999"
+      },
+      {
+        "line": [
+          "3403 Andrews Hwy, Suite 300"
+        ],
+        "city": "Midland",
+        "state": "TX",
+        "postalCode": "79703-5132"
+      },
+      {
+        "line": [
+          "605 E 4th St Suite 301"
+        ],
+        "city": "Odessa",
+        "state": "TX",
+        "postalCode": "79761-5100"
+      },
+      {
+        "line": [
+          "600 Interstate 20 East"
+        ],
+        "city": "STANTON",
+        "state": "TX",
+        "postalCode": "79782-9999"
       },
       {
         "line": [
@@ -52,35 +76,11 @@
       },
       {
         "line": [
-          "600 Interstate 20 East"
-        ],
-        "city": "STANTON",
-        "state": "TX",
-        "postalCode": "79782-9999"
-      },
-      {
-        "line": [
-          "605 E 4th St Suite 301"
-        ],
-        "city": "Odessa",
-        "state": "TX",
-        "postalCode": "79761-5100"
-      },
-      {
-        "line": [
           "400 Rosalind Redfern Suite 240"
         ],
         "city": "Midland",
         "state": "TX",
         "postalCode": "79701-5856"
-      },
-      {
-        "line": [
-          "3403 Andrews Hwy, Suite 300"
-        ],
-        "city": "Midland",
-        "state": "TX",
-        "postalCode": "79703-5132"
       }
     ],
     "extension": [

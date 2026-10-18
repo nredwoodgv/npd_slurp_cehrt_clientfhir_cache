@@ -18,11 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245489590"
+        "value": "1295318525"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295318525"
+        "value": "1245489590"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,19 +32,19 @@
     "address": [
       {
         "line": [
+          "1577 JEFFERSON HIGHWAY"
+        ],
+        "city": "FISHERSVILLE",
+        "state": "VA",
+        "postalCode": "22939-2331"
+      },
+      {
+        "line": [
           "103 South Pantops Drive Suite 107"
         ],
         "city": "CHARLOTTESVILLE",
         "state": "VA",
         "postalCode": "22911-8617"
-      },
-      {
-        "line": [
-          "1920 Medical Ave Suite G"
-        ],
-        "city": "HARRISONBURG",
-        "state": "VA",
-        "postalCode": "22801-8016"
       },
       {
         "line": [
@@ -56,11 +56,11 @@
       },
       {
         "line": [
-          "1577 JEFFERSON HIGHWAY"
+          "1920 Medical Ave Suite G"
         ],
-        "city": "FISHERSVILLE",
+        "city": "HARRISONBURG",
         "state": "VA",
-        "postalCode": "22939-2331"
+        "postalCode": "22801-8016"
       }
     ],
     "extension": [

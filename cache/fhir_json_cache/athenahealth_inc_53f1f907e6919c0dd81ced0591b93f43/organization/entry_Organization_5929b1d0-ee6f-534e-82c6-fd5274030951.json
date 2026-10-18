@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013781871"
+        "value": "1104619352"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104619352"
+        "value": "1013781871"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3300 James St",
-          "Ste 100, 101, 200, 201"
-        ],
-        "city": "Syracuse",
-        "state": "NY",
-        "postalCode": "13206-2387"
-      },
       {
         "line": [
           "8289 Loop Road",
@@ -39,6 +30,15 @@
         "city": "Baldwinsville",
         "state": "NY",
         "postalCode": "13027-1304"
+      },
+      {
+        "line": [
+          "890 Seventh North St",
+          "Ste 200"
+        ],
+        "city": "Liverpool",
+        "state": "NY",
+        "postalCode": "13088-4980"
       },
       {
         "line": [
@@ -51,12 +51,12 @@
       },
       {
         "line": [
-          "890 Seventh North St",
-          "Ste 200"
+          "3300 James St",
+          "Ste 100, 101, 200, 201"
         ],
-        "city": "Liverpool",
+        "city": "Syracuse",
         "state": "NY",
-        "postalCode": "13088-4980"
+        "postalCode": "13206-2387"
       }
     ],
     "extension": [

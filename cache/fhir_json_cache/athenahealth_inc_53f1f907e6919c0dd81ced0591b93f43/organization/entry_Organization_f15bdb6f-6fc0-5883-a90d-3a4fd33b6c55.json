@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649624255"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1841298999"
       },
       {
@@ -27,13 +31,17 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1013468727"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649624255"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1130 22ND STREET S"
+        ],
+        "city": "BIRMINGHAM",
+        "state": "AL",
+        "postalCode": "35205-2870"
+      },
       {
         "line": [
           "."
@@ -52,6 +60,15 @@
       },
       {
         "line": [
+          "10330 N MERIDIAN ST",
+          "STE 201"
+        ],
+        "city": "INDIANAPOLIS",
+        "state": "IN",
+        "postalCode": "46290-1024"
+      },
+      {
+        "line": [
           "150 Gilbreath Dr"
         ],
         "city": "ONEONTA",
@@ -65,23 +82,6 @@
         "city": "GARDENDALE",
         "state": "AL",
         "postalCode": "35071-2514"
-      },
-      {
-        "line": [
-          "1130 22ND STREET S"
-        ],
-        "city": "BIRMINGHAM",
-        "state": "AL",
-        "postalCode": "35205-2870"
-      },
-      {
-        "line": [
-          "10330 N MERIDIAN ST",
-          "STE 201"
-        ],
-        "city": "INDIANAPOLIS",
-        "state": "IN",
-        "postalCode": "46290-1024"
       }
     ],
     "extension": [

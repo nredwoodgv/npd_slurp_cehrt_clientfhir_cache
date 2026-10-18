@@ -14,73 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750814737"
+        "value": "1649501347"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649501347"
+        "value": "1750814737"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3150 Horizon Rd"
-        ],
-        "city": "ROCKWALL",
-        "state": "TX",
-        "postalCode": "75032-7805"
-      },
-      {
-        "line": [
-          "2831 E PRESIDENT GEORGE BUSH HWY"
-        ],
-        "city": "RICHARDSON",
-        "state": "TX",
-        "postalCode": "75082-3561"
-      },
-      {
-        "line": [
-          "7700 Lakeview Pkwy",
-          "Suite 300B"
-        ],
-        "city": "ROWLETT",
-        "state": "TX",
-        "postalCode": "75088-4362"
-      },
-      {
-        "line": [
-          "7150 N PRESIDENT GEORGE BUSH HWY",
-          "Suite 101"
-        ],
-        "city": "GARLAND",
-        "state": "TX",
-        "postalCode": "75044-2208"
-      },
-      {
-        "line": [
-          "3144 Horizon Rd",
-          "Suite 120"
-        ],
-        "city": "ROCKWALL",
-        "state": "TX",
-        "postalCode": "75032-7805"
-      },
-      {
-        "line": [
-          "1101 N Galloway Ave"
-        ],
-        "city": "MESQUITE",
-        "state": "TX",
-        "postalCode": "75149-2435"
-      },
-      {
-        "line": [
-          "1024 N Galloway Ave"
-        ],
-        "city": "MESQUITE",
-        "state": "TX",
-        "postalCode": "75149-1788"
-      },
       {
         "line": [
           "231 S Collins Rd"
@@ -91,12 +32,27 @@
       },
       {
         "line": [
-          "1601 N Belt Line Rd",
-          "Ste A"
+          "1023 N Belt Line Rd"
         ],
         "city": "MESQUITE",
         "state": "TX",
-        "postalCode": "75149-1791"
+        "postalCode": "75149-1788"
+      },
+      {
+        "line": [
+          "250 KROGER DR"
+        ],
+        "city": "FORNEY",
+        "state": "TX",
+        "postalCode": "75126-4442"
+      },
+      {
+        "line": [
+          "2831 E PRESIDENT GEORGE BUSH HWY"
+        ],
+        "city": "RICHARDSON",
+        "state": "TX",
+        "postalCode": "75082-3561"
       },
       {
         "line": [
@@ -109,19 +65,19 @@
       },
       {
         "line": [
-          "250 KROGER DR"
+          "1024 N Galloway Ave"
         ],
-        "city": "FORNEY",
+        "city": "MESQUITE",
         "state": "TX",
-        "postalCode": "75126-4442"
+        "postalCode": "75149-1788"
       },
       {
         "line": [
-          "6800 Scenic Dr"
+          "1101 N Galloway Ave"
         ],
-        "city": "ROWLETT",
+        "city": "MESQUITE",
         "state": "TX",
-        "postalCode": "75088-4552"
+        "postalCode": "75149-2435"
       },
       {
         "line": [
@@ -130,6 +86,24 @@
         "city": "SACHSE",
         "state": "TX",
         "postalCode": "75048-4283"
+      },
+      {
+        "line": [
+          "7150 N PRESIDENT GEORGE BUSH HWY",
+          "Suite 101"
+        ],
+        "city": "GARLAND",
+        "state": "TX",
+        "postalCode": "75044-2208"
+      },
+      {
+        "line": [
+          "7700 Lakeview Pkwy",
+          "Suite 300B"
+        ],
+        "city": "ROWLETT",
+        "state": "TX",
+        "postalCode": "75088-4362"
       },
       {
         "line": [
@@ -142,11 +116,27 @@
       },
       {
         "line": [
-          "1023 N Belt Line Rd"
+          "850 ED HALL DR"
+        ],
+        "city": "KAUFMAN",
+        "state": "TX",
+        "postalCode": "75142-1861"
+      },
+      {
+        "line": [
+          "3150 Horizon Rd"
+        ],
+        "city": "ROCKWALL",
+        "state": "TX",
+        "postalCode": "75032-7805"
+      },
+      {
+        "line": [
+          "3865 Childress Ave"
         ],
         "city": "MESQUITE",
         "state": "TX",
-        "postalCode": "75149-1788"
+        "postalCode": "75150-2802"
       },
       {
         "line": [
@@ -159,19 +149,20 @@
       },
       {
         "line": [
-          "850 ED HALL DR"
+          "6800 Scenic Dr"
         ],
-        "city": "KAUFMAN",
+        "city": "ROWLETT",
         "state": "TX",
-        "postalCode": "75142-1861"
+        "postalCode": "75088-4552"
       },
       {
         "line": [
-          "3865 Childress Ave"
+          "1601 N Belt Line Rd",
+          "Ste A"
         ],
         "city": "MESQUITE",
         "state": "TX",
-        "postalCode": "75150-2802"
+        "postalCode": "75149-1791"
       },
       {
         "line": [
@@ -181,6 +172,15 @@
         "city": "KAUFMAN",
         "state": "TX",
         "postalCode": "75142-1800"
+      },
+      {
+        "line": [
+          "3144 Horizon Rd",
+          "Suite 120"
+        ],
+        "city": "ROCKWALL",
+        "state": "TX",
+        "postalCode": "75032-7805"
       }
     ],
     "extension": [

@@ -14,26 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144797614"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1750849428"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1194320267"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144797614"
       }
     ],
     "address": [
-      {
-        "line": [
-          "7456 S STATE RD STE 205"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60638-6625"
-      },
       {
         "line": [
           "13000 Technology Drive"
@@ -44,9 +36,17 @@
       },
       {
         "line": [
+          "7456 S STATE RD STE 205"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60638-6625"
+      },
+      {
+        "line": [
           "10532 N. Port Washington Rd, Ste 1A"
         ],
-        "city": "MEQUON",
+        "city": "Mequon",
         "state": "WI",
         "postalCode": "53092-5563"
       },
@@ -54,7 +54,7 @@
         "line": [
           "10532 N. Port Washington Rd, Ste 1A"
         ],
-        "city": "Mequon",
+        "city": "MEQUON",
         "state": "WI",
         "postalCode": "53092-5563"
       },

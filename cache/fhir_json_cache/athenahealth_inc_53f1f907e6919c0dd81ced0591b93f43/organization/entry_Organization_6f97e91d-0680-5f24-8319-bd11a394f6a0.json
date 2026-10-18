@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386911006"
+        "value": "1548567498"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548567498"
+        "value": "1386911006"
       }
     ],
     "address": [
@@ -29,40 +29,6 @@
         "city": "LOS ALAMITOS",
         "state": "CA",
         "postalCode": "90720-3113"
-      },
-      {
-        "line": [
-          "1010 W. La Veta Ave.",
-          "Suite 570"
-        ],
-        "city": "ORANGE",
-        "state": "CA",
-        "postalCode": "92868-4305"
-      },
-      {
-        "line": [
-          "4511 Chino Hills Pkwy",
-          "#C"
-        ],
-        "city": "CHINO HILLS",
-        "state": "CA",
-        "postalCode": "91709-5853"
-      },
-      {
-        "line": [
-          "4772 Katella Ave, Ste 200"
-        ],
-        "city": "LOS ALAMITOS",
-        "state": "CA",
-        "postalCode": "90720-2683"
-      },
-      {
-        "line": [
-          "3833 Worsham Ave, Ste 200"
-        ],
-        "city": "LONG BEACH",
-        "state": "CA",
-        "postalCode": "90808-1766"
       },
       {
         "line": [
@@ -79,6 +45,40 @@
         "city": "NEWPORT BEACH",
         "state": "CA",
         "postalCode": "92663-3503"
+      },
+      {
+        "line": [
+          "4511 Chino Hills Pkwy",
+          "#C"
+        ],
+        "city": "CHINO HILLS",
+        "state": "CA",
+        "postalCode": "91709-5853"
+      },
+      {
+        "line": [
+          "3833 Worsham Ave, Ste 200"
+        ],
+        "city": "LONG BEACH",
+        "state": "CA",
+        "postalCode": "90808-1766"
+      },
+      {
+        "line": [
+          "4772 Katella Ave, Ste 200"
+        ],
+        "city": "LOS ALAMITOS",
+        "state": "CA",
+        "postalCode": "90720-2683"
+      },
+      {
+        "line": [
+          "1010 W. La Veta Ave.",
+          "Suite 570"
+        ],
+        "city": "ORANGE",
+        "state": "CA",
+        "postalCode": "92868-4305"
       }
     ],
     "extension": [

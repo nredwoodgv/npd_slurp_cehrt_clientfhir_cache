@@ -18,7 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164495255"
+        "value": "1336455674"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073568754"
+        "value": "1164495255"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,11 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346297892"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336455674"
+        "value": "1295789907"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,7 +46,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295789907"
+        "value": "1346297892"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073568754"
       }
     ],
     "active": true,
@@ -62,7 +62,7 @@
       },
       {
         "system": "phone",
-        "value": "(704)326-3000"
+        "value": "(704)659-7866"
       },
       {
         "system": "phone",
@@ -70,7 +70,31 @@
       },
       {
         "system": "phone",
+        "value": "(704)659-7865"
+      },
+      {
+        "system": "phone",
+        "value": "(704)326-3000"
+      },
+      {
+        "system": "phone",
         "value": "(704)660-4000"
+      },
+      {
+        "system": "phone",
+        "value": "(704)384-4000"
+      },
+      {
+        "system": "phone",
+        "value": "(704)659-7830"
+      },
+      {
+        "system": "phone",
+        "value": "(704)659-7850"
+      },
+      {
+        "system": "phone",
+        "value": "(704)316-4000"
       },
       {
         "system": "phone",
@@ -82,31 +106,7 @@
       },
       {
         "system": "phone",
-        "value": "(704)316-4000"
-      },
-      {
-        "system": "phone",
-        "value": "(704)384-4000"
-      },
-      {
-        "system": "phone",
-        "value": "(704)659-7850"
-      },
-      {
-        "system": "phone",
         "value": "(704)945-6843"
-      },
-      {
-        "system": "phone",
-        "value": "(704)659-7830"
-      },
-      {
-        "system": "phone",
-        "value": "(704)659-7865"
-      },
-      {
-        "system": "phone",
-        "value": "(704)659-7866"
       }
     ],
     "address": [
@@ -125,11 +125,11 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "810 Fairgrove Church Rd SE"
+          "1405 Fern Creek Dr."
         ],
-        "city": "Hickory",
+        "city": "Statesville",
         "state": "NC",
-        "postalCode": "28602",
+        "postalCode": "28625",
         "country": "USA"
       },
       {
@@ -147,12 +147,33 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "171 Fairview Rd.",
-          "P.O. Box 3250"
+          "557 Brookdale Dr"
         ],
-        "city": "Mooresville",
+        "city": "Statesville",
         "state": "NC",
-        "postalCode": "28117-9500",
+        "postalCode": "28677",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2660 Tate Blvd. SE, Ste 201"
+        ],
+        "city": "Hickory",
+        "state": "NC",
+        "postalCode": "28602",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "810 Fairgrove Church Rd SE"
+        ],
+        "city": "Hickory",
+        "state": "NC",
+        "postalCode": "28602",
         "country": "USA"
       },
       {
@@ -164,6 +185,83 @@
         "city": "Mooresville",
         "state": "NC",
         "postalCode": "28117",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1000 BLYTHE BLVD"
+        ],
+        "city": "CHARLOTTE",
+        "state": "NC",
+        "postalCode": "28203-5812",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "200 HAWTHORNE LANE"
+        ],
+        "city": "CHARLOTTE",
+        "state": "NC",
+        "postalCode": "28204-2515",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "200 Hawthorne Ln"
+        ],
+        "city": "Charlotte",
+        "state": "NC",
+        "postalCode": "28204-2515",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "268 Gillman Road, Ste A"
+        ],
+        "city": "Denver",
+        "state": "NC",
+        "postalCode": "28037-3007",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "146 Medical Park Road, Suite 212"
+        ],
+        "city": "Mooresville",
+        "state": "NC",
+        "postalCode": "28117",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "10030 Gilead Rd."
+        ],
+        "city": "Huntersville",
+        "state": "NC",
+        "postalCode": "28078-3508",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "10030 Gilead Rd"
+        ],
+        "city": "Huntersville",
+        "state": "NC",
+        "postalCode": "28078-3508",
         "country": "USA"
       },
       {
@@ -193,7 +291,19 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "200 Hawthorne Ln"
+          "171 Fairview Rd.",
+          "P.O. Box 3250"
+        ],
+        "city": "Mooresville",
+        "state": "NC",
+        "postalCode": "28117-9500",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "200 Hawthorne Lane"
         ],
         "city": "Charlotte",
         "state": "NC",
@@ -209,28 +319,6 @@
         "city": "Huntersville",
         "state": "NC",
         "postalCode": "28078-3508",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "200 HAWTHORNE LANE"
-        ],
-        "city": "CHARLOTTE",
-        "state": "NC",
-        "postalCode": "28204-2515",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "146 Medical Park Road, Suite 212"
-        ],
-        "city": "Mooresville",
-        "state": "NC",
-        "postalCode": "28117",
         "country": "USA"
       },
       {
@@ -249,100 +337,12 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "268 Gillman Road, Ste A"
-        ],
-        "city": "Denver",
-        "state": "NC",
-        "postalCode": "28037-3007",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1000 BLYTHE BLVD"
-        ],
-        "city": "CHARLOTTE",
-        "state": "NC",
-        "postalCode": "28203-5812",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "2660 Tate Blvd. SE, Ste 201"
-        ],
-        "city": "Hickory",
-        "state": "NC",
-        "postalCode": "28602",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "9930 Kincey Ave",
           "Suite 165"
         ],
         "city": "Huntersville",
         "state": "NC",
         "postalCode": "28078-6541",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "10030 Gilead Rd"
-        ],
-        "city": "Huntersville",
-        "state": "NC",
-        "postalCode": "28078-3508",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "10030 Gilead Rd."
-        ],
-        "city": "Huntersville",
-        "state": "NC",
-        "postalCode": "28078-3508",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "200 Hawthorne Lane"
-        ],
-        "city": "Charlotte",
-        "state": "NC",
-        "postalCode": "28204-2515",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "557 Brookdale Dr"
-        ],
-        "city": "Statesville",
-        "state": "NC",
-        "postalCode": "28677",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1405 Fern Creek Dr."
-        ],
-        "city": "Statesville",
-        "state": "NC",
-        "postalCode": "28625",
         "country": "USA"
       }
     ],

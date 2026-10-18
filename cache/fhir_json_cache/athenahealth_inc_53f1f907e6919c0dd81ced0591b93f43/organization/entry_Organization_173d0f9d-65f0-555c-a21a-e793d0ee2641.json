@@ -14,11 +14,27 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
+        "value": "1669801585"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
+        "value": "1053373951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750302923"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730484031"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124080320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215348487"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,38 +46,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
+        "value": "1962602300"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
       }
     ],
     "address": [
-      {
-        "line": [
-          "125 S Park Dr Ste F"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-5952"
-      },
       {
         "line": [
           "2141 Hamilton Way Ste 105"
@@ -77,14 +69,6 @@
         "city": "SAN ANGELO",
         "state": "TX",
         "postalCode": "76904-6878"
-      },
-      {
-        "line": [
-          "2600 Hwy 118 N"
-        ],
-        "city": "ALPINE",
-        "state": "TX",
-        "postalCode": "79830-2002"
       },
       {
         "line": [
@@ -109,6 +93,22 @@
         "city": "BIG SPRING",
         "state": "TX",
         "postalCode": "79720-4105"
+      },
+      {
+        "line": [
+          "2600 Hwy 118 N"
+        ],
+        "city": "ALPINE",
+        "state": "TX",
+        "postalCode": "79830-2002"
+      },
+      {
+        "line": [
+          "125 S Park Dr Ste F"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-5952"
       }
     ],
     "extension": [

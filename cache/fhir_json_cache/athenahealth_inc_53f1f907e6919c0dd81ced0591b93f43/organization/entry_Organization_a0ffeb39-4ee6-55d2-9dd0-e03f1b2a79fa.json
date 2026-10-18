@@ -14,22 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710375662"
+        "value": "1134114507"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134114507"
+        "value": "1710375662"
       }
     ],
     "address": [
       {
         "line": [
-          "11119 ROCKVILLE PIKE STE 207",
-          "STE 207"
+          "8118 GOODLUCK RD"
         ],
-        "city": "ROCKVILLE",
+        "city": "LANHAM",
         "state": "MD",
-        "postalCode": "20852-3143"
+        "postalCode": "20706-3574"
       },
       {
         "line": [
@@ -38,23 +37,6 @@
         "city": "SILVER SPRING",
         "state": "MD",
         "postalCode": "20910-1460"
-      },
-      {
-        "line": [
-          "6931 Arlington Road",
-          "SUITE 520"
-        ],
-        "city": "BETHESDA",
-        "state": "MD",
-        "postalCode": "20814-7200"
-      },
-      {
-        "line": [
-          "3001 HOSPITAL DRIVE"
-        ],
-        "city": "CHEVERLY",
-        "state": "MD",
-        "postalCode": "20785-1189"
       },
       {
         "line": [
@@ -75,11 +57,29 @@
       },
       {
         "line": [
-          "8118 GOODLUCK RD"
+          "3001 HOSPITAL DRIVE"
         ],
-        "city": "LANHAM",
+        "city": "CHEVERLY",
         "state": "MD",
-        "postalCode": "20706-3574"
+        "postalCode": "20785-1189"
+      },
+      {
+        "line": [
+          "11119 ROCKVILLE PIKE STE 207",
+          "STE 207"
+        ],
+        "city": "ROCKVILLE",
+        "state": "MD",
+        "postalCode": "20852-3143"
+      },
+      {
+        "line": [
+          "6931 Arlington Road",
+          "SUITE 520"
+        ],
+        "city": "BETHESDA",
+        "state": "MD",
+        "postalCode": "20814-7200"
       }
     ],
     "extension": [

@@ -14,37 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427626696"
+        "value": "1144630609"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144630609"
+        "value": "1427626696"
       }
     ],
     "address": [
       {
         "line": [
-          "3901 W 15TH ST"
+          "1105 CENTRAL EXPY N STE 2350"
         ],
-        "city": "PLANO",
+        "city": "ALLEN",
         "state": "TX",
-        "postalCode": "75075-7738"
-      },
-      {
-        "line": [
-          "8080 STATE HWY 121, SUITE 100"
-        ],
-        "city": "MCKINNEY",
-        "state": "TX",
-        "postalCode": "75070-2903"
-      },
-      {
-        "line": [
-          "4510 Medical Center Drive, Suite 150"
-        ],
-        "city": "MCKINNEY",
-        "state": "TX",
-        "postalCode": "75069-1650"
+        "postalCode": "75013-6116"
       },
       {
         "line": [
@@ -56,27 +40,11 @@
       },
       {
         "line": [
-          "12400 DALLAS PKWY"
-        ],
-        "city": "FRISCO",
-        "state": "TX",
-        "postalCode": "75033-4224"
-      },
-      {
-        "line": [
-          "4500 MEDICAL CENTER DR"
-        ],
-        "city": "MCKINNEY",
-        "state": "TX",
-        "postalCode": "75069-1650"
-      },
-      {
-        "line": [
-          "4005 W. 15th Street"
+          "6200 W PARKER ROAD"
         ],
         "city": "PLANO",
         "state": "TX",
-        "postalCode": "75093-5818"
+        "postalCode": "75093-8185"
       },
       {
         "line": [
@@ -88,36 +56,19 @@
       },
       {
         "line": [
-          "931 STATE HIGHWAY 121",
-          "SUITE 3300"
+          "4500 MEDICAL CENTER DR"
         ],
-        "city": "ALLEN",
+        "city": "MCKINNEY",
         "state": "TX",
-        "postalCode": "75013-1184"
+        "postalCode": "75069-1650"
       },
       {
         "line": [
-          "1105 CENTRAL EXPY N STE 2350"
+          "4510 Medical Center Drive, Suite 150"
         ],
-        "city": "ALLEN",
+        "city": "MCKINNEY",
         "state": "TX",
-        "postalCode": "75013-6116"
-      },
-      {
-        "line": [
-          "6200 W PARKER ROAD"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75093-8185"
-      },
-      {
-        "line": [
-          "1105 N CENTRAL EXPY"
-        ],
-        "city": "ALLEN",
-        "state": "TX",
-        "postalCode": "75013-6103"
+        "postalCode": "75069-1650"
       },
       {
         "line": [
@@ -129,6 +80,14 @@
       },
       {
         "line": [
+          "5252 W UNIVERSITY DR"
+        ],
+        "city": "MCKINNEY",
+        "state": "TX",
+        "postalCode": "75071-7822"
+      },
+      {
+        "line": [
           "5500 FRISCO SQUARE BLVD"
         ],
         "city": "FRISCO",
@@ -137,11 +96,52 @@
       },
       {
         "line": [
-          "5252 W UNIVERSITY DR"
+          "3901 W 15TH ST"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75075-7738"
+      },
+      {
+        "line": [
+          "12400 DALLAS PKWY"
+        ],
+        "city": "FRISCO",
+        "state": "TX",
+        "postalCode": "75033-4224"
+      },
+      {
+        "line": [
+          "1105 N CENTRAL EXPY"
+        ],
+        "city": "ALLEN",
+        "state": "TX",
+        "postalCode": "75013-6103"
+      },
+      {
+        "line": [
+          "4005 W. 15th Street"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75093-5818"
+      },
+      {
+        "line": [
+          "8080 STATE HWY 121, SUITE 100"
         ],
         "city": "MCKINNEY",
         "state": "TX",
-        "postalCode": "75071-7822"
+        "postalCode": "75070-2903"
+      },
+      {
+        "line": [
+          "931 STATE HIGHWAY 121",
+          "SUITE 3300"
+        ],
+        "city": "ALLEN",
+        "state": "TX",
+        "postalCode": "75013-1184"
       }
     ],
     "extension": [

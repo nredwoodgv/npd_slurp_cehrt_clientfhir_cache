@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417987124"
+        "value": "1558344978"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558344978"
+        "value": "1417987124"
       }
     ],
     "address": [
       {
         "line": [
-          "1504 Seabreeze Ave"
+          "1350 13th Ave S"
         ],
         "city": "Jacksonville Beach",
         "state": "FL",
-        "postalCode": "32250-3365"
+        "postalCode": "32250-3203"
       },
       {
         "line": [
@@ -40,11 +40,11 @@
       },
       {
         "line": [
-          "1350 13th Ave S"
+          "1504 Seabreeze Ave"
         ],
         "city": "Jacksonville Beach",
         "state": "FL",
-        "postalCode": "32250-3203"
+        "postalCode": "32250-3365"
       },
       {
         "line": [
@@ -56,19 +56,19 @@
       },
       {
         "line": [
-          "355 CROSSING BLVD"
-        ],
-        "city": "ORANGE PARK",
-        "state": "FL",
-        "postalCode": "32073-2860"
-      },
-      {
-        "line": [
           "2029 PROFESSIONAL CENTER DRIVE"
         ],
         "city": "ORANGE PARK",
         "state": "FL",
         "postalCode": "32073-4661"
+      },
+      {
+        "line": [
+          "355 CROSSING BLVD"
+        ],
+        "city": "ORANGE PARK",
+        "state": "FL",
+        "postalCode": "32073-2860"
       }
     ],
     "extension": [

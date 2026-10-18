@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801993175"
+        "value": "1184859381"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184859381"
+        "value": "1801993175"
       }
     ],
     "address": [
+      {
+        "line": [
+          "68 Harris Bushville Rd"
+        ],
+        "city": "HARRIS",
+        "state": "NY",
+        "postalCode": "12742-0800"
+      },
       {
         "line": [
           "161 East Main Street",
@@ -33,35 +41,19 @@
       },
       {
         "line": [
-          "111 Maltese Drive"
+          "160 E MAIN ST"
         ],
-        "city": "MIDDLETOWN",
+        "city": "PORT JERVIS",
         "state": "NY",
-        "postalCode": "10941-2115"
+        "postalCode": "12771-2114"
       },
       {
         "line": [
-          "214 West Street"
-        ],
-        "city": "WARWICK",
-        "state": "NY",
-        "postalCode": "10990-3214"
-      },
-      {
-        "line": [
-          "Scheduled Hospital Address"
+          "384 Crystal Run Rd, Suite 201"
         ],
         "city": "MIDDLETOWN",
         "state": "NY",
         "postalCode": "10941-4013"
-      },
-      {
-        "line": [
-          "Scheduled Hospital Address"
-        ],
-        "city": "SUFFERN",
-        "state": "NY",
-        "postalCode": "10901-5013"
       },
       {
         "line": [
@@ -73,19 +65,27 @@
       },
       {
         "line": [
-          "160 E MAIN ST"
+          "Scheduled Hospital Address"
         ],
-        "city": "PORT JERVIS",
+        "city": "SUFFERN",
         "state": "NY",
-        "postalCode": "12771-2114"
+        "postalCode": "10901-5013"
       },
       {
         "line": [
-          "68 Harris Bushville Rd"
+          "Scheduled Hospital Address"
         ],
-        "city": "HARRIS",
+        "city": "MIDDLETOWN",
         "state": "NY",
-        "postalCode": "12742-0800"
+        "postalCode": "10941-4013"
+      },
+      {
+        "line": [
+          "111 Maltese Drive"
+        ],
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postalCode": "10941-2115"
       },
       {
         "line": [
@@ -98,11 +98,11 @@
       },
       {
         "line": [
-          "384 Crystal Run Rd, Suite 201"
+          "214 West Street"
         ],
-        "city": "MIDDLETOWN",
+        "city": "WARWICK",
         "state": "NY",
-        "postalCode": "10941-4013"
+        "postalCode": "10990-3214"
       }
     ],
     "extension": [

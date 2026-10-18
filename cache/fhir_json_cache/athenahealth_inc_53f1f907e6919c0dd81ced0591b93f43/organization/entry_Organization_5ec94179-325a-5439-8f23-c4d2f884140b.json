@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730972944"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003688037"
+        "value": "1235811787"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558133587"
+        "value": "1831970904"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1710753066"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,7 +34,31 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1558133587"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1003688037"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811778988"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1164203238"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649051715"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1710768882"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1659152726"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,35 +70,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710768882"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235811787"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710753066"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659152726"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164203238"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811778988"
+        "value": "1730972944"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1023801230"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831970904"
       }
     ],
     "address": [
@@ -85,6 +85,41 @@
         "city": "BRIGHTON",
         "state": "MA",
         "postalCode": "02135-2071"
+      },
+      {
+        "line": [
+          "344 Watertown Rd"
+        ],
+        "city": "Thomaston",
+        "state": "CT",
+        "postalCode": "06787-1921"
+      },
+      {
+        "line": [
+          "900 Straits Turnpike",
+          "Ste 203A"
+        ],
+        "city": "Middlebury",
+        "state": "CT",
+        "postalCode": "06762-2800"
+      },
+      {
+        "line": [
+          "245 Waterman St",
+          "Ste 200"
+        ],
+        "city": "PROVIDENCE",
+        "state": "RI",
+        "postalCode": "02906-5215"
+      },
+      {
+        "line": [
+          "191 Albany Turnpike",
+          "Ste 3"
+        ],
+        "city": "Canton",
+        "state": "CT",
+        "postalCode": "06019-2554"
       },
       {
         "line": [
@@ -105,37 +140,11 @@
       },
       {
         "line": [
-          "344 Watertown Rd"
-        ],
-        "city": "Thomaston",
-        "state": "CT",
-        "postalCode": "06787-1921"
-      },
-      {
-        "line": [
           "415 Boston Post Rd"
         ],
         "city": "Milford",
         "state": "CT",
         "postalCode": "06460-2578"
-      },
-      {
-        "line": [
-          "1389 W Main St",
-          "Ste 309"
-        ],
-        "city": "WATERBURY",
-        "state": "CT",
-        "postalCode": "06708-3104"
-      },
-      {
-        "line": [
-          "191 Albany Turnpike",
-          "Ste 3"
-        ],
-        "city": "Canton",
-        "state": "CT",
-        "postalCode": "06019-2554"
       },
       {
         "line": [
@@ -147,21 +156,12 @@
       },
       {
         "line": [
-          "900 Straits Turnpike",
-          "Ste 203A"
+          "1389 W Main St",
+          "Ste 309"
         ],
-        "city": "Middlebury",
+        "city": "WATERBURY",
         "state": "CT",
-        "postalCode": "06762-2800"
-      },
-      {
-        "line": [
-          "245 Waterman St",
-          "Ste 200"
-        ],
-        "city": "PROVIDENCE",
-        "state": "RI",
-        "postalCode": "02906-5215"
+        "postalCode": "06708-3104"
       },
       {
         "line": [

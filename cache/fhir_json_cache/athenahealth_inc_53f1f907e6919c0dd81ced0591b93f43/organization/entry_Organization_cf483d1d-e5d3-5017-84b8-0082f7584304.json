@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508121070"
+        "value": "1619553914"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619553914"
+        "value": "1508121070"
       }
     ],
     "address": [
-      {
-        "line": [
-          "25 Washington Street"
-        ],
-        "city": "WELLESLEY HILLS",
-        "state": "MA",
-        "postalCode": "02481-3506"
-      },
       {
         "line": [
           "2014 Washington Street"
@@ -37,6 +29,14 @@
         "city": "NEWTON LOWER FALLS",
         "state": "MA",
         "postalCode": "02462-1607"
+      },
+      {
+        "line": [
+          "25 Washington Street"
+        ],
+        "city": "WELLESLEY HILLS",
+        "state": "MA",
+        "postalCode": "02481-3506"
       }
     ],
     "extension": [

@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992372403"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073367546"
+        "value": "1043058738"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,26 +22,37 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043058738"
+        "value": "1073367546"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992372403"
       }
     ],
     "address": [
       {
         "line": [
-          "1800 PHOENIX BLVD",
-          "STE 128-12 PMB 1532"
+          "584 Castro Dr #2095"
         ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30349-5593"
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94114-2512"
       },
       {
         "line": [
-          "4917 ENCANTO RD PMB 1018"
+          "148 E 38TH ST"
         ],
-        "city": "SNOWFLAKE",
-        "state": "AZ",
-        "postalCode": "85937-6075"
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10016-2607"
+      },
+      {
+        "line": [
+          "1001 FISCHER BLVD SUITE 3 PMB 1048"
+        ],
+        "city": "TOMS RIVER",
+        "state": "NJ",
+        "postalCode": "08753-3818"
       },
       {
         "line": [
@@ -57,11 +64,11 @@
       },
       {
         "line": [
-          "1001 FISCHER BLVD SUITE 3 PMB 1048"
+          "4917 ENCANTO RD PMB 1018"
         ],
-        "city": "TOMS RIVER",
-        "state": "NJ",
-        "postalCode": "08753-3818"
+        "city": "SNOWFLAKE",
+        "state": "AZ",
+        "postalCode": "85937-6075"
       },
       {
         "line": [
@@ -74,19 +81,12 @@
       },
       {
         "line": [
-          "148 E 38TH ST"
+          "1800 PHOENIX BLVD",
+          "STE 128-12 PMB 1532"
         ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10016-2607"
-      },
-      {
-        "line": [
-          "584 Castro Dr #2095"
-        ],
-        "city": "SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94114-2512"
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30349-5593"
       }
     ],
     "extension": [

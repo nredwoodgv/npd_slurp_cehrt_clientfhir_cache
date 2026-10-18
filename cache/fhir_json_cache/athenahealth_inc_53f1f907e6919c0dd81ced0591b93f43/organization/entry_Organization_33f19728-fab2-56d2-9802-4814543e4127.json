@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962176529"
+        "value": "1902390537"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902390537"
+        "value": "1962176529"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1238 POWERS FERRY CMN SE"
-        ],
-        "city": "MARIETTA",
-        "state": "GA",
-        "postalCode": "30067-6046"
-      },
       {
         "line": [
           "2105 MARTIN LUTHER KING JR WAY"
@@ -55,6 +47,14 @@
         "city": "SMYRNA",
         "state": "GA",
         "postalCode": "30082-5192"
+      },
+      {
+        "line": [
+          "1238 POWERS FERRY CMN SE"
+        ],
+        "city": "MARIETTA",
+        "state": "GA",
+        "postalCode": "30067-6046"
       }
     ],
     "extension": [

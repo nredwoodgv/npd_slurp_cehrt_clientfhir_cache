@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629788849"
+        "value": "1073089488"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073089488"
+        "value": "1629788849"
       }
     ],
     "address": [
-      {
-        "line": [
-          "625 Flormann St"
-        ],
-        "city": "RAPID CITY",
-        "state": "SD",
-        "postalCode": "57701-0710"
-      },
-      {
-        "line": [
-          "777 West Main St"
-        ],
-        "city": "PINE RIDGE",
-        "state": "SD",
-        "postalCode": "57770-0351"
-      },
       {
         "line": [
           "3202 W MAIN ST SUITE B"
@@ -53,6 +37,22 @@
         "city": "SIOUX FALLS",
         "state": "SD",
         "postalCode": "57106-4248"
+      },
+      {
+        "line": [
+          "625 Flormann St"
+        ],
+        "city": "RAPID CITY",
+        "state": "SD",
+        "postalCode": "57701-0710"
+      },
+      {
+        "line": [
+          "777 West Main St"
+        ],
+        "city": "PINE RIDGE",
+        "state": "SD",
+        "postalCode": "57770-0351"
       }
     ],
     "extension": [

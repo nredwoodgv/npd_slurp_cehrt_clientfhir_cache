@@ -14,11 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114282605"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1841953783"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114282605"
+        "value": "1831852771"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -27,16 +31,12 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1780356253"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831852771"
       }
     ],
     "address": [
       {
         "line": [
-          "1114 MCCANN DR"
+          "1114 McCann Drive"
         ],
         "city": "WINCHESTER",
         "state": "KY",
@@ -44,7 +44,7 @@
       },
       {
         "line": [
-          "1114 McCann Drive"
+          "1114 MCCANN DR"
         ],
         "city": "WINCHESTER",
         "state": "KY",

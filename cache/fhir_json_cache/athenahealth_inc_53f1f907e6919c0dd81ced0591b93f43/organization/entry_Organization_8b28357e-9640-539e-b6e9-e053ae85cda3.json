@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558521179"
+        "value": "1861378168"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861378168"
+        "value": "1558521179"
       }
     ],
     "address": [
+      {
+        "line": [
+          "30 VARIAH ST"
+        ],
+        "city": "PALESTINE",
+        "state": "TX",
+        "postalCode": "75801-4011"
+      },
       {
         "line": [
           "2900 S Loop 256"
@@ -32,19 +40,11 @@
       },
       {
         "line": [
-          "2201 W Lampasas St"
+          "2212 West Reagan Street"
         ],
-        "city": "ENNIS",
+        "city": "PALESTINE",
         "state": "TX",
-        "postalCode": "75119-5644"
-      },
-      {
-        "line": [
-          "514 South Bonham Ste D"
-        ],
-        "city": "MEXIA",
-        "state": "TX",
-        "postalCode": "76667-3664"
+        "postalCode": "75801-2222"
       },
       {
         "line": [
@@ -56,11 +56,11 @@
       },
       {
         "line": [
-          "4002 South Loop 256"
+          "2201 W Lampasas St"
         ],
-        "city": "PALESTINE",
+        "city": "ENNIS",
         "state": "TX",
-        "postalCode": "75801-2825"
+        "postalCode": "75119-5644"
       },
       {
         "line": [
@@ -80,19 +80,11 @@
       },
       {
         "line": [
-          "2700 E. Broad Street"
-        ],
-        "city": "MANSFIELD",
-        "state": "TX",
-        "postalCode": "76063-0719"
-      },
-      {
-        "line": [
-          "30 VARIAH ST"
+          "1625 West Spring"
         ],
         "city": "PALESTINE",
         "state": "TX",
-        "postalCode": "75801-4011"
+        "postalCode": "75801-7943"
       },
       {
         "line": [
@@ -104,19 +96,27 @@
       },
       {
         "line": [
-          "1625 West Spring"
+          "4002 South Loop 256"
         ],
         "city": "PALESTINE",
         "state": "TX",
-        "postalCode": "75801-7943"
+        "postalCode": "75801-2825"
       },
       {
         "line": [
-          "2212 West Reagan Street"
+          "514 South Bonham Ste D"
         ],
-        "city": "PALESTINE",
+        "city": "MEXIA",
         "state": "TX",
-        "postalCode": "75801-2222"
+        "postalCode": "76667-3664"
+      },
+      {
+        "line": [
+          "2700 E. Broad Street"
+        ],
+        "city": "MANSFIELD",
+        "state": "TX",
+        "postalCode": "76063-0719"
       }
     ],
     "extension": [

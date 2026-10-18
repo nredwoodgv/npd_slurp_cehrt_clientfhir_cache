@@ -1,37 +1,37 @@
 {
   "resource": {
-    "active": true,
     "address": [
       {
-        "country": "United States",
-        "use": "work",
+        "postalCode": "19709",
+        "state": "Delaware",
+        "city": "Middletown",
         "line": [
           "291",
           "Carter Drive"
         ],
-        "city": "Middletown",
-        "state": "Delaware",
-        "postalCode": "19709"
+        "use": "work",
+        "country": "United States"
       }
     ],
-    "name": "Unity Health",
-    "resourceType": "Organization",
-    "telecom": [
-      {
-        "value": "3022650229",
-        "system": "phone"
-      },
-      {
-        "value": "info@unityhealth360.com",
-        "system": "email"
-      }
-    ],
+    "active": true,
+    "id": "660a5367-248c-4fcb-8d18-7ad8ea90939d",
     "endpoint": [
       {
         "reference": "Endpoint/660a5367-248c-4fcb-8d18-7ad8ea90939d"
       }
     ],
-    "id": "660a5367-248c-4fcb-8d18-7ad8ea90939d"
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "3022650229"
+      },
+      {
+        "system": "email",
+        "value": "info@unityhealth360.com"
+      }
+    ],
+    "resourceType": "Organization",
+    "name": "Unity Health"
   },
   "fullUrl": "https://dev-fhir.cinch-project.com/fhir/Organization/660a5367-248c-4fcb-8d18-7ad8ea90939d"
 }

@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235486226"
+        "value": "1407385958"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,15 +22,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235486226"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1205613726"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407385958"
+        "value": "1962154542"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962154542"
+        "value": "1265548614"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -39,17 +43,61 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1801210133"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265548614"
       }
     ],
     "address": [
       {
         "line": [
+          "59340 River West Drive"
+        ],
+        "city": "PLAQUEMINE",
+        "state": "LA",
+        "postalCode": "70764-6553"
+      },
+      {
+        "line": [
+          "904 Catalpa Street"
+        ],
+        "city": "DONALDSONVILLE",
+        "state": "LA",
+        "postalCode": "70346-2946"
+      },
+      {
+        "line": [
+          "3140 FLORIDA Street"
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70806-3757"
+      },
+      {
+        "line": [
           "4852 Highway 19",
           "Ste A"
+        ],
+        "city": "ZACHARY",
+        "state": "LA",
+        "postalCode": "70791-3530"
+      },
+      {
+        "line": [
+          "3140 Florida Blvd"
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70806-3757"
+      },
+      {
+        "line": [
+          "904 CATALPA ST"
+        ],
+        "city": "DONALDSONVILLE",
+        "state": "LA",
+        "postalCode": "70346-2946"
+      },
+      {
+        "line": [
+          "4852 Highway 19, Suite A"
         ],
         "city": "ZACHARY",
         "state": "LA",
@@ -65,52 +113,11 @@
       },
       {
         "line": [
-          "3140 FLORIDA Street"
+          "3140 Florida Street"
         ],
         "city": "BATON ROUGE",
         "state": "LA",
         "postalCode": "70806-3757"
-      },
-      {
-        "line": [
-          "59340 River West Dr.",
-          "Ste. A B"
-        ],
-        "city": "PLAQUEMINE",
-        "state": "LA",
-        "postalCode": "70764-6553"
-      },
-      {
-        "line": [
-          "3140 Florida Blvd"
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70806-3757"
-      },
-      {
-        "line": [
-          "4852 Highway 19, Suite A"
-        ],
-        "city": "ZACHARY",
-        "state": "LA",
-        "postalCode": "70791-3530"
-      },
-      {
-        "line": [
-          "8730 YOUREE DR STE A-B"
-        ],
-        "city": "SHREVEPORT",
-        "state": "LA",
-        "postalCode": "71115-2500"
-      },
-      {
-        "line": [
-          "904 Catalpa Street"
-        ],
-        "city": "DONALDSONVILLE",
-        "state": "LA",
-        "postalCode": "70346-2946"
       },
       {
         "line": [
@@ -123,7 +130,8 @@
       },
       {
         "line": [
-          "59340 River West Drive"
+          "59340 River West Dr.",
+          "Ste. A B"
         ],
         "city": "PLAQUEMINE",
         "state": "LA",
@@ -131,19 +139,11 @@
       },
       {
         "line": [
-          "3140 Florida Street"
+          "8730 YOUREE DR STE A-B"
         ],
-        "city": "BATON ROUGE",
+        "city": "SHREVEPORT",
         "state": "LA",
-        "postalCode": "70806-3757"
-      },
-      {
-        "line": [
-          "904 CATALPA ST"
-        ],
-        "city": "DONALDSONVILLE",
-        "state": "LA",
-        "postalCode": "70346-2946"
+        "postalCode": "71115-2500"
       }
     ],
     "extension": [

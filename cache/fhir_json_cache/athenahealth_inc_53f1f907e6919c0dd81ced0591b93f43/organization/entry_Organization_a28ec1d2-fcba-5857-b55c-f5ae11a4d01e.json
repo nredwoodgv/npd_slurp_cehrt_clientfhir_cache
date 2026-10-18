@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942254347"
+        "value": "1568858686"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568858686"
+        "value": "1942254347"
       }
     ],
     "address": [
+      {
+        "line": [
+          "333 MOUNT HOPE AVE"
+        ],
+        "city": "ROCKAWAY",
+        "state": "NJ",
+        "postalCode": "07866-1654"
+      },
       {
         "line": [
           "100 Commerce Place"
@@ -29,14 +37,6 @@
         "city": "CLARK",
         "state": "NJ",
         "postalCode": "07066-1302"
-      },
-      {
-        "line": [
-          "1 Springfield Avenue"
-        ],
-        "city": "SUMMIT",
-        "state": "NJ",
-        "postalCode": "07901-4055"
       },
       {
         "line": [
@@ -48,11 +48,11 @@
       },
       {
         "line": [
-          "333 MOUNT HOPE AVE"
+          "1 Springfield Avenue"
         ],
-        "city": "ROCKAWAY",
+        "city": "SUMMIT",
         "state": "NJ",
-        "postalCode": "07866-1654"
+        "postalCode": "07901-4055"
       }
     ],
     "extension": [

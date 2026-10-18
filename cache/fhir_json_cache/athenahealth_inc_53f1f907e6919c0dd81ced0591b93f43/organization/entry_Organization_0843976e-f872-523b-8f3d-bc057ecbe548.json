@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477674083"
+        "value": "1326136102"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326136102"
+        "value": "1477674083"
       }
     ],
     "address": [
-      {
-        "line": [
-          "608 North Acadian Rd"
-        ],
-        "city": "THIBODAUX",
-        "state": "LA",
-        "postalCode": "70301-4847"
-      },
       {
         "line": [
           "8120 Main St. Suite 103"
@@ -53,6 +45,14 @@
         "city": "CUT OFF",
         "state": "LA",
         "postalCode": "70345-4143"
+      },
+      {
+        "line": [
+          "608 North Acadian Rd"
+        ],
+        "city": "THIBODAUX",
+        "state": "LA",
+        "postalCode": "70301-4847"
       }
     ],
     "extension": [

@@ -18,22 +18,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174522007"
+        "value": "1346588852"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346588852"
+        "value": "1174522007"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1300 S MONTGOMERY AVE"
-        ],
-        "city": "SHEFFIELD",
-        "state": "AL",
-        "postalCode": "35660-6334"
-      },
       {
         "line": [
           "203 AVALON AVE",
@@ -42,6 +34,14 @@
         "city": "MUSCLE SHOALS",
         "state": "AL",
         "postalCode": "35661-2855"
+      },
+      {
+        "line": [
+          "1300 S MONTGOMERY AVE"
+        ],
+        "city": "SHEFFIELD",
+        "state": "AL",
+        "postalCode": "35660-6334"
       }
     ],
     "extension": [

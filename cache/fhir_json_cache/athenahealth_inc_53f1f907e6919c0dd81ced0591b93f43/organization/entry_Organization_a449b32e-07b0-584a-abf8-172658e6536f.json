@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538677026"
+        "value": "1215561329"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215561329"
+        "value": "1538677026"
       }
     ],
     "address": [
       {
         "line": [
-          "7099 E STATE RD"
+          "3255 E COLEMAN RD"
         ],
         "city": "EAST LANSING",
         "state": "MI",
-        "postalCode": "48823-9440"
+        "postalCode": "48823-7330"
       },
       {
         "line": [
@@ -37,6 +37,14 @@
         "city": "DEWITT",
         "state": "MI",
         "postalCode": "48820-7955"
+      },
+      {
+        "line": [
+          "5850 HOLT RD"
+        ],
+        "city": "HOLT",
+        "state": "MI",
+        "postalCode": "48842-8629"
       },
       {
         "line": [
@@ -56,19 +64,19 @@
       },
       {
         "line": [
-          "5850 HOLT RD"
+          "7099 E STATE RD"
         ],
-        "city": "HOLT",
+        "city": "EAST LANSING",
         "state": "MI",
-        "postalCode": "48842-8629"
+        "postalCode": "48823-9440"
       },
       {
         "line": [
-          "1627 LAKE LANSING RD STE 200"
+          "1634 LAKE LANSING RD"
         ],
         "city": "LANSING",
         "state": "MI",
-        "postalCode": "48912-3788"
+        "postalCode": "48912-3709"
       },
       {
         "line": [
@@ -80,19 +88,11 @@
       },
       {
         "line": [
-          "3255 E COLEMAN RD"
-        ],
-        "city": "EAST LANSING",
-        "state": "MI",
-        "postalCode": "48823-7330"
-      },
-      {
-        "line": [
-          "1634 LAKE LANSING RD"
+          "1627 LAKE LANSING RD STE 200"
         ],
         "city": "LANSING",
         "state": "MI",
-        "postalCode": "48912-3709"
+        "postalCode": "48912-3788"
       }
     ],
     "extension": [

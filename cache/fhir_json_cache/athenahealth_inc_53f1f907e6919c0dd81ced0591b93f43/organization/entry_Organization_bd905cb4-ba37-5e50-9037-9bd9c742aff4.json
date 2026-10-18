@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548993603"
+        "value": "1124029400"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,11 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982807061"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124029400"
+        "value": "1548993603"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -35,6 +31,10 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1093828568"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1982807061"
       }
     ],
     "address": [
@@ -48,19 +48,19 @@
       },
       {
         "line": [
-          "99 Fairground Road"
-        ],
-        "city": "GLENVILLE",
-        "state": "WV",
-        "postalCode": "26351-1405"
-      },
-      {
-        "line": [
           "186 Hospital Dr"
         ],
         "city": "GRANTSVILLE",
         "state": "WV",
         "postalCode": "26147-7100"
+      },
+      {
+        "line": [
+          "99 Fairground Road"
+        ],
+        "city": "GLENVILLE",
+        "state": "WV",
+        "postalCode": "26351-1405"
       }
     ],
     "extension": [

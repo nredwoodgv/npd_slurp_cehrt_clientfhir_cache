@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1123456789"
+        "value": "1356437990"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356437990"
+        "value": "1123456789"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,14 +30,6 @@
       }
     ],
     "address": [
-      {
-        "line": [
-          "120 STATE LOOP 92"
-        ],
-        "city": "LA GRANGE",
-        "state": "TX",
-        "postalCode": "78945-6035"
-      },
       {
         "line": [
           "210 COLLEGE ST"
@@ -48,19 +40,12 @@
       },
       {
         "line": [
-          "7480 BEECHNUT ST"
+          "603 WYCLIFFE DRIVE",
+          "SUITE B"
         ],
         "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77074-4502"
-      },
-      {
-        "line": [
-          "11246 Fallbrook Drive"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77065-4273"
+        "postalCode": "77079-3507"
       },
       {
         "line": [
@@ -72,35 +57,19 @@
       },
       {
         "line": [
-          "603 WYCLIFFE"
+          "13820 Eagle Pass St"
         ],
         "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77079-3507"
+        "postalCode": "77015-3916"
       },
       {
         "line": [
-          "970 Campbell Rd"
+          "911 S JEFFERSON ST"
         ],
-        "city": "HOUSTON",
+        "city": "LA GRANGE",
         "state": "TX",
-        "postalCode": "77024-2804"
-      },
-      {
-        "line": [
-          "2865 Westminster Plaza Dr"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77082-2430"
-      },
-      {
-        "line": [
-          "7002 SETTLERS VILLAGE DR"
-        ],
-        "city": "KATY",
-        "state": "TX",
-        "postalCode": "77449-6886"
+        "postalCode": "78945-3105"
       },
       {
         "line": [
@@ -112,20 +81,51 @@
       },
       {
         "line": [
-          "13820 Eagle Pass St"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77015-3916"
-      },
-      {
-        "line": [
-          "21720 KINGSLAND BLVD,",
-          "SUITE 101"
+          "7002 SETTLERS VILLAGE DR"
         ],
         "city": "KATY",
         "state": "TX",
-        "postalCode": "77450-2551"
+        "postalCode": "77449-6886"
+      },
+      {
+        "line": [
+          "7480 BEECHNUT ST"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77074-4502"
+      },
+      {
+        "line": [
+          "120 STATE LOOP 92"
+        ],
+        "city": "LA GRANGE",
+        "state": "TX",
+        "postalCode": "78945-6035"
+      },
+      {
+        "line": [
+          "11246 Fallbrook Drive"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77065-4273"
+      },
+      {
+        "line": [
+          "2865 Westminster Plaza Dr"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77082-2430"
+      },
+      {
+        "line": [
+          "8580 WOODWAY DR"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77063-2423"
       },
       {
         "line": [
@@ -137,19 +137,11 @@
       },
       {
         "line": [
-          "1400 N MAIN ST."
+          "970 Campbell Rd"
         ],
-        "city": "GIDDINGS",
+        "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "78942-1360"
-      },
-      {
-        "line": [
-          "911 S JEFFERSON ST"
-        ],
-        "city": "LA GRANGE",
-        "state": "TX",
-        "postalCode": "78945-3105"
+        "postalCode": "77024-2804"
       },
       {
         "line": [
@@ -169,11 +161,20 @@
       },
       {
         "line": [
-          "8580 WOODWAY DR"
+          "21720 KINGSLAND BLVD,",
+          "SUITE 101"
         ],
-        "city": "HOUSTON",
+        "city": "KATY",
         "state": "TX",
-        "postalCode": "77063-2423"
+        "postalCode": "77450-2551"
+      },
+      {
+        "line": [
+          "1400 N MAIN ST."
+        ],
+        "city": "GIDDINGS",
+        "state": "TX",
+        "postalCode": "78942-1360"
       },
       {
         "line": [
@@ -185,8 +186,7 @@
       },
       {
         "line": [
-          "603 WYCLIFFE DRIVE",
-          "SUITE B"
+          "603 WYCLIFFE"
         ],
         "city": "HOUSTON",
         "state": "TX",

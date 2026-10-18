@@ -18,6 +18,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336665991"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629580758"
       },
       {
@@ -30,14 +34,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336665991"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669421277"
       }
     ],
     "address": [
+      {
+        "line": [
+          "303 S. Nappanee St."
+        ],
+        "city": "ELKHART",
+        "state": "IN",
+        "postalCode": "46514-2066"
+      },
       {
         "line": [
           "53880 Carmichael Drive"
@@ -48,28 +56,35 @@
       },
       {
         "line": [
+          "1020 High Road"
+        ],
+        "city": "BREMEN",
+        "state": "IN",
+        "postalCode": "46506-0008"
+      },
+      {
+        "line": [
           "SCHEDULE TEMPLATE"
+        ],
+        "city": "PLYMOUTH",
+        "state": "IN",
+        "postalCode": "46563-9366"
+      },
+      {
+        "line": [
+          "60160 Bodnar Blvd"
         ],
         "city": "MISHAWAKA",
         "state": "IN",
-        "postalCode": "46545-1469"
+        "postalCode": "46544-9338"
       },
       {
         "line": [
-          "600 East Boulevard"
+          "5218 Beck Drive"
         ],
         "city": "ELKHART",
         "state": "IN",
-        "postalCode": "46514-1329"
-      },
-      {
-        "line": [
-          "335 Florence Avenue",
-          "Suite 1B"
-        ],
-        "city": "GRANGER",
-        "state": "IN",
-        "postalCode": "46530-8049"
+        "postalCode": "46516-9132"
       },
       {
         "line": [
@@ -81,23 +96,6 @@
       },
       {
         "line": [
-          "53880 Carmichael Drive"
-        ],
-        "city": "SOUTH BEND",
-        "state": "IN",
-        "postalCode": "46615-1567"
-      },
-      {
-        "line": [
-          "611 E. Douglas Rd",
-          "Suite 128"
-        ],
-        "city": "MISHAWAKA",
-        "state": "IN",
-        "postalCode": "46545-1464"
-      },
-      {
-        "line": [
           "5215 Holy Cross Parkway"
         ],
         "city": "MISHAWAKA",
@@ -106,37 +104,51 @@
       },
       {
         "line": [
-          "53990 Carmichael Drive",
-          "STE 100"
-        ],
-        "city": "SOUTH BEND",
-        "state": "IN",
-        "postalCode": "46635-1585"
-      },
-      {
-        "line": [
-          "53880 CARMICHAEL DR"
-        ],
-        "city": "SOUTH BEND",
-        "state": "IN",
-        "postalCode": "46635-1567"
-      },
-      {
-        "line": [
-          "303 S NAPPANEE ST",
-          "STE F"
+          "2222 West Lexington Ave"
         ],
         "city": "ELKHART",
         "state": "IN",
-        "postalCode": "46514-2066"
+        "postalCode": "46514-1420"
       },
       {
         "line": [
-          "60160 Bodnar Blvd"
+          "900 I Street"
+        ],
+        "city": "LA PORTE",
+        "state": "IN",
+        "postalCode": "46350-5533"
+      },
+      {
+        "line": [
+          "5218 BECK DR STE 10"
+        ],
+        "city": "ELKHART",
+        "state": "IN",
+        "postalCode": "46516-9132"
+      },
+      {
+        "line": [
+          "1915 Lake Ave"
+        ],
+        "city": "PLYMOUTH",
+        "state": "IN",
+        "postalCode": "46563-9366"
+      },
+      {
+        "line": [
+          "215 W. 4th Street"
         ],
         "city": "MISHAWAKA",
         "state": "IN",
-        "postalCode": "46544-9338"
+        "postalCode": "46544-1917"
+      },
+      {
+        "line": [
+          "615 N. Michigan Street"
+        ],
+        "city": "SOUTH BEND",
+        "state": "IN",
+        "postalCode": "46601-1033"
       },
       {
         "line": [
@@ -149,19 +161,94 @@
       },
       {
         "line": [
-          "215 W. 4th Street"
+          "611 E. Douglas Rd",
+          "Suite 128"
         ],
         "city": "MISHAWAKA",
         "state": "IN",
-        "postalCode": "46544-1917"
+        "postalCode": "46545-1464"
       },
       {
         "line": [
-          "1915 Lake"
+          "5230 Beck Drive, Suite 6"
         ],
-        "city": "PLYMOUTH",
+        "city": "ELKHART",
         "state": "IN",
-        "postalCode": "46563-9366"
+        "postalCode": "46516-9059"
+      },
+      {
+        "line": [
+          "600 East Boulevard"
+        ],
+        "city": "ELKHART",
+        "state": "IN",
+        "postalCode": "46514-1329"
+      },
+      {
+        "line": [
+          "100 West Navarre Street"
+        ],
+        "city": "SOUTH BEND",
+        "state": "IN",
+        "postalCode": "46601-1176"
+      },
+      {
+        "line": [
+          "335 Florence Avenue",
+          "Suite 1B"
+        ],
+        "city": "GRANGER",
+        "state": "IN",
+        "postalCode": "46530-8049"
+      },
+      {
+        "line": [
+          "615 N. Michigan"
+        ],
+        "city": "SOUTH BEND",
+        "state": "IN",
+        "postalCode": "46601-1033"
+      },
+      {
+        "line": [
+          "53990 Carmichael Drive",
+          "STE 100"
+        ],
+        "city": "SOUTH BEND",
+        "state": "IN",
+        "postalCode": "46635-1585"
+      },
+      {
+        "line": [
+          "335 Florence Avenue"
+        ],
+        "city": "GRANGER",
+        "state": "IN",
+        "postalCode": "46530-8049"
+      },
+      {
+        "line": [
+          "SURGERY TEPLATE"
+        ],
+        "city": "MISHAWAKA",
+        "state": "IN",
+        "postalCode": "46545-1969"
+      },
+      {
+        "line": [
+          "SCHEDULE TEMPLATE"
+        ],
+        "city": "SOUTH BEND",
+        "state": "IN",
+        "postalCode": "46601-1033"
+      },
+      {
+        "line": [
+          "60160 Bodnard Blvd"
+        ],
+        "city": "MISHAWAKA",
+        "state": "IN",
+        "postalCode": "46544-9214"
       },
       {
         "line": [
@@ -174,43 +261,12 @@
       },
       {
         "line": [
-          "1020 High Road"
-        ],
-        "city": "BREMEN",
-        "state": "IN",
-        "postalCode": "46506-0008"
-      },
-      {
-        "line": [
-          "303 S. Nappanee St."
+          "5230 BECK DRIVE",
+          "SUITE 6"
         ],
         "city": "ELKHART",
         "state": "IN",
-        "postalCode": "46514-2066"
-      },
-      {
-        "line": [
-          "230 E Day Road"
-        ],
-        "city": "MISHAWAKA",
-        "state": "IN",
-        "postalCode": "46545-3408"
-      },
-      {
-        "line": [
-          "5218 Beck Drive"
-        ],
-        "city": "ELKHART",
-        "state": "IN",
-        "postalCode": "46516-9132"
-      },
-      {
-        "line": [
-          "2349 LAKE AVE STE 201"
-        ],
-        "city": "PLYMOUTH",
-        "state": "IN",
-        "postalCode": "46563-7837"
+        "postalCode": "46516-9059"
       },
       {
         "line": [
@@ -222,92 +278,12 @@
       },
       {
         "line": [
-          "1915 Lake Ave"
-        ],
-        "city": "PLYMOUTH",
-        "state": "IN",
-        "postalCode": "46563-9366"
-      },
-      {
-        "line": [
-          "900 I Street"
-        ],
-        "city": "LA PORTE",
-        "state": "IN",
-        "postalCode": "46350-5533"
-      },
-      {
-        "line": [
-          "5230 BECK DRIVE",
-          "SUITE 6"
+          "303 S NAPPANEE ST",
+          "STE F"
         ],
         "city": "ELKHART",
         "state": "IN",
-        "postalCode": "46516-9059"
-      },
-      {
-        "line": [
-          "5230 Beck Drive, Suite 6"
-        ],
-        "city": "ELKHART",
-        "state": "IN",
-        "postalCode": "46516-9059"
-      },
-      {
-        "line": [
-          "335 Florence Avenue"
-        ],
-        "city": "GRANGER",
-        "state": "IN",
-        "postalCode": "46530-8049"
-      },
-      {
-        "line": [
-          "SCHEDULE TEMPLATE"
-        ],
-        "city": "PLYMOUTH",
-        "state": "IN",
-        "postalCode": "46563-9366"
-      },
-      {
-        "line": [
-          "615 N. Michigan Street"
-        ],
-        "city": "SOUTH BEND",
-        "state": "IN",
-        "postalCode": "46601-1033"
-      },
-      {
-        "line": [
-          "SURGERY TEPLATE"
-        ],
-        "city": "MISHAWAKA",
-        "state": "IN",
-        "postalCode": "46545-1969"
-      },
-      {
-        "line": [
-          "2222 West Lexington Ave"
-        ],
-        "city": "ELKHART",
-        "state": "IN",
-        "postalCode": "46514-1420"
-      },
-      {
-        "line": [
-          "2222 W. Lexington Ave"
-        ],
-        "city": "ELKHART",
-        "state": "IN",
-        "postalCode": "46514-1420"
-      },
-      {
-        "line": [
-          "60160 Bodnard Blvd"
-        ],
-        "city": "MISHAWAKA",
-        "state": "IN",
-        "postalCode": "46544-9214"
+        "postalCode": "46514-2066"
       },
       {
         "line": [
@@ -319,35 +295,59 @@
       },
       {
         "line": [
-          "SCHEDULE TEMPLATE"
+          "53880 Carmichael Drive"
         ],
         "city": "SOUTH BEND",
         "state": "IN",
-        "postalCode": "46601-1033"
+        "postalCode": "46615-1567"
       },
       {
         "line": [
-          "5218 BECK DR STE 10"
+          "230 E Day Road"
+        ],
+        "city": "MISHAWAKA",
+        "state": "IN",
+        "postalCode": "46545-3408"
+      },
+      {
+        "line": [
+          "53880 CARMICHAEL DR"
+        ],
+        "city": "SOUTH BEND",
+        "state": "IN",
+        "postalCode": "46635-1567"
+      },
+      {
+        "line": [
+          "SCHEDULE TEMPLATE"
+        ],
+        "city": "MISHAWAKA",
+        "state": "IN",
+        "postalCode": "46545-1469"
+      },
+      {
+        "line": [
+          "2349 LAKE AVE STE 201"
+        ],
+        "city": "PLYMOUTH",
+        "state": "IN",
+        "postalCode": "46563-7837"
+      },
+      {
+        "line": [
+          "1915 Lake"
+        ],
+        "city": "PLYMOUTH",
+        "state": "IN",
+        "postalCode": "46563-9366"
+      },
+      {
+        "line": [
+          "2222 W. Lexington Ave"
         ],
         "city": "ELKHART",
         "state": "IN",
-        "postalCode": "46516-9132"
-      },
-      {
-        "line": [
-          "100 West Navarre Street"
-        ],
-        "city": "SOUTH BEND",
-        "state": "IN",
-        "postalCode": "46601-1176"
-      },
-      {
-        "line": [
-          "615 N. Michigan"
-        ],
-        "city": "SOUTH BEND",
-        "state": "IN",
-        "postalCode": "46601-1033"
+        "postalCode": "46514-1420"
       }
     ],
     "extension": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780225326"
+        "value": "1144409194"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144250176"
+        "value": "1780225326"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,35 +26,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144409194"
+        "value": "1144250176"
       }
     ],
     "address": [
-      {
-        "line": [
-          "900 Caton Avenue"
-        ],
-        "city": "Baltimore",
-        "state": "MD",
-        "postalCode": "21229-5201"
-      },
-      {
-        "line": [
-          "900 Caton Ave",
-          "4th Floor"
-        ],
-        "city": "BALTIMORE",
-        "state": "MD",
-        "postalCode": "21229-5201"
-      },
-      {
-        "line": [
-          "3701 Eldorado Ave"
-        ],
-        "city": "BALTIMORE",
-        "state": "MD",
-        "postalCode": "21207-7658"
-      },
       {
         "line": [
           "5011 Arbutus Ave"
@@ -62,6 +37,14 @@
         "city": "BALTIMORE",
         "state": "MD",
         "postalCode": "21215-5723"
+      },
+      {
+        "line": [
+          "900 Caton Avenue"
+        ],
+        "city": "Baltimore",
+        "state": "MD",
+        "postalCode": "21229-5201"
       },
       {
         "line": [
@@ -86,6 +69,23 @@
         "city": "BALTIMORE",
         "state": "MD",
         "postalCode": "21229-1811"
+      },
+      {
+        "line": [
+          "3701 Eldorado Ave"
+        ],
+        "city": "BALTIMORE",
+        "state": "MD",
+        "postalCode": "21207-7658"
+      },
+      {
+        "line": [
+          "900 Caton Ave",
+          "4th Floor"
+        ],
+        "city": "BALTIMORE",
+        "state": "MD",
+        "postalCode": "21229-5201"
       }
     ],
     "extension": [

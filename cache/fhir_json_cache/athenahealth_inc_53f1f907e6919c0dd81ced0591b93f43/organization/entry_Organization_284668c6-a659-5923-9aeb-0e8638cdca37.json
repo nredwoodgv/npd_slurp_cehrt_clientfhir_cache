@@ -14,29 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841212719"
+        "value": "1538558036"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538558036"
+        "value": "1841212719"
       }
     ],
     "address": [
       {
         "line": [
-          "4105 BRIARGATE PARKWAY SUITE 300"
+          "202 E CHEYENNE MTN BLVD",
+          "SUITE N"
         ],
         "city": "COLORADO SPRINGS",
         "state": "CO",
-        "postalCode": "80920-3487"
-      },
-      {
-        "line": [
-          "416 MAIN ST"
-        ],
-        "city": "LA JARA",
-        "state": "CO",
-        "postalCode": "81140-0272"
+        "postalCode": "80906-3796"
       },
       {
         "line": [
@@ -49,20 +42,11 @@
       },
       {
         "line": [
-          "202 E CHEYENNE MTN BLVD",
-          "SUITE N"
+          "416 MAIN ST"
         ],
-        "city": "COLORADO SPRINGS",
+        "city": "LA JARA",
         "state": "CO",
-        "postalCode": "80906-3796"
-      },
-      {
-        "line": [
-          "3010 N. Circle, Suite 100"
-        ],
-        "city": "COLORADO SPRINGS",
-        "state": "CO",
-        "postalCode": "80909-1174"
+        "postalCode": "81140-0272"
       },
       {
         "line": [
@@ -71,6 +55,22 @@
         "city": "COLORADO SPRINGS",
         "state": "CO",
         "postalCode": "80906-3511"
+      },
+      {
+        "line": [
+          "4105 BRIARGATE PARKWAY SUITE 300"
+        ],
+        "city": "COLORADO SPRINGS",
+        "state": "CO",
+        "postalCode": "80920-3487"
+      },
+      {
+        "line": [
+          "3010 N. Circle, Suite 100"
+        ],
+        "city": "COLORADO SPRINGS",
+        "state": "CO",
+        "postalCode": "80909-1174"
       }
     ],
     "extension": [

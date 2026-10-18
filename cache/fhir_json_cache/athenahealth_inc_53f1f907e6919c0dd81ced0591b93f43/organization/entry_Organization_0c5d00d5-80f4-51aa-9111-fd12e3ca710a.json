@@ -14,14 +14,30 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821548215"
+        "value": "1831665074"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831665074"
+        "value": "1821548215"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1845 S Michigan Ave"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60616-2315"
+      },
+      {
+        "line": [
+          "432 E GRAND AVE STE A"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60611-1314"
+      },
       {
         "line": [
           "432 E GRAND AVE STE C"
@@ -40,28 +56,12 @@
       },
       {
         "line": [
-          "1845 S Michigan Ave"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60616-2315"
-      },
-      {
-        "line": [
           "1921 S Michigan Ave",
           "Loop Medical Center"
         ],
         "city": "CHICAGO",
         "state": "IL",
         "postalCode": "60616-1603"
-      },
-      {
-        "line": [
-          "432 E GRAND AVE STE A"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60611-1314"
       },
       {
         "line": [

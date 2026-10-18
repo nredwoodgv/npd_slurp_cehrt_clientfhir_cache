@@ -4,16 +4,12 @@
     "id": "362",
     "identifier": [
       {
-        "system": "https://github.com/synthetichealth/synthea",
-        "value": "56090ab7-1f97-37ff-a434-194f9c6e5510"
-      },
-      {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "FI"
+        "value": "1811102353"
       },
       {
-        "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "ca-peiVCI"
+        "system": "https://api-datamanager.carecloud.com/fhir/sid/talkehr/practice",
+        "value": "362"
       }
     ],
     "active": true,
@@ -25,17 +21,25 @@
             "code": "prov",
             "display": "Healthcare Provider"
           }
-        ],
-        "text": "Healthcare Provider"
+        ]
       }
     ],
     "name": "MEDICAL CARE CENTER OF LAKE VILLA",
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "8473569010",
+        "use": "work"
+      }
+    ],
     "address": [
       {
+        "text": "201 S MILWAUKEE AVE, LAKE VILLA, IL 600468551, LAKE",
         "line": [
           "201 S MILWAUKEE AVE"
         ],
         "city": "LAKE VILLA",
+        "district": "LAKE",
         "state": "IL",
         "postalCode": "600468551",
         "country": "US"

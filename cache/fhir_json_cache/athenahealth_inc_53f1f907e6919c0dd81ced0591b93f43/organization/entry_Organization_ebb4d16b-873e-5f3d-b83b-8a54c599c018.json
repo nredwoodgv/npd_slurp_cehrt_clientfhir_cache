@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497678437"
+        "value": "1952298812"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,10 +26,51 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952298812"
+        "value": "1497678437"
       }
     ],
     "address": [
+      {
+        "line": [
+          "4220 HARDING RD"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37205-2005"
+      },
+      {
+        "line": [
+          "2300 PATTERSON ST"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37203-1538"
+      },
+      {
+        "line": [
+          "2000 CHURCH ST"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37236-0001"
+      },
+      {
+        "line": [
+          "11201 Shaker Blvd"
+        ],
+        "city": "CLEVELAND",
+        "state": "OH",
+        "postalCode": "44104-3869"
+      },
+      {
+        "line": [
+          "1900 PATTERSON ST",
+          "STE 105"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37203-2165"
+      },
       {
         "line": [
           "3540 Maitland Dr",
@@ -50,44 +91,20 @@
       },
       {
         "line": [
+          "2813 WHIPPLE AVE NW",
+          "STE C"
+        ],
+        "city": "CANTON",
+        "state": "OH",
+        "postalCode": "44708-1531"
+      },
+      {
+        "line": [
           "1559 SPARTA ST"
         ],
         "city": "MCMINNVILLE",
         "state": "TN",
         "postalCode": "37110-1316"
-      },
-      {
-        "line": [
-          "1900 Patterson St",
-          "Suite 105"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37203-2119"
-      },
-      {
-        "line": [
-          "2000 CHURCH ST"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37236-0001"
-      },
-      {
-        "line": [
-          "4220 HARDING RD"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37205-2005"
-      },
-      {
-        "line": [
-          "11201 Shaker Blvd"
-        ],
-        "city": "CLEVELAND",
-        "state": "OH",
-        "postalCode": "44104-3869"
       },
       {
         "line": [
@@ -99,23 +116,6 @@
       },
       {
         "line": [
-          "2300 PATTERSON ST"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37203-1538"
-      },
-      {
-        "line": [
-          "1900 PATTERSON ST",
-          "STE 105"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37203-2165"
-      },
-      {
-        "line": [
           "520 W Main St"
         ],
         "city": "SMITHVILLE",
@@ -124,12 +124,12 @@
       },
       {
         "line": [
-          "2813 WHIPPLE AVE NW",
-          "STE C"
+          "1900 Patterson St",
+          "Suite 105"
         ],
-        "city": "CANTON",
-        "state": "OH",
-        "postalCode": "44708-1531"
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37203-2119"
       }
     ],
     "extension": [

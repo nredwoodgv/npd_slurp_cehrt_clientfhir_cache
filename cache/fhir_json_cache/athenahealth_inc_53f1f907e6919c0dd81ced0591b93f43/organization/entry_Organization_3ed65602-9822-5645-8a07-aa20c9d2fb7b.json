@@ -18,30 +18,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154302214"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477909570"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396152351"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790171874"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821433129"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912413147"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396131389"
       },
       {
@@ -50,11 +26,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154814390"
+        "value": "1477909570"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063731271"
+        "value": "1154302214"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730426040"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396152351"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,25 +46,33 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730426040"
+        "value": "1063731271"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1790171874"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154814390"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912413147"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821433129"
       }
     ],
     "address": [
       {
         "line": [
-          "114 SE Church St"
+          "1401 N 10th Ave Ste 100"
         ],
-        "city": "SUBLIMITY",
+        "city": "STAYTON",
         "state": "OR",
-        "postalCode": "97385-9714"
-      },
-      {
-        "line": [
-          "390 Church St"
-        ],
-        "city": "SUBLIMITY",
-        "state": "OR",
-        "postalCode": "97385-9714"
+        "postalCode": "97383-1487"
       },
       {
         "line": [
@@ -89,6 +81,14 @@
         "city": "AUMSVILLE",
         "state": "OR",
         "postalCode": "97325-9018"
+      },
+      {
+        "line": [
+          "390 Church St"
+        ],
+        "city": "SUBLIMITY",
+        "state": "OR",
+        "postalCode": "97385-9714"
       },
       {
         "line": [
@@ -108,11 +108,11 @@
       },
       {
         "line": [
-          "1401 N 10th Ave Ste 100"
+          "114 SE Church St"
         ],
-        "city": "STAYTON",
+        "city": "SUBLIMITY",
         "state": "OR",
-        "postalCode": "97383-1487"
+        "postalCode": "97385-9714"
       }
     ],
     "extension": [

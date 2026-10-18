@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073861431"
+        "value": "1215287362"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215287362"
+        "value": "1073861431"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,11 +36,12 @@
     "address": [
       {
         "line": [
-          "850 W BARAGA AVE"
+          "1414 W FAIR AVE",
+          "SUITE 344"
         ],
         "city": "MARQUETTE",
         "state": "MI",
-        "postalCode": "49855-4550"
+        "postalCode": "49855-5407"
       },
       {
         "line": [
@@ -52,12 +53,11 @@
       },
       {
         "line": [
-          "1414 W FAIR AVE",
-          "SUITE 344"
+          "850 W BARAGA AVE"
         ],
         "city": "MARQUETTE",
         "state": "MI",
-        "postalCode": "49855-5407"
+        "postalCode": "49855-4550"
       }
     ],
     "extension": [

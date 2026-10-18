@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073214060"
+        "value": "1376549733"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376549733"
+        "value": "1073214060"
       }
     ],
     "address": [
@@ -32,7 +32,15 @@
       },
       {
         "line": [
-          "1509 WILSON TERRACE"
+          "5700 SAN FERNANDO RD"
+        ],
+        "city": "GLENDALE",
+        "state": "CA",
+        "postalCode": "91202-4007"
+      },
+      {
+        "line": [
+          "1509 E WILSON TERRACE"
         ],
         "city": "GLENDALE",
         "state": "CA",
@@ -40,7 +48,7 @@
       },
       {
         "line": [
-          "1509 E WILSON TERRACE"
+          "1500 E CHEVY CHASE DR"
         ],
         "city": "GLENDALE",
         "state": "CA",
@@ -56,19 +64,11 @@
       },
       {
         "line": [
-          "1500 E CHEVY CHASE DR"
+          "1509 WILSON TERRACE"
         ],
         "city": "GLENDALE",
         "state": "CA",
         "postalCode": "91206-4007"
-      },
-      {
-        "line": [
-          "5700 SAN FERNANDO RD"
-        ],
-        "city": "GLENDALE",
-        "state": "CA",
-        "postalCode": "91202-4007"
       }
     ],
     "extension": [

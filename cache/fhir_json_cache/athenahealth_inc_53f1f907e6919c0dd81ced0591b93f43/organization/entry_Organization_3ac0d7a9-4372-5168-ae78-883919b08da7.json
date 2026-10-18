@@ -14,19 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093282360"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1073179123"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144713884"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013409176"
+        "value": "1093282360"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -35,9 +27,26 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1376930685"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144713884"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013409176"
       }
     ],
     "address": [
+      {
+        "line": [
+          "2963 GULF TO BAY BOULEVARD",
+          "SUITE 250"
+        ],
+        "city": "CLEARWATER",
+        "state": "FL",
+        "postalCode": "33759-4255"
+      },
       {
         "line": [
           "88 Noble Avenue",
@@ -49,12 +58,12 @@
       },
       {
         "line": [
-          "17222 HOSPITAL BOULEVARD",
-          "SUITE 222"
+          "770 Lynnhaven Pkwy",
+          "STE 150"
         ],
-        "city": "BROOKSVILLE",
-        "state": "FL",
-        "postalCode": "34601-8925"
+        "city": "VIRGINIA BEACH",
+        "state": "VA",
+        "postalCode": "23452-7343"
       },
       {
         "line": [
@@ -67,46 +76,12 @@
       },
       {
         "line": [
-          "64 Thompson Street",
-          "Unit A103"
-        ],
-        "city": "NEW HAVEN",
-        "state": "CT",
-        "postalCode": "06513-5707"
-      },
-      {
-        "line": [
           "16091 Swingley Ridge Rd",
           "Suite 100"
         ],
         "city": "CHESTERFIELD",
         "state": "MO",
         "postalCode": "63017-1147"
-      },
-      {
-        "line": [
-          "9904 Clayton Rd"
-        ],
-        "city": "SAINT LOUIS",
-        "state": "MO",
-        "postalCode": "63124-1147"
-      },
-      {
-        "line": [
-          "11477 Olde Cabin Rd"
-        ],
-        "city": "SAINT LOUIS",
-        "state": "MO",
-        "postalCode": "63141-1147"
-      },
-      {
-        "line": [
-          "901 Farmington Avenue",
-          "Suite 300"
-        ],
-        "city": "WEST HARTFORD",
-        "state": "CT",
-        "postalCode": "06119-1418"
       },
       {
         "line": [
@@ -119,21 +94,46 @@
       },
       {
         "line": [
-          "2963 GULF TO BAY BOULEVARD",
-          "SUITE 250"
+          "901 Farmington Avenue",
+          "Suite 300"
         ],
-        "city": "CLEARWATER",
-        "state": "FL",
-        "postalCode": "33759-4255"
+        "city": "WEST HARTFORD",
+        "state": "CT",
+        "postalCode": "06119-1418"
       },
       {
         "line": [
-          "770 Lynnhaven Pkwy",
-          "STE 150"
+          "11477 Olde Cabin Rd"
         ],
-        "city": "VIRGINIA BEACH",
-        "state": "VA",
-        "postalCode": "23452-7343"
+        "city": "SAINT LOUIS",
+        "state": "MO",
+        "postalCode": "63141-1147"
+      },
+      {
+        "line": [
+          "9904 Clayton Rd"
+        ],
+        "city": "SAINT LOUIS",
+        "state": "MO",
+        "postalCode": "63124-1147"
+      },
+      {
+        "line": [
+          "64 Thompson Street",
+          "Unit A103"
+        ],
+        "city": "NEW HAVEN",
+        "state": "CT",
+        "postalCode": "06513-5707"
+      },
+      {
+        "line": [
+          "17222 HOSPITAL BOULEVARD",
+          "SUITE 222"
+        ],
+        "city": "BROOKSVILLE",
+        "state": "FL",
+        "postalCode": "34601-8925"
       }
     ],
     "extension": [

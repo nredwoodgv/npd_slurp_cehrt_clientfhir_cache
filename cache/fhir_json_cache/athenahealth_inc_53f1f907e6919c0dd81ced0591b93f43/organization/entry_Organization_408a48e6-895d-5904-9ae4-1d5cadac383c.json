@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932496932"
+        "value": "1194774752"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194774752"
+        "value": "1932496932"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,6 +34,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487873691"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467493213"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225349699"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104236249"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1932368537"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1740219526"
       },
       {
@@ -42,27 +62,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225349699"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932368537"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104236249"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1528283033"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467493213"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487873691"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -72,33 +72,9 @@
     "address": [
       {
         "line": [
-          "One Genesys Parkway"
-        ],
-        "city": "Grand Blanc",
-        "state": "MI",
-        "postalCode": "48439-8065"
-      },
-      {
-        "line": [
           "One Genesys Pkwy"
         ],
         "city": "Grand Blanc",
-        "state": "MI",
-        "postalCode": "48439-8065"
-      },
-      {
-        "line": [
-          "ONE GENESYS PARKWAY SUITE 4442"
-        ],
-        "city": "GRAND BLANC",
-        "state": "MI",
-        "postalCode": "48439-8065"
-      },
-      {
-        "line": [
-          "ONE GENESYS PARKWAY"
-        ],
-        "city": "GRAND BLANC",
         "state": "MI",
         "postalCode": "48439-8065"
       },
@@ -112,7 +88,7 @@
       },
       {
         "line": [
-          "One Genesys Parkway"
+          "ONE GENESYS PARKWAY"
         ],
         "city": "GRAND BLANC",
         "state": "MI",
@@ -128,14 +104,6 @@
       },
       {
         "line": [
-          "3452 Genesys Parkway"
-        ],
-        "city": "GRAND BLANC",
-        "state": "MI",
-        "postalCode": "48439-8065"
-      },
-      {
-        "line": [
           "ONE GENESYS PARKWAY\t"
         ],
         "city": "GRAND BLANC",
@@ -147,6 +115,38 @@
           "1 Genesys Parkway"
         ],
         "city": "Grand Blanc",
+        "state": "MI",
+        "postalCode": "48439-8065"
+      },
+      {
+        "line": [
+          "ONE GENESYS PARKWAY SUITE 4442"
+        ],
+        "city": "GRAND BLANC",
+        "state": "MI",
+        "postalCode": "48439-8065"
+      },
+      {
+        "line": [
+          "3452 Genesys Parkway"
+        ],
+        "city": "GRAND BLANC",
+        "state": "MI",
+        "postalCode": "48439-8065"
+      },
+      {
+        "line": [
+          "One Genesys Parkway"
+        ],
+        "city": "Grand Blanc",
+        "state": "MI",
+        "postalCode": "48439-8065"
+      },
+      {
+        "line": [
+          "One Genesys Parkway"
+        ],
+        "city": "GRAND BLANC",
         "state": "MI",
         "postalCode": "48439-8065"
       }

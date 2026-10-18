@@ -14,37 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093973836"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053346064"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730621624"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1154589901"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1093973836"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053346064"
       }
     ],
     "address": [
       {
         "line": [
-          "2100 N 7th street"
-        ],
-        "city": "WEST MEMPHIS",
-        "state": "AR",
-        "postalCode": "72301-1844"
-      },
-      {
-        "line": [
-          "3980 NEW COVINGTON PIKE"
+          "1727 KIRBY PKWY #150"
         ],
         "city": "MEMPHIS",
         "state": "TN",
-        "postalCode": "38128-2500"
+        "postalCode": "38120-8328"
       },
       {
         "line": [
@@ -53,20 +45,6 @@
         "city": "SOUTHAVEN",
         "state": "MS",
         "postalCode": "38671-6726"
-      },
-      {
-        "line": [],
-        "city": "HAYTI",
-        "state": "MO",
-        "postalCode": "63851-1242"
-      },
-      {
-        "line": [
-          "1727 KIRBY PKWY #150"
-        ],
-        "city": "MEMPHIS",
-        "state": "TN",
-        "postalCode": "38120-8328"
       },
       {
         "line": [
@@ -79,27 +57,17 @@
       },
       {
         "line": [
-          "310 JUDGE SMITH DRIVE"
-        ],
-        "city": "MARION",
-        "state": "AR",
-        "postalCode": "72364-2220"
-      },
-      {
-        "line": [
-          "6029 WALNUT GROVE RD, STE 300"
+          "3980 NEW COVINGTON PIKE"
         ],
         "city": "MEMPHIS",
         "state": "TN",
-        "postalCode": "38120-2170"
+        "postalCode": "38128-2500"
       },
       {
-        "line": [
-          "944 STATE HIGHWAY 77"
-        ],
-        "city": "MARION",
-        "state": "AR",
-        "postalCode": "72364-9004"
+        "line": [],
+        "city": "HAYTI",
+        "state": "MO",
+        "postalCode": "63851-1242"
       },
       {
         "line": [
@@ -117,6 +85,38 @@
         "city": "HOLLY SPRINGS",
         "state": "MS",
         "postalCode": "38635-2140"
+      },
+      {
+        "line": [
+          "944 STATE HIGHWAY 77"
+        ],
+        "city": "MARION",
+        "state": "AR",
+        "postalCode": "72364-9004"
+      },
+      {
+        "line": [
+          "6029 WALNUT GROVE RD, STE 300"
+        ],
+        "city": "MEMPHIS",
+        "state": "TN",
+        "postalCode": "38120-2170"
+      },
+      {
+        "line": [
+          "2100 N 7th street"
+        ],
+        "city": "WEST MEMPHIS",
+        "state": "AR",
+        "postalCode": "72301-1844"
+      },
+      {
+        "line": [
+          "310 JUDGE SMITH DRIVE"
+        ],
+        "city": "MARION",
+        "state": "AR",
+        "postalCode": "72364-2220"
       }
     ],
     "extension": [

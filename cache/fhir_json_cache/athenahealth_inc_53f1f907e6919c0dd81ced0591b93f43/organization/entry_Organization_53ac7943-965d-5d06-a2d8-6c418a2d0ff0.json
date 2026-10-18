@@ -14,18 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548211311"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1457617235"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1073615456"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548211311"
       }
     ],
     "address": [
+      {
+        "line": [
+          "500 S Cleveland Ave"
+        ],
+        "city": "COLUMBUS",
+        "state": "OH",
+        "postalCode": "43213-5120"
+      },
       {
         "line": [
           "5300 NORTH MEADOW DRIVE"
@@ -38,9 +46,9 @@
         "line": [
           "500 S Cleveland Ave"
         ],
-        "city": "COLUMBUS",
+        "city": "WESTERVILLE",
         "state": "OH",
-        "postalCode": "43213-5120"
+        "postalCode": "43081-8971"
       },
       {
         "line": [
@@ -49,14 +57,6 @@
         "city": "COLUMBUS",
         "state": "OH",
         "postalCode": "43213-5120"
-      },
-      {
-        "line": [
-          "500 S Cleveland Ave"
-        ],
-        "city": "WESTERVILLE",
-        "state": "OH",
-        "postalCode": "43081-8971"
       }
     ],
     "extension": [

@@ -20,20 +20,20 @@
     "address": [
       {
         "line": [
+          "123 Main Street"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10001-0002"
+      },
+      {
+        "line": [
           "2000 PALM BEACH LAKES BLVD",
           "STE 901"
         ],
         "city": "WEST PALM BEACH",
         "state": "FL",
         "postalCode": "33409-6506"
-      },
-      {
-        "line": [
-          "5000-3 NORWOOD AVE"
-        ],
-        "city": "JACKSONVILLE",
-        "state": "FL",
-        "postalCode": "32208-5001"
       },
       {
         "line": [
@@ -45,22 +45,6 @@
       },
       {
         "line": [
-          "123 Main Street"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10001-0002"
-      },
-      {
-        "line": [
-          "8200 S Jog Road"
-        ],
-        "city": "BOYNTON BEACH",
-        "state": "FL",
-        "postalCode": "33472-2981"
-      },
-      {
-        "line": [
           "7613 NW 57TH ST"
         ],
         "city": "FORT LAUDERDALE",
@@ -69,8 +53,16 @@
       },
       {
         "line": [
+          "4412 CURRY FORD RD"
+        ],
+        "city": "ORLANDO",
+        "state": "FL",
+        "postalCode": "32812-2709"
+      },
+      {
+        "line": [
           "6855 WILSON BLVD",
-          "STE 2"
+          "Suite 2"
         ],
         "city": "JACKSONVILLE",
         "state": "FL",
@@ -78,11 +70,19 @@
       },
       {
         "line": [
-          "4412 CURRY FORD RD"
+          "4614 S Kirkman Road"
         ],
         "city": "ORLANDO",
         "state": "FL",
-        "postalCode": "32812-2709"
+        "postalCode": "32811-2891"
+      },
+      {
+        "line": [
+          "8200 S Jog Road"
+        ],
+        "city": "BOYNTON BEACH",
+        "state": "FL",
+        "postalCode": "33472-2981"
       },
       {
         "line": [
@@ -112,7 +112,7 @@
       {
         "line": [
           "6855 WILSON BLVD",
-          "Suite 2"
+          "STE 2"
         ],
         "city": "JACKSONVILLE",
         "state": "FL",
@@ -120,11 +120,11 @@
       },
       {
         "line": [
-          "4614 S Kirkman Road"
+          "5000-3 NORWOOD AVE"
         ],
-        "city": "ORLANDO",
+        "city": "JACKSONVILLE",
         "state": "FL",
-        "postalCode": "32811-2891"
+        "postalCode": "32208-5001"
       }
     ],
     "extension": [

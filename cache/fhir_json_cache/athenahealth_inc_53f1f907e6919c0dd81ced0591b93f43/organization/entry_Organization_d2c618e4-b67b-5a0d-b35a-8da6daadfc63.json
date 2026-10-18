@@ -14,46 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457382947"
+        "value": "1801808571"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801808571"
+        "value": "1457382947"
       }
     ],
     "address": [
       {
         "line": [
-          "2014 Wheeler St.",
-          "Suite 170"
+          "2246 Nall Street"
         ],
-        "city": "JASPER",
+        "city": "PORT NECHES",
         "state": "TX",
-        "postalCode": "75951-5624"
-      },
-      {
-        "line": [
-          "5875 NORTH MAJOR DRIVE"
-        ],
-        "city": "BEAUMONT",
-        "state": "TX",
-        "postalCode": "77713-9034"
-      },
-      {
-        "line": [
-          "8445 Memorial Blvd, Suite 500"
-        ],
-        "city": "PORT ARTHUR",
-        "state": "TX",
-        "postalCode": "77640-7003"
-      },
-      {
-        "line": [
-          "151 Country Lane Drive"
-        ],
-        "city": "LUMBERTON",
-        "state": "TX",
-        "postalCode": "77657-6803"
+        "postalCode": "77651-4208"
       },
       {
         "line": [
@@ -74,11 +49,36 @@
       },
       {
         "line": [
-          "2246 Nall Street"
+          "151 Country Lane Drive"
         ],
-        "city": "PORT NECHES",
+        "city": "LUMBERTON",
         "state": "TX",
-        "postalCode": "77651-4208"
+        "postalCode": "77657-6803"
+      },
+      {
+        "line": [
+          "8445 Memorial Blvd, Suite 500"
+        ],
+        "city": "PORT ARTHUR",
+        "state": "TX",
+        "postalCode": "77640-7003"
+      },
+      {
+        "line": [
+          "2014 Wheeler St.",
+          "Suite 170"
+        ],
+        "city": "JASPER",
+        "state": "TX",
+        "postalCode": "75951-5624"
+      },
+      {
+        "line": [
+          "5875 NORTH MAJOR DRIVE"
+        ],
+        "city": "BEAUMONT",
+        "state": "TX",
+        "postalCode": "77713-9034"
       }
     ],
     "extension": [

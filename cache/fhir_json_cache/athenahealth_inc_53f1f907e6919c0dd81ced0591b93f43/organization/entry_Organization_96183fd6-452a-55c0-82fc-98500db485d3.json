@@ -18,15 +18,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760909444"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629595236"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1528585296"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1760909444"
       }
     ],
     "address": [
@@ -40,11 +40,19 @@
       },
       {
         "line": [
-          "14 Research Pl"
+          "14 Research Place"
         ],
         "city": "NORTH CHELMSFORD",
         "state": "MA",
-        "postalCode": "01863-2412"
+        "postalCode": "01863-2460"
+      },
+      {
+        "line": [
+          "1 UNIVERSITY AVE"
+        ],
+        "city": "LOWELL",
+        "state": "MA",
+        "postalCode": "01854-2827"
       },
       {
         "line": [
@@ -53,14 +61,6 @@
         "city": "NASHUA",
         "state": "NH",
         "postalCode": "03062-5701"
-      },
-      {
-        "line": [
-          "14 Research Place"
-        ],
-        "city": "NORTH CHELMSFORD",
-        "state": "MA",
-        "postalCode": "01863-2460"
       },
       {
         "line": [
@@ -73,35 +73,11 @@
       },
       {
         "line": [
-          "1 UNIVERSITY AVE"
-        ],
-        "city": "LOWELL",
-        "state": "MA",
-        "postalCode": "01854-2827"
-      },
-      {
-        "line": [
           "295 varnum ave"
         ],
         "city": "LOWELL",
         "state": "MA",
         "postalCode": "01854-2134"
-      },
-      {
-        "line": [
-          "151 MAIN ST"
-        ],
-        "city": "SHREWSBURY",
-        "state": "MA",
-        "postalCode": "01545-2101"
-      },
-      {
-        "line": [
-          "14 Research Pl"
-        ],
-        "city": "NORTH CHELMSFORD",
-        "state": "MA",
-        "postalCode": "01863-2414"
       },
       {
         "line": [
@@ -128,6 +104,30 @@
         "city": "SALEM",
         "state": "NH",
         "postalCode": "03079-2840"
+      },
+      {
+        "line": [
+          "14 Research Pl"
+        ],
+        "city": "NORTH CHELMSFORD",
+        "state": "MA",
+        "postalCode": "01863-2412"
+      },
+      {
+        "line": [
+          "14 Research Pl"
+        ],
+        "city": "NORTH CHELMSFORD",
+        "state": "MA",
+        "postalCode": "01863-2414"
+      },
+      {
+        "line": [
+          "151 MAIN ST"
+        ],
+        "city": "SHREWSBURY",
+        "state": "MA",
+        "postalCode": "01545-2101"
       }
     ],
     "extension": [

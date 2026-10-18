@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295397032"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1104386655"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861054744"
+        "value": "1871801688"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,17 +26,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871801688"
+        "value": "1295397032"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861054744"
       }
     ],
     "address": [
       {
         "line": [
-          "42 Summer Street, Suite 201"
+          "121 Lincoln Street, 1st Floor"
         ],
-        "city": "PITTSFIELD",
+        "city": "WORCESTER",
         "state": "MA",
-        "postalCode": "01201-4697"
+        "postalCode": "01605-2429"
       },
       {
         "line": [
@@ -49,30 +49,6 @@
         "city": "WEST SPRINGFIELD",
         "state": "MA",
         "postalCode": "01089-3317"
-      },
-      {
-        "line": [
-          "725 North St"
-        ],
-        "city": "PITTSFIELD",
-        "state": "MA",
-        "postalCode": "01201-4109"
-      },
-      {
-        "line": [
-          "489 Bernardston Road"
-        ],
-        "city": "GREENFIELD",
-        "state": "MA",
-        "postalCode": "01301-1238"
-      },
-      {
-        "line": [
-          "121 Lincoln Street, 1st Floor"
-        ],
-        "city": "WORCESTER",
-        "state": "MA",
-        "postalCode": "01605-2429"
       },
       {
         "line": [
@@ -85,20 +61,11 @@
       },
       {
         "line": [
-          "938 South Bradford Street"
+          "42 Summer Street, Suite 201"
         ],
-        "city": "DOVER",
-        "state": "DE",
-        "postalCode": "19904-4139"
-      },
-      {
-        "line": [
-          "4421 Roosevelt Blvd",
-          "Suite A"
-        ],
-        "city": "MIDDLETOWN",
-        "state": "OH",
-        "postalCode": "45044-9023"
+        "city": "PITTSFIELD",
+        "state": "MA",
+        "postalCode": "01201-4697"
       },
       {
         "line": [
@@ -116,6 +83,39 @@
         "city": "NORTH ADAMS",
         "state": "MA",
         "postalCode": "01247-2538"
+      },
+      {
+        "line": [
+          "938 South Bradford Street"
+        ],
+        "city": "DOVER",
+        "state": "DE",
+        "postalCode": "19904-4139"
+      },
+      {
+        "line": [
+          "489 Bernardston Road"
+        ],
+        "city": "GREENFIELD",
+        "state": "MA",
+        "postalCode": "01301-1238"
+      },
+      {
+        "line": [
+          "725 North St"
+        ],
+        "city": "PITTSFIELD",
+        "state": "MA",
+        "postalCode": "01201-4109"
+      },
+      {
+        "line": [
+          "4421 Roosevelt Blvd",
+          "Suite A"
+        ],
+        "city": "MIDDLETOWN",
+        "state": "OH",
+        "postalCode": "45044-9023"
       },
       {
         "line": [

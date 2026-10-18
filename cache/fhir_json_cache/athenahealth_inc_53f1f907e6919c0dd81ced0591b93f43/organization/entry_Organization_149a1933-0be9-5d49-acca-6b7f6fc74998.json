@@ -14,22 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447524392"
+        "value": "1598958431"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598958431"
+        "value": "1447524392"
       }
     ],
     "address": [
       {
         "line": [
-          "844 Central Blvd",
-          "Suite 140"
+          "707 W Sesame Drive"
+        ],
+        "city": "HARLINGEN",
+        "state": "TX",
+        "postalCode": "78550-7993"
+      },
+      {
+        "line": [
+          "320 Lorenaly Dr"
         ],
         "city": "BROWNSVILLE",
         "state": "TX",
-        "postalCode": "78520-7535"
+        "postalCode": "78526-4060"
       },
       {
         "line": [
@@ -49,19 +56,12 @@
       },
       {
         "line": [
-          "320 Lorenaly Dr"
+          "844 Central Blvd",
+          "Suite 140"
         ],
         "city": "BROWNSVILLE",
         "state": "TX",
-        "postalCode": "78526-4060"
-      },
-      {
-        "line": [
-          "707 W Sesame Drive"
-        ],
-        "city": "HARLINGEN",
-        "state": "TX",
-        "postalCode": "78550-7993"
+        "postalCode": "78520-7535"
       }
     ],
     "extension": [

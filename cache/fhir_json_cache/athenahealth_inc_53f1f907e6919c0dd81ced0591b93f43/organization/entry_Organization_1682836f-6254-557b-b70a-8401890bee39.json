@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881401552"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1801501622"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114689007"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -31,9 +23,25 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1174238992"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881401552"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114689007"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1303 WOODBURY AVE"
+        ],
+        "city": "PORTSMOUTH",
+        "state": "NH",
+        "postalCode": "03801-3217"
+      },
       {
         "line": [
           "750 LAFAYETTE RD"
@@ -50,14 +58,6 @@
         "city": "PORTSMOUTH",
         "state": "NH",
         "postalCode": "03801-7105"
-      },
-      {
-        "line": [
-          "1303 WOODBURY AVE"
-        ],
-        "city": "PORTSMOUTH",
-        "state": "NH",
-        "postalCode": "03801-3217"
       }
     ],
     "extension": [

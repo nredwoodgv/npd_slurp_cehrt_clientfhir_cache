@@ -82,6 +82,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316720626"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1706590962"
       },
       {
@@ -690,10 +694,6 @@
       },
       {
         "system": "phone",
-        "value": "(239)947-3092"
-      },
-      {
-        "system": "phone",
         "value": "(239)561-9622"
       },
       {
@@ -787,6 +787,18 @@
       {
         "system": "phone",
         "value": "(727)216-1141"
+      },
+      {
+        "system": "phone",
+        "value": "(727)397-9641"
+      },
+      {
+        "system": "phone",
+        "value": "(239)947-3092"
+      },
+      {
+        "system": "phone",
+        "value": "(239)343-9400"
       },
       {
         "system": "phone",
@@ -1123,10 +1135,6 @@
       {
         "system": "phone",
         "value": "(239)281-3870"
-      },
-      {
-        "system": "phone",
-        "value": "(727)397-9641"
       },
       {
         "system": "phone",
@@ -3330,17 +3338,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "9776 Bonita Beach Rd.,SE, Suite 201A"
-        ],
-        "city": "Bonita Springs",
-        "state": "FL",
-        "postalCode": "34135",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "2848 Center Pointe Drive- 1st Floor"
         ],
         "city": "Fort Myers",
@@ -3662,6 +3659,40 @@
         "city": "Clearwater",
         "state": "FL",
         "postalCode": "33761",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "8787 Bryan Dairy Rd.",
+          "Suite 210"
+        ],
+        "city": "Largo",
+        "state": "Fl",
+        "postalCode": "33777",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "9776 Bonita Beach Rd.,SE, Suite 201A"
+        ],
+        "city": "Bonita Springs",
+        "state": "FL",
+        "postalCode": "34135",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "8960 Colonial Center Drive"
+        ],
+        "city": "Fort Myers",
+        "state": "FL",
+        "postalCode": "33905",
         "country": "USA"
       },
       {
@@ -7769,17 +7800,6 @@
         "city": "fort Myers",
         "state": "FL",
         "postalCode": "33916",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "8787 Bryan Dairy Rd."
-        ],
-        "city": "Largo",
-        "state": "Fl",
-        "postalCode": "33777",
         "country": "USA"
       },
       {

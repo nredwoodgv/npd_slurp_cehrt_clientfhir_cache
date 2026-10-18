@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841234671"
+        "value": "1063712701"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063712701"
+        "value": "1841234671"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1908 N MAIN ST SE 120"
-        ],
-        "city": "HAZARD",
-        "state": "KY",
-        "postalCode": "41701-2503"
-      },
       {
         "line": [
           "181 ROY CAMPBELL DR"
@@ -37,6 +29,14 @@
         "city": "HAZARD",
         "state": "KY",
         "postalCode": "41701-9407"
+      },
+      {
+        "line": [
+          "1908 N MAIN ST SE 120"
+        ],
+        "city": "HAZARD",
+        "state": "KY",
+        "postalCode": "41701-2503"
       },
       {
         "line": [

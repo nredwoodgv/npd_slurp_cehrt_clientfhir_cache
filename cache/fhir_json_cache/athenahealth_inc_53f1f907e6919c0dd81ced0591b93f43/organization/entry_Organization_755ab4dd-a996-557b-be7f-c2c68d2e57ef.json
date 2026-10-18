@@ -14,7 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1407194319"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467884262"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1942508379"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1154794261"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962752998"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -23,40 +39,16 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285614834"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407194319"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942508379"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467884262"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962752998"
       }
     ],
     "address": [
       {
         "line": [
-          "386 Washington Street"
+          "133 Littleton Road"
         ],
-        "city": "WELLESLEY HILLS",
+        "city": "WESTFORD",
         "state": "MA",
-        "postalCode": "02481-6213"
-      },
-      {
-        "line": [
-          "54 Baker Ave. Ext. Suite 305"
-        ],
-        "city": "CONCORD",
-        "state": "MA",
-        "postalCode": "01742-2132"
+        "postalCode": "01886-3115"
       },
       {
         "line": [
@@ -68,11 +60,11 @@
       },
       {
         "line": [
-          "133 Littleton Road"
+          "54 Baker Ave. Ext. Suite 305"
         ],
-        "city": "WESTFORD",
+        "city": "CONCORD",
         "state": "MA",
-        "postalCode": "01886-3115"
+        "postalCode": "01742-2132"
       },
       {
         "line": [
@@ -81,6 +73,14 @@
         "city": "MARLBOROUGH",
         "state": "MA",
         "postalCode": "01752-3200"
+      },
+      {
+        "line": [
+          "386 Washington Street"
+        ],
+        "city": "WELLESLEY HILLS",
+        "state": "MA",
+        "postalCode": "02481-6213"
       }
     ],
     "extension": [

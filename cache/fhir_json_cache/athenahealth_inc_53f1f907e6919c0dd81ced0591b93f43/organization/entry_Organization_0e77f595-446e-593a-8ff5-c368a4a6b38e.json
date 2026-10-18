@@ -14,14 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467470906"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215650528"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1366469132"
       },
       {
@@ -35,9 +27,25 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629003470"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215650528"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467470906"
       }
     ],
     "address": [
+      {
+        "line": [
+          "200 E FAIRMAN AVE"
+        ],
+        "city": "WATSEKA",
+        "state": "IL",
+        "postalCode": "60970-1644"
+      },
       {
         "line": [
           "200 FAIRMAN"
@@ -48,31 +56,7 @@
       },
       {
         "line": [
-          "200 LAIRD LANE"
-        ],
-        "city": "WATSEKA",
-        "state": "IL",
-        "postalCode": "60970-1644"
-      },
-      {
-        "line": [
-          "200 LAIRD LANE"
-        ],
-        "city": "WATSEKA",
-        "state": "IL",
-        "postalCode": "60970-7568"
-      },
-      {
-        "line": [
-          "200 FAIRMAN AVE"
-        ],
-        "city": "WATSEKA",
-        "state": "IL",
-        "postalCode": "60970-1644"
-      },
-      {
-        "line": [
-          "200 E FAIRMAN AVE"
+          "200 Fairman"
         ],
         "city": "WATSEKA",
         "state": "IL",
@@ -88,6 +72,14 @@
       },
       {
         "line": [
+          "200 FAIRMAN AVE"
+        ],
+        "city": "WATSEKA",
+        "state": "IL",
+        "postalCode": "60970-1644"
+      },
+      {
+        "line": [
           "200 E Fairman Ave"
         ],
         "city": "WATSEKA",
@@ -96,7 +88,7 @@
       },
       {
         "line": [
-          "200 Fairman Ave."
+          "200 LAIRD LANE"
         ],
         "city": "WATSEKA",
         "state": "IL",
@@ -112,7 +104,23 @@
       },
       {
         "line": [
-          "200 Fairman"
+          "701 E ORANGE ST"
+        ],
+        "city": "HOOPESTON",
+        "state": "IL",
+        "postalCode": "60942-1801"
+      },
+      {
+        "line": [
+          "200 LAIRD LANE"
+        ],
+        "city": "WATSEKA",
+        "state": "IL",
+        "postalCode": "60970-7568"
+      },
+      {
+        "line": [
+          "200 Fairman Ave."
         ],
         "city": "WATSEKA",
         "state": "IL",
@@ -125,14 +133,6 @@
         "city": "WATSEKA",
         "state": "IL",
         "postalCode": "60970-1644"
-      },
-      {
-        "line": [
-          "701 E ORANGE ST"
-        ],
-        "city": "HOOPESTON",
-        "state": "IL",
-        "postalCode": "60942-1801"
       }
     ],
     "extension": [

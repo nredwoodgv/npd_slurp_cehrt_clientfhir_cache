@@ -14,29 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689683666"
+        "value": "1194909556"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194909556"
+        "value": "1689683666"
       }
     ],
     "address": [
       {
         "line": [
-          "2435 FOREST DR"
+          "201 W 9TH NORTH ST"
         ],
-        "city": "COLUMBIA",
+        "city": "SUMMERVILLE",
         "state": "SC",
-        "postalCode": "29204-2026"
-      },
-      {
-        "line": [
-          "1730 Saint Julian Place"
-        ],
-        "city": "COLUMBIA",
-        "state": "SC",
-        "postalCode": "29204-2410"
+        "postalCode": "29483-6721"
       },
       {
         "line": [
@@ -48,6 +40,14 @@
       },
       {
         "line": [
+          "2435 FOREST DR"
+        ],
+        "city": "COLUMBIA",
+        "state": "SC",
+        "postalCode": "29204-2026"
+      },
+      {
+        "line": [
           "2260 WRIGHTSBORO RD"
         ],
         "city": "AUGUSTA",
@@ -56,11 +56,11 @@
       },
       {
         "line": [
-          "201 W 9TH NORTH ST"
+          "1730 Saint Julian Place"
         ],
-        "city": "SUMMERVILLE",
+        "city": "COLUMBIA",
         "state": "SC",
-        "postalCode": "29483-6721"
+        "postalCode": "29204-2410"
       }
     ],
     "extension": [

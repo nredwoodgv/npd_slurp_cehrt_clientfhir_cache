@@ -14,46 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487067260"
+        "value": "1598177065"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598177065"
+        "value": "1487067260"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1100 Lake Shore Rd"
-        ],
-        "city": "Grosse Pointe Shores",
-        "state": "MI",
-        "postalCode": "48236-4106"
-      },
-      {
-        "line": [
-          "3770 S Rochester Rd"
-        ],
-        "city": "Rochester Hills",
-        "state": "MI",
-        "postalCode": "48307-5130"
-      },
-      {
-        "line": [
-          "18201 23 Mile Rd"
-        ],
-        "city": "Macomb",
-        "state": "MI",
-        "postalCode": "48042-4110"
-      },
-      {
-        "line": [
-          "29451 Greenfield Rd"
-        ],
-        "city": "Southfield",
-        "state": "MI",
-        "postalCode": "48076-2251"
-      },
       {
         "line": [
           "21601 SCHOENHERR RD"
@@ -69,6 +37,38 @@
         "city": "TROY",
         "state": "MI",
         "postalCode": "48084-1417"
+      },
+      {
+        "line": [
+          "29451 Greenfield Rd"
+        ],
+        "city": "Southfield",
+        "state": "MI",
+        "postalCode": "48076-2251"
+      },
+      {
+        "line": [
+          "3770 S Rochester Rd"
+        ],
+        "city": "Rochester Hills",
+        "state": "MI",
+        "postalCode": "48307-5130"
+      },
+      {
+        "line": [
+          "1100 Lake Shore Rd"
+        ],
+        "city": "Grosse Pointe Shores",
+        "state": "MI",
+        "postalCode": "48236-4106"
+      },
+      {
+        "line": [
+          "18201 23 Mile Rd"
+        ],
+        "city": "Macomb",
+        "state": "MI",
+        "postalCode": "48042-4110"
       }
     ],
     "extension": [

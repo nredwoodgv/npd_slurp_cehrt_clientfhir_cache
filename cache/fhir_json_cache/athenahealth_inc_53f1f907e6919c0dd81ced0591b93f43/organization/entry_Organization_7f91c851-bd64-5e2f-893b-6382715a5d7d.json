@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215446190"
+        "value": "1366005183"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366005183"
+        "value": "1215446190"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1530 Breezeport Way",
-          "Suite 100"
-        ],
-        "city": "SUFFOLK",
-        "state": "VA",
-        "postalCode": "23435-3753"
-      },
       {
         "line": [
           "1530 Breezeport Way",
@@ -44,6 +35,15 @@
         "line": [
           "1530 Breezeport Way",
           "STE 100"
+        ],
+        "city": "SUFFOLK",
+        "state": "VA",
+        "postalCode": "23435-3753"
+      },
+      {
+        "line": [
+          "1530 Breezeport Way",
+          "Suite 100"
         ],
         "city": "SUFFOLK",
         "state": "VA",

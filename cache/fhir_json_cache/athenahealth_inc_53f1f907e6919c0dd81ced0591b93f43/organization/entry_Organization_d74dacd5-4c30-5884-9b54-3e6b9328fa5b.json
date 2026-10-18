@@ -14,7 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386716520"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457663197"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1376820605"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1023088168"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,19 +38,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457663197"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1700831500"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023088168"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386716520"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -48,19 +48,19 @@
     "address": [
       {
         "line": [
-          "47601 Grand River Ave"
-        ],
-        "city": "NOVI",
-        "state": "MI",
-        "postalCode": "48374-1200"
-      },
-      {
-        "line": [
           "16001 W 9 Mile Rd"
         ],
         "city": "SOUTHFIELD",
         "state": "MI",
         "postalCode": "48075-4818"
+      },
+      {
+        "line": [
+          "47601 Grand River Ave"
+        ],
+        "city": "NOVI",
+        "state": "MI",
+        "postalCode": "48374-1200"
       }
     ],
     "extension": [

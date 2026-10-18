@@ -4,16 +4,12 @@
     "id": "363",
     "identifier": [
       {
-        "system": "https://github.com/synthetichealth/synthea",
-        "value": "56090ab7-1f97-37ff-a434-194f9c6e5510"
-      },
-      {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "FI"
+        "value": "1003816190"
       },
       {
-        "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "ca-peiVCI"
+        "system": "https://api-datamanager.carecloud.com/fhir/sid/talkehr/practice",
+        "value": "363"
       }
     ],
     "active": true,
@@ -25,17 +21,25 @@
             "code": "prov",
             "display": "Healthcare Provider"
           }
-        ],
-        "text": "Healthcare Provider"
+        ]
       }
     ],
     "name": "CARL GINSBERG, DPM",
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "2158875815",
+        "use": "work"
+      }
+    ],
     "address": [
       {
+        "text": "145 GLENEAGLES DRIVE, BLUE BELL, PA 194223242, MONTGOMERY",
         "line": [
           "145 GLENEAGLES DRIVE"
         ],
         "city": "BLUE BELL",
+        "district": "MONTGOMERY",
         "state": "PA",
         "postalCode": "194223242",
         "country": "US"

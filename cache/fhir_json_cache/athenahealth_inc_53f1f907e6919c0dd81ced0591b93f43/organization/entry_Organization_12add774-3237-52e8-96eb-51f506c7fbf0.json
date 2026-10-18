@@ -14,21 +14,47 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558344978"
+        "value": "1417987124"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417987124"
+        "value": "1558344978"
       }
     ],
     "address": [
       {
         "line": [
-          "4203 Belfort Rd Suite 315"
+          "2300 Park Ave",
+          "Ste 206 Room 121"
         ],
-        "city": "JACKSONVILLE",
+        "city": "ORANGE PARK",
         "state": "FL",
-        "postalCode": "32216-1418"
+        "postalCode": "32073-5572"
+      },
+      {
+        "line": [
+          "551616 US HIGHWAY 1"
+        ],
+        "city": "HILLIARD",
+        "state": "FL",
+        "postalCode": "32046-8281"
+      },
+      {
+        "line": [
+          "1 Shircliff Way"
+        ],
+        "city": "Jacksonville",
+        "state": "FL",
+        "postalCode": "32204-4748"
+      },
+      {
+        "line": [
+          "8076 Gate Parkway West",
+          "Suite 202"
+        ],
+        "city": "Jacksonville",
+        "state": "FL",
+        "postalCode": "32216-3685"
       },
       {
         "line": [
@@ -37,6 +63,32 @@
         "city": "Jacksonville",
         "state": "FL",
         "postalCode": "32204-4735"
+      },
+      {
+        "line": [
+          "3 Shircliff Way, Suite 526"
+        ],
+        "city": "Jacksonville",
+        "state": "FL",
+        "postalCode": "32204-4777"
+      },
+      {
+        "line": [
+          "1670 St Vincents Way",
+          "Education Room A/B"
+        ],
+        "city": "Middleburg",
+        "state": "FL",
+        "postalCode": "32068-8447"
+      },
+      {
+        "line": [
+          "1670 St. Vincent's Way",
+          "Education Room A/B"
+        ],
+        "city": "MIDDLEBURG",
+        "state": "FL",
+        "postalCode": "32068-8447"
       },
       {
         "line": [
@@ -49,12 +101,11 @@
       },
       {
         "line": [
-          "2300 Park Ave",
-          "Ste 206 Room 121"
+          "4203 Belfort Rd Suite 315"
         ],
-        "city": "ORANGE PARK",
+        "city": "JACKSONVILLE",
         "state": "FL",
-        "postalCode": "32073-5572"
+        "postalCode": "32216-1418"
       },
       {
         "line": [
@@ -71,57 +122,6 @@
         "city": "Jacksonville",
         "state": "FL",
         "postalCode": "32204-4709"
-      },
-      {
-        "line": [
-          "3 Shircliff Way, Suite 526"
-        ],
-        "city": "Jacksonville",
-        "state": "FL",
-        "postalCode": "32204-4777"
-      },
-      {
-        "line": [
-          "1670 St. Vincent's Way",
-          "Education Room A/B"
-        ],
-        "city": "MIDDLEBURG",
-        "state": "FL",
-        "postalCode": "32068-8447"
-      },
-      {
-        "line": [
-          "1 Shircliff Way"
-        ],
-        "city": "Jacksonville",
-        "state": "FL",
-        "postalCode": "32204-4748"
-      },
-      {
-        "line": [
-          "551616 US HIGHWAY 1"
-        ],
-        "city": "HILLIARD",
-        "state": "FL",
-        "postalCode": "32046-8281"
-      },
-      {
-        "line": [
-          "1670 St Vincents Way",
-          "Education Room A/B"
-        ],
-        "city": "Middleburg",
-        "state": "FL",
-        "postalCode": "32068-8447"
-      },
-      {
-        "line": [
-          "8076 Gate Parkway West",
-          "Suite 202"
-        ],
-        "city": "Jacksonville",
-        "state": "FL",
-        "postalCode": "32216-3685"
       }
     ],
     "extension": [

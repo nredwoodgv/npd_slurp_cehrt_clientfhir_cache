@@ -14,35 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215948096"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1245669514"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619928165"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730790551"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326099763"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306363007"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619494366"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952177446"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588180475"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,11 +26,39 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962453308"
+        "value": "1326099763"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730790551"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306363007"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588180475"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619494366"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1144271586"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952177446"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619928165"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962453308"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,14 +70,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982963344"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912495375"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1528336302"
       },
       {
@@ -82,11 +78,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013346113"
+        "value": "1982963344"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841629946"
+        "value": "1912495375"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -94,26 +90,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215948096"
+        "value": "1841629946"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013346113"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1655 McGill Ave"
-        ],
-        "city": "Mobile",
-        "state": "AL",
-        "postalCode": "36604-1299"
-      },
-      {
-        "line": [
-          "4451 Bayou Blvd"
-        ],
-        "city": "Pensacola",
-        "state": "FL",
-        "postalCode": "32504-2601"
-      },
       {
         "line": [
           "4451 Bayou Boulevard"
@@ -121,30 +105,6 @@
         "city": "PENSACOLA",
         "state": "FL",
         "postalCode": "32504-2601"
-      },
-      {
-        "line": [
-          "1110 Gulf Breeze Pkwy"
-        ],
-        "city": "Gulf Breeze",
-        "state": "FL",
-        "postalCode": "32561-4883"
-      },
-      {
-        "line": [
-          "3871 E Hwy 98 Ste 201"
-        ],
-        "city": "Port Saint Joe",
-        "state": "FL",
-        "postalCode": "32456-5318"
-      },
-      {
-        "line": [
-          "6701 Airport Blvd Ste A206"
-        ],
-        "city": "Mobile",
-        "state": "AL",
-        "postalCode": "36608-3763"
       },
       {
         "line": [
@@ -156,6 +116,22 @@
       },
       {
         "line": [
+          "1110 Gulf Breeze Pkwy"
+        ],
+        "city": "Gulf Breeze",
+        "state": "FL",
+        "postalCode": "32561-4883"
+      },
+      {
+        "line": [
+          "1655 McGill Ave"
+        ],
+        "city": "Mobile",
+        "state": "AL",
+        "postalCode": "36604-1299"
+      },
+      {
+        "line": [
           "123"
         ],
         "city": "PENSACOLA",
@@ -164,19 +140,19 @@
       },
       {
         "line": [
-          "6701 Airport Blvd"
+          "6701 Airport Blvd Ste A206"
         ],
         "city": "Mobile",
         "state": "AL",
-        "postalCode": "36608-6775"
+        "postalCode": "36608-3763"
       },
       {
         "line": [
-          "123 Baptist Way"
+          "3871 E Hwy 98 Ste 201"
         ],
-        "city": "Pensacola",
+        "city": "Port Saint Joe",
         "state": "FL",
-        "postalCode": "32503-2254"
+        "postalCode": "32456-5318"
       },
       {
         "line": [
@@ -188,6 +164,14 @@
       },
       {
         "line": [
+          "5 MOBILE INFIRMARY CIRCLE"
+        ],
+        "city": "MOBILE",
+        "state": "AL",
+        "postalCode": "36607-3513"
+      },
+      {
+        "line": [
           "5151 N 9th Avenue"
         ],
         "city": "PENSACOLA",
@@ -196,11 +180,27 @@
       },
       {
         "line": [
-          "5 MOBILE INFIRMARY CIRCLE"
+          "4451 Bayou Blvd"
         ],
-        "city": "MOBILE",
+        "city": "Pensacola",
+        "state": "FL",
+        "postalCode": "32504-2601"
+      },
+      {
+        "line": [
+          "123 Baptist Way"
+        ],
+        "city": "Pensacola",
+        "state": "FL",
+        "postalCode": "32503-2254"
+      },
+      {
+        "line": [
+          "6701 Airport Blvd"
+        ],
+        "city": "Mobile",
         "state": "AL",
-        "postalCode": "36607-3513"
+        "postalCode": "36608-6775"
       }
     ],
     "extension": [

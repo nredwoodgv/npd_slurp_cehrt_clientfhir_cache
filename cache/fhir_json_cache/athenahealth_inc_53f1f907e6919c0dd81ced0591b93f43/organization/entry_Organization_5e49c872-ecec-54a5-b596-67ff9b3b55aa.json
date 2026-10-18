@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659800142"
+        "value": "1891113221"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891113221"
+        "value": "1659800142"
       }
     ],
     "address": [
@@ -29,14 +29,6 @@
         "city": "WESTMINSTER",
         "state": "MD",
         "postalCode": "21158-4336"
-      },
-      {
-        "line": [
-          "127 Stoner Ave"
-        ],
-        "city": "WESTMINSTER",
-        "state": "MD",
-        "postalCode": "21157-5344"
       },
       {
         "line": [
@@ -54,6 +46,14 @@
         "city": "WESTMINSTER",
         "state": "MD",
         "postalCode": "21157-5726"
+      },
+      {
+        "line": [
+          "127 Stoner Ave"
+        ],
+        "city": "WESTMINSTER",
+        "state": "MD",
+        "postalCode": "21157-5344"
       }
     ],
     "extension": [

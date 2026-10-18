@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639888282"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629869995"
       },
       {
@@ -27,6 +23,10 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1326817693"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1639888282"
       }
     ],
     "address": [
@@ -48,46 +48,6 @@
       },
       {
         "line": [
-          "10988 Bennett State Road"
-        ],
-        "city": "FORESTVILLE",
-        "state": "NY",
-        "postalCode": "14062-1234"
-      },
-      {
-        "line": [
-          "159 Buffalo Street"
-        ],
-        "city": "JAMESTOWN",
-        "state": "NY",
-        "postalCode": "14701-1234"
-      },
-      {
-        "line": [
-          "1005 Walnut Street"
-        ],
-        "city": "ELMIRA",
-        "state": "NY",
-        "postalCode": "14901-1007"
-      },
-      {
-        "line": [
-          "107 INSTITUTE ST"
-        ],
-        "city": "JAMESTOWN",
-        "state": "NY",
-        "postalCode": "14701-1234"
-      },
-      {
-        "line": [
-          "350 E. 2nd Street"
-        ],
-        "city": "JAMESTOWN",
-        "state": "NY",
-        "postalCode": "14701-1234"
-      },
-      {
-        "line": [
           "75 East 3rd Street"
         ],
         "city": "DUNKIRK",
@@ -96,53 +56,11 @@
       },
       {
         "line": [
-          "107 Institute Street"
-        ],
-        "city": "JAMESTOWN",
-        "state": "NY",
-        "postalCode": "14701-6628"
-      },
-      {
-        "line": [
-          "2646 W. State Street"
-        ],
-        "city": "OLEAN",
-        "state": "NY",
-        "postalCode": "14760-1234"
-      },
-      {
-        "line": [
-          "75 East 3rd Street"
-        ],
-        "city": "DUNKIRK",
-        "state": "NY",
-        "postalCode": "14048-2137"
-      },
-      {
-        "line": [
           "1118 Charles Street"
         ],
         "city": "ELMIRA",
         "state": "NY",
         "postalCode": "14904-1234"
-      },
-      {
-        "line": [
-          "Mayville Professional Bldg",
-          "99 E Chautauqua Avenue"
-        ],
-        "city": "MAYVILLE",
-        "state": "NY",
-        "postalCode": "14757-1038"
-      },
-      {
-        "line": [
-          "15 S Main Street",
-          "ste 220"
-        ],
-        "city": "JAMESTOWN",
-        "state": "NY",
-        "postalCode": "14701-6629"
       },
       {
         "line": [
@@ -162,12 +80,44 @@
       },
       {
         "line": [
-          "75 East Third Street",
-          "Dunkirk"
+          "Mayville Professional Bldg",
+          "99 E Chautauqua Avenue"
         ],
-        "city": "DUNKIRK",
+        "city": "MAYVILLE",
         "state": "NY",
-        "postalCode": "14048-2136"
+        "postalCode": "14757-1038"
+      },
+      {
+        "line": [
+          "10988 Bennett State Road"
+        ],
+        "city": "FORESTVILLE",
+        "state": "NY",
+        "postalCode": "14062-1234"
+      },
+      {
+        "line": [
+          "1005 Walnut Street"
+        ],
+        "city": "ELMIRA",
+        "state": "NY",
+        "postalCode": "14901-1007"
+      },
+      {
+        "line": [
+          "107 Institute Street"
+        ],
+        "city": "JAMESTOWN",
+        "state": "NY",
+        "postalCode": "14701-6628"
+      },
+      {
+        "line": [
+          "2646 W. State Street"
+        ],
+        "city": "OLEAN",
+        "state": "NY",
+        "postalCode": "14760-1234"
       },
       {
         "line": [
@@ -176,6 +126,23 @@
         "city": "DUNKIRK",
         "state": "NY",
         "postalCode": "14048-2239"
+      },
+      {
+        "line": [
+          "15 S Main Street",
+          "ste 220"
+        ],
+        "city": "JAMESTOWN",
+        "state": "NY",
+        "postalCode": "14701-6629"
+      },
+      {
+        "line": [
+          "75 East 3rd Street"
+        ],
+        "city": "DUNKIRK",
+        "state": "NY",
+        "postalCode": "14048-2137"
       },
       {
         "line": [
@@ -192,6 +159,39 @@
         "city": "DUNKIRK",
         "state": "NY",
         "postalCode": "14048-1234"
+      },
+      {
+        "line": [
+          "159 Buffalo Street"
+        ],
+        "city": "JAMESTOWN",
+        "state": "NY",
+        "postalCode": "14701-1234"
+      },
+      {
+        "line": [
+          "75 East Third Street",
+          "Dunkirk"
+        ],
+        "city": "DUNKIRK",
+        "state": "NY",
+        "postalCode": "14048-2136"
+      },
+      {
+        "line": [
+          "107 INSTITUTE ST"
+        ],
+        "city": "JAMESTOWN",
+        "state": "NY",
+        "postalCode": "14701-1234"
+      },
+      {
+        "line": [
+          "350 E. 2nd Street"
+        ],
+        "city": "JAMESTOWN",
+        "state": "NY",
+        "postalCode": "14701-1234"
       }
     ],
     "extension": [

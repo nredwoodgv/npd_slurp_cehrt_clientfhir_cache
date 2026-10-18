@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
+        "value": "1215999511"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
+        "value": "1962602300"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,19 +30,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730484031"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
+        "value": "1124080320"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
+        "value": "1649232984"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881656247"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -56,11 +56,19 @@
     "address": [
       {
         "line": [
-          "1680 Antilley Road Suite 125"
+          "1680 ANTILLEY RD STE 270"
         ],
         "city": "ABILENE",
         "state": "TX",
-        "postalCode": "79606-5278"
+        "postalCode": "79606-5247"
+      },
+      {
+        "line": [
+          "6300 Regional Plaza #875"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79606-5251"
       },
       {
         "line": [
@@ -88,27 +96,19 @@
       },
       {
         "line": [
-          "1680 ANTILLEY RD STE 270"
+          "1680 Antilley Road Suite 125"
         ],
         "city": "ABILENE",
         "state": "TX",
-        "postalCode": "79606-5247"
+        "postalCode": "79606-5278"
       },
       {
         "line": [
-          "6300 Regional Plaza #875"
+          "301 Jenny George Lane"
         ],
-        "city": "ABILENE",
+        "city": "SWEETWATER",
         "state": "TX",
-        "postalCode": "79606-5251"
-      },
-      {
-        "line": [
-          "1680 ANTILLEY RD STE 300"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79606-5247"
+        "postalCode": "79556-7152"
       },
       {
         "line": [
@@ -120,11 +120,11 @@
       },
       {
         "line": [
-          "301 Jenny George Lane"
+          "1680 ANTILLEY RD STE 300"
         ],
-        "city": "SWEETWATER",
+        "city": "ABILENE",
         "state": "TX",
-        "postalCode": "79556-7152"
+        "postalCode": "79606-5247"
       }
     ],
     "extension": [

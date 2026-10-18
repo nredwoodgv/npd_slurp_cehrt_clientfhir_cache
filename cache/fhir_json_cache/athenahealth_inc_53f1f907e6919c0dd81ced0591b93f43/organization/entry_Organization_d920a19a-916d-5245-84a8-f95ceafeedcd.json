@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861550972"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1750565172"
       },
       {
@@ -23,20 +27,16 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1174707574"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861550972"
       }
     ],
     "address": [
       {
         "line": [
-          "228 THOMASMORE PKWY"
+          "1230 West Kemper Road"
         ],
-        "city": "FT MITCHELL",
-        "state": "KY",
-        "postalCode": "41017-3424"
+        "city": "CINCINNATI",
+        "state": "OH",
+        "postalCode": "45240-1618"
       },
       {
         "line": [
@@ -48,11 +48,11 @@
       },
       {
         "line": [
-          "1230 West Kemper Road"
+          "228 THOMASMORE PKWY"
         ],
-        "city": "CINCINNATI",
-        "state": "OH",
-        "postalCode": "45240-1618"
+        "city": "FT MITCHELL",
+        "state": "KY",
+        "postalCode": "41017-3424"
       },
       {
         "line": [

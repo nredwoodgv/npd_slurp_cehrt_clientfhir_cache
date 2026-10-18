@@ -4,16 +4,12 @@
     "id": "182",
     "identifier": [
       {
-        "system": "https://github.com/synthetichealth/synthea",
-        "value": "56090ab7-1f97-37ff-a434-194f9c6e5510"
-      },
-      {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "FI"
+        "value": "1558414631"
       },
       {
-        "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "ca-peiVCI"
+        "system": "https://api-datamanager.carecloud.com/fhir/sid/talkehr/practice",
+        "value": "182"
       }
     ],
     "active": true,
@@ -25,17 +21,25 @@
             "code": "prov",
             "display": "Healthcare Provider"
           }
-        ],
-        "text": "Healthcare Provider"
+        ]
       }
     ],
     "name": "DOCTORS CARE ASSOCIATES, LLC",
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "9087575332",
+        "use": "work"
+      }
+    ],
     "address": [
       {
+        "text": "908 OAK TREE ROAD, SUITE L, S PLAINFIELD, NJ 070805134, MIDDLESEX",
         "line": [
           "908 OAK TREE ROAD, SUITE L"
         ],
         "city": "S PLAINFIELD",
+        "district": "MIDDLESEX",
         "state": "NJ",
         "postalCode": "070805134",
         "country": "US"

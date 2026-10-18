@@ -14,31 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013313857"
+        "value": "1013042480"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013042480"
+        "value": "1013313857"
       }
     ],
     "address": [
-      {
-        "line": [
-          "106 Pilgrim Village Dr, Suite 400"
-        ],
-        "city": "CUMMING",
-        "state": "GA",
-        "postalCode": "30040-9242"
-      },
-      {
-        "line": [
-          "998 Hospitality Way",
-          "Suite 102"
-        ],
-        "city": "ABERDEEN",
-        "state": "MD",
-        "postalCode": "21001-1757"
-      },
       {
         "line": [
           "6201 Centreville Rd."
@@ -49,12 +32,29 @@
       },
       {
         "line": [
+          "106 Pilgrim Village Dr, Suite 400"
+        ],
+        "city": "CUMMING",
+        "state": "GA",
+        "postalCode": "30040-9242"
+      },
+      {
+        "line": [
           "2022 Fairburn Road",
           " Suite D"
         ],
         "city": "DOUGLASVILLE",
         "state": "GA",
         "postalCode": "30135-1062"
+      },
+      {
+        "line": [
+          "998 Hospitality Way",
+          "Suite 102"
+        ],
+        "city": "ABERDEEN",
+        "state": "MD",
+        "postalCode": "21001-1757"
       }
     ],
     "extension": [

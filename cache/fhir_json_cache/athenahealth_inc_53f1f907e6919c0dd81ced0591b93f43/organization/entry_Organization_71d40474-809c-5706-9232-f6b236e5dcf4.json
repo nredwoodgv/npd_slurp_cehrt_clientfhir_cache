@@ -14,35 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013705391"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992397152"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063002202"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518346469"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437749678"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972193191"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396798302"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598929135"
+        "value": "1902043433"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,11 +26,39 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902043433"
+        "value": "1598929135"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396798302"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1881981033"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1518346469"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992397152"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437749678"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1972193191"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1063002202"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013705391"
       }
     ],
     "address": [
@@ -66,15 +66,7 @@
         "line": [
           "1559 Sparta St"
         ],
-        "city": "MCMINNVILLE",
-        "state": "TN",
-        "postalCode": "37110-1316"
-      },
-      {
-        "line": [
-          "1559 SPARTA STREET"
-        ],
-        "city": "MCMINNVILLE",
+        "city": "McMinnville",
         "state": "TN",
         "postalCode": "37110-1316"
       },
@@ -88,19 +80,11 @@
       },
       {
         "line": [
-          "1559 Sparta St"
-        ],
-        "city": "McMinnville",
-        "state": "TN",
-        "postalCode": "37110-1316"
-      },
-      {
-        "line": [
-          "1559 Sparta St"
+          "1559 SPARTA STREET"
         ],
         "city": "MCMINNVILLE",
         "state": "TN",
-        "postalCode": "37110-1392"
+        "postalCode": "37110-1169"
       },
       {
         "line": [
@@ -112,7 +96,7 @@
       },
       {
         "line": [
-          "1559 Sparta Street"
+          "1559 SPARTA STREET"
         ],
         "city": "MCMINNVILLE",
         "state": "TN",
@@ -120,11 +104,19 @@
       },
       {
         "line": [
-          "1559 SPARTA STREET"
+          "1559 Sparta St"
         ],
         "city": "MCMINNVILLE",
         "state": "TN",
-        "postalCode": "37110-1169"
+        "postalCode": "37110-1316"
+      },
+      {
+        "line": [
+          "1559 Sparta Street"
+        ],
+        "city": "MCMINNVILLE",
+        "state": "TN",
+        "postalCode": "37110-1316"
       },
       {
         "line": [
@@ -141,6 +133,14 @@
         "city": "MCMINNVILLE",
         "state": "TN",
         "postalCode": "37110-3614"
+      },
+      {
+        "line": [
+          "1559 Sparta St"
+        ],
+        "city": "MCMINNVILLE",
+        "state": "TN",
+        "postalCode": "37110-1392"
       }
     ],
     "extension": [

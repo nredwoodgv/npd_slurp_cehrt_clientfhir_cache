@@ -18,22 +18,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356309249"
+        "value": "1255401519"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255401519"
+        "value": "1356309249"
       }
     ],
     "address": [
-      {
-        "line": [
-          "100 Southern Way"
-        ],
-        "city": "COLUMBUS",
-        "state": "GA",
-        "postalCode": "31904-9202"
-      },
       {
         "line": [
           "2000 10th Ave",
@@ -51,6 +43,14 @@
         "city": "COLUMBUS",
         "state": "GA",
         "postalCode": "31901-3706"
+      },
+      {
+        "line": [
+          "100 Southern Way"
+        ],
+        "city": "COLUMBUS",
+        "state": "GA",
+        "postalCode": "31904-9202"
       }
     ],
     "extension": [

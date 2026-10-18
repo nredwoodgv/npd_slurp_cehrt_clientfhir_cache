@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821819665"
+        "value": "1346904885"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,15 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245964931"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1942181276"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346904885"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245964931"
+        "value": "1821819665"
       }
     ],
     "address": [
@@ -44,35 +44,11 @@
       },
       {
         "line": [
-          "1745 BAILEY AVE"
-        ],
-        "city": "HAYNESVILLE",
-        "state": "LA",
-        "postalCode": "71038-5411"
-      },
-      {
-        "line": [
           "2401 N SERVICE RD E"
         ],
         "city": "RUSTON",
         "state": "LA",
         "postalCode": "71270-2342"
-      },
-      {
-        "line": [
-          "411 E Vaughn Ave Suite 104"
-        ],
-        "city": "RUSTON",
-        "state": "LA",
-        "postalCode": "71270-5975"
-      },
-      {
-        "line": [
-          "1402 Celebrity Dr."
-        ],
-        "city": "RUSTON",
-        "state": "LA",
-        "postalCode": "71270-3878"
       },
       {
         "line": [
@@ -97,6 +73,30 @@
         "city": "HOMER",
         "state": "LA",
         "postalCode": "71040-2023"
+      },
+      {
+        "line": [
+          "1402 Celebrity Dr."
+        ],
+        "city": "RUSTON",
+        "state": "LA",
+        "postalCode": "71270-3878"
+      },
+      {
+        "line": [
+          "1745 BAILEY AVE"
+        ],
+        "city": "HAYNESVILLE",
+        "state": "LA",
+        "postalCode": "71038-5411"
+      },
+      {
+        "line": [
+          "411 E Vaughn Ave Suite 104"
+        ],
+        "city": "RUSTON",
+        "state": "LA",
+        "postalCode": "71270-5975"
       }
     ],
     "extension": [

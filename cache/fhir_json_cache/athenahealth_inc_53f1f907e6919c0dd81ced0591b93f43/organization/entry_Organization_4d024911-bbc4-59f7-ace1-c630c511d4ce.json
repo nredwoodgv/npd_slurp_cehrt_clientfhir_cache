@@ -14,31 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780043067"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477984805"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912338302"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003277369"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386005643"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124489489"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992166250"
+        "value": "1467883801"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,14 +22,78 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386005643"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992166250"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1780043067"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124489489"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1003277369"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1467813725"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467883801"
+        "value": "1912338302"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1477984805"
       }
     ],
     "address": [
+      {
+        "line": [
+          "9275 CHAMBERLAYNE ROAD"
+        ],
+        "city": "MECHANICSVILLE",
+        "state": "VA",
+        "postalCode": "23116-2800"
+      },
+      {
+        "line": [
+          "411 WEST RANDOLPH ROAD"
+        ],
+        "city": "HOPEWELL",
+        "state": "VA",
+        "postalCode": "23860-2938"
+      },
+      {
+        "line": [
+          "1401 JOHNSTON WILLIS DRIVE"
+        ],
+        "city": "RICHMOND",
+        "state": "VA",
+        "postalCode": "23235-4730"
+      },
+      {
+        "line": [
+          "7700 EAST PARHAM ROAD"
+        ],
+        "city": "HENRICO",
+        "state": "VA",
+        "postalCode": "23294-4301"
+      },
+      {
+        "line": [
+          "2621 GROVE AVE"
+        ],
+        "city": "RICHMOND",
+        "state": "VA",
+        "postalCode": "23220-4308"
+      },
       {
         "line": [
           "2621 GROVE AVENUE"
@@ -72,14 +112,6 @@
       },
       {
         "line": [
-          "9275 CHAMBERLAYNE ROAD"
-        ],
-        "city": "MECHANICSVILLE",
-        "state": "VA",
-        "postalCode": "23116-2800"
-      },
-      {
-        "line": [
           "1700 TEMPLE PARKWAY"
         ],
         "city": "PRINCE GEORGE",
@@ -88,11 +120,11 @@
       },
       {
         "line": [
-          "1401 JOHNSTON WILLIS DRIVE"
+          "12720 TUCKAHOE CREEK COURT"
         ],
-        "city": "RICHMOND",
+        "city": "HENRICO",
         "state": "VA",
-        "postalCode": "23235-4730"
+        "postalCode": "23238-1121"
       },
       {
         "line": [
@@ -109,38 +141,6 @@
         "city": "HENRICO",
         "state": "VA",
         "postalCode": "23229-5205"
-      },
-      {
-        "line": [
-          "7700 EAST PARHAM ROAD"
-        ],
-        "city": "HENRICO",
-        "state": "VA",
-        "postalCode": "23294-4301"
-      },
-      {
-        "line": [
-          "411 WEST RANDOLPH ROAD"
-        ],
-        "city": "HOPEWELL",
-        "state": "VA",
-        "postalCode": "23860-2938"
-      },
-      {
-        "line": [
-          "12720 TUCKAHOE CREEK COURT"
-        ],
-        "city": "HENRICO",
-        "state": "VA",
-        "postalCode": "23238-1121"
-      },
-      {
-        "line": [
-          "2621 GROVE AVE"
-        ],
-        "city": "RICHMOND",
-        "state": "VA",
-        "postalCode": "23220-4308"
       }
     ],
     "extension": [

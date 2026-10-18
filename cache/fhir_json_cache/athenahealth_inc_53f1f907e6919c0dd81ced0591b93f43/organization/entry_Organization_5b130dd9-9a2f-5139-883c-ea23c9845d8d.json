@@ -14,18 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023582038"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1114129970"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1487290615"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1023582038"
       }
     ],
     "address": [
+      {
+        "line": [
+          "130 S LINCOLN BLVD"
+        ],
+        "city": "CENTRALIA",
+        "state": "IL",
+        "postalCode": "62801-3654"
+      },
       {
         "line": [
           "1204 West 10th Street"
@@ -52,14 +60,6 @@
       },
       {
         "line": [
-          "16338 N IL HIGHWAY 37"
-        ],
-        "city": "MOUNT VERNON",
-        "state": "IL",
-        "postalCode": "62864-8178"
-      },
-      {
-        "line": [
           "21191 Shawneetown Rd"
         ],
         "city": "THOMPSONVILLE",
@@ -76,11 +76,11 @@
       },
       {
         "line": [
-          "130 S LINCOLN BLVD"
+          "16338 N IL HIGHWAY 37"
         ],
-        "city": "CENTRALIA",
+        "city": "MOUNT VERNON",
         "state": "IL",
-        "postalCode": "62801-3654"
+        "postalCode": "62864-8178"
       },
       {
         "line": [

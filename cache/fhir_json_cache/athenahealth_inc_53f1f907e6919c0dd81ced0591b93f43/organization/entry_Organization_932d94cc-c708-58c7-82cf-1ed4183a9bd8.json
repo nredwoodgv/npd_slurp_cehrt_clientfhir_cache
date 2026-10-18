@@ -18,11 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346044401"
+        "value": "1396961322"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396961322"
+        "value": "1346044401"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,6 +30,39 @@
       }
     ],
     "address": [
+      {
+        "line": [
+          "1501 Burnett Rd"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-8520"
+      },
+      {
+        "line": [
+          "200 COUNTY ROAD 616"
+        ],
+        "city": "EARLY",
+        "state": "TX",
+        "postalCode": "76802-3294"
+      },
+      {
+        "line": [
+          "310 S PECOS ST",
+          "BLDG C"
+        ],
+        "city": "COLEMAN",
+        "state": "TX",
+        "postalCode": "76834-4159"
+      },
+      {
+        "line": [
+          "6250 US HWY 83"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79606-5215"
+      },
       {
         "line": [
           "1501 Burnet Rd"
@@ -40,11 +73,11 @@
       },
       {
         "line": [
-          "1514 INDIAN CREEK DR"
+          "1750 PINE ST STE 200"
         ],
-        "city": "BROWNWOOD",
+        "city": "ABILENE",
         "state": "TX",
-        "postalCode": "76801-6536"
+        "postalCode": "79601-3044"
       },
       {
         "line": [
@@ -72,19 +105,11 @@
       },
       {
         "line": [
-          "1900 PINE ST"
+          "10201 Highway 16"
         ],
-        "city": "ABILENE",
+        "city": "COMANCHE",
         "state": "TX",
-        "postalCode": "79601-2432"
-      },
-      {
-        "line": [
-          "2722 OLD ANSON RD"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79603-1834"
+        "postalCode": "76442-9999"
       },
       {
         "line": [
@@ -96,11 +121,11 @@
       },
       {
         "line": [
-          "2400 W BROWN ST"
+          "1514 INDIAN CREEK DR"
         ],
-        "city": "SAN SABA",
+        "city": "BROWNWOOD",
         "state": "TX",
-        "postalCode": "76877-3863"
+        "postalCode": "76801-6536"
       },
       {
         "line": [
@@ -112,31 +137,7 @@
       },
       {
         "line": [
-          "2410 SONG BIRD CIR"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-8413"
-      },
-      {
-        "line": [
-          "6250 US HWY 83"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79606-5215"
-      },
-      {
-        "line": [
-          "6050 HOSPITAL DR"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79606-5252"
-      },
-      {
-        "line": [
-          "200 COUNTY ROAD 616"
+          "200 CR 616"
         ],
         "city": "EARLY",
         "state": "TX",
@@ -144,76 +145,19 @@
       },
       {
         "line": [
-          "403 W Wallace St"
+          "2400 W BROWN ST"
         ],
         "city": "SAN SABA",
         "state": "TX",
-        "postalCode": "76877-4433"
+        "postalCode": "76877-3863"
       },
       {
         "line": [
-          "1150 N 18TH ST STE 400"
+          "1900 PINE ST"
         ],
         "city": "ABILENE",
         "state": "TX",
-        "postalCode": "79601-2931"
-      },
-      {
-        "line": [
-          "5302 BUFFALO GAP RD"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79606-4246"
-      },
-      {
-        "line": [
-          "101 Miller Dr"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-5494"
-      },
-      {
-        "line": [
-          "2700 Memorial Park Dr"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-8481"
-      },
-      {
-        "line": [
-          "1700 Cogdell Blvd."
-        ],
-        "city": "SNYDER",
-        "state": "TX",
-        "postalCode": "79549-6162"
-      },
-      {
-        "line": [
-          "310 S PECOS ST",
-          "BLDG C"
-        ],
-        "city": "COLEMAN",
-        "state": "TX",
-        "postalCode": "76834-4159"
-      },
-      {
-        "line": [
-          "1501 Burnett Rd"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-8520"
-      },
-      {
-        "line": [
-          "301 Jenny George Ln. Building B"
-        ],
-        "city": "SWEETWATER",
-        "state": "TX",
-        "postalCode": "79556-7120"
+        "postalCode": "79601-2432"
       },
       {
         "line": [
@@ -225,6 +169,14 @@
       },
       {
         "line": [
+          "403 W Wallace St"
+        ],
+        "city": "SAN SABA",
+        "state": "TX",
+        "postalCode": "76877-4433"
+      },
+      {
+        "line": [
           "101 Miller DR"
         ],
         "city": "BROWNWOOD",
@@ -233,19 +185,59 @@
       },
       {
         "line": [
-          "1750 PINE ST STE 200"
+          "2722 OLD ANSON RD"
         ],
         "city": "ABILENE",
         "state": "TX",
-        "postalCode": "79601-3044"
+        "postalCode": "79603-1834"
       },
       {
         "line": [
-          "200 CR 616"
+          "1700 Cogdell Blvd."
         ],
-        "city": "EARLY",
+        "city": "SNYDER",
         "state": "TX",
-        "postalCode": "76802-3294"
+        "postalCode": "79549-6162"
+      },
+      {
+        "line": [
+          "101 Miller Dr"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-5494"
+      },
+      {
+        "line": [
+          "6050 HOSPITAL DR"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79606-5252"
+      },
+      {
+        "line": [
+          "2410 SONG BIRD CIR"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-8413"
+      },
+      {
+        "line": [
+          "1150 N 18TH ST STE 400"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79601-2931"
+      },
+      {
+        "line": [
+          "2700 Memorial Park Dr"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-8481"
       },
       {
         "line": [
@@ -257,11 +249,19 @@
       },
       {
         "line": [
-          "10201 Highway 16"
+          "301 Jenny George Ln. Building B"
         ],
-        "city": "COMANCHE",
+        "city": "SWEETWATER",
         "state": "TX",
-        "postalCode": "76442-9999"
+        "postalCode": "79556-7120"
+      },
+      {
+        "line": [
+          "5302 BUFFALO GAP RD"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79606-4246"
       }
     ],
     "extension": [

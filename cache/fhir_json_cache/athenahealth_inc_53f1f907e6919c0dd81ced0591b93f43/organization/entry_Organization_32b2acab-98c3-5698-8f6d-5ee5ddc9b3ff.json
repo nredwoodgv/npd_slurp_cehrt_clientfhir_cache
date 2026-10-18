@@ -14,27 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437584299"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124554068"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164500088"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912084187"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1083078711"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972577351"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,7 +22,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1972577351"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1972681294"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1164500088"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1710065735"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,43 +42,35 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710065735"
+        "value": "1124554068"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912084187"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437584299"
       }
     ],
     "address": [
       {
         "line": [
-          "394 Harding Place",
-          "Suite 100"
+          "313 North Main Street",
+          "Suite 2"
         ],
-        "city": "NASHVILLE",
+        "city": "ASHLAND CITY",
         "state": "TN",
-        "postalCode": "37211-3947"
+        "postalCode": "37015-1347"
       },
       {
         "line": [
-          "5655 Frist Blvd"
+          "100 NORTHCREST DR STE 221",
+          "Building 200"
         ],
-        "city": "HERMITAGE",
+        "city": "SPRINGFIELD",
         "state": "TN",
-        "postalCode": "37076-2053"
-      },
-      {
-        "line": [
-          "Perimeter Medical Center - Antioch",
-          "3320 PERIMETER HILL DR"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37211-4123"
-      },
-      {
-        "line": [
-          "1411 W Baddour Pkwy"
-        ],
-        "city": "LEBANON",
-        "state": "TN",
-        "postalCode": "37087-2513"
+        "postalCode": "37172-3927"
       },
       {
         "line": [
@@ -107,20 +91,12 @@
       },
       {
         "line": [
-          "100 NORTHCREST DR STE 221",
-          "Building 200"
+          "1001 HEALTH PARK DR",
+          "STE 101"
         ],
-        "city": "SPRINGFIELD",
+        "city": "BRENTWOOD",
         "state": "TN",
-        "postalCode": "37172-3927"
-      },
-      {
-        "line": [
-          "6262 Veterans Pkwy"
-        ],
-        "city": "COLUMBUS",
-        "state": "GA",
-        "postalCode": "31909-3540"
+        "postalCode": "37027-5804"
       },
       {
         "line": [
@@ -133,11 +109,19 @@
       },
       {
         "line": [
-          "100 COVEY DR STE 103"
+          "6262 Veterans Pkwy"
         ],
-        "city": "FRANKLIN",
+        "city": "COLUMBUS",
+        "state": "GA",
+        "postalCode": "31909-3540"
+      },
+      {
+        "line": [
+          "1411 W Baddour Pkwy"
+        ],
+        "city": "LEBANON",
         "state": "TN",
-        "postalCode": "37067-5603"
+        "postalCode": "37087-2513"
       },
       {
         "line": [
@@ -158,6 +142,14 @@
       },
       {
         "line": [
+          "100 COVEY DR STE 103"
+        ],
+        "city": "FRANKLIN",
+        "state": "TN",
+        "postalCode": "37067-5603"
+      },
+      {
+        "line": [
           "115 Willard Hagan Drive",
           "STE 101"
         ],
@@ -167,21 +159,29 @@
       },
       {
         "line": [
-          "1001 HEALTH PARK DR",
-          "STE 101"
+          "5655 Frist Blvd"
         ],
-        "city": "BRENTWOOD",
+        "city": "HERMITAGE",
         "state": "TN",
-        "postalCode": "37027-5804"
+        "postalCode": "37076-2053"
       },
       {
         "line": [
-          "313 North Main Street",
-          "Suite 2"
+          "Perimeter Medical Center - Antioch",
+          "3320 PERIMETER HILL DR"
         ],
-        "city": "ASHLAND CITY",
+        "city": "NASHVILLE",
         "state": "TN",
-        "postalCode": "37015-1347"
+        "postalCode": "37211-4123"
+      },
+      {
+        "line": [
+          "394 Harding Place",
+          "Suite 100"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37211-3947"
       }
     ],
     "extension": [

@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083072342"
+        "value": "1437516887"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437516887"
+        "value": "1083072342"
       }
     ],
     "address": [
       {
         "line": [
-          "50 Walter St"
+          "850 BEAR TAVERN RD STE 309"
         ],
-        "city": "TRENTON",
+        "city": "EWING",
         "state": "NJ",
-        "postalCode": "08628-3002"
+        "postalCode": "08628-1018"
       },
       {
         "line": [
@@ -37,15 +37,6 @@
         "city": "PENNINGTON",
         "state": "NJ",
         "postalCode": "08534-1438"
-      },
-      {
-        "line": [
-          "112 Franklin Corner Rd",
-          "Suite 203"
-        ],
-        "city": "LAWRENCE TOWNSHIP",
-        "state": "NJ",
-        "postalCode": "08648-2104"
       },
       {
         "line": [
@@ -58,35 +49,11 @@
       },
       {
         "line": [
-          "850 BEAR TAVERN RD STE 309"
-        ],
-        "city": "EWING",
-        "state": "NJ",
-        "postalCode": "08628-1018"
-      },
-      {
-        "line": [
-          "512 Union street"
+          "50 Walter St"
         ],
         "city": "TRENTON",
         "state": "NJ",
-        "postalCode": "08611-2800"
-      },
-      {
-        "line": [
-          "1314 Brunswick Ave"
-        ],
-        "city": "TRENTON",
-        "state": "NJ",
-        "postalCode": "08638-3316"
-      },
-      {
-        "line": [
-          "1201 Parkway Ave"
-        ],
-        "city": "TRENTON",
-        "state": "NJ",
-        "postalCode": "08628-3018"
+        "postalCode": "08628-3002"
       },
       {
         "line": [
@@ -98,6 +65,39 @@
       },
       {
         "line": [
+          "1660 Whitehorse-Hamilton Square Rd"
+        ],
+        "city": "TRENTON",
+        "state": "NJ",
+        "postalCode": "08690-3506"
+      },
+      {
+        "line": [
+          "512 Union street"
+        ],
+        "city": "TRENTON",
+        "state": "NJ",
+        "postalCode": "08611-2800"
+      },
+      {
+        "line": [
+          "112 Franklin Corner Rd",
+          "Suite 203"
+        ],
+        "city": "LAWRENCE TOWNSHIP",
+        "state": "NJ",
+        "postalCode": "08648-2104"
+      },
+      {
+        "line": [
+          "1314 Brunswick Ave"
+        ],
+        "city": "TRENTON",
+        "state": "NJ",
+        "postalCode": "08638-3316"
+      },
+      {
+        "line": [
           "1 Bishops' Drive"
         ],
         "city": "LAWRENCE TOWNSHIP",
@@ -106,11 +106,11 @@
       },
       {
         "line": [
-          "1660 Whitehorse-Hamilton Square Rd"
+          "1201 Parkway Ave"
         ],
         "city": "TRENTON",
         "state": "NJ",
-        "postalCode": "08690-3506"
+        "postalCode": "08628-3018"
       }
     ],
     "extension": [

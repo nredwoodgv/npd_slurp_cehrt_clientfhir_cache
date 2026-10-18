@@ -18,7 +18,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
+        "value": "1730484031"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124080320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750302923"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669801585"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,33 +50,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
+        "value": "1215999511"
       }
     ],
     "address": [
       {
         "line": [
-          "1730 Birmingham Drive, Suite 100"
+          "1602 Rock Prairie Road Suite 3200"
         ],
-        "city": "COLLEGE STATION",
+        "city": "College Station",
         "state": "TX",
-        "postalCode": "77845-4063"
+        "postalCode": "77845-8306"
       },
       {
         "line": [
@@ -72,11 +72,11 @@
       },
       {
         "line": [
-          "1602 Rock Prairie Road Suite 3200"
+          "1730 Birmingham Drive, Suite 100"
         ],
-        "city": "College Station",
+        "city": "COLLEGE STATION",
         "state": "TX",
-        "postalCode": "77845-8306"
+        "postalCode": "77845-4063"
       }
     ],
     "extension": [

@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598958431"
+        "value": "1447524392"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447524392"
+        "value": "1598958431"
       }
     ],
     "address": [
-      {
-        "line": [
-          "17580 I-45 South"
-        ],
-        "city": "The Woodlands",
-        "state": "TX",
-        "postalCode": "77384-0001"
-      },
       {
         "line": [
           "505 S John Reddit Dr"
@@ -37,22 +29,6 @@
         "city": "LUFKIN",
         "state": "TX",
         "postalCode": "75904-3120"
-      },
-      {
-        "line": [
-          "712 Hayter Street"
-        ],
-        "city": "NACOGDOCHES",
-        "state": "TX",
-        "postalCode": "75965-1111"
-      },
-      {
-        "line": [
-          "4920 NE Stallings Dr"
-        ],
-        "city": "NACOGDOCHES",
-        "state": "TX",
-        "postalCode": "75965-1254"
       },
       {
         "line": [
@@ -64,19 +40,19 @@
       },
       {
         "line": [
+          "1201 W Frank"
+        ],
+        "city": "LUFKIN",
+        "state": "TX",
+        "postalCode": "75904-3357"
+      },
+      {
+        "line": [
           "501 Timpson St"
         ],
         "city": "CHESTER",
         "state": "TX",
         "postalCode": "75936-3439"
-      },
-      {
-        "line": [
-          "280 Moffet Drive"
-        ],
-        "city": "CENTER",
-        "state": "TX",
-        "postalCode": "75935-8520"
       },
       {
         "line": [
@@ -88,11 +64,43 @@
       },
       {
         "line": [
+          "17580 I-45 South"
+        ],
+        "city": "The Woodlands",
+        "state": "TX",
+        "postalCode": "77384-0001"
+      },
+      {
+        "line": [
+          "712 Hayter Street"
+        ],
+        "city": "NACOGDOCHES",
+        "state": "TX",
+        "postalCode": "75965-1111"
+      },
+      {
+        "line": [
+          "280 Moffet Drive"
+        ],
+        "city": "CENTER",
+        "state": "TX",
+        "postalCode": "75935-8520"
+      },
+      {
+        "line": [
           "1201 W Frank Ave"
         ],
         "city": "LUFKIN",
         "state": "TX",
         "postalCode": "75904-3357"
+      },
+      {
+        "line": [
+          "4920 NE Stallings Dr"
+        ],
+        "city": "NACOGDOCHES",
+        "state": "TX",
+        "postalCode": "75965-1254"
       },
       {
         "line": [
@@ -109,14 +117,6 @@
         "city": "CENTER",
         "state": "TX",
         "postalCode": "75935-3439"
-      },
-      {
-        "line": [
-          "1201 W Frank"
-        ],
-        "city": "LUFKIN",
-        "state": "TX",
-        "postalCode": "75904-3357"
       }
     ],
     "extension": [

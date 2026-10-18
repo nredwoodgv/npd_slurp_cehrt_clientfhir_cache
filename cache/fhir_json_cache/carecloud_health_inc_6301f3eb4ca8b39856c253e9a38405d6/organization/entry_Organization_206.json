@@ -4,16 +4,12 @@
     "id": "206",
     "identifier": [
       {
-        "system": "https://github.com/synthetichealth/synthea",
-        "value": "56090ab7-1f97-37ff-a434-194f9c6e5510"
-      },
-      {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "FI"
+        "value": "1619050036"
       },
       {
-        "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "ca-peiVCI"
+        "system": "https://api-datamanager.carecloud.com/fhir/sid/talkehr/practice",
+        "value": "206"
       }
     ],
     "active": true,
@@ -25,13 +21,20 @@
             "code": "prov",
             "display": "Healthcare Provider"
           }
-        ],
-        "text": "Healthcare Provider"
+        ]
       }
     ],
     "name": "KEVIN MCGUIGAN, MD",
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "6095301635",
+        "use": "work"
+      }
+    ],
     "address": [
       {
+        "text": "53 Walter Street, EWING, NJ 086283016",
         "line": [
           "53 Walter Street"
         ],

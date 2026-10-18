@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346244688"
+        "value": "1679501746"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205845369"
+        "value": "1346244688"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,10 +26,66 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679501746"
+        "value": "1205845369"
       }
     ],
     "address": [
+      {
+        "line": [
+          "27800 Northwest Frwy"
+        ],
+        "city": "CYPRESS",
+        "state": "TX",
+        "postalCode": "77433-5302"
+      },
+      {
+        "line": [
+          "215 KINGWOOD EXECUTIVE DR"
+        ],
+        "city": "KINGWOOD",
+        "state": "TX",
+        "postalCode": "77339-2758"
+      },
+      {
+        "line": [
+          "1441 Woodstead Crt Ste 100"
+        ],
+        "city": "The Woodlands",
+        "state": "TX",
+        "postalCode": "77380-1410"
+      },
+      {
+        "line": [
+          "24500 NORTHWEST FWY"
+        ],
+        "city": "CYPRESS",
+        "state": "TX",
+        "postalCode": "77429-2199"
+      },
+      {
+        "line": [
+          "22999 Hwy 59 North"
+        ],
+        "city": "KINGWOOD",
+        "state": "TX",
+        "postalCode": "77339-2107"
+      },
+      {
+        "line": [
+          "18951 MEMORIAL NORTH"
+        ],
+        "city": "HUMBLE",
+        "state": "TX",
+        "postalCode": "77338-4217"
+      },
+      {
+        "line": [
+          "11520 Northpointe Blvd"
+        ],
+        "city": "TOMBALL",
+        "state": "TX",
+        "postalCode": "77377-6460"
+      },
       {
         "line": [
           "601 ROCKMEAD DR STE 100"
@@ -37,6 +93,39 @@
         "city": "KINGWOOD",
         "state": "TX",
         "postalCode": "77339-2107"
+      },
+      {
+        "line": [
+          "10425 HUFFMEISTER RD, STE 100"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77065-3429"
+      },
+      {
+        "line": [
+          "10425 HUFFMEISTER RD STE 320"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77065-3429"
+      },
+      {
+        "line": [
+          "20203 BRIDGELAND CREEK PKWY",
+          "STE 200"
+        ],
+        "city": "CYPRESS",
+        "state": "TX",
+        "postalCode": "77433-0812"
+      },
+      {
+        "line": [
+          "20203 Bridgeland Creek Pkwy, Ste 200"
+        ],
+        "city": "CYPRESS",
+        "state": "TX",
+        "postalCode": "77433-0812"
       },
       {
         "line": [
@@ -49,75 +138,11 @@
       },
       {
         "line": [
-          "11520 Northpointe Blvd"
-        ],
-        "city": "TOMBALL",
-        "state": "TX",
-        "postalCode": "77377-6460"
-      },
-      {
-        "line": [
-          "27800 Northwest Frwy"
-        ],
-        "city": "CYPRESS",
-        "state": "TX",
-        "postalCode": "77433-5302"
-      },
-      {
-        "line": [
           "4801 BISSONNET ST"
         ],
         "city": "BELLAIRE",
         "state": "TX",
         "postalCode": "77401-4028"
-      },
-      {
-        "line": [
-          "22999 Hwy 59 North"
-        ],
-        "city": "KINGWOOD",
-        "state": "TX",
-        "postalCode": "77339-2107"
-      },
-      {
-        "line": [
-          "10425 HUFFMEISTER RD STE 320"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77065-3429"
-      },
-      {
-        "line": [
-          "1441 Woodstead Crt Ste 100"
-        ],
-        "city": "The Woodlands",
-        "state": "TX",
-        "postalCode": "77380-1410"
-      },
-      {
-        "line": [
-          "18951 MEMORIAL NORTH"
-        ],
-        "city": "HUMBLE",
-        "state": "TX",
-        "postalCode": "77338-4217"
-      },
-      {
-        "line": [
-          "24500 NORTHWEST FWY"
-        ],
-        "city": "CYPRESS",
-        "state": "TX",
-        "postalCode": "77429-2199"
-      },
-      {
-        "line": [
-          "300 KINGWOOD MEDICAL DRIVE"
-        ],
-        "city": "KINGWOOD",
-        "state": "TX",
-        "postalCode": "77339-6400"
       },
       {
         "line": [
@@ -129,36 +154,11 @@
       },
       {
         "line": [
-          "215 KINGWOOD EXECUTIVE DR"
+          "300 KINGWOOD MEDICAL DRIVE"
         ],
         "city": "KINGWOOD",
         "state": "TX",
-        "postalCode": "77339-2758"
-      },
-      {
-        "line": [
-          "10425 HUFFMEISTER RD, STE 100"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77065-3429"
-      },
-      {
-        "line": [
-          "20203 Bridgeland Creek Pkwy, Ste 200"
-        ],
-        "city": "CYPRESS",
-        "state": "TX",
-        "postalCode": "77433-0812"
-      },
-      {
-        "line": [
-          "20203 BRIDGELAND CREEK PKWY",
-          "STE 200"
-        ],
-        "city": "CYPRESS",
-        "state": "TX",
-        "postalCode": "77433-0812"
+        "postalCode": "77339-6400"
       }
     ],
     "extension": [

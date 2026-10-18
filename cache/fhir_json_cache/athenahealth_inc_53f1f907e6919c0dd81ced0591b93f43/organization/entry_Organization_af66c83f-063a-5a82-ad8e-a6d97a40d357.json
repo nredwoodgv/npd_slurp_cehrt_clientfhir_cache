@@ -14,10 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114928108"
+        "value": "1881477099"
       }
     ],
     "address": [
+      {
+        "line": [
+          "9350 E 35 ST N",
+          "STE 101"
+        ],
+        "city": "WICHITA",
+        "state": "KS",
+        "postalCode": "67226-8129"
+      },
       {
         "line": [
           "507 E 16TH ST STE 1"
@@ -41,15 +50,6 @@
         "city": "WICHITA",
         "state": "KS",
         "postalCode": "67218-3713"
-      },
-      {
-        "line": [
-          "9350 E 35 ST N",
-          "STE 101"
-        ],
-        "city": "WICHITA",
-        "state": "KS",
-        "postalCode": "67226-8129"
       }
     ],
     "extension": [

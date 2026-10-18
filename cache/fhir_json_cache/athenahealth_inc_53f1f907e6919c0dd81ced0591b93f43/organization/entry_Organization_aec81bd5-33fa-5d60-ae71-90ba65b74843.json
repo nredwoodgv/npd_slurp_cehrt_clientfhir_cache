@@ -14,14 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538575386"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215276415"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1780636597"
       },
       {
@@ -34,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1851860605"
+        "value": "1033873419"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,17 +34,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033873419"
+        "value": "1215276415"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1851860605"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1538575386"
       }
     ],
     "address": [
       {
         "line": [
-          "27 VILLAGE SQUARE"
+          "154 EAST CENTRAL STREET",
+          "3RD FLOOR"
         ],
-        "city": "CHELMSFORD",
+        "city": "NATICK",
         "state": "MA",
-        "postalCode": "01824-2712"
+        "postalCode": "01760-3644"
+      },
+      {
+        "line": [
+          "330 MOUNT AUBURN STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-5502"
       },
       {
         "line": [
@@ -73,20 +82,11 @@
       },
       {
         "line": [
-          "330 MOUNT AUBURN STREET"
+          "27 VILLAGE SQUARE"
         ],
-        "city": "CAMBRIDGE",
+        "city": "CHELMSFORD",
         "state": "MA",
-        "postalCode": "02138-5502"
-      },
-      {
-        "line": [
-          "154 EAST CENTRAL STREET",
-          "3RD FLOOR"
-        ],
-        "city": "NATICK",
-        "state": "MA",
-        "postalCode": "01760-3644"
+        "postalCode": "01824-2712"
       },
       {
         "line": [

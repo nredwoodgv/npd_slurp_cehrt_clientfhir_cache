@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932402484"
+        "value": "1649228966"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013031368"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,18 +26,13 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649228966"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013031368"
+        "value": "1932402484"
       }
     ],
     "address": [
       {
         "line": [
-          "404 Airport Dr.",
-          "Suite A"
+          "404 Airport Dr Suite A"
         ],
         "city": "DANVILLE",
         "state": "VA",
@@ -41,7 +40,8 @@
       },
       {
         "line": [
-          "404 Airport Dr Suite A"
+          "404 Airport Dr.",
+          "Suite A"
         ],
         "city": "DANVILLE",
         "state": "VA",

@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053644401"
+        "value": "1154748986"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154748986"
+        "value": "1053644401"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3600 FREDERICA ST"
-        ],
-        "city": "OWENSBORO",
-        "state": "KY",
-        "postalCode": "42301-6981"
-      },
-      {
-        "line": [
-          "83 BALLPARK RD"
-        ],
-        "city": "HARDINSBURG",
-        "state": "KY",
-        "postalCode": "40143-4859"
-      },
       {
         "line": [
           "185 STATE ROUTE 271 S"
@@ -45,6 +29,15 @@
         "city": "LEWISPORT",
         "state": "KY",
         "postalCode": "42351-6701"
+      },
+      {
+        "line": [
+          "1116 S. Main St",
+          "Ste 5A"
+        ],
+        "city": "MORGANTOWN",
+        "state": "KY",
+        "postalCode": "42261-9832"
       },
       {
         "line": [
@@ -56,12 +49,19 @@
       },
       {
         "line": [
-          "1116 S. Main St",
-          "Ste 5A"
+          "83 BALLPARK RD"
         ],
-        "city": "MORGANTOWN",
+        "city": "HARDINSBURG",
         "state": "KY",
-        "postalCode": "42261-9832"
+        "postalCode": "40143-4859"
+      },
+      {
+        "line": [
+          "3600 FREDERICA ST"
+        ],
+        "city": "OWENSBORO",
+        "state": "KY",
+        "postalCode": "42301-6981"
       }
     ],
     "extension": [

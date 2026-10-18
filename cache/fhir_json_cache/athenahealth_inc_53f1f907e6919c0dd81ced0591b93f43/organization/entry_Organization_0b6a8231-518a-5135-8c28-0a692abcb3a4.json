@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336932557"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154200970"
+        "value": "1124907951"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043083595"
+        "value": "1154200970"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336932557"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,10 +34,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124907951"
+        "value": "1043083595"
       }
     ],
     "address": [
+      {
+        "line": [
+          "25 S River Rd",
+          "Ste 307"
+        ],
+        "city": "Bedford",
+        "state": "NH",
+        "postalCode": "03110-6716"
+      },
       {
         "line": [
           "1 Tara Blvd",
@@ -55,15 +64,6 @@
         "city": "Exeter",
         "state": "NH",
         "postalCode": "03833-2745"
-      },
-      {
-        "line": [
-          "25 S River Rd",
-          "Ste 307"
-        ],
-        "city": "Bedford",
-        "state": "NH",
-        "postalCode": "03110-6716"
       }
     ],
     "extension": [

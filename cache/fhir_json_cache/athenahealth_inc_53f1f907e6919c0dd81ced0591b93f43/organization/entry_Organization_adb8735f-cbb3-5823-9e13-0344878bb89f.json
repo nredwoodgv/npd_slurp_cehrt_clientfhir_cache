@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023589017"
+        "value": "1346211539"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346211539"
+        "value": "1023589017"
       }
     ],
     "address": [
-      {
-        "line": [
-          "589 GARFIELD STREET"
-        ],
-        "city": "TUPELO",
-        "state": "MS",
-        "postalCode": "38801-6301"
-      },
-      {
-        "line": [
-          "830 SOUTH GLOSTER"
-        ],
-        "city": "TUPELO",
-        "state": "MS",
-        "postalCode": "38801-4934"
-      },
       {
         "line": [
           "1256 MILITARY STREET SOUTH"
@@ -54,6 +38,22 @@
         "city": "TUPELO",
         "state": "MS",
         "postalCode": "38801-4600"
+      },
+      {
+        "line": [
+          "830 SOUTH GLOSTER"
+        ],
+        "city": "TUPELO",
+        "state": "MS",
+        "postalCode": "38801-4934"
+      },
+      {
+        "line": [
+          "589 GARFIELD STREET"
+        ],
+        "city": "TUPELO",
+        "state": "MS",
+        "postalCode": "38801-6301"
       }
     ],
     "extension": [

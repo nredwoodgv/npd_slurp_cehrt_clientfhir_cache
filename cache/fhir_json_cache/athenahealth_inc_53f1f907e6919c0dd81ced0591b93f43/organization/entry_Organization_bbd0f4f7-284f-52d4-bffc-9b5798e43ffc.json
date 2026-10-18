@@ -14,15 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639506470"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1386823243"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1982352357"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1699365072"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952703373"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,23 +38,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952703373"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982352357"
+        "value": "1639506470"
       }
     ],
     "address": [
-      {
-        "line": [
-          "200 PERIMETER PARK DR",
-          "SUITE C"
-        ],
-        "city": "MORRISVILLE",
-        "state": "NC",
-        "postalCode": "27560-9714"
-      },
       {
         "line": [
           "5323 4TH AVENUE CIRCLE",
@@ -59,6 +50,14 @@
         "city": "BRADENTON",
         "state": "FL",
         "postalCode": "34208-5623"
+      },
+      {
+        "line": [
+          "1560 Turf Lane"
+        ],
+        "city": "EAST LANSING",
+        "state": "MI",
+        "postalCode": "48823-6392"
       },
       {
         "line": [
@@ -71,12 +70,11 @@
       },
       {
         "line": [
-          "1141 N ROAD ST",
-          "STE I"
+          "6100 Harris Parkway"
         ],
-        "city": "ELIZABETH CITY",
-        "state": "NC",
-        "postalCode": "27909-3354"
+        "city": "FORT WORTH",
+        "state": "TX",
+        "postalCode": "76132-6109"
       },
       {
         "line": [
@@ -97,19 +95,21 @@
       },
       {
         "line": [
-          "6100 Harris Parkway"
+          "200 PERIMETER PARK DR",
+          "SUITE C"
         ],
-        "city": "FORT WORTH",
-        "state": "TX",
-        "postalCode": "76132-6109"
+        "city": "MORRISVILLE",
+        "state": "NC",
+        "postalCode": "27560-9714"
       },
       {
         "line": [
-          "1560 Turf Lane"
+          "1141 N ROAD ST",
+          "STE I"
         ],
-        "city": "EAST LANSING",
-        "state": "MI",
-        "postalCode": "48823-6392"
+        "city": "ELIZABETH CITY",
+        "state": "NC",
+        "postalCode": "27909-3354"
       }
     ],
     "extension": [

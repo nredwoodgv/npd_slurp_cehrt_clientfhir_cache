@@ -14,17 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609845825"
+        "value": "1265401202"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265401202"
+        "value": "1609845825"
       }
     ],
     "address": [
       {
         "line": [
-          "601 W 5th Ave, Suite 500"
+          "601 West 5th Ave",
+          "Suite 500"
         ],
         "city": "SPOKANE",
         "state": "WA",
@@ -32,8 +33,7 @@
       },
       {
         "line": [
-          "601 West 5th Ave",
-          "Suite 500"
+          "601 W 5th Ave, Suite 500"
         ],
         "city": "SPOKANE",
         "state": "WA",

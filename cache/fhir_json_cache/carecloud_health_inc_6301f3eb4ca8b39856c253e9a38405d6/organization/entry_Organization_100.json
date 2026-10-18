@@ -4,16 +4,12 @@
     "id": "100",
     "identifier": [
       {
-        "system": "https://github.com/synthetichealth/synthea",
-        "value": "56090ab7-1f97-37ff-a434-194f9c6e5510"
-      },
-      {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "FI"
+        "value": "1881648541"
       },
       {
-        "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "ca-peiVCI"
+        "system": "https://api-datamanager.carecloud.com/fhir/sid/talkehr/practice",
+        "value": "100"
       }
     ],
     "active": true,
@@ -25,17 +21,25 @@
             "code": "prov",
             "display": "Healthcare Provider"
           }
-        ],
-        "text": "Healthcare Provider"
+        ]
       }
     ],
     "name": "MEHNAZ A. HAQ, MD, LLC",
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "7329519112",
+        "use": "work"
+      }
+    ],
     "address": [
       {
+        "text": "2648 ROUTE 27, NORTH BRUNSWICK, NJ 089021021, MIDDLESEX",
         "line": [
           "2648 ROUTE 27"
         ],
         "city": "NORTH BRUNSWICK",
+        "district": "MIDDLESEX",
         "state": "NJ",
         "postalCode": "089021021",
         "country": "US"

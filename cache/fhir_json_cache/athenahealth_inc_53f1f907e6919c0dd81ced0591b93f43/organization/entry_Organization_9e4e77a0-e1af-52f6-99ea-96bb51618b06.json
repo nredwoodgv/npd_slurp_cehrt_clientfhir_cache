@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174976492"
+        "value": "1033701578"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,19 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376884692"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1316279375"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265071765"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821176934"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,11 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508240482"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952998825"
+        "value": "1376884692"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,14 +38,38 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740368877"
+        "value": "1508240482"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033701578"
+        "value": "1265071765"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174976492"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952998825"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821176934"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1740368877"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1661 AIRPORT RD STE D"
+        ],
+        "city": "HOT SPRINGS NATIONAL PARK",
+        "state": "AR",
+        "postalCode": "71913-8184"
+      },
       {
         "line": [
           "4207 Park Avenue"
@@ -69,6 +77,14 @@
         "city": "HOT SPRINGS NATIONAL PARK",
         "state": "AR",
         "postalCode": "71901-9473"
+      },
+      {
+        "line": [
+          "755 Hwy 8 East"
+        ],
+        "city": "AMITY",
+        "state": "AR",
+        "postalCode": "71921-8562"
       },
       {
         "line": [
@@ -95,22 +111,6 @@
         "city": "GLENWOOD",
         "state": "AR",
         "postalCode": "71943-9147"
-      },
-      {
-        "line": [
-          "755 Hwy 8 East"
-        ],
-        "city": "AMITY",
-        "state": "AR",
-        "postalCode": "71921-8562"
-      },
-      {
-        "line": [
-          "1661 AIRPORT RD STE D"
-        ],
-        "city": "HOT SPRINGS NATIONAL PARK",
-        "state": "AR",
-        "postalCode": "71913-8184"
       }
     ],
     "extension": [

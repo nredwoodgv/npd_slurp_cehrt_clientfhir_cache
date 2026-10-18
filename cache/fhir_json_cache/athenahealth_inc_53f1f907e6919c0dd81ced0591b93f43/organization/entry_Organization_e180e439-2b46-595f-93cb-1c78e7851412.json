@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013042480"
+        "value": "1013313857"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013313857"
+        "value": "1013042480"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3235 South Cherokee Lane",
-          "BLDG 1200"
-        ],
-        "city": "WOODSTOCK",
-        "state": "GA",
-        "postalCode": "30188-4461"
-      },
       {
         "line": [
           "3217 South Cherokee Ln",
@@ -57,6 +48,15 @@
         "city": "MARIETTA",
         "state": "GA",
         "postalCode": "30062-5023"
+      },
+      {
+        "line": [
+          "3235 South Cherokee Lane",
+          "BLDG 1200"
+        ],
+        "city": "WOODSTOCK",
+        "state": "GA",
+        "postalCode": "30188-4461"
       }
     ],
     "extension": [

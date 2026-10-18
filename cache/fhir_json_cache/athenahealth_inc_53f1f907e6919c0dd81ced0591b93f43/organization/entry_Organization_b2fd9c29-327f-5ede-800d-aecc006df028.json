@@ -14,25 +14,17 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629398219"
+        "value": "1821349317"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821349317"
+        "value": "1629398219"
       }
     ],
     "address": [
       {
         "line": [
-          "440 SWANSEA DRIVE"
-        ],
-        "city": "SWANSEA",
-        "state": "MA",
-        "postalCode": "02777-1234"
-      },
-      {
-        "line": [
-          "795 MIDDLE STREET"
+          "795 MIDDLE ST"
         ],
         "city": "FALL RIVER",
         "state": "MA",
@@ -40,7 +32,15 @@
       },
       {
         "line": [
-          "795 MIDDLE ST"
+          "537 FAUNCE CORNER RD"
+        ],
+        "city": "NORTH DARTMOUTH",
+        "state": "MA",
+        "postalCode": "02747-1242"
+      },
+      {
+        "line": [
+          "795 MIDDLE STREET"
         ],
         "city": "FALL RIVER",
         "state": "MA",
@@ -56,11 +56,11 @@
       },
       {
         "line": [
-          "537 FAUNCE CORNER RD"
+          "440 SWANSEA DRIVE"
         ],
-        "city": "NORTH DARTMOUTH",
+        "city": "SWANSEA",
         "state": "MA",
-        "postalCode": "02747-1242"
+        "postalCode": "02777-1234"
       }
     ],
     "extension": [

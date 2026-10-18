@@ -14,37 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245728443"
+        "value": "1447442595"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447442595"
+        "value": "1245728443"
       }
     ],
     "address": [
       {
         "line": [
-          "7300 medical center dr"
+          "15107 VANOWEN ST"
         ],
-        "city": "WEST HILLS",
+        "city": "VAN NUYS",
         "state": "CA",
-        "postalCode": "91307-1902"
+        "postalCode": "91405-4542"
       },
       {
         "line": [
-          "7240 medical center drive"
+          "18300 roscoe blvd"
         ],
-        "city": "WEST HILLS",
+        "city": "NORTHRIDGE",
         "state": "CA",
-        "postalCode": "91307-1906"
-      },
-      {
-        "line": [
-          "18133 VENTURA BLVD"
-        ],
-        "city": "TARZANA",
-        "state": "CA",
-        "postalCode": "91356-3612"
+        "postalCode": "91325-4105"
       },
       {
         "line": [
@@ -56,20 +48,35 @@
       },
       {
         "line": [
-          "2121 Santa Monica Blvd"
+          "18133 VENTURA BLVD"
         ],
-        "city": "SANTA MONICA",
+        "city": "TARZANA",
         "state": "CA",
-        "postalCode": "90401-2303"
+        "postalCode": "91356-3612"
       },
       {
         "line": [
-          "7301 MEDICAL CENTER DR.",
-          "SUITE 208"
+          "7240 medical center drive"
         ],
         "city": "WEST HILLS",
         "state": "CA",
-        "postalCode": "91307-1968"
+        "postalCode": "91307-1906"
+      },
+      {
+        "line": [
+          "18321 Clark St"
+        ],
+        "city": "TARZANA",
+        "state": "CA",
+        "postalCode": "91356-3501"
+      },
+      {
+        "line": [
+          "7300 medical center dr"
+        ],
+        "city": "WEST HILLS",
+        "state": "CA",
+        "postalCode": "91307-1902"
       },
       {
         "line": [
@@ -81,7 +88,32 @@
       },
       {
         "line": [
-          "2121 Santa Monica"
+          "2121 Santa Monica Blvd"
+        ],
+        "city": "SANTA MONICA",
+        "state": "CA",
+        "postalCode": "90401-2303"
+      },
+      {
+        "line": [
+          "7301 medical center drive",
+          "suite#208"
+        ],
+        "city": "WEST HILLS",
+        "state": "CA",
+        "postalCode": "91307-1968"
+      },
+      {
+        "line": [
+          "1509 Wilson Terrace"
+        ],
+        "city": "GLENDALE",
+        "state": "CA",
+        "postalCode": "91206-4007"
+      },
+      {
+        "line": [
+          "2121 Santa Monica Blvd."
         ],
         "city": "SANTA MONICA",
         "state": "CA",
@@ -89,16 +121,33 @@
       },
       {
         "line": [
-          "15107 VANOWEN ST"
+          "7300 Medical Center Dr,"
         ],
-        "city": "VAN NUYS",
+        "city": "WEST HILLS",
         "state": "CA",
-        "postalCode": "91405-4542"
+        "postalCode": "91307-1902"
       },
       {
         "line": [
-          "7301 medical center drive",
-          "suite#208"
+          "18133 VENTURA BLVD STE 400"
+        ],
+        "city": "TARZANA",
+        "state": "CA",
+        "postalCode": "91356-3645"
+      },
+      {
+        "line": [
+          "8670 WILSHIRE BLVD",
+          "Suite 300"
+        ],
+        "city": "BEVERLY HILLS",
+        "state": "CA",
+        "postalCode": "90211-2930"
+      },
+      {
+        "line": [
+          "7301 MEDICAL CENTER DR.",
+          "SUITE 208"
         ],
         "city": "WEST HILLS",
         "state": "CA",
@@ -114,60 +163,11 @@
       },
       {
         "line": [
-          "18300 roscoe blvd"
-        ],
-        "city": "NORTHRIDGE",
-        "state": "CA",
-        "postalCode": "91325-4105"
-      },
-      {
-        "line": [
-          "18321 Clark St"
-        ],
-        "city": "TARZANA",
-        "state": "CA",
-        "postalCode": "91356-3501"
-      },
-      {
-        "line": [
-          "18133 VENTURA BLVD STE 400"
-        ],
-        "city": "TARZANA",
-        "state": "CA",
-        "postalCode": "91356-3645"
-      },
-      {
-        "line": [
-          "2121 Santa Monica Blvd."
+          "2121 Santa Monica"
         ],
         "city": "SANTA MONICA",
         "state": "CA",
         "postalCode": "90404-2303"
-      },
-      {
-        "line": [
-          "8670 WILSHIRE BLVD",
-          "Suite 300"
-        ],
-        "city": "BEVERLY HILLS",
-        "state": "CA",
-        "postalCode": "90211-2930"
-      },
-      {
-        "line": [
-          "1509 Wilson Terrace"
-        ],
-        "city": "GLENDALE",
-        "state": "CA",
-        "postalCode": "91206-4007"
-      },
-      {
-        "line": [
-          "7300 Medical Center Dr,"
-        ],
-        "city": "WEST HILLS",
-        "state": "CA",
-        "postalCode": "91307-1902"
       }
     ],
     "extension": [

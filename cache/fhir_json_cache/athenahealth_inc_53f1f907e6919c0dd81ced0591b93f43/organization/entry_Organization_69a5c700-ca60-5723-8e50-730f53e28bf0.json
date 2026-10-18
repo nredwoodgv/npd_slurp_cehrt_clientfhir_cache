@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750814737"
+        "value": "1649501347"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649501347"
+        "value": "1750814737"
       }
     ],
     "address": [
+      {
+        "line": [
+          "7777 Forest Lane"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75230-2501"
+      },
       {
         "line": [
           "12221 Merit Dr",
@@ -41,37 +49,27 @@
       },
       {
         "line": [
-          "7777 Forest Lane"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75230-2501"
-      },
-      {
-        "line": [
-          "5068 W PLANO PKWY",
-          "STE 390"
+          "3901 W 15th St"
         ],
         "city": "PLANO",
         "state": "TX",
-        "postalCode": "75093-4410"
+        "postalCode": "75075-7738"
       },
       {
         "line": [
-          "4708 ALLIANCE BLVD",
-          "SUITE 475"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75093-5368"
-      },
-      {
-        "line": [
-          "11970 North Central Expressway"
+          "8200 Walnut Hill Ln"
         ],
         "city": "DALLAS",
         "state": "TX",
-        "postalCode": "75243-3768"
+        "postalCode": "75231-4426"
+      },
+      {
+        "line": [
+          "4700 Alliance Blvd"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75093-5323"
       },
       {
         "line": [
@@ -84,7 +82,7 @@
       {
         "line": [
           "5068 W PLANO PKWY",
-          "Ste 155"
+          "STE 390"
         ],
         "city": "PLANO",
         "state": "TX",
@@ -92,11 +90,11 @@
       },
       {
         "line": [
-          "4700 Alliance Blvd"
+          "11970 North Central Expressway"
         ],
-        "city": "PLANO",
+        "city": "DALLAS",
         "state": "TX",
-        "postalCode": "75093-5323"
+        "postalCode": "75243-3768"
       },
       {
         "line": [
@@ -117,19 +115,21 @@
       },
       {
         "line": [
-          "8200 Walnut Hill Ln"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75231-4426"
-      },
-      {
-        "line": [
-          "3901 W 15th St"
+          "5068 W PLANO PKWY",
+          "Ste 155"
         ],
         "city": "PLANO",
         "state": "TX",
-        "postalCode": "75075-7738"
+        "postalCode": "75093-4410"
+      },
+      {
+        "line": [
+          "4708 ALLIANCE BLVD",
+          "SUITE 475"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75093-5368"
       }
     ],
     "extension": [

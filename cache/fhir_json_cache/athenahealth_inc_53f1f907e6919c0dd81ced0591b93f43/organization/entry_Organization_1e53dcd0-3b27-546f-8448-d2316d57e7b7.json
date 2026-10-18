@@ -14,25 +14,25 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972569820"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1487853149"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1699918672"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1972569820"
       }
     ],
     "address": [
       {
         "line": [
-          "2430 W. PIERCE ST"
+          "2430 West Pierce St"
         ],
         "city": "CARLSBAD",
         "state": "NM",
-        "postalCode": "88220-3553"
+        "postalCode": "88220-3543"
       },
       {
         "line": [
@@ -44,11 +44,11 @@
       },
       {
         "line": [
-          "2430 West Pierce St"
+          "2430 W. PIERCE ST"
         ],
         "city": "CARLSBAD",
         "state": "NM",
-        "postalCode": "88220-3543"
+        "postalCode": "88220-3553"
       }
     ],
     "extension": [

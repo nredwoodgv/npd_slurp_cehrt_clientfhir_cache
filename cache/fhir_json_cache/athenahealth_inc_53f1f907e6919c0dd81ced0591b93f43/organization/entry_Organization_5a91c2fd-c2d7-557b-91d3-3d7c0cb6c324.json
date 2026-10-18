@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891933560"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1407094436"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1659316008"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1891933560"
       }
     ],
     "address": [
@@ -45,24 +45,6 @@
       },
       {
         "line": [
-          "2525 West Carefree Hwy",
-          "Building 8 Suite 156"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85085-6093"
-      },
-      {
-        "line": [
-          "4550 East Bell Road",
-          "Suite 158"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85032-9382"
-      },
-      {
-        "line": [
           "10503 West Thunderbird Road",
           "Suite 113"
         ],
@@ -77,6 +59,24 @@
         "city": "SELLS",
         "state": "AZ",
         "postalCode": "85634-1234"
+      },
+      {
+        "line": [
+          "4550 East Bell Road",
+          "Suite 158"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85032-9382"
+      },
+      {
+        "line": [
+          "2525 West Carefree Hwy",
+          "Building 8 Suite 156"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85085-6093"
       }
     ],
     "extension": [

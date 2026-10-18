@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306449749"
+        "value": "1598341067"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912573999"
+        "value": "1306449749"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,25 +26,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598341067"
+        "value": "1912573999"
       }
     ],
     "address": [
       {
         "line": [
-          "70 Hawthorne Drive"
+          "425 Albion Rd"
         ],
-        "city": "BEDFORD",
-        "state": "NH",
-        "postalCode": "03110-6953"
-      },
-      {
-        "line": [
-          "418 QUINCY AVE"
-        ],
-        "city": "QUINCY",
-        "state": "MA",
-        "postalCode": "02169-8130"
+        "city": "LINCOLN",
+        "state": "RI",
+        "postalCode": "02865-4204"
       },
       {
         "line": [
@@ -56,11 +48,19 @@
       },
       {
         "line": [
-          "5 CORPORATE DR"
+          "525 TILTON ROAD"
         ],
-        "city": "BEDFORD",
-        "state": "NH",
-        "postalCode": "03110-5954"
+        "city": "NORTHFIELD",
+        "state": "NJ",
+        "postalCode": "08225-1217"
+      },
+      {
+        "line": [
+          "1583 ATWOOD AVE"
+        ],
+        "city": "JOHNSTON",
+        "state": "RI",
+        "postalCode": "02919-3232"
       },
       {
         "line": [
@@ -69,6 +69,55 @@
         "city": "MANCHESTER",
         "state": "NH",
         "postalCode": "03102-3237"
+      },
+      {
+        "line": [
+          "7 KENDALL POND RD"
+        ],
+        "city": "DERRY",
+        "state": "NH",
+        "postalCode": "03038-7283"
+      },
+      {
+        "line": [
+          "21 SEARLES RD"
+        ],
+        "city": "WINDHAM",
+        "state": "NH",
+        "postalCode": "03087-1203"
+      },
+      {
+        "line": [
+          "2 Wake Robin Road",
+          "Suite 103"
+        ],
+        "city": "LINCOLN",
+        "state": "RI",
+        "postalCode": "02865-4295"
+      },
+      {
+        "line": [
+          "465 Mt Prospect Ave"
+        ],
+        "city": "NEWARK",
+        "state": "NJ",
+        "postalCode": "07104-2907"
+      },
+      {
+        "line": [
+          "208 NORTH RD"
+        ],
+        "city": "SANDOWN",
+        "state": "NH",
+        "postalCode": "03873-2081"
+      },
+      {
+        "line": [
+          "1195 N. Main Street"
+        ],
+        "city": "PROVIDENCE",
+        "state": "RI",
+        "postalCode": "02904-1824"
       },
       {
         "line": [
@@ -89,68 +138,11 @@
       },
       {
         "line": [
-          "1620 NOOSENECK HILL RD"
-        ],
-        "city": "COVENTRY",
-        "state": "RI",
-        "postalCode": "02816-6705"
-      },
-      {
-        "line": [
-          "208 NORTH RD"
-        ],
-        "city": "SANDOWN",
-        "state": "NH",
-        "postalCode": "03873-2081"
-      },
-      {
-        "line": [
-          "425 Albion Rd"
-        ],
-        "city": "LINCOLN",
-        "state": "RI",
-        "postalCode": "02865-4204"
-      },
-      {
-        "line": [
-          "465 Mt Prospect Ave"
-        ],
-        "city": "NEWARK",
-        "state": "NJ",
-        "postalCode": "07104-2907"
-      },
-      {
-        "line": [
-          "525 TILTON ROAD"
-        ],
-        "city": "NORTHFIELD",
-        "state": "NJ",
-        "postalCode": "08225-1217"
-      },
-      {
-        "line": [
           "201 8TH ST N"
         ],
         "city": "ELLENDALE",
         "state": "ND",
         "postalCode": "58436-7341"
-      },
-      {
-        "line": [
-          "1583 ATWOOD AVE"
-        ],
-        "city": "JOHNSTON",
-        "state": "RI",
-        "postalCode": "02919-3232"
-      },
-      {
-        "line": [
-          "2 Wake Robin Road",
-          "Suite 103"
-        ],
-        "city": "LINCOLN",
-        "state": "RI",
-        "postalCode": "02865-4295"
       },
       {
         "line": [
@@ -162,19 +154,19 @@
       },
       {
         "line": [
-          "7 KENDALL POND RD"
+          "5 CORPORATE DR"
         ],
-        "city": "DERRY",
+        "city": "BEDFORD",
         "state": "NH",
-        "postalCode": "03038-7283"
+        "postalCode": "03110-5954"
       },
       {
         "line": [
-          "750 WASHINGTON ST"
+          "418 QUINCY AVE"
         ],
-        "city": "WEYMOUTH",
+        "city": "QUINCY",
         "state": "MA",
-        "postalCode": "02188-3325"
+        "postalCode": "02169-8130"
       },
       {
         "line": [
@@ -187,19 +179,27 @@
       },
       {
         "line": [
-          "21 SEARLES RD"
+          "750 WASHINGTON ST"
         ],
-        "city": "WINDHAM",
-        "state": "NH",
-        "postalCode": "03087-1203"
+        "city": "WEYMOUTH",
+        "state": "MA",
+        "postalCode": "02188-3325"
       },
       {
         "line": [
-          "1195 N. Main Street"
+          "70 Hawthorne Drive"
         ],
-        "city": "PROVIDENCE",
+        "city": "BEDFORD",
+        "state": "NH",
+        "postalCode": "03110-6953"
+      },
+      {
+        "line": [
+          "1620 NOOSENECK HILL RD"
+        ],
+        "city": "COVENTRY",
         "state": "RI",
-        "postalCode": "02904-1824"
+        "postalCode": "02816-6705"
       }
     ],
     "extension": [

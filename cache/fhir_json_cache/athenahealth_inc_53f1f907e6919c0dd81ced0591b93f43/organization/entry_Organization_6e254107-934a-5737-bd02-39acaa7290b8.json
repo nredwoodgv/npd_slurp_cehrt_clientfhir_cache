@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1851510002"
+        "value": "1588738538"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588738538"
+        "value": "1851510002"
       }
     ],
     "address": [
       {
         "line": [
-          "390 Stanaford Road"
+          "430 Main Street W"
         ],
-        "city": "BECKLEY",
+        "city": "OAK HILL",
         "state": "WV",
-        "postalCode": "25801-3142"
+        "postalCode": "25901-3414"
       },
       {
         "line": [
@@ -48,19 +48,11 @@
       },
       {
         "line": [
-          "252 Rural Acres Drive"
+          "390 Stanaford Road"
         ],
         "city": "BECKLEY",
         "state": "WV",
-        "postalCode": "25801-3503"
-      },
-      {
-        "line": [
-          "430 Main Street W"
-        ],
-        "city": "OAK HILL",
-        "state": "WV",
-        "postalCode": "25901-3414"
+        "postalCode": "25801-3142"
       },
       {
         "line": [
@@ -69,6 +61,14 @@
         "city": "BECKLEY",
         "state": "WV",
         "postalCode": "25801-2806"
+      },
+      {
+        "line": [
+          "252 Rural Acres Drive"
+        ],
+        "city": "BECKLEY",
+        "state": "WV",
+        "postalCode": "25801-3503"
       }
     ],
     "extension": [

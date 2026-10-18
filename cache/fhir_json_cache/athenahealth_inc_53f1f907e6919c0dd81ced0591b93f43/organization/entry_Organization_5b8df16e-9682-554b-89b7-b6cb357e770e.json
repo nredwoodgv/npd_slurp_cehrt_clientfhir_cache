@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205605342"
+        "value": "1205835485"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205835485"
+        "value": "1205605342"
       }
     ],
     "address": [
@@ -29,6 +29,14 @@
         "city": "WASHINGTON",
         "state": "DC",
         "postalCode": "20032-4689"
+      },
+      {
+        "line": [
+          "1150 VARNUM ST NE STe 200"
+        ],
+        "city": "WASHINGTON",
+        "state": "DC",
+        "postalCode": "20017-2107"
       },
       {
         "line": [
@@ -48,27 +56,19 @@
       },
       {
         "line": [
-          "6510 KENILWORTH AVE STE 2300"
-        ],
-        "city": "RIVERDALE",
-        "state": "MD",
-        "postalCode": "20737-1346"
-      },
-      {
-        "line": [
-          "1150 VARNUM ST NE STe 200"
-        ],
-        "city": "WASHINGTON",
-        "state": "DC",
-        "postalCode": "20017-2107"
-      },
-      {
-        "line": [
           "2041 MARTIN LUTHER KING JR AVE SE"
         ],
         "city": "WASHINGTON",
         "state": "DC",
         "postalCode": "20020-7033"
+      },
+      {
+        "line": [
+          "6510 KENILWORTH AVE STE 2300"
+        ],
+        "city": "RIVERDALE",
+        "state": "MD",
+        "postalCode": "20737-1346"
       }
     ],
     "extension": [

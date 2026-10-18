@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750636650"
+        "value": "1962860528"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962860528"
+        "value": "1750636650"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3810 N. Grant Avenue"
-        ],
-        "city": "LOVELAND",
-        "state": "CO",
-        "postalCode": "80538-8412"
-      },
       {
         "line": [
           "7447 East Berry Ave",
@@ -38,23 +30,6 @@
         "city": "Greenwood Village",
         "state": "CO",
         "postalCode": "80111-2146"
-      },
-      {
-        "line": [
-          "3810 N. GRANT AVE"
-        ],
-        "city": "LOVELAND",
-        "state": "CO",
-        "postalCode": "80538-8412"
-      },
-      {
-        "line": [
-          "3810 N Grant Ave",
-          "`"
-        ],
-        "city": "LOVELAND",
-        "state": "CO",
-        "postalCode": "80538-8412"
       },
       {
         "line": [
@@ -76,6 +51,22 @@
       },
       {
         "line": [
+          "3810 Grant Ave"
+        ],
+        "city": "LOVELAND",
+        "state": "CO",
+        "postalCode": "80538-8412"
+      },
+      {
+        "line": [
+          "3810 N. Grant Avenue"
+        ],
+        "city": "LOVELAND",
+        "state": "CO",
+        "postalCode": "80538-8412"
+      },
+      {
+        "line": [
           "1501 S Potomac St"
         ],
         "city": "AURORA",
@@ -84,7 +75,16 @@
       },
       {
         "line": [
-          "3810 Grant Ave"
+          "3810 N Grant Ave",
+          "`"
+        ],
+        "city": "LOVELAND",
+        "state": "CO",
+        "postalCode": "80538-8412"
+      },
+      {
+        "line": [
+          "3810 N. GRANT AVE"
         ],
         "city": "LOVELAND",
         "state": "CO",

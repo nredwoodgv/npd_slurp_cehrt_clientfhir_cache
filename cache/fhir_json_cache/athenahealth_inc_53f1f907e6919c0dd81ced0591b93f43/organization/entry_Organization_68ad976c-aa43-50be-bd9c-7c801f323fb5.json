@@ -14,6 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144325481"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215118609"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1356682298"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952328924"
       },
       {
@@ -22,19 +34,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215118609"
+        "value": "1639697949"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235234576"
+        "value": "1730695594"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265459242"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699947408"
+        "value": "1700392602"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,23 +50,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437714987"
+        "value": "1235234576"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871512228"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639697949"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144325481"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700392602"
+        "value": "1801339148"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -70,11 +66,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730695594"
+        "value": "1699947408"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356682298"
+        "value": "1265459242"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437714987"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -82,26 +82,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801339148"
+        "value": "1871512228"
       }
     ],
     "address": [
-      {
-        "line": [
-          "501 W AUSTIN ST"
-        ],
-        "city": "LULING",
-        "state": "TX",
-        "postalCode": "78648-1741"
-      },
-      {
-        "line": [
-          "130 Hays ST"
-        ],
-        "city": "LULING",
-        "state": "TX",
-        "postalCode": "78648-3207"
-      },
       {
         "line": [
           "107 N MEDINA ST"
@@ -136,6 +120,22 @@
       },
       {
         "line": [
+          "208 Maple ST"
+        ],
+        "city": "LULING",
+        "state": "TX",
+        "postalCode": "78648-2164"
+      },
+      {
+        "line": [
+          "501 W AUSTIN ST"
+        ],
+        "city": "LULING",
+        "state": "TX",
+        "postalCode": "78648-1741"
+      },
+      {
+        "line": [
           "1501 S MAIN ST"
         ],
         "city": "LOCKHART",
@@ -144,11 +144,11 @@
       },
       {
         "line": [
-          "208 Maple ST"
+          "130 Hays ST"
         ],
         "city": "LULING",
         "state": "TX",
-        "postalCode": "78648-2164"
+        "postalCode": "78648-3207"
       }
     ],
     "extension": [

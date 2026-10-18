@@ -18,37 +18,37 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255967956"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1124406376"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124156765"
+        "value": "1255967956"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1538240684"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124156765"
       }
     ],
     "address": [
       {
         "line": [
-          "17083 ROUTE 6"
-        ],
-        "city": "SMETHPORT",
-        "state": "PA",
-        "postalCode": "16749-4025"
-      },
-      {
-        "line": [
-          "100 SAINT FRANCIS DR"
+          "200 Pleasant St"
         ],
         "city": "BRADFORD",
         "state": "PA",
-        "postalCode": "16701-1868"
+        "postalCode": "16701-1065"
+      },
+      {
+        "line": [
+          "1521 W 54TH ST"
+        ],
+        "city": "ERIE",
+        "state": "PA",
+        "postalCode": "16509-2620"
       },
       {
         "line": [
@@ -60,38 +60,6 @@
       },
       {
         "line": [
-          "10 VO TECH DR"
-        ],
-        "city": "OIL CITY",
-        "state": "PA",
-        "postalCode": "16301-3502"
-      },
-      {
-        "line": [
-          "200 Pleasant St"
-        ],
-        "city": "BRADFORD",
-        "state": "PA",
-        "postalCode": "16701-1065"
-      },
-      {
-        "line": [
-          "14714 Park Ave Ext"
-        ],
-        "city": "MEADVILLE",
-        "state": "PA",
-        "postalCode": "16335-9400"
-      },
-      {
-        "line": [
-          "20881 STATE HIGHWAY 198"
-        ],
-        "city": "SAEGERTOWN",
-        "state": "PA",
-        "postalCode": "16433-6159"
-      },
-      {
-        "line": [
           "5535 PEACH ST"
         ],
         "city": "ERIE",
@@ -100,11 +68,11 @@
       },
       {
         "line": [
-          "1521 W 54TH ST"
+          "14714 Park Ave Ext"
         ],
-        "city": "ERIE",
+        "city": "MEADVILLE",
         "state": "PA",
-        "postalCode": "16509-2620"
+        "postalCode": "16335-9400"
       },
       {
         "line": [
@@ -129,6 +97,38 @@
         "city": "WARREN",
         "state": "PA",
         "postalCode": "16365-2307"
+      },
+      {
+        "line": [
+          "100 SAINT FRANCIS DR"
+        ],
+        "city": "BRADFORD",
+        "state": "PA",
+        "postalCode": "16701-1868"
+      },
+      {
+        "line": [
+          "17083 ROUTE 6"
+        ],
+        "city": "SMETHPORT",
+        "state": "PA",
+        "postalCode": "16749-4025"
+      },
+      {
+        "line": [
+          "10 VO TECH DR"
+        ],
+        "city": "OIL CITY",
+        "state": "PA",
+        "postalCode": "16301-3502"
+      },
+      {
+        "line": [
+          "20881 STATE HIGHWAY 198"
+        ],
+        "city": "SAEGERTOWN",
+        "state": "PA",
+        "postalCode": "16433-6159"
       }
     ],
     "extension": [

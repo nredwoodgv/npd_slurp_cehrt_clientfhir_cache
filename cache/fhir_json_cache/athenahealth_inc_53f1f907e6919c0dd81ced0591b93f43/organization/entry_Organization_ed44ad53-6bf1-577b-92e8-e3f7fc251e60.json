@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528782042"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1780638478"
       },
       {
@@ -22,31 +26,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528782042"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1992752224"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1025 S 6TH ST"
-        ],
-        "city": "SPRINGFIELD",
-        "state": "IL",
-        "postalCode": "62703-2403"
-      },
-      {
-        "line": [
-          "1025 S 6th St",
-          "East Building, 2nd Floor"
-        ],
-        "city": "SPRINGFIELD",
-        "state": "IL",
-        "postalCode": "62703-2403"
-      },
       {
         "line": [
           "505 E Grant St",
@@ -58,27 +41,27 @@
       },
       {
         "line": [
-          "7309 N Knoxville Ave"
-        ],
-        "city": "PEORIA",
-        "state": "IL",
-        "postalCode": "61614-2079"
-      },
-      {
-        "line": [
-          "105 E State St"
-        ],
-        "city": "NOKOMIS",
-        "state": "IL",
-        "postalCode": "62075-1341"
-      },
-      {
-        "line": [
           "1250 E Tremont St"
         ],
         "city": "HILLSBORO",
         "state": "IL",
         "postalCode": "62049-1912"
+      },
+      {
+        "line": [
+          "206 N Pearl St"
+        ],
+        "city": "Teutopolis",
+        "state": "IL",
+        "postalCode": "62467-1134"
+      },
+      {
+        "line": [
+          "7309 N Knoxville Ave"
+        ],
+        "city": "PEORIA",
+        "state": "IL",
+        "postalCode": "61614-2079"
       },
       {
         "line": [
@@ -90,19 +73,11 @@
       },
       {
         "line": [
-          "1025 S 6th St"
+          "600 N Main St"
         ],
-        "city": "Springfield",
+        "city": "Taylorville",
         "state": "IL",
-        "postalCode": "62703-2403"
-      },
-      {
-        "line": [
-          "1280 E Tremont St"
-        ],
-        "city": "HILLSBORO",
-        "state": "IL",
-        "postalCode": "62049-1912"
+        "postalCode": "62568-1668"
       },
       {
         "line": [
@@ -111,6 +86,14 @@
         "city": "Flora",
         "state": "IL",
         "postalCode": "62839-1405"
+      },
+      {
+        "line": [
+          "8800 IL-91"
+        ],
+        "city": "PEORIA",
+        "state": "IL",
+        "postalCode": "61615-9615"
       },
       {
         "line": [
@@ -130,35 +113,28 @@
       },
       {
         "line": [
-          "8800 IL-91"
+          "1025 S 6th St",
+          "East Building, 2nd Floor"
         ],
-        "city": "PEORIA",
+        "city": "SPRINGFIELD",
         "state": "IL",
-        "postalCode": "61615-9615"
+        "postalCode": "62703-2403"
       },
       {
         "line": [
-          "206 N Pearl St"
+          "1025 S 6TH ST"
         ],
-        "city": "Teutopolis",
+        "city": "SPRINGFIELD",
         "state": "IL",
-        "postalCode": "62467-1134"
+        "postalCode": "62703-2403"
       },
       {
         "line": [
-          "600 N Main St"
+          "1280 E Tremont St"
         ],
-        "city": "Taylorville",
+        "city": "HILLSBORO",
         "state": "IL",
-        "postalCode": "62568-1668"
-      },
-      {
-        "line": [
-          "1225 Woodland dr"
-        ],
-        "city": "MT ZION",
-        "state": "IL",
-        "postalCode": "62549-1237"
+        "postalCode": "62049-1912"
       },
       {
         "line": [
@@ -168,6 +144,30 @@
         "city": "SPRINGFIELD",
         "state": "IL",
         "postalCode": "62703-2403"
+      },
+      {
+        "line": [
+          "1025 S 6th St"
+        ],
+        "city": "Springfield",
+        "state": "IL",
+        "postalCode": "62703-2403"
+      },
+      {
+        "line": [
+          "105 E State St"
+        ],
+        "city": "NOKOMIS",
+        "state": "IL",
+        "postalCode": "62075-1341"
+      },
+      {
+        "line": [
+          "1225 Woodland dr"
+        ],
+        "city": "MT ZION",
+        "state": "IL",
+        "postalCode": "62549-1237"
       }
     ],
     "extension": [

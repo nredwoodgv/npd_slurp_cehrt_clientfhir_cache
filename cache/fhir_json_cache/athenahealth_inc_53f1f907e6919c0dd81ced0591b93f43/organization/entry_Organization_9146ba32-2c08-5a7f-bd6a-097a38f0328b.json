@@ -18,7 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295318525"
+        "value": "1245489590"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,18 +26,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245489590"
+        "value": "1295318525"
       }
     ],
     "address": [
-      {
-        "line": [
-          "43 Pinnacle Dr"
-        ],
-        "city": "FISHERSVILLE",
-        "state": "VA",
-        "postalCode": "22939-2365"
-      },
       {
         "line": [
           "51 Ivy Ridge Ln"
@@ -45,6 +37,14 @@
         "city": "FISHERSVILLE",
         "state": "VA",
         "postalCode": "22939-2353"
+      },
+      {
+        "line": [
+          "43 Pinnacle Dr"
+        ],
+        "city": "FISHERSVILLE",
+        "state": "VA",
+        "postalCode": "22939-2365"
       }
     ],
     "extension": [

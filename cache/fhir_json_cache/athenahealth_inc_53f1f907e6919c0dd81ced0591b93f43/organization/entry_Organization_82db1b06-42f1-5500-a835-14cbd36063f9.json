@@ -26,29 +26,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1699134882"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1235435892"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1124012935"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699134882"
       }
     ],
     "address": [
       {
         "line": [
-          "2800 STATE HIGHWAY 24 STE A"
-        ],
-        "city": "COMMERCE",
-        "state": "TX",
-        "postalCode": "75428-2017"
-      },
-      {
-        "line": [
-          "4215 JOE RAMSEY"
+          "4215 Joe Ramsey Blvd E"
         ],
         "city": "GREENVILLE",
         "state": "TX",
@@ -56,7 +48,7 @@
       },
       {
         "line": [
-          "4215 JOE RAMSEY BLVD E"
+          "4215 JOE RAMSEY"
         ],
         "city": "GREENVILLE",
         "state": "TX",
@@ -72,11 +64,19 @@
       },
       {
         "line": [
-          "4215 Joe Ramsey Blvd E"
+          "4215 JOE RAMSEY BLVD E"
         ],
         "city": "GREENVILLE",
         "state": "TX",
         "postalCode": "75401-7852"
+      },
+      {
+        "line": [
+          "2800 STATE HIGHWAY 24 STE A"
+        ],
+        "city": "COMMERCE",
+        "state": "TX",
+        "postalCode": "75428-2017"
       }
     ],
     "extension": [

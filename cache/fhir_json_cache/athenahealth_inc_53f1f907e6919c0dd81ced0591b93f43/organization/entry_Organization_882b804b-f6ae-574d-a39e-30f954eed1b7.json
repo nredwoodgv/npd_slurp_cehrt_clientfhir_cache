@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578085296"
+        "value": "1871512160"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871512160"
+        "value": "1578085296"
       }
     ],
     "address": [
@@ -29,39 +29,6 @@
         "city": "JEFFERSONVILLE",
         "state": "IN",
         "postalCode": "47130-6016"
-      },
-      {
-        "line": [
-          "9427 County Road 403"
-        ],
-        "city": "CHARLESTOWN",
-        "state": "IN",
-        "postalCode": "47111-8946"
-      },
-      {
-        "line": [
-          "1220 MISSOURI AVE"
-        ],
-        "city": "JEFFERSONVILLE",
-        "state": "IN",
-        "postalCode": "47130-3725"
-      },
-      {
-        "line": [
-          "100 MALLARD CREEK RD",
-          "SUITE 150"
-        ],
-        "city": "LOUISVILLE",
-        "state": "KY",
-        "postalCode": "40207-5138"
-      },
-      {
-        "line": [
-          "3398 W STATE RD 56"
-        ],
-        "city": "HANOVER",
-        "state": "IN",
-        "postalCode": "47243-9062"
       },
       {
         "line": [
@@ -81,6 +48,14 @@
       },
       {
         "line": [
+          "1220 MISSOURI AVE"
+        ],
+        "city": "JEFFERSONVILLE",
+        "state": "IN",
+        "postalCode": "47130-3725"
+      },
+      {
+        "line": [
           "476 CAPP HARLAN RD"
         ],
         "city": "TOMPKINSVILLE",
@@ -89,11 +64,19 @@
       },
       {
         "line": [
-          "3906 S DUPONT SQUARE"
+          "3398 W STATE RD 56"
         ],
-        "city": "LOUISVILLE",
-        "state": "KY",
-        "postalCode": "40207-4647"
+        "city": "HANOVER",
+        "state": "IN",
+        "postalCode": "47243-9062"
+      },
+      {
+        "line": [
+          "9427 County Road 403"
+        ],
+        "city": "CHARLESTOWN",
+        "state": "IN",
+        "postalCode": "47111-8946"
       },
       {
         "line": [
@@ -105,12 +88,29 @@
       },
       {
         "line": [
+          "3906 S DUPONT SQUARE"
+        ],
+        "city": "LOUISVILLE",
+        "state": "KY",
+        "postalCode": "40207-4647"
+      },
+      {
+        "line": [
           "73 THOMPSON POYNTER RD",
           "SUITE A"
         ],
         "city": "LONDON",
         "state": "KY",
         "postalCode": "40741-7202"
+      },
+      {
+        "line": [
+          "100 MALLARD CREEK RD",
+          "SUITE 150"
+        ],
+        "city": "LOUISVILLE",
+        "state": "KY",
+        "postalCode": "40207-5138"
       }
     ],
     "extension": [

@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396041075"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1548418742"
       },
       {
@@ -26,22 +30,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396041075"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1477995124"
       }
     ],
     "address": [
-      {
-        "line": [
-          "722 5th Avenue West"
-        ],
-        "city": "HENDERSONVILLE",
-        "state": "NC",
-        "postalCode": "28739-4102"
-      },
       {
         "line": [
           "."
@@ -49,6 +41,14 @@
         "city": "GLASCO",
         "state": "KS",
         "postalCode": "67445-9999"
+      },
+      {
+        "line": [
+          "722 5th Avenue West"
+        ],
+        "city": "HENDERSONVILLE",
+        "state": "NC",
+        "postalCode": "28739-4102"
       }
     ],
     "extension": [

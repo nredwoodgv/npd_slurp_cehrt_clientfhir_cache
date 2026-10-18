@@ -14,11 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104903103"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1326308644"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104903103"
+        "value": "1245312321"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -31,10 +35,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1740517887"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245312321"
       }
     ],
     "address": [
@@ -48,14 +48,6 @@
       },
       {
         "line": [
-          "99 Toiyabe St"
-        ],
-        "city": "Kingston",
-        "state": "NV",
-        "postalCode": "89310-9105"
-      },
-      {
-        "line": [
           "535 S Humboldt St"
         ],
         "city": "BATTLE MOUNTAIN",
@@ -64,11 +56,11 @@
       },
       {
         "line": [
-          "535 S Humoldt St."
+          "535 S Humboldt St"
         ],
         "city": "BATTLE MOUNTAIN",
         "state": "NV",
-        "postalCode": "89820-1744"
+        "postalCode": "89820-1988"
       },
       {
         "line": [
@@ -80,11 +72,19 @@
       },
       {
         "line": [
-          "535 S Humboldt St"
+          "535 S Humoldt St."
         ],
         "city": "BATTLE MOUNTAIN",
         "state": "NV",
-        "postalCode": "89820-1988"
+        "postalCode": "89820-1744"
+      },
+      {
+        "line": [
+          "99 Toiyabe St"
+        ],
+        "city": "Kingston",
+        "state": "NV",
+        "postalCode": "89310-9105"
       }
     ],
     "extension": [

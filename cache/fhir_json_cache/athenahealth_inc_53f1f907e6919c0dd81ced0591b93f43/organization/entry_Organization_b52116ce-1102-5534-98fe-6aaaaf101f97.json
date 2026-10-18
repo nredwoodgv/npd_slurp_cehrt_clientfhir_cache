@@ -14,6 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1205257029"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285065623"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1518361369"
       },
       {
@@ -23,32 +31,16 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1336560382"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285065623"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205257029"
       }
     ],
     "address": [
       {
         "line": [
-          "210 E DYER ST"
+          "200 S GENEVA ST"
         ],
         "city": "BRECKENRIDGE",
         "state": "TX",
-        "postalCode": "76424-3609"
-      },
-      {
-        "line": [
-          "210 N SMITH ST"
-        ],
-        "city": "BRECKENRIDGE",
-        "state": "TX",
-        "postalCode": "76424-3442"
+        "postalCode": "76424-4702"
       },
       {
         "line": [
@@ -68,17 +60,25 @@
       },
       {
         "line": [
-          "200 S GENEVA ST"
+          "210 E DYER ST"
         ],
         "city": "BRECKENRIDGE",
         "state": "TX",
-        "postalCode": "76424-4702"
+        "postalCode": "76424-3609"
       },
       {
         "line": [],
         "city": "BRECKENRIDGE",
         "state": "TX",
         "postalCode": "76424-4711"
+      },
+      {
+        "line": [
+          "210 N SMITH ST"
+        ],
+        "city": "BRECKENRIDGE",
+        "state": "TX",
+        "postalCode": "76424-3442"
       },
       {
         "line": [

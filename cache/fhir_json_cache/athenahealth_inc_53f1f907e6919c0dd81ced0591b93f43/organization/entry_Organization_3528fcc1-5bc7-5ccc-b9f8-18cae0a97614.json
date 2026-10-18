@@ -14,23 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265883904"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558419275"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1811123664"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649406497"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467792713"
+        "value": "1962997569"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,37 +26,33 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1265883904"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467792713"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1205470432"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962997569"
+        "value": "1649406497"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1558419275"
       }
     ],
     "address": [
       {
         "line": [
-          "2552 WILLIAMS BLVD."
+          "2000 CANAL ST"
         ],
-        "city": "KENNER",
+        "city": "NEW ORLEANS",
         "state": "LA",
-        "postalCode": "70062-5538"
-      },
-      {
-        "line": [
-          "2500 BELLE CHASSE HWY"
-        ],
-        "city": "GRETNA",
-        "state": "LA",
-        "postalCode": "70056-7127"
-      },
-      {
-        "line": [
-          "7001 Lapalco Blvd"
-        ],
-        "city": "MARRERO",
-        "state": "LA",
-        "postalCode": "70072-4503"
+        "postalCode": "70112-3018"
       },
       {
         "line": [
@@ -80,19 +64,27 @@
       },
       {
         "line": [
-          "1101 MEDICAL CENTER BLVD"
+          "7001 Lapalco Blvd"
         ],
         "city": "MARRERO",
         "state": "LA",
-        "postalCode": "70072-3151"
+        "postalCode": "70072-4503"
       },
       {
         "line": [
-          "2000 CANAL ST"
+          "200 HENRY CLAY AVE"
         ],
         "city": "NEW ORLEANS",
         "state": "LA",
-        "postalCode": "70112-3018"
+        "postalCode": "70118-5720"
+      },
+      {
+        "line": [
+          "2500 BELLE CHASSE HWY"
+        ],
+        "city": "GRETNA",
+        "state": "LA",
+        "postalCode": "70056-7127"
       },
       {
         "line": [
@@ -104,11 +96,27 @@
       },
       {
         "line": [
+          "5140 Church St"
+        ],
+        "city": "LAFITTE",
+        "state": "LA",
+        "postalCode": "70067-5256"
+      },
+      {
+        "line": [
           "3932 U.S Highway 90"
         ],
         "city": "WESTWEGO",
         "state": "LA",
         "postalCode": "70094-2648"
+      },
+      {
+        "line": [
+          "2552 WILLIAMS BLVD."
+        ],
+        "city": "KENNER",
+        "state": "LA",
+        "postalCode": "70062-5538"
       },
       {
         "line": [
@@ -128,27 +136,19 @@
       },
       {
         "line": [
-          "200 HENRY CLAY AVE"
-        ],
-        "city": "NEW ORLEANS",
-        "state": "LA",
-        "postalCode": "70118-5720"
-      },
-      {
-        "line": [
-          "5140 Church St"
-        ],
-        "city": "LAFITTE",
-        "state": "LA",
-        "postalCode": "70067-5256"
-      },
-      {
-        "line": [
           "3932 US Hwy 90"
         ],
         "city": "WESTWEGO",
         "state": "LA",
         "postalCode": "70094-2648"
+      },
+      {
+        "line": [
+          "1101 MEDICAL CENTER BLVD"
+        ],
+        "city": "MARRERO",
+        "state": "LA",
+        "postalCode": "70072-3151"
       }
     ],
     "extension": [

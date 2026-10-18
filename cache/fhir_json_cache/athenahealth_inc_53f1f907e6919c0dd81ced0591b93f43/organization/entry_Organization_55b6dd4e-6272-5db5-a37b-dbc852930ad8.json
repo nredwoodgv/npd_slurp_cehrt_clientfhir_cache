@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033943105"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1356630990"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1811912611"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033943105"
       }
     ],
     "address": [
@@ -37,39 +37,20 @@
       },
       {
         "line": [
-          "1000 Northside Drive",
-          "Suite 1500"
+          "1163 Johnson Ferry Road"
         ],
-        "city": "ATLANTA",
+        "city": "MARIETTA",
         "state": "GA",
-        "postalCode": "30318-5472"
+        "postalCode": "30068-2764"
       },
       {
         "line": [
-          "3200 Downwood Circle",
-          "Suite 700"
+          "142 Prestige Lane",
+          "Suite 600"
         ],
-        "city": "ATLANTA",
+        "city": "DAWSONVILLE",
         "state": "GA",
-        "postalCode": "30327-1610"
-      },
-      {
-        "line": [
-          "993 C Johnson Ferry Pkwy",
-          "Ste 345"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30342-1212"
-      },
-      {
-        "line": [
-          "3200 DOWNWOOD CIRCLE NW",
-          "SUITE 700"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30327-1610"
+        "postalCode": "30534-6254"
       },
       {
         "line": [
@@ -91,37 +72,21 @@
       },
       {
         "line": [
-          "2860 Ronald Reagan Blvd",
-          "Suite 200"
-        ],
-        "city": "CUMMING",
-        "state": "GA",
-        "postalCode": "30041-0001"
-      },
-      {
-        "line": [
-          "142 Prestige Lane",
-          "Suite 600"
-        ],
-        "city": "DAWSONVILLE",
-        "state": "GA",
-        "postalCode": "30534-6253"
-      },
-      {
-        "line": [
-          "1163 Johnson Ferry Road"
-        ],
-        "city": "MARIETTA",
-        "state": "GA",
-        "postalCode": "30068-2764"
-      },
-      {
-        "line": [
-          "5505 PEACHTREE DUNWOODY RD STE 200"
+          "3200 Downwood Circle",
+          "Suite 700"
         ],
         "city": "ATLANTA",
         "state": "GA",
-        "postalCode": "30342-1749"
+        "postalCode": "30327-1610"
+      },
+      {
+        "line": [
+          "1000 Northside Drive",
+          "Suite 1500"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30318-5472"
       },
       {
         "line": [
@@ -134,29 +99,20 @@
       },
       {
         "line": [
-          "2001 Peachtree Road NE",
-          "Suite 705"
+          "2860 Ronald Reagan Blvd",
+          "Suite 200"
+        ],
+        "city": "CUMMING",
+        "state": "GA",
+        "postalCode": "30041-0001"
+      },
+      {
+        "line": [
+          "550 Peachtree Street NE"
         ],
         "city": "ATLANTA",
         "state": "GA",
-        "postalCode": "30309-1476"
-      },
-      {
-        "line": [
-          "2860 RONALD REAGAN BLVD"
-        ],
-        "city": "CUMMING",
-        "state": "GA",
-        "postalCode": "30041-0001"
-      },
-      {
-        "line": [
-          "2860 Ronald Reagan Blvd",
-          "Suite 240"
-        ],
-        "city": "CUMMING",
-        "state": "GA",
-        "postalCode": "30041-0001"
+        "postalCode": "30308-2247"
       },
       {
         "line": [
@@ -178,29 +134,12 @@
       },
       {
         "line": [
-          "142 Prestige Lane",
-          "Suite 600"
-        ],
-        "city": "DAWSONVILLE",
-        "state": "GA",
-        "postalCode": "30534-6254"
-      },
-      {
-        "line": [
-          "142 PRESTIGE LN STE 600"
-        ],
-        "city": "DAWSONVILLE",
-        "state": "GA",
-        "postalCode": "30534-6254"
-      },
-      {
-        "line": [
-          "2001 Peachtree Rd",
-          "suite 705"
+          "993 C Johnson Ferry Pkwy",
+          "Ste 345"
         ],
         "city": "ATLANTA",
         "state": "GA",
-        "postalCode": "30309-1476"
+        "postalCode": "30342-1212"
       },
       {
         "line": [
@@ -213,11 +152,12 @@
       },
       {
         "line": [
-          "550 Peachtree Street NE"
+          "142 Prestige Lane",
+          "Suite 600"
         ],
-        "city": "ATLANTA",
+        "city": "DAWSONVILLE",
         "state": "GA",
-        "postalCode": "30308-2247"
+        "postalCode": "30534-6253"
       },
       {
         "line": [
@@ -230,12 +170,72 @@
       },
       {
         "line": [
+          "2860 RONALD REAGAN BLVD"
+        ],
+        "city": "CUMMING",
+        "state": "GA",
+        "postalCode": "30041-0001"
+      },
+      {
+        "line": [
+          "2001 Peachtree Road NE",
+          "Suite 705"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30309-1476"
+      },
+      {
+        "line": [
+          "5505 PEACHTREE DUNWOODY RD STE 200"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30342-1749"
+      },
+      {
+        "line": [
+          "3200 DOWNWOOD CIRCLE NW",
+          "SUITE 700"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30327-1610"
+      },
+      {
+        "line": [
+          "142 PRESTIGE LN STE 600"
+        ],
+        "city": "DAWSONVILLE",
+        "state": "GA",
+        "postalCode": "30534-6254"
+      },
+      {
+        "line": [
           "11800 Amber Park Drive Parkway 400",
           "Building One, Suite 200"
         ],
         "city": "ALPHARETTA",
         "state": "GA",
         "postalCode": "30005-3707"
+      },
+      {
+        "line": [
+          "2001 Peachtree Rd",
+          "suite 705"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30309-1476"
+      },
+      {
+        "line": [
+          "2860 Ronald Reagan Blvd",
+          "Suite 240"
+        ],
+        "city": "CUMMING",
+        "state": "GA",
+        "postalCode": "30041-0001"
       }
     ],
     "extension": [

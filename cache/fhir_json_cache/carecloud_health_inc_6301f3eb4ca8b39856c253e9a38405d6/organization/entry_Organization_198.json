@@ -4,16 +4,12 @@
     "id": "198",
     "identifier": [
       {
-        "system": "https://github.com/synthetichealth/synthea",
-        "value": "56090ab7-1f97-37ff-a434-194f9c6e5510"
-      },
-      {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "FI"
+        "value": "1972599595"
       },
       {
-        "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "ca-peiVCI"
+        "system": "https://api-datamanager.carecloud.com/fhir/sid/talkehr/practice",
+        "value": "198"
       }
     ],
     "active": true,
@@ -25,17 +21,25 @@
             "code": "prov",
             "display": "Healthcare Provider"
           }
-        ],
-        "text": "Healthcare Provider"
+        ]
       }
     ],
     "name": "ROBERT M. SCHAEFER, M.D., FACOG, PC",
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "7322201655",
+        "use": "work"
+      }
+    ],
     "address": [
       {
+        "text": "330 LIVINGSTON AVE, 2ND FLOOR, NEW BRUNSWICK, NJ 089012055, MIDDLESEX",
         "line": [
           "330 LIVINGSTON AVE, 2ND FLOOR"
         ],
         "city": "NEW BRUNSWICK",
+        "district": "MIDDLESEX",
         "state": "NJ",
         "postalCode": "089012055",
         "country": "US"

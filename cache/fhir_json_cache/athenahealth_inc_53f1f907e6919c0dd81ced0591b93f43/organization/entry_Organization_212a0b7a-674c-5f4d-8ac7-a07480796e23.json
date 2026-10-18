@@ -14,14 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952120545"
+        "value": "1508967233"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508967233"
+        "value": "1952120545"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1703 LANGHORNE NEWTOWN RD",
+          "SUITE 1"
+        ],
+        "city": "LANGHORNE",
+        "state": "PA",
+        "postalCode": "19047-1082"
+      },
       {
         "line": [
           "1703 LANGHORNE NEWTOWN RD",
@@ -30,14 +39,6 @@
         "city": "LANGHORNE",
         "state": "PA",
         "postalCode": "19047-1082"
-      },
-      {
-        "line": [
-          "1201 LANGHORNE NEWTOWN RD"
-        ],
-        "city": "LANGHORNE",
-        "state": "PA",
-        "postalCode": "19047-1201"
       },
       {
         "line": [
@@ -50,12 +51,11 @@
       },
       {
         "line": [
-          "1703 LANGHORNE NEWTOWN RD",
-          "SUITE 1"
+          "1201 LANGHORNE NEWTOWN RD"
         ],
         "city": "LANGHORNE",
         "state": "PA",
-        "postalCode": "19047-1082"
+        "postalCode": "19047-1201"
       }
     ],
     "extension": [

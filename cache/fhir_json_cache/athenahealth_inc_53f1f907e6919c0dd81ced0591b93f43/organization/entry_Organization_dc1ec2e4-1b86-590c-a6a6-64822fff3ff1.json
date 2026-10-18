@@ -18,7 +18,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720022494"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1477621472"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1942466982"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -27,24 +35,30 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1457429375"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720022494"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942466982"
       }
     ],
     "address": [
       {
         "line": [
-          "315 N. SAN SABA, SUITE 1100"
+          "2550 N ESPLANADE ST"
+        ],
+        "city": "CUERO",
+        "state": "TX",
+        "postalCode": "77954-4736"
+      },
+      {
+        "line": [],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78216-6919"
+      },
+      {
+        "line": [
+          "19138 US Hwy 281 North"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78207-3252"
+        "postalCode": "78258-1234"
       },
       {
         "line": [
@@ -65,14 +79,6 @@
       },
       {
         "line": [
-          "403 Treeline Park"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78209-2042"
-      },
-      {
-        "line": [
           "19138 US HWY 281"
         ],
         "city": "SAN ANTONIO",
@@ -81,11 +87,27 @@
       },
       {
         "line": [
+          "403 Treeline Park"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78209-2042"
+      },
+      {
+        "line": [
           "19138 North US Hwy 281"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
         "postalCode": "78258-4988"
+      },
+      {
+        "line": [
+          "6700 W INTERSTATE 10"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78201-2009"
       },
       {
         "line": [
@@ -98,19 +120,11 @@
       },
       {
         "line": [
-          "6700 W INTERSTATE 10"
+          "9522 HUEBNER RD"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78201-2009"
-      },
-      {
-        "line": [
-          "19138 US Hwy 281 North"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78258-1234"
+        "postalCode": "78240-1548"
       },
       {
         "line": [
@@ -131,25 +145,11 @@
       },
       {
         "line": [
-          "9522 HUEBNER RD"
+          "315 N. SAN SABA, SUITE 1100"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78240-1548"
-      },
-      {
-        "line": [],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78216-6919"
-      },
-      {
-        "line": [
-          "2550 N ESPLANADE ST"
-        ],
-        "city": "CUERO",
-        "state": "TX",
-        "postalCode": "77954-4736"
+        "postalCode": "78207-3252"
       }
     ],
     "extension": [

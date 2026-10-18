@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578561569"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1538775481"
       },
       {
@@ -26,85 +22,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578561569"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1205866274"
       }
     ],
     "address": [
-      {
-        "line": [
-          "100 South St"
-        ],
-        "city": "SOUTHBRIDGE",
-        "state": "MA",
-        "postalCode": "01550-4047"
-      },
-      {
-        "line": [
-          "2014 Washington Street"
-        ],
-        "city": "NEWTON LOWER FALLS",
-        "state": "MA",
-        "postalCode": "02462-1607"
-      },
-      {
-        "line": [
-          "175 FORE RIVER PKWY"
-        ],
-        "city": "PORTLAND",
-        "state": "ME",
-        "postalCode": "04102-2779"
-      },
-      {
-        "line": [
-          "800 Falmouth Road",
-          "Suite 102A"
-        ],
-        "city": "MASHPEE",
-        "state": "MA",
-        "postalCode": "02649-3303"
-      },
-      {
-        "line": [
-          "981 WORCESTER ST, FLOOR 2"
-        ],
-        "city": "WELLESLEY",
-        "state": "MA",
-        "postalCode": "02482-3716"
-      },
-      {
-        "line": [
-          "21 EASTERN AVENUE",
-          "THIRD FLOOR"
-        ],
-        "city": "WORCESTER",
-        "state": "MA",
-        "postalCode": "01605-3094"
-      },
-      {
-        "line": [
-          "85 Lincoln Street",
-          "Suite T4002"
-        ],
-        "city": "FRAMINGHAM",
-        "state": "MA",
-        "postalCode": "01702-6351"
-      },
-      {
-        "line": [
-          "27 Park Street"
-        ],
-        "city": "HYANNIS",
-        "state": "MA",
-        "postalCode": "02601-5230"
-      },
-      {
-        "line": [
-          "20 Indian Hill Road"
-        ],
-        "city": "VINEYARD HAVEN",
-        "state": "MA",
-        "postalCode": "02568-0001"
-      },
       {
         "line": [
           "275 SANDWICH ST"
@@ -123,15 +48,6 @@
       },
       {
         "line": [
-          "114 Merriam Avenue",
-          "Suite 101"
-        ],
-        "city": "LEOMINSTER",
-        "state": "MA",
-        "postalCode": "01453-3175"
-      },
-      {
-        "line": [
           "1 Loving Kindness Way"
         ],
         "city": "YORK",
@@ -140,45 +56,19 @@
       },
       {
         "line": [
-          "40 Industrial Park Road",
-          "Suite 203"
+          "33 EDGERTON DR"
         ],
-        "city": "PLYMOUTH",
+        "city": "NORTH FALMOUTH",
         "state": "MA",
-        "postalCode": "02360-6123"
+        "postalCode": "02556-2821"
       },
       {
         "line": [
-          "736 CAMBRIDGE ST"
+          "27 Park Street"
         ],
-        "city": "BRIGHTON",
+        "city": "HYANNIS",
         "state": "MA",
-        "postalCode": "02135-2907"
-      },
-      {
-        "line": [
-          "114 MERRIAM AVE",
-          "SUITE 101"
-        ],
-        "city": "LEOMINSTER",
-        "state": "MA",
-        "postalCode": "01453-2238"
-      },
-      {
-        "line": [
-          "100 South Street"
-        ],
-        "city": "SOUTHBRIDGE",
-        "state": "MA",
-        "postalCode": "01550-4047"
-      },
-      {
-        "line": [
-          "2100 Dorchester Ave"
-        ],
-        "city": "DORCHESTER CENTER",
-        "state": "MA",
-        "postalCode": "02124-5666"
+        "postalCode": "02601-5230"
       },
       {
         "line": [
@@ -190,27 +80,11 @@
       },
       {
         "line": [
-          "981 WORCESTER ST STE 2A"
+          "55 Fruit Street"
         ],
-        "city": "WELLESLEY",
+        "city": "BOSTON",
         "state": "MA",
-        "postalCode": "02482-3716"
-      },
-      {
-        "line": [
-          "2033 MAIN ST"
-        ],
-        "city": "ATHOL",
-        "state": "MA",
-        "postalCode": "01331-3535"
-      },
-      {
-        "line": [
-          "100 CAMP STREET"
-        ],
-        "city": "HYANNIS",
-        "state": "MA",
-        "postalCode": "02601-3063"
+        "postalCode": "02114-2621"
       },
       {
         "line": [
@@ -223,52 +97,19 @@
       },
       {
         "line": [
-          "214 Charlton Road"
+          "2014 Washington Street"
         ],
-        "city": "STURBRIDGE",
+        "city": "NEWTON LOWER FALLS",
         "state": "MA",
-        "postalCode": "01566-1519"
+        "postalCode": "02462-1607"
       },
       {
         "line": [
-          "52 WALTHAM ST"
+          "60 HOSPITAL ROAD"
         ],
-        "city": "LEXINGTON",
+        "city": "LEOMINSTER",
         "state": "MA",
-        "postalCode": "02421-5407"
-      },
-      {
-        "line": [
-          "85 Lincoln Street",
-          "STE T4002"
-        ],
-        "city": "FRAMINGHAM",
-        "state": "MA",
-        "postalCode": "01702-8200"
-      },
-      {
-        "line": [
-          "55 Fruit Street"
-        ],
-        "city": "BOSTON",
-        "state": "MA",
-        "postalCode": "02114-2621"
-      },
-      {
-        "line": [
-          "54 BAKER AVENUE EXTENSION"
-        ],
-        "city": "CONCORD",
-        "state": "MA",
-        "postalCode": "01742-2137"
-      },
-      {
-        "line": [
-          "27 PARK ST"
-        ],
-        "city": "HYANNIS",
-        "state": "MA",
-        "postalCode": "02601-5230"
+        "postalCode": "01453-2205"
       },
       {
         "line": [
@@ -288,6 +129,107 @@
       },
       {
         "line": [
+          "85 Lincoln Street",
+          "Suite T4002"
+        ],
+        "city": "FRAMINGHAM",
+        "state": "MA",
+        "postalCode": "01702-6351"
+      },
+      {
+        "line": [
+          "2100 Dorchester Ave"
+        ],
+        "city": "DORCHESTER CENTER",
+        "state": "MA",
+        "postalCode": "02124-5666"
+      },
+      {
+        "line": [
+          "2014 Washington Street"
+        ],
+        "city": "NEWTON LOWER FALLS",
+        "state": "MA",
+        "postalCode": "02462-1624"
+      },
+      {
+        "line": [
+          "100 South Street"
+        ],
+        "city": "SOUTHBRIDGE",
+        "state": "MA",
+        "postalCode": "01550-4047"
+      },
+      {
+        "line": [
+          "100 CAMP STREET"
+        ],
+        "city": "HYANNIS",
+        "state": "MA",
+        "postalCode": "02601-3063"
+      },
+      {
+        "line": [
+          "800 Falmouth Road",
+          "Suite 102A"
+        ],
+        "city": "MASHPEE",
+        "state": "MA",
+        "postalCode": "02649-3303"
+      },
+      {
+        "line": [
+          "54 BAKER AVENUE EXTENSION"
+        ],
+        "city": "CONCORD",
+        "state": "MA",
+        "postalCode": "01742-2137"
+      },
+      {
+        "line": [
+          "114 Merriam Avenue",
+          "Suite 101"
+        ],
+        "city": "LEOMINSTER",
+        "state": "MA",
+        "postalCode": "01453-3175"
+      },
+      {
+        "line": [
+          "40 Industrial Park Road",
+          "Suite 203"
+        ],
+        "city": "PLYMOUTH",
+        "state": "MA",
+        "postalCode": "02360-6123"
+      },
+      {
+        "line": [
+          "85 Lincoln Street",
+          "STE T4002"
+        ],
+        "city": "FRAMINGHAM",
+        "state": "MA",
+        "postalCode": "01702-8200"
+      },
+      {
+        "line": [
+          "20 Indian Hill Road"
+        ],
+        "city": "VINEYARD HAVEN",
+        "state": "MA",
+        "postalCode": "02568-0001"
+      },
+      {
+        "line": [
+          "175 FORE RIVER PKWY"
+        ],
+        "city": "PORTLAND",
+        "state": "ME",
+        "postalCode": "04102-2779"
+      },
+      {
+        "line": [
           "246 SOUTHBRIDGE RD"
         ],
         "city": "CHARLTON",
@@ -296,11 +238,19 @@
       },
       {
         "line": [
-          "33 EDGERTON DR"
+          "981 WORCESTER ST STE 2A"
         ],
-        "city": "NORTH FALMOUTH",
+        "city": "WELLESLEY",
         "state": "MA",
-        "postalCode": "02556-2821"
+        "postalCode": "02482-3716"
+      },
+      {
+        "line": [
+          "214 Charlton Road"
+        ],
+        "city": "STURBRIDGE",
+        "state": "MA",
+        "postalCode": "01566-1519"
       },
       {
         "line": [
@@ -313,35 +263,11 @@
       },
       {
         "line": [
-          "400 SOUTHBOROUGH DR STE 400-102"
+          "52 WALTHAM ST"
         ],
-        "city": "SOUTH PORTLAND",
-        "state": "ME",
-        "postalCode": "04106-3249"
-      },
-      {
-        "line": [
-          "60 HOSPITAL"
-        ],
-        "city": "LEOMINSTER",
+        "city": "LEXINGTON",
         "state": "MA",
-        "postalCode": "01453-2205"
-      },
-      {
-        "line": [
-          "60 HOSPITAL ROAD"
-        ],
-        "city": "LEOMINSTER",
-        "state": "MA",
-        "postalCode": "01453-2205"
-      },
-      {
-        "line": [
-          "85 Lincoln Street"
-        ],
-        "city": "FRAMINGHAM",
-        "state": "MA",
-        "postalCode": "01702-8200"
+        "postalCode": "02421-5407"
       },
       {
         "line": [
@@ -353,6 +279,54 @@
       },
       {
         "line": [
+          "60 HOSPITAL"
+        ],
+        "city": "LEOMINSTER",
+        "state": "MA",
+        "postalCode": "01453-2205"
+      },
+      {
+        "line": [
+          "2033 MAIN ST"
+        ],
+        "city": "ATHOL",
+        "state": "MA",
+        "postalCode": "01331-3535"
+      },
+      {
+        "line": [
+          "981 WORCESTER ST, FLOOR 2"
+        ],
+        "city": "WELLESLEY",
+        "state": "MA",
+        "postalCode": "02482-3716"
+      },
+      {
+        "line": [
+          "400 SOUTHBOROUGH DR STE 400-102"
+        ],
+        "city": "SOUTH PORTLAND",
+        "state": "ME",
+        "postalCode": "04106-3249"
+      },
+      {
+        "line": [
+          "736 CAMBRIDGE ST"
+        ],
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2907"
+      },
+      {
+        "line": [
+          "100 South St"
+        ],
+        "city": "SOUTHBRIDGE",
+        "state": "MA",
+        "postalCode": "01550-4047"
+      },
+      {
+        "line": [
           "127 LONG SANDS RD UNIT GA"
         ],
         "city": "YORK",
@@ -361,11 +335,37 @@
       },
       {
         "line": [
-          "2014 Washington Street"
+          "21 EASTERN AVENUE",
+          "THIRD FLOOR"
         ],
-        "city": "NEWTON LOWER FALLS",
+        "city": "WORCESTER",
         "state": "MA",
-        "postalCode": "02462-1624"
+        "postalCode": "01605-3094"
+      },
+      {
+        "line": [
+          "114 MERRIAM AVE",
+          "SUITE 101"
+        ],
+        "city": "LEOMINSTER",
+        "state": "MA",
+        "postalCode": "01453-2238"
+      },
+      {
+        "line": [
+          "27 PARK ST"
+        ],
+        "city": "HYANNIS",
+        "state": "MA",
+        "postalCode": "02601-5230"
+      },
+      {
+        "line": [
+          "85 Lincoln Street"
+        ],
+        "city": "FRAMINGHAM",
+        "state": "MA",
+        "postalCode": "01702-8200"
       }
     ],
     "extension": [

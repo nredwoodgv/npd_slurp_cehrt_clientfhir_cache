@@ -14,6 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861054744"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1871801688"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1104386655"
       },
       {
@@ -23,32 +31,16 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1295397032"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861054744"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871801688"
       }
     ],
     "address": [
       {
         "line": [
-          "4614 Memorial Drive"
+          "214 Main St"
         ],
-        "city": "SAINT JOHNSBURY",
+        "city": "VERGENNES",
         "state": "VT",
-        "postalCode": "05819-8780"
-      },
-      {
-        "line": [
-          "462 Hegeman Ave"
-        ],
-        "city": "COLCHESTER",
-        "state": "VT",
-        "postalCode": "05446-3187"
+        "postalCode": "05491-1157"
       },
       {
         "line": [
@@ -70,11 +62,27 @@
       },
       {
         "line": [
-          "79 Coventry St"
+          "368 River Street"
         ],
-        "city": "NEWPORT",
+        "city": "SPRINGFIELD",
         "state": "VT",
-        "postalCode": "05855-2206"
+        "postalCode": "05156-2242"
+      },
+      {
+        "line": [
+          "4614 Memorial Drive"
+        ],
+        "city": "SAINT JOHNSBURY",
+        "state": "VT",
+        "postalCode": "05819-8780"
+      },
+      {
+        "line": [
+          "462 Hegeman Ave"
+        ],
+        "city": "COLCHESTER",
+        "state": "VT",
+        "postalCode": "05446-3187"
       },
       {
         "line": [
@@ -86,11 +94,11 @@
       },
       {
         "line": [
-          "368 River Street"
+          "79 Coventry St"
         ],
-        "city": "SPRINGFIELD",
+        "city": "NEWPORT",
         "state": "VT",
-        "postalCode": "05156-2242"
+        "postalCode": "05855-2206"
       },
       {
         "line": [
@@ -99,14 +107,6 @@
         "city": "Brattleboro",
         "state": "VT",
         "postalCode": "05301-8805"
-      },
-      {
-        "line": [
-          "214 Main St"
-        ],
-        "city": "VERGENNES",
-        "state": "VT",
-        "postalCode": "05491-1157"
       }
     ],
     "extension": [

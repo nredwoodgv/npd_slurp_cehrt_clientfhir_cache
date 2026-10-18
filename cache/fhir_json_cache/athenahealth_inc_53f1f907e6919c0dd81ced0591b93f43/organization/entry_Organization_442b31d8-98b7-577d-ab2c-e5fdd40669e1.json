@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215920285"
+        "value": "1033437116"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033437116"
+        "value": "1215920285"
       }
     ],
     "address": [
@@ -40,6 +40,14 @@
       },
       {
         "line": [
+          "3700 SHAMROCK DRIVE"
+        ],
+        "city": "CHARLOTTE",
+        "state": "NC",
+        "postalCode": "28215-3298"
+      },
+      {
+        "line": [
           "2315 HWY 242 NORTH"
         ],
         "city": "BENSON",
@@ -53,14 +61,6 @@
         "city": "SALISBURY",
         "state": "NC",
         "postalCode": "28147-9383"
-      },
-      {
-        "line": [
-          "3700 SHAMROCK DRIVE"
-        ],
-        "city": "CHARLOTTE",
-        "state": "NC",
-        "postalCode": "28215-3298"
       }
     ],
     "extension": [

@@ -18,7 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538606181"
+        "value": "1497701106"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497701106"
+        "value": "1538606181"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -48,6 +48,22 @@
     "address": [
       {
         "line": [
+          "1375 Washington Ave"
+        ],
+        "city": "ALBANY",
+        "state": "NY",
+        "postalCode": "12208-1744"
+      },
+      {
+        "line": [
+          "319 S Manning Blvd Suite 304"
+        ],
+        "city": "ALBANY",
+        "state": "NY",
+        "postalCode": "12208-1744"
+      },
+      {
+        "line": [
           "315 South Manning Blvd"
         ],
         "city": "ALBANY",
@@ -64,27 +80,27 @@
       },
       {
         "line": [
+          "425 New Scotland Ave"
+        ],
+        "city": "ALBANY",
+        "state": "NY",
+        "postalCode": "12208-2726"
+      },
+      {
+        "line": [
+          "855 Rt 146"
+        ],
+        "city": "CLIFTON PARK",
+        "state": "NY",
+        "postalCode": "12065-2807"
+      },
+      {
+        "line": [
           "2215 Burdett Avenue Suite 200"
         ],
         "city": "TROY",
         "state": "NY",
         "postalCode": "12180-2466"
-      },
-      {
-        "line": [
-          "1375 Washington Ave"
-        ],
-        "city": "ALBANY",
-        "state": "NY",
-        "postalCode": "12208-1744"
-      },
-      {
-        "line": [
-          "2215 Burdett Avenue"
-        ],
-        "city": "TROY",
-        "state": "NY",
-        "postalCode": "12180-2446"
       },
       {
         "line": [
@@ -104,27 +120,11 @@
       },
       {
         "line": [
-          "319 S Manning Blvd Suite 304"
+          "2215 Burdett Avenue"
         ],
-        "city": "ALBANY",
+        "city": "TROY",
         "state": "NY",
-        "postalCode": "12208-1744"
-      },
-      {
-        "line": [
-          "425 New Scotland Ave"
-        ],
-        "city": "ALBANY",
-        "state": "NY",
-        "postalCode": "12208-2726"
-      },
-      {
-        "line": [
-          "855 Rt 146"
-        ],
-        "city": "CLIFTON PARK",
-        "state": "NY",
-        "postalCode": "12065-2807"
+        "postalCode": "12180-2446"
       }
     ],
     "extension": [

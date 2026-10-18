@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679501746"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1942860176"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1205845369"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1679501746"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,172 +32,11 @@
     "address": [
       {
         "line": [
-          "6565 Fannin Street"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77030-2703"
-      },
-      {
-        "line": [
-          "7401 Main Street"
+          "7401 MAIN ST"
         ],
         "city": "HOUSTON",
         "state": "TX",
         "postalCode": "77030-4509"
-      },
-      {
-        "line": [
-          "18951 Memorial North"
-        ],
-        "city": "HUMBLE",
-        "state": "TX",
-        "postalCode": "77338-4217"
-      },
-      {
-        "line": [
-          "22999 US Highway 59 North"
-        ],
-        "city": "KINGWOOD",
-        "state": "TX",
-        "postalCode": "77339-4412"
-      },
-      {
-        "line": [
-          "4401 Garth Road"
-        ],
-        "city": "BAYTOWN",
-        "state": "TX",
-        "postalCode": "77521-2122"
-      },
-      {
-        "line": [
-          "10223 Broadway St, STE A"
-        ],
-        "city": "PEARLAND",
-        "state": "TX",
-        "postalCode": "77584-7881"
-      },
-      {
-        "line": [
-          "7600 Beechnut"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77074-4302"
-      },
-      {
-        "line": [
-          "21214 Highway 290"
-        ],
-        "city": "CYPRESS",
-        "state": "TX",
-        "postalCode": "77429-3373"
-      },
-      {
-        "line": [
-          "1635 NORTH LOOP W"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77008-1532"
-      },
-      {
-        "line": [
-          "7401 South Main"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77030-4509"
-      },
-      {
-        "line": [
-          "2525 West Bellfort, Suite 150"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77054-5099"
-      },
-      {
-        "line": [
-          "605 Holderrieth Blvd"
-        ],
-        "city": "TOMBALL",
-        "state": "TX",
-        "postalCode": "77375-6445"
-      },
-      {
-        "line": [
-          "11713 SHADOW CREEK PKWY",
-          "STE 150"
-        ],
-        "city": "PEARLAND",
-        "state": "TX",
-        "postalCode": "77584-7198"
-      },
-      {
-        "line": [
-          "20171 Chasewood Park Drive"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77070-1437"
-      },
-      {
-        "line": [
-          "18500 Katy Freeway"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77094-1110"
-      },
-      {
-        "line": [
-          "6560 Fannin Street"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77030-2703"
-      },
-      {
-        "line": [
-          "500 Medical Center Blvd"
-        ],
-        "city": "WEBSTER",
-        "state": "TX",
-        "postalCode": "77598-4220"
-      },
-      {
-        "line": [
-          "22751 PROFESSIONAL DR STE 250"
-        ],
-        "city": "KINGWOOD",
-        "state": "TX",
-        "postalCode": "77339-6028"
-      },
-      {
-        "line": [
-          "6641 Main Street"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77030-4509"
-      },
-      {
-        "line": [
-          "1313 Hermann Drive"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77004-7005"
-      },
-      {
-        "line": [
-          "23740 Woodford Place Dr"
-        ],
-        "city": "KINGWOOD",
-        "state": "TX",
-        "postalCode": "77339-1483"
       },
       {
         "line": [
@@ -209,11 +48,204 @@
       },
       {
         "line": [
+          "7401 South Main"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77030-4509"
+      },
+      {
+        "line": [
+          "12141 Richmond Avenue"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77082-2408"
+      },
+      {
+        "line": [
+          "10223 Broadway St, STE A"
+        ],
+        "city": "PEARLAND",
+        "state": "TX",
+        "postalCode": "77584-7881"
+      },
+      {
+        "line": [
+          "2635 W BAKER RD"
+        ],
+        "city": "BAYTOWN",
+        "state": "TX",
+        "postalCode": "77521-2206"
+      },
+      {
+        "line": [
+          "21214 Highway 290"
+        ],
+        "city": "CYPRESS",
+        "state": "TX",
+        "postalCode": "77429-3373"
+      },
+      {
+        "line": [
+          "6565 Fannin Street"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77030-2703"
+      },
+      {
+        "line": [
+          "520 BLOSSOM ST"
+        ],
+        "city": "WEBSTER",
+        "state": "TX",
+        "postalCode": "77598-4210"
+      },
+      {
+        "line": [
+          "9250 PINECROFT DR"
+        ],
+        "city": "Shenandoah",
+        "state": "TX",
+        "postalCode": "77380-3218"
+      },
+      {
+        "line": [
+          "605 Holderrieth Blvd"
+        ],
+        "city": "TOMBALL",
+        "state": "TX",
+        "postalCode": "77375-6445"
+      },
+      {
+        "line": [
+          "4401 Garth Road"
+        ],
+        "city": "BAYTOWN",
+        "state": "TX",
+        "postalCode": "77521-2122"
+      },
+      {
+        "line": [
+          "333 North Texas Avenue"
+        ],
+        "city": "WEBSTER",
+        "state": "TX",
+        "postalCode": "77598-4966"
+      },
+      {
+        "line": [
+          "411 North First Street"
+        ],
+        "city": "BELLAIRE",
+        "state": "TX",
+        "postalCode": "77401-4027"
+      },
+      {
+        "line": [
+          "1313 Hermann Drive"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77004-7005"
+      },
+      {
+        "line": [
+          "18220 State Highway 249"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77070-4347"
+      },
+      {
+        "line": [
+          "18500 Katy Freeway"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77094-1110"
+      },
+      {
+        "line": [
+          "22751 PROFESSIONAL DR STE 250"
+        ],
+        "city": "KINGWOOD",
+        "state": "TX",
+        "postalCode": "77339-6028"
+      },
+      {
+        "line": [
+          "11100 Shadow Creek Parkway"
+        ],
+        "city": "PEARLAND",
+        "state": "TX",
+        "postalCode": "77584-7285"
+      },
+      {
+        "line": [
+          "7718 GARTH RD"
+        ],
+        "city": "BAYTOWN",
+        "state": "TX",
+        "postalCode": "77521-2206"
+      },
+      {
+        "line": [
           "4000 Spencer Highway"
         ],
         "city": "PASADENA",
         "state": "TX",
         "postalCode": "77504-1202"
+      },
+      {
+        "line": [
+          "6641 Main Street"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77030-4509"
+      },
+      {
+        "line": [
+          "9250 PINECROFT DR"
+        ],
+        "city": "Shenandoah",
+        "state": "TX",
+        "postalCode": "77380-3280"
+      },
+      {
+        "line": [
+          "6400 Fannin, Suite 1500"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77030-1526"
+      },
+      {
+        "line": [
+          "7600 Beechnut"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77074-4302"
+      },
+      {
+        "line": [
+          "26400 KUYKENDAHL RD",
+          "STE A250"
+        ],
+        "city": "TOMBALL",
+        "state": "TX",
+        "postalCode": "77375-2984"
+      },
+      {
+        "line": [
+          "1635 NORTH LOOP W"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77008-1532"
       },
       {
         "line": [
@@ -225,14 +257,6 @@
       },
       {
         "line": [
-          "13440 UNIVERSITY BLVD STE 100"
-        ],
-        "city": "SUGAR LAND",
-        "state": "TX",
-        "postalCode": "77479-4907"
-      },
-      {
-        "line": [
           "6011 West Sam Houston Parkway South"
         ],
         "city": "HOUSTON",
@@ -241,11 +265,59 @@
       },
       {
         "line": [
-          "7401 MAIN ST"
+          "16655 Southwest Freeway"
+        ],
+        "city": "SUGAR LAND",
+        "state": "TX",
+        "postalCode": "77479-2329"
+      },
+      {
+        "line": [
+          "1626 W Baker Road"
+        ],
+        "city": "BAYTOWN",
+        "state": "TX",
+        "postalCode": "77521-2271"
+      },
+      {
+        "line": [
+          "402 PARK GROVE DR"
+        ],
+        "city": "KATY",
+        "state": "TX",
+        "postalCode": "77450-1571"
+      },
+      {
+        "line": [
+          "10425 HUFFMEISTER RD"
         ],
         "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77030-4509"
+        "postalCode": "77065-3429"
+      },
+      {
+        "line": [
+          "17500 West Grand Parkway South"
+        ],
+        "city": "SUGAR LAND",
+        "state": "TX",
+        "postalCode": "77479-2562"
+      },
+      {
+        "line": [
+          "20171 Chasewood Park Drive"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77070-1437"
+      },
+      {
+        "line": [
+          "17510 W Grand Parkway South, Suite 200"
+        ],
+        "city": "SUGAR LAND",
+        "state": "TX",
+        "postalCode": "77479-2647"
       },
       {
         "line": [
@@ -254,14 +326,6 @@
         "city": "HUMBLE",
         "state": "TX",
         "postalCode": "77338-3909"
-      },
-      {
-        "line": [
-          "7401 Main St"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77030-4509"
       },
       {
         "line": [
@@ -274,27 +338,19 @@
       },
       {
         "line": [
-          "333 North Texas Avenue"
+          "22999 Highway 59 North"
         ],
-        "city": "WEBSTER",
+        "city": "KINGWOOD",
         "state": "TX",
-        "postalCode": "77598-4966"
+        "postalCode": "77339-4412"
       },
       {
         "line": [
-          "11250 Fallbrook"
+          "18951 Memorial North"
         ],
-        "city": "HOUSTON",
+        "city": "HUMBLE",
         "state": "TX",
-        "postalCode": "77065-4229"
-      },
-      {
-        "line": [
-          "411 North First Street"
-        ],
-        "city": "BELLAIRE",
-        "state": "TX",
-        "postalCode": "77401-4027"
+        "postalCode": "77338-4217"
       },
       {
         "line": [
@@ -303,70 +359,6 @@
         "city": "HOUSTON",
         "state": "TX",
         "postalCode": "77034-4807"
-      },
-      {
-        "line": [
-          "2635 W BAKER RD"
-        ],
-        "city": "BAYTOWN",
-        "state": "TX",
-        "postalCode": "77521-2206"
-      },
-      {
-        "line": [
-          "17500 West Grand Parkway South"
-        ],
-        "city": "SUGAR LAND",
-        "state": "TX",
-        "postalCode": "77479-2562"
-      },
-      {
-        "line": [
-          "6400 Fannin, Suite 1500"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77030-1526"
-      },
-      {
-        "line": [
-          "1626 W Baker Road"
-        ],
-        "city": "BAYTOWN",
-        "state": "TX",
-        "postalCode": "77521-2271"
-      },
-      {
-        "line": [
-          "4126 Southwest Freeway, Suite 225"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77027-7310"
-      },
-      {
-        "line": [
-          "7718 GARTH RD"
-        ],
-        "city": "BAYTOWN",
-        "state": "TX",
-        "postalCode": "77521-2206"
-      },
-      {
-        "line": [
-          "12141 Richmond Avenue"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77082-2408"
-      },
-      {
-        "line": [
-          "11100 Shadow Creek Parkway"
-        ],
-        "city": "PEARLAND",
-        "state": "TX",
-        "postalCode": "77584-7285"
       },
       {
         "line": [
@@ -387,24 +379,15 @@
       },
       {
         "line": [
-          "520 BLOSSOM ST"
+          "7401 Main St"
         ],
-        "city": "WEBSTER",
+        "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77598-4210"
+        "postalCode": "77030-4509"
       },
       {
         "line": [
-          "26400 KUYKENDAHL RD",
-          "STE A250"
-        ],
-        "city": "TOMBALL",
-        "state": "TX",
-        "postalCode": "77375-2984"
-      },
-      {
-        "line": [
-          "22999 Highway 59 North"
+          "22999 US Highway 59 North"
         ],
         "city": "KINGWOOD",
         "state": "TX",
@@ -412,43 +395,20 @@
       },
       {
         "line": [
-          "18220 State Highway 249"
+          "11713 SHADOW CREEK PKWY",
+          "STE 150"
+        ],
+        "city": "PEARLAND",
+        "state": "TX",
+        "postalCode": "77584-7198"
+      },
+      {
+        "line": [
+          "2525 West Bellfort, Suite 150"
         ],
         "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77070-4347"
-      },
-      {
-        "line": [
-          "1120 Business Center Drive, Suite 110"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77043-2735"
-      },
-      {
-        "line": [
-          "9250 PINECROFT DR"
-        ],
-        "city": "Shenandoah",
-        "state": "TX",
-        "postalCode": "77380-3218"
-      },
-      {
-        "line": [
-          "16655 Southwest Freeway"
-        ],
-        "city": "SUGAR LAND",
-        "state": "TX",
-        "postalCode": "77479-2329"
-      },
-      {
-        "line": [
-          "6621 Fannin Street"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77030-2358"
+        "postalCode": "77054-5099"
       },
       {
         "line": [
@@ -457,38 +417,6 @@
         "city": "HOUSTON",
         "state": "TX",
         "postalCode": "77024-2314"
-      },
-      {
-        "line": [
-          "300 Kingwood Medical Drive"
-        ],
-        "city": "KINGWOOD",
-        "state": "TX",
-        "postalCode": "77339-6400"
-      },
-      {
-        "line": [
-          "10425 HUFFMEISTER RD"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77065-3429"
-      },
-      {
-        "line": [
-          "402 PARK GROVE DR"
-        ],
-        "city": "KATY",
-        "state": "TX",
-        "postalCode": "77450-1571"
-      },
-      {
-        "line": [
-          "21216 NORTHWEST FWY STE 620"
-        ],
-        "city": "CYPRESS",
-        "state": "TX",
-        "postalCode": "77429-4699"
       },
       {
         "line": [
@@ -501,11 +429,11 @@
       },
       {
         "line": [
-          "9250 PINECROFT DR"
+          "6560 Fannin Street"
         ],
-        "city": "Shenandoah",
+        "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77380-3280"
+        "postalCode": "77030-2703"
       },
       {
         "line": [
@@ -517,6 +445,54 @@
       },
       {
         "line": [
+          "11250 Fallbrook"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77065-4229"
+      },
+      {
+        "line": [
+          "21216 NORTHWEST FWY STE 620"
+        ],
+        "city": "CYPRESS",
+        "state": "TX",
+        "postalCode": "77429-4699"
+      },
+      {
+        "line": [
+          "6621 Fannin Street"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77030-2358"
+      },
+      {
+        "line": [
+          "13440 UNIVERSITY BLVD STE 100"
+        ],
+        "city": "SUGAR LAND",
+        "state": "TX",
+        "postalCode": "77479-4907"
+      },
+      {
+        "line": [
+          "23740 Woodford Place Dr"
+        ],
+        "city": "KINGWOOD",
+        "state": "TX",
+        "postalCode": "77339-1483"
+      },
+      {
+        "line": [
+          "500 Medical Center Blvd"
+        ],
+        "city": "WEBSTER",
+        "state": "TX",
+        "postalCode": "77598-4220"
+      },
+      {
+        "line": [
           "921 GESSNER RD"
         ],
         "city": "HOUSTON",
@@ -525,11 +501,35 @@
       },
       {
         "line": [
-          "17510 W Grand Parkway South, Suite 200"
+          "1120 Business Center Drive, Suite 110"
         ],
-        "city": "SUGAR LAND",
+        "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77479-2647"
+        "postalCode": "77043-2735"
+      },
+      {
+        "line": [
+          "300 Kingwood Medical Drive"
+        ],
+        "city": "KINGWOOD",
+        "state": "TX",
+        "postalCode": "77339-6400"
+      },
+      {
+        "line": [
+          "7401 Main Street"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77030-4509"
+      },
+      {
+        "line": [
+          "4126 Southwest Freeway, Suite 225"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77027-7310"
       }
     ],
     "extension": [

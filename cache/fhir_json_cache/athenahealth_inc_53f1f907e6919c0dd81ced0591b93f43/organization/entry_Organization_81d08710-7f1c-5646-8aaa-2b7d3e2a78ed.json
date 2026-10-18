@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649267618"
+        "value": "1396958633"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396958633"
+        "value": "1649267618"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,14 +30,6 @@
       }
     ],
     "address": [
-      {
-        "line": [
-          "601 W COUNTRY CLUB RD STE 102"
-        ],
-        "city": "ROSWELL",
-        "state": "NM",
-        "postalCode": "88201-5227"
-      },
       {
         "line": [
           "601 W COUNTRY CLUB RD. STE 102"
@@ -54,6 +46,14 @@
         "city": "ROSWELL",
         "state": "NM",
         "postalCode": "88201-5831"
+      },
+      {
+        "line": [
+          "601 W COUNTRY CLUB RD STE 102"
+        ],
+        "city": "ROSWELL",
+        "state": "NM",
+        "postalCode": "88201-5227"
       }
     ],
     "extension": [

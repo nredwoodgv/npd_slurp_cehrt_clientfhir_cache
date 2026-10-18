@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316411929"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1487761177"
       },
       {
@@ -27,39 +31,9 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1619553914"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316411929"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1598 South County Trail",
-          "Suite 100"
-        ],
-        "city": "EAST GREENWICH",
-        "state": "RI",
-        "postalCode": "02818-1627"
-      },
-      {
-        "line": [
-          "795 Middle Street"
-        ],
-        "city": "FALL RIVER",
-        "state": "MA",
-        "postalCode": "02721-1733"
-      },
-      {
-        "line": [
-          "10 Reservoir Street",
-          "Suite 101"
-        ],
-        "city": "MANSFIELD",
-        "state": "MA",
-        "postalCode": "02048-3104"
-      },
       {
         "line": [
           "225 Water St",
@@ -71,12 +45,12 @@
       },
       {
         "line": [
-          "2 Dudley street",
-          "suite 200"
+          "1598 South County Trail",
+          "Suite 100"
         ],
-        "city": "PROVIDENCE",
+        "city": "EAST GREENWICH",
         "state": "RI",
-        "postalCode": "02905-3248"
+        "postalCode": "02818-1627"
       },
       {
         "line": [
@@ -94,6 +68,32 @@
         "city": "EAST GREENWICH",
         "state": "RI",
         "postalCode": "02818-1627"
+      },
+      {
+        "line": [
+          "795 Middle Street"
+        ],
+        "city": "FALL RIVER",
+        "state": "MA",
+        "postalCode": "02721-1733"
+      },
+      {
+        "line": [
+          "2 Dudley street",
+          "suite 200"
+        ],
+        "city": "PROVIDENCE",
+        "state": "RI",
+        "postalCode": "02905-3248"
+      },
+      {
+        "line": [
+          "10 Reservoir Street",
+          "Suite 101"
+        ],
+        "city": "MANSFIELD",
+        "state": "MA",
+        "postalCode": "02048-3104"
       },
       {
         "line": [

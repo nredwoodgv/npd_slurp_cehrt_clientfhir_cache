@@ -14,14 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427299841"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316188147"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417133380"
       },
       {
@@ -30,17 +22,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1427299841"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1114920329"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316188147"
       }
     ],
     "address": [
       {
         "line": [
-          "725 University Blvd"
+          "1001 Xenia Dr"
         ],
-        "city": "FAIRBORN",
+        "city": "YELLOW SPRINGS",
         "state": "OH",
-        "postalCode": "45324-2640"
+        "postalCode": "45387-1600"
       },
       {
         "line": [
@@ -52,11 +52,11 @@
       },
       {
         "line": [
-          "1001 Xenia Dr"
+          "725 University Blvd"
         ],
-        "city": "YELLOW SPRINGS",
+        "city": "FAIRBORN",
         "state": "OH",
-        "postalCode": "45387-1600"
+        "postalCode": "45324-2640"
       }
     ],
     "extension": [

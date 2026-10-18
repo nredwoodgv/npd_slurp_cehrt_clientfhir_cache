@@ -14,6 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1407268709"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174459226"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1720468804"
       },
       {
@@ -22,19 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174459226"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1982075107"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407268709"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417883570"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,21 +38,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215863378"
+        "value": "1245166396"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245166396"
+        "value": "1417883570"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215863378"
       }
     ],
     "address": [
       {
         "line": [
-          "4528 E. SLAUSON AVE"
+          "3500 WHITTIER BLVD",
+          "STE 105"
         ],
-        "city": "MAYWOOD",
+        "city": "LOS ANGELES",
         "state": "CA",
-        "postalCode": "90270-2934"
+        "postalCode": "90023-1746"
       },
       {
         "line": [
@@ -77,12 +78,11 @@
       },
       {
         "line": [
-          "3500 WHITTIER BLVD",
-          "STE 105"
+          "4528 E. SLAUSON AVE"
         ],
-        "city": "LOS ANGELES",
+        "city": "MAYWOOD",
         "state": "CA",
-        "postalCode": "90023-1746"
+        "postalCode": "90270-2934"
       }
     ],
     "extension": [

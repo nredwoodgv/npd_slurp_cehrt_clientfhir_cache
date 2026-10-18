@@ -14,29 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699171611"
+        "value": "1871439414"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871439414"
+        "value": "1699171611"
       }
     ],
     "address": [
       {
         "line": [
-          "910 S beech st"
+          "703 S MILL ST"
         ],
         "city": "WINNSBORO",
         "state": "TX",
-        "postalCode": "75494-3702"
-      },
-      {
-        "line": [
-          "506  St HWY 37"
-        ],
-        "city": "MOUNT VERNON",
-        "state": "TX",
-        "postalCode": "75457-3607"
+        "postalCode": "75494-3125"
       },
       {
         "line": [
@@ -48,11 +40,19 @@
       },
       {
         "line": [
-          "703 S MILL ST"
+          "506  St HWY 37"
+        ],
+        "city": "MOUNT VERNON",
+        "state": "TX",
+        "postalCode": "75457-3607"
+      },
+      {
+        "line": [
+          "910 S beech st"
         ],
         "city": "WINNSBORO",
         "state": "TX",
-        "postalCode": "75494-3125"
+        "postalCode": "75494-3702"
       }
     ],
     "extension": [
