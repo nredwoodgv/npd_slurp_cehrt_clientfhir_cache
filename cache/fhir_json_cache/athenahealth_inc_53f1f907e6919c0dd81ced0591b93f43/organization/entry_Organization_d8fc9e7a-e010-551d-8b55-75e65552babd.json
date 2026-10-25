@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235737008"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013909936"
+        "value": "1417489956"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,11 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235737008"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1790777696"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417489956"
+        "value": "1013909936"
       }
     ],
     "address": [
@@ -44,19 +44,19 @@
       },
       {
         "line": [
-          "1010 N MILL ST"
-        ],
-        "city": "BOWIE",
-        "state": "TX",
-        "postalCode": "76230-3120"
-      },
-      {
-        "line": [
           "1005 STATE HIGHWAY 16 S"
         ],
         "city": "GRAHAM",
         "state": "TX",
         "postalCode": "76450-3835"
+      },
+      {
+        "line": [
+          "1010 N MILL ST"
+        ],
+        "city": "BOWIE",
+        "state": "TX",
+        "postalCode": "76230-3120"
       },
       {
         "line": [

@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336368745"
+        "value": "1497988828"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497988828"
+        "value": "1336368745"
       }
     ],
     "address": [
+      {
+        "line": [
+          "929 E MONTCLAIR, STE 100"
+        ],
+        "city": "SPRINGFIELD",
+        "state": "MO",
+        "postalCode": "65807-5068"
+      },
       {
         "line": [
           "1015 HIGHWAY 248"
@@ -29,6 +37,14 @@
         "city": "BRANSON",
         "state": "MO",
         "postalCode": "65616-8001"
+      },
+      {
+        "line": [
+          "P.O. BOX 2067"
+        ],
+        "city": "REEDS SPRING",
+        "state": "MO",
+        "postalCode": "65737-2067"
       },
       {
         "line": [
@@ -45,22 +61,6 @@
         "city": "MONETT",
         "state": "MO",
         "postalCode": "65708-1641"
-      },
-      {
-        "line": [
-          "929 E MONTCLAIR, STE 100"
-        ],
-        "city": "SPRINGFIELD",
-        "state": "MO",
-        "postalCode": "65807-5068"
-      },
-      {
-        "line": [
-          "P.O. BOX 2067"
-        ],
-        "city": "REEDS SPRING",
-        "state": "MO",
-        "postalCode": "65737-2067"
       }
     ],
     "extension": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134855711"
+        "value": "1174299333"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174299333"
+        "value": "1134855711"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,28 +32,11 @@
     "address": [
       {
         "line": [
-          "17875 Von Karmen Ave",
-          "Suit 150 & 250"
+          "1251 STAFFORD ST STE B UNIT 6"
         ],
-        "city": "IRVINE",
-        "state": "CA",
-        "postalCode": "92614-6212"
-      },
-      {
-        "line": [
-          "155 E BRUSH HILL RD"
-        ],
-        "city": "ELMHURST",
-        "state": "IL",
-        "postalCode": "60126-5658"
-      },
-      {
-        "line": [
-          "1200 S PINE ISLAND RD"
-        ],
-        "city": "PLANTATION",
-        "state": "FL",
-        "postalCode": "33324-4413"
+        "city": "MONROE",
+        "state": "NC",
+        "postalCode": "28110-3350"
       },
       {
         "line": [
@@ -65,35 +48,11 @@
       },
       {
         "line": [
-          "33 ARCH ST"
+          "1341 W MOCKINGBIRD LN STE 600W"
         ],
-        "city": "BOSTON",
-        "state": "MA",
-        "postalCode": "02110-1424"
-      },
-      {
-        "line": [
-          " 33 ARCH ST 17th FLOOR"
-        ],
-        "city": "BOSTON",
-        "state": "MA",
-        "postalCode": "02110-1424"
-      },
-      {
-        "line": [
-          "2175 PARK PL"
-        ],
-        "city": "EL SEGUNDO",
-        "state": "CA",
-        "postalCode": "90245-4705"
-      },
-      {
-        "line": [
-          "820 BEAR TAVERN RD"
-        ],
-        "city": "WEST TRENTON",
-        "state": "NJ",
-        "postalCode": "08628-1021"
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75247-6904"
       },
       {
         "line": [
@@ -105,27 +64,27 @@
       },
       {
         "line": [
+          " 33 ARCH ST 17th FLOOR"
+        ],
+        "city": "BOSTON",
+        "state": "MA",
+        "postalCode": "02110-1424"
+      },
+      {
+        "line": [
+          "39755 MURRIETA HOT SPRINGS RD STE E130"
+        ],
+        "city": "MURRIETA",
+        "state": "CA",
+        "postalCode": "92563-9116"
+      },
+      {
+        "line": [
           "820 BEAR TAVERN RD"
         ],
-        "city": "Ewing",
+        "city": "WEST TRENTON",
         "state": "NJ",
         "postalCode": "08628-1021"
-      },
-      {
-        "line": [
-          "1341 W MOCKINGBIRD LN STE 600W"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75247-6904"
-      },
-      {
-        "line": [
-          "6400 EDGELAKE DR"
-        ],
-        "city": "SARASOTA",
-        "state": "FL",
-        "postalCode": "34240-8813"
       },
       {
         "line": [
@@ -137,11 +96,19 @@
       },
       {
         "line": [
-          "1251 STAFFORD ST STE B UNIT 6"
+          "1200 S PINE ISLAND RD"
         ],
-        "city": "MONROE",
-        "state": "NC",
-        "postalCode": "28110-3350"
+        "city": "PLANTATION",
+        "state": "FL",
+        "postalCode": "33324-4413"
+      },
+      {
+        "line": [
+          "33 ARCH ST"
+        ],
+        "city": "BOSTON",
+        "state": "MA",
+        "postalCode": "02110-1424"
       },
       {
         "line": [
@@ -153,11 +120,44 @@
       },
       {
         "line": [
-          "39755 MURRIETA HOT SPRINGS RD STE E130"
+          "155 E BRUSH HILL RD"
         ],
-        "city": "MURRIETA",
+        "city": "ELMHURST",
+        "state": "IL",
+        "postalCode": "60126-5658"
+      },
+      {
+        "line": [
+          "17875 Von Karmen Ave",
+          "Suit 150 & 250"
+        ],
+        "city": "IRVINE",
         "state": "CA",
-        "postalCode": "92563-9116"
+        "postalCode": "92614-6212"
+      },
+      {
+        "line": [
+          "820 BEAR TAVERN RD"
+        ],
+        "city": "Ewing",
+        "state": "NJ",
+        "postalCode": "08628-1021"
+      },
+      {
+        "line": [
+          "6400 EDGELAKE DR"
+        ],
+        "city": "SARASOTA",
+        "state": "FL",
+        "postalCode": "34240-8813"
+      },
+      {
+        "line": [
+          "2175 PARK PL"
+        ],
+        "city": "EL SEGUNDO",
+        "state": "CA",
+        "postalCode": "90245-4705"
       }
     ],
     "extension": [

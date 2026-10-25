@@ -14,13 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003880592"
+        "value": "1134780687"
       }
     ],
     "address": [
       {
         "line": [
-          "2557 N. DODGE ST"
+          "500 E. MARKET STREET"
+        ],
+        "city": "IOWA CITY",
+        "state": "IA",
+        "postalCode": "52245-2633"
+      },
+      {
+        "line": [
+          "451 WEST ORANGE STREET"
+        ],
+        "city": "WEST BRANCH",
+        "state": "IA",
+        "postalCode": "52358-9709"
+      },
+      {
+        "line": [
+          "2557 N Dodge St"
         ],
         "city": "IOWA CITY",
         "state": "IA",
@@ -36,27 +52,11 @@
       },
       {
         "line": [
-          "451 WEST ORANGE STREET"
-        ],
-        "city": "WEST BRANCH",
-        "state": "IA",
-        "postalCode": "52358-9709"
-      },
-      {
-        "line": [
           "2557 N DODGE ST"
         ],
         "city": "IOWA CITY",
         "state": "IA",
         "postalCode": "52245-9556"
-      },
-      {
-        "line": [
-          "500 E. MARKET STREET"
-        ],
-        "city": "IOWA CITY",
-        "state": "IA",
-        "postalCode": "52245-2633"
       },
       {
         "line": [
@@ -68,7 +68,7 @@
       },
       {
         "line": [
-          "2557 N Dodge St"
+          "2557 N. DODGE ST"
         ],
         "city": "IOWA CITY",
         "state": "IA",

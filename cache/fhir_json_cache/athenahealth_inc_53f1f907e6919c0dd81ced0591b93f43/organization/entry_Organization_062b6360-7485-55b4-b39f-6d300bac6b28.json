@@ -14,31 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376862151"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538430533"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952340911"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245769744"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902002272"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457863565"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962933416"
+        "value": "1083014914"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,7 +22,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447456173"
+        "value": "1962933416"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245769744"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457863565"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1538430533"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,17 +42,37 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083014914"
+        "value": "1902002272"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376862151"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952340911"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447456173"
       }
     ],
     "address": [
       {
         "line": [
-          "1055 Forest Hills Ave SE"
+          "5960 Eastern Ave SE"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49546-3626"
+        "postalCode": "49508-6215"
+      },
+      {
+        "line": [
+          "861 Oakcrest Lane"
+        ],
+        "city": "JENISON",
+        "state": "MI",
+        "postalCode": "49428-8305"
       },
       {
         "line": [
@@ -84,19 +92,11 @@
       },
       {
         "line": [
-          "861 Oakcrest Lane"
+          "2115 84th Street SW"
         ],
-        "city": "JENISON",
+        "city": "BYRON CENTER",
         "state": "MI",
-        "postalCode": "49428-8305"
-      },
-      {
-        "line": [
-          "5960 Eastern Ave SE"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49508-6215"
+        "postalCode": "49315-9357"
       },
       {
         "line": [
@@ -108,11 +108,11 @@
       },
       {
         "line": [
-          "2115 84th Street SW"
+          "1055 Forest Hills Ave SE"
         ],
-        "city": "BYRON CENTER",
+        "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49315-9357"
+        "postalCode": "49546-3626"
       }
     ],
     "extension": [

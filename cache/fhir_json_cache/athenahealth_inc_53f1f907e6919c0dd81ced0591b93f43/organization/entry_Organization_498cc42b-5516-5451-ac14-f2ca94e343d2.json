@@ -14,55 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760268643"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588834824"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447618327"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962045948"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871872184"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972773224"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194759290"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457008385"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740450089"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255660056"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982328548"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730671751"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316228166"
+        "value": "1770745036"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -70,7 +22,51 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457008385"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1902166945"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588834824"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1740450089"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619679008"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316228166"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1760268643"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447618327"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1194759290"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1871872184"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730671751"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962045948"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -78,7 +74,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770745036"
+        "value": "1255660056"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1972773224"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -86,25 +86,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619679008"
+        "value": "1982328548"
       }
     ],
     "address": [
       {
         "line": [
-          "503 Roosevelt Blvd."
+          "501 Stockton Street"
         ],
-        "city": "ELEANOR",
+        "city": "CHARLESTON",
         "state": "WV",
-        "postalCode": "25070-9998"
-      },
-      {
-        "line": [
-          "800 PENNSYLVANIA AVENUE"
-        ],
-        "city": "SOUTH CHARLESTON",
-        "state": "WV",
-        "postalCode": "25309-3351"
+        "postalCode": "25387-2429"
       },
       {
         "line": [
@@ -113,14 +105,6 @@
         "city": "CHARLESTON",
         "state": "WV",
         "postalCode": "25309-3351"
-      },
-      {
-        "line": [
-          "12803 Winfield RD"
-        ],
-        "city": "WINFIELD",
-        "state": "WV",
-        "postalCode": "25213-7449"
       },
       {
         "line": [
@@ -130,22 +114,6 @@
         "city": "CHARLESTON",
         "state": "WV",
         "postalCode": "25311-1007"
-      },
-      {
-        "line": [
-          "515 Main Street"
-        ],
-        "city": "MADISON",
-        "state": "WV",
-        "postalCode": "25130-1417"
-      },
-      {
-        "line": [
-          "12 Kanawha Terrace"
-        ],
-        "city": "SAINT ALBANS",
-        "state": "WV",
-        "postalCode": "25177-2750"
       },
       {
         "line": [
@@ -165,11 +133,35 @@
       },
       {
         "line": [
+          "503 Roosevelt Blvd."
+        ],
+        "city": "ELEANOR",
+        "state": "WV",
+        "postalCode": "25070-9998"
+      },
+      {
+        "line": [
+          "12 Kanawha Terrace"
+        ],
+        "city": "SAINT ALBANS",
+        "state": "WV",
+        "postalCode": "25177-2750"
+      },
+      {
+        "line": [
           "4513 MacCorkle Ave, SW"
         ],
         "city": "SOUTH CHARLESTON",
         "state": "WV",
         "postalCode": "25309-1408"
+      },
+      {
+        "line": [
+          "3200 MacCorkle Ave SE"
+        ],
+        "city": "CHARLESTON",
+        "state": "WV",
+        "postalCode": "25304-1297"
       },
       {
         "line": [
@@ -181,19 +173,27 @@
       },
       {
         "line": [
-          "501 Stockton Street"
+          "800 PENNSYLVANIA AVENUE"
         ],
-        "city": "CHARLESTON",
+        "city": "SOUTH CHARLESTON",
         "state": "WV",
-        "postalCode": "25387-2429"
+        "postalCode": "25309-3351"
       },
       {
         "line": [
-          "3200 MacCorkle Ave SE"
+          "515 Main Street"
         ],
-        "city": "CHARLESTON",
+        "city": "MADISON",
         "state": "WV",
-        "postalCode": "25304-1297"
+        "postalCode": "25130-1417"
+      },
+      {
+        "line": [
+          "12803 Winfield RD"
+        ],
+        "city": "WINFIELD",
+        "state": "WV",
+        "postalCode": "25213-7449"
       }
     ],
     "extension": [

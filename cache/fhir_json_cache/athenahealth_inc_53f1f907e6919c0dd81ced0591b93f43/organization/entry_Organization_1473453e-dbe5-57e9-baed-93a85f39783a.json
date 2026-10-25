@@ -14,23 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700831500"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114366333"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750680757"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386716520"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376820605"
+        "value": "1912965088"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,10 +26,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912965088"
+        "value": "1386716520"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700831500"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114366333"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376820605"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750680757"
       }
     ],
     "address": [
+      {
+        "line": [
+          "47601 Grand River"
+        ],
+        "city": "NOVI",
+        "state": "MI",
+        "postalCode": "48374-1233"
+      },
       {
         "line": [
           "16001 W 9 Mile Rd"
@@ -56,11 +64,11 @@
       },
       {
         "line": [
-          "1101 University Dr."
+          "27351 Dequindre Rd"
         ],
-        "city": "ROCHESTER",
+        "city": "MADISON HEIGHTS",
         "state": "MI",
-        "postalCode": "48307-1863"
+        "postalCode": "48071-3487"
       },
       {
         "line": [
@@ -72,19 +80,11 @@
       },
       {
         "line": [
-          "47601 Grand River"
+          "1101 University Dr."
         ],
-        "city": "NOVI",
+        "city": "ROCHESTER",
         "state": "MI",
-        "postalCode": "48374-1233"
-      },
-      {
-        "line": [
-          "27351 Dequindre Rd"
-        ],
-        "city": "MADISON HEIGHTS",
-        "state": "MI",
-        "postalCode": "48071-3487"
+        "postalCode": "48307-1863"
       }
     ],
     "extension": [

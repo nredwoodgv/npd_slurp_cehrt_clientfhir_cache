@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285931089"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649228966"
       },
       {
@@ -27,32 +23,20 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932402484"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285931089"
       }
     ],
     "address": [
       {
         "line": [
-          "1200 Sterrett Rd."
+          "800 Oak St."
         ],
-        "city": "FAIRFIELD",
+        "city": "FARMVILLE",
         "state": "VA",
-        "postalCode": "24435-9998"
-      },
-      {
-        "line": [
-          "693 Leesville Road"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24502-2828"
-      },
-      {
-        "line": [
-          "30 Pulte Dr."
-        ],
-        "city": "FREDERICKSBURG",
-        "state": "VA",
-        "postalCode": "22406-9998"
+        "postalCode": "23901-1199"
       },
       {
         "line": [
@@ -64,27 +48,19 @@
       },
       {
         "line": [
-          "5163 CLEVELAND STREET"
-        ],
-        "city": "VIRGINIA BEACH",
-        "state": "VA",
-        "postalCode": "23462-6501"
-      },
-      {
-        "line": [
-          "441 Piney Forest Road"
-        ],
-        "city": "DANVILLE",
-        "state": "VA",
-        "postalCode": "24540-4154"
-      },
-      {
-        "line": [
           "1314 Riverland Rd. SE"
         ],
         "city": "ROANOKE",
         "state": "VA",
         "postalCode": "24014-3610"
+      },
+      {
+        "line": [
+          "693 Leesville Road"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24502-2828"
       },
       {
         "line": [
@@ -96,11 +72,35 @@
       },
       {
         "line": [
-          "800 Oak St."
+          "441 Piney Forest Road"
         ],
-        "city": "FARMVILLE",
+        "city": "DANVILLE",
         "state": "VA",
-        "postalCode": "23901-1199"
+        "postalCode": "24540-4154"
+      },
+      {
+        "line": [
+          "1200 Sterrett Rd."
+        ],
+        "city": "FAIRFIELD",
+        "state": "VA",
+        "postalCode": "24435-9998"
+      },
+      {
+        "line": [
+          "5163 CLEVELAND STREET"
+        ],
+        "city": "VIRGINIA BEACH",
+        "state": "VA",
+        "postalCode": "23462-6501"
+      },
+      {
+        "line": [
+          "30 Pulte Dr."
+        ],
+        "city": "FREDERICKSBURG",
+        "state": "VA",
+        "postalCode": "22406-9998"
       }
     ],
     "extension": [

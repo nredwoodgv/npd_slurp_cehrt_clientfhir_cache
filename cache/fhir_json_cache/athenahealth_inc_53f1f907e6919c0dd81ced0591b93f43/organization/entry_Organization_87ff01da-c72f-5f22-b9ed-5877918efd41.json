@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1295132355"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730147208"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053597476"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316904667"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,15 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023411410"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912306572"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295132355"
+        "value": "1417354606"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,7 +34,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457301848"
+        "value": "1912306572"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053597476"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,15 +46,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033518683"
+        "value": "1023411410"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417354606"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134186455"
+        "value": "1457301848"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -71,12 +59,40 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1356391759"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1134186455"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316904667"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033518683"
       }
     ],
     "address": [
       {
         "line": [
+          "805 Pamplico Hwy"
+        ],
+        "city": "FLORENCE",
+        "state": "SC",
+        "postalCode": "29505-6047"
+      },
+      {
+        "line": [
           "555 E Cheves St."
+        ],
+        "city": "FLORENCE",
+        "state": "SC",
+        "postalCode": "29506-6050"
+      },
+      {
+        "line": [
+          "555 E CHEVES ST"
         ],
         "city": "FLORENCE",
         "state": "SC",
@@ -100,14 +116,6 @@
       },
       {
         "line": [
-          "805 Pamplico Hwy"
-        ],
-        "city": "FLORENCE",
-        "state": "SC",
-        "postalCode": "29505-6047"
-      },
-      {
-        "line": [
           "1594 FREEDOM BLVD, SUITE 203"
         ],
         "city": "FLORENCE",
@@ -121,14 +129,6 @@
         "city": "FLORENCE",
         "state": "SC",
         "postalCode": "29501-2576"
-      },
-      {
-        "line": [
-          "555 E CHEVES ST"
-        ],
-        "city": "FLORENCE",
-        "state": "SC",
-        "postalCode": "29506-6050"
       }
     ],
     "extension": [

@@ -14,23 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770536740"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902851843"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477009959"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578797494"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356448740"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,18 +22,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1477009959"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1770536740"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1740311471"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902851843"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1356448740"
       }
     ],
     "address": [
-      {
-        "line": [
-          "615 W Nursery"
-        ],
-        "city": "BUTLER",
-        "state": "MO",
-        "postalCode": "64730-1840"
-      },
       {
         "line": [
           "615 W Nursery Street"
@@ -60,19 +52,19 @@
       },
       {
         "line": [
-          "411 S. Delaware St"
+          "615 W Nursery"
         ],
         "city": "BUTLER",
         "state": "MO",
-        "postalCode": "64730-2311"
+        "postalCode": "64730-1840"
       },
       {
         "line": [
-          "416 S High St"
+          "402 West 1st St"
         ],
-        "city": "BUTLER",
+        "city": "ADRIAN",
         "state": "MO",
-        "postalCode": "64730-1827"
+        "postalCode": "64720-9277"
       },
       {
         "line": [
@@ -84,6 +76,14 @@
       },
       {
         "line": [
+          "411 S. Delaware St"
+        ],
+        "city": "BUTLER",
+        "state": "MO",
+        "postalCode": "64730-2311"
+      },
+      {
+        "line": [
           "615 W Nursery"
         ],
         "city": "BUTLER",
@@ -92,11 +92,11 @@
       },
       {
         "line": [
-          "402 West 1st St"
+          "416 S High St"
         ],
-        "city": "ADRIAN",
+        "city": "BUTLER",
         "state": "MO",
-        "postalCode": "64720-9277"
+        "postalCode": "64730-1827"
       }
     ],
     "extension": [

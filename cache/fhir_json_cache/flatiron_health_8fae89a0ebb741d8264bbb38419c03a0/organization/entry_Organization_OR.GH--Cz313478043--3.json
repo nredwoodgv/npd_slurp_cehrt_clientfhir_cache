@@ -106,6 +106,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1982786257"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "12345"
       },
       {
@@ -207,6 +211,10 @@
       {
         "system": "phone",
         "value": "(123)123-4567"
+      },
+      {
+        "system": "phone",
+        "value": "(215)487-3070"
       },
       {
         "system": "phone",
@@ -555,6 +563,17 @@
           "1234 Test"
         ],
         "city": "New York",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1 Presidential Blvd. Suite 115"
+        ],
+        "city": "Bala Cynwyd",
+        "state": "PA",
+        "postalCode": "19004",
         "country": "USA"
       },
       {

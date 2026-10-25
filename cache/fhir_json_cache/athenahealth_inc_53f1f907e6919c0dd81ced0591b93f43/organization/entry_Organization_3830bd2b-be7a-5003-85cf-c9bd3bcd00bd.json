@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235659103"
+        "value": "1295443000"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,18 +22,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295443000"
+        "value": "1235659103"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2095 HENRY TECKLENBURG DRIVE"
-        ],
-        "city": "CHARLESTON",
-        "state": "SC",
-        "postalCode": "29414-5733"
-      },
       {
         "line": [
           "100 CALLEN BLVD"
@@ -41,6 +33,14 @@
         "city": "SUMMERVILLE",
         "state": "SC",
         "postalCode": "29486-2807"
+      },
+      {
+        "line": [
+          "316 CALHOUN STREET"
+        ],
+        "city": "CHARLESTON",
+        "state": "SC",
+        "postalCode": "29401-1113"
       },
       {
         "line": [
@@ -52,11 +52,11 @@
       },
       {
         "line": [
-          "3500 HIGHWAY 17 NORTH"
+          "2095 HENRY TECKLENBURG DRIVE"
         ],
-        "city": "MOUNT PLEASANT",
+        "city": "CHARLESTON",
         "state": "SC",
-        "postalCode": "29466-9123"
+        "postalCode": "29414-5733"
       },
       {
         "line": [
@@ -65,14 +65,6 @@
         "city": "COLUMBIA",
         "state": "SC",
         "postalCode": "29204-2026"
-      },
-      {
-        "line": [
-          "316 CALHOUN STREET"
-        ],
-        "city": "CHARLESTON",
-        "state": "SC",
-        "postalCode": "29401-1113"
       },
       {
         "line": [
@@ -86,15 +78,23 @@
         "line": [
           "7832 RIVERS AVE"
         ],
-        "city": "CHARLESTON",
+        "city": "NORTH CHARLESTON",
         "state": "SC",
         "postalCode": "29406-4016"
       },
       {
         "line": [
+          "3500 HIGHWAY 17 NORTH"
+        ],
+        "city": "MOUNT PLEASANT",
+        "state": "SC",
+        "postalCode": "29466-9123"
+      },
+      {
+        "line": [
           "7832 RIVERS AVE"
         ],
-        "city": "NORTH CHARLESTON",
+        "city": "CHARLESTON",
         "state": "SC",
         "postalCode": "29406-4016"
       }

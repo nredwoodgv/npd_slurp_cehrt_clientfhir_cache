@@ -14,45 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003865908"
+        "value": "1184625733"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184625733"
+        "value": "1003865908"
       }
     ],
     "address": [
       {
         "line": [
-          "13001 SOUTHERN BLVD"
+          "2801 STATE ROAD 7"
         ],
-        "city": "LOXAHATCHEE",
+        "city": "POMPANO BEACH",
         "state": "FL",
-        "postalCode": "33470-9203"
-      },
-      {
-        "line": [
-          "9655 W Boynton Beach Blvd"
-        ],
-        "city": "BOYNTON BEACH",
-        "state": "FL",
-        "postalCode": "33472-4421"
-      },
-      {
-        "line": [
-          "5301 S Congress Ave"
-        ],
-        "city": "Atlantis",
-        "state": "FL",
-        "postalCode": "33462-1149"
-      },
-      {
-        "line": [
-          "2815 South Seacrest Blvd"
-        ],
-        "city": "BOYNTON BEACH",
-        "state": "FL",
-        "postalCode": "33435-7969"
+        "postalCode": "33063-5727"
       },
       {
         "line": [
@@ -64,20 +40,35 @@
       },
       {
         "line": [
-          "6650 W Indiantown Rd #110"
+          "21644 STATE ROAD 7"
         ],
-        "city": "JUPITER",
+        "city": "BOCA RATON",
         "state": "FL",
-        "postalCode": "33458-4629"
+        "postalCode": "33428-1842"
       },
       {
         "line": [
-          "10301 Hagen Ranch Road",
-          "Suite 520"
+          "2815 South Seacrest Blvd"
         ],
         "city": "BOYNTON BEACH",
         "state": "FL",
-        "postalCode": "33437-3724"
+        "postalCode": "33435-7969"
+      },
+      {
+        "line": [
+          "1005 N 35TH AVE"
+        ],
+        "city": "HOLLYWOOD",
+        "state": "FL",
+        "postalCode": "33021-5402"
+      },
+      {
+        "line": [
+          "9655 W Boynton Beach Blvd"
+        ],
+        "city": "BOYNTON BEACH",
+        "state": "FL",
+        "postalCode": "33472-4421"
       },
       {
         "line": [
@@ -89,25 +80,33 @@
       },
       {
         "line": [
-          "901 45th St"
+          "13001 SOUTHERN BLVD"
         ],
-        "city": "WEST PALM BEACH",
+        "city": "LOXAHATCHEE",
         "state": "FL",
-        "postalCode": "33407-2413"
+        "postalCode": "33470-9203"
       },
       {
         "line": [
-          "10101 Forest Hill Blvd"
+          "100 SE 15 Avenue"
         ],
-        "city": "WELLINGTON",
+        "city": "FORT LAUDERDALE",
         "state": "FL",
-        "postalCode": "33414-6103"
+        "postalCode": "33301-3985"
       },
       {
         "line": [
           "5301 S Congress Ave"
         ],
         "city": "LAKE WORTH",
+        "state": "FL",
+        "postalCode": "33462-1149"
+      },
+      {
+        "line": [
+          "5301 S Congress Ave"
+        ],
+        "city": "Atlantis",
         "state": "FL",
         "postalCode": "33462-1149"
       },
@@ -129,76 +128,12 @@
       },
       {
         "line": [
-          "12961 Palms W Dr"
-        ],
-        "city": "LOXAHATCHEE",
-        "state": "FL",
-        "postalCode": "33470-4989"
-      },
-      {
-        "line": [
-          "1005 JOE DEMAGGIO DRIVE"
-        ],
-        "city": "HOLLYWOOD",
-        "state": "FL",
-        "postalCode": "33021-5402"
-      },
-      {
-        "line": [
           "10150 Hagen Ranch Rd",
           "Suite 204"
         ],
         "city": "BOYNTON BEACH",
         "state": "FL",
         "postalCode": "33437-3776"
-      },
-      {
-        "line": [
-          "21644 STATE ROAD 7"
-        ],
-        "city": "BOCA RATON",
-        "state": "FL",
-        "postalCode": "33428-1842"
-      },
-      {
-        "line": [
-          "2801 STATE ROAD 7"
-        ],
-        "city": "POMPANO BEACH",
-        "state": "FL",
-        "postalCode": "33063-5727"
-      },
-      {
-        "line": [
-          "8201 W BROWARD BLVD"
-        ],
-        "city": "FORT LAUDERDALE",
-        "state": "FL",
-        "postalCode": "33324-2701"
-      },
-      {
-        "line": [
-          "1005 N 35TH AVE"
-        ],
-        "city": "HOLLYWOOD",
-        "state": "FL",
-        "postalCode": "33021-5402"
-      },
-      {
-        "line": [
-          "100 SE 15 Avenue"
-        ],
-        "city": "FORT LAUDERDALE",
-        "state": "FL",
-        "postalCode": "33301-3985"
-      },
-      {
-        "line": [
-          "3501 Johnson St"
-        ],
-        "city": "HOLLYWOOD",
-        "state": "FL",
-        "postalCode": "33021-5421"
       },
       {
         "line": [
@@ -210,12 +145,35 @@
       },
       {
         "line": [
-          "10150 Hagen Ranch Rd",
-          "Suite 100"
+          "901 45th St"
         ],
-        "city": "BOYNTON BEACH",
+        "city": "WEST PALM BEACH",
         "state": "FL",
-        "postalCode": "33437-3776"
+        "postalCode": "33407-2413"
+      },
+      {
+        "line": [
+          "6650 W Indiantown Rd #110"
+        ],
+        "city": "JUPITER",
+        "state": "FL",
+        "postalCode": "33458-4629"
+      },
+      {
+        "line": [
+          "12961 Palms W Dr"
+        ],
+        "city": "LOXAHATCHEE",
+        "state": "FL",
+        "postalCode": "33470-4989"
+      },
+      {
+        "line": [
+          "3501 Johnson St"
+        ],
+        "city": "HOLLYWOOD",
+        "state": "FL",
+        "postalCode": "33021-5421"
       },
       {
         "line": [
@@ -232,6 +190,48 @@
         "city": "BOCA RATON",
         "state": "FL",
         "postalCode": "33428-1842"
+      },
+      {
+        "line": [
+          "10150 Hagen Ranch Rd",
+          "Suite 100"
+        ],
+        "city": "BOYNTON BEACH",
+        "state": "FL",
+        "postalCode": "33437-3776"
+      },
+      {
+        "line": [
+          "1005 JOE DEMAGGIO DRIVE"
+        ],
+        "city": "HOLLYWOOD",
+        "state": "FL",
+        "postalCode": "33021-5402"
+      },
+      {
+        "line": [
+          "8201 W BROWARD BLVD"
+        ],
+        "city": "FORT LAUDERDALE",
+        "state": "FL",
+        "postalCode": "33324-2701"
+      },
+      {
+        "line": [
+          "10101 Forest Hill Blvd"
+        ],
+        "city": "WELLINGTON",
+        "state": "FL",
+        "postalCode": "33414-6103"
+      },
+      {
+        "line": [
+          "10301 Hagen Ranch Road",
+          "Suite 520"
+        ],
+        "city": "BOYNTON BEACH",
+        "state": "FL",
+        "postalCode": "33437-3724"
       }
     ],
     "extension": [

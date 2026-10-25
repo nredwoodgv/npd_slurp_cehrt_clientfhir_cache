@@ -22,19 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417023904"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1568414373"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104868892"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972634889"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,7 +30,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417023904"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578592606"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1972634889"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104868892"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -60,55 +60,15 @@
     "address": [
       {
         "line": [
-          "3086 Glover Street"
+          "60 Maple Lane"
         ],
-        "city": "GLOVER",
+        "city": "BARTON",
         "state": "VT",
-        "postalCode": "05839-9701"
+        "postalCode": "05822-8637"
       },
       {
         "line": [
           "189 Prouty Drive"
-        ],
-        "city": "NEWPORT",
-        "state": "VT",
-        "postalCode": "05855-9326"
-      },
-      {
-        "line": [
-          "468 Hospital Drive Suite 2"
-        ],
-        "city": "SAINT JOHNSBURY",
-        "state": "VT",
-        "postalCode": "05819-0905"
-      },
-      {
-        "line": [
-          "25 Bel-Aire Drive"
-        ],
-        "city": "NEWPORT",
-        "state": "VT",
-        "postalCode": "05855-9326"
-      },
-      {
-        "line": [
-          "180 Prouty Drive"
-        ],
-        "city": "NEWPORT",
-        "state": "VT",
-        "postalCode": "05855-9326"
-      },
-      {
-        "line": [
-          "577 Washington HIghway"
-        ],
-        "city": "MORRISVILLE",
-        "state": "VT",
-        "postalCode": "05661-8973"
-      },
-      {
-        "line": [
-          "149 Prouty Drive"
         ],
         "city": "NEWPORT",
         "state": "VT",
@@ -124,11 +84,43 @@
       },
       {
         "line": [
-          "60 Maple Lane"
+          "3086 Glover Street"
         ],
-        "city": "BARTON",
+        "city": "GLOVER",
         "state": "VT",
-        "postalCode": "05822-8637"
+        "postalCode": "05839-9701"
+      },
+      {
+        "line": [
+          "Outside Facility"
+        ],
+        "city": "NEWPORT",
+        "state": "VT",
+        "postalCode": "05855-9326"
+      },
+      {
+        "line": [
+          "577 Washington HIghway"
+        ],
+        "city": "MORRISVILLE",
+        "state": "VT",
+        "postalCode": "05661-8973"
+      },
+      {
+        "line": [
+          "468 Hospital Drive Suite 2"
+        ],
+        "city": "SAINT JOHNSBURY",
+        "state": "VT",
+        "postalCode": "05819-0905"
+      },
+      {
+        "line": [
+          "180 Prouty Drive"
+        ],
+        "city": "NEWPORT",
+        "state": "VT",
+        "postalCode": "05855-9326"
       },
       {
         "line": [
@@ -140,7 +132,15 @@
       },
       {
         "line": [
-          "Outside Facility"
+          "25 Bel-Aire Drive"
+        ],
+        "city": "NEWPORT",
+        "state": "VT",
+        "postalCode": "05855-9326"
+      },
+      {
+        "line": [
+          "149 Prouty Drive"
         ],
         "city": "NEWPORT",
         "state": "VT",

@@ -14,14 +14,30 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447524392"
+        "value": "1598958431"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598958431"
+        "value": "1447524392"
       }
     ],
     "address": [
+      {
+        "line": [
+          "423 TREELINE PARK # 202"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78209-2078"
+      },
+      {
+        "line": [
+          "6703 LESLIE RD"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78254-9539"
+      },
       {
         "line": [
           "1515 N LOOP 1604 E"
@@ -37,22 +53,6 @@
         "city": "SAN ANTONIO",
         "state": "TX",
         "postalCode": "78204-1414"
-      },
-      {
-        "line": [
-          "6703 LESLIE RD"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78254-9539"
-      },
-      {
-        "line": [
-          "423 TREELINE PARK # 202"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78209-2078"
       }
     ],
     "extension": [

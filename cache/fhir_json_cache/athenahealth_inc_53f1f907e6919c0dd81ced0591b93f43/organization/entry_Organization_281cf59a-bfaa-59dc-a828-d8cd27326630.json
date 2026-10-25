@@ -14,7 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942317631"
+        "value": "1629272968"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376644922"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588737266"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,11 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174537500"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588737266"
+        "value": "1114133485"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,27 +46,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114133485"
+        "value": "1174537500"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629272968"
+        "value": "1942317631"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1114962461"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376644922"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114366333"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386716520"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -74,7 +66,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700831500"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1023088168"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1750680757"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114366333"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -82,11 +86,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700831500"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023088168"
+        "value": "1386716520"
       }
     ],
     "address": [
@@ -100,14 +100,6 @@
       },
       {
         "line": [
-          "17700 23 Mile Rd."
-        ],
-        "city": "MACOMB",
-        "state": "MI",
-        "postalCode": "48044-1154"
-      },
-      {
-        "line": [
           "17700 23 Mile Rd"
         ],
         "city": "MACOMB",
@@ -116,23 +108,15 @@
       },
       {
         "line": [
-          "17700 23 Mile"
+          "17700 23 MILE"
         ],
-        "city": "MACOMB",
+        "city": "MACOMB TWP",
         "state": "MI",
         "postalCode": "48044-1154"
       },
       {
         "line": [
           "1770 23 MILE RD"
-        ],
-        "city": "MACOMB",
-        "state": "MI",
-        "postalCode": "48044-1154"
-      },
-      {
-        "line": [
-          "17700 23 MILE"
         ],
         "city": "MACOMB",
         "state": "MI",
@@ -148,9 +132,25 @@
       },
       {
         "line": [
+          "17700 23 Mile"
+        ],
+        "city": "MACOMB",
+        "state": "MI",
+        "postalCode": "48044-1154"
+      },
+      {
+        "line": [
           "17700 23 MILE"
         ],
-        "city": "MACOMB TWP",
+        "city": "MACOMB",
+        "state": "MI",
+        "postalCode": "48044-1154"
+      },
+      {
+        "line": [
+          "17700 23 Mile Rd."
+        ],
+        "city": "MACOMB",
         "state": "MI",
         "postalCode": "48044-1154"
       }

@@ -14,22 +14,30 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538420104"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1558797118"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417297847"
+        "value": "1912264862"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912264862"
+        "value": "1538420104"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417297847"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1400 E CHURCH ST"
+        ],
+        "city": "SANTA MARIA",
+        "state": "CA",
+        "postalCode": "93454-5906"
+      },
       {
         "line": [
           "345 South Halcyon RD"
@@ -45,14 +53,6 @@
         "city": "CAMBRIA",
         "state": "CA",
         "postalCode": "93428-3022"
-      },
-      {
-        "line": [
-          "1400 E CHURCH ST"
-        ],
-        "city": "SANTA MARIA",
-        "state": "CA",
-        "postalCode": "93454-5906"
       },
       {
         "line": [
@@ -72,20 +72,20 @@
       },
       {
         "line": [
+          "1320 Las Tablas Rd Ste A"
+        ],
+        "city": "TEMPLETON",
+        "state": "CA",
+        "postalCode": "93465-9711"
+      },
+      {
+        "line": [
           "77 Casa Street",
           "Suite 106"
         ],
         "city": "SAN LUIS OBISPO",
         "state": "CA",
         "postalCode": "93405-5803"
-      },
-      {
-        "line": [
-          "1320 Las Tablas Rd Ste A"
-        ],
-        "city": "TEMPLETON",
-        "state": "CA",
-        "postalCode": "93465-9711"
       }
     ],
     "extension": [

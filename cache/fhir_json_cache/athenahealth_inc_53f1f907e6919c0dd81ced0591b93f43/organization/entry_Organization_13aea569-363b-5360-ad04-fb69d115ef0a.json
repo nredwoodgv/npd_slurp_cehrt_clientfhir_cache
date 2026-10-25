@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831132133"
+        "value": "1861818379"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,11 +30,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730571100"
+        "value": "1598213241"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598213241"
+        "value": "1730571100"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,7 +42,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861818379"
+        "value": "1831132133"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -52,11 +52,19 @@
     "address": [
       {
         "line": [
-          "1500 E. SHERMAN BLVD"
+          "5906 COMMERCE CENTRE"
         ],
         "city": "MUSKEGON",
         "state": "MI",
-        "postalCode": "49444-1849"
+        "postalCode": "49444-7870"
+      },
+      {
+        "line": [
+          "888 TERRACE ST."
+        ],
+        "city": "MUSKEGON",
+        "state": "MI",
+        "postalCode": "49440-1220"
       },
       {
         "line": [
@@ -68,11 +76,19 @@
       },
       {
         "line": [
-          "3230 EAGLE PARK DR NE"
+          "1050 W. WESTERN AVE"
         ],
-        "city": "GRAND RAPIDS",
+        "city": "MUSKEGON",
         "state": "MI",
-        "postalCode": "49525-7048"
+        "postalCode": "49441-1666"
+      },
+      {
+        "line": [
+          "684 HARVEY"
+        ],
+        "city": "MUSKEGON",
+        "state": "MI",
+        "postalCode": "49441-4274"
       },
       {
         "line": [
@@ -85,35 +101,19 @@
       },
       {
         "line": [
-          "1050 W. WESTERN AVE"
+          "1500 E. SHERMAN BLVD"
         ],
         "city": "MUSKEGON",
         "state": "MI",
-        "postalCode": "49441-1666"
+        "postalCode": "49444-1849"
       },
       {
         "line": [
-          "888 TERRACE ST."
+          "3230 EAGLE PARK DR NE"
         ],
-        "city": "MUSKEGON",
+        "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49440-1220"
-      },
-      {
-        "line": [
-          "684 HARVEY"
-        ],
-        "city": "MUSKEGON",
-        "state": "MI",
-        "postalCode": "49441-4274"
-      },
-      {
-        "line": [
-          "5906 COMMERCE CENTRE"
-        ],
-        "city": "MUSKEGON",
-        "state": "MI",
-        "postalCode": "49444-7870"
+        "postalCode": "49525-7048"
       }
     ],
     "extension": [

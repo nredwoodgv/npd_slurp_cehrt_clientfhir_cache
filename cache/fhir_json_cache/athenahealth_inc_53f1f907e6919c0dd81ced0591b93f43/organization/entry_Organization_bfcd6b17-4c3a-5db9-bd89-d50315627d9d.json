@@ -14,14 +14,38 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942486915"
+        "value": "1184125668"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184125668"
+        "value": "1942486915"
       }
     ],
     "address": [
+      {
+        "line": [
+          "5121 S COTTONWOOD ST"
+        ],
+        "city": "SALT LAKE CITY",
+        "state": "UT",
+        "postalCode": "84107-5701"
+      },
+      {
+        "line": [
+          "520 Medical Drive STE 300"
+        ],
+        "city": "BOUNTIFUL",
+        "state": "UT",
+        "postalCode": "84010-8925"
+      },
+      {
+        "line": [
+          "630 MEDICAL DR"
+        ],
+        "city": "BOUNTIFUL",
+        "state": "UT",
+        "postalCode": "84010-4908"
+      },
       {
         "line": [
           "8TH AVE C STREET"
@@ -37,30 +61,6 @@
         "city": "LAYTON",
         "state": "UT",
         "postalCode": "84041-3692"
-      },
-      {
-        "line": [
-          "5121 S COTTONWOOD ST"
-        ],
-        "city": "SALT LAKE CITY",
-        "state": "UT",
-        "postalCode": "84107-5701"
-      },
-      {
-        "line": [
-          "630 MEDICAL DR"
-        ],
-        "city": "BOUNTIFUL",
-        "state": "UT",
-        "postalCode": "84010-4908"
-      },
-      {
-        "line": [
-          "520 Medical Drive STE 300"
-        ],
-        "city": "BOUNTIFUL",
-        "state": "UT",
-        "postalCode": "84010-8925"
       }
     ],
     "extension": [

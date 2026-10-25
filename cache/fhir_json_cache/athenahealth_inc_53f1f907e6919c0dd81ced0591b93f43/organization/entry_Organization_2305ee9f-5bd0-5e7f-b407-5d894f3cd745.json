@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760242440"
+        "value": "1003470501"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003470501"
+        "value": "1760242440"
       }
     ],
     "address": [
+      {
+        "line": [
+          "301 PORTER INDUSTRIAL RD"
+        ],
+        "city": "CLARKSVILLE",
+        "state": "AR",
+        "postalCode": "72830-3303"
+      },
       {
         "line": [
           "5320 W SUNSET AVE",
@@ -38,14 +46,6 @@
         "city": "FORT SMITH",
         "state": "AR",
         "postalCode": "72908-8694"
-      },
-      {
-        "line": [
-          "301 PORTER INDUSTRIAL RD"
-        ],
-        "city": "CLARKSVILLE",
-        "state": "AR",
-        "postalCode": "72830-3303"
       }
     ],
     "extension": [

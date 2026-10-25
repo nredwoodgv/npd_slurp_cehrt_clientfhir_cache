@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619118890"
+        "value": "1053326892"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053326892"
+        "value": "1982845160"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,17 +26,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982845160"
+        "value": "1619118890"
       }
     ],
     "address": [
       {
         "line": [
-          "1393A Big Bend Blvd"
+          "7257 Watson Rd."
         ],
-        "city": "BALLWIN",
+        "city": "SAINT LOUIS",
         "state": "MO",
-        "postalCode": "63021-7601"
+        "postalCode": "63119-4401"
+      },
+      {
+        "line": [
+          "11449 Olive Blvd."
+        ],
+        "city": "SAINT LOUIS",
+        "state": "MO",
+        "postalCode": "63141-7108"
       },
       {
         "line": [
@@ -48,19 +56,11 @@
       },
       {
         "line": [
-          "1726 Clarkson Road"
+          "1393A Big Bend Blvd"
         ],
-        "city": "CHESTERFIELD",
+        "city": "BALLWIN",
         "state": "MO",
-        "postalCode": "63017-4976"
-      },
-      {
-        "line": [
-          "7257 Watson Rd."
-        ],
-        "city": "SAINT LOUIS",
-        "state": "MO",
-        "postalCode": "63119-4401"
+        "postalCode": "63021-7601"
       },
       {
         "line": [
@@ -72,11 +72,11 @@
       },
       {
         "line": [
-          "11449 Olive Blvd."
+          "1726 Clarkson Road"
         ],
-        "city": "SAINT LOUIS",
+        "city": "CHESTERFIELD",
         "state": "MO",
-        "postalCode": "63141-7108"
+        "postalCode": "63017-4976"
       }
     ],
     "extension": [

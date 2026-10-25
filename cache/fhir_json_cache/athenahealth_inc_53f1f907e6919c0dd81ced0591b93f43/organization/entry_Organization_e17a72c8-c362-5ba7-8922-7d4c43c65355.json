@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811310576"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1982913018"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962827063"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,15 +22,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285674572"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1467875054"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811310576"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962827063"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1255308342"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285674572"
       }
     ],
     "address": [
@@ -49,12 +49,6 @@
         "city": "LEXINGTON",
         "state": "SC",
         "postalCode": "29072-7295"
-      },
-      {
-        "line": [],
-        "city": "LEXINGTON",
-        "state": "SC",
-        "postalCode": "29072-1234"
       },
       {
         "line": [],
@@ -69,6 +63,12 @@
         "city": "COLUMBIA",
         "state": "SC",
         "postalCode": "29205-9785"
+      },
+      {
+        "line": [],
+        "city": "LEXINGTON",
+        "state": "SC",
+        "postalCode": "29072-1234"
       }
     ],
     "extension": [

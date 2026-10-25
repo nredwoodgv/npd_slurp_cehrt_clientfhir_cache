@@ -14,15 +14,27 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689061426"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1689061467"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730511775"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225467814"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1164961579"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700048360"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689061426"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -35,29 +47,9 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1124198551"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164961579"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225467814"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700048360"
       }
     ],
     "address": [
-      {
-        "line": [
-          "775 S Main"
-        ],
-        "city": "CHELSEA",
-        "state": "MI",
-        "postalCode": "48118-1140"
-      },
       {
         "line": [
           "5301 McAuley Dr"
@@ -77,6 +69,23 @@
       },
       {
         "line": [
+          "775 S Main"
+        ],
+        "city": "CHELSEA",
+        "state": "MI",
+        "postalCode": "48118-1140"
+      },
+      {
+        "line": [
+          "440 West Russell",
+          "Suite 2100"
+        ],
+        "city": "SALINE",
+        "state": "MI",
+        "postalCode": "48176-1184"
+      },
+      {
+        "line": [
           "775 S Main St"
         ],
         "city": "CHELSEA",
@@ -91,15 +100,6 @@
         "city": "YPSILANTI",
         "state": "MI",
         "postalCode": "48197-8634"
-      },
-      {
-        "line": [
-          "440 West Russell",
-          "Suite 2100"
-        ],
-        "city": "SALINE",
-        "state": "MI",
-        "postalCode": "48176-1184"
       }
     ],
     "extension": [

@@ -14,22 +14,30 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386911006"
+        "value": "1548567498"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548567498"
+        "value": "1386911006"
       }
     ],
     "address": [
       {
         "line": [
-          "5858 Horton St.",
-          "Suite 100"
+          "4005 MISSION OAKS BLVD"
         ],
-        "city": "EMERYVILLE",
+        "city": "CAMARILLO",
         "state": "CA",
-        "postalCode": "94608-2007"
+        "postalCode": "93012-5156"
+      },
+      {
+        "line": [
+          "1849 Old Bayshore Hwy",
+          "3rd Floor"
+        ],
+        "city": "BURLINGAME",
+        "state": "CA",
+        "postalCode": "94010-1214"
       },
       {
         "line": [
@@ -41,22 +49,6 @@
       },
       {
         "line": [
-          "3510 N MOORPARK RD STE 101"
-        ],
-        "city": "THOUSAND OAKS",
-        "state": "CA",
-        "postalCode": "91360-2688"
-      },
-      {
-        "line": [
-          "7240 Medical Center Dr."
-        ],
-        "city": "WEST HILLS",
-        "state": "CA",
-        "postalCode": "91307-1906"
-      },
-      {
-        "line": [
           "302 W LA VETA AVE STE 100"
         ],
         "city": "ORANGE",
@@ -65,19 +57,11 @@
       },
       {
         "line": [
-          "700 GARDEN VIEW CT STE 102"
+          "2601 W.Alameda Avenue #312"
         ],
-        "city": "ENCINITAS",
+        "city": "BURBANK",
         "state": "CA",
-        "postalCode": "92024-2478"
-      },
-      {
-        "line": [
-          "4005 MISSION OAKS BLVD"
-        ],
-        "city": "CAMARILLO",
-        "state": "CA",
-        "postalCode": "93012-5156"
+        "postalCode": "91505-4406"
       },
       {
         "line": [
@@ -90,11 +74,27 @@
       },
       {
         "line": [
-          "2601 W.Alameda Avenue #312"
+          "7240 Medical Center Dr."
         ],
-        "city": "BURBANK",
+        "city": "WEST HILLS",
         "state": "CA",
-        "postalCode": "91505-4406"
+        "postalCode": "91307-1906"
+      },
+      {
+        "line": [
+          "3510 N MOORPARK RD STE 101"
+        ],
+        "city": "THOUSAND OAKS",
+        "state": "CA",
+        "postalCode": "91360-2688"
+      },
+      {
+        "line": [
+          "700 GARDEN VIEW CT STE 102"
+        ],
+        "city": "ENCINITAS",
+        "state": "CA",
+        "postalCode": "92024-2478"
       },
       {
         "line": [
@@ -106,12 +106,12 @@
       },
       {
         "line": [
-          "1849 Old Bayshore Hwy",
-          "3rd Floor"
+          "5858 Horton St.",
+          "Suite 100"
         ],
-        "city": "BURLINGAME",
+        "city": "EMERYVILLE",
         "state": "CA",
-        "postalCode": "94010-1214"
+        "postalCode": "94608-2007"
       }
     ],
     "extension": [

@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437397288"
+        "value": "1578994323"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578994323"
+        "value": "1437397288"
       }
     ],
     "address": [
-      {
-        "line": [
-          "8415 N. Pima Rd"
-        ],
-        "city": "SCOTTSDALE",
-        "state": "AZ",
-        "postalCode": "85258-9998"
-      },
       {
         "line": [
           "16601 N. 40TH ST",
@@ -63,6 +55,14 @@
         "city": "PHOENIX",
         "state": "AZ",
         "postalCode": "85032-3355"
+      },
+      {
+        "line": [
+          "8415 N. Pima Rd"
+        ],
+        "city": "SCOTTSDALE",
+        "state": "AZ",
+        "postalCode": "85258-9998"
       }
     ],
     "extension": [

@@ -14,21 +14,40 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487126124"
+        "value": "1861082117"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861082117"
+        "value": "1487126124"
       }
     ],
     "address": [
       {
         "line": [
-          "755 S Colorado Blvd"
+          "9777 Pyramid Ct",
+          "Suite 140"
         ],
-        "city": "DENVER",
+        "city": "ENGLEWOOD",
         "state": "CO",
-        "postalCode": "80246-8005"
+        "postalCode": "80112-6017"
+      },
+      {
+        "line": [
+          "9777 South Yosemite Street",
+          "Suite 110"
+        ],
+        "city": "LONE TREE",
+        "state": "CO",
+        "postalCode": "80124-3191"
+      },
+      {
+        "line": [
+          "4348 Woodlands Blvd",
+          "Suite 131"
+        ],
+        "city": "CASTLE ROCK",
+        "state": "CO",
+        "postalCode": "80104-2814"
       },
       {
         "line": [
@@ -41,20 +60,20 @@
       },
       {
         "line": [
-          "50 Buck Creek Road",
-          "Buck Creek Medical Plaza"
+          "730 SUMMIT BLVD",
+          "SUITE 101"
         ],
-        "city": "AVON",
+        "city": "FRISCO",
         "state": "CO",
-        "postalCode": "81620-5428"
+        "postalCode": "80443-4250"
       },
       {
         "line": [
-          "209 W COUNTY LINE RD"
+          "755 S Colorado Blvd"
         ],
-        "city": "LITTLETON",
+        "city": "DENVER",
         "state": "CO",
-        "postalCode": "80129-1901"
+        "postalCode": "80246-8005"
       },
       {
         "line": [
@@ -64,6 +83,24 @@
         "city": "DENVER",
         "state": "CO",
         "postalCode": "80226-4361"
+      },
+      {
+        "line": [
+          "1750 Pierce Street",
+          "Suite C"
+        ],
+        "city": "DENVER",
+        "state": "CO",
+        "postalCode": "80214-1434"
+      },
+      {
+        "line": [
+          "10371 S Parkglenn Way",
+          "Suite 180"
+        ],
+        "city": "PARKER",
+        "state": "CO",
+        "postalCode": "80138-3871"
       },
       {
         "line": [
@@ -85,29 +122,12 @@
       },
       {
         "line": [
-          "1411 S Potomac Street"
-        ],
-        "city": "AURORA",
-        "state": "CO",
-        "postalCode": "80012-4536"
-      },
-      {
-        "line": [
-          "9777 Pyramid Ct",
-          "Suite 140"
-        ],
-        "city": "ENGLEWOOD",
-        "state": "CO",
-        "postalCode": "80112-6017"
-      },
-      {
-        "line": [
-          "10371 S Parkglenn Way",
-          "Suite 180"
+          "18320 Cottonwood Dr",
+          "Suite C"
         ],
         "city": "PARKER",
         "state": "CO",
-        "postalCode": "80138-3871"
+        "postalCode": "80138-8822"
       },
       {
         "line": [
@@ -128,39 +148,29 @@
       },
       {
         "line": [
+          "50 Buck Creek Road",
+          "Buck Creek Medical Plaza"
+        ],
+        "city": "AVON",
+        "state": "CO",
+        "postalCode": "81620-5428"
+      },
+      {
+        "line": [
+          "1411 S Potomac Street"
+        ],
+        "city": "AURORA",
+        "state": "CO",
+        "postalCode": "80012-4536"
+      },
+      {
+        "line": [
           "4600 Hale Pkwy",
           "Suite 120"
         ],
         "city": "DENVER",
         "state": "CO",
         "postalCode": "80220-4020"
-      },
-      {
-        "line": [
-          "9777 South Yosemite Street",
-          "Suite 110"
-        ],
-        "city": "LONE TREE",
-        "state": "CO",
-        "postalCode": "80124-3191"
-      },
-      {
-        "line": [
-          "730 SUMMIT BLVD",
-          "SUITE 101"
-        ],
-        "city": "FRISCO",
-        "state": "CO",
-        "postalCode": "80443-4250"
-      },
-      {
-        "line": [
-          "4348 Woodlands Blvd",
-          "Suite 131"
-        ],
-        "city": "CASTLE ROCK",
-        "state": "CO",
-        "postalCode": "80104-2814"
       },
       {
         "line": [
@@ -172,30 +182,20 @@
       },
       {
         "line": [
-          "1750 Pierce Street",
-          "Suite C"
-        ],
-        "city": "DENVER",
-        "state": "CO",
-        "postalCode": "80214-1434"
-      },
-      {
-        "line": [
-          "18320 Cottonwood Dr",
-          "Suite C"
-        ],
-        "city": "PARKER",
-        "state": "CO",
-        "postalCode": "80138-8822"
-      },
-      {
-        "line": [
           "1421 S POTOMAC ST",
           "STE 240"
         ],
         "city": "AURORA",
         "state": "CO",
         "postalCode": "80012-4512"
+      },
+      {
+        "line": [
+          "209 W COUNTY LINE RD"
+        ],
+        "city": "LITTLETON",
+        "state": "CO",
+        "postalCode": "80129-1901"
       }
     ],
     "extension": [

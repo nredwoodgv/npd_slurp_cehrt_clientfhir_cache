@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730903675"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417683707"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861382004"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730903675"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,29 +32,12 @@
     "address": [
       {
         "line": [
-          "4300 PARK RD"
-        ],
-        "city": "CHARLOTTE",
-        "state": "NC",
-        "postalCode": "28209-2271"
-      },
-      {
-        "line": [
-          "3800 W EAU GALLIE BLVD",
-          "STE 105"
+          "100 Whetstone Place",
+          "SUITE 208"
         ],
         "city": "MELBOURNE",
         "state": "FL",
-        "postalCode": "32934-3285"
-      },
-      {
-        "line": [
-          "4711 CURRY FORD RD",
-          "STE B"
-        ],
-        "city": "ORLANDO",
-        "state": "FL",
-        "postalCode": "32812-2704"
+        "postalCode": "32901-3294"
       },
       {
         "line": [
@@ -74,21 +57,20 @@
       },
       {
         "line": [
-          "100 Whetstone Place",
-          "SUITE 208"
+          "4711 CURRY FORD RD",
+          "STE B"
         ],
-        "city": "MELBOURNE",
+        "city": "ORLANDO",
         "state": "FL",
-        "postalCode": "32901-3294"
+        "postalCode": "32812-2704"
       },
       {
         "line": [
-          "4540 SOUTHSIDE BLVD",
-          "STE 401"
+          "4300 PARK RD"
         ],
-        "city": "JACKSONVILLE",
-        "state": "FL",
-        "postalCode": "32216-5488"
+        "city": "CHARLOTTE",
+        "state": "NC",
+        "postalCode": "28209-2271"
       },
       {
         "line": [
@@ -98,6 +80,24 @@
         "city": "ROYAL OAK",
         "state": "MI",
         "postalCode": "48067-1813"
+      },
+      {
+        "line": [
+          "3800 W EAU GALLIE BLVD",
+          "STE 105"
+        ],
+        "city": "MELBOURNE",
+        "state": "FL",
+        "postalCode": "32934-3285"
+      },
+      {
+        "line": [
+          "4540 SOUTHSIDE BLVD",
+          "STE 401"
+        ],
+        "city": "JACKSONVILLE",
+        "state": "FL",
+        "postalCode": "32216-5488"
       }
     ],
     "extension": [

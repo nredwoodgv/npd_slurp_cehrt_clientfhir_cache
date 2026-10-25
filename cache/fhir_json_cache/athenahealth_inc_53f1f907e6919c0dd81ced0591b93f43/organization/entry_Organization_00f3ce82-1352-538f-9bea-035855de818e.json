@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790885358"
+        "value": "1831237312"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831237312"
+        "value": "1790885358"
       }
     ],
     "address": [
       {
         "line": [
-          "9501 5th Ave"
+          "747 BROADWAY"
         ],
         "city": "SEATTLE",
         "state": "WA",
-        "postalCode": "98115-2108"
+        "postalCode": "98122-4307"
       },
       {
         "line": [
@@ -37,6 +37,30 @@
         "city": "SEATTLE",
         "state": "WA",
         "postalCode": "98122-5229"
+      },
+      {
+        "line": [
+          "1"
+        ],
+        "city": "SEATTLE",
+        "state": "WA",
+        "postalCode": "98122-5373"
+      },
+      {
+        "line": [
+          "1101 Madison St Suite 200"
+        ],
+        "city": "SEATTLE",
+        "state": "WA",
+        "postalCode": "98104-1321"
+      },
+      {
+        "line": [
+          "600 Broadway Suite 220"
+        ],
+        "city": "SEATTLE",
+        "state": "WA",
+        "postalCode": "98122-5373"
       },
       {
         "line": [
@@ -56,14 +80,6 @@
       },
       {
         "line": [
-          "747 BROADWAY"
-        ],
-        "city": "SEATTLE",
-        "state": "WA",
-        "postalCode": "98122-4307"
-      },
-      {
-        "line": [
           "600 Broadway, Suite 220"
         ],
         "city": "SEATTLE",
@@ -72,27 +88,11 @@
       },
       {
         "line": [
-          "1"
+          "9501 5th Ave"
         ],
         "city": "SEATTLE",
         "state": "WA",
-        "postalCode": "98122-5373"
-      },
-      {
-        "line": [
-          "600 Broadway Suite 220"
-        ],
-        "city": "SEATTLE",
-        "state": "WA",
-        "postalCode": "98122-5373"
-      },
-      {
-        "line": [
-          "1101 Madison St Suite 200"
-        ],
-        "city": "SEATTLE",
-        "state": "WA",
-        "postalCode": "98104-1321"
+        "postalCode": "98115-2108"
       }
     ],
     "extension": [

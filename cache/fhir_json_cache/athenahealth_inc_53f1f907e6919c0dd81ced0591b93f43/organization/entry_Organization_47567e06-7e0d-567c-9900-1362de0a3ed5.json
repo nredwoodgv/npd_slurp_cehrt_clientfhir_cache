@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508126764"
+        "value": "1861816167"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861816167"
+        "value": "1508126764"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1401 E STATE STREET"
-        ],
-        "city": "ROCKFORD",
-        "state": "IL",
-        "postalCode": "61104-2315"
-      },
       {
         "line": [
           "1625 S STATE ST"
@@ -41,6 +33,14 @@
       {
         "line": [
           "1401 E STATE ST"
+        ],
+        "city": "ROCKFORD",
+        "state": "IL",
+        "postalCode": "61104-2315"
+      },
+      {
+        "line": [
+          "1401 E STATE STREET"
         ],
         "city": "ROCKFORD",
         "state": "IL",

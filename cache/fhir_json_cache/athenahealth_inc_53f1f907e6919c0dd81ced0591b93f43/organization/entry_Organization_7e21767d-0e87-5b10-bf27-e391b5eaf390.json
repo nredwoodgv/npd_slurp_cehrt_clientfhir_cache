@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932402484"
+        "value": "1013031368"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013031368"
+        "value": "1649228966"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,26 +26,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649228966"
+        "value": "1932402484"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3300 RIVERMONT AVENUE"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24503-2030"
-      },
-      {
-        "line": [
-          "1901 THOMSON DRIVE"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24501-1026"
-      },
       {
         "line": [
           "2200 LANDOVER PLACE"
@@ -56,27 +40,11 @@
       },
       {
         "line": [
-          "1901TATE SPRINGS ROAD"
+          "1901 THOMSON DRIVE"
         ],
         "city": "LYNCHBURG",
         "state": "VA",
-        "postalCode": "24501-1109"
-      },
-      {
-        "line": [
-          "173 Brockman Park Drive"
-        ],
-        "city": "AMHERST",
-        "state": "VA",
-        "postalCode": "24521-2583"
-      },
-      {
-        "line": [
-          "1901 TATE SPRINGS ROAD"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24501-1109"
+        "postalCode": "24501-1026"
       },
       {
         "line": [
@@ -89,6 +57,14 @@
       },
       {
         "line": [
+          "1901TATE SPRINGS ROAD"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24501-1109"
+      },
+      {
+        "line": [
           "501 VES ROAD"
         ],
         "city": "LYNCHBURG",
@@ -97,11 +73,35 @@
       },
       {
         "line": [
+          "1901 TATE SPRINGS ROAD"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24501-1109"
+      },
+      {
+        "line": [
           "1902 GRACE STREET"
         ],
         "city": "LYNCHBURG",
         "state": "VA",
         "postalCode": "24504-3524"
+      },
+      {
+        "line": [
+          "173 Brockman Park Drive"
+        ],
+        "city": "AMHERST",
+        "state": "VA",
+        "postalCode": "24521-2583"
+      },
+      {
+        "line": [
+          "3300 RIVERMONT AVENUE"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24503-2030"
       }
     ],
     "extension": [

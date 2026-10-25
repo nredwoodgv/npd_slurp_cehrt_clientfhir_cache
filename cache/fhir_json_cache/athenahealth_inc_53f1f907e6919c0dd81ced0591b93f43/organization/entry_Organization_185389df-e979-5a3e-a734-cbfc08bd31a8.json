@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114282605"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1780356253"
       },
       {
@@ -31,17 +27,13 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1831852771"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114282605"
       }
     ],
     "address": [
-      {
-        "line": [
-          "225 Hospital Drive"
-        ],
-        "city": "WINCHESTER",
-        "state": "KY",
-        "postalCode": "40391-7604"
-      },
       {
         "line": [
           "225 Hospital Drive"
@@ -58,6 +50,14 @@
         "city": "WINCHESTER",
         "state": "KY",
         "postalCode": "40391-7676"
+      },
+      {
+        "line": [
+          "225 Hospital Drive"
+        ],
+        "city": "WINCHESTER",
+        "state": "KY",
+        "postalCode": "40391-7604"
       }
     ],
     "extension": [

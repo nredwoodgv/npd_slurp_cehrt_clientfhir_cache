@@ -18,39 +18,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013531607"
+        "value": "1285189027"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285189027"
+        "value": "1013531607"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2333 PONCE DE LEON BLVD",
-          "STE 302"
-        ],
-        "city": "MIAMI",
-        "state": "FL",
-        "postalCode": "33134-5418"
-      },
-      {
-        "line": [
-          "2201 COLLINS AVE"
-        ],
-        "city": "MIAMI BEACH",
-        "state": "FL",
-        "postalCode": "33139-1717"
-      },
-      {
-        "line": [
-          "555 MIDDLEFIELD RD STE 102"
-        ],
-        "city": "PALO ALTO",
-        "state": "CA",
-        "postalCode": "94301-2124"
-      },
       {
         "line": [
           "324 ROYAL PALM WAY STE 100"
@@ -61,62 +36,11 @@
       },
       {
         "line": [
-          "350 ROYAL PALM WAY",
-          "STE 202"
-        ],
-        "city": "PALM BEACH",
-        "state": "FL",
-        "postalCode": "33480-4327"
-      },
-      {
-        "line": [
-          "2811 WILSHIRE BLVD",
-          "STE 850"
-        ],
-        "city": "SANTA MONICA",
-        "state": "CA",
-        "postalCode": "90403-4812"
-      },
-      {
-        "line": [
-          "155 N SAN VICENTE BLVD"
-        ],
-        "city": "BEVERLY HILLS",
-        "state": "CA",
-        "postalCode": "90211-2303"
-      },
-      {
-        "line": [
           "760 MONTAUK HWY BLDG 2C"
         ],
         "city": "WATER MILL",
         "state": "NY",
         "postalCode": "11976-2600"
-      },
-      {
-        "line": [
-          "155 N SAN VICENTE BLVD FL 1"
-        ],
-        "city": "BEVERLY HILLS",
-        "state": "CA",
-        "postalCode": "90211-2303"
-      },
-      {
-        "line": [
-          "135 E 57TH ST FL 4"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10022-2050"
-      },
-      {
-        "line": [
-          "255 Greenwich Street",
-          "5th Floor, Ste 520"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10007-2422"
       },
       {
         "line": [
@@ -129,6 +53,22 @@
       },
       {
         "line": [
+          "2201 COLLINS AVE"
+        ],
+        "city": "MIAMI BEACH",
+        "state": "FL",
+        "postalCode": "33139-1717"
+      },
+      {
+        "line": [
+          "945 5TH AVE # GROUND"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10021-2661"
+      },
+      {
+        "line": [
           "1005 VAN NESS AVE"
         ],
         "city": "SAN FRANCISCO",
@@ -137,12 +77,36 @@
       },
       {
         "line": [
-          "1000 N SEPULVEDA BLVD STE 150",
-          "Suite 150"
+          "170 East 77TH ST"
         ],
-        "city": "MANHATTAN BEACH",
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10075-1912"
+      },
+      {
+        "line": [
+          "155 N SAN VICENTE BLVD"
+        ],
+        "city": "BEVERLY HILLS",
         "state": "CA",
-        "postalCode": "90266-5974"
+        "postalCode": "90211-2303"
+      },
+      {
+        "line": [
+          "2811 WILSHIRE BLVD",
+          "STE 850"
+        ],
+        "city": "SANTA MONICA",
+        "state": "CA",
+        "postalCode": "90403-4812"
+      },
+      {
+        "line": [
+          "155 N SAN VICENTE BLVD FL 1"
+        ],
+        "city": "BEVERLY HILLS",
+        "state": "CA",
+        "postalCode": "90211-2303"
       },
       {
         "line": [
@@ -155,19 +119,12 @@
       },
       {
         "line": [
-          "170 East 77th St"
+          "99 N LA CIENEGA BLVD",
+          "STE 306"
         ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10075-1912"
-      },
-      {
-        "line": [
-          "945 5TH AVE # GROUND"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10021-2661"
+        "city": "BEVERLY HILLS",
+        "state": "CA",
+        "postalCode": "90211-2285"
       },
       {
         "line": [
@@ -179,11 +136,12 @@
       },
       {
         "line": [
-          "170 East 77TH ST"
+          "2333 PONCE DE LEON BLVD",
+          "STE 302"
         ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10075-1912"
+        "city": "MIAMI",
+        "state": "FL",
+        "postalCode": "33134-5418"
       },
       {
         "line": [
@@ -195,11 +153,62 @@
       },
       {
         "line": [
+          "135 E 57TH ST FL 4"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10022-2050"
+      },
+      {
+        "line": [
+          "170 East 77th St"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10075-1912"
+      },
+      {
+        "line": [
+          "1000 N SEPULVEDA BLVD STE 150",
+          "Suite 150"
+        ],
+        "city": "MANHATTAN BEACH",
+        "state": "CA",
+        "postalCode": "90266-5974"
+      },
+      {
+        "line": [
           "1905 CLINT MOORE RD STE 303"
         ],
         "city": "BOCA RATON",
         "state": "FL",
         "postalCode": "33496-2661"
+      },
+      {
+        "line": [
+          "350 ROYAL PALM WAY",
+          "STE 202"
+        ],
+        "city": "PALM BEACH",
+        "state": "FL",
+        "postalCode": "33480-4327"
+      },
+      {
+        "line": [
+          "255 Greenwich Street",
+          "5th Floor, Ste 520"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10007-2422"
+      },
+      {
+        "line": [
+          "555 MIDDLEFIELD RD STE 102"
+        ],
+        "city": "PALO ALTO",
+        "state": "CA",
+        "postalCode": "94301-2124"
       }
     ],
     "extension": [

@@ -14,14 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316253875"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861118846"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1588226328"
       },
       {
@@ -39,17 +31,32 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396201000"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861118846"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316253875"
       }
     ],
     "address": [
       {
         "line": [
-          "409 Alfred St",
-          "Units 4 & 5"
+          "17 Catherine Street"
         ],
-        "city": "BIDDEFORD",
-        "state": "ME",
-        "postalCode": "04005-3756"
+        "city": "SAINT ALBANS",
+        "state": "VT",
+        "postalCode": "05478-2205"
+      },
+      {
+        "line": [
+          "50 Union St"
+        ],
+        "city": "WEST SPRINGFIELD",
+        "state": "MA",
+        "postalCode": "01089-3317"
       },
       {
         "line": [
@@ -62,12 +69,38 @@
       },
       {
         "line": [
-          "147 Riverside Dr",
-          "Suite 1"
+          "409 Alfred St",
+          "Units 4 & 5"
         ],
-        "city": "AUGUSTA",
+        "city": "BIDDEFORD",
         "state": "ME",
-        "postalCode": "04330-4100"
+        "postalCode": "04005-3756"
+      },
+      {
+        "line": [
+          "655 Main Street",
+          "Suite 2"
+        ],
+        "city": "BENNINGTON",
+        "state": "VT",
+        "postalCode": "05201-2225"
+      },
+      {
+        "line": [
+          "214 Main St"
+        ],
+        "city": "VERGENNES",
+        "state": "VT",
+        "postalCode": "05491-1157"
+      },
+      {
+        "line": [
+          "41 Acme Rd",
+          "Suite 3"
+        ],
+        "city": "BREWER",
+        "state": "ME",
+        "postalCode": "04412-1543"
       },
       {
         "line": [
@@ -80,35 +113,20 @@
       },
       {
         "line": [
-          "50 Union St"
-        ],
-        "city": "WEST SPRINGFIELD",
-        "state": "MA",
-        "postalCode": "01089-3317"
-      },
-      {
-        "line": [
-          "214 Main St"
-        ],
-        "city": "VERGENNES",
-        "state": "VT",
-        "postalCode": "05491-1157"
-      },
-      {
-        "line": [
-          "17 Catherine Street"
-        ],
-        "city": "SAINT ALBANS",
-        "state": "VT",
-        "postalCode": "05478-2205"
-      },
-      {
-        "line": [
           "462 Hegeman Ave"
         ],
         "city": "COLCHESTER",
         "state": "VT",
         "postalCode": "05446-3187"
+      },
+      {
+        "line": [
+          "147 Riverside Dr",
+          "Suite 1"
+        ],
+        "city": "AUGUSTA",
+        "state": "ME",
+        "postalCode": "04330-4100"
       },
       {
         "line": [
@@ -134,24 +152,6 @@
         "city": "GREENFIELD",
         "state": "MA",
         "postalCode": "01301-1238"
-      },
-      {
-        "line": [
-          "655 Main Street",
-          "Suite 2"
-        ],
-        "city": "BENNINGTON",
-        "state": "VT",
-        "postalCode": "05201-2225"
-      },
-      {
-        "line": [
-          "41 Acme Rd",
-          "Suite 3"
-        ],
-        "city": "BREWER",
-        "state": "ME",
-        "postalCode": "04412-1543"
       }
     ],
     "extension": [

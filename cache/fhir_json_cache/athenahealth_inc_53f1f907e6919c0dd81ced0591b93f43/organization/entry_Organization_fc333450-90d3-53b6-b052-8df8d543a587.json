@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700240884"
+        "value": "1962429878"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962429878"
+        "value": "1700240884"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2500 CANYON RD BLDG B"
-        ],
-        "city": "BULLHEAD CITY",
-        "state": "AZ",
-        "postalCode": "86442-8624"
-      },
       {
         "line": [
           "2735 SILVER CREEK RD"
@@ -40,11 +32,33 @@
       },
       {
         "line": [
+          "2500 CANYON RD BLDG C UNIT 2"
+        ],
+        "city": "BULLHEAD CITY",
+        "state": "AZ",
+        "postalCode": "86442-8642"
+      },
+      {
+        "line": [],
+        "city": "BULLHEAD CITY",
+        "state": "AZ",
+        "postalCode": "86442-8624"
+      },
+      {
+        "line": [
           "2735 Silver Creek Rd"
         ],
         "city": "BULLHEAD CITY",
         "state": "AZ",
         "postalCode": "86442-7924"
+      },
+      {
+        "line": [
+          "2500 CANYON RD BLDG B"
+        ],
+        "city": "BULLHEAD CITY",
+        "state": "AZ",
+        "postalCode": "86442-8624"
       },
       {
         "line": [
@@ -61,20 +75,6 @@
         "city": "ANTIOCH",
         "state": "TN",
         "postalCode": "37013-2971"
-      },
-      {
-        "line": [
-          "2500 CANYON RD BLDG C UNIT 2"
-        ],
-        "city": "BULLHEAD CITY",
-        "state": "AZ",
-        "postalCode": "86442-8642"
-      },
-      {
-        "line": [],
-        "city": "BULLHEAD CITY",
-        "state": "AZ",
-        "postalCode": "86442-8624"
       }
     ],
     "extension": [

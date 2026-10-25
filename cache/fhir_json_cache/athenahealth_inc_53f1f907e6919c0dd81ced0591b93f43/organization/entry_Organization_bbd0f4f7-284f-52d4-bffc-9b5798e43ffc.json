@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386823243"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982352357"
+        "value": "1821041617"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952703373"
+        "value": "1386823243"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,30 +30,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821041617"
+        "value": "1639506470"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639506470"
+        "value": "1982352357"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952703373"
       }
     ],
     "address": [
       {
         "line": [
-          "5323 4TH AVENUE CIRCLE",
-          "SUITE E"
+          "60  Franklin St"
         ],
-        "city": "BRADENTON",
-        "state": "FL",
-        "postalCode": "34208-5623"
-      },
-      {
-        "line": [
-          "1560 Turf Lane"
-        ],
-        "city": "EAST LANSING",
-        "state": "MI",
-        "postalCode": "48823-6392"
+        "city": "MORRISTOWN",
+        "state": "NJ",
+        "postalCode": "07960-5306"
       },
       {
         "line": [
@@ -70,11 +61,12 @@
       },
       {
         "line": [
-          "6100 Harris Parkway"
+          "5323 4TH AVENUE CIRCLE",
+          "SUITE E"
         ],
-        "city": "FORT WORTH",
-        "state": "TX",
-        "postalCode": "76132-6109"
+        "city": "BRADENTON",
+        "state": "FL",
+        "postalCode": "34208-5623"
       },
       {
         "line": [
@@ -87,14 +79,6 @@
       },
       {
         "line": [
-          "60  Franklin St"
-        ],
-        "city": "MORRISTOWN",
-        "state": "NJ",
-        "postalCode": "07960-5306"
-      },
-      {
-        "line": [
           "200 PERIMETER PARK DR",
           "SUITE C"
         ],
@@ -104,12 +88,28 @@
       },
       {
         "line": [
+          "1560 Turf Lane"
+        ],
+        "city": "EAST LANSING",
+        "state": "MI",
+        "postalCode": "48823-6392"
+      },
+      {
+        "line": [
           "1141 N ROAD ST",
           "STE I"
         ],
         "city": "ELIZABETH CITY",
         "state": "NC",
         "postalCode": "27909-3354"
+      },
+      {
+        "line": [
+          "6100 Harris Parkway"
+        ],
+        "city": "FORT WORTH",
+        "state": "TX",
+        "postalCode": "76132-6109"
       }
     ],
     "extension": [

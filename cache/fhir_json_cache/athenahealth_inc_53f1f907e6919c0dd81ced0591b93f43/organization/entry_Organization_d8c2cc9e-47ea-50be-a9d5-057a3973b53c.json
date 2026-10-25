@@ -18,19 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861765364"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083987978"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265705156"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1457543399"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1659360964"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,11 +30,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659360964"
+        "value": "1861765364"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1265705156"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1083987978"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
         "value": "19D2001634"
+      },
+      {
+        "system": "urn:oid:2.16.840.1.113883.4.7",
+        "value": "19D2001635"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
@@ -51,13 +55,18 @@
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
         "value": "19D2001636"
-      },
-      {
-        "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "19D2001635"
       }
     ],
     "address": [
+      {
+        "line": [
+          "9050 Airline Hwy @ Goodwood Blvd.",
+          "P.O. Box 95009"
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70895-9009"
+      },
       {
         "line": [
           "5000 hennessey blvd"
@@ -84,11 +93,11 @@
       },
       {
         "line": [
-          "8080 Bluebonnet Blvd. Ste. 2121"
+          "5000 Hennessey Blvd"
         ],
         "city": "BATON ROUGE",
         "state": "LA",
-        "postalCode": "70810-7830"
+        "postalCode": "70808-4375"
       },
       {
         "line": [
@@ -100,28 +109,19 @@
       },
       {
         "line": [
-          "9050 Airline Hwy @ Goodwood Blvd.",
-          "P.O. Box 95009"
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70895-9009"
-      },
-      {
-        "line": [
-          "5000 Hennessey Blvd"
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70808-4375"
-      },
-      {
-        "line": [
           "5000 Hennessy Blvd."
         ],
         "city": "BATON ROUGE",
         "state": "LA",
         "postalCode": "70808-4375"
+      },
+      {
+        "line": [
+          "8080 Bluebonnet Blvd. Ste. 2121"
+        ],
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "postalCode": "70810-7830"
       }
     ],
     "extension": [

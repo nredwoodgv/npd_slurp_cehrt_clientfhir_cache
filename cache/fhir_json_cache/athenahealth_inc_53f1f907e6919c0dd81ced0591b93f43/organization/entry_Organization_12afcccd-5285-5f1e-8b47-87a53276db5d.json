@@ -14,22 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417443771"
+        "value": "1396655544"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396655544"
+        "value": "1417443771"
       }
     ],
     "address": [
       {
         "line": [
-          "909 Camden Grandview Road",
-          "Unit A"
+          "180 PARKWOOD DRIVE"
         ],
-        "city": "CHARLOTTE",
+        "city": "ELKIN",
         "state": "NC",
-        "postalCode": "28202-3639"
+        "postalCode": "28621-2430"
       },
       {
         "line": [
@@ -49,22 +48,6 @@
       },
       {
         "line": [
-          "117 EAST KING'S HIGHWAY"
-        ],
-        "city": "EDEN",
-        "state": "NC",
-        "postalCode": "27288-5201"
-      },
-      {
-        "line": [
-          "180 PARKWOOD DRIVE"
-        ],
-        "city": "ELKIN",
-        "state": "NC",
-        "postalCode": "28621-2430"
-      },
-      {
-        "line": [
           "1942 Swan Creek Road"
         ],
         "city": "HAMPTONVILLE",
@@ -73,11 +56,28 @@
       },
       {
         "line": [
+          "117 EAST KING'S HIGHWAY"
+        ],
+        "city": "EDEN",
+        "state": "NC",
+        "postalCode": "27288-5201"
+      },
+      {
+        "line": [
           "1017 La Brisas Drive"
         ],
         "city": "YADKINVILLE",
         "state": "NC",
         "postalCode": "27055-5349"
+      },
+      {
+        "line": [
+          "909 Camden Grandview Road",
+          "Unit A"
+        ],
+        "city": "CHARLOTTE",
+        "state": "NC",
+        "postalCode": "28202-3639"
       }
     ],
     "extension": [

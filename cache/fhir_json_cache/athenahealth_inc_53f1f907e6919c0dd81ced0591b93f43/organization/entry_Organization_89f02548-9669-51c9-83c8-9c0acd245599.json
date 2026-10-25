@@ -14,37 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659610699"
+        "value": "1588606990"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588606990"
+        "value": "1659610699"
       }
     ],
     "address": [
       {
         "line": [
-          "20950 North Tatum Boulevard, Suite 170"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85050-7259"
-      },
-      {
-        "line": [
-          "9377 E Bell Rd"
+          "9007 E Shea Blvd Bldg A"
         ],
         "city": "SCOTTSDALE",
         "state": "AZ",
-        "postalCode": "85260-1502"
-      },
-      {
-        "line": [
-          "20940 N Tatum Blvd #100"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85050-7259"
+        "postalCode": "85260-7900"
       },
       {
         "line": [
@@ -56,19 +40,19 @@
       },
       {
         "line": [
-          "17500 N Perimeter Dr"
+          "20950 North Tatum Boulevard, Suite 170"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85050-7259"
+      },
+      {
+        "line": [
+          "8575 E. Princess Drive, Ste 221"
         ],
         "city": "SCOTTSDALE",
         "state": "AZ",
         "postalCode": "85255-5441"
-      },
-      {
-        "line": [
-          "9003 E Shea Blvd"
-        ],
-        "city": "SCOTTSDALE",
-        "state": "AZ",
-        "postalCode": "85260-7900"
       },
       {
         "line": [
@@ -80,22 +64,6 @@
       },
       {
         "line": [
-          "3535 N Scottsdale Rd"
-        ],
-        "city": "SCOTTSDALE",
-        "state": "AZ",
-        "postalCode": "85251-5625"
-      },
-      {
-        "line": [
-          "9007 E Shea Blvd Bldg A"
-        ],
-        "city": "SCOTTSDALE",
-        "state": "AZ",
-        "postalCode": "85260-7900"
-      },
-      {
-        "line": [
           "1114 South Higley Road, Suite 101-A"
         ],
         "city": "MESA",
@@ -104,11 +72,43 @@
       },
       {
         "line": [
-          "8575 E. Princess Drive, Ste 221"
+          "9377 E Bell Rd"
+        ],
+        "city": "SCOTTSDALE",
+        "state": "AZ",
+        "postalCode": "85260-1502"
+      },
+      {
+        "line": [
+          "9003 E Shea Blvd"
+        ],
+        "city": "SCOTTSDALE",
+        "state": "AZ",
+        "postalCode": "85260-7900"
+      },
+      {
+        "line": [
+          "17500 N Perimeter Dr"
         ],
         "city": "SCOTTSDALE",
         "state": "AZ",
         "postalCode": "85255-5441"
+      },
+      {
+        "line": [
+          "20940 N Tatum Blvd #100"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85050-7259"
+      },
+      {
+        "line": [
+          "3535 N Scottsdale Rd"
+        ],
+        "city": "SCOTTSDALE",
+        "state": "AZ",
+        "postalCode": "85251-5625"
       }
     ],
     "extension": [

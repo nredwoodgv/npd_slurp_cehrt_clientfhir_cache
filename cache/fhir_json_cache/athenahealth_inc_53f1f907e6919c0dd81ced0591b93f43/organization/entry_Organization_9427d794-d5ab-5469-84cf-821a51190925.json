@@ -14,25 +14,41 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467736603"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1801848163"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1003309444"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467736603"
       }
     ],
     "address": [
       {
         "line": [
-          "275 Sandwich Street"
+          "17 Chipman Way"
+        ],
+        "city": "KINGSTON",
+        "state": "MA",
+        "postalCode": "02364-0001"
+      },
+      {
+        "line": [
+          "98 Nicks Rock Road"
         ],
         "city": "PLYMOUTH",
         "state": "MA",
-        "postalCode": "02360-2183"
+        "postalCode": "02360-6861"
+      },
+      {
+        "line": [
+          "88 Washington Street"
+        ],
+        "city": "TAUNTON",
+        "state": "MA",
+        "postalCode": "02780-2465"
       },
       {
         "line": [
@@ -44,11 +60,27 @@
       },
       {
         "line": [
-          "167 BROADWAY"
+          "275 Sandwich Street"
         ],
-        "city": "TAUNTON",
+        "city": "PLYMOUTH",
         "state": "MA",
-        "postalCode": "02780-2547"
+        "postalCode": "02360-2183"
+      },
+      {
+        "line": [
+          "456 Mills St"
+        ],
+        "city": "MARION",
+        "state": "MA",
+        "postalCode": "02738-0006"
+      },
+      {
+        "line": [
+          "55 w. main street"
+        ],
+        "city": "NORTON",
+        "state": "MA",
+        "postalCode": "02766-1701"
       },
       {
         "line": [
@@ -61,7 +93,7 @@
       },
       {
         "line": [
-          "98 Nicks Rock Road"
+          "94 OBERY ST"
         ],
         "city": "PLYMOUTH",
         "state": "MA",
@@ -69,39 +101,7 @@
       },
       {
         "line": [
-          "55 w. main street"
-        ],
-        "city": "NORTON",
-        "state": "MA",
-        "postalCode": "02766-1701"
-      },
-      {
-        "line": [
-          "456 Mills St"
-        ],
-        "city": "MARION",
-        "state": "MA",
-        "postalCode": "02738-0006"
-      },
-      {
-        "line": [
-          "2215 king philip street"
-        ],
-        "city": "RAYNHAM",
-        "state": "MA",
-        "postalCode": "02767-5505"
-      },
-      {
-        "line": [
-          "88 Washington Street"
-        ],
-        "city": "TAUNTON",
-        "state": "MA",
-        "postalCode": "02780-2465"
-      },
-      {
-        "line": [
-          "94 OBERY ST"
+          "97 WARREN AVE"
         ],
         "city": "PLYMOUTH",
         "state": "MA",
@@ -117,7 +117,23 @@
       },
       {
         "line": [
-          "17 Chipman Way"
+          "725 Myles Standish Blvd"
+        ],
+        "city": "TAUNTON",
+        "state": "MA",
+        "postalCode": "02780-7332"
+      },
+      {
+        "line": [
+          "33 Summer Street"
+        ],
+        "city": "TAUNTON",
+        "state": "MA",
+        "postalCode": "02780-2547"
+      },
+      {
+        "line": [
+          "17 Chapman Way"
         ],
         "city": "KINGSTON",
         "state": "MA",
@@ -133,35 +149,19 @@
       },
       {
         "line": [
-          "33 Summer Street"
+          "2215 king philip street"
+        ],
+        "city": "RAYNHAM",
+        "state": "MA",
+        "postalCode": "02767-5505"
+      },
+      {
+        "line": [
+          "167 BROADWAY"
         ],
         "city": "TAUNTON",
         "state": "MA",
         "postalCode": "02780-2547"
-      },
-      {
-        "line": [
-          "725 Myles Standish Blvd"
-        ],
-        "city": "TAUNTON",
-        "state": "MA",
-        "postalCode": "02780-7332"
-      },
-      {
-        "line": [
-          "97 WARREN AVE"
-        ],
-        "city": "PLYMOUTH",
-        "state": "MA",
-        "postalCode": "02360-6861"
-      },
-      {
-        "line": [
-          "17 Chapman Way"
-        ],
-        "city": "KINGSTON",
-        "state": "MA",
-        "postalCode": "02364-0001"
       },
       {
         "line": [

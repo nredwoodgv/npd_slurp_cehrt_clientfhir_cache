@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427992056"
+        "value": "1831231414"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831231414"
+        "value": "1427992056"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.336",
@@ -28,19 +28,19 @@
     "address": [
       {
         "line": [
-          "420 N FAIRVIEW AVE"
-        ],
-        "city": "BURNS",
-        "state": "OR",
-        "postalCode": "97720-1416"
-      },
-      {
-        "line": [
           "420 N. Fairview Ave"
         ],
         "city": "BURNS",
         "state": "OR",
         "postalCode": "97720-0253"
+      },
+      {
+        "line": [
+          "420 N FAIRVIEW AVE"
+        ],
+        "city": "BURNS",
+        "state": "OR",
+        "postalCode": "97720-1416"
       }
     ],
     "extension": [

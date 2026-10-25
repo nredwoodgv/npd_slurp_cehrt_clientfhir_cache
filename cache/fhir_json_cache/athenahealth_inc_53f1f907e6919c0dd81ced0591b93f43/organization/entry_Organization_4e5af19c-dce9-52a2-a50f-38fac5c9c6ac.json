@@ -14,11 +14,31 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669801585"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1881656247"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
+        "value": "1750302923"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124080320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053373951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215348487"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,33 +50,13 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
+        "value": "1215999511"
       }
     ],
     "address": [
       {
         "line": [
-          "400 WEST MURCHISON AVE"
+          "400 W.Murchison Ave"
         ],
         "city": "ELDORADO",
         "state": "TX",
@@ -64,7 +64,7 @@
       },
       {
         "line": [
-          "400 W.Murchison Ave"
+          "400 WEST MURCHISON AVE"
         ],
         "city": "ELDORADO",
         "state": "TX",

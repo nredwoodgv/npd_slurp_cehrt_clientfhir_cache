@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891401147"
+        "value": "1154333607"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154333607"
+        "value": "1891401147"
       }
     ],
     "address": [
@@ -32,19 +32,19 @@
       },
       {
         "line": [
-          "10A MARSHELLEN DR"
-        ],
-        "city": "BEAUFORT",
-        "state": "SC",
-        "postalCode": "29902-6900"
-      },
-      {
-        "line": [
           "1700 ASHLEY RIVER RD STE B"
         ],
         "city": "CHARLESTON",
         "state": "SC",
         "postalCode": "29407-5904"
+      },
+      {
+        "line": [
+          "10A MARSHELLEN DR"
+        ],
+        "city": "BEAUFORT",
+        "state": "SC",
+        "postalCode": "29902-6900"
       }
     ],
     "extension": [

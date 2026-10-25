@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598885998"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1588644496"
       },
       {
@@ -23,25 +27,21 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1699895003"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598885998"
       }
     ],
     "address": [
       {
         "line": [
-          "520 W GUM ST"
+          "141 HOSPITAL DR",
+          "SUITE 102"
         ],
-        "city": "MARION",
+        "city": "SALEM",
         "state": "KY",
-        "postalCode": "42064-1516"
+        "postalCode": "42078-8043"
       },
       {
         "line": [
-          "520 W GUM ST",
-          "ANNEX BUILDING"
+          "520 W GUM ST"
         ],
         "city": "MARION",
         "state": "KY",
@@ -65,12 +65,12 @@
       },
       {
         "line": [
-          "141 HOSPITAL DR",
-          "SUITE 102"
+          "520 W GUM ST",
+          "ANNEX BUILDING"
         ],
-        "city": "SALEM",
+        "city": "MARION",
         "state": "KY",
-        "postalCode": "42078-8043"
+        "postalCode": "42064-1516"
       },
       {
         "line": [

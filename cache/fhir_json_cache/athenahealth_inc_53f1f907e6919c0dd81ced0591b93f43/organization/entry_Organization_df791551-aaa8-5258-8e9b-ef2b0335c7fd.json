@@ -14,6 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588226328"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316253875"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073175956"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396201000"
       },
       {
@@ -22,40 +34,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316253875"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1548739170"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588226328"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073175956"
       }
     ],
     "address": [
-      {
-        "line": [
-          "4421 Roosevelt Blvd",
-          "Suite A"
-        ],
-        "city": "MIDDLETOWN",
-        "state": "OH",
-        "postalCode": "45044-9023"
-      },
-      {
-        "line": [
-          "4923 Ogletown Stanton Road",
-          "Suite 110"
-        ],
-        "city": "NEWARK",
-        "state": "DE",
-        "postalCode": "19713-2012"
-      },
       {
         "line": [
           "51 HIGH ST STE 1"
@@ -63,6 +45,22 @@
         "city": "DEXTER",
         "state": "ME",
         "postalCode": "04930-1326"
+      },
+      {
+        "line": [
+          "12 Dallaire Ave"
+        ],
+        "city": "CHICOPEE",
+        "state": "MA",
+        "postalCode": "01020-1237"
+      },
+      {
+        "line": [
+          "147 RIVERSIDE DR STE 1"
+        ],
+        "city": "AUGUSTA",
+        "state": "ME",
+        "postalCode": "04330-4100"
       },
       {
         "line": [
@@ -74,44 +72,11 @@
       },
       {
         "line": [
-          "41 Acme Road",
-          "Suite 3"
-        ],
-        "city": "BREWER",
-        "state": "ME",
-        "postalCode": "04412-1543"
-      },
-      {
-        "line": [
-          "725 North St"
-        ],
-        "city": "PITTSFIELD",
-        "state": "MA",
-        "postalCode": "01201-4109"
-      },
-      {
-        "line": [
           "42 Summer Street"
         ],
         "city": "PITTSFIELD",
         "state": "MA",
         "postalCode": "01201-4697"
-      },
-      {
-        "line": [
-          "167 ACADEMY ST STE B"
-        ],
-        "city": "PRESQUE ISLE",
-        "state": "ME",
-        "postalCode": "04769-3167"
-      },
-      {
-        "line": [
-          "12 Dallaire Ave"
-        ],
-        "city": "CHICOPEE",
-        "state": "MA",
-        "postalCode": "01020-1237"
       },
       {
         "line": [
@@ -124,11 +89,28 @@
       },
       {
         "line": [
-          "147 RIVERSIDE DR STE 1"
+          "938 South Bradford Street"
         ],
-        "city": "AUGUSTA",
+        "city": "DOVER",
+        "state": "DE",
+        "postalCode": "19901-4139"
+      },
+      {
+        "line": [
+          "725 North St"
+        ],
+        "city": "PITTSFIELD",
+        "state": "MA",
+        "postalCode": "01201-4109"
+      },
+      {
+        "line": [
+          "41 Acme Road",
+          "Suite 3"
+        ],
+        "city": "BREWER",
         "state": "ME",
-        "postalCode": "04330-4100"
+        "postalCode": "04412-1543"
       },
       {
         "line": [
@@ -141,20 +123,38 @@
       },
       {
         "line": [
-          "938 South Bradford Street"
-        ],
-        "city": "DOVER",
-        "state": "DE",
-        "postalCode": "19901-4139"
-      },
-      {
-        "line": [
           "26B Enfield Rd",
           "STE 1 & 2"
         ],
         "city": "LINCOLN",
         "state": "ME",
         "postalCode": "04457-1190"
+      },
+      {
+        "line": [
+          "4421 Roosevelt Blvd",
+          "Suite A"
+        ],
+        "city": "MIDDLETOWN",
+        "state": "OH",
+        "postalCode": "45044-9023"
+      },
+      {
+        "line": [
+          "167 ACADEMY ST STE B"
+        ],
+        "city": "PRESQUE ISLE",
+        "state": "ME",
+        "postalCode": "04769-3167"
+      },
+      {
+        "line": [
+          "4923 Ogletown Stanton Road",
+          "Suite 110"
+        ],
+        "city": "NEWARK",
+        "state": "DE",
+        "postalCode": "19713-2012"
       }
     ],
     "extension": [

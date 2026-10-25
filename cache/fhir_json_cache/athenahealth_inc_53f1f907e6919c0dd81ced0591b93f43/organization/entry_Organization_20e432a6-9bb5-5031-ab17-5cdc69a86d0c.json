@@ -14,19 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386934875"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1407268709"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174459226"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720468804"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386934875"
+        "value": "1245166396"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,27 +34,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245166396"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417883570"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720468804"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215863378"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174459226"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3500 WHITTIER BLVD",
-          "STE 105"
-        ],
-        "city": "LOS ANGELES",
-        "state": "CA",
-        "postalCode": "90023-1746"
-      },
       {
         "line": [
           "3564 SANTA ANITA AVE",
@@ -75,6 +66,15 @@
         "city": "LOS ANGELES",
         "state": "CA",
         "postalCode": "90015-3023"
+      },
+      {
+        "line": [
+          "3500 WHITTIER BLVD",
+          "STE 105"
+        ],
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "postalCode": "90023-1746"
       },
       {
         "line": [

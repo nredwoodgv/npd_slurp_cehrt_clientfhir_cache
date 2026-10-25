@@ -14,18 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265474050"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285083154"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164464095"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1376590430"
       },
       {
@@ -34,7 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902846603"
+        "value": "1407883341"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1164464095"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1265474050"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,18 +38,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407883341"
+        "value": "1902846603"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285083154"
       }
     ],
     "address": [
-      {
-        "line": [
-          "146 East 28th Street"
-        ],
-        "city": "CUT OFF",
-        "state": "LA",
-        "postalCode": "70345-2207"
-      },
       {
         "line": [
           "4200 Houma Blvd"
@@ -64,7 +56,7 @@
       },
       {
         "line": [
-          "13030 Highway 308"
+          "13030 LA 308"
         ],
         "city": "LAROSE",
         "state": "LA",
@@ -72,7 +64,15 @@
       },
       {
         "line": [
-          "13030 LA 308"
+          "146 East 28th Street"
+        ],
+        "city": "CUT OFF",
+        "state": "LA",
+        "postalCode": "70345-2207"
+      },
+      {
+        "line": [
+          "13030 Highway 308"
         ],
         "city": "LAROSE",
         "state": "LA",

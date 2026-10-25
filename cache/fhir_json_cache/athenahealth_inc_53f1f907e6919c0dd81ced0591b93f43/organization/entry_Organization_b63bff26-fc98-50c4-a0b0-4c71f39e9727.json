@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235596180"
+        "value": "1447269709"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447269709"
+        "value": "1235596180"
       }
     ],
     "address": [
+      {
+        "line": [
+          "185 HOSPITAL RD"
+        ],
+        "city": "WINCHESTER",
+        "state": "TN",
+        "postalCode": "37398-2404"
+      },
       {
         "line": [
           "320 N LORETTO RD"
@@ -32,11 +40,19 @@
       },
       {
         "line": [
-          "23333 HARVARD RD"
+          "160A W TENNESSEE AVE"
         ],
-        "city": "BEACHWOOD",
-        "state": "OH",
-        "postalCode": "44122-6232"
+        "city": "OAK RIDGE",
+        "state": "TN",
+        "postalCode": "37830-6501"
+      },
+      {
+        "line": [
+          "600 W RIDGE RD"
+        ],
+        "city": "WYTHEVILLE",
+        "state": "VA",
+        "postalCode": "24382-1044"
       },
       {
         "line": [
@@ -45,6 +61,14 @@
         "city": "LEWISTON",
         "state": "ID",
         "postalCode": "83501-1965"
+      },
+      {
+        "line": [
+          "511 UNION ST STE 1800"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37219-2509"
       },
       {
         "line": [
@@ -57,30 +81,6 @@
       },
       {
         "line": [
-          "511 UNION ST STE 1800"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37219-2509"
-      },
-      {
-        "line": [
-          "600 W RIDGE RD"
-        ],
-        "city": "WYTHEVILLE",
-        "state": "VA",
-        "postalCode": "24382-1044"
-      },
-      {
-        "line": [
-          "315 OAK ST"
-        ],
-        "city": "LIVINGSTON",
-        "state": "TN",
-        "postalCode": "38570-1728"
-      },
-      {
-        "line": [
           "4230 HARDING PIKE"
         ],
         "city": "NASHVILLE",
@@ -89,19 +89,19 @@
       },
       {
         "line": [
-          "185 HOSPITAL RD"
+          "23333 HARVARD RD"
         ],
-        "city": "WINCHESTER",
-        "state": "TN",
-        "postalCode": "37398-2404"
+        "city": "BEACHWOOD",
+        "state": "OH",
+        "postalCode": "44122-6232"
       },
       {
         "line": [
-          "160A W TENNESSEE AVE"
+          "315 OAK ST"
         ],
-        "city": "OAK RIDGE",
+        "city": "LIVINGSTON",
         "state": "TN",
-        "postalCode": "37830-6501"
+        "postalCode": "38570-1728"
       }
     ],
     "extension": [

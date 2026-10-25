@@ -14,14 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174741094"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659404192"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1528608437"
       },
       {
@@ -30,29 +22,109 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376761288"
+        "value": "1568838928"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568838928"
+        "value": "1659404192"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174741094"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376761288"
       }
     ],
     "address": [
       {
         "line": [
-          "431 US Route 1"
-        ],
-        "city": "FRENCHVILLE",
-        "state": "ME",
-        "postalCode": "04745-6115"
-      },
-      {
-        "line": [
-          "108 PLEASANT ST"
+          "194 East Main Street"
         ],
         "city": "FORT KENT",
         "state": "ME",
-        "postalCode": "04743-1576"
+        "postalCode": "04743-1428"
+      },
+      {
+        "line": [
+          "3 Mountain View Drive"
+        ],
+        "city": "FORT KENT",
+        "state": "ME",
+        "postalCode": "04743-1614"
+      },
+      {
+        "line": [
+          "12 Bolduc Avenue"
+        ],
+        "city": "FORT KENT",
+        "state": "ME",
+        "postalCode": "04743-1602"
+      },
+      {
+        "line": [
+          "40 Village Road"
+        ],
+        "city": "FORT KENT",
+        "state": "ME",
+        "postalCode": "04743-1031"
+      },
+      {
+        "line": [
+          "12 Bolduc Ave"
+        ],
+        "city": "FORT KENT",
+        "state": "ME",
+        "postalCode": "04743-1602"
+      },
+      {
+        "line": [
+          "169 Main Street"
+        ],
+        "city": "VAN BUREN",
+        "state": "ME",
+        "postalCode": "04785-1248"
+      },
+      {
+        "line": [
+          "353 11th Avenue"
+        ],
+        "city": "MADAWASKA",
+        "state": "ME",
+        "postalCode": "04756-3004"
+      },
+      {
+        "line": [
+          "381 MAIN ST"
+        ],
+        "city": "MADAWASKA",
+        "state": "ME",
+        "postalCode": "04756-1165"
+      },
+      {
+        "line": [
+          "10 Carter Street"
+        ],
+        "city": "EAGLE LAKE",
+        "state": "ME",
+        "postalCode": "04739-0309"
+      },
+      {
+        "line": [
+          "3402 AROOSTOOK RD"
+        ],
+        "city": "EAGLE LAKE",
+        "state": "ME",
+        "postalCode": "04739-3240"
+      },
+      {
+        "line": [
+          "25 Bolduc Ave"
+        ],
+        "city": "FORT KENT",
+        "state": "ME",
+        "postalCode": "04743-1601"
       },
       {
         "line": [
@@ -72,67 +144,19 @@
       },
       {
         "line": [
-          "3 Mountain View Drive"
-        ],
-        "city": "FORT KENT",
-        "state": "ME",
-        "postalCode": "04743-1614"
-      },
-      {
-        "line": [
-          "353 11th Avenue"
-        ],
-        "city": "MADAWASKA",
-        "state": "ME",
-        "postalCode": "04756-3004"
-      },
-      {
-        "line": [
-          "12 Bolduc Ave"
-        ],
-        "city": "FORT KENT",
-        "state": "ME",
-        "postalCode": "04743-1602"
-      },
-      {
-        "line": [
-          "381 MAIN ST"
-        ],
-        "city": "MADAWASKA",
-        "state": "ME",
-        "postalCode": "04756-1165"
-      },
-      {
-        "line": [
-          "169 Main Street"
-        ],
-        "city": "VAN BUREN",
-        "state": "ME",
-        "postalCode": "04785-1248"
-      },
-      {
-        "line": [
-          "194 East Main Street"
-        ],
-        "city": "FORT KENT",
-        "state": "ME",
-        "postalCode": "04743-1428"
-      },
-      {
-        "line": [
-          "25 Bolduc Ave"
-        ],
-        "city": "FORT KENT",
-        "state": "ME",
-        "postalCode": "04743-1601"
-      },
-      {
-        "line": [
           "3402 Aroostook Rd"
         ],
         "city": "EAGLE LAKE",
         "state": "ME",
         "postalCode": "04739-0310"
+      },
+      {
+        "line": [
+          "431 US Route 1"
+        ],
+        "city": "FRENCHVILLE",
+        "state": "ME",
+        "postalCode": "04745-6115"
       },
       {
         "line": [
@@ -144,27 +168,11 @@
       },
       {
         "line": [
-          "10 Carter Street"
-        ],
-        "city": "EAGLE LAKE",
-        "state": "ME",
-        "postalCode": "04739-0309"
-      },
-      {
-        "line": [
-          "12 Bolduc Avenue"
+          "108 PLEASANT ST"
         ],
         "city": "FORT KENT",
         "state": "ME",
-        "postalCode": "04743-1602"
-      },
-      {
-        "line": [
-          "40 Village Road"
-        ],
-        "city": "FORT KENT",
-        "state": "ME",
-        "postalCode": "04743-1031"
+        "postalCode": "04743-1576"
       }
     ],
     "extension": [

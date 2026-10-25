@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225071491"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215945456"
+        "value": "1225075203"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023064482"
+        "value": "1215945456"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225071491"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,7 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184786329"
+        "value": "1023064482"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,13 +42,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225075203"
+        "value": "1184786329"
       }
     ],
     "address": [
       {
         "line": [
           "2301 N LAKE DR"
+        ],
+        "city": "MILWAUKEE",
+        "state": "WI",
+        "postalCode": "53211-4508"
+      },
+      {
+        "line": [
+          "2301 N Lake Dr"
         ],
         "city": "MILWAUKEE",
         "state": "WI",
@@ -70,14 +78,6 @@
         "city": "MILWAUKEE",
         "state": "WI",
         "postalCode": "53211-4528"
-      },
-      {
-        "line": [
-          "2301 N Lake Dr"
-        ],
-        "city": "MILWAUKEE",
-        "state": "WI",
-        "postalCode": "53211-4508"
       }
     ],
     "extension": [

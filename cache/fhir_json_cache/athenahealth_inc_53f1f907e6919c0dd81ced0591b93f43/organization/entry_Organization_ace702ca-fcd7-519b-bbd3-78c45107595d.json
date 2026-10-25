@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033294673"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396798302"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902043433"
+        "value": "1881981033"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,18 +22,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598929135"
+        "value": "1396798302"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881981033"
+        "value": "1033294673"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902043433"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598929135"
       }
     ],
     "address": [
       {
         "line": [
           "300 20Th Ave N",
-          "7th Fl"
+          "9th Fl"
         ],
         "city": "NASHVILLE",
         "state": "TN",
@@ -49,8 +49,7 @@
       },
       {
         "line": [
-          "300 20Th Ave N",
-          "8th Fl"
+          "300 20th Ave N, 7Th Fl"
         ],
         "city": "NASHVILLE",
         "state": "TN",
@@ -68,7 +67,7 @@
       {
         "line": [
           "300 20Th Ave N",
-          "9th Fl"
+          "7th Fl"
         ],
         "city": "NASHVILLE",
         "state": "TN",
@@ -76,7 +75,8 @@
       },
       {
         "line": [
-          "300 20th Ave N, 7Th Fl"
+          "300 20Th Ave N",
+          "8th Fl"
         ],
         "city": "NASHVILLE",
         "state": "TN",

@@ -14,11 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881109007"
+        "value": "1952816225"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1487869467"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881109007"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -27,20 +31,24 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1902311277"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952816225"
       }
     ],
     "address": [
       {
         "line": [
-          "438 W Brevard St"
+          "2295 Pasco Street"
         ],
         "city": "TALLAHASSEE",
         "state": "FL",
-        "postalCode": "32301-1069"
+        "postalCode": "32310-0908"
+      },
+      {
+        "line": [
+          "872 West Orange Avenue"
+        ],
+        "city": "TALLAHASSEE",
+        "state": "FL",
+        "postalCode": "32310-6123"
       },
       {
         "line": [
@@ -52,19 +60,11 @@
       },
       {
         "line": [
-          "2295 Pasco Street"
+          "438 W Brevard St"
         ],
         "city": "TALLAHASSEE",
         "state": "FL",
-        "postalCode": "32310-0908"
-      },
-      {
-        "line": [
-          "3013 Jim Lee Road"
-        ],
-        "city": "TALLAHASSEE",
-        "state": "FL",
-        "postalCode": "32301-7057"
+        "postalCode": "32301-1069"
       },
       {
         "line": [
@@ -84,11 +84,11 @@
       },
       {
         "line": [
-          "872 West Orange Avenue"
+          "3013 Jim Lee Road"
         ],
         "city": "TALLAHASSEE",
         "state": "FL",
-        "postalCode": "32310-6123"
+        "postalCode": "32301-7057"
       },
       {
         "line": [

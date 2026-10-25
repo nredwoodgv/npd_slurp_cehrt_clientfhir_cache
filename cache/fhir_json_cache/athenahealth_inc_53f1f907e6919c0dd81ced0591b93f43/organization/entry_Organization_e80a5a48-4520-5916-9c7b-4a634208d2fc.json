@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
+        "value": "1215348487"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,11 +22,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
+        "value": "1124080320"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
+        "value": "1649232984"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053373951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750302923"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730484031"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,38 +50,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
+        "value": "1881656247"
       }
     ],
     "address": [
-      {
-        "line": [
-          "200 COUNTY ROAD 616"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76802-3294"
-      },
-      {
-        "line": [
-          "1514 INDIAN CREEK DR"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-6536"
-      },
-      {
-        "line": [
-          "2700 MEMORIAL PARK DR"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-8481"
-      },
       {
         "line": [
           "1501 BURNET RD"
@@ -96,19 +72,11 @@
       },
       {
         "line": [
-          "2501 Morris Sheppard Dr"
+          "2700 MEMORIAL PARK DR"
         ],
         "city": "BROWNWOOD",
         "state": "TX",
-        "postalCode": "76801-5919"
-      },
-      {
-        "line": [
-          "1105 FITZGERALD ST"
-        ],
-        "city": "BANGS",
-        "state": "TX",
-        "postalCode": "76823-3232"
+        "postalCode": "76801-8481"
       },
       {
         "line": [
@@ -128,11 +96,19 @@
       },
       {
         "line": [
-          "2400 W BROWN ST"
+          "1514 INDIAN CREEK DR"
         ],
-        "city": "SAN SABA",
+        "city": "BROWNWOOD",
         "state": "TX",
-        "postalCode": "76877-3863"
+        "postalCode": "76801-6536"
+      },
+      {
+        "line": [
+          "200 COUNTY ROAD 616"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76802-3294"
       },
       {
         "line": [
@@ -141,6 +117,30 @@
         "city": "BROWNWOOD",
         "state": "TX",
         "postalCode": "76801-5900"
+      },
+      {
+        "line": [
+          "1105 FITZGERALD ST"
+        ],
+        "city": "BANGS",
+        "state": "TX",
+        "postalCode": "76823-3232"
+      },
+      {
+        "line": [
+          "2400 W BROWN ST"
+        ],
+        "city": "SAN SABA",
+        "state": "TX",
+        "postalCode": "76877-3863"
+      },
+      {
+        "line": [
+          "2501 Morris Sheppard Dr"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-5919"
       }
     ],
     "extension": [

@@ -14,7 +14,27 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831764927"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629068531"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598713117"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1063024578"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1033175344"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053647164"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,27 +46,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548250459"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598713117"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831764927"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053647164"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629068531"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1336180165"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548250459"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -55,13 +59,18 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1174769764"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063024578"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1 Burnt Church Road",
+          "Suite A"
+        ],
+        "city": "BLUFFTON",
+        "state": "SC",
+        "postalCode": "29910-6405"
+      },
       {
         "line": [
           "1680 Ribaut Road"
@@ -78,15 +87,6 @@
         "city": "OKATIE",
         "state": "SC",
         "postalCode": "29909-3750"
-      },
-      {
-        "line": [
-          "1 Burnt Church Road",
-          "Suite A"
-        ],
-        "city": "BLUFFTON",
-        "state": "SC",
-        "postalCode": "29910-6405"
       }
     ],
     "extension": [

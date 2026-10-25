@@ -14,14 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114235918"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649232984"
       },
       {
@@ -30,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
+        "value": "1114235918"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,7 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
+        "value": "1750302923"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,17 +38,41 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
+        "value": "1881656247"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215999511"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730484031"
       }
     ],
     "address": [
       {
         "line": [
-          "600 N. Park"
+          "1721 Birmingham Drive Ste 202"
         ],
-        "city": "BRENHAM",
+        "city": "COLLEGE STATION",
         "state": "TX",
-        "postalCode": "77833-2610"
+        "postalCode": "77845-4081"
+      },
+      {
+        "line": [
+          "1602 Rock Prairie Ste 3500"
+        ],
+        "city": "COLLEGE STATION",
+        "state": "TX",
+        "postalCode": "77845-5986"
+      },
+      {
+        "line": [
+          "1686 Hwy 79 West"
+        ],
+        "city": "BUFFALO",
+        "state": "TX",
+        "postalCode": "75831-8999"
       },
       {
         "line": [
@@ -76,11 +92,11 @@
       },
       {
         "line": [
-          "1602 Rock Prairie Ste 3500"
+          "600 N. Park"
         ],
-        "city": "COLLEGE STATION",
+        "city": "BRENHAM",
         "state": "TX",
-        "postalCode": "77845-5986"
+        "postalCode": "77833-2610"
       },
       {
         "line": [
@@ -89,22 +105,6 @@
         "city": "NAVASOTA",
         "state": "TX",
         "postalCode": "77868-3001"
-      },
-      {
-        "line": [
-          "1686 Hwy 79 West"
-        ],
-        "city": "BUFFALO",
-        "state": "TX",
-        "postalCode": "75831-8999"
-      },
-      {
-        "line": [
-          "1721 Birmingham Drive Ste 202"
-        ],
-        "city": "COLLEGE STATION",
-        "state": "TX",
-        "postalCode": "77845-4081"
       }
     ],
     "extension": [

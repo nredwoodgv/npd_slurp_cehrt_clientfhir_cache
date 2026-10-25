@@ -14,19 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902347438"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1104496819"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104367630"
+        "value": "1902347438"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1073054458"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104367630"
       }
     ],
     "address": [
@@ -40,7 +40,7 @@
       },
       {
         "line": [
-          "77 WARREN STREET 5TH FLOOR"
+          "77 Warren Street"
         ],
         "city": "BRIGHTON",
         "state": "MA",
@@ -48,7 +48,7 @@
       },
       {
         "line": [
-          "77 Warren Street"
+          "77 WARREN STREET 5TH FLOOR"
         ],
         "city": "BRIGHTON",
         "state": "MA",

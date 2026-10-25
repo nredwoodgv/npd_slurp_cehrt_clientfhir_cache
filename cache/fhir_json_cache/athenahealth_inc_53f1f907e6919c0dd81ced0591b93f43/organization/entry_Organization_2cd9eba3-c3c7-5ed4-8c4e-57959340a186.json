@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538155817"
+        "value": "1235453408"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235453408"
+        "value": "1538155817"
       }
     ],
     "address": [
       {
         "line": [
-          "315 S OSTEOPATHY ST"
+          "7331 EAST OSBORN DR"
         ],
-        "city": "KIRKSVILLE",
-        "state": "MO",
-        "postalCode": "63501-6401"
+        "city": "SCOTTSDALE",
+        "state": "AZ",
+        "postalCode": "85251-6435"
       },
       {
         "line": [
@@ -40,11 +40,12 @@
       },
       {
         "line": [
-          "7331 EAST OSBORN DR"
+          "#1 Crown Drive",
+          "Suite 201"
         ],
-        "city": "SCOTTSDALE",
-        "state": "AZ",
-        "postalCode": "85251-6435"
+        "city": "KIRKSVILLE",
+        "state": "MO",
+        "postalCode": "63501-2510"
       },
       {
         "line": [
@@ -64,12 +65,11 @@
       },
       {
         "line": [
-          "#1 Crown Drive",
-          "Suite 201"
+          "315 S OSTEOPATHY ST"
         ],
         "city": "KIRKSVILLE",
         "state": "MO",
-        "postalCode": "63501-2510"
+        "postalCode": "63501-6401"
       }
     ],
     "extension": [

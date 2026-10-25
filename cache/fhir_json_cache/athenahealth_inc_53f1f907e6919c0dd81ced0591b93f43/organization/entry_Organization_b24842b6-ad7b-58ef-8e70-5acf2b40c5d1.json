@@ -14,14 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336175462"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639108822"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669940078"
       },
       {
@@ -30,11 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831495613"
+        "value": "1598703043"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598703043"
+        "value": "1831495613"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,27 +34,45 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1366981805"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1821196148"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366981805"
+        "value": "1639108822"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336175462"
       }
     ],
     "address": [
       {
-        "line": [],
+        "line": [
+          "1 MEDICAL PARK BLVD"
+        ],
         "city": "BRISTOL",
         "state": "TN",
-        "postalCode": "37620-7497"
+        "postalCode": "37620-7430"
       },
       {
         "line": [
-          "16000 JOHNSTON MEMORIAL DR"
+          "301 VILLAGE CIR"
         ],
-        "city": "ABINGDON",
+        "city": "BRISTOL",
         "state": "VA",
-        "postalCode": "24211-7664"
+        "postalCode": "24201-8302"
+      },
+      {
+        "line": [
+          "1 Medical Park Blvd"
+        ],
+        "city": "BRISTOL",
+        "state": "TN",
+        "postalCode": "37620-7430"
       },
       {
         "line": [
@@ -72,6 +82,12 @@
         "city": "ABINGDON",
         "state": "VA",
         "postalCode": "24211-7664"
+      },
+      {
+        "line": [],
+        "city": "BRISTOL",
+        "state": "TN",
+        "postalCode": "37620-7497"
       },
       {
         "line": [
@@ -84,53 +100,11 @@
       },
       {
         "line": [
-          "3 Professional Park Drive",
-          "Ste 21"
-        ],
-        "city": "JOHNSON CITY",
-        "state": "TN",
-        "postalCode": "37604-6529"
-      },
-      {
-        "line": [
-          "1 Medcial Park Blvd",
-          "Suite 300E"
-        ],
-        "city": "BRISTOL",
-        "state": "TN",
-        "postalCode": "37620-7430"
-      },
-      {
-        "line": [
-          "1 Medical Park Blvd"
-        ],
-        "city": "BRISTOL",
-        "state": "TN",
-        "postalCode": "37620-7430"
-      },
-      {
-        "line": [
           "1500 W ELK AVE STE 11A"
         ],
         "city": "ELIZABETHTON",
         "state": "TN",
         "postalCode": "37643-2654"
-      },
-      {
-        "line": [
-          "16000 JOHNSTON MEMORIAL DR STE 100"
-        ],
-        "city": "ABINGDON",
-        "state": "VA",
-        "postalCode": "24211-7664"
-      },
-      {
-        "line": [
-          "301 VILLAGE CIR"
-        ],
-        "city": "BRISTOL",
-        "state": "VA",
-        "postalCode": "24201-8302"
       },
       {
         "line": [
@@ -143,19 +117,21 @@
       },
       {
         "line": [
-          "350 Blountville Hwy"
+          "3 Professional Park Drive",
+          "Ste 21"
         ],
-        "city": "BRISTOL",
+        "city": "JOHNSON CITY",
         "state": "TN",
-        "postalCode": "37620-1676"
+        "postalCode": "37604-6529"
       },
       {
         "line": [
-          "1 MEDICAL PARK BLVD"
+          "260 Midway Medical Park",
+          "Ste 100"
         ],
         "city": "BRISTOL",
         "state": "TN",
-        "postalCode": "37620-7430"
+        "postalCode": "37620-1602"
       },
       {
         "line": [
@@ -176,11 +152,19 @@
       },
       {
         "line": [
-          "3 PROFESSIONAL PARK DR STE 21"
+          "16000 JOHNSTON MEMORIAL DR STE 100"
         ],
-        "city": "JOHNSON CITY",
+        "city": "ABINGDON",
+        "state": "VA",
+        "postalCode": "24211-7664"
+      },
+      {
+        "line": [
+          "350 Blountville Hwy"
+        ],
+        "city": "BRISTOL",
         "state": "TN",
-        "postalCode": "37604-6529"
+        "postalCode": "37620-1676"
       },
       {
         "line": [
@@ -191,19 +175,29 @@
         "postalCode": "37660-3837"
       },
       {
-        "line": [],
-        "city": "NORTON",
+        "line": [
+          "16000 JOHNSTON MEMORIAL DR"
+        ],
+        "city": "ABINGDON",
         "state": "VA",
-        "postalCode": "24273-0001"
+        "postalCode": "24211-7664"
       },
       {
         "line": [
-          "260 Midway Medical Park",
-          "Ste 100"
+          "3 PROFESSIONAL PARK DR STE 21"
+        ],
+        "city": "JOHNSON CITY",
+        "state": "TN",
+        "postalCode": "37604-6529"
+      },
+      {
+        "line": [
+          "1 Medcial Park Blvd",
+          "Suite 300E"
         ],
         "city": "BRISTOL",
         "state": "TN",
-        "postalCode": "37620-1602"
+        "postalCode": "37620-7430"
       },
       {
         "line": [
@@ -213,6 +207,12 @@
         "city": "ELIZABETHTON",
         "state": "TN",
         "postalCode": "37643-2896"
+      },
+      {
+        "line": [],
+        "city": "NORTON",
+        "state": "VA",
+        "postalCode": "24273-0001"
       }
     ],
     "extension": [

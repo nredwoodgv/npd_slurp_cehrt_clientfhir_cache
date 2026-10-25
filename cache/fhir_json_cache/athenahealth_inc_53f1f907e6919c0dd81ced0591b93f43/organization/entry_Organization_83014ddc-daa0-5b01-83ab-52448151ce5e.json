@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053039032"
+        "value": "1275587826"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447978358"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,11 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275587826"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447978358"
+        "value": "1053039032"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,19 +36,19 @@
     "address": [
       {
         "line": [
-          "401 N 9th St"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58501-4530"
-      },
-      {
-        "line": [
           "103 1st Ave. E"
         ],
         "city": "MOBRIDGE",
         "state": "SD",
         "postalCode": "57601-1146"
+      },
+      {
+        "line": [
+          "401 N 9th St"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58501-4530"
       }
     ],
     "extension": [

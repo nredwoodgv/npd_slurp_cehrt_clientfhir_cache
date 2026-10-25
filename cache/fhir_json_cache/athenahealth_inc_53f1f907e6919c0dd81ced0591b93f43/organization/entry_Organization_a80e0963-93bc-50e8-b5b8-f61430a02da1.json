@@ -22,14 +22,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023064482"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811926132"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215945456"
       },
       {
@@ -38,7 +30,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1023064482"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1225071491"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811926132"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -56,25 +56,9 @@
       },
       {
         "line": [
-          "N27W5707 Lincoln Blvd"
-        ],
-        "city": "Cedarburg",
-        "state": "WI",
-        "postalCode": "53012-2852"
-      },
-      {
-        "line": [
           "13111 N Port Washington Rd"
         ],
         "city": "Mequon",
-        "state": "WI",
-        "postalCode": "53097-2416"
-      },
-      {
-        "line": [
-          "13111 N Port Washington Rd"
-        ],
-        "city": "MEQUON",
         "state": "WI",
         "postalCode": "53097-2416"
       },
@@ -93,6 +77,22 @@
         "city": "MILWAUKEE",
         "state": "WI",
         "postalCode": "53211-4508"
+      },
+      {
+        "line": [
+          "N27W5707 Lincoln Blvd"
+        ],
+        "city": "Cedarburg",
+        "state": "WI",
+        "postalCode": "53012-2852"
+      },
+      {
+        "line": [
+          "13111 N Port Washington Rd"
+        ],
+        "city": "MEQUON",
+        "state": "WI",
+        "postalCode": "53097-2416"
       }
     ],
     "extension": [

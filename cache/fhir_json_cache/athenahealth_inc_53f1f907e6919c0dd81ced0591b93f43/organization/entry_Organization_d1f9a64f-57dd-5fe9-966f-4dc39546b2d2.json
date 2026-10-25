@@ -22,14 +22,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1124080320"
       },
       {
@@ -42,7 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
+        "value": "1962602300"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -51,56 +43,24 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1881656247"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053373951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
       }
     ],
     "address": [
       {
         "line": [
-          "3501 KNICKERBOCKER RD"
+          "400 W MURCHISON AVE"
         ],
-        "city": "SAN ANGELO",
+        "city": "ELDORADO",
         "state": "TX",
-        "postalCode": "76904-7610"
-      },
-      {
-        "line": [
-          "2210 HOWARD"
-        ],
-        "city": "SAN ANGELO",
-        "state": "TX",
-        "postalCode": "76901-1318"
-      },
-      {
-        "line": [
-          "308 Hudspeth"
-        ],
-        "city": "SONORA",
-        "state": "TX",
-        "postalCode": "76950-8003"
-      },
-      {
-        "line": [
-          "1915 GREENWOOD"
-        ],
-        "city": "SAN ANGELO",
-        "state": "TX",
-        "postalCode": "76901-1112"
-      },
-      {
-        "line": [
-          "4343 OAK GROVE BLVD"
-        ],
-        "city": "SAN ANGELO",
-        "state": "TX",
-        "postalCode": "76904-4500"
-      },
-      {
-        "line": [
-          "2713 SOUTH COMMERCIAL AVE"
-        ],
-        "city": "COLEMAN",
-        "state": "TX",
-        "postalCode": "76834-7503"
+        "postalCode": "76936-1246"
       },
       {
         "line": [
@@ -112,11 +72,51 @@
       },
       {
         "line": [
+          "3501 KNICKERBOCKER RD"
+        ],
+        "city": "SAN ANGELO",
+        "state": "TX",
+        "postalCode": "76904-7610"
+      },
+      {
+        "line": [
+          "4343 OAK GROVE BLVD"
+        ],
+        "city": "SAN ANGELO",
+        "state": "TX",
+        "postalCode": "76904-4500"
+      },
+      {
+        "line": [
+          "2210 HOWARD"
+        ],
+        "city": "SAN ANGELO",
+        "state": "TX",
+        "postalCode": "76901-1318"
+      },
+      {
+        "line": [
+          "2713 SOUTH COMMERCIAL AVE"
+        ],
+        "city": "COLEMAN",
+        "state": "TX",
+        "postalCode": "76834-7503"
+      },
+      {
+        "line": [
           "2141 HAMILTON WAY STE 108"
         ],
         "city": "SAN ANGELO",
         "state": "TX",
         "postalCode": "76904-6887"
+      },
+      {
+        "line": [
+          "1915 GREENWOOD"
+        ],
+        "city": "SAN ANGELO",
+        "state": "TX",
+        "postalCode": "76901-1112"
       },
       {
         "line": [
@@ -136,11 +136,11 @@
       },
       {
         "line": [
-          "400 W MURCHISON AVE"
+          "308 Hudspeth"
         ],
-        "city": "ELDORADO",
+        "city": "SONORA",
         "state": "TX",
-        "postalCode": "76936-1246"
+        "postalCode": "76950-8003"
       }
     ],
     "extension": [

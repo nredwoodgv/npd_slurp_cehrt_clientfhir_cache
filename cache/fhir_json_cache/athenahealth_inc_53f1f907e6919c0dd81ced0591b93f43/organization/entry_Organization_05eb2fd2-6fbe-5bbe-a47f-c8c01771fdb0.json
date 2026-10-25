@@ -14,39 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104058940"
+        "value": "1699863936"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699863936"
+        "value": "1104058940"
       }
     ],
     "address": [
-      {
-        "line": [
-          "800 MEADOWS RD"
-        ],
-        "city": "BOCA RATON",
-        "state": "FL",
-        "postalCode": "33486-2304"
-      },
-      {
-        "line": [
-          "800 MEADOWS RD",
-          "Ste 101"
-        ],
-        "city": "BOCA RATON",
-        "state": "FL",
-        "postalCode": "33486-2304"
-      },
-      {
-        "line": [
-          "3313 W Hillsboro Blvd"
-        ],
-        "city": "DEERFIELD BEACH",
-        "state": "FL",
-        "postalCode": "33442-9423"
-      },
       {
         "line": [
           "9655 W. Boynton Beach Blvd."
@@ -54,6 +29,14 @@
         "city": "BOYNTON BEACH",
         "state": "FL",
         "postalCode": "33472-4421"
+      },
+      {
+        "line": [
+          "8900 N KENDALL DR"
+        ],
+        "city": "MIAMI",
+        "state": "FL",
+        "postalCode": "33176-2118"
       },
       {
         "line": [
@@ -73,6 +56,14 @@
       },
       {
         "line": [
+          "16313 S MILITARY TRL"
+        ],
+        "city": "DELRAY BEACH",
+        "state": "FL",
+        "postalCode": "33484-6628"
+      },
+      {
+        "line": [
           "2815 South Seacrest Boulevard"
         ],
         "city": "BOYNTON BEACH",
@@ -81,11 +72,11 @@
       },
       {
         "line": [
-          "5000 UNIVERSITY DR"
+          "800 MEADOWS RD"
         ],
-        "city": "MIAMI",
+        "city": "BOCA RATON",
         "state": "FL",
-        "postalCode": "33146-2008"
+        "postalCode": "33486-2304"
       },
       {
         "line": [
@@ -97,11 +88,28 @@
       },
       {
         "line": [
-          "16313 S MILITARY TRL"
+          "3313 W Hillsboro Blvd"
         ],
-        "city": "DELRAY BEACH",
+        "city": "DEERFIELD BEACH",
         "state": "FL",
-        "postalCode": "33484-6628"
+        "postalCode": "33442-9423"
+      },
+      {
+        "line": [
+          "5000 UNIVERSITY DR"
+        ],
+        "city": "MIAMI",
+        "state": "FL",
+        "postalCode": "33146-2008"
+      },
+      {
+        "line": [
+          "800 MEADOWS RD",
+          "Ste 101"
+        ],
+        "city": "BOCA RATON",
+        "state": "FL",
+        "postalCode": "33486-2304"
       },
       {
         "line": [
@@ -110,14 +118,6 @@
         "city": "BOCA RATON",
         "state": "FL",
         "postalCode": "33486-2304"
-      },
-      {
-        "line": [
-          "8900 N KENDALL DR"
-        ],
-        "city": "MIAMI",
-        "state": "FL",
-        "postalCode": "33176-2118"
       },
       {
         "line": [

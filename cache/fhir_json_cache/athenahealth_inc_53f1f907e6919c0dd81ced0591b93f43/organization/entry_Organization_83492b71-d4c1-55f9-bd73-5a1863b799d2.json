@@ -14,35 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265893291"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417311168"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104289693"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720722820"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831552322"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720123748"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326402074"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942664677"
+        "value": "1821452566"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,15 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619338647"
+        "value": "1942664677"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720449739"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376592964"
+        "value": "1720722820"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,11 +34,31 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881058535"
+        "value": "1376592964"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821452566"
+        "value": "1720123748"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417311168"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720449739"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831552322"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104289693"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619338647"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -78,10 +66,30 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326402074"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1710348784"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1265893291"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881058535"
       }
     ],
     "address": [
+      {
+        "line": [
+          "107 E McClanahan Street"
+        ],
+        "city": "OXFORD",
+        "state": "NC",
+        "postalCode": "27565-2919"
+      },
       {
         "line": [
           "120 William Penn Plaza"
@@ -89,49 +97,6 @@
         "city": "DURHAM",
         "state": "NC",
         "postalCode": "27704-2150"
-      },
-      {
-        "line": [
-          "11550 Common Oaks Dr",
-          "Ste 100"
-        ],
-        "city": "RALEIGH",
-        "state": "NC",
-        "postalCode": "27614-8093"
-      },
-      {
-        "line": [
-          "1803 Forest Hills Rd W",
-          "Ste 100"
-        ],
-        "city": "WILSON",
-        "state": "NC",
-        "postalCode": "27893-3412"
-      },
-      {
-        "line": [
-          "3790 Guess Road"
-        ],
-        "city": "DURHAM",
-        "state": "NC",
-        "postalCode": "27705-6916"
-      },
-      {
-        "line": [
-          "2076 Hwy 42 W",
-          "Ste 300"
-        ],
-        "city": "CLAYTON",
-        "state": "NC",
-        "postalCode": "27520-5302"
-      },
-      {
-        "line": [
-          "11550 Common Oaks Dr."
-        ],
-        "city": "RALEIGH",
-        "state": "NC",
-        "postalCode": "27614-8093"
       },
       {
         "line": [
@@ -151,11 +116,11 @@
       },
       {
         "line": [
-          "107 E McClanahan Street"
+          "1111 Huffman Mill Rd."
         ],
-        "city": "OXFORD",
+        "city": "BURLINGTON",
         "state": "NC",
-        "postalCode": "27565-2919"
+        "postalCode": "27215-8700"
       },
       {
         "line": [
@@ -167,6 +132,23 @@
       },
       {
         "line": [
+          "1803 Forest Hills Rd W",
+          "Ste 100"
+        ],
+        "city": "WILSON",
+        "state": "NC",
+        "postalCode": "27893-3412"
+      },
+      {
+        "line": [
+          "11550 Common Oaks Dr."
+        ],
+        "city": "RALEIGH",
+        "state": "NC",
+        "postalCode": "27614-8093"
+      },
+      {
+        "line": [
           "100 Perkins Dr"
         ],
         "city": "CHAPEL HILL",
@@ -175,11 +157,29 @@
       },
       {
         "line": [
-          "1111 Huffman Mill Rd."
+          "2076 Hwy 42 W",
+          "Ste 300"
         ],
-        "city": "BURLINGTON",
+        "city": "CLAYTON",
         "state": "NC",
-        "postalCode": "27215-8700"
+        "postalCode": "27520-5302"
+      },
+      {
+        "line": [
+          "11550 Common Oaks Dr",
+          "Ste 100"
+        ],
+        "city": "RALEIGH",
+        "state": "NC",
+        "postalCode": "27614-8093"
+      },
+      {
+        "line": [
+          "3790 Guess Road"
+        ],
+        "city": "DURHAM",
+        "state": "NC",
+        "postalCode": "27705-6916"
       },
       {
         "line": [

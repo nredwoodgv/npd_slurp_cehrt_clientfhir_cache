@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952688392"
+        "value": "1033507330"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033507330"
+        "value": "1952688392"
       }
     ],
     "address": [
@@ -32,27 +32,19 @@
       },
       {
         "line": [
-          "201 E SAMPLE RD"
-        ],
-        "city": "POMPANO BEACH",
-        "state": "FL",
-        "postalCode": "33064-3502"
-      },
-      {
-        "line": [
-          "1210 S. Old Dixie Hwy"
-        ],
-        "city": "JUPITER",
-        "state": "FL",
-        "postalCode": "33458-7205"
-      },
-      {
-        "line": [
           "13001 Southern Blvd"
         ],
         "city": "LOXAHATCHEE",
         "state": "FL",
         "postalCode": "33470-9203"
+      },
+      {
+        "line": [
+          "10000 SW INNOVATION WAY"
+        ],
+        "city": "PORT SAINT LUCIE",
+        "state": "FL",
+        "postalCode": "34987-2111"
       },
       {
         "line": [
@@ -65,31 +57,6 @@
       },
       {
         "line": [
-          "1230 S. old Dixie hwy"
-        ],
-        "city": "JUPITER",
-        "state": "FL",
-        "postalCode": "33458-7205"
-      },
-      {
-        "line": [
-          "108 Intracoastal Pointe Dr",
-          "suite 300"
-        ],
-        "city": "JUPITER",
-        "state": "FL",
-        "postalCode": "33477-5036"
-      },
-      {
-        "line": [
-          "1210 S Old Dixie Hwy"
-        ],
-        "city": "JUPITER",
-        "state": "FL",
-        "postalCode": "33458-7205"
-      },
-      {
-        "line": [
           "108 INTRACOASTAL POINTE DRIVE",
           "Suite 300"
         ],
@@ -98,7 +65,18 @@
         "postalCode": "33477-5036"
       },
       {
-        "line": [],
+        "line": [
+          "201 E SAMPLE RD"
+        ],
+        "city": "POMPANO BEACH",
+        "state": "FL",
+        "postalCode": "33064-3502"
+      },
+      {
+        "line": [
+          "108 Intracoastal Pointe Dr",
+          "suite 300"
+        ],
         "city": "JUPITER",
         "state": "FL",
         "postalCode": "33477-5036"
@@ -114,6 +92,38 @@
       },
       {
         "line": [
+          "5352 LINTON BLVD"
+        ],
+        "city": "DELRAY BEACH",
+        "state": "FL",
+        "postalCode": "33484-6514"
+      },
+      {
+        "line": [
+          "1230 S. old Dixie hwy"
+        ],
+        "city": "JUPITER",
+        "state": "FL",
+        "postalCode": "33458-7205"
+      },
+      {
+        "line": [
+          "1210 S. Old Dixie Hwy"
+        ],
+        "city": "JUPITER",
+        "state": "FL",
+        "postalCode": "33458-7205"
+      },
+      {
+        "line": [
+          "1210 S Old Dixie Hwy"
+        ],
+        "city": "JUPITER",
+        "state": "FL",
+        "postalCode": "33458-7205"
+      },
+      {
+        "line": [
           "582 NW UNIVERSITY BLVD",
           "STE 100"
         ],
@@ -122,20 +132,10 @@
         "postalCode": "34986-2264"
       },
       {
-        "line": [
-          "10000 SW INNOVATION WAY"
-        ],
-        "city": "PORT SAINT LUCIE",
+        "line": [],
+        "city": "JUPITER",
         "state": "FL",
-        "postalCode": "34987-2111"
-      },
-      {
-        "line": [
-          "5352 LINTON BLVD"
-        ],
-        "city": "DELRAY BEACH",
-        "state": "FL",
-        "postalCode": "33484-6514"
+        "postalCode": "33477-5036"
       }
     ],
     "extension": [

@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164934295"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1437661576"
       },
       {
@@ -27,9 +23,29 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1336665991"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1164934295"
       }
     ],
     "address": [
+      {
+        "line": [
+          "5230 BECK DR STE 6"
+        ],
+        "city": "ELKHART",
+        "state": "IN",
+        "postalCode": "46516-9059"
+      },
+      {
+        "line": [
+          "SCHEDULE TEMPLATE"
+        ],
+        "city": "MISHAWAKA",
+        "state": "IN",
+        "postalCode": "46545-1469"
+      },
       {
         "line": [
           "SURGERY TEMPLATE"
@@ -37,6 +53,14 @@
         "city": "MISHAWAKA",
         "state": "IN",
         "postalCode": "46545-1969"
+      },
+      {
+        "line": [
+          "53880 Carmichael Drive"
+        ],
+        "city": "SOUTH BEND",
+        "state": "IN",
+        "postalCode": "46635-1567"
       },
       {
         "line": [
@@ -49,31 +73,23 @@
       },
       {
         "line": [
-          "1915 Lake Ave"
-        ],
-        "city": "PLYMOUTH",
-        "state": "IN",
-        "postalCode": "46563-9366"
-      },
-      {
-        "line": [
-          "900 I Street"
-        ],
-        "city": "LA PORTE",
-        "state": "IN",
-        "postalCode": "46350-5533"
-      },
-      {
-        "line": [
-          "53880 Carmichael Drive"
+          "BLOCK"
         ],
         "city": "SOUTH BEND",
         "state": "IN",
-        "postalCode": "46635-1567"
+        "postalCode": "46601-1033"
       },
       {
         "line": [
           "SCHEDULE TEMPLATE"
+        ],
+        "city": "SOUTH BEND",
+        "state": "IN",
+        "postalCode": "46601-1033"
+      },
+      {
+        "line": [
+          "1915 Lake Ave"
         ],
         "city": "PLYMOUTH",
         "state": "IN",
@@ -89,35 +105,19 @@
       },
       {
         "line": [
-          "5230 BECK DR STE 6"
+          "900 I Street"
         ],
-        "city": "ELKHART",
+        "city": "LA PORTE",
         "state": "IN",
-        "postalCode": "46516-9059"
-      },
-      {
-        "line": [
-          "BLOCK"
-        ],
-        "city": "SOUTH BEND",
-        "state": "IN",
-        "postalCode": "46601-1033"
+        "postalCode": "46350-5533"
       },
       {
         "line": [
           "SCHEDULE TEMPLATE"
         ],
-        "city": "MISHAWAKA",
+        "city": "PLYMOUTH",
         "state": "IN",
-        "postalCode": "46545-1469"
-      },
-      {
-        "line": [
-          "SCHEDULE TEMPLATE"
-        ],
-        "city": "SOUTH BEND",
-        "state": "IN",
-        "postalCode": "46601-1033"
+        "postalCode": "46563-9366"
       }
     ],
     "extension": [

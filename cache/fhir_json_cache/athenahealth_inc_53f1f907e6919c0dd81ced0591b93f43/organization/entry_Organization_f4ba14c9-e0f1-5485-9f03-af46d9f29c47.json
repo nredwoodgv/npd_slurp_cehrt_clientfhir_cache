@@ -14,22 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942486915"
+        "value": "1184125668"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184125668"
+        "value": "1942486915"
       }
     ],
     "address": [
       {
         "line": [
-          "2380 North 400 East",
-          "Suite B"
+          "1030 S MEDICAL DR"
         ],
-        "city": "LOGAN",
+        "city": "BRIGHAM CITY",
         "state": "UT",
-        "postalCode": "84341-6000"
+        "postalCode": "84302-3119"
       },
       {
         "line": [
@@ -41,11 +40,12 @@
       },
       {
         "line": [
-          "1030 S MEDICAL DR"
+          "2380 North 400 East",
+          "Suite B"
         ],
-        "city": "BRIGHAM CITY",
+        "city": "LOGAN",
         "state": "UT",
-        "postalCode": "84302-3119"
+        "postalCode": "84341-6000"
       }
     ],
     "extension": [

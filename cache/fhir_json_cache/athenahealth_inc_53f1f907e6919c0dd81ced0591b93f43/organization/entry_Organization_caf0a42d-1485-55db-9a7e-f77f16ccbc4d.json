@@ -14,19 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598225021"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1548739170"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073175956"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396201000"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,10 +22,31 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598225021"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396201000"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1588226328"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073175956"
       }
     ],
     "address": [
+      {
+        "line": [
+          "767 Madison Road",
+          "Suite 107"
+        ],
+        "city": "CULPEPER",
+        "state": "VA",
+        "postalCode": "22701-3340"
+      },
       {
         "line": [
           "406 West Main St",
@@ -49,6 +58,14 @@
       },
       {
         "line": [
+          "1245 E MAIN ST"
+        ],
+        "city": "LEBANON",
+        "state": "VA",
+        "postalCode": "24266-5016"
+      },
+      {
+        "line": [
           "373 CECIL D QUILLEN DR STE 3"
         ],
         "city": "DUFFIELD",
@@ -57,29 +74,11 @@
       },
       {
         "line": [
-          "40 Lambert Street",
-          "Suite 212"
+          "132 McClure Ave"
         ],
-        "city": "STAUNTON",
+        "city": "CLINTWOOD",
         "state": "VA",
-        "postalCode": "24401-2446"
-      },
-      {
-        "line": [
-          "350 South 4th Street"
-        ],
-        "city": "WYTHEVILLE",
-        "state": "VA",
-        "postalCode": "24382-2541"
-      },
-      {
-        "line": [
-          "117 West Boscawen Street",
-          "STE 206"
-        ],
-        "city": "WINCHESTER",
-        "state": "VA",
-        "postalCode": "22601-4140"
+        "postalCode": "24228-6845"
       },
       {
         "line": [
@@ -92,28 +91,20 @@
       },
       {
         "line": [
-          "310 Cloverleaf Square",
-          "Ste. B2"
+          "40 Lambert Street",
+          "Suite 212"
         ],
-        "city": "BIG STONE GAP",
+        "city": "STAUNTON",
         "state": "VA",
-        "postalCode": "24219-3074"
+        "postalCode": "24401-2446"
       },
       {
         "line": [
-          "5554 Redbud Highway"
+          "2609 Sheffield Dr."
         ],
-        "city": "HONAKER",
+        "city": "BLACKSBURG",
         "state": "VA",
-        "postalCode": "24260-7409"
-      },
-      {
-        "line": [
-          "1245 E MAIN ST"
-        ],
-        "city": "LEBANON",
-        "state": "VA",
-        "postalCode": "24266-5016"
+        "postalCode": "24060-8271"
       },
       {
         "line": [
@@ -122,6 +113,30 @@
         "city": "CEDAR BLUFF",
         "state": "VA",
         "postalCode": "24609-7019"
+      },
+      {
+        "line": [
+          "100 Main Street"
+        ],
+        "city": "ROXBURY",
+        "state": "MA",
+        "postalCode": "02119-0001"
+      },
+      {
+        "line": [
+          "350 South 4th Street"
+        ],
+        "city": "WYTHEVILLE",
+        "state": "VA",
+        "postalCode": "24382-2541"
+      },
+      {
+        "line": [
+          "5554 Redbud Highway"
+        ],
+        "city": "HONAKER",
+        "state": "VA",
+        "postalCode": "24260-7409"
       },
       {
         "line": [
@@ -134,36 +149,12 @@
       },
       {
         "line": [
-          "2609 Sheffield Dr."
+          "117 West Boscawen Street",
+          "STE 206"
         ],
-        "city": "BLACKSBURG",
+        "city": "WINCHESTER",
         "state": "VA",
-        "postalCode": "24060-8271"
-      },
-      {
-        "line": [
-          "132 McClure Ave"
-        ],
-        "city": "CLINTWOOD",
-        "state": "VA",
-        "postalCode": "24228-6845"
-      },
-      {
-        "line": [
-          "100 Main Street"
-        ],
-        "city": "ROXBURY",
-        "state": "MA",
-        "postalCode": "02119-0001"
-      },
-      {
-        "line": [
-          "767 Madison Road",
-          "Suite 107"
-        ],
-        "city": "CULPEPER",
-        "state": "VA",
-        "postalCode": "22701-3340"
+        "postalCode": "22601-4140"
       },
       {
         "line": [
@@ -173,6 +164,15 @@
         "city": "FREDERICKSBURG",
         "state": "VA",
         "postalCode": "22407-5516"
+      },
+      {
+        "line": [
+          "310 Cloverleaf Square",
+          "Ste. B2"
+        ],
+        "city": "BIG STONE GAP",
+        "state": "VA",
+        "postalCode": "24219-3074"
       }
     ],
     "extension": [

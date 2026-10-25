@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043769748"
+        "value": "1346338415"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,34 +22,33 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346338415"
+        "value": "1043769748"
       }
     ],
     "address": [
       {
         "line": [
-          "1309 HICKORY ST"
+          "7571 STATE HWY 153"
         ],
-        "city": "ABILENE",
+        "city": "WINTERS",
         "state": "TX",
-        "postalCode": "79601-3509"
+        "postalCode": "79567-7439"
       },
       {
         "line": [
-          "500 Chestnut",
-          "Suite 1509"
+          "6700 W LOOP SOUTH STE 200"
         ],
-        "city": "ABILENE",
+        "city": "BELLAIRE",
         "state": "TX",
-        "postalCode": "79602-1487"
+        "postalCode": "77401-4104"
       },
       {
         "line": [
-          "4641 S. 14TH"
+          "8133 MESA DR SUITE 200"
         ],
-        "city": "ABILENE",
+        "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "79605-4734"
+        "postalCode": "78759-8655"
       },
       {
         "line": [
@@ -62,27 +61,19 @@
       },
       {
         "line": [
-          "2401 SOUTH WILLIS ST, 100"
+          "1309 HICKORY ST"
         ],
         "city": "ABILENE",
         "state": "TX",
-        "postalCode": "79605-6254"
+        "postalCode": "79601-3509"
       },
       {
         "line": [
-          "1850 HICKORY ST, 103A"
+          "4641 S. 14TH"
         ],
         "city": "ABILENE",
         "state": "TX",
-        "postalCode": "79601-2334"
-      },
-      {
-        "line": [
-          "405 E COMMERCE ST"
-        ],
-        "city": "EASTLAND",
-        "state": "TX",
-        "postalCode": "76448-2903"
+        "postalCode": "79605-4734"
       },
       {
         "line": [
@@ -91,47 +82,6 @@
         "city": "ABILENE",
         "state": "TX",
         "postalCode": "79602-1192"
-      },
-      {
-        "line": [
-          "6700 W LOOP SOUTH STE 200"
-        ],
-        "city": "BELLAIRE",
-        "state": "TX",
-        "postalCode": "77401-4104"
-      },
-      {
-        "line": [
-          "265 S. LEGGETT DRIVE",
-          "STE 1"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79605-1652"
-      },
-      {
-        "line": [
-          "8133 MESA DR SUITE 200"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78759-8655"
-      },
-      {
-        "line": [
-          "1961 Industrial Blvd"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79602-7833"
-      },
-      {
-        "line": [
-          "100 MAIN STREET"
-        ],
-        "city": "ALBANY",
-        "state": "TX",
-        "postalCode": "76430-3158"
       },
       {
         "line": [
@@ -144,19 +94,69 @@
       },
       {
         "line": [
-          "7571 STATE HWY 153"
-        ],
-        "city": "WINTERS",
-        "state": "TX",
-        "postalCode": "79567-7439"
-      },
-      {
-        "line": [
           "118 S PARK DR"
         ],
         "city": "BROWNWOOD",
         "state": "TX",
         "postalCode": "76801-5957"
+      },
+      {
+        "line": [
+          "500 Chestnut",
+          "Suite 1509"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79602-1487"
+      },
+      {
+        "line": [
+          "1850 HICKORY ST, 103A"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79601-2334"
+      },
+      {
+        "line": [
+          "265 S. LEGGETT DRIVE",
+          "STE 1"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79605-1652"
+      },
+      {
+        "line": [
+          "100 MAIN STREET"
+        ],
+        "city": "ALBANY",
+        "state": "TX",
+        "postalCode": "76430-3158"
+      },
+      {
+        "line": [
+          "2401 SOUTH WILLIS ST, 100"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79605-6254"
+      },
+      {
+        "line": [
+          "405 E COMMERCE ST"
+        ],
+        "city": "EASTLAND",
+        "state": "TX",
+        "postalCode": "76448-2903"
+      },
+      {
+        "line": [
+          "1961 Industrial Blvd"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79602-7833"
       }
     ],
     "extension": [

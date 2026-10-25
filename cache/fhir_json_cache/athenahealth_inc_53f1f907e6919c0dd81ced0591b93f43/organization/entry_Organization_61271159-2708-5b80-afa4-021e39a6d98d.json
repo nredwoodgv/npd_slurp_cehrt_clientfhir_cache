@@ -14,30 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114235918"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730484031"
       },
       {
@@ -46,7 +22,31 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962602300"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114235918"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881656247"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750302923"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124080320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215999511"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
       }
     ],
     "address": [
@@ -57,22 +57,6 @@
         "city": "BRYAN",
         "state": "TX",
         "postalCode": "77802-2038"
-      },
-      {
-        "line": [
-          "1604 Rock Prairie Rd"
-        ],
-        "city": "COLLEGE STATION",
-        "state": "TX",
-        "postalCode": "77845-8345"
-      },
-      {
-        "line": [
-          "4091 Eastchester Dr"
-        ],
-        "city": "BRYAN",
-        "state": "TX",
-        "postalCode": "77802-4735"
       },
       {
         "line": [
@@ -92,11 +76,11 @@
       },
       {
         "line": [
-          "1115 Anderson"
+          "1604 Rock Prairie Rd"
         ],
         "city": "COLLEGE STATION",
         "state": "TX",
-        "postalCode": "77840-4465"
+        "postalCode": "77845-8345"
       },
       {
         "line": [
@@ -113,6 +97,22 @@
         "city": "BRYAN",
         "state": "TX",
         "postalCode": "77802-1954"
+      },
+      {
+        "line": [
+          "4091 Eastchester Dr"
+        ],
+        "city": "BRYAN",
+        "state": "TX",
+        "postalCode": "77802-4735"
+      },
+      {
+        "line": [
+          "1115 Anderson"
+        ],
+        "city": "COLLEGE STATION",
+        "state": "TX",
+        "postalCode": "77840-4465"
       }
     ],
     "extension": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750626834"
+        "value": "1578664470"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497701106"
+        "value": "1346771193"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,11 +26,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538606181"
+        "value": "1497701106"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184161739"
+        "value": "1750626834"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1538606181"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,29 +42,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578664470"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346771193"
+        "value": "1184161739"
       }
     ],
     "address": [
       {
         "line": [
-          "1375 Washington Ave"
+          "1270 Belmont Avenue"
         ],
-        "city": "ALBANY",
+        "city": "SCHENECTADY",
         "state": "NY",
-        "postalCode": "12208-1744"
-      },
-      {
-        "line": [
-          "319 S Manning Blvd Suite 304"
-        ],
-        "city": "ALBANY",
-        "state": "NY",
-        "postalCode": "12208-1744"
+        "postalCode": "12308-2104"
       },
       {
         "line": [
@@ -80,22 +72,6 @@
       },
       {
         "line": [
-          "425 New Scotland Ave"
-        ],
-        "city": "ALBANY",
-        "state": "NY",
-        "postalCode": "12208-2726"
-      },
-      {
-        "line": [
-          "855 Rt 146"
-        ],
-        "city": "CLIFTON PARK",
-        "state": "NY",
-        "postalCode": "12065-2807"
-      },
-      {
-        "line": [
           "2215 Burdett Avenue Suite 200"
         ],
         "city": "TROY",
@@ -112,11 +88,11 @@
       },
       {
         "line": [
-          "1270 Belmont Avenue"
+          "425 New Scotland Ave"
         ],
-        "city": "SCHENECTADY",
+        "city": "ALBANY",
         "state": "NY",
-        "postalCode": "12308-2104"
+        "postalCode": "12208-2726"
       },
       {
         "line": [
@@ -125,6 +101,30 @@
         "city": "TROY",
         "state": "NY",
         "postalCode": "12180-2446"
+      },
+      {
+        "line": [
+          "1375 Washington Ave"
+        ],
+        "city": "ALBANY",
+        "state": "NY",
+        "postalCode": "12208-1744"
+      },
+      {
+        "line": [
+          "855 Rt 146"
+        ],
+        "city": "CLIFTON PARK",
+        "state": "NY",
+        "postalCode": "12065-2807"
+      },
+      {
+        "line": [
+          "319 S Manning Blvd Suite 304"
+        ],
+        "city": "ALBANY",
+        "state": "NY",
+        "postalCode": "12208-1744"
       }
     ],
     "extension": [

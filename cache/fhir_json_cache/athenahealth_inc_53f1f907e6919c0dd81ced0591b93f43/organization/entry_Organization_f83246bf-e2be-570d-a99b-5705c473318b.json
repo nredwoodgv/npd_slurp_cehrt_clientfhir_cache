@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205651510"
+        "value": "1144371576"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144371576"
+        "value": "1205651510"
       }
     ],
     "address": [
@@ -45,12 +45,11 @@
       },
       {
         "line": [
-          "1495 Hickory Flat Hwy",
-          "Suite 140"
+          "53 Gordon Road, Suite 102"
         ],
-        "city": "CANTON",
+        "city": "JASPER",
         "state": "GA",
-        "postalCode": "30115-4229"
+        "postalCode": "30143-7104"
       },
       {
         "line": [
@@ -62,24 +61,6 @@
       },
       {
         "line": [
-          "11315 JOHNS CREEK PKWY",
-          "STE 320"
-        ],
-        "city": "DULUTH",
-        "state": "GA",
-        "postalCode": "30097-2644"
-      },
-      {
-        "line": [
-          "101 GREENFIELD DR",
-          "STE 260"
-        ],
-        "city": "CUMMING",
-        "state": "GA",
-        "postalCode": "30040-2824"
-      },
-      {
-        "line": [
           "3905 BROOKSIDE PKWY STE 202"
         ],
         "city": "ALPHARETTA",
@@ -88,11 +69,20 @@
       },
       {
         "line": [
-          "53 Gordon Road, Suite 102"
+          "3970 DEP BILL CANTRELL MEMORIAL RD"
         ],
-        "city": "JASPER",
+        "city": "CUMMING",
         "state": "GA",
-        "postalCode": "30143-7104"
+        "postalCode": "30040-2824"
+      },
+      {
+        "line": [
+          "1495 Hickory Flat Hwy",
+          "Suite 140"
+        ],
+        "city": "CANTON",
+        "state": "GA",
+        "postalCode": "30115-4229"
       },
       {
         "line": [
@@ -105,7 +95,8 @@
       },
       {
         "line": [
-          "3970 DEP BILL CANTRELL MEMORIAL RD"
+          "101 GREENFIELD DR",
+          "STE 260"
         ],
         "city": "CUMMING",
         "state": "GA",
@@ -118,6 +109,15 @@
         "city": "CANTON",
         "state": "GA",
         "postalCode": "30114-2410"
+      },
+      {
+        "line": [
+          "11315 JOHNS CREEK PKWY",
+          "STE 320"
+        ],
+        "city": "DULUTH",
+        "state": "GA",
+        "postalCode": "30097-2644"
       },
       {
         "line": [

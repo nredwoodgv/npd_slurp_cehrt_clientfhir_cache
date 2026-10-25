@@ -14,21 +14,45 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205605342"
+        "value": "1205835485"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205835485"
+        "value": "1205605342"
       }
     ],
     "address": [
       {
         "line": [
-          "5721 Grosvenor Lane"
+          "3000 MCCOMAS AVE"
         ],
-        "city": "BETHESDA",
+        "city": "KENSINGTON",
         "state": "MD",
-        "postalCode": "20814-1833"
+        "postalCode": "20895-2316"
+      },
+      {
+        "line": [
+          "3001 Hospital Dr."
+        ],
+        "city": "Cheverly",
+        "state": "MD",
+        "postalCode": "20785-1189"
+      },
+      {
+        "line": [
+          "2501 MUSGROVE RD"
+        ],
+        "city": "SILVER SPRING",
+        "state": "MD",
+        "postalCode": "20904-7128"
+      },
+      {
+        "line": [
+          "900 VAN BUREN ST"
+        ],
+        "city": "ANNAPOLIS",
+        "state": "MD",
+        "postalCode": "21043-2124"
       },
       {
         "line": [
@@ -41,27 +65,19 @@
       },
       {
         "line": [
-          "3800 Lottsford Vista Rd"
+          "5721 Grosvenor Lane"
         ],
-        "city": "BOWIE",
+        "city": "BETHESDA",
         "state": "MD",
-        "postalCode": "20721-4018"
+        "postalCode": "20814-1833"
       },
       {
         "line": [
-          "3000 MCCOMAS AVE"
+          "9106 PINEVIEW LANE"
         ],
-        "city": "KENSINGTON",
+        "city": "CLINTON",
         "state": "MD",
-        "postalCode": "20895-2316"
-      },
-      {
-        "line": [
-          "901 ARCOLA AVE"
-        ],
-        "city": "SILVER SPRING",
-        "state": "MD",
-        "postalCode": "20902-3401"
+        "postalCode": "20735-3229"
       },
       {
         "line": [
@@ -81,35 +97,27 @@
       },
       {
         "line": [
-          "900 VAN BUREN ST"
-        ],
-        "city": "ANNAPOLIS",
-        "state": "MD",
-        "postalCode": "21043-2124"
-      },
-      {
-        "line": [
-          "9106 PINEVIEW LANE"
-        ],
-        "city": "CLINTON",
-        "state": "MD",
-        "postalCode": "20735-3229"
-      },
-      {
-        "line": [
-          "2501 MUSGROVE RD"
-        ],
-        "city": "SILVER SPRING",
-        "state": "MD",
-        "postalCode": "20904-7128"
-      },
-      {
-        "line": [
           "12325 NEW HAMPSHIRE AVE"
         ],
         "city": "SILVER SPRING",
         "state": "MD",
         "postalCode": "20904-2957"
+      },
+      {
+        "line": [
+          "299 HURLEY AVE"
+        ],
+        "city": "ROCKVILLE",
+        "state": "MD",
+        "postalCode": "20850-3118"
+      },
+      {
+        "line": [
+          "3800 Lottsford Vista Rd"
+        ],
+        "city": "BOWIE",
+        "state": "MD",
+        "postalCode": "20721-4018"
       },
       {
         "line": [
@@ -121,19 +129,11 @@
       },
       {
         "line": [
-          "3001 Hospital Dr."
+          "901 ARCOLA AVE"
         ],
-        "city": "Cheverly",
+        "city": "SILVER SPRING",
         "state": "MD",
-        "postalCode": "20785-1189"
-      },
-      {
-        "line": [
-          "299 HURLEY AVE"
-        ],
-        "city": "ROCKVILLE",
-        "state": "MD",
-        "postalCode": "20850-3118"
+        "postalCode": "20902-3401"
       }
     ],
     "extension": [

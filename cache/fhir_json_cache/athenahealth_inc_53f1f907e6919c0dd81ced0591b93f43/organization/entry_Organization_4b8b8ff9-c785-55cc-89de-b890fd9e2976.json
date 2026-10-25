@@ -14,35 +14,17 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386911006"
+        "value": "1548567498"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548567498"
+        "value": "1386911006"
       }
     ],
     "address": [
       {
         "line": [
-          "4005 Mission Oak Blvd.,",
-          "Unit A"
-        ],
-        "city": "CAMARILLO",
-        "state": "CA",
-        "postalCode": "93012-5156"
-      },
-      {
-        "line": [
-          "325 South Moorpark Rd.",
-          "Suite 325"
-        ],
-        "city": "WESTLAKE VILLAGE",
-        "state": "CA",
-        "postalCode": "91361-1008"
-      },
-      {
-        "line": [
-          "4005 MISSION OAKS BLVD"
+          "4009 Mission Oaks Blvd"
         ],
         "city": "CAMARILLO",
         "state": "CA",
@@ -66,14 +48,6 @@
       },
       {
         "line": [
-          "23621 PARK SORRENTO STE 100"
-        ],
-        "city": "CALABASAS",
-        "state": "CA",
-        "postalCode": "91302-1395"
-      },
-      {
-        "line": [
           "1200 W GONZALES RD",
           "STE 100"
         ],
@@ -83,7 +57,15 @@
       },
       {
         "line": [
-          "4009 Mission Oaks Blvd"
+          "2241 WANKEL WAY STE A"
+        ],
+        "city": "OXNARD",
+        "state": "CA",
+        "postalCode": "93030-0191"
+      },
+      {
+        "line": [
+          "4005 MISSION OAKS BLVD"
         ],
         "city": "CAMARILLO",
         "state": "CA",
@@ -91,11 +73,29 @@
       },
       {
         "line": [
-          "2241 WANKEL WAY STE A"
+          "4005 Mission Oak Blvd.,",
+          "Unit A"
         ],
-        "city": "OXNARD",
+        "city": "CAMARILLO",
         "state": "CA",
-        "postalCode": "93030-0191"
+        "postalCode": "93012-5156"
+      },
+      {
+        "line": [
+          "325 South Moorpark Rd.",
+          "Suite 325"
+        ],
+        "city": "WESTLAKE VILLAGE",
+        "state": "CA",
+        "postalCode": "91361-1008"
+      },
+      {
+        "line": [
+          "23621 PARK SORRENTO STE 100"
+        ],
+        "city": "CALABASAS",
+        "state": "CA",
+        "postalCode": "91302-1395"
       }
     ],
     "extension": [

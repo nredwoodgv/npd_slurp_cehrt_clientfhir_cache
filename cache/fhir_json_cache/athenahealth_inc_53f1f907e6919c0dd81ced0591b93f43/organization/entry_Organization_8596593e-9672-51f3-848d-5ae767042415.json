@@ -14,11 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1679216618"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1316617996"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679216618"
+        "value": "1346014602"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -31,37 +35,33 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1184471872"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346014602"
       }
     ],
     "address": [
       {
         "line": [
-          "1401 HARRODSBURG RD STE A530"
+          "700 W. LEA BLVD",
+          "STE 202"
         ],
-        "city": "LEXINGTON",
-        "state": "KY",
-        "postalCode": "40504-1717"
+        "city": "WILMINGTON",
+        "state": "DE",
+        "postalCode": "19802-2545"
       },
       {
         "line": [
-          "105 S BROAD ST",
-          "STE 101"
+          "3454 OAK ALLEY CT STE 202"
         ],
-        "city": "LONDON",
-        "state": "KY",
-        "postalCode": "40741-1800"
+        "city": "TOLEDO",
+        "state": "OH",
+        "postalCode": "43606-1370"
       },
       {
         "line": [
-          "3660 GUION RD STE 210"
+          "1169 EASTERN PKWY STE 2313"
         ],
-        "city": "INDIANAPOLIS",
-        "state": "IN",
-        "postalCode": "46222-1691"
+        "city": "LOUISVILLE",
+        "state": "KY",
+        "postalCode": "40217-1444"
       },
       {
         "line": [
@@ -74,11 +74,19 @@
       },
       {
         "line": [
-          "1169 EASTERN PKWY STE 2313"
+          "3660 GUION RD STE 210"
         ],
-        "city": "LOUISVILLE",
-        "state": "KY",
-        "postalCode": "40217-1444"
+        "city": "INDIANAPOLIS",
+        "state": "IN",
+        "postalCode": "46222-1691"
+      },
+      {
+        "line": [
+          "501 SW 7TH ST STE A"
+        ],
+        "city": "DES MOINES",
+        "state": "IA",
+        "postalCode": "50309-4538"
       },
       {
         "line": [
@@ -91,12 +99,20 @@
       },
       {
         "line": [
-          "700 W. LEA BLVD",
-          "STE 202"
+          "105 S BROAD ST",
+          "STE 101"
         ],
-        "city": "WILMINGTON",
-        "state": "DE",
-        "postalCode": "19802-2545"
+        "city": "LONDON",
+        "state": "KY",
+        "postalCode": "40741-1800"
+      },
+      {
+        "line": [
+          "1401 HARRODSBURG RD STE A530"
+        ],
+        "city": "LEXINGTON",
+        "state": "KY",
+        "postalCode": "40504-1717"
       },
       {
         "line": [
@@ -106,22 +122,6 @@
         "city": "NASHVILLE",
         "state": "TN",
         "postalCode": "37203-1892"
-      },
-      {
-        "line": [
-          "501 SW 7TH ST STE A"
-        ],
-        "city": "DES MOINES",
-        "state": "IA",
-        "postalCode": "50309-4538"
-      },
-      {
-        "line": [
-          "3454 OAK ALLEY CT STE 202"
-        ],
-        "city": "TOLEDO",
-        "state": "OH",
-        "postalCode": "43606-1370"
       }
     ],
     "extension": [

@@ -14,14 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174647986"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093839805"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1639203888"
       },
       {
@@ -38,7 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710933296"
+        "value": "1174647986"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -47,25 +39,17 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1174687966"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1710933296"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1093839805"
       }
     ],
     "address": [
-      {
-        "line": [
-          "329 Conway Street"
-        ],
-        "city": "GREENFIELD",
-        "state": "MA",
-        "postalCode": "01301-1521"
-      },
-      {
-        "line": [
-          "31 Hall Drive"
-        ],
-        "city": "AMHERST",
-        "state": "MA",
-        "postalCode": "01002-2751"
-      },
       {
         "line": [
           "238 Northampton Street"
@@ -76,45 +60,9 @@
       },
       {
         "line": [
-          "329 conway street"
+          "70 Main Street"
         ],
-        "city": "Greenfield",
-        "state": "MA",
-        "postalCode": "01301-1514"
-      },
-      {
-        "line": [
-          "31 hall drive"
-        ],
-        "city": "AMHERST",
-        "state": "MA",
-        "postalCode": "01002-2754"
-      },
-      {
-        "line": [
-          "31 Hall Drive"
-        ],
-        "city": "Amherst",
-        "state": "MA",
-        "postalCode": "01002-2751"
-      },
-      {
-        "line": [
-          "31 HALL DRIVE"
-        ],
-        "city": "AMHERST",
-        "state": "MA",
-        "postalCode": "01002-2751"
-      },
-      {
-        "line": [],
-        "city": "AMHERST",
-        "state": "MA",
-        "postalCode": "01002-2754"
-      },
-      {
-        "line": [],
-        "city": "Florence",
+        "city": "FLORENCE",
         "state": "MA",
         "postalCode": "01062-1466"
       },
@@ -122,7 +70,7 @@
         "line": [
           "70 Main Street"
         ],
-        "city": "FLORENCE",
+        "city": "Florence",
         "state": "MA",
         "postalCode": "01062-1466"
       },
@@ -135,12 +83,42 @@
         "postalCode": "01002-2232"
       },
       {
-        "line": [
-          "70 Main Street"
-        ],
-        "city": "Florence",
+        "line": [],
+        "city": "AMHERST",
         "state": "MA",
-        "postalCode": "01062-1466"
+        "postalCode": "01002-2754"
+      },
+      {
+        "line": [
+          "31 Hall Drive"
+        ],
+        "city": "AMHERST",
+        "state": "MA",
+        "postalCode": "01002-2751"
+      },
+      {
+        "line": [
+          "31 Hall Drive"
+        ],
+        "city": "Amherst",
+        "state": "MA",
+        "postalCode": "01002-2751"
+      },
+      {
+        "line": [
+          "329 conway street"
+        ],
+        "city": "Greenfield",
+        "state": "MA",
+        "postalCode": "01301-1514"
+      },
+      {
+        "line": [
+          "329 Conway Street"
+        ],
+        "city": "GREENFIELD",
+        "state": "MA",
+        "postalCode": "01301-1521"
       },
       {
         "line": [
@@ -157,6 +135,28 @@
         "city": "Greenfield",
         "state": "MA",
         "postalCode": "01301-1521"
+      },
+      {
+        "line": [],
+        "city": "Florence",
+        "state": "MA",
+        "postalCode": "01062-1466"
+      },
+      {
+        "line": [
+          "31 hall drive"
+        ],
+        "city": "AMHERST",
+        "state": "MA",
+        "postalCode": "01002-2754"
+      },
+      {
+        "line": [
+          "31 HALL DRIVE"
+        ],
+        "city": "AMHERST",
+        "state": "MA",
+        "postalCode": "01002-2751"
       }
     ],
     "extension": [

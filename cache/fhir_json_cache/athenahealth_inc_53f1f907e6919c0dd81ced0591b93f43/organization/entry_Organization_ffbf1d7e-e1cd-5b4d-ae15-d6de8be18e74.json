@@ -14,11 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407385958"
+        "value": "1265548614"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962154542"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669258448"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1609683937"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1801210133"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,25 +42,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962154542"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265548614"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609683937"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801210133"
+        "value": "1407385958"
       }
     ],
     "address": [
       {
         "line": [
-          "59340 River West Drive"
+          "59340 River West Dr.",
+          "Ste. A B"
         ],
         "city": "PLAQUEMINE",
         "state": "LA",
@@ -56,15 +57,7 @@
       },
       {
         "line": [
-          "904 Catalpa Street"
-        ],
-        "city": "DONALDSONVILLE",
-        "state": "LA",
-        "postalCode": "70346-2946"
-      },
-      {
-        "line": [
-          "3140 FLORIDA Street"
+          "3140 Florida Blvd"
         ],
         "city": "BATON ROUGE",
         "state": "LA",
@@ -72,16 +65,15 @@
       },
       {
         "line": [
-          "4852 Highway 19",
-          "Ste A"
+          "170 Swan Street Room 152"
         ],
-        "city": "ZACHARY",
+        "city": "BATON ROUGE",
         "state": "LA",
-        "postalCode": "70791-3530"
+        "postalCode": "70813-0001"
       },
       {
         "line": [
-          "3140 Florida Blvd"
+          "3140 FLORIDA Street"
         ],
         "city": "BATON ROUGE",
         "state": "LA",
@@ -97,19 +89,11 @@
       },
       {
         "line": [
-          "4852 Highway 19, Suite A"
+          "59340 River West Drive"
         ],
-        "city": "ZACHARY",
+        "city": "PLAQUEMINE",
         "state": "LA",
-        "postalCode": "70791-3530"
-      },
-      {
-        "line": [
-          "170 Swan Street Room 152"
-        ],
-        "city": "BATON ROUGE",
-        "state": "LA",
-        "postalCode": "70813-0001"
+        "postalCode": "70764-6553"
       },
       {
         "line": [
@@ -130,12 +114,28 @@
       },
       {
         "line": [
-          "59340 River West Dr.",
-          "Ste. A B"
+          "4852 Highway 19, Suite A"
         ],
-        "city": "PLAQUEMINE",
+        "city": "ZACHARY",
         "state": "LA",
-        "postalCode": "70764-6553"
+        "postalCode": "70791-3530"
+      },
+      {
+        "line": [
+          "904 Catalpa Street"
+        ],
+        "city": "DONALDSONVILLE",
+        "state": "LA",
+        "postalCode": "70346-2946"
+      },
+      {
+        "line": [
+          "4852 Highway 19",
+          "Ste A"
+        ],
+        "city": "ZACHARY",
+        "state": "LA",
+        "postalCode": "70791-3530"
       },
       {
         "line": [

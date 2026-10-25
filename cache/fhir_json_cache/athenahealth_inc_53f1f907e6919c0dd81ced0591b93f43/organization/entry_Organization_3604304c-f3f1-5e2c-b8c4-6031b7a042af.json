@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073824330"
+        "value": "1962478362"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962478362"
+        "value": "1073824330"
       }
     ],
     "address": [
-      {
-        "line": [
-          "20 4th St. SW"
-        ],
-        "city": "HICKORY",
-        "state": "NC",
-        "postalCode": "28602-2963"
-      },
       {
         "line": [
           "350 E. Parker Rd. Suite 100"
@@ -40,27 +32,11 @@
       },
       {
         "line": [
-          "2001 Eastside Drive"
+          "120 West C Street"
         ],
         "city": "NEWTON",
         "state": "NC",
         "postalCode": "28658-1933"
-      },
-      {
-        "line": [
-          "3060 11th Ave Dr. SE"
-        ],
-        "city": "HICKORY",
-        "state": "NC",
-        "postalCode": "28602-8336"
-      },
-      {
-        "line": [
-          "1516 Steeple Street NE"
-        ],
-        "city": "CONOVER",
-        "state": "NC",
-        "postalCode": "28613-7506"
       },
       {
         "line": [
@@ -72,17 +48,25 @@
       },
       {
         "line": [
-          "722 8th Ave SW"
+          "1018 5th St SE"
         ],
-        "city": "CONOVER",
+        "city": "HICKORY",
         "state": "NC",
-        "postalCode": "28613-2951"
+        "postalCode": "28602-3918"
       },
       {
         "line": [],
         "city": "HICKORY",
         "state": "NC",
         "postalCode": "28601-6122"
+      },
+      {
+        "line": [
+          "401 N. 4th Ave."
+        ],
+        "city": "MAIDEN",
+        "state": "NC",
+        "postalCode": "28650-4922"
       },
       {
         "line": [
@@ -102,6 +86,38 @@
       },
       {
         "line": [
+          "20 4th St. SW"
+        ],
+        "city": "HICKORY",
+        "state": "NC",
+        "postalCode": "28602-2963"
+      },
+      {
+        "line": [
+          "722 8th Ave SW"
+        ],
+        "city": "CONOVER",
+        "state": "NC",
+        "postalCode": "28613-2951"
+      },
+      {
+        "line": [
+          "3060 11th Ave Dr. SE"
+        ],
+        "city": "HICKORY",
+        "state": "NC",
+        "postalCode": "28602-8336"
+      },
+      {
+        "line": [
+          "2001 Eastside Drive"
+        ],
+        "city": "NEWTON",
+        "state": "NC",
+        "postalCode": "28658-1933"
+      },
+      {
+        "line": [
           "608 4th St. SW"
         ],
         "city": "CONOVER",
@@ -110,27 +126,11 @@
       },
       {
         "line": [
-          "120 West C Street"
+          "1516 Steeple Street NE"
         ],
-        "city": "NEWTON",
+        "city": "CONOVER",
         "state": "NC",
-        "postalCode": "28658-1933"
-      },
-      {
-        "line": [
-          "401 N. 4th Ave."
-        ],
-        "city": "MAIDEN",
-        "state": "NC",
-        "postalCode": "28650-4922"
-      },
-      {
-        "line": [
-          "1018 5th St SE"
-        ],
-        "city": "HICKORY",
-        "state": "NC",
-        "postalCode": "28602-3918"
+        "postalCode": "28613-7506"
       }
     ],
     "extension": [

@@ -14,6 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992598213"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1497517676"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992598205"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1245117340"
       },
       {
@@ -22,19 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144082322"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447137542"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285400978"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366329468"
+        "value": "1952177644"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,15 +42,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013700327"
+        "value": "1447137542"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992598213"
+        "value": "1528945623"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659250520"
+        "value": "1144082322"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,7 +58,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1366329468"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285400978"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1134995822"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1659250520"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,38 +78,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982470662"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992598205"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497517676"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1033985726"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952177644"
+        "value": "1982470662"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528945623"
+        "value": "1013700327"
       }
     ],
     "address": [
       {
         "line": [
-          "98-084 Kamehameha Hwy",
-          "Ste 304"
+          "970 N Kalaheo Ave",
+          "Ste A214"
         ],
-        "city": "Aiea",
+        "city": "Kailua",
         "state": "HI",
-        "postalCode": "96701-5124"
+        "postalCode": "96734-1857"
       },
       {
         "line": [
@@ -110,12 +110,11 @@
       },
       {
         "line": [
-          "970 N Kalaheo Ave",
-          "Ste A214"
+          "80 GUEST ST"
         ],
-        "city": "Kailua",
-        "state": "HI",
-        "postalCode": "96734-1857"
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2071"
       },
       {
         "line": [
@@ -137,11 +136,12 @@
       },
       {
         "line": [
-          "80 GUEST ST"
+          "98-084 Kamehameha Hwy",
+          "Ste 304"
         ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2071"
+        "city": "Aiea",
+        "state": "HI",
+        "postalCode": "96701-5124"
       }
     ],
     "extension": [

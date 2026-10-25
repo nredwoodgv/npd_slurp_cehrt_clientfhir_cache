@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396718409"
+        "value": "1407109812"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407109812"
+        "value": "1396718409"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,7 +28,15 @@
     "address": [
       {
         "line": [
-          "1720 SOUTH GADSDEN STREET"
+          "2813 RIDGEWAY ST"
+        ],
+        "city": "TALLAHASSEE",
+        "state": "FL",
+        "postalCode": "32310-5003"
+      },
+      {
+        "line": [
+          "1720 SOUTH GADSDEN ST"
         ],
         "city": "TALLAHASSEE",
         "state": "FL",
@@ -44,15 +52,7 @@
       },
       {
         "line": [
-          "2813 RIDGEWAY ST"
-        ],
-        "city": "TALLAHASSEE",
-        "state": "FL",
-        "postalCode": "32310-5003"
-      },
-      {
-        "line": [
-          "1720 SOUTH GADSDEN ST"
+          "1720 SOUTH GADSDEN STREET"
         ],
         "city": "TALLAHASSEE",
         "state": "FL",

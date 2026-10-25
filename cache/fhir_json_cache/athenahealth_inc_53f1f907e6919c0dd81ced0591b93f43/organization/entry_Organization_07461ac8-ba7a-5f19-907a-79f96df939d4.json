@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104501873"
+        "value": "1073508545"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073508545"
+        "value": "1104501873"
       }
     ],
     "address": [
-      {
-        "line": [
-          "999 17th St",
-          "Ste 500"
-        ],
-        "city": "DENVER",
-        "state": "CO",
-        "postalCode": "80202-2728"
-      },
       {
         "line": [
           "1800 S MAIN ST",
@@ -39,6 +30,15 @@
         "city": "MCALLEN",
         "state": "TX",
         "postalCode": "78503-5444"
+      },
+      {
+        "line": [
+          "999 17th St",
+          "Ste 500"
+        ],
+        "city": "DENVER",
+        "state": "CO",
+        "postalCode": "80202-2728"
       }
     ],
     "extension": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043453517"
+        "value": "1386682011"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386682011"
+        "value": "1043453517"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,7 +28,8 @@
     "address": [
       {
         "line": [
-          "46 SGT PRENTISS DR STE 301"
+          "46 SEARGENT S PRENTISS DRIVE",
+          "SUITE 301"
         ],
         "city": "NATCHEZ",
         "state": "MS",
@@ -36,8 +37,7 @@
       },
       {
         "line": [
-          "46 SEARGENT S PRENTISS DRIVE",
-          "SUITE 301"
+          "46 SGT PRENTISS DR STE 301"
         ],
         "city": "NATCHEZ",
         "state": "MS",

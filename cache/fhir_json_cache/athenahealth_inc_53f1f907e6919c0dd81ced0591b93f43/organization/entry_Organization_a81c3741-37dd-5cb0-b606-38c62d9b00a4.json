@@ -14,6 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124080320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881656247"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750302923"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215999511"
       },
       {
@@ -26,23 +42,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730484031"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -56,19 +56,11 @@
     "address": [
       {
         "line": [
-          "1651 Rock Prairie Road, Assembly Room A"
+          "116 Medical Park Lane Suite B"
         ],
-        "city": "COLLEGE STATION",
+        "city": "Huntsville",
         "state": "TX",
-        "postalCode": "77845-8652"
-      },
-      {
-        "line": [
-          "3131 University Drive E"
-        ],
-        "city": "Bryan",
-        "state": "TX",
-        "postalCode": "77802-3473"
+        "postalCode": "77340-4978"
       },
       {
         "line": [
@@ -82,17 +74,17 @@
         "line": [
           "3131 University Drive E"
         ],
-        "city": "BRYAN",
+        "city": "Bryan",
         "state": "TX",
         "postalCode": "77802-3473"
       },
       {
         "line": [
-          "116 Medical Park Lane Suite B"
+          "1651 Rock Prairie Road, Assembly Room A"
         ],
-        "city": "Huntsville",
+        "city": "COLLEGE STATION",
         "state": "TX",
-        "postalCode": "77340-4978"
+        "postalCode": "77845-8652"
       },
       {
         "line": [
@@ -101,6 +93,14 @@
         "city": "COLLEGE STATION",
         "state": "TX",
         "postalCode": "77845-5988"
+      },
+      {
+        "line": [
+          "3131 University Drive E"
+        ],
+        "city": "BRYAN",
+        "state": "TX",
+        "postalCode": "77802-3473"
       }
     ],
     "extension": [

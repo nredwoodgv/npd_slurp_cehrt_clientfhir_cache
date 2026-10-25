@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295433944"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922677517"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730570581"
+        "value": "1548836224"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548836224"
+        "value": "1922677517"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1295433944"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730570581"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -48,19 +48,11 @@
       },
       {
         "line": [
-          "12815 US Hwy 84 E"
+          "606 West Columbia"
         ],
-        "city": "JOAQUIN",
+        "city": "SAN AUGUSTINE",
         "state": "TX",
-        "postalCode": "75954-0001"
-      },
-      {
-        "line": [
-          "854 Hurst Street"
-        ],
-        "city": "CENTER",
-        "state": "TX",
-        "postalCode": "75935-3440"
+        "postalCode": "75972-1709"
       },
       {
         "line": [
@@ -69,6 +61,14 @@
         "city": "PINELAND",
         "state": "TX",
         "postalCode": "75968-4012"
+      },
+      {
+        "line": [
+          "12815 US Hwy 84 E"
+        ],
+        "city": "JOAQUIN",
+        "state": "TX",
+        "postalCode": "75954-0001"
       },
       {
         "line": [
@@ -88,11 +88,11 @@
       },
       {
         "line": [
-          "606 West Columbia"
+          "854 Hurst Street"
         ],
-        "city": "SAN AUGUSTINE",
+        "city": "CENTER",
         "state": "TX",
-        "postalCode": "75972-1709"
+        "postalCode": "75935-3440"
       }
     ],
     "extension": [

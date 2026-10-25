@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093821514"
+        "value": "1821098252"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1790777324"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,14 +26,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821098252"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790777324"
+        "value": "1093821514"
       }
     ],
     "address": [
+      {
+        "line": [
+          "809 W BRAMLEY"
+        ],
+        "city": "JETMORE",
+        "state": "KS",
+        "postalCode": "67854-9360"
+      },
       {
         "line": [
           "810 W BRAMLEY"
@@ -44,7 +52,7 @@
         ],
         "city": "JETMORE",
         "state": "KS",
-        "postalCode": "67854-9360"
+        "postalCode": "67854-9350"
       },
       {
         "line": [
@@ -53,14 +61,6 @@
         "city": "RANSOM",
         "state": "KS",
         "postalCode": "67572-9525"
-      },
-      {
-        "line": [
-          "809 W BRAMLEY"
-        ],
-        "city": "JETMORE",
-        "state": "KS",
-        "postalCode": "67854-9350"
       }
     ],
     "extension": [

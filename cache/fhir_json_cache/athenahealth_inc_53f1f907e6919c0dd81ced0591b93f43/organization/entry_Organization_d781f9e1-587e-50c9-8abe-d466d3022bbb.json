@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902831514"
+        "value": "1114809241"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,17 +26,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114809241"
+        "value": "1902831514"
       }
     ],
     "address": [
       {
         "line": [
-          "4980 Barranca Parkway Suite 220"
+          "455 S Main Steet"
         ],
-        "city": "IRVINE",
+        "city": "ORANGE",
         "state": "CA",
-        "postalCode": "92604-8656"
+        "postalCode": "92868-3835"
+      },
+      {
+        "line": [
+          "1140 W La Veta Ave Ste 300"
+        ],
+        "city": "ORANGE",
+        "state": "CA",
+        "postalCode": "92868-4225"
       },
       {
         "line": [
@@ -48,19 +56,19 @@
       },
       {
         "line": [
-          "455 S Main Steet"
-        ],
-        "city": "ORANGE",
-        "state": "CA",
-        "postalCode": "92868-3835"
-      },
-      {
-        "line": [
           "555 S MAIN ST"
         ],
         "city": "ORANGE",
         "state": "CA",
         "postalCode": "92868-4505"
+      },
+      {
+        "line": [
+          "4980 Barranca Parkway Suite 220"
+        ],
+        "city": "IRVINE",
+        "state": "CA",
+        "postalCode": "92604-8656"
       }
     ],
     "extension": [

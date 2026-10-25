@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255666012"
+        "value": "1386961555"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386961555"
+        "value": "1255666012"
       }
     ],
     "address": [
       {
         "line": [
-          "6TH & SPRUCE ST"
+          "2500 BERNVILLE ROAD"
         ],
-        "city": "WEST READING",
+        "city": "READING",
         "state": "PA",
-        "postalCode": "19612-6052"
+        "postalCode": "19605-9453"
       },
       {
         "line": [
@@ -48,24 +48,7 @@
       },
       {
         "line": [
-          "2500 BERNVILLE ROAD"
-        ],
-        "city": "READING",
-        "state": "PA",
-        "postalCode": "19605-9453"
-      },
-      {
-        "line": [
-          "2211 QUARRY DRIVE",
-          "SUITE E52"
-        ],
-        "city": "READING",
-        "state": "PA",
-        "postalCode": "19609-1161"
-      },
-      {
-        "line": [
-          "6TH AND SPRUCE ST"
+          "6TH & SPRUCE ST"
         ],
         "city": "WEST READING",
         "state": "PA",
@@ -81,11 +64,20 @@
       },
       {
         "line": [
-          "225 EVERGREEN ROAD"
+          "6TH AND SPRUCE ST"
         ],
-        "city": "POTTSTOWN",
+        "city": "WEST READING",
         "state": "PA",
-        "postalCode": "19464-3143"
+        "postalCode": "19612-6052"
+      },
+      {
+        "line": [
+          "2211 QUARRY DRIVE",
+          "SUITE E52"
+        ],
+        "city": "READING",
+        "state": "PA",
+        "postalCode": "19609-1161"
       },
       {
         "line": [
@@ -94,6 +86,14 @@
         "city": "WYOMISSING",
         "state": "PA",
         "postalCode": "19610-3203"
+      },
+      {
+        "line": [
+          "225 EVERGREEN ROAD"
+        ],
+        "city": "POTTSTOWN",
+        "state": "PA",
+        "postalCode": "19464-3143"
       }
     ],
     "extension": [

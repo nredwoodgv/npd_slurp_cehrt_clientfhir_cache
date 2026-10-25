@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144502477"
+        "value": "1235411554"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235411554"
+        "value": "1144502477"
       }
     ],
     "address": [
@@ -32,11 +32,11 @@
       },
       {
         "line": [
-          "2200 Charles G Seviers Blvd"
+          "923 East Central Ave"
         ],
-        "city": "CLINTON",
+        "city": "LA FOLLETTE",
         "state": "TN",
-        "postalCode": "37716-6738"
+        "postalCode": "37766-2768"
       },
       {
         "line": [
@@ -48,19 +48,11 @@
       },
       {
         "line": [
-          "905 E Central Ave"
+          "2200 Charles G Seviers Blvd"
         ],
-        "city": "LA FOLLETTE",
+        "city": "CLINTON",
         "state": "TN",
-        "postalCode": "37766-2777"
-      },
-      {
-        "line": [
-          "923 East Central Ave"
-        ],
-        "city": "LA FOLLETTE",
-        "state": "TN",
-        "postalCode": "37766-2768"
+        "postalCode": "37716-6738"
       },
       {
         "line": [
@@ -77,6 +69,14 @@
         "city": "CARYVILLE",
         "state": "TN",
         "postalCode": "37714-3155"
+      },
+      {
+        "line": [
+          "905 E Central Ave"
+        ],
+        "city": "LA FOLLETTE",
+        "state": "TN",
+        "postalCode": "37766-2777"
       }
     ],
     "extension": [

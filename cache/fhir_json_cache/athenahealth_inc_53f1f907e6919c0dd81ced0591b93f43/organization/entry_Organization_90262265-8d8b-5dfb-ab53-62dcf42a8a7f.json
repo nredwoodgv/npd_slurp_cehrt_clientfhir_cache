@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922547793"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093253205"
+        "value": "1114466802"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,11 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215475314"
+        "value": "1093253205"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356865067"
+        "value": "1922547793"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,23 +38,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578002341"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1194263087"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023532728"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780358176"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588103220"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427597111"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,22 +50,30 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114466802"
+        "value": "1023532728"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578002341"
+        "value": "1588103220"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215475314"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1427597111"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1780358176"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1356865067"
       }
     ],
     "address": [
-      {
-        "line": [
-          "420 N CENTER ST"
-        ],
-        "city": "HICKORY",
-        "state": "NC",
-        "postalCode": "28601-5033"
-      },
       {
         "line": [
           "321 MULBERRY ST SW"
@@ -92,11 +84,11 @@
       },
       {
         "line": [
-          "128 DOCTOR HENRY NORRIS DR"
+          "420 N CENTER ST"
         ],
-        "city": "RUTHERFORDTON",
+        "city": "HICKORY",
         "state": "NC",
-        "postalCode": "28139-3165"
+        "postalCode": "28601-5033"
       },
       {
         "line": [
@@ -105,6 +97,14 @@
         "city": "RUTHERFORDTON",
         "state": "NC",
         "postalCode": "28139-2838"
+      },
+      {
+        "line": [
+          "128 DOCTOR HENRY NORRIS DR"
+        ],
+        "city": "RUTHERFORDTON",
+        "state": "NC",
+        "postalCode": "28139-3165"
       }
     ],
     "extension": [

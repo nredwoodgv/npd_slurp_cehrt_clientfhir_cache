@@ -14,26 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568828606"
+        "value": "1922447143"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922447143"
+        "value": "1568828606"
       }
     ],
     "address": [
       {
         "line": [
-          "1170 SAN MARCO RD"
-        ],
-        "city": "MARCO ISLAND",
-        "state": "FL",
-        "postalCode": "34145-5017"
-      },
-      {
-        "line": [
-          "1333 3rd Ave S",
-          "Suite 506"
+          "661 Goodlette Frank Rd",
+          "Unit 104"
         ],
         "city": "NAPLES",
         "state": "FL",
@@ -49,11 +41,11 @@
       },
       {
         "line": [
-          "6825 DAVIS BLVD"
+          "350 7TH ST. NORTH"
         ],
         "city": "NAPLES",
         "state": "FL",
-        "postalCode": "34104-5322"
+        "postalCode": "34102-5754"
       },
       {
         "line": [
@@ -65,31 +57,6 @@
       },
       {
         "line": [
-          "7901 Radio Rd"
-        ],
-        "city": "NAPLES",
-        "state": "FL",
-        "postalCode": "34104-6749"
-      },
-      {
-        "line": [
-          "350 7TH ST. NORTH"
-        ],
-        "city": "NAPLES",
-        "state": "FL",
-        "postalCode": "34102-5754"
-      },
-      {
-        "line": [
-          "661 Goodlette Frank Rd",
-          "Unit 104"
-        ],
-        "city": "NAPLES",
-        "state": "FL",
-        "postalCode": "34102-5609"
-      },
-      {
-        "line": [
           "6855 DAVIS BLVD"
         ],
         "city": "NAPLES",
@@ -98,11 +65,44 @@
       },
       {
         "line": [
+          "7901 Radio Rd"
+        ],
+        "city": "NAPLES",
+        "state": "FL",
+        "postalCode": "34104-6749"
+      },
+      {
+        "line": [
+          "1333 3rd Ave S",
+          "Suite 506"
+        ],
+        "city": "NAPLES",
+        "state": "FL",
+        "postalCode": "34102-5609"
+      },
+      {
+        "line": [
+          "6825 DAVIS BLVD"
+        ],
+        "city": "NAPLES",
+        "state": "FL",
+        "postalCode": "34104-5322"
+      },
+      {
+        "line": [
           "7801 AIRPORT PULLING RD N"
         ],
         "city": "NAPLES",
         "state": "FL",
         "postalCode": "34109-1717"
+      },
+      {
+        "line": [
+          "1170 SAN MARCO RD"
+        ],
+        "city": "MARCO ISLAND",
+        "state": "FL",
+        "postalCode": "34145-5017"
       }
     ],
     "extension": [

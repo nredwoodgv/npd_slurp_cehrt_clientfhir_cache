@@ -14,31 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609279330"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407962046"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932925062"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1609281641"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1609279330"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1407962046"
       }
     ],
     "address": [
-      {
-        "line": [
-          "80 HEALTHCARE DR",
-          "STE 201"
-        ],
-        "city": "SYLVA",
-        "state": "NC",
-        "postalCode": "28779-5146"
-      },
       {
         "line": [
           "68 Hospital Road Suite 201"
@@ -54,6 +45,15 @@
         "city": "SYLVA",
         "state": "NC",
         "postalCode": "28779-2722"
+      },
+      {
+        "line": [
+          "80 HEALTHCARE DR",
+          "STE 201"
+        ],
+        "city": "SYLVA",
+        "state": "NC",
+        "postalCode": "28779-5146"
       }
     ],
     "extension": [

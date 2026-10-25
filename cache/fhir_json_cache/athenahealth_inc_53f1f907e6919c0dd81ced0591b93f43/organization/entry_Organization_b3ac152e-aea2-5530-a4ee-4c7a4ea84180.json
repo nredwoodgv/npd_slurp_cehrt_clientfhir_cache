@@ -14,19 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922832286"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740014000"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1245490747"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033943394"
+        "value": "1922832286"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -35,17 +27,17 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417117912"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1740014000"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033943394"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1350 East Lookout Drive"
-        ],
-        "city": "RICHARDSON",
-        "state": "TX",
-        "postalCode": "75082-4106"
-      },
       {
         "line": [
           "16980 Dallas Parkway",
@@ -54,6 +46,22 @@
         "city": "DALLAS",
         "state": "TX",
         "postalCode": "75248-1974"
+      },
+      {
+        "line": [
+          "4400 Walnut St"
+        ],
+        "city": "Greenville",
+        "state": "TX",
+        "postalCode": "75401-5586"
+      },
+      {
+        "line": [
+          "1350 East Lookout Drive"
+        ],
+        "city": "RICHARDSON",
+        "state": "TX",
+        "postalCode": "75082-4106"
       },
       {
         "line": [
@@ -72,14 +80,6 @@
         "city": "ARLINGTON",
         "state": "TX",
         "postalCode": "76014-3175"
-      },
-      {
-        "line": [
-          "4400 Walnut St"
-        ],
-        "city": "Greenville",
-        "state": "TX",
-        "postalCode": "75401-5586"
       }
     ],
     "extension": [

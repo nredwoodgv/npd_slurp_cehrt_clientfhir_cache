@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629398219"
+        "value": "1821349317"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821349317"
+        "value": "1629398219"
       }
     ],
     "address": [
@@ -32,15 +32,7 @@
       },
       {
         "line": [
-          "2991 Cranberry Highway"
-        ],
-        "city": "WAREHAM",
-        "state": "MA",
-        "postalCode": "02571-2093"
-      },
-      {
-        "line": [
-          "535 FAUNCE CORNER ROAD"
+          "531 FAUNCE CORNER ROAD"
         ],
         "city": "NORTH DARTMOUTH",
         "state": "MA",
@@ -48,7 +40,7 @@
       },
       {
         "line": [
-          "531 FAUNCE CORNER ROAD"
+          "535 FAUNCE CORNER ROAD"
         ],
         "city": "NORTH DARTMOUTH",
         "state": "MA",
@@ -61,6 +53,14 @@
         "city": "FALL RIVER",
         "state": "MA",
         "postalCode": "02721-1779"
+      },
+      {
+        "line": [
+          "2991 Cranberry Highway"
+        ],
+        "city": "WAREHAM",
+        "state": "MA",
+        "postalCode": "02571-2093"
       }
     ],
     "extension": [

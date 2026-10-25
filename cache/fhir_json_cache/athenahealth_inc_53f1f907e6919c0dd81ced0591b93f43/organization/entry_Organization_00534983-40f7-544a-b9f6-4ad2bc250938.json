@@ -14,23 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437557519"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154794261"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407194319"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962752998"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942508379"
+        "value": "1437557519"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -39,9 +27,53 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285614834"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1942508379"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154794261"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1407194319"
       }
     ],
     "address": [
+      {
+        "line": [
+          "6 Courthouse Lane"
+        ],
+        "city": "CHELMSFORD",
+        "state": "MA",
+        "postalCode": "01824-1274"
+      },
+      {
+        "line": [
+          "Pathology"
+        ],
+        "city": "ACTON",
+        "state": "MA",
+        "postalCode": "01720-3301"
+      },
+      {
+        "line": [
+          "75 3rd Avenue"
+        ],
+        "city": "WALTHAM",
+        "state": "MA",
+        "postalCode": "02451-7549"
+      },
+      {
+        "line": [
+          "pathology"
+        ],
+        "city": "ACTON",
+        "state": "MA",
+        "postalCode": "01720-3301"
+      },
       {
         "line": [
           "92 Montvale Avenue"
@@ -52,11 +84,11 @@
       },
       {
         "line": [
-          "pathology"
+          "250 Pleasant St"
         ],
-        "city": "ACTON",
-        "state": "MA",
-        "postalCode": "01720-3301"
+        "city": "CONCORD",
+        "state": "NH",
+        "postalCode": "03301-2598"
       },
       {
         "line": [
@@ -69,43 +101,11 @@
       },
       {
         "line": [
-          "Pathology"
-        ],
-        "city": "ACTON",
-        "state": "MA",
-        "postalCode": "01720-3301"
-      },
-      {
-        "line": [
           "80 Erdman Way"
         ],
         "city": "LEOMINSTER",
         "state": "MA",
         "postalCode": "01453-1840"
-      },
-      {
-        "line": [
-          "250 Pleasant St"
-        ],
-        "city": "CONCORD",
-        "state": "NH",
-        "postalCode": "03301-2598"
-      },
-      {
-        "line": [
-          "6 Courthouse Lane"
-        ],
-        "city": "CHELMSFORD",
-        "state": "MA",
-        "postalCode": "01824-1274"
-      },
-      {
-        "line": [
-          "75 3rd Avenue"
-        ],
-        "city": "WALTHAM",
-        "state": "MA",
-        "postalCode": "02451-7549"
       }
     ],
     "extension": [

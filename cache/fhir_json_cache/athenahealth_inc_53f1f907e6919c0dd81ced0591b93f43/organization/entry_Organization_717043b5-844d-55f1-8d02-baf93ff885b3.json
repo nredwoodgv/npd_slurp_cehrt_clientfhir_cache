@@ -14,27 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1023671740"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1376349316"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245094028"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477885465"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144974155"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770510240"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902851082"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,11 +26,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144974155"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1336279967"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912080060"
+        "value": "1770510240"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,7 +42,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023671740"
+        "value": "1912080060"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245094028"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902851082"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1477885465"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -64,11 +64,11 @@
     "address": [
       {
         "line": [
-          "333 S Madison Street"
+          "333 madison street"
         ],
         "city": "MUNCIE",
         "state": "IN",
-        "postalCode": "47305-2333"
+        "postalCode": "47305-2465"
       },
       {
         "line": [
@@ -80,11 +80,11 @@
       },
       {
         "line": [
-          "333 madison street"
+          "333 S Madison Street"
         ],
         "city": "MUNCIE",
         "state": "IN",
-        "postalCode": "47305-2465"
+        "postalCode": "47305-2333"
       }
     ],
     "extension": [

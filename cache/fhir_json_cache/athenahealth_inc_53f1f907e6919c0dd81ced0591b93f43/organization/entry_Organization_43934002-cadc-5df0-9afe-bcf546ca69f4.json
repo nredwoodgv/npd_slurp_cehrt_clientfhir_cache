@@ -26,34 +26,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912607300"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861418220"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1154792232"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912607300"
       }
     ],
     "address": [
-      {
-        "line": [
-          "4901 Grande Drive"
-        ],
-        "city": "PENSACOLA",
-        "state": "FL",
-        "postalCode": "32504-8986"
-      },
-      {
-        "line": [
-          "180 E REDSTONE AVE STE A"
-        ],
-        "city": "CRESTVIEW",
-        "state": "FL",
-        "postalCode": "32539-5348"
-      },
       {
         "line": [
           "1600 Jenks Ave",
@@ -62,15 +46,6 @@
         "city": "PANAMA CITY",
         "state": "FL",
         "postalCode": "32405-4740"
-      },
-      {
-        "line": [
-          "7552 Navarre Pkwy",
-          "Suite 61"
-        ],
-        "city": "NAVARRE",
-        "state": "FL",
-        "postalCode": "32566-7305"
       },
       {
         "line": [
@@ -90,8 +65,33 @@
       },
       {
         "line": [
+          "4901 Grande Drive"
+        ],
+        "city": "PENSACOLA",
+        "state": "FL",
+        "postalCode": "32504-8986"
+      },
+      {
+        "line": [
           "182 E REDSTONE AVE",
           "STE A"
+        ],
+        "city": "CRESTVIEW",
+        "state": "FL",
+        "postalCode": "32539-5348"
+      },
+      {
+        "line": [
+          "7552 Navarre Pkwy",
+          "Suite 61"
+        ],
+        "city": "NAVARRE",
+        "state": "FL",
+        "postalCode": "32566-7305"
+      },
+      {
+        "line": [
+          "180 E REDSTONE AVE STE A"
         ],
         "city": "CRESTVIEW",
         "state": "FL",

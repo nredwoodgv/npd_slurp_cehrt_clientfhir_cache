@@ -14,18 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043306574"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194226373"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417938044"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1265867287"
       },
       {
@@ -34,14 +22,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1043306574"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1679096796"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417938044"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649643420"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1194226373"
       }
     ],
     "address": [
+      {
+        "line": [
+          "425 Jack Martin Blvd"
+        ],
+        "city": "BRICK",
+        "state": "NJ",
+        "postalCode": "08724-7732"
+      },
       {
         "line": [
           "1140 Rt 72 W"
@@ -65,14 +73,6 @@
         "city": "LONG BRANCH",
         "state": "NJ",
         "postalCode": "07740-6303"
-      },
-      {
-        "line": [
-          "425 Jack Martin Blvd"
-        ],
-        "city": "BRICK",
-        "state": "NJ",
-        "postalCode": "08724-7732"
       }
     ],
     "extension": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124096979"
+        "value": "1447235106"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447235106"
+        "value": "1124096979"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,20 +38,6 @@
       },
       {
         "line": [
-          "2989 SUNSET BLVD."
-        ],
-        "city": "WEST COLUMBIA",
-        "state": "SC",
-        "postalCode": "29169-3497"
-      },
-      {
-        "line": [],
-        "city": "COLUMBIA",
-        "state": "SC",
-        "postalCode": "29201-3520"
-      },
-      {
-        "line": [
           "2000 Hampton Street"
         ],
         "city": "COLUMBIA",
@@ -63,6 +49,20 @@
         "city": "IRMO",
         "state": "SC",
         "postalCode": "29063-2824"
+      },
+      {
+        "line": [],
+        "city": "COLUMBIA",
+        "state": "SC",
+        "postalCode": "29201-3520"
+      },
+      {
+        "line": [
+          "2989 SUNSET BLVD."
+        ],
+        "city": "WEST COLUMBIA",
+        "state": "SC",
+        "postalCode": "29169-3497"
       }
     ],
     "extension": [

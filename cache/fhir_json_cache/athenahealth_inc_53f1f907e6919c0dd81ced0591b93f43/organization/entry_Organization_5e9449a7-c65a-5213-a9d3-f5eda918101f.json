@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912327941"
+        "value": "1114225745"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073683553"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,21 +30,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073683553"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114225745"
+        "value": "1912327941"
       }
     ],
     "address": [
       {
         "line": [
-          "9201 PORTNER AVE"
+          "8341 BARRETT DR"
         ],
         "city": "MANASSAS",
         "state": "VA",
-        "postalCode": "20110-5055"
+        "postalCode": "20109-3594"
       },
       {
         "line": [
@@ -52,11 +52,11 @@
       },
       {
         "line": [
-          "8341 BARRETT DR"
+          "9201 PORTNER AVE"
         ],
         "city": "MANASSAS",
         "state": "VA",
-        "postalCode": "20109-3594"
+        "postalCode": "20110-5055"
       }
     ],
     "extension": [

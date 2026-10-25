@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548567498"
+        "value": "1386911006"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386911006"
+        "value": "1548567498"
       }
     ],
     "address": [
+      {
+        "line": [
+          "7300 Medical Center Dr."
+        ],
+        "city": "WEST HILLS",
+        "state": "CA",
+        "postalCode": "91307-1902"
+      },
       {
         "line": [
           "7320 Woodlake Ave",
@@ -33,11 +41,11 @@
       },
       {
         "line": [
-          "7300 Medical Center Dr."
+          "23621 PARK SORRENTO STE 100"
         ],
-        "city": "WEST HILLS",
+        "city": "CALABASAS",
         "state": "CA",
-        "postalCode": "91307-1902"
+        "postalCode": "91302-1395"
       },
       {
         "line": [
@@ -47,14 +55,6 @@
         "city": "TARZANA",
         "state": "CA",
         "postalCode": "91356-3645"
-      },
-      {
-        "line": [
-          "23621 PARK SORRENTO STE 100"
-        ],
-        "city": "CALABASAS",
-        "state": "CA",
-        "postalCode": "91302-1395"
       }
     ],
     "extension": [

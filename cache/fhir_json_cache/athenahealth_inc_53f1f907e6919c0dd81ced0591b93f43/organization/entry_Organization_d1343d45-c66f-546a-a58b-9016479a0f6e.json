@@ -22,15 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174501068"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1639842818"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1831273945"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174501068"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -48,19 +48,19 @@
       },
       {
         "line": [
-          "5883 Black Diamond Highway"
-        ],
-        "city": "Gary",
-        "state": "WV",
-        "postalCode": "24836-0507"
-      },
-      {
-        "line": [
           "200 12th Street Extension"
         ],
         "city": "PRINCETON",
         "state": "WV",
         "postalCode": "24740-2329"
+      },
+      {
+        "line": [
+          "5883 Black Diamond Highway"
+        ],
+        "city": "Gary",
+        "state": "WV",
+        "postalCode": "24836-0507"
       }
     ],
     "extension": [

@@ -18,14 +18,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912504796"
+        "value": "1578702320"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578702320"
+        "value": "1912504796"
       }
     ],
     "address": [
+      {
+        "line": [
+          "4701 OLD SHEPARD PL STE 260"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75093-5250"
+      },
       {
         "line": [
           "2201 K AVE STE B100"
@@ -36,11 +44,11 @@
       },
       {
         "line": [
-          "3325 W PLANO PKWY"
+          "2601 wHITTIER"
         ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75075-8010"
+        "city": "SAINT LOUIS",
+        "state": "MO",
+        "postalCode": "63113-2957"
       },
       {
         "line": [
@@ -52,22 +60,6 @@
       },
       {
         "line": [
-          "4701 OLD SHEPARD PL STE 260"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75093-5250"
-      },
-      {
-        "line": [
-          "2625 W PLANO PKWY"
-        ],
-        "city": "PLANO",
-        "state": "TX",
-        "postalCode": "75075-8201"
-      },
-      {
-        "line": [
           "10441 International plaza dr"
         ],
         "city": "SAINT ANN",
@@ -76,11 +68,19 @@
       },
       {
         "line": [
-          "2601 wHITTIER"
+          "3325 W PLANO PKWY"
         ],
-        "city": "SAINT LOUIS",
-        "state": "MO",
-        "postalCode": "63113-2957"
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75075-8010"
+      },
+      {
+        "line": [
+          "2625 W PLANO PKWY"
+        ],
+        "city": "PLANO",
+        "state": "TX",
+        "postalCode": "75075-8201"
       }
     ],
     "extension": [

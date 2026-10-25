@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629433784"
+        "value": "1295739548"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,17 +22,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295739548"
+        "value": "1629433784"
       }
     ],
     "address": [
       {
         "line": [
-          "1201 Ricker Dr"
+          "3333 W DEYOUNG ST"
         ],
-        "city": "SALEM",
+        "city": "MARION",
         "state": "IL",
-        "postalCode": "62881-4263"
+        "postalCode": "62959-5884"
       },
       {
         "line": [
@@ -52,28 +52,11 @@
       },
       {
         "line": [
-          "3333 W DEYOUNG ST"
-        ],
-        "city": "MARION",
-        "state": "IL",
-        "postalCode": "62959-5884"
-      },
-      {
-        "line": [
-          "1201 Ricker Road"
+          "1201 Ricker Dr"
         ],
         "city": "SALEM",
         "state": "IL",
         "postalCode": "62881-4263"
-      },
-      {
-        "line": [
-          "400 N Pleasant Ave",
-          "St. Mary's Hospital"
-        ],
-        "city": "CENTRALIA",
-        "state": "IL",
-        "postalCode": "62801-3056"
       },
       {
         "line": [
@@ -86,7 +69,25 @@
       },
       {
         "line": [
-          "1201 RIcker Dr"
+          "1 Good Samaritan Way",
+          "Good Samaritan"
+        ],
+        "city": "MOUNT VERNON",
+        "state": "IL",
+        "postalCode": "62864-2402"
+      },
+      {
+        "line": [
+          "400 N Pleasant Ave",
+          "St. Mary's Hospital"
+        ],
+        "city": "CENTRALIA",
+        "state": "IL",
+        "postalCode": "62801-3056"
+      },
+      {
+        "line": [
+          "1201 Ricker Road"
         ],
         "city": "SALEM",
         "state": "IL",
@@ -94,12 +95,11 @@
       },
       {
         "line": [
-          "1 Good Samaritan Way",
-          "Good Samaritan"
+          "1201 RIcker Dr"
         ],
-        "city": "MOUNT VERNON",
+        "city": "SALEM",
         "state": "IL",
-        "postalCode": "62864-2402"
+        "postalCode": "62881-4263"
       }
     ],
     "extension": [

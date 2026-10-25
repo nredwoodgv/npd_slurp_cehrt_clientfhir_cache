@@ -14,19 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841696952"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053980110"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235503426"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174860894"
+        "value": "1689068413"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,11 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952775140"
+        "value": "1255756730"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689039448"
+        "value": "1952775140"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,35 +34,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194397240"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699407478"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760736334"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689068413"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1568910156"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902392673"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619622578"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447305610"
+        "value": "1841696952"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -82,18 +46,46 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255756730"
+        "value": "1447305610"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619622578"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174860894"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689039448"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1699407478"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235503426"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053980110"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1194397240"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902392673"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1760736334"
       }
     ],
     "address": [
-      {
-        "line": [
-          "109 E Harrison Ave"
-        ],
-        "city": "COEUR D ALENE",
-        "state": "ID",
-        "postalCode": "83814-3238"
-      },
       {
         "line": [
           "2205 N IRONWOOD PL"
@@ -101,6 +93,14 @@
         "city": "COEUR D ALENE",
         "state": "ID",
         "postalCode": "83814-2610"
+      },
+      {
+        "line": [
+          "109 E Harrison Ave"
+        ],
+        "city": "COEUR D ALENE",
+        "state": "ID",
+        "postalCode": "83814-3238"
       }
     ],
     "extension": [

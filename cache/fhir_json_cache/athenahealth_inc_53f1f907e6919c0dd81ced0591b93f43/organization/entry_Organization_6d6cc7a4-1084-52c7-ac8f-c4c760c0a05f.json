@@ -14,18 +14,74 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528785284"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1316663602"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1124745807"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528785284"
       }
     ],
     "address": [
+      {
+        "line": [
+          "902 S Mcleansboro St"
+        ],
+        "city": "BENTON",
+        "state": "IL",
+        "postalCode": "62812-3413"
+      },
+      {
+        "line": [
+          "600 New Fairfield Rd."
+        ],
+        "city": "MOUNT VERNON",
+        "state": "IL",
+        "postalCode": "62864-9998"
+      },
+      {
+        "line": [
+          "1209 W ROBINSON ST"
+        ],
+        "city": "WAYNE CITY",
+        "state": "IL",
+        "postalCode": "62895-9672"
+      },
+      {
+        "line": [
+          "208 ZACHERY DR"
+        ],
+        "city": "MOUNT VERNON",
+        "state": "IL",
+        "postalCode": "62864-6712"
+      },
+      {
+        "line": [
+          "208 Zachery Drive"
+        ],
+        "city": "MOUNT VERNON",
+        "state": "IL",
+        "postalCode": "62864-6712"
+      },
+      {
+        "line": [
+          "4101 N WATER TOWER PL"
+        ],
+        "city": "MOUNT VERNON",
+        "state": "IL",
+        "postalCode": "62864-6296"
+      },
+      {
+        "line": [
+          "1001 S 34th"
+        ],
+        "city": "MOUNT VERNON",
+        "state": "IL",
+        "postalCode": "62864-6232"
+      },
       {
         "line": [
           "1933 S. 42nd St."
@@ -44,22 +100,6 @@
       },
       {
         "line": [
-          "#5 Doctors Park"
-        ],
-        "city": "MOUNT VERNON",
-        "state": "IL",
-        "postalCode": "62864-6251"
-      },
-      {
-        "line": [
-          "208 ZACHERY DR"
-        ],
-        "city": "MOUNT VERNON",
-        "state": "IL",
-        "postalCode": "62864-6712"
-      },
-      {
-        "line": [
           "1700 White St."
         ],
         "city": "MOUNT VERNON",
@@ -68,51 +108,11 @@
       },
       {
         "line": [
-          "208 Zachery Drive"
+          "#5 Doctors Park"
         ],
         "city": "MOUNT VERNON",
         "state": "IL",
-        "postalCode": "62864-6712"
-      },
-      {
-        "line": [
-          "1209 W ROBINSON ST"
-        ],
-        "city": "WAYNE CITY",
-        "state": "IL",
-        "postalCode": "62895-9672"
-      },
-      {
-        "line": [
-          "1001 S 34th"
-        ],
-        "city": "MOUNT VERNON",
-        "state": "IL",
-        "postalCode": "62864-6232"
-      },
-      {
-        "line": [
-          "902 S Mcleansboro St"
-        ],
-        "city": "BENTON",
-        "state": "IL",
-        "postalCode": "62812-3413"
-      },
-      {
-        "line": [
-          "4101 N WATER TOWER PL"
-        ],
-        "city": "MOUNT VERNON",
-        "state": "IL",
-        "postalCode": "62864-6296"
-      },
-      {
-        "line": [
-          "600 New Fairfield Rd."
-        ],
-        "city": "MOUNT VERNON",
-        "state": "IL",
-        "postalCode": "62864-9998"
+        "postalCode": "62864-6251"
       }
     ],
     "extension": [

@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922066216"
+        "value": "1396703856"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396703856"
+        "value": "1922066216"
       }
     ],
     "address": [
-      {
-        "line": [
-          "6971 Heritage Dr"
-        ],
-        "city": "PORT SAINT LUCIE",
-        "state": "FL",
-        "postalCode": "34952-8229"
-      },
-      {
-        "line": [
-          "6830 S US Hwy One"
-        ],
-        "city": "PORT SAINT LUCIE",
-        "state": "FL",
-        "postalCode": "34952-1410"
-      },
       {
         "line": [
           "900 East Ocean Dr. Suite 220"
@@ -53,6 +37,22 @@
         "city": "STUART",
         "state": "FL",
         "postalCode": "34994-2346"
+      },
+      {
+        "line": [
+          "6971 Heritage Dr"
+        ],
+        "city": "PORT SAINT LUCIE",
+        "state": "FL",
+        "postalCode": "34952-8229"
+      },
+      {
+        "line": [
+          "6830 S US Hwy One"
+        ],
+        "city": "PORT SAINT LUCIE",
+        "state": "FL",
+        "postalCode": "34952-1410"
       }
     ],
     "extension": [

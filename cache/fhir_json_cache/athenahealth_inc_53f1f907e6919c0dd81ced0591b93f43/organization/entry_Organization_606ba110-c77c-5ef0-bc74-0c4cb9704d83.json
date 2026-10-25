@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871553073"
+        "value": "1194768721"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,10 +26,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194768721"
+        "value": "1871553073"
       }
     ],
     "address": [
+      {
+        "line": [
+          "672 Jones Rd"
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72764-0677"
+      },
       {
         "line": [
           "1393 E Don Tyson Pkwy"
@@ -37,6 +45,14 @@
         "city": "SPRINGDALE",
         "state": "AR",
         "postalCode": "72764-7882"
+      },
+      {
+        "line": [
+          "2001 S Hampton Pl"
+        ],
+        "city": "ROGERS",
+        "state": "AR",
+        "postalCode": "72758-1352"
       },
       {
         "line": [
@@ -53,22 +69,6 @@
         "city": "FAYETTEVILLE",
         "state": "AR",
         "postalCode": "72703-4834"
-      },
-      {
-        "line": [
-          "2001 S Hampton Pl"
-        ],
-        "city": "ROGERS",
-        "state": "AR",
-        "postalCode": "72758-1352"
-      },
-      {
-        "line": [
-          "672 Jones Rd"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72764-0677"
       }
     ],
     "extension": [

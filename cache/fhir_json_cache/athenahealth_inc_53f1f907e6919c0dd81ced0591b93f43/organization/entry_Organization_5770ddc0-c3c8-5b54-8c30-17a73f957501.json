@@ -14,15 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952593915"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417967365"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1063453991"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952593915"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831185065"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1871589333"
       }
     ],
     "address": [
@@ -31,6 +39,14 @@
           "14800 St Teresa St"
         ],
         "city": "Wichita",
+        "state": "KS",
+        "postalCode": "67235-9602"
+      },
+      {
+        "line": [
+          "14800 W Saint Teresa St"
+        ],
+        "city": "WICHITA",
         "state": "KS",
         "postalCode": "67235-9602"
       }

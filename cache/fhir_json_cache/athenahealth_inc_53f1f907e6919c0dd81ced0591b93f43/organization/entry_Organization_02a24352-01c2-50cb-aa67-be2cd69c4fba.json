@@ -22,19 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912965088"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1023088168"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386716520"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457663197"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -43,9 +31,29 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1376820605"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457663197"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386716520"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912965088"
       }
     ],
     "address": [
+      {
+        "line": [
+          "44405 Woodward Ave."
+        ],
+        "city": "PONTIAC",
+        "state": "MI",
+        "postalCode": "48341-5023"
+      },
       {
         "line": [
           "18101 Oakwood Blvd"
@@ -61,14 +69,6 @@
         "city": "ROCHESTER",
         "state": "MI",
         "postalCode": "48307-1863"
-      },
-      {
-        "line": [
-          "44405 Woodward Ave."
-        ],
-        "city": "PONTIAC",
-        "state": "MI",
-        "postalCode": "48341-5023"
       }
     ],
     "extension": [

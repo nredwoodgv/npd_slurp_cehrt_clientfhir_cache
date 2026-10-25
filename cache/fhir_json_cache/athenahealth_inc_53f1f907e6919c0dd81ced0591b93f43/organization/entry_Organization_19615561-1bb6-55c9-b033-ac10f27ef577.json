@@ -18,23 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245771583"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447335690"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225467814"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700048360"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730511775"
+        "value": "1164961579"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,11 +26,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689061467"
+        "value": "1447335690"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124198551"
+        "value": "1730511775"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225467814"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,11 +42,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164961579"
+        "value": "1689061467"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346284684"
+        "value": "1700048360"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124198551"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689986218"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,17 +62,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689986218"
+        "value": "1346284684"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245771583"
       }
     ],
     "address": [
       {
         "line": [
-          "44555 Woodward Ave Suite 505"
+          "5301 Huron River Dr."
         ],
-        "city": "PONTIAC",
+        "city": "YPSILANTI",
         "state": "MI",
-        "postalCode": "48341-5032"
+        "postalCode": "48197-1051"
       },
       {
         "line": [
@@ -88,19 +88,11 @@
       },
       {
         "line": [
-          "14555 LEVAN"
+          "44555 Woodward Ave."
         ],
-        "city": "LIVONIA",
+        "city": "PONTIAC",
         "state": "MI",
-        "postalCode": "48154-1971"
-      },
-      {
-        "line": [
-          "1 William Carls Dr"
-        ],
-        "city": "COMMERCE TOWNSHIP",
-        "state": "MI",
-        "postalCode": "48382-2201"
+        "postalCode": "48341-5032"
       },
       {
         "line": [
@@ -112,59 +104,11 @@
       },
       {
         "line": [
-          "36475 Five Mile Rd"
-        ],
-        "city": "LIVONIA",
-        "state": "MI",
-        "postalCode": "48154-1971"
-      },
-      {
-        "line": [
           "36475 Five Mile Road"
         ],
         "city": "LIVONIA",
         "state": "MI",
         "postalCode": "48154-1971"
-      },
-      {
-        "line": [
-          "5301 Huron River Dr."
-        ],
-        "city": "YPSILANTI",
-        "state": "MI",
-        "postalCode": "48197-1051"
-      },
-      {
-        "line": [
-          "6071 West Outer Dr"
-        ],
-        "city": "DETROIT",
-        "state": "MI",
-        "postalCode": "48235-2624"
-      },
-      {
-        "line": [
-          "3601 W. 13 Mile Rd"
-        ],
-        "city": "ROYAL OAK",
-        "state": "MI",
-        "postalCode": "48073-6712"
-      },
-      {
-        "line": [
-          "44555 Woodward Ave Ste 105"
-        ],
-        "city": "PONTIAC",
-        "state": "MI",
-        "postalCode": "48341-5032"
-      },
-      {
-        "line": [
-          "775 S. Main St."
-        ],
-        "city": "CHELSEA",
-        "state": "MI",
-        "postalCode": "48118-1383"
       },
       {
         "line": [
@@ -176,12 +120,35 @@
       },
       {
         "line": [
-          "14555 Levan",
-          "Suite 116"
+          "20206 Farmington Rd"
         ],
         "city": "LIVONIA",
         "state": "MI",
-        "postalCode": "48154-5085"
+        "postalCode": "48152-1412"
+      },
+      {
+        "line": [
+          "32932 Warren Road Suite 100"
+        ],
+        "city": "WESTLAND",
+        "state": "MI",
+        "postalCode": "48185-3095"
+      },
+      {
+        "line": [
+          "775 S. Main St."
+        ],
+        "city": "CHELSEA",
+        "state": "MI",
+        "postalCode": "48118-1383"
+      },
+      {
+        "line": [
+          "6071 West Outer Dr"
+        ],
+        "city": "DETROIT",
+        "state": "MI",
+        "postalCode": "48235-2624"
       },
       {
         "line": [
@@ -193,7 +160,7 @@
       },
       {
         "line": [
-          "44555 Woodward Ave."
+          "44555 Woodward Ave Suite 505"
         ],
         "city": "PONTIAC",
         "state": "MI",
@@ -201,43 +168,11 @@
       },
       {
         "line": [
-          "44405 Woodward"
-        ],
-        "city": "PONTIAC",
-        "state": "MI",
-        "postalCode": "48341-5023"
-      },
-      {
-        "line": [
-          "3603 W. 13 Mile Rd"
+          "3601 W. 13 Mile Rd"
         ],
         "city": "ROYAL OAK",
         "state": "MI",
-        "postalCode": "48073-6714"
-      },
-      {
-        "line": [
-          "36476 Five Mile Road"
-        ],
-        "city": "LIVONIA",
-        "state": "MI",
-        "postalCode": "48154-1972"
-      },
-      {
-        "line": [
-          "775 S Main"
-        ],
-        "city": "CHELSEA",
-        "state": "MI",
-        "postalCode": "48118-1383"
-      },
-      {
-        "line": [
-          "32932 Warren Road Suite 100"
-        ],
-        "city": "WESTLAND",
-        "state": "MI",
-        "postalCode": "48185-3095"
+        "postalCode": "48073-6712"
       },
       {
         "line": [
@@ -257,11 +192,27 @@
       },
       {
         "line": [
-          "320 Town Center Blvd"
+          "3602 W. 13 Mile Rd"
         ],
-        "city": "WHITE LAKE",
+        "city": "ROYAL OAK",
         "state": "MI",
-        "postalCode": "48386-0001"
+        "postalCode": "48073-6713"
+      },
+      {
+        "line": [
+          "775 S Main"
+        ],
+        "city": "CHELSEA",
+        "state": "MI",
+        "postalCode": "48118-1383"
+      },
+      {
+        "line": [
+          "1 William Carls Dr"
+        ],
+        "city": "COMMERCE TOWNSHIP",
+        "state": "MI",
+        "postalCode": "48382-2201"
       },
       {
         "line": [
@@ -270,6 +221,55 @@
         "city": "WATERFORD",
         "state": "MI",
         "postalCode": "48328-1222"
+      },
+      {
+        "line": [
+          "36475 Five Mile Rd"
+        ],
+        "city": "LIVONIA",
+        "state": "MI",
+        "postalCode": "48154-1971"
+      },
+      {
+        "line": [
+          "14555 Levan",
+          "Suite 116"
+        ],
+        "city": "LIVONIA",
+        "state": "MI",
+        "postalCode": "48154-5085"
+      },
+      {
+        "line": [
+          "3095 E. Walton Blvd"
+        ],
+        "city": "AUBURN HILLS",
+        "state": "MI",
+        "postalCode": "48326-2370"
+      },
+      {
+        "line": [
+          "44555 Woodward Ave Ste 105"
+        ],
+        "city": "PONTIAC",
+        "state": "MI",
+        "postalCode": "48341-5032"
+      },
+      {
+        "line": [
+          "44405 Woodward"
+        ],
+        "city": "PONTIAC",
+        "state": "MI",
+        "postalCode": "48341-5023"
+      },
+      {
+        "line": [
+          "320 Town Center Blvd"
+        ],
+        "city": "WHITE LAKE",
+        "state": "MI",
+        "postalCode": "48386-0001"
       },
       {
         "line": [
@@ -282,11 +282,27 @@
       },
       {
         "line": [
-          "20206 Farmington Rd"
+          "3603 W. 13 Mile Rd"
+        ],
+        "city": "ROYAL OAK",
+        "state": "MI",
+        "postalCode": "48073-6714"
+      },
+      {
+        "line": [
+          "36476 Five Mile Road"
         ],
         "city": "LIVONIA",
         "state": "MI",
-        "postalCode": "48152-1412"
+        "postalCode": "48154-1972"
+      },
+      {
+        "line": [
+          "14555 LEVAN"
+        ],
+        "city": "LIVONIA",
+        "state": "MI",
+        "postalCode": "48154-1971"
       },
       {
         "line": [
@@ -295,22 +311,6 @@
         "city": "LIVONIA",
         "state": "MI",
         "postalCode": "48152-1003"
-      },
-      {
-        "line": [
-          "3095 E. Walton Blvd"
-        ],
-        "city": "AUBURN HILLS",
-        "state": "MI",
-        "postalCode": "48326-2370"
-      },
-      {
-        "line": [
-          "3602 W. 13 Mile Rd"
-        ],
-        "city": "ROYAL OAK",
-        "state": "MI",
-        "postalCode": "48073-6713"
       }
     ],
     "extension": [

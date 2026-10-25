@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154173003"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932971876"
+        "value": "1417729617"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,51 +26,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417729617"
+        "value": "1932971876"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154173003"
       }
     ],
     "address": [
       {
         "line": [
-          "221 River Street",
-          "9th Floor"
-        ],
-        "city": "HOBOKEN",
-        "state": "NJ",
-        "postalCode": "07030-5990"
-      },
-      {
-        "line": [
-          "1 MARINA PARK DR STE 1410"
-        ],
-        "city": "BOSTON",
-        "state": "MA",
-        "postalCode": "02210-1874"
-      },
-      {
-        "line": [
-          "5718 WESTHEIMER RD STE 1000"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77057-9903"
-      },
-      {
-        "line": [
-          "220 5TH AVE FL 11",
-          "SUITE 4"
+          "350 WEST 42ND STREET",
+          "UNIT 37G"
         ],
         "city": "NEW YORK",
         "state": "NY",
-        "postalCode": "10001-8017"
-      },
-      {
-        "line": [
-          "4445 WILLARD AVE STE 600"
-        ],
-        "city": "CHEVY CHASE",
-        "state": "MD",
-        "postalCode": "20815-3786"
+        "postalCode": "10036-6959"
       },
       {
         "line": [
@@ -87,12 +54,20 @@
       },
       {
         "line": [
-          "350 West 42ND Street",
-          "Unit 37G"
+          "220 5TH AVE FL 11",
+          "SUITE 4"
         ],
         "city": "NEW YORK",
         "state": "NY",
-        "postalCode": "10036-6959"
+        "postalCode": "10001-8017"
+      },
+      {
+        "line": [
+          "5718 WESTHEIMER RD STE 1000"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77057-9903"
       },
       {
         "line": [
@@ -104,12 +79,37 @@
       },
       {
         "line": [
-          "350 WEST 42ND STREET",
-          "UNIT 37G"
+          "1 MARINA PARK DR STE 1410"
+        ],
+        "city": "BOSTON",
+        "state": "MA",
+        "postalCode": "02210-1874"
+      },
+      {
+        "line": [
+          "221 River Street",
+          "9th Floor"
+        ],
+        "city": "HOBOKEN",
+        "state": "NJ",
+        "postalCode": "07030-5990"
+      },
+      {
+        "line": [
+          "350 West 42ND Street",
+          "Unit 37G"
         ],
         "city": "NEW YORK",
         "state": "NY",
         "postalCode": "10036-6959"
+      },
+      {
+        "line": [
+          "4445 WILLARD AVE STE 600"
+        ],
+        "city": "CHEVY CHASE",
+        "state": "MD",
+        "postalCode": "20815-3786"
       },
       {
         "line": [

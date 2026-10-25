@@ -18,6 +18,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1659775831"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1972879773"
       },
       {
@@ -27,21 +31,9 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730697483"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659775831"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1720 E CESAR E CHAVEZ AVE"
-        ],
-        "city": "LOS ANGELES",
-        "state": "CA",
-        "postalCode": "90033-2414"
-      },
       {
         "line": [
           "11500 BROOKSHIRE AVE"
@@ -52,11 +44,11 @@
       },
       {
         "line": [
-          "7091 E SPEEDWAY BLVD"
+          "1720 E CESAR E CHAVEZ AVE"
         ],
-        "city": "TUCSON",
-        "state": "AZ",
-        "postalCode": "85710-1241"
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "postalCode": "90033-2414"
       },
       {
         "line": [
@@ -65,6 +57,14 @@
         "city": "CERRITOS",
         "state": "CA",
         "postalCode": "90703-8564"
+      },
+      {
+        "line": [
+          "7091 E SPEEDWAY BLVD"
+        ],
+        "city": "TUCSON",
+        "state": "AZ",
+        "postalCode": "85710-1241"
       }
     ],
     "extension": [

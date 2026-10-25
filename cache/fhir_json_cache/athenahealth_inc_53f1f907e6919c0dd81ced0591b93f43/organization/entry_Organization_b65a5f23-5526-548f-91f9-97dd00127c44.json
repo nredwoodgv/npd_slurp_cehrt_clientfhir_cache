@@ -14,38 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831764927"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346474996"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063024578"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629068531"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548250459"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053647164"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992327845"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336180165"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1235552746"
       },
       {
@@ -54,11 +22,43 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174769764"
+        "value": "1629068531"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1598713117"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1346474996"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053647164"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831764927"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992327845"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548250459"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174769764"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336180165"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1063024578"
       }
     ],
     "address": [
@@ -72,14 +72,6 @@
       },
       {
         "line": [
-          "3039 Okatie Hwy"
-        ],
-        "city": "BLUFFTON",
-        "state": "SC",
-        "postalCode": "29910-5101"
-      },
-      {
-        "line": [
           "955 Ribaut Road"
         ],
         "city": "BEAUFORT",
@@ -88,7 +80,15 @@
       },
       {
         "line": [
-          "1624 Paris Ave"
+          "11 Todd Drive"
+        ],
+        "city": "BEAUFORT",
+        "state": "SC",
+        "postalCode": "29902-6113"
+      },
+      {
+        "line": [
+          "1624 PARIS AVE"
         ],
         "city": "PORT ROYAL",
         "state": "SC",
@@ -105,11 +105,51 @@
       },
       {
         "line": [
+          "1810 RICHMOND AVE"
+        ],
+        "city": "PORT ROYAL",
+        "state": "SC",
+        "postalCode": "29935-2015"
+      },
+      {
+        "line": [
           "300 MIDTOWN DR"
         ],
         "city": "BEAUFORT",
         "state": "SC",
         "postalCode": "29906-5200"
+      },
+      {
+        "line": [
+          "11 ARLEY WAY, 201"
+        ],
+        "city": "BLUFFTON",
+        "state": "SC",
+        "postalCode": "29910-4483"
+      },
+      {
+        "line": [
+          "122 OKATIE CENTER BLVD N #130"
+        ],
+        "city": "OKATIE",
+        "state": "SC",
+        "postalCode": "29909-3750"
+      },
+      {
+        "line": [
+          "955 RIBAUT ROAD"
+        ],
+        "city": "BEAUFORT",
+        "state": "SC",
+        "postalCode": "29902-5441"
+      },
+      {
+        "line": [
+          "1119 Pick Pocke Plantation Dr"
+        ],
+        "city": "BEAUFORT",
+        "state": "SC",
+        "postalCode": "29902-3771"
       },
       {
         "line": [
@@ -122,38 +162,6 @@
       },
       {
         "line": [
-          "11 ARLEY WAY, 201"
-        ],
-        "city": "BLUFFTON",
-        "state": "SC",
-        "postalCode": "29910-4483"
-      },
-      {
-        "line": [
-          "1810 RICHMOND DRIVE"
-        ],
-        "city": "PORT ROYAL",
-        "state": "SC",
-        "postalCode": "29935-2015"
-      },
-      {
-        "line": [
-          "1810 RICHMOND AVE"
-        ],
-        "city": "PORT ROYAL",
-        "state": "SC",
-        "postalCode": "29935-2015"
-      },
-      {
-        "line": [
-          "1119 Pick Pocke Plantation Dr"
-        ],
-        "city": "BEAUFORT",
-        "state": "SC",
-        "postalCode": "29902-3771"
-      },
-      {
-        "line": [
           "122 OKATIE CENTER BLVD NORTHO",
           "SUITE 210"
         ],
@@ -163,19 +171,35 @@
       },
       {
         "line": [
-          "122 OKATIE CENTER BLVD N #130"
+          "25 Hospital Center Blvd"
         ],
-        "city": "OKATIE",
+        "city": "HILTON HEAD ISLAND",
         "state": "SC",
-        "postalCode": "29909-3750"
+        "postalCode": "29926-2738"
       },
       {
         "line": [
-          "171 Ashley Avenue"
+          "800 Fording Island Road"
         ],
-        "city": "CHARLESTON",
+        "city": "BLUFFTON",
         "state": "SC",
-        "postalCode": "29425-8908"
+        "postalCode": "29910-4845"
+      },
+      {
+        "line": [
+          "3039 Okatie Hwy"
+        ],
+        "city": "BLUFFTON",
+        "state": "SC",
+        "postalCode": "29910-5101"
+      },
+      {
+        "line": [
+          "1810 RICHMOND DRIVE"
+        ],
+        "city": "PORT ROYAL",
+        "state": "SC",
+        "postalCode": "29935-2015"
       },
       {
         "line": [
@@ -196,39 +220,15 @@
       },
       {
         "line": [
-          "NA"
+          "171 Ashley Avenue"
         ],
-        "city": "BEAUFORT",
+        "city": "CHARLESTON",
         "state": "SC",
-        "postalCode": "29902-0110"
+        "postalCode": "29425-8908"
       },
       {
         "line": [
-          "955 RIBAUT ROAD"
-        ],
-        "city": "BEAUFORT",
-        "state": "SC",
-        "postalCode": "29902-5441"
-      },
-      {
-        "line": [
-          "800 Fording Island Road"
-        ],
-        "city": "BLUFFTON",
-        "state": "SC",
-        "postalCode": "29910-4845"
-      },
-      {
-        "line": [
-          "11 Todd Drive"
-        ],
-        "city": "BEAUFORT",
-        "state": "SC",
-        "postalCode": "29902-6113"
-      },
-      {
-        "line": [
-          "1624 PARIS AVE"
+          "1624 Paris Ave"
         ],
         "city": "PORT ROYAL",
         "state": "SC",
@@ -244,11 +244,11 @@
       },
       {
         "line": [
-          "25 Hospital Center Blvd"
+          "NA"
         ],
-        "city": "HILTON HEAD ISLAND",
+        "city": "BEAUFORT",
         "state": "SC",
-        "postalCode": "29926-2738"
+        "postalCode": "29902-0110"
       }
     ],
     "extension": [

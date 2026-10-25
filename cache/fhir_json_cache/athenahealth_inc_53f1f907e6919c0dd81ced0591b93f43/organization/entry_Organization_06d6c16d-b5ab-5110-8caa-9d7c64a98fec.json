@@ -14,11 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487183612"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1497095681"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487183612"
+        "value": "1639366685"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811065220"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -27,24 +35,32 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578139705"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811065220"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639366685"
       }
     ],
     "address": [
       {
         "line": [
-          "417 N MARTIN LUTHER KING DR"
+          "1007 SYCAMORE STREET"
         ],
-        "city": "SIMMESPORT",
+        "city": "COTTONPORT",
         "state": "LA",
-        "postalCode": "71369-2181"
+        "postalCode": "71327-3403"
+      },
+      {
+        "line": [
+          "457 West Wadill Street"
+        ],
+        "city": "MARKSVILLE",
+        "state": "LA",
+        "postalCode": "71351-2619"
+      },
+      {
+        "line": [
+          "6615 SAINT PHILLIP ST"
+        ],
+        "city": "MANSURA",
+        "state": "LA",
+        "postalCode": "71350-0900"
       },
       {
         "line": [
@@ -64,11 +80,12 @@
       },
       {
         "line": [
-          "6615 SAINT PHILLIP ST"
+          "1007 Sycamore St",
+          "Suite B"
         ],
-        "city": "MANSURA",
+        "city": "COTTONPORT",
         "state": "LA",
-        "postalCode": "71350-0900"
+        "postalCode": "71327-3403"
       },
       {
         "line": [
@@ -80,28 +97,11 @@
       },
       {
         "line": [
-          "1007 Sycamore St",
-          "Suite B"
+          "417 N MARTIN LUTHER KING DR"
         ],
-        "city": "COTTONPORT",
+        "city": "SIMMESPORT",
         "state": "LA",
-        "postalCode": "71327-3403"
-      },
-      {
-        "line": [
-          "457 West Wadill Street"
-        ],
-        "city": "MARKSVILLE",
-        "state": "LA",
-        "postalCode": "71351-2619"
-      },
-      {
-        "line": [
-          "1007 SYCAMORE STREET"
-        ],
-        "city": "COTTONPORT",
-        "state": "LA",
-        "postalCode": "71327-3403"
+        "postalCode": "71369-2181"
       }
     ],
     "extension": [

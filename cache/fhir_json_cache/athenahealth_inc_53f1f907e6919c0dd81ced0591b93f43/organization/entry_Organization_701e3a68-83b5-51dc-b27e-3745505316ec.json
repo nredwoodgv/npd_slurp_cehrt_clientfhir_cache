@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013341734"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1265607626"
       },
       {
@@ -26,18 +22,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871204511"
+        "value": "1407095359"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407095359"
+        "value": "1013341734"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1871204511"
       }
     ],
     "address": [
       {
         "line": [
           "2401 Newnan Crossing Blvd East",
-          "Suite 130"
+          "Suite 120"
         ],
         "city": "Newnan",
         "state": "GA",
@@ -46,11 +46,29 @@
       {
         "line": [
           "619 South 8th Street",
-          "Suite 300"
+          "Suite 302"
         ],
         "city": "Griffin",
         "state": "GA",
         "postalCode": "30224-4260"
+      },
+      {
+        "line": [
+          "1365 Rock Quarry Rd",
+          "Suite 301"
+        ],
+        "city": "Stockbridge",
+        "state": "GA",
+        "postalCode": "30281-5023"
+      },
+      {
+        "line": [
+          "2401 Newnan Crossing Blvd East",
+          "Suite 130"
+        ],
+        "city": "Newnan",
+        "state": "GA",
+        "postalCode": "30265-2409"
       },
       {
         "line": [
@@ -63,7 +81,7 @@
       {
         "line": [
           "619 South 8th Street",
-          "Suite 302"
+          "Suite 300"
         ],
         "city": "Griffin",
         "state": "GA",
@@ -94,24 +112,6 @@
         "city": "Lawrenceville",
         "state": "GA",
         "postalCode": "30046-4317"
-      },
-      {
-        "line": [
-          "1365 Rock Quarry Rd",
-          "Suite 301"
-        ],
-        "city": "Stockbridge",
-        "state": "GA",
-        "postalCode": "30281-5023"
-      },
-      {
-        "line": [
-          "2401 Newnan Crossing Blvd East",
-          "Suite 120"
-        ],
-        "city": "Newnan",
-        "state": "GA",
-        "postalCode": "30265-2409"
       }
     ],
     "extension": [

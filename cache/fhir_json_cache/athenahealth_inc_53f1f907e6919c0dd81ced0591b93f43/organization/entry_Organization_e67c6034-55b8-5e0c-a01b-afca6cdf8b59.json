@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497986764"
+        "value": "1538432711"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,11 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023449212"
+        "value": "1720360795"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720360795"
+        "value": "1497986764"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,7 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538432711"
+        "value": "1023449212"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,11 +42,11 @@
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "19D2031977"
+        "value": "19D0718564"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "19D0718564"
+        "value": "19D2031977"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
@@ -56,19 +56,11 @@
     "address": [
       {
         "line": [
-          "#2 Medical Plaza"
+          "2540 Beene Blvd"
         ],
-        "city": "MINDEN",
+        "city": "BOSSIER CITY",
         "state": "LA",
-        "postalCode": "71055-3357"
-      },
-      {
-        "line": [
-          "1 MEDICAL PLAZA"
-        ],
-        "city": "MINDEN",
-        "state": "LA",
-        "postalCode": "71055-3330"
+        "postalCode": "71111-2463"
       },
       {
         "line": [
@@ -80,7 +72,7 @@
       },
       {
         "line": [
-          "1 Medical Plaza Pl"
+          "1 MEDICAL PLAZA"
         ],
         "city": "MINDEN",
         "state": "LA",
@@ -96,11 +88,11 @@
       },
       {
         "line": [
-          "2540 Beene Blvd"
+          "1 Medical Plaza Pl"
         ],
-        "city": "BOSSIER CITY",
+        "city": "MINDEN",
         "state": "LA",
-        "postalCode": "71111-2463"
+        "postalCode": "71055-3330"
       },
       {
         "line": [
@@ -135,6 +127,14 @@
         "city": "MINDEN",
         "state": "LA",
         "postalCode": "71055-3169"
+      },
+      {
+        "line": [
+          "#2 Medical Plaza"
+        ],
+        "city": "MINDEN",
+        "state": "LA",
+        "postalCode": "71055-3357"
       }
     ],
     "extension": [

@@ -14,39 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831530906"
+        "value": "1578577565"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578577565"
+        "value": "1831530906"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2000 CHURCH ST"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37236-4400"
-      },
-      {
-        "line": [
-          "300 20th Avenue North",
-          "Suite 505"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37203-2131"
-      },
-      {
-        "line": [
-          "410 42ND AVE N STE 300"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37209-3656"
-      },
       {
         "line": [
           "2300 Patterson Street"
@@ -57,12 +32,38 @@
       },
       {
         "line": [
+          "2000 CHURCH ST"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37236-4400"
+      },
+      {
+        "line": [
           "300 20th Ave North",
           "Ste 505"
         ],
         "city": "NASHVILLE",
         "state": "TN",
         "postalCode": "37203-2131"
+      },
+      {
+        "line": [
+          "2201 MURPHY AVE",
+          "STE 207"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37203-1954"
+      },
+      {
+        "line": [
+          "410 42ND AVE N",
+          "STE 300"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37209-3656"
       },
       {
         "line": [
@@ -79,16 +80,16 @@
         ],
         "city": "NASHVILLE",
         "state": "TN",
-        "postalCode": "37203-2179"
+        "postalCode": "37203-2131"
       },
       {
         "line": [
-          "2201 MURPHY AVE",
-          "STE 207"
+          "300 20th Avenue North",
+          "Suite 505"
         ],
         "city": "NASHVILLE",
         "state": "TN",
-        "postalCode": "37203-1954"
+        "postalCode": "37203-2179"
       }
     ],
     "extension": [

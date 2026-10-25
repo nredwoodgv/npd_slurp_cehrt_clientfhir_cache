@@ -14,19 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770098253"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780199265"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1003321597"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629567623"
+        "value": "1780199265"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -35,28 +27,34 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932440500"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1770098253"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629567623"
       }
     ],
     "address": [
       {
         "line": [
-          "4209 St. Claude Ave."
+          "4960 SAINT CLAUDE AVE"
         ],
         "city": "NEW ORLEANS",
         "state": "LA",
         "postalCode": "70117-4258"
       },
       {
-        "line": [
-          "1445 West Causeway Approach"
-        ],
-        "city": "MANDEVILLE",
+        "line": [],
+        "city": "New Orleans",
         "state": "LA",
-        "postalCode": "70471-3103"
+        "postalCode": "70017-4258"
       },
       {
         "line": [
-          "221 W. Genie St."
+          "221 W. Genie Street"
         ],
         "city": "CHALMETTE",
         "state": "LA",
@@ -72,28 +70,6 @@
       },
       {
         "line": [
-          "221 W. Genie Street"
-        ],
-        "city": "CHALMETTE",
-        "state": "LA",
-        "postalCode": "70043-2125"
-      },
-      {
-        "line": [],
-        "city": "New Orleans",
-        "state": "LA",
-        "postalCode": "70017-4258"
-      },
-      {
-        "line": [
-          "4960 SAINT CLAUDE AVE"
-        ],
-        "city": "NEW ORLEANS",
-        "state": "LA",
-        "postalCode": "70117-4258"
-      },
-      {
-        "line": [
           "1616 Caffin Ave"
         ],
         "city": "NEW ORLEANS",
@@ -102,11 +78,35 @@
       },
       {
         "line": [
+          "1445 West Causeway Approach"
+        ],
+        "city": "MANDEVILLE",
+        "state": "LA",
+        "postalCode": "70471-3103"
+      },
+      {
+        "line": [
           "1616 caffin ave"
         ],
         "city": "NEW ORLEANS",
         "state": "LA",
         "postalCode": "70117-4258"
+      },
+      {
+        "line": [
+          "4209 St. Claude Ave."
+        ],
+        "city": "NEW ORLEANS",
+        "state": "LA",
+        "postalCode": "70117-4258"
+      },
+      {
+        "line": [
+          "221 W. Genie St."
+        ],
+        "city": "CHALMETTE",
+        "state": "LA",
+        "postalCode": "70043-2125"
       }
     ],
     "extension": [

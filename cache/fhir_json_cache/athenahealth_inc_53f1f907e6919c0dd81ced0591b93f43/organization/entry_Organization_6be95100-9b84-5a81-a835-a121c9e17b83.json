@@ -18,30 +18,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447970587"
+        "value": "1578407706"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578407706"
+        "value": "1447970587"
       }
     ],
     "address": [
       {
         "line": [
-          "16100 Sand Canyon Ave",
-          "Suite 240"
+          "16100 Sand Canyon Avenue",
+          "Riid, Suite 240"
         ],
         "city": "IRVINE",
         "state": "CA",
         "postalCode": "92618-3724"
-      },
-      {
-        "line": [
-          "10000 LAKEWOOD BLVD"
-        ],
-        "city": "DOWNEY",
-        "state": "CA",
-        "postalCode": "90240-4020"
       },
       {
         "line": [
@@ -61,8 +53,17 @@
       },
       {
         "line": [
-          "16100 Sand Canyon Avenue",
-          "Riid, Suite 240"
+          "2520 Samaritan Dr",
+          "#201B"
+        ],
+        "city": "SAN JOSE",
+        "state": "CA",
+        "postalCode": "95124-4106"
+      },
+      {
+        "line": [
+          "16100 Sand Canyon Ave",
+          "Suite 240"
         ],
         "city": "IRVINE",
         "state": "CA",
@@ -70,12 +71,11 @@
       },
       {
         "line": [
-          "2520 Samaritan Dr",
-          "#201B"
+          "10000 LAKEWOOD BLVD"
         ],
-        "city": "SAN JOSE",
+        "city": "DOWNEY",
         "state": "CA",
-        "postalCode": "95124-4106"
+        "postalCode": "90240-4020"
       }
     ],
     "extension": [

@@ -14,15 +14,51 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083314892"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1063287753"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700595386"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528788668"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1043196355"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1356236426"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1467221911"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316823636"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689438509"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1679261671"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073377982"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1255022273"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548960347"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,27 +70,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639855497"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1548950181"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700595386"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689438509"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033943931"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043196355"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,35 +82,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528788668"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255022273"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679261671"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730928136"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548960347"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629788203"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316823636"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073377982"
+        "value": "1639855497"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -102,21 +94,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356236426"
+        "value": "1730928136"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033943931"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1083314892"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1083399901"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1023727328"
       }
     ],
     "address": [
       {
         "line": [
-          "60 E DELAWARE PL"
+          "7501 TRINITY PEAK AVE",
+          "STE 100"
         ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60611-1998"
+        "city": "LAS VEGAS",
+        "state": "NV",
+        "postalCode": "89128-9026"
       },
       {
         "line": [
@@ -137,12 +142,28 @@
       },
       {
         "line": [
+          "60 E DELAWARE PL"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60611-1998"
+      },
+      {
+        "line": [
           "234 INDUSTRIAL WAY W",
           "Suite A104"
         ],
         "city": "EATONTOWN",
         "state": "NJ",
         "postalCode": "07724-4244"
+      },
+      {
+        "line": [
+          "23961 CALLE DE LA MAGDALENA"
+        ],
+        "city": "LAGUNA HILLS",
+        "state": "CA",
+        "postalCode": "92653-3616"
       }
     ],
     "extension": [

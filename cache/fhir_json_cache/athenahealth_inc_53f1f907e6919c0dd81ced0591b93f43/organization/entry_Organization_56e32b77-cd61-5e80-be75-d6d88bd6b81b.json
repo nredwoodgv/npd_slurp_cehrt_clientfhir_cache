@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467414771"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1326114224"
       },
       {
@@ -27,10 +31,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1033288337"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467414771"
       }
     ],
     "address": [
@@ -40,7 +40,7 @@
         ],
         "city": "YATES CENTER",
         "state": "KS",
-        "postalCode": "66783-0265"
+        "postalCode": "66783-1640"
       },
       {
         "line": [
@@ -48,7 +48,7 @@
         ],
         "city": "YATES CENTER",
         "state": "KS",
-        "postalCode": "66783-1640"
+        "postalCode": "66783-0265"
       }
     ],
     "extension": [

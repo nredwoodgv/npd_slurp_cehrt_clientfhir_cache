@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942254347"
+        "value": "1568858686"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568858686"
+        "value": "1942254347"
       }
     ],
     "address": [
@@ -32,11 +32,11 @@
       },
       {
         "line": [
-          "400 W Blackwell Street"
+          "10 CLIFTON BLVD STE 1"
         ],
-        "city": "DOVER",
+        "city": "CLIFTON",
         "state": "NJ",
-        "postalCode": "07801-2525"
+        "postalCode": "07011-3802"
       },
       {
         "line": [
@@ -48,11 +48,11 @@
       },
       {
         "line": [
-          "2 Kings Court"
+          "879 Rahway Avenue"
         ],
-        "city": "FLEMINGTON",
+        "city": "UNION",
         "state": "NJ",
-        "postalCode": "08822-6019"
+        "postalCode": "07083-6633"
       },
       {
         "line": [
@@ -72,11 +72,27 @@
       },
       {
         "line": [
-          "55 Madison Ave"
+          "2201 South Clinton Ave"
         ],
-        "city": "MORRISTOWN",
+        "city": "SOUTH PLAINFIELD",
         "state": "NJ",
-        "postalCode": "07960-7397"
+        "postalCode": "07080-1473"
+      },
+      {
+        "line": [
+          "400 W Blackwell Street"
+        ],
+        "city": "DOVER",
+        "state": "NJ",
+        "postalCode": "07801-2525"
+      },
+      {
+        "line": [
+          "2 Kings Court"
+        ],
+        "city": "FLEMINGTON",
+        "state": "NJ",
+        "postalCode": "08822-6019"
       },
       {
         "line": [
@@ -88,27 +104,11 @@
       },
       {
         "line": [
-          "879 Rahway Avenue"
+          "55 Madison Ave"
         ],
-        "city": "UNION",
+        "city": "MORRISTOWN",
         "state": "NJ",
-        "postalCode": "07083-6633"
-      },
-      {
-        "line": [
-          "10 CLIFTON BLVD STE 1"
-        ],
-        "city": "CLIFTON",
-        "state": "NJ",
-        "postalCode": "07011-3802"
-      },
-      {
-        "line": [
-          "348 E Northfield Road"
-        ],
-        "city": "LIVINGSTON",
-        "state": "NJ",
-        "postalCode": "07039-4812"
+        "postalCode": "07960-7397"
       },
       {
         "line": [
@@ -120,11 +120,11 @@
       },
       {
         "line": [
-          "2201 South Clinton Ave"
+          "348 E Northfield Road"
         ],
-        "city": "SOUTH PLAINFIELD",
+        "city": "LIVINGSTON",
         "state": "NJ",
-        "postalCode": "07080-1473"
+        "postalCode": "07039-4812"
       }
     ],
     "extension": [

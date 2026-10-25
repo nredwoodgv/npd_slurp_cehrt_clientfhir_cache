@@ -10,12 +10,20 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "098765"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "123456789"
       }
     ],
     "active": true,
     "name": "Natera Test Practice",
     "telecom": [
+      {
+        "system": "phone",
+        "value": "(555)555-5551"
+      },
       {
         "system": "phone",
         "value": "(555)555-5555"
@@ -26,7 +34,18 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "Foundation Cancer Center (Test Patients)"
+          "1 Wall Street"
+        ],
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10001",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "Cancer Center (Test Patients)"
         ],
         "city": "Cambridge",
         "state": "MA",

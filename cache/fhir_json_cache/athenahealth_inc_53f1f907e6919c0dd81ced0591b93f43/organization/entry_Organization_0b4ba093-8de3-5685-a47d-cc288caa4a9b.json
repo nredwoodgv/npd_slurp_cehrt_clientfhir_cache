@@ -14,19 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255620555"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346539640"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1598061293"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942506647"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,22 +26,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1255620555"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1346539640"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629374327"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1083903389"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1942506647"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1410 W WILLOW RD"
-        ],
-        "city": "ENID",
-        "state": "OK",
-        "postalCode": "73703-2509"
-      },
       {
         "line": [
           "1307 R D MILLER DRIVE"
@@ -61,6 +53,14 @@
         "city": "OKMULGEE",
         "state": "OK",
         "postalCode": "74447-6366"
+      },
+      {
+        "line": [
+          "1410 W WILLOW RD"
+        ],
+        "city": "ENID",
+        "state": "OK",
+        "postalCode": "73703-2509"
       }
     ],
     "extension": [

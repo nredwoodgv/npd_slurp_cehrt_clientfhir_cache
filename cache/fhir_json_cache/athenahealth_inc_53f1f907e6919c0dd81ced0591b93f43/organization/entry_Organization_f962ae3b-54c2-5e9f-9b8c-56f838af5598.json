@@ -18,10 +18,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578157970"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396775367"
       },
       {
@@ -30,82 +26,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1497349963"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578157970"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1801888987"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417137068"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497349963"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2901 EMRICK BLVD SUITE 102"
-        ],
-        "city": "BETHLEHEM",
-        "state": "PA",
-        "postalCode": "18020-8017"
-      },
-      {
-        "line": [
-          "4652 Broadway"
-        ],
-        "city": "ALLENTOWN",
-        "state": "PA",
-        "postalCode": "18104-2401"
-      },
-      {
-        "line": [
-          "2045 Westgate Dr STE 101"
-        ],
-        "city": "BETHLEHEM",
-        "state": "PA",
-        "postalCode": "18017-7480"
-      },
-      {
-        "line": [
-          "667 N River Street"
-        ],
-        "city": "WILKES BARRE",
-        "state": "PA",
-        "postalCode": "18705-1026"
-      },
-      {
-        "line": [
-          "250 CETRONIA ROAD"
-        ],
-        "city": "ALLENTOWN",
-        "state": "PA",
-        "postalCode": "18104-9147"
-      },
-      {
-        "line": [
-          "724 Delaware Avenue"
-        ],
-        "city": "BETHLEHEM",
-        "state": "PA",
-        "postalCode": "18015-1108"
-      },
-      {
-        "line": [
-          "1241 BLAKESLEE BLVD DRIVE E"
-        ],
-        "city": "LEHIGHTON",
-        "state": "PA",
-        "postalCode": "18235-2401"
-      },
-      {
-        "line": [
-          "2085 Westgate Drive"
-        ],
-        "city": "BETHLEHEM",
-        "state": "PA",
-        "postalCode": "18017-7412"
-      },
       {
         "line": [
           "2021 WESTGATE DRIVE",
@@ -125,11 +61,27 @@
       },
       {
         "line": [
-          "7096 DECATUR STREET"
+          "2901 EMRICK BLVD SUITE 102"
         ],
-        "city": "NEW TRIPOLI",
+        "city": "BETHLEHEM",
         "state": "PA",
-        "postalCode": "18066-3815"
+        "postalCode": "18020-8017"
+      },
+      {
+        "line": [
+          "250 CETRONIA ROAD"
+        ],
+        "city": "ALLENTOWN",
+        "state": "PA",
+        "postalCode": "18104-9147"
+      },
+      {
+        "line": [
+          "724 Delaware Avenue"
+        ],
+        "city": "BETHLEHEM",
+        "state": "PA",
+        "postalCode": "18015-1108"
       },
       {
         "line": [
@@ -138,6 +90,54 @@
         "city": "ALLENTOWN",
         "state": "PA",
         "postalCode": "18104-5708"
+      },
+      {
+        "line": [
+          "4652 Broadway"
+        ],
+        "city": "ALLENTOWN",
+        "state": "PA",
+        "postalCode": "18104-2401"
+      },
+      {
+        "line": [
+          "2045 Westgate Dr STE 101"
+        ],
+        "city": "BETHLEHEM",
+        "state": "PA",
+        "postalCode": "18017-7480"
+      },
+      {
+        "line": [
+          "7096 DECATUR STREET"
+        ],
+        "city": "NEW TRIPOLI",
+        "state": "PA",
+        "postalCode": "18066-3815"
+      },
+      {
+        "line": [
+          "2085 Westgate Drive"
+        ],
+        "city": "BETHLEHEM",
+        "state": "PA",
+        "postalCode": "18017-7412"
+      },
+      {
+        "line": [
+          "1241 BLAKESLEE BLVD DRIVE E"
+        ],
+        "city": "LEHIGHTON",
+        "state": "PA",
+        "postalCode": "18235-2401"
+      },
+      {
+        "line": [
+          "667 N River Street"
+        ],
+        "city": "WILKES BARRE",
+        "state": "PA",
+        "postalCode": "18705-1026"
       }
     ],
     "extension": [

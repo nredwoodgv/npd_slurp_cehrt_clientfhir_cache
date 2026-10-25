@@ -14,14 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578126306"
+        "value": "1528542107"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528542107"
+        "value": "1578126306"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3825 Leonardtown Rd",
+          "Suite 8"
+        ],
+        "city": "WALDORF",
+        "state": "MD",
+        "postalCode": "20601-3693"
+      },
       {
         "line": [
           "3825 Leonardtown Rd",
@@ -39,15 +48,6 @@
         "city": "WALDORF",
         "state": "MD",
         "postalCode": "20601-9999"
-      },
-      {
-        "line": [
-          "3825 Leonardtown Rd",
-          "Suite 8"
-        ],
-        "city": "WALDORF",
-        "state": "MD",
-        "postalCode": "20601-3693"
       }
     ],
     "extension": [

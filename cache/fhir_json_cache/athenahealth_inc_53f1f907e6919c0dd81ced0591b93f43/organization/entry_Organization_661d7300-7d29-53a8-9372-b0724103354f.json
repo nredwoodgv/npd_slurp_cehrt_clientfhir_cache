@@ -14,11 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215287362"
+        "value": "1487902995"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1073861431"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215287362"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -27,10 +31,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730437245"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487902995"
       }
     ],
     "address": [
@@ -44,11 +44,11 @@
       },
       {
         "line": [
-          "3401 LUDINGTON ST"
+          "901 LAKESHORE DR"
         ],
-        "city": "ESCANABA",
+        "city": "ISHPEMING",
         "state": "MI",
-        "postalCode": "49829-1300"
+        "postalCode": "49849-1367"
       },
       {
         "line": [
@@ -60,11 +60,11 @@
       },
       {
         "line": [
-          "901 LAKESHORE DR"
+          "3401 LUDINGTON ST"
         ],
-        "city": "ISHPEMING",
+        "city": "ESCANABA",
         "state": "MI",
-        "postalCode": "49849-1367"
+        "postalCode": "49829-1300"
       },
       {
         "line": [

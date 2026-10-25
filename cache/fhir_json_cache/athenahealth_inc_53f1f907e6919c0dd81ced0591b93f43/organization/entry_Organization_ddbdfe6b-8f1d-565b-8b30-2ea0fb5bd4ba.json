@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144252859"
+        "value": "1972922920"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972922920"
+        "value": "1144252859"
       }
     ],
     "address": [
-      {
-        "line": [
-          "10750 Columbia Pike",
-          "Suite 700"
-        ],
-        "city": "SILVER SPRING",
-        "state": "MD",
-        "postalCode": "20901-4461"
-      },
       {
         "line": [
           "12240 INDIAN CREEK CT # 130"
@@ -42,6 +33,15 @@
       {
         "line": [
           "10750 Columbia Pike 700"
+        ],
+        "city": "SILVER SPRING",
+        "state": "MD",
+        "postalCode": "20901-4461"
+      },
+      {
+        "line": [
+          "10750 Columbia Pike",
+          "Suite 700"
         ],
         "city": "SILVER SPRING",
         "state": "MD",

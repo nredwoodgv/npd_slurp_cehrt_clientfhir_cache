@@ -18,23 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,7 +26,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
+        "value": "1215999511"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669801585"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750302923"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881656247"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,29 +46,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
+        "value": "1053373951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730484031"
       }
     ],
     "address": [
       {
         "line": [
-          "3201 Corsicana Crossing Blvd Ste 101"
+          "3201 CORSICANA CROSSINGS BLVD",
+          "ste 101"
         ],
         "city": "CORSICANA",
         "state": "TX",
-        "postalCode": "75109-1230"
+        "postalCode": "75110-9302"
       },
       {
         "line": [
-          "800 E DAWSON ST"
-        ],
-        "city": "TYLER",
-        "state": "TX",
-        "postalCode": "75701-2036"
-      },
-      {
-        "line": [
-          "400 Hospital Dr Ste 208"
+          "400 HOSPITAL DR",
+          "STE 200"
         ],
         "city": "CORSICANA",
         "state": "TX",
@@ -80,19 +74,11 @@
       },
       {
         "line": [
-          "201 NORTH HOUSTON AVENUE"
+          "900 GEORGE HOPPER RD"
         ],
-        "city": "STREETMAN",
+        "city": "MIDLOTHIAN",
         "state": "TX",
-        "postalCode": "75859-9999"
-      },
-      {
-        "line": [
-          "3001 W 4TH AVE"
-        ],
-        "city": "CORSICANA",
-        "state": "TX",
-        "postalCode": "75110-3913"
+        "postalCode": "76065-5509"
       },
       {
         "line": [
@@ -104,8 +90,7 @@
       },
       {
         "line": [
-          "400 HOSPITAL DR",
-          "STE 200"
+          "400 Hospital Dr Ste 208"
         ],
         "city": "CORSICANA",
         "state": "TX",
@@ -129,19 +114,11 @@
       },
       {
         "line": [
-          "4000 MERIDIAN"
+          "301 HOSPITAL DR STE 170"
         ],
-        "city": "FRANKLIN",
-        "state": "TN",
-        "postalCode": "37067-6325"
-      },
-      {
-        "line": [
-          "205 PARK ST"
-        ],
-        "city": "TRINIDAD",
+        "city": "CORSICANA",
         "state": "TX",
-        "postalCode": "75163-6116"
+        "postalCode": "75110-2471"
       },
       {
         "line": [
@@ -153,11 +130,43 @@
       },
       {
         "line": [
-          "900 GEORGE HOPPER RD"
+          "2500 YORLSTOWN DR"
         ],
-        "city": "MIDLOTHIAN",
+        "city": "ENNIS",
         "state": "TX",
-        "postalCode": "76065-5509"
+        "postalCode": "75119-2199"
+      },
+      {
+        "line": [
+          "3201 Corsicana Crossing Blvd Ste 101"
+        ],
+        "city": "CORSICANA",
+        "state": "TX",
+        "postalCode": "75109-1230"
+      },
+      {
+        "line": [
+          "201 NORTH HOUSTON AVENUE"
+        ],
+        "city": "STREETMAN",
+        "state": "TX",
+        "postalCode": "75859-9999"
+      },
+      {
+        "line": [
+          "205 PARK ST"
+        ],
+        "city": "TRINIDAD",
+        "state": "TX",
+        "postalCode": "75163-6116"
+      },
+      {
+        "line": [
+          "4000 MERIDIAN"
+        ],
+        "city": "FRANKLIN",
+        "state": "TN",
+        "postalCode": "37067-6325"
       },
       {
         "line": [
@@ -169,28 +178,19 @@
       },
       {
         "line": [
-          "2500 YORLSTOWN DR"
-        ],
-        "city": "ENNIS",
-        "state": "TX",
-        "postalCode": "75119-2199"
-      },
-      {
-        "line": [
-          "3201 CORSICANA CROSSINGS BLVD",
-          "ste 101"
+          "3001 W 4TH AVE"
         ],
         "city": "CORSICANA",
         "state": "TX",
-        "postalCode": "75110-9302"
+        "postalCode": "75110-3913"
       },
       {
         "line": [
-          "301 HOSPITAL DR STE 170"
+          "800 E DAWSON ST"
         ],
-        "city": "CORSICANA",
+        "city": "TYLER",
         "state": "TX",
-        "postalCode": "75110-2471"
+        "postalCode": "75701-2036"
       }
     ],
     "extension": [

@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568858686"
+        "value": "1942254347"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942254347"
+        "value": "1568858686"
       }
     ],
     "address": [
+      {
+        "line": [
+          "375 Mount Pleasant"
+        ],
+        "city": "WEST ORANGE",
+        "state": "NJ",
+        "postalCode": "07052-2750"
+      },
       {
         "line": [
           "7 E Clinton St"
@@ -37,46 +45,6 @@
         "city": "RAHWAY",
         "state": "NJ",
         "postalCode": "07065-3512"
-      },
-      {
-        "line": [
-          "175 Righter Road"
-        ],
-        "city": "SUCCASUNNA",
-        "state": "NJ",
-        "postalCode": "07876-1324"
-      },
-      {
-        "line": [
-          "375 Mount Pleasant"
-        ],
-        "city": "WEST ORANGE",
-        "state": "NJ",
-        "postalCode": "07052-2750"
-      },
-      {
-        "line": [
-          "1260 US HIGHWAY 22"
-        ],
-        "city": "PLAINFIELD",
-        "state": "NJ",
-        "postalCode": "07060-3518"
-      },
-      {
-        "line": [
-          "900 Lanidex Plaza"
-        ],
-        "city": "PARSIPPANY",
-        "state": "NJ",
-        "postalCode": "07054-2707"
-      },
-      {
-        "line": [
-          "29 MERIDAN ROAD"
-        ],
-        "city": "EDISON",
-        "state": "NJ",
-        "postalCode": "08820-2823"
       },
       {
         "line": [
@@ -96,6 +64,14 @@
       },
       {
         "line": [
+          "434-436 Broadway"
+        ],
+        "city": "BAYONNE",
+        "state": "NJ",
+        "postalCode": "07002-3628"
+      },
+      {
+        "line": [
           "241 Durham Ave"
         ],
         "city": "SOUTH PLAINFIELD",
@@ -104,11 +80,11 @@
       },
       {
         "line": [
-          "2121 ROUTE  22 W"
+          "29 MERIDAN ROAD"
         ],
-        "city": "BOUND BROOK",
+        "city": "EDISON",
         "state": "NJ",
-        "postalCode": "08805-1546"
+        "postalCode": "08820-2823"
       },
       {
         "line": [
@@ -120,6 +96,22 @@
       },
       {
         "line": [
+          "900 Lanidex Plaza"
+        ],
+        "city": "PARSIPPANY",
+        "state": "NJ",
+        "postalCode": "07054-2707"
+      },
+      {
+        "line": [
+          "175 Righter Road"
+        ],
+        "city": "SUCCASUNNA",
+        "state": "NJ",
+        "postalCode": "07876-1324"
+      },
+      {
+        "line": [
           "1200 RANDOLPH ROAD"
         ],
         "city": "PLAINFIELD",
@@ -128,11 +120,19 @@
       },
       {
         "line": [
-          "434-436 Broadway"
+          "2121 ROUTE  22 W"
         ],
-        "city": "BAYONNE",
+        "city": "BOUND BROOK",
         "state": "NJ",
-        "postalCode": "07002-3628"
+        "postalCode": "08805-1546"
+      },
+      {
+        "line": [
+          "1260 US HIGHWAY 22"
+        ],
+        "city": "PLAINFIELD",
+        "state": "NJ",
+        "postalCode": "07060-3518"
       },
       {
         "line": [

@@ -14,19 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538883111"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396481255"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568169845"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962112326"
+        "value": "1831804699"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215647441"
+        "value": "1023733359"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,11 +30,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245950757"
+        "value": "1215647441"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831804699"
+        "value": "1396481255"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1871218511"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962112326"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245950757"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,11 +58,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023733359"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730804477"
+        "value": "1568169845"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -70,44 +66,39 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871218511"
+        "value": "1538883111"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730804477"
       }
     ],
     "address": [
       {
         "line": [
-          "4720 Salisbury Rd"
+          "500 Marquette Ave NW",
+          "STE 1200"
         ],
-        "city": "JACKSONVILLE",
-        "state": "FL",
-        "postalCode": "32256-6101"
+        "city": "ALBUQUERQUE",
+        "state": "NM",
+        "postalCode": "87102-5312"
       },
       {
         "line": [
-          "101 Park Ave",
-          "STE 1300"
+          "5410 MARYLAND WAY"
         ],
-        "city": "OKLAHOMA CITY",
-        "state": "OK",
-        "postalCode": "73102-7216"
+        "city": "BRENTWOOD",
+        "state": "TN",
+        "postalCode": "37027-5064"
       },
       {
         "line": [
-          "50 Fountain Plaza",
-          "Suite 1400"
+          "8354 Northfield Blvd",
+          "Suite 3700"
         ],
-        "city": "BUFFALO",
-        "state": "NY",
-        "postalCode": "14202-2215"
-      },
-      {
-        "line": [
-          "1200 G St NW",
-          "Suite 800"
-        ],
-        "city": "WASHINGTON",
-        "state": "DC",
-        "postalCode": "20005-6705"
+        "city": "DENVER",
+        "state": "CO",
+        "postalCode": "80238-3135"
       },
       {
         "line": [
@@ -116,15 +107,6 @@
         "city": "MORGANTOWN",
         "state": "WV",
         "postalCode": "26508-9273"
-      },
-      {
-        "line": [
-          "200 Continental Dr",
-          "Suite 401"
-        ],
-        "city": "NEWARK",
-        "state": "DE",
-        "postalCode": "19713-4337"
       },
       {
         "line": [
@@ -137,30 +119,12 @@
       },
       {
         "line": [
-          "333 City Blvd W",
-          "Suite 362"
+          "200 Continental Dr",
+          "Suite 401"
         ],
-        "city": "ORANGE",
-        "state": "CA",
-        "postalCode": "92868-2972"
-      },
-      {
-        "line": [
-          "1603 Capitol Ave",
-          "Suite 403"
-        ],
-        "city": "CHEYENNE",
-        "state": "WY",
-        "postalCode": "82001-4562"
-      },
-      {
-        "line": [
-          "500 Marquette Ave NW",
-          "STE 1200"
-        ],
-        "city": "ALBUQUERQUE",
-        "state": "NM",
-        "postalCode": "87102-5312"
+        "city": "NEWARK",
+        "state": "DE",
+        "postalCode": "19713-4337"
       },
       {
         "line": [
@@ -173,11 +137,56 @@
       },
       {
         "line": [
-          "5410 MARYLAND WAY"
+          "7500 College Blvd",
+          "5th Floor"
         ],
-        "city": "BRENTWOOD",
-        "state": "TN",
-        "postalCode": "37027-5064"
+        "city": "OVERLAND PARK",
+        "state": "KS",
+        "postalCode": "66210-4043"
+      },
+      {
+        "line": [
+          "708 MAIN ST FL 10"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77002-3246"
+      },
+      {
+        "line": [
+          "1200 G St NW",
+          "Suite 800"
+        ],
+        "city": "WASHINGTON",
+        "state": "DC",
+        "postalCode": "20005-6705"
+      },
+      {
+        "line": [
+          "101 Park Ave",
+          "STE 1300"
+        ],
+        "city": "OKLAHOMA CITY",
+        "state": "OK",
+        "postalCode": "73102-7216"
+      },
+      {
+        "line": [
+          "1603 Capitol Ave",
+          "Suite 403"
+        ],
+        "city": "CHEYENNE",
+        "state": "WY",
+        "postalCode": "82001-4562"
+      },
+      {
+        "line": [
+          "333 City Blvd W",
+          "Suite 362"
+        ],
+        "city": "ORANGE",
+        "state": "CA",
+        "postalCode": "92868-2972"
       },
       {
         "line": [
@@ -199,29 +208,12 @@
       },
       {
         "line": [
-          "8354 Northfield Blvd",
-          "Suite 3700"
+          "50 Fountain Plaza",
+          "Suite 1400"
         ],
-        "city": "DENVER",
-        "state": "CO",
-        "postalCode": "80238-3135"
-      },
-      {
-        "line": [
-          "2810 Crossroads Dr",
-          "Suite 4000"
-        ],
-        "city": "MADISON",
-        "state": "WI",
-        "postalCode": "53718-8014"
-      },
-      {
-        "line": [
-          "708 MAIN ST FL 10"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77002-3246"
+        "city": "BUFFALO",
+        "state": "NY",
+        "postalCode": "14202-2215"
       },
       {
         "line": [
@@ -234,12 +226,20 @@
       },
       {
         "line": [
-          "7500 College Blvd",
-          "5th Floor"
+          "4720 Salisbury Rd"
         ],
-        "city": "OVERLAND PARK",
-        "state": "KS",
-        "postalCode": "66210-4043"
+        "city": "JACKSONVILLE",
+        "state": "FL",
+        "postalCode": "32256-6101"
+      },
+      {
+        "line": [
+          "2810 Crossroads Dr",
+          "Suite 4000"
+        ],
+        "city": "MADISON",
+        "state": "WI",
+        "postalCode": "53718-8014"
       }
     ],
     "extension": [

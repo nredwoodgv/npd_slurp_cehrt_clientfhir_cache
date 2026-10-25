@@ -14,22 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386939668"
+        "value": "1386163822"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386163822"
+        "value": "1386939668"
       }
     ],
     "address": [
       {
         "line": [
-          "113 SHORT ST",
-          "STE 8"
+          "1368 AMERICAN WAY CT."
         ],
-        "city": "POUNDING MILL",
+        "city": "BEDFORD",
         "state": "VA",
-        "postalCode": "24637-4278"
+        "postalCode": "24523-2940"
       },
       {
         "line": [
@@ -41,11 +40,12 @@
       },
       {
         "line": [
-          "1368 AMERICAN WAY CT."
+          "113 SHORT ST",
+          "STE 8"
         ],
-        "city": "BEDFORD",
+        "city": "POUNDING MILL",
         "state": "VA",
-        "postalCode": "24523-2940"
+        "postalCode": "24637-4278"
       }
     ],
     "extension": [

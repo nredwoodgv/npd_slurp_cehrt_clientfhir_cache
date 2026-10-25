@@ -18,49 +18,18 @@
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
+        "value": "36D0931053"
+      },
+      {
+        "system": "urn:oid:2.16.840.1.113883.4.7",
         "value": "36D0327316"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
         "value": "36D0931052"
-      },
-      {
-        "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "36D0931053"
       }
     ],
     "address": [
-      {
-        "line": [
-          "7500 Hospital Drive"
-        ],
-        "city": "DUBLIN",
-        "state": "OH",
-        "postalCode": "43016-8518"
-      },
-      {
-        "line": [],
-        "city": "DUBLIN",
-        "state": "OH",
-        "postalCode": "43016-1212"
-      },
-      {
-        "line": [
-          "3535 Olentangy River Road"
-        ],
-        "city": "COLUMBUS",
-        "state": "OH",
-        "postalCode": "43214-3908"
-      },
-      {
-        "line": [
-          "484 County Line Road West",
-          "Suite 230"
-        ],
-        "city": "Westerville",
-        "state": "OH",
-        "postalCode": "43082-7080"
-      },
       {
         "line": [
           "921 B JasonwayAvenue"
@@ -79,9 +48,40 @@
       },
       {
         "line": [],
+        "city": "DUBLIN",
+        "state": "OH",
+        "postalCode": "43016-1212"
+      },
+      {
+        "line": [],
         "city": "COLUMBUS",
         "state": "OH",
         "postalCode": "43214-1111"
+      },
+      {
+        "line": [
+          "7500 Hospital Drive"
+        ],
+        "city": "DUBLIN",
+        "state": "OH",
+        "postalCode": "43016-8518"
+      },
+      {
+        "line": [
+          "3535 Olentangy River Road"
+        ],
+        "city": "COLUMBUS",
+        "state": "OH",
+        "postalCode": "43214-3908"
+      },
+      {
+        "line": [
+          "484 County Line Road West",
+          "Suite 230"
+        ],
+        "city": "Westerville",
+        "state": "OH",
+        "postalCode": "43082-7080"
       }
     ],
     "extension": [

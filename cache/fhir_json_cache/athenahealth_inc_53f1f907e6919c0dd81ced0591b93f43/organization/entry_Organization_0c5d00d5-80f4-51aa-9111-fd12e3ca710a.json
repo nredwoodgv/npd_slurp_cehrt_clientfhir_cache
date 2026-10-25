@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831665074"
+        "value": "1821548215"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821548215"
+        "value": "1831665074"
       }
     ],
     "address": [
+      {
+        "line": [
+          "432 E GRAND AVE STE C"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60611-1314"
+      },
       {
         "line": [
           "1845 S Michigan Ave"
@@ -32,15 +40,15 @@
       },
       {
         "line": [
-          "432 E GRAND AVE STE A"
+          "3 Erie St"
         ],
-        "city": "CHICAGO",
+        "city": "OAK PARK",
         "state": "IL",
-        "postalCode": "60611-1314"
+        "postalCode": "60302-1000"
       },
       {
         "line": [
-          "432 E GRAND AVE STE C"
+          "432 E GRAND AVE STE A"
         ],
         "city": "CHICAGO",
         "state": "IL",
@@ -62,14 +70,6 @@
         "city": "CHICAGO",
         "state": "IL",
         "postalCode": "60616-1603"
-      },
-      {
-        "line": [
-          "3 Erie St"
-        ],
-        "city": "OAK PARK",
-        "state": "IL",
-        "postalCode": "60302-1000"
       }
     ],
     "extension": [

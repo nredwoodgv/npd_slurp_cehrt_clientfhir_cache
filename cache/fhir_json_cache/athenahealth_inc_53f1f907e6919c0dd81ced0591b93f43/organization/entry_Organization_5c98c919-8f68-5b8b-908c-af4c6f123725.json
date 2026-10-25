@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790990505"
+        "value": "1124460621"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124460621"
+        "value": "1790990505"
       }
     ],
     "address": [
+      {
+        "line": [
+          "12200 ANNAPOLIS RD; SUITE 116"
+        ],
+        "city": "GLENN DALE",
+        "state": "MD",
+        "postalCode": "20769-9182"
+      },
       {
         "line": [
           "12200 Annapolis Rd",
@@ -41,19 +49,12 @@
       },
       {
         "line": [
-          "12200 ANNAPOLIS RD; SUITE 116"
-        ],
-        "city": "GLENN DALE",
-        "state": "MD",
-        "postalCode": "20769-9182"
-      },
-      {
-        "line": [
-          "14999 Health Ctr Dr"
+          "17001 Science Dr",
+          "Suite 114"
         ],
         "city": "BOWIE",
         "state": "MD",
-        "postalCode": "20716-1073"
+        "postalCode": "20715-4329"
       },
       {
         "line": [
@@ -65,12 +66,11 @@
       },
       {
         "line": [
-          "17001 Science Dr",
-          "Suite 114"
+          "14999 Health Ctr Dr"
         ],
         "city": "BOWIE",
         "state": "MD",
-        "postalCode": "20715-4329"
+        "postalCode": "20716-1073"
       }
     ],
     "extension": [

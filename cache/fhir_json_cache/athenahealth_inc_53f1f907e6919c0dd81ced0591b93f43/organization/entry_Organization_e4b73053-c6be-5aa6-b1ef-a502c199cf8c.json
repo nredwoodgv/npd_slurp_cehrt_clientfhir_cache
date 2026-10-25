@@ -14,11 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730972944"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1013700228"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659152726"
+        "value": "1023801230"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,15 +30,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1710768882"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1659152726"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649051715"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710753066"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730972944"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,10 +50,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679366843"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1558133587"
       },
       {
@@ -58,15 +58,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710768882"
+        "value": "1710753066"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1679366843"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1164203238"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023801230"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -80,12 +80,12 @@
     "address": [
       {
         "line": [
-          "7 Neshaminy Interplex",
-          "Ste 411"
+          "1489 Baltimore Pike",
+          "Bldg. 200, Stes 245, 250, 260"
         ],
-        "city": "Trevose",
+        "city": "Springfield",
         "state": "PA",
-        "postalCode": "19053-6976"
+        "postalCode": "19064-3958"
       },
       {
         "line": [
@@ -106,39 +106,12 @@
       },
       {
         "line": [
-          "1489 Baltimore Pike",
-          "Bldg. 200, Stes 245, 250, 260"
-        ],
-        "city": "Springfield",
-        "state": "PA",
-        "postalCode": "19064-3958"
-      },
-      {
-        "line": [
           "1420 Walnut Street",
           "Ste 802"
         ],
         "city": "Philadelphia",
         "state": "PA",
         "postalCode": "19102-4008"
-      },
-      {
-        "line": [
-          "770 E Market St",
-          "Ste 135"
-        ],
-        "city": "West Chester",
-        "state": "PA",
-        "postalCode": "19382-4896"
-      },
-      {
-        "line": [
-          "920 West Chester Pike",
-          "Lower Floor"
-        ],
-        "city": "Havertown",
-        "state": "PA",
-        "postalCode": "19083-4415"
       },
       {
         "line": [
@@ -151,6 +124,15 @@
       },
       {
         "line": [
+          "1120 Welsh Rd",
+          "Ste 120"
+        ],
+        "city": "North Wales",
+        "state": "PA",
+        "postalCode": "19454-3794"
+      },
+      {
+        "line": [
           "491 Allendale Rd",
           "Ste 320"
         ],
@@ -160,12 +142,30 @@
       },
       {
         "line": [
-          "1120 Welsh Rd",
-          "Ste 120"
+          "7 Neshaminy Interplex",
+          "Ste 411"
         ],
-        "city": "North Wales",
+        "city": "Trevose",
         "state": "PA",
-        "postalCode": "19454-3794"
+        "postalCode": "19053-6976"
+      },
+      {
+        "line": [
+          "920 West Chester Pike",
+          "Lower Floor"
+        ],
+        "city": "Havertown",
+        "state": "PA",
+        "postalCode": "19083-4415"
+      },
+      {
+        "line": [
+          "770 E Market St",
+          "Ste 135"
+        ],
+        "city": "West Chester",
+        "state": "PA",
+        "postalCode": "19382-4896"
       }
     ],
     "extension": [

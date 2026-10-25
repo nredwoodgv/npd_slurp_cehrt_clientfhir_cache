@@ -18,15 +18,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992752224"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1528782042"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396782363"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992752224"
       }
     ],
     "address": [
@@ -50,7 +50,7 @@
       {
         "line": [
           "800 North 1st Street",
-          "Lower Level"
+          "3rd Floor"
         ],
         "city": "SPRINGFIELD",
         "state": "IL",
@@ -68,7 +68,7 @@
       {
         "line": [
           "800 North 1st Street",
-          "3rd Floor"
+          "4th Floor"
         ],
         "city": "SPRINGFIELD",
         "state": "IL",
@@ -77,7 +77,7 @@
       {
         "line": [
           "800 North 1st Street",
-          "4th Floor"
+          "Lower Level"
         ],
         "city": "SPRINGFIELD",
         "state": "IL",

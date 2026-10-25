@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659861060"
+        "value": "1548342181"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548342181"
+        "value": "1659861060"
       }
     ],
     "address": [
-      {
-        "line": [
-          "520 N 4th Ave"
-        ],
-        "city": "PASCO",
-        "state": "WA",
-        "postalCode": "99301-2568"
-      },
       {
         "line": [
           "520 North 4th Avenue"
@@ -40,19 +32,11 @@
       },
       {
         "line": [
-          "3810 Plaza Way"
-        ],
-        "city": "KENNEWICK",
-        "state": "WA",
-        "postalCode": "99338-2718"
-      },
-      {
-        "line": [
-          "1200 N 14th Ave Ste 285"
+          "520 N 4th Ave"
         ],
         "city": "PASCO",
         "state": "WA",
-        "postalCode": "99301-4195"
+        "postalCode": "99301-2568"
       },
       {
         "line": [
@@ -69,6 +53,22 @@
         "city": "KENNEWICK",
         "state": "WA",
         "postalCode": "99338-2718"
+      },
+      {
+        "line": [
+          "3810 Plaza Way"
+        ],
+        "city": "KENNEWICK",
+        "state": "WA",
+        "postalCode": "99338-2718"
+      },
+      {
+        "line": [
+          "1200 N 14th Ave Ste 285"
+        ],
+        "city": "PASCO",
+        "state": "WA",
+        "postalCode": "99301-4195"
       }
     ],
     "extension": [

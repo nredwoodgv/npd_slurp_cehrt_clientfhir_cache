@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902043433"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598929135"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1437194669"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902043433"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,14 +26,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033294673"
+        "value": "1396798302"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396798302"
+        "value": "1598929135"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033294673"
       }
     ],
     "address": [
+      {
+        "line": [
+          "4777 Andrew Jackson Pkwy",
+          "Suite 102"
+        ],
+        "city": "Hermitage",
+        "state": "TN",
+        "postalCode": "37076-1356"
+      },
       {
         "line": [
           "4777 Andrew Jackson Parkway",
@@ -54,15 +63,6 @@
         "city": "HERMITAGE",
         "state": "TN",
         "postalCode": "37076-2054"
-      },
-      {
-        "line": [
-          "4777 Andrew Jackson Pkwy",
-          "Suite 102"
-        ],
-        "city": "Hermitage",
-        "state": "TN",
-        "postalCode": "37076-1356"
       }
     ],
     "extension": [

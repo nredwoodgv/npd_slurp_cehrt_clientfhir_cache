@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073567483"
+        "value": "1508810920"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,26 +22,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508810920"
+        "value": "1073567483"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2100 Madison Ave."
-        ],
-        "city": "GRANITE CITY",
-        "state": "IL",
-        "postalCode": "62040-4701"
-      },
-      {
-        "line": [
-          "2100 Madison Avenue"
-        ],
-        "city": "GRANITE CITY",
-        "state": "IL",
-        "postalCode": "62040-4701"
-      },
       {
         "line": [
           "2100 Madison Ave."
@@ -60,6 +44,14 @@
       },
       {
         "line": [
+          "2100 Madison Ave."
+        ],
+        "city": "GRANITE CITY",
+        "state": "IL",
+        "postalCode": "62040-4701"
+      },
+      {
+        "line": [
           "2100 Madison Ave"
         ],
         "city": "GRANITE CITY",
@@ -73,6 +65,14 @@
         "city": "EDWARDSVILLE",
         "state": "IL",
         "postalCode": "62025-5582"
+      },
+      {
+        "line": [
+          "2100 Madison Avenue"
+        ],
+        "city": "GRANITE CITY",
+        "state": "IL",
+        "postalCode": "62040-4701"
       }
     ],
     "extension": [

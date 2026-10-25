@@ -14,11 +14,27 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649051715"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1811778988"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679366843"
+        "value": "1922870955"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831970904"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1164203238"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1710768882"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,11 +42,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023801230"
+        "value": "1710753066"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003688037"
+        "value": "1023801230"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,27 +58,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710768882"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922870955"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235811787"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164203238"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649051715"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710753066"
+        "value": "1730972944"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -70,11 +66,31 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831970904"
+        "value": "1235811787"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730972944"
+        "value": "1679366843"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1003688037"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154200970"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1043083595"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124907951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326810086"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -83,22 +99,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1790679264"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043083595"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154200970"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326810086"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124907951"
       }
     ],
     "address": [
@@ -112,12 +112,30 @@
       },
       {
         "line": [
+          "101 Cambridge St",
+          "Ste 230"
+        ],
+        "city": "Burlington",
+        "state": "MA",
+        "postalCode": "01803-3767"
+      },
+      {
+        "line": [
           "40 Shattuck Rd",
           "Ste 250"
         ],
         "city": "Andover",
         "state": "MA",
         "postalCode": "01810-2492"
+      },
+      {
+        "line": [
+          "500 Cummings Center",
+          "Ste 3100"
+        ],
+        "city": "BEVERLY",
+        "state": "MA",
+        "postalCode": "01915-6540"
       },
       {
         "line": [
@@ -130,24 +148,6 @@
       },
       {
         "line": [
-          "255 Low St",
-          "Ste 302"
-        ],
-        "city": "Newburyport",
-        "state": "MA",
-        "postalCode": "01950-3596"
-      },
-      {
-        "line": [
-          "101 Cambridge St",
-          "Ste 230"
-        ],
-        "city": "Burlington",
-        "state": "MA",
-        "postalCode": "01803-3767"
-      },
-      {
-        "line": [
           "152 Sylvan St",
           "2A"
         ],
@@ -157,21 +157,21 @@
       },
       {
         "line": [
+          "255 Low St",
+          "Ste 302"
+        ],
+        "city": "Newburyport",
+        "state": "MA",
+        "postalCode": "01950-3596"
+      },
+      {
+        "line": [
           "4 Mount Royal Ave",
           "Ste 360"
         ],
         "city": "Marlborough",
         "state": "MA",
         "postalCode": "01752-1961"
-      },
-      {
-        "line": [
-          "500 Cummings Center",
-          "Ste 3100"
-        ],
-        "city": "BEVERLY",
-        "state": "MA",
-        "postalCode": "01915-6540"
       }
     ],
     "extension": [

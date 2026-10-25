@@ -22,7 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912421645"
+        "value": "1225723125"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1093401135"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,14 +34,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225723125"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093401135"
+        "value": "1912421645"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3490 E YUKON RD"
+        ],
+        "city": "ODESSA",
+        "state": "TX",
+        "postalCode": "79762-0123"
+      },
+      {
+        "line": [
+          "6950 EASTRIDGE RD"
+        ],
+        "city": "ODESSA",
+        "state": "TX",
+        "postalCode": "79765-6209"
+      },
       {
         "line": [
           "5514 N BIG SPRING ST"
@@ -56,27 +72,11 @@
       },
       {
         "line": [
-          "6950 EASTRIDGE RD"
+          "4705 BRIARWOOD AVE"
         ],
-        "city": "ODESSA",
+        "city": "MIDLAND",
         "state": "TX",
-        "postalCode": "79765-6209"
-      },
-      {
-        "line": [
-          "3490 E YUKON RD"
-        ],
-        "city": "ODESSA",
-        "state": "TX",
-        "postalCode": "79762-2010"
-      },
-      {
-        "line": [
-          "3490 E YUKON RD"
-        ],
-        "city": "ODESSA",
-        "state": "TX",
-        "postalCode": "79762-0123"
+        "postalCode": "79707-2639"
       },
       {
         "line": [
@@ -88,11 +88,11 @@
       },
       {
         "line": [
-          "4705 BRIARWOOD AVE"
+          "3490 E YUKON RD"
         ],
-        "city": "MIDLAND",
+        "city": "ODESSA",
         "state": "TX",
-        "postalCode": "79707-2639"
+        "postalCode": "79762-2010"
       }
     ],
     "extension": [

@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669702163"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1497982805"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1205875614"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669702163"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,11 +36,11 @@
     "address": [
       {
         "line": [
-          "1320 Bishop Randall drive"
+          "2100 West Sunset Drive"
         ],
-        "city": "LANDER",
+        "city": "RIVERTON",
         "state": "WY",
-        "postalCode": "82520-9999"
+        "postalCode": "82501-9999"
       },
       {
         "line": [
@@ -52,22 +52,6 @@
       },
       {
         "line": [
-          "2100 West Sunset"
-        ],
-        "city": "RIVERTON",
-        "state": "WY",
-        "postalCode": "82501-9999"
-      },
-      {
-        "line": [
-          "2100 West Sunset Driv"
-        ],
-        "city": "RIVERTON",
-        "state": "WY",
-        "postalCode": "82501-9999"
-      },
-      {
-        "line": [
           "2100 West Sunset Dr."
         ],
         "city": "RIVERTON",
@@ -76,7 +60,15 @@
       },
       {
         "line": [
-          "2100 West Sunset Drive"
+          "1320 Bishop Randall drive"
+        ],
+        "city": "LANDER",
+        "state": "WY",
+        "postalCode": "82520-9999"
+      },
+      {
+        "line": [
+          "2100 West Sunset"
         ],
         "city": "RIVERTON",
         "state": "WY",
@@ -89,6 +81,14 @@
         "city": "LANDER",
         "state": "WY",
         "postalCode": "82520-3425"
+      },
+      {
+        "line": [
+          "2100 West Sunset Driv"
+        ],
+        "city": "RIVERTON",
+        "state": "WY",
+        "postalCode": "82501-9999"
       }
     ],
     "extension": [

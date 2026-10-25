@@ -14,19 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285834986"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1891162962"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013334002"
+        "value": "1609201060"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609201060"
+        "value": "1285834986"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -35,16 +31,28 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1164439279"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013334002"
       }
     ],
     "address": [
       {
         "line": [
-          "2424 W Peterson ave"
+          "6301 N Western AVE"
         ],
         "city": "CHICAGO",
         "state": "IL",
         "postalCode": "60659-4100"
+      },
+      {
+        "line": [
+          "6301 N WESTERN AVE"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60659-2009"
       },
       {
         "line": [
@@ -56,11 +64,11 @@
       },
       {
         "line": [
-          "6301 N WESTERN AVE"
+          "2424 W Peterson ave"
         ],
         "city": "CHICAGO",
         "state": "IL",
-        "postalCode": "60659-2009"
+        "postalCode": "60659-4100"
       },
       {
         "line": [
@@ -80,19 +88,19 @@
       },
       {
         "line": [
-          "6301 N Western AVE"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60659-4100"
-      },
-      {
-        "line": [
           "2501 West Peterson Avenue"
         ],
         "city": "CHICAGO",
         "state": "IL",
         "postalCode": "60659-4128"
+      },
+      {
+        "line": [
+          "8321 W Golf Road"
+        ],
+        "city": "NILES",
+        "state": "IL",
+        "postalCode": "60714-1113"
       },
       {
         "line": [
@@ -105,14 +113,6 @@
       {
         "line": [
           "8321 West Golf Road"
-        ],
-        "city": "NILES",
-        "state": "IL",
-        "postalCode": "60714-1113"
-      },
-      {
-        "line": [
-          "8321 W Golf Road"
         ],
         "city": "NILES",
         "state": "IL",

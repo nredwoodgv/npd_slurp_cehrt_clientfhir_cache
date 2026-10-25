@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073054458"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1104496819"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1104367630"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073054458"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,20 +32,20 @@
     "address": [
       {
         "line": [
-          "2307 W BROWARD BLVD STE 200"
-        ],
-        "city": "FORT LAUDERDALE",
-        "state": "FL",
-        "postalCode": "33312-1420"
-      },
-      {
-        "line": [
           "3001 NW 49TH AVE",
           "STE 104"
         ],
         "city": "FORT LAUDERDALE",
         "state": "FL",
         "postalCode": "33313-7257"
+      },
+      {
+        "line": [
+          "2307 W BROWARD BLVD STE 200"
+        ],
+        "city": "FORT LAUDERDALE",
+        "state": "FL",
+        "postalCode": "33312-1420"
       },
       {
         "line": [

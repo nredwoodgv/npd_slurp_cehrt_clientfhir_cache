@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649516899"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1790736767"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1033438627"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649516899"
       }
     ],
     "address": [
@@ -36,11 +36,11 @@
       },
       {
         "line": [
-          "137 12TH ST"
+          "110 NE 5TH Street"
         ],
-        "city": "APALACHICOLA",
+        "city": "CARRABELLE",
         "state": "FL",
-        "postalCode": "32320-2110"
+        "postalCode": "32322-3529"
       },
       {
         "line": [
@@ -52,11 +52,11 @@
       },
       {
         "line": [
-          "110 NE 5TH Street"
+          "137 12TH ST"
         ],
-        "city": "CARRABELLE",
+        "city": "APALACHICOLA",
         "state": "FL",
-        "postalCode": "32322-3529"
+        "postalCode": "32320-2110"
       }
     ],
     "extension": [

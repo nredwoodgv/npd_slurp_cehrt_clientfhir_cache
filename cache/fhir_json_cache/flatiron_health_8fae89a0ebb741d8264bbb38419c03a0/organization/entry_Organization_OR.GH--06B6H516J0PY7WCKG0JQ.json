@@ -54,11 +54,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669416442"
+        "value": "1609823004"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609823004"
+        "value": "1669416442"
       }
     ],
     "active": true,
@@ -126,11 +126,11 @@
       },
       {
         "system": "phone",
-        "value": "(000)000-0000"
+        "value": "(410)339-1680"
       },
       {
         "system": "phone",
-        "value": "(410)339-1680"
+        "value": "(865)410-7177"
       }
     ],
     "address": [
@@ -350,6 +350,17 @@
         "city": "Towson",
         "state": "MD",
         "postalCode": "21204",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "9245 Park West Blvd"
+        ],
+        "city": "Knoxville",
+        "state": "TN",
+        "postalCode": "37923",
         "country": "USA"
       }
     ],

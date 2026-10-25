@@ -18,7 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609075324"
+        "value": "1134105414"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,10 +26,42 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134105414"
+        "value": "1609075324"
       }
     ],
     "address": [
+      {
+        "line": [
+          "8 west end ave"
+        ],
+        "city": "OLD GREENWICH",
+        "state": "CT",
+        "postalCode": "06870-1674"
+      },
+      {
+        "line": [
+          "1188 KING ST"
+        ],
+        "city": "GREENWICH",
+        "state": "CT",
+        "postalCode": "06831-2935"
+      },
+      {
+        "line": [
+          "53 COURTLAND AVE"
+        ],
+        "city": "STAMFORD",
+        "state": "CT",
+        "postalCode": "06902-3401"
+      },
+      {
+        "line": [
+          "70 PARSONAGE RD"
+        ],
+        "city": "GREENWICH",
+        "state": "CT",
+        "postalCode": "06830-3941"
+      },
       {
         "line": [
           "1165 KING ST"
@@ -48,30 +80,6 @@
       },
       {
         "line": [
-          "53 COURTLAND AVE"
-        ],
-        "city": "STAMFORD",
-        "state": "CT",
-        "postalCode": "06902-3401"
-      },
-      {
-        "line": [
-          "8 west end ave"
-        ],
-        "city": "OLD GREENWICH",
-        "state": "CT",
-        "postalCode": "06870-1674"
-      },
-      {
-        "line": [
-          "122 PALMERS HILL RD"
-        ],
-        "city": "STAMFORD",
-        "state": "CT",
-        "postalCode": "06902-2134"
-      },
-      {
-        "line": [
           "8 WEST END AVENUE"
         ],
         "city": "OLD GREENWICH",
@@ -80,19 +88,11 @@
       },
       {
         "line": [
-          "70 PARSONAGE RD"
+          "122 PALMERS HILL RD"
         ],
-        "city": "GREENWICH",
+        "city": "STAMFORD",
         "state": "CT",
-        "postalCode": "06830-3941"
-      },
-      {
-        "line": [
-          "1188 KING ST"
-        ],
-        "city": "GREENWICH",
-        "state": "CT",
-        "postalCode": "06831-2935"
+        "postalCode": "06902-2134"
       }
     ],
     "extension": [

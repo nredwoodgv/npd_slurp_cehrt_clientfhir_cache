@@ -14,11 +14,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801850243"
+        "value": "1265870331"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265870331"
+        "value": "1801850243"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -74,10 +74,6 @@
     "telecom": [
       {
         "system": "phone",
-        "value": "(732)367-1535"
-      },
-      {
-        "system": "phone",
         "value": "(202)537-4000"
       },
       {
@@ -99,6 +95,10 @@
       {
         "system": "phone",
         "value": "(301)754-7000"
+      },
+      {
+        "system": "phone",
+        "value": "(732)367-1535"
       },
       {
         "system": "phone",
@@ -258,10 +258,6 @@
       },
       {
         "system": "phone",
-        "value": "(973)726-0005"
-      },
-      {
-        "system": "phone",
         "value": "(301)657-4588"
       },
       {
@@ -279,6 +275,10 @@
       {
         "system": "phone",
         "value": "(732)530-8666"
+      },
+      {
+        "system": "phone",
+        "value": "(973)726-0005"
       },
       {
         "system": "phone",
@@ -334,17 +334,6 @@
       }
     ],
     "address": [
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "57 Kent Road"
-        ],
-        "city": "Howell",
-        "state": "NJ",
-        "postalCode": "07731",
-        "country": "USA"
-      },
       {
         "use": "work",
         "type": "postal",
@@ -618,18 +607,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "350 Young Avenue",
-          "Suite 200"
-        ],
-        "city": "Moorestown",
-        "state": "NJ",
-        "postalCode": "08057",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "97 West Pkwy"
         ],
         "city": "Pompton Plains",
@@ -879,30 +856,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "18111 Prince Philip Drive",
-          "Suite #327"
-        ],
-        "city": "Olney",
-        "state": "MD",
-        "postalCode": "20832",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "9715 Medical Center Dr.",
-          "Suite 221"
-        ],
-        "city": "Rockville",
-        "state": "MD",
-        "postalCode": "20850",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "500 Frank W. Burr Blvd",
           "Suite 560"
         ],
@@ -938,41 +891,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "210 Woodport Road"
-        ],
-        "city": "Sparta",
-        "state": "NJ",
-        "postalCode": "07871",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "100 Haynes St.",
-          "2nd Floor"
-        ],
-        "city": "Manchester",
-        "state": "CT",
-        "postalCode": "06040",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "345 N. Main St.",
-          "Suite 318"
-        ],
-        "city": "West Hartford",
-        "state": "CT",
-        "postalCode": "06117",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "5530 Wisconsin Avenue Suite 1640"
         ],
         "city": "Chevy Chase",
@@ -1001,17 +919,6 @@
         "city": "Somers Point",
         "state": "NJ",
         "postalCode": "08244",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "326 Professional View Drive"
-        ],
-        "city": "Freehold",
-        "state": "NJ",
-        "postalCode": "07728",
         "country": "USA"
       },
       {
@@ -1053,12 +960,105 @@
         "use": "work",
         "type": "postal",
         "line": [
+          "350 Young Avenue",
+          "Suite 200"
+        ],
+        "city": "Moorestown",
+        "state": "NJ",
+        "postalCode": "08057",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "57 Kent Road"
+        ],
+        "city": "Howell",
+        "state": "NJ",
+        "postalCode": "07731",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
           "180 White Road",
           "Suite 101"
         ],
         "city": "Little Silver",
         "state": "NJ",
         "postalCode": "07739",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "326 Professional View Drive"
+        ],
+        "city": "Freehold",
+        "state": "NJ",
+        "postalCode": "07728",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "210 Woodport Road"
+        ],
+        "city": "Sparta",
+        "state": "NJ",
+        "postalCode": "07871",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "9715 Medical Center Dr.",
+          "Suite 221"
+        ],
+        "city": "Rockville",
+        "state": "MD",
+        "postalCode": "20850",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "18111 Prince Philip Drive",
+          "Suite #327"
+        ],
+        "city": "Olney",
+        "state": "MD",
+        "postalCode": "20832",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "100 Haynes St.",
+          "2nd Floor"
+        ],
+        "city": "Manchester",
+        "state": "CT",
+        "postalCode": "06040",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "345 N. Main St.",
+          "Suite 318"
+        ],
+        "city": "West Hartford",
+        "state": "CT",
+        "postalCode": "06117",
         "country": "USA"
       },
       {

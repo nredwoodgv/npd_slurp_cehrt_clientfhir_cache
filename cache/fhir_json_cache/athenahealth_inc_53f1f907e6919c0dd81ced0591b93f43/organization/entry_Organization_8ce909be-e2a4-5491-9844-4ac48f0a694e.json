@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356384143"
+        "value": "1548211311"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548211311"
+        "value": "1073615456"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,17 +26,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073615456"
+        "value": "1356384143"
       }
     ],
     "address": [
       {
-        "line": [
-          "55 North High Street"
-        ],
-        "city": "NEW ALBANY",
-        "state": "OH",
-        "postalCode": "43054-7099"
+        "line": [],
+        "city": "WATERTOWN",
+        "state": "MA",
+        "postalCode": "02472-2782"
       },
       {
         "line": [
@@ -47,18 +45,20 @@
         "postalCode": "43213-1574"
       },
       {
-        "line": [],
-        "city": "WATERTOWN",
-        "state": "MA",
-        "postalCode": "02472-2782"
-      },
-      {
         "line": [
           "5199 East Broad Street"
         ],
         "city": "COLUMBUS",
         "state": "OH",
         "postalCode": "43213-3800"
+      },
+      {
+        "line": [
+          "55 North High Street"
+        ],
+        "city": "NEW ALBANY",
+        "state": "OH",
+        "postalCode": "43054-7099"
       }
     ],
     "extension": [

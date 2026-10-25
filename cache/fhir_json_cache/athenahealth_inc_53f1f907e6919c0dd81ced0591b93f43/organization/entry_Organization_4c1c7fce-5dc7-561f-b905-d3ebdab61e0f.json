@@ -14,34 +14,17 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194046771"
+        "value": "1982170155"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982170155"
+        "value": "1194046771"
       }
     ],
     "address": [
       {
         "line": [
-          "1039 E FREEWAY DR SE"
-        ],
-        "city": "CONYERS",
-        "state": "GA",
-        "postalCode": "30094-5965"
-      },
-      {
-        "line": [
           "2022 FAIRBURN RD STE D"
-        ],
-        "city": "DOUGLASVILLE",
-        "state": "GA",
-        "postalCode": "30135-1062"
-      },
-      {
-        "line": [
-          "2022 FAIRBURN ROAD",
-          "SUITE D"
         ],
         "city": "DOUGLASVILLE",
         "state": "GA",
@@ -58,6 +41,14 @@
       },
       {
         "line": [
+          "305 CARROLLTON HIGHWAY"
+        ],
+        "city": "TEMPLE",
+        "state": "GA",
+        "postalCode": "30179-3796"
+      },
+      {
+        "line": [
           "2022 FAIRBURN RD",
           "SUITE D"
         ],
@@ -67,11 +58,20 @@
       },
       {
         "line": [
-          "305 CARROLLTON HIGHWAY"
+          "2022 FAIRBURN ROAD",
+          "SUITE D"
         ],
-        "city": "TEMPLE",
+        "city": "DOUGLASVILLE",
         "state": "GA",
-        "postalCode": "30179-3796"
+        "postalCode": "30135-1062"
+      },
+      {
+        "line": [
+          "1039 E FREEWAY DR SE"
+        ],
+        "city": "CONYERS",
+        "state": "GA",
+        "postalCode": "30094-5965"
       }
     ],
     "extension": [

@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215287362"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265780621"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730437245"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487902995"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215287362"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,10 +30,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487902995"
+        "value": "1265780621"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3401 LUDINGTON STREET"
+        ],
+        "city": "ESCANABA",
+        "state": "MI",
+        "postalCode": "49829-1300"
+      },
+      {
+        "line": [
+          "850 W BARAGA AVE",
+          "SUITE 31"
+        ],
+        "city": "MARQUETTE",
+        "state": "MI",
+        "postalCode": "49855-4550"
+      },
       {
         "line": [
           "1414 W FAIR AVE",
@@ -42,14 +59,6 @@
         "city": "MARQUETTE",
         "state": "MI",
         "postalCode": "49855-5407"
-      },
-      {
-        "line": [
-          "3401 LUDINGTON STREET"
-        ],
-        "city": "ESCANABA",
-        "state": "MI",
-        "postalCode": "49829-1300"
       },
       {
         "line": [
