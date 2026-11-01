@@ -14,6 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1164464095"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285083154"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902846603"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1407883341"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1932256542"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1376590430"
       },
       {
@@ -22,38 +42,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407883341"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164464095"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1265474050"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932256542"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902846603"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285083154"
       }
     ],
     "address": [
-      {
-        "line": [
-          "4200 Houma Blvd"
-        ],
-        "city": "METAIRIE",
-        "state": "LA",
-        "postalCode": "70006-2970"
-      },
       {
         "line": [
           "13030 LA 308"
@@ -61,6 +53,14 @@
         "city": "LAROSE",
         "state": "LA",
         "postalCode": "70373-2001"
+      },
+      {
+        "line": [
+          "4200 Houma Blvd"
+        ],
+        "city": "METAIRIE",
+        "state": "LA",
+        "postalCode": "70006-2970"
       },
       {
         "line": [

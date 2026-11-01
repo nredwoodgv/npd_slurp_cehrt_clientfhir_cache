@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "d40d4a1a-e735-4e98-9698-53c433dbb1d1",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-08T23:09:17-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY MILLBURN",
     "address": [
       {
         "type": "physical",
-        "text": "225 Millburn Ave\nBuilding C, Suite 304",
+        "text": "225 Millburn Ave\r\nBuilding C, Suite 304\r\nMillburn NJ 07041\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY MILLBURN",
-          "225 Millburn Ave\nBuilding C, Suite 304"
+          "225 Millburn Ave\r\nBuilding C, Suite 304"
         ],
         "city": "Millburn",
         "state": "NJ",
-        "postalCode": "07041"
+        "postalCode": "07041",
+        "country": "US"
       }
     ],
     "partOf": {

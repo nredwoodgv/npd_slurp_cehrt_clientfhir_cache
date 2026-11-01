@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "375"
       },
-      "display": "Mount Sinai Health System"
+      "display": "The Mount Sinai Hospital"
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://epicsoapproxyprd.mountsinai.org/FHIR-PRD/api/FHIR/R4"
+    "address": "https://epicproxy.et0513.epichosted.com/APIProxyPRD/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:b78cd9c9-c9d5-47e8-b4a6-e18e0dfcc563"
 }

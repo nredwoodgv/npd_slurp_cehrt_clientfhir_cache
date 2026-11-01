@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "86d986d4-719a-4cb4-85e7-72e193e14988",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-09T23:56:58-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - OLD BRIDGE",
     "address": [
       {
         "type": "physical",
-        "text": "2 Hospital Plaza\nSuite 110",
+        "text": "2 Hospital Plaza\r\nSuite 110\r\nOld Bridge NJ 08857\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - OLD BRIDGE",
-          "2 Hospital Plaza\nSuite 110"
+          "2 Hospital Plaza\r\nSuite 110"
         ],
         "city": "Old Bridge",
         "state": "NJ",
-        "postalCode": "08857"
+        "postalCode": "08857",
+        "country": "US"
       }
     ],
     "partOf": {

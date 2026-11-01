@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "8ec0ed6a-54b6-4a15-90a8-d7ee17e2c9fd",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:08-05:00"
+      "lastUpdated": "2026-10-28T02:41:06-05:00"
     },
     "active": true,
     "name": "OREGON HEART CENTER CARDIOLOGY GRAND RONDE",
     "address": [
       {
         "type": "physical",
-        "text": "9605 Grand Ronde Road\nGrande Ronde OR 97347\nUnited States of America",
+        "text": "9605 Grand Ronde Road\r\nGrande Ronde OR 97347\r\nUnited States of America",
         "line": [
           "OREGON HEART CENTER CARDIOLOGY GRAND RONDE",
           "9605 Grand Ronde Road"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:6f164dd4-0ad3-4171-8475-7046ea218ac2"
+      "reference": "urn:uuid:235d4747-be2a-4e99-95b1-c538d82227b7"
     }
   },
   "fullUrl": "urn:uuid:8ec0ed6a-54b6-4a15-90a8-d7ee17e2c9fd"

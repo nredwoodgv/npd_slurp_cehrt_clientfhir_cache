@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "53371a10-2e53-4cc2-b1ad-4254872752a9",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:51-05:00"
+      "lastUpdated": "2026-10-28T02:41:17-05:00"
     },
     "active": true,
     "name": "RUH Indio Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "47-923 Oasis Street\nINDIO CA 92201\nUnited States of America",
+        "text": "47-923 Oasis Street\r\nINDIO CA 92201\r\nUnited States of America",
         "line": [
           "RUH Indio Clinic",
           "47-923 Oasis Street"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:64e0415b-73f2-4629-9f52-02d3e627852f"
+      "reference": "urn:uuid:9495e5da-488f-4d42-84ad-7958e7c7732f"
     }
   },
   "fullUrl": "urn:uuid:53371a10-2e53-4cc2-b1ad-4254872752a9"

@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "e8d719f8-6f00-44ae-9eb1-23661c9672f1",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:56-05:00"
+      "lastUpdated": "2026-10-27T00:53:40-05:00"
     },
     "active": true,
     "name": "Manning Family Children's Hospital Pediatrics (Ormond) - Destrehan",
     "address": [
       {
         "type": "physical",
-        "text": "141 Ormond Center Ct.\nDestrehan LA 70047-2548\nUnited States of America",
+        "text": "141 Ormond Center Ct.\r\nDestrehan LA 70047-2548\r\nUnited States of America",
         "line": [
           "Manning Family Children's Hospital Pediatrics (Ormond) - Destrehan",
           "141 Ormond Center Ct."
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:571e3049-6d90-484b-bd9b-1936644c5b3b"
+      "reference": "urn:uuid:a3792191-e404-47be-acb3-de7fc01c8e68"
     }
   },
   "fullUrl": "urn:uuid:e8d719f8-6f00-44ae-9eb1-23661c9672f1"

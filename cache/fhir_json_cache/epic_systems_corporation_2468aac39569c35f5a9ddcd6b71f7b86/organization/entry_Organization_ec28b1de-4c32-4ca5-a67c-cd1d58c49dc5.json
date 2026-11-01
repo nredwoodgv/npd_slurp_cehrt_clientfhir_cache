@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "ec28b1de-4c32-4ca5-a67c-cd1d58c49dc5",
     "meta": {
-      "lastUpdated": "2025-10-06T17:34:11-05:00"
+      "lastUpdated": "2026-05-08T02:17:46-05:00"
     },
     "active": true,
     "name": "AIMS McDonogh Virtual Care & Wellness",
     "address": [
       {
         "type": "physical",
-        "text": "8600 McDonogh Rd\nOWINGS MILLS MD 21117\nUnited States",
+        "text": "8600 McDonogh Rd\r\nOWINGS MILLS MD 21117\r\nUnited States",
         "line": [
           "AIMS McDonogh Virtual Care & Wellness",
           "8600 McDonogh Rd"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:f15df3e5-c3ab-4f25-9d8e-3309ac09d436"
+      "reference": "urn:uuid:33169e88-0c8e-4709-94f1-0771915dd9e6"
     }
   },
   "fullUrl": "urn:uuid:ec28b1de-4c32-4ca5-a67c-cd1d58c49dc5"

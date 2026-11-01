@@ -14,29 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649501347"
+        "value": "1750814737"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750814737"
+        "value": "1649501347"
       }
     ],
     "address": [
       {
         "line": [
-          "1434 W US HIGHWAY 287 BYP STE 100"
+          "1324 BROWN ST",
+          "STE 100"
         ],
         "city": "WAXAHACHIE",
         "state": "TX",
-        "postalCode": "75165-5007"
-      },
-      {
-        "line": [
-          "101 CIRCLE DR"
-        ],
-        "city": "HILLSBORO",
-        "state": "TX",
-        "postalCode": "76645-2670"
+        "postalCode": "75165-1422"
       },
       {
         "line": [
@@ -48,14 +41,6 @@
       },
       {
         "line": [
-          "2600 W PLEASANT RUN RD"
-        ],
-        "city": "LANCASTER",
-        "state": "TX",
-        "postalCode": "75146-1114"
-      },
-      {
-        "line": [
           "117 JANE LN"
         ],
         "city": "HILLSBORO",
@@ -64,12 +49,27 @@
       },
       {
         "line": [
-          "1324 BROWN ST",
-          "STE 100"
+          "2600 W PLEASANT RUN RD"
+        ],
+        "city": "LANCASTER",
+        "state": "TX",
+        "postalCode": "75146-1114"
+      },
+      {
+        "line": [
+          "101 CIRCLE DR"
+        ],
+        "city": "HILLSBORO",
+        "state": "TX",
+        "postalCode": "76645-2670"
+      },
+      {
+        "line": [
+          "1434 W US HIGHWAY 287 BYP STE 100"
         ],
         "city": "WAXAHACHIE",
         "state": "TX",
-        "postalCode": "75165-1422"
+        "postalCode": "75165-5007"
       }
     ],
     "extension": [

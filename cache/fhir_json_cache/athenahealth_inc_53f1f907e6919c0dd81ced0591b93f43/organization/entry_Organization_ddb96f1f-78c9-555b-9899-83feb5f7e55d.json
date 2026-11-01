@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932402484"
+        "value": "1285931089"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,13 +26,13 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285931089"
+        "value": "1932402484"
       }
     ],
     "address": [
       {
         "line": [
-          "2542 langhorne road"
+          "2542 LANGHORNE ROAD"
         ],
         "city": "LYNCHBURG",
         "state": "VA",
@@ -48,27 +48,11 @@
       },
       {
         "line": [
-          "414 park avenue"
-        ],
-        "city": "DANVILLE",
-        "state": "VA",
-        "postalCode": "24541-9998"
-      },
-      {
-        "line": [
-          "2542 LANGHORNE ROAD"
+          "2542 langhorne road"
         ],
         "city": "LYNCHBURG",
         "state": "VA",
         "postalCode": "24501-1602"
-      },
-      {
-        "line": [
-          "800 OAK STREET"
-        ],
-        "city": "FARMVILLE",
-        "state": "VA",
-        "postalCode": "23901-1199"
       },
       {
         "line": [
@@ -85,6 +69,22 @@
         "city": "BEDFORD",
         "state": "VA",
         "postalCode": "24523-1213"
+      },
+      {
+        "line": [
+          "800 OAK STREET"
+        ],
+        "city": "FARMVILLE",
+        "state": "VA",
+        "postalCode": "23901-1199"
+      },
+      {
+        "line": [
+          "414 park avenue"
+        ],
+        "city": "DANVILLE",
+        "state": "VA",
+        "postalCode": "24541-9998"
       }
     ],
     "extension": [

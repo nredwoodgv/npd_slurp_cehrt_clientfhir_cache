@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558521179"
+        "value": "1861378168"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861378168"
+        "value": "1558521179"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1625 West Spring"
-        ],
-        "city": "PALESTINE",
-        "state": "TX",
-        "postalCode": "75801-7943"
-      },
       {
         "line": [
           "2900 S Loop 256"
@@ -37,14 +29,6 @@
         "city": "PALESTINE",
         "state": "TX",
         "postalCode": "75801-6958"
-      },
-      {
-        "line": [
-          "2201 W Lampasas St"
-        ],
-        "city": "ENNIS",
-        "state": "TX",
-        "postalCode": "75119-5644"
       },
       {
         "line": [
@@ -64,19 +48,35 @@
       },
       {
         "line": [
+          "2201 W Lampasas St"
+        ],
+        "city": "ENNIS",
+        "state": "TX",
+        "postalCode": "75119-5644"
+      },
+      {
+        "line": [
+          "2700 E. Broad Street"
+        ],
+        "city": "MANSFIELD",
+        "state": "TX",
+        "postalCode": "76063-0719"
+      },
+      {
+        "line": [
+          "1625 West Spring"
+        ],
+        "city": "PALESTINE",
+        "state": "TX",
+        "postalCode": "75801-7943"
+      },
+      {
+        "line": [
           "30 VARIAH ST"
         ],
         "city": "PALESTINE",
         "state": "TX",
         "postalCode": "75801-4011"
-      },
-      {
-        "line": [
-          "2300 S. Oak Grove Rd"
-        ],
-        "city": "ENNIS",
-        "state": "TX",
-        "postalCode": "75119-6841"
       },
       {
         "line": [
@@ -88,19 +88,11 @@
       },
       {
         "line": [
-          "2404 North SH 155"
+          "2300 S. Oak Grove Rd"
         ],
-        "city": "PALESTINE",
+        "city": "ENNIS",
         "state": "TX",
-        "postalCode": "75801-8524"
-      },
-      {
-        "line": [
-          "2700 E. Broad Street"
-        ],
-        "city": "MANSFIELD",
-        "state": "TX",
-        "postalCode": "76063-0719"
+        "postalCode": "75119-6841"
       },
       {
         "line": [
@@ -117,6 +109,14 @@
         "city": "PALESTINE",
         "state": "TX",
         "postalCode": "75801-6978"
+      },
+      {
+        "line": [
+          "2404 North SH 155"
+        ],
+        "city": "PALESTINE",
+        "state": "TX",
+        "postalCode": "75801-8524"
       }
     ],
     "extension": [

@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "3afc820f-3927-419d-b8c6-3890084c64ff",
     "meta": {
-      "lastUpdated": "2025-10-06T17:33:52-05:00"
+      "lastUpdated": "2026-10-28T02:07:47-05:00"
     },
     "active": true,
     "name": "Grace Health",
     "address": [
       {
         "type": "physical",
-        "text": "1019 Cumberland Falls Hwy Suite B 201\nCORBIN KY 40701\nUnited States of America",
+        "text": "1019 Cumberland Falls Hwy Suite B 201\r\nCORBIN KY 40701\r\nUnited States of America",
         "line": [
           "Grace Health",
           "1019 Cumberland Falls Hwy Suite B 201"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:51caa44a-c157-4cca-b13a-e63ffb985153"
+      "reference": "urn:uuid:32aea290-2d02-46c7-aaa0-e090af45f66d"
     }
   },
   "fullUrl": "urn:uuid:3afc820f-3927-419d-b8c6-3890084c64ff"

@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396961322"
+        "value": "1346044401"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346044401"
+        "value": "1396961322"
       }
     ],
     "address": [
+      {
+        "line": [
+          "6250 Regional Plaza Ste 1000"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79606-5223"
+      },
       {
         "line": [
           "5302 Buffalo Gap Rd. Suite 104"
@@ -29,14 +37,6 @@
         "city": "ABILENE",
         "state": "TX",
         "postalCode": "79606-4130"
-      },
-      {
-        "line": [
-          "6250 REGIONAL PLZ STE 1016"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79606-5223"
       },
       {
         "line": [
@@ -48,7 +48,7 @@
       },
       {
         "line": [
-          "6250 Regional Plaza Ste 1000"
+          "6250 REGIONAL PLZ STE 1016"
         ],
         "city": "ABILENE",
         "state": "TX",

@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "4c1af6f6-3dcd-4e0c-9e88-6d925cd68351",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "Generations Fertility Care",
     "address": [
       {
         "type": "physical",
-        "text": "2365 Deming Way\nMiddleton WI 53562\nUS",
+        "text": "2365 Deming Way\r\nMiddleton WI 53562\r\nUnited States of America",
         "line": [
           "Generations Fertility Care",
           "2365 Deming Way"
         ],
         "city": "Middleton",
         "state": "WI",
-        "postalCode": "53562"
+        "postalCode": "53562",
+        "country": "US"
       }
     ],
     "partOf": {

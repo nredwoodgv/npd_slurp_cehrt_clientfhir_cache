@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235598616"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194226373"
+        "value": "1043306574"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649643420"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1194226373"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,18 +38,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043306574"
+        "value": "1235598616"
       }
     ],
     "address": [
-      {
-        "line": [
-          "101 2nd St"
-        ],
-        "city": "LAKEWOOD",
-        "state": "NJ",
-        "postalCode": "08701-3324"
-      },
       {
         "line": [
           "101 Second St"
@@ -57,22 +49,6 @@
         "city": "LAKEWOOD",
         "state": "NJ",
         "postalCode": "08701-3324"
-      },
-      {
-        "line": [
-          "99 Hwy 37W"
-        ],
-        "city": "TOMS RIVER",
-        "state": "NJ",
-        "postalCode": "08755-6423"
-      },
-      {
-        "line": [
-          "855 Somerset Ave"
-        ],
-        "city": "LAKEWOOD",
-        "state": "NJ",
-        "postalCode": "08701-2127"
       },
       {
         "line": [
@@ -84,7 +60,23 @@
       },
       {
         "line": [
+          "101 2nd St"
+        ],
+        "city": "LAKEWOOD",
+        "state": "NJ",
+        "postalCode": "08701-3324"
+      },
+      {
+        "line": [
           "99 Hwy 37 West"
+        ],
+        "city": "TOMS RIVER",
+        "state": "NJ",
+        "postalCode": "08755-6423"
+      },
+      {
+        "line": [
+          "99 Hwy 37W"
         ],
         "city": "TOMS RIVER",
         "state": "NJ",
@@ -97,6 +89,14 @@
         "city": "LAKEWOOD",
         "state": "NJ",
         "postalCode": "08701-3324"
+      },
+      {
+        "line": [
+          "855 Somerset Ave"
+        ],
+        "city": "LAKEWOOD",
+        "state": "NJ",
+        "postalCode": "08701-2127"
       }
     ],
     "extension": [

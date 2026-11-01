@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "d718e30d-3f56-4d35-aae5-3f1836e79b79",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:56-05:00"
+      "lastUpdated": "2026-10-27T00:53:40-05:00"
     },
     "active": true,
     "name": "Sleep Center of New Orleans, East",
     "address": [
       {
         "type": "physical",
-        "text": "5620 Read Blvd\nNew Orleans LA 70127-3106\nUnited States of America",
+        "text": "5620 Read Blvd\r\nNew Orleans LA 70127-3106\r\nUnited States of America",
         "line": [
           "Sleep Center of New Orleans, East",
           "5620 Read Blvd"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:571e3049-6d90-484b-bd9b-1936644c5b3b"
+      "reference": "urn:uuid:a3792191-e404-47be-acb3-de7fc01c8e68"
     }
   },
   "fullUrl": "urn:uuid:d718e30d-3f56-4d35-aae5-3f1836e79b79"

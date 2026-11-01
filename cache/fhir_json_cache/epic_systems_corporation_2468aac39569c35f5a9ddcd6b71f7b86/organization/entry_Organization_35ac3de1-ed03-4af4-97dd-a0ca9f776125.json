@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "35ac3de1-ed03-4af4-97dd-a0ca9f776125",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "Agrace Hospice and Palliative Care - Janesville",
     "address": [
       {
         "type": "physical",
-        "text": "2901 N. Wright Road\nJanesville WI 53546\nUS",
+        "text": "2901 N. Wright Road\r\nJanesville WI 53546\r\nUnited States of America",
         "line": [
           "Agrace Hospice and Palliative Care - Janesville",
           "2901 N. Wright Road"
         ],
         "city": "Janesville",
         "state": "WI",
-        "postalCode": "53546"
+        "postalCode": "53546",
+        "country": "US"
       }
     ],
     "partOf": {

@@ -3,18 +3,19 @@
     "resourceType": "Organization",
     "id": "bcfad767-638b-4524-aef3-c70d87557c98",
     "meta": {
-      "lastUpdated": "2025-10-07T23:15:11-05:00"
+      "lastUpdated": "2026-09-14T23:20:54-05:00"
     },
     "active": true,
     "name": "Cambridge Family Health Center",
     "address": [
       {
         "type": "physical",
-        "text": "35 Gilbert St\r\nNY 12816\r\nUnited States of America",
+        "text": "35 Gilbert St\r\nCambridge NY 12816\r\nUnited States of America",
         "line": [
           "Cambridge Family Health Center",
           "35 Gilbert St"
         ],
+        "city": "Cambridge",
         "state": "NY",
         "postalCode": "12816",
         "country": "US"

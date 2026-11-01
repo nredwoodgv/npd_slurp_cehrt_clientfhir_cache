@@ -14,39 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649501347"
+        "value": "1750814737"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750814737"
+        "value": "1649501347"
       }
     ],
     "address": [
-      {
-        "line": [
-          "4255 N MacArthur Blvd"
-        ],
-        "city": "IRVING",
-        "state": "TX",
-        "postalCode": "75038-6412"
-      },
-      {
-        "line": [
-          "8951 Collin McKinney Pkwy",
-          "Ste 603"
-        ],
-        "city": "MCKINNEY",
-        "state": "TX",
-        "postalCode": "75070-1007"
-      },
-      {
-        "line": [
-          "4500 Medical Center Dr"
-        ],
-        "city": "MCKINNEY",
-        "state": "TX",
-        "postalCode": "75069-1650"
-      },
       {
         "line": [
           "8080 State Highway 121",
@@ -66,6 +41,22 @@
       },
       {
         "line": [
+          "4500 Medical Center Dr"
+        ],
+        "city": "MCKINNEY",
+        "state": "TX",
+        "postalCode": "75069-1650"
+      },
+      {
+        "line": [
+          "2120 N MACARTHUR BLVD STE 200"
+        ],
+        "city": "IRVING",
+        "state": "TX",
+        "postalCode": "75061-2205"
+      },
+      {
+        "line": [
           "670 N MacArthur Blvd",
           "Ste 100"
         ],
@@ -75,11 +66,20 @@
       },
       {
         "line": [
-          "2120 N MACARTHUR BLVD STE 200"
+          "4255 N MacArthur Blvd"
         ],
         "city": "IRVING",
         "state": "TX",
-        "postalCode": "75061-2205"
+        "postalCode": "75038-6412"
+      },
+      {
+        "line": [
+          "8951 Collin McKinney Pkwy",
+          "Ste 603"
+        ],
+        "city": "MCKINNEY",
+        "state": "TX",
+        "postalCode": "75070-1007"
       }
     ],
     "extension": [

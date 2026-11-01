@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "988a97f9-50e0-4842-b4fc-bed35b369b4b",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-08T23:09:17-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - VERONA",
     "address": [
       {
         "type": "physical",
-        "text": "799 Bloomfield Avenue\nSuite 214",
+        "text": "799 Bloomfield Avenue\r\nSuite 214\r\nVerona NJ 07044\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - VERONA",
-          "799 Bloomfield Avenue\nSuite 214"
+          "799 Bloomfield Avenue\r\nSuite 214"
         ],
         "city": "Verona",
         "state": "NJ",
-        "postalCode": "07044"
+        "postalCode": "07044",
+        "country": "US"
       }
     ],
     "partOf": {

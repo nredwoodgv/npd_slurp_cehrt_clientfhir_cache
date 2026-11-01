@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033294673"
+        "value": "1598929135"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396798302"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,39 +34,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396798302"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598929135"
+        "value": "1033294673"
       }
     ],
     "address": [
       {
         "line": [
-          "2010 Church St",
-          "Suite 700"
+          "520 W Main St"
         ],
-        "city": "NASHVILLE",
+        "city": "Smithville",
         "state": "TN",
-        "postalCode": "37203-2081"
+        "postalCode": "37166-1138"
       },
       {
         "line": [
-          "1210 Briarville Rd",
-          "Suite 602"
+          "100 Physicians Way, Suite 300"
         ],
-        "city": "MADISON",
+        "city": "LEBANON",
         "state": "TN",
-        "postalCode": "37115-5141"
-      },
-      {
-        "line": [
-          "1330 Cedar Ln"
-        ],
-        "city": "TULLAHOMA",
-        "state": "TN",
-        "postalCode": "37388-2283"
+        "postalCode": "37090-8013"
       },
       {
         "line": [
@@ -75,12 +65,53 @@
       },
       {
         "line": [
-          "300 20th Ave N",
-          "Suite 202"
+          "2010 Church St",
+          "Suite 700"
         ],
         "city": "NASHVILLE",
         "state": "TN",
-        "postalCode": "37203-2131"
+        "postalCode": "37203-2081"
+      },
+      {
+        "line": [
+          "1615 McMinnville Hwy"
+        ],
+        "city": "MANCHESTER",
+        "state": "TN",
+        "postalCode": "37355-3179"
+      },
+      {
+        "line": [
+          "1829 Sharp Springs Rd"
+        ],
+        "city": "WINCHESTER",
+        "state": "TN",
+        "postalCode": "37398-2472"
+      },
+      {
+        "line": [
+          "2000 Hayes Street, Suite 1502"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37203-2645"
+      },
+      {
+        "line": [
+          "225 Big Station Camp Blvd Ste 201"
+        ],
+        "city": "GALLATIN",
+        "state": "TN",
+        "postalCode": "37066-8466"
+      },
+      {
+        "line": [
+          "1210 Briarville Rd",
+          "Suite 602"
+        ],
+        "city": "MADISON",
+        "state": "TN",
+        "postalCode": "37115-5141"
       },
       {
         "line": [
@@ -93,19 +124,11 @@
       },
       {
         "line": [
-          "100 Physicians Way, Suite 300"
+          "1805 N Jackson St"
         ],
-        "city": "LEBANON",
+        "city": "TULLAHOMA",
         "state": "TN",
-        "postalCode": "37090-8013"
-      },
-      {
-        "line": [
-          "451 Hwy 13 S"
-        ],
-        "city": "WAVERLY",
-        "state": "TN",
-        "postalCode": "37185-2109"
+        "postalCode": "37388-2290"
       },
       {
         "line": [
@@ -114,6 +137,31 @@
         "city": "NASHVILLE",
         "state": "TN",
         "postalCode": "37205-2013"
+      },
+      {
+        "line": [
+          "4230 Harding Rd",
+          "Suite 400"
+        ],
+        "city": "Nashville",
+        "state": "TN",
+        "postalCode": "37205-2013"
+      },
+      {
+        "line": [
+          "1330 Cedar Ln"
+        ],
+        "city": "TULLAHOMA",
+        "state": "TN",
+        "postalCode": "37388-2283"
+      },
+      {
+        "line": [
+          "451 Hwy 13 S"
+        ],
+        "city": "WAVERLY",
+        "state": "TN",
+        "postalCode": "37185-2109"
       },
       {
         "line": [
@@ -126,54 +174,6 @@
       },
       {
         "line": [
-          "2000 Hayes Street, Suite 1502"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37203-2645"
-      },
-      {
-        "line": [
-          "1805 N Jackson St"
-        ],
-        "city": "TULLAHOMA",
-        "state": "TN",
-        "postalCode": "37388-2290"
-      },
-      {
-        "line": [
-          "1829 Sharp Springs Rd"
-        ],
-        "city": "WINCHESTER",
-        "state": "TN",
-        "postalCode": "37398-2472"
-      },
-      {
-        "line": [
-          "225 Big Station Camp Blvd Ste 201"
-        ],
-        "city": "GALLATIN",
-        "state": "TN",
-        "postalCode": "37066-8466"
-      },
-      {
-        "line": [
-          "1615 McMinnville Hwy"
-        ],
-        "city": "MANCHESTER",
-        "state": "TN",
-        "postalCode": "37355-3179"
-      },
-      {
-        "line": [
-          "520 W Main St"
-        ],
-        "city": "Smithville",
-        "state": "TN",
-        "postalCode": "37166-1138"
-      },
-      {
-        "line": [
           "4230 Harding Road Suite 330"
         ],
         "city": "Nashville",
@@ -182,12 +182,12 @@
       },
       {
         "line": [
-          "4230 Harding Rd",
-          "Suite 400"
+          "300 20th Ave N",
+          "Suite 202"
         ],
-        "city": "Nashville",
+        "city": "NASHVILLE",
         "state": "TN",
-        "postalCode": "37205-2013"
+        "postalCode": "37203-2131"
       }
     ],
     "extension": [

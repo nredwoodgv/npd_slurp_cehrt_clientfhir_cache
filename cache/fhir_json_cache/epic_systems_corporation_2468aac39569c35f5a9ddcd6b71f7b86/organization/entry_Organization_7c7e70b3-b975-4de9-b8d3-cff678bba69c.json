@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "7c7e70b3-b975-4de9-b8d3-cff678bba69c",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Green Bay Specialty Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "1821 S WEBSTER AVE\nGreen Bay WI 54301\nUS",
+        "text": "1821 S WEBSTER AVE\r\nGreen Bay WI 54301\r\nUS",
         "line": [
           "UW Health Green Bay Specialty Clinic",
           "1821 S WEBSTER AVE"
         ],
         "city": "Green Bay",
         "state": "WI",
-        "postalCode": "54301"
+        "postalCode": "54301",
+        "country": "US"
       }
     ],
     "partOf": {

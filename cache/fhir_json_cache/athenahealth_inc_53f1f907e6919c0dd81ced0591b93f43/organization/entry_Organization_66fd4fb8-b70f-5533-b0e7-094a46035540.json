@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235238296"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326147380"
+        "value": "1639145204"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,14 +22,35 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639145204"
+        "value": "1235238296"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1003152430"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326147380"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1110 Columbine Dr."
+        ],
+        "city": "HOLTON",
+        "state": "KS",
+        "postalCode": "66436-8824"
+      },
+      {
+        "line": [
+          "1110 Columbine Dr,",
+          "Suite 100"
+        ],
+        "city": "HOLTON",
+        "state": "KS",
+        "postalCode": "66436-8824"
+      },
       {
         "line": [
           "725 Iowa Ave"
@@ -53,19 +70,11 @@
       },
       {
         "line": [
-          "1110 Columbine Dr."
+          "410 JUNIPER DR"
         ],
         "city": "HOLTON",
         "state": "KS",
-        "postalCode": "66436-8824"
-      },
-      {
-        "line": [
-          "1121 W 7th St."
-        ],
-        "city": "HOLTON",
-        "state": "KS",
-        "postalCode": "66436-1123"
+        "postalCode": "66436-1535"
       },
       {
         "line": [
@@ -77,20 +86,11 @@
       },
       {
         "line": [
-          "1110 Columbine Dr,",
-          "Suite 100"
+          "1121 W 7th St."
         ],
         "city": "HOLTON",
         "state": "KS",
-        "postalCode": "66436-8824"
-      },
-      {
-        "line": [
-          "410 JUNIPER DR"
-        ],
-        "city": "HOLTON",
-        "state": "KS",
-        "postalCode": "66436-1535"
+        "postalCode": "66436-1123"
       }
     ],
     "extension": [

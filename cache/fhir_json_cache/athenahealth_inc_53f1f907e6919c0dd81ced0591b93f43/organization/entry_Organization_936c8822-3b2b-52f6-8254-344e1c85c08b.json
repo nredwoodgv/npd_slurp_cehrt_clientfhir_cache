@@ -14,26 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942622204"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649551516"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1528061157"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1942622204"
       }
     ],
     "address": [
-      {
-        "line": [
-          "600 N BELL BLVD STE 100"
-        ],
-        "city": "CEDAR PARK",
-        "state": "TX",
-        "postalCode": "78613-2216"
-      },
       {
         "line": [
           "15609 RONALD REAGAN BLVD STE 120 BLDG B"
@@ -52,11 +44,11 @@
       },
       {
         "line": [
-          "500 W WHITESTONE BLVD STE 100"
+          "600 N BELL BLVD STE 100"
         ],
         "city": "CEDAR PARK",
         "state": "TX",
-        "postalCode": "78613-2271"
+        "postalCode": "78613-2216"
       },
       {
         "line": [
@@ -65,6 +57,14 @@
         "city": "ROUND ROCK",
         "state": "TX",
         "postalCode": "78681-5794"
+      },
+      {
+        "line": [
+          "500 W WHITESTONE BLVD STE 100"
+        ],
+        "city": "CEDAR PARK",
+        "state": "TX",
+        "postalCode": "78613-2271"
       }
     ],
     "extension": [

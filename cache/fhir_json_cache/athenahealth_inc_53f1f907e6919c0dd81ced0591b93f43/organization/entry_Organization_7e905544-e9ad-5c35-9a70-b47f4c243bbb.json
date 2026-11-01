@@ -14,42 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487930632"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1740682921"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1184994162"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487930632"
       }
     ],
     "address": [
-      {
-        "line": [
-          "160 Hospital Drive"
-        ],
-        "city": "BENNINGTON",
-        "state": "VT",
-        "postalCode": "05201-2279"
-      },
-      {
-        "line": [
-          "100 Hospital Drive"
-        ],
-        "city": "BENNINGTON",
-        "state": "VT",
-        "postalCode": "05201-5004"
-      },
-      {
-        "line": [
-          "100 Hospital Drive"
-        ],
-        "city": "BENNINGTON",
-        "state": "VT",
-        "postalCode": "05201-5010"
-      },
       {
         "line": [
           "100 Hospital Drive"
@@ -65,6 +41,22 @@
         "city": "BRATTLEBORO",
         "state": "VT",
         "postalCode": "05301-0341"
+      },
+      {
+        "line": [
+          "300 Village Lane"
+        ],
+        "city": "BENNINGTON",
+        "state": "VT",
+        "postalCode": "05201-9041"
+      },
+      {
+        "line": [
+          "100 Hospital Drive"
+        ],
+        "city": "BENNINGTON",
+        "state": "VT",
+        "postalCode": "05201-5010"
       },
       {
         "line": [
@@ -84,11 +76,19 @@
       },
       {
         "line": [
-          "300 Village Lane"
+          "100 Hospital Drive"
         ],
         "city": "BENNINGTON",
         "state": "VT",
-        "postalCode": "05201-9041"
+        "postalCode": "05201-5004"
+      },
+      {
+        "line": [
+          "160 Hospital Drive"
+        ],
+        "city": "BENNINGTON",
+        "state": "VT",
+        "postalCode": "05201-2279"
       }
     ],
     "extension": [

@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "3b2a692a-85b0-41f1-b658-dd5b57e355bf",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:56-05:00"
+      "lastUpdated": "2026-10-27T00:53:40-05:00"
     },
     "active": true,
     "name": "LCMC Urgent Care Chalmette",
     "address": [
       {
         "type": "physical",
-        "text": "8100 Judge Perez Dr.\nCHALMETTE LA 70043\nUnited States of America",
+        "text": "8100 Judge Perez Dr.\r\nCHALMETTE LA 70043\r\nUnited States of America",
         "line": [
           "LCMC Urgent Care Chalmette",
           "8100 Judge Perez Dr."
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:571e3049-6d90-484b-bd9b-1936644c5b3b"
+      "reference": "urn:uuid:a3792191-e404-47be-acb3-de7fc01c8e68"
     }
   },
   "fullUrl": "urn:uuid:3b2a692a-85b0-41f1-b658-dd5b57e355bf"

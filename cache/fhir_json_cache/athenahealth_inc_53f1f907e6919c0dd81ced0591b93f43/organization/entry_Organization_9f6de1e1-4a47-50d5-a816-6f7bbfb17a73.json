@@ -22,22 +22,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649592304"
+        "value": "1699895003"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699895003"
+        "value": "1649592304"
       }
     ],
     "address": [
       {
         "line": [
-          "141 HOSPITAL DR",
-          "SUITE 102"
+          "520 W GUM ST",
+          "ANNEX BUILDING"
         ],
-        "city": "SALEM",
+        "city": "MARION",
         "state": "KY",
-        "postalCode": "42078-8043"
+        "postalCode": "42064-1516"
       },
       {
         "line": [
@@ -46,6 +46,31 @@
         "city": "MARION",
         "state": "KY",
         "postalCode": "42064-1516"
+      },
+      {
+        "line": [
+          "201 WATSON ST"
+        ],
+        "city": "MARION",
+        "state": "KY",
+        "postalCode": "42064-1824"
+      },
+      {
+        "line": [
+          "520 WEST GUM ST"
+        ],
+        "city": "MARION",
+        "state": "KY",
+        "postalCode": "42064-1516"
+      },
+      {
+        "line": [
+          "141 HOSPITAL DR",
+          "SUITE 102"
+        ],
+        "city": "SALEM",
+        "state": "KY",
+        "postalCode": "42078-8043"
       },
       {
         "line": [
@@ -62,31 +87,6 @@
         "city": "KUTTAWA",
         "state": "KY",
         "postalCode": "42055-6124"
-      },
-      {
-        "line": [
-          "520 W GUM ST",
-          "ANNEX BUILDING"
-        ],
-        "city": "MARION",
-        "state": "KY",
-        "postalCode": "42064-1516"
-      },
-      {
-        "line": [
-          "520 WEST GUM ST"
-        ],
-        "city": "MARION",
-        "state": "KY",
-        "postalCode": "42064-1516"
-      },
-      {
-        "line": [
-          "201 WATSON ST"
-        ],
-        "city": "MARION",
-        "state": "KY",
-        "postalCode": "42064-1824"
       }
     ],
     "extension": [

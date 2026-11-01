@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "975d22c6-c6a0-4c5b-b8c4-4ecc7f5a7f0a",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-09T23:56:58-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - WASHINGTON TOWNSHIP",
     "address": [
       {
         "type": "physical",
-        "text": "570 Egg Harbor Road\nSuite A-1",
+        "text": "570 Egg Harbor Road\r\nSuite A-1\r\nWashington Township NJ 08080\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - WASHINGTON TOWNSHIP",
-          "570 Egg Harbor Road\nSuite A-1"
+          "570 Egg Harbor Road\r\nSuite A-1"
         ],
         "city": "Washington Township",
         "state": "NJ",
-        "postalCode": "08080"
+        "postalCode": "08080",
+        "country": "US"
       }
     ],
     "partOf": {

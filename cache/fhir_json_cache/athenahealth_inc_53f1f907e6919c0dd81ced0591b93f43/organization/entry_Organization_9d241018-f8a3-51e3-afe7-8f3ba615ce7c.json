@@ -14,14 +14,38 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346044401"
+        "value": "1396961322"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396961322"
+        "value": "1346044401"
       }
     ],
     "address": [
+      {
+        "line": [
+          "2371 Crockett Drive Suite 102"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-5918"
+      },
+      {
+        "line": [
+          "5302 Buffalo Gap Rd. Suite 104"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79606-4130"
+      },
+      {
+        "line": [
+          "1680 ANTILLEY RD STE 110"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79606-5247"
+      },
       {
         "line": [
           "301 Jenny George Ln. Building B"
@@ -40,35 +64,11 @@
       },
       {
         "line": [
-          "2371 Crockett Drive Suite 102"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-5918"
-      },
-      {
-        "line": [
-          "1680 ANTILLEY RD STE 110"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79606-5247"
-      },
-      {
-        "line": [
           "2371 CROCKETT DR STE 102"
         ],
         "city": "BROWNWOOD",
         "state": "TX",
         "postalCode": "76801-5920"
-      },
-      {
-        "line": [
-          "5302 Buffalo Gap Rd. Suite 104"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79606-4130"
       }
     ],
     "extension": [

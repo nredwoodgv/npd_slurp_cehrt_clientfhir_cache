@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "767b103b-33ca-496f-80d0-2783fa2ce371",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-09T23:56:58-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - MONROE",
     "address": [
       {
         "type": "physical",
-        "text": "298 Applegarth Road\nSuite D",
+        "text": "298 Applegarth Road\r\nSuite D\r\nMonroe NJ 08831\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - MONROE",
-          "298 Applegarth Road\nSuite D"
+          "298 Applegarth Road\r\nSuite D"
         ],
         "city": "Monroe",
         "state": "NJ",
-        "postalCode": "08831"
+        "postalCode": "08831",
+        "country": "US"
       }
     ],
     "partOf": {

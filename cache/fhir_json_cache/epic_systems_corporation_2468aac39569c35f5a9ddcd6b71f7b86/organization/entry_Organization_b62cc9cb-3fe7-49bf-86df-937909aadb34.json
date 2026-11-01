@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "b62cc9cb-3fe7-49bf-86df-937909aadb34",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:56-05:00"
+      "lastUpdated": "2026-10-27T00:53:40-05:00"
     },
     "active": true,
     "name": "Children's Heart Clinic of Louisiana",
     "address": [
       {
         "type": "physical",
-        "text": "501 Medical Center Dr Ste 4B\nAlexandria LA 71301\nUnited States of America",
+        "text": "501 Medical Center Dr Ste 4B\r\nAlexandria LA 71301\r\nUnited States of America",
         "line": [
           "Children's Heart Clinic of Louisiana",
           "501 Medical Center Dr Ste 4B"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:571e3049-6d90-484b-bd9b-1936644c5b3b"
+      "reference": "urn:uuid:a3792191-e404-47be-acb3-de7fc01c8e68"
     }
   },
   "fullUrl": "urn:uuid:b62cc9cb-3fe7-49bf-86df-937909aadb34"

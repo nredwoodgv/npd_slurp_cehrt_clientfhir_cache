@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447524392"
+        "value": "1598958431"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598958431"
+        "value": "1447524392"
       }
     ],
     "address": [
-      {
-        "line": [
-          "12120-D Jones Rd"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77070-5280"
-      },
       {
         "line": [
           "5655 W. Sam Houston Pkwy N",
@@ -38,6 +30,14 @@
         "city": "HOUSTON",
         "state": "TX",
         "postalCode": "77041-5148"
+      },
+      {
+        "line": [
+          "12120-D Jones Rd"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77070-5280"
       }
     ],
     "extension": [

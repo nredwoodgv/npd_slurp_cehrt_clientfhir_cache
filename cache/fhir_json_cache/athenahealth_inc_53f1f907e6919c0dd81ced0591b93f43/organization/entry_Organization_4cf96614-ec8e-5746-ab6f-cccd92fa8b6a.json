@@ -14,29 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164183869"
+        "value": "1083992325"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083992325"
+        "value": "1164183869"
       }
     ],
     "address": [
       {
         "line": [
-          "912 AMERICAN EAGLE BLVD"
+          "819 CYPRESS VILLAGE BLVD"
         ],
         "city": "SUN CITY CENTER",
         "state": "FL",
-        "postalCode": "33573-5228"
-      },
-      {
-        "line": [
-          "3910 GALEN CT"
-        ],
-        "city": "SUN CITY CENTER",
-        "state": "FL",
-        "postalCode": "33573-6817"
+        "postalCode": "33573-6834"
       },
       {
         "line": [
@@ -48,14 +40,6 @@
       },
       {
         "line": [
-          "819 CYPRESS VILLAGE BLVD"
-        ],
-        "city": "SUN CITY CENTER",
-        "state": "FL",
-        "postalCode": "33573-6834"
-      },
-      {
-        "line": [
           "970 CYPRESS VILLAGE BLVD"
         ],
         "city": "SUN CITY CENTER",
@@ -64,11 +48,11 @@
       },
       {
         "line": [
-          "2901 US HIGHWAY 301 N"
+          "3910 GALEN CT"
         ],
-        "city": "ELLENTON",
+        "city": "SUN CITY CENTER",
         "state": "FL",
-        "postalCode": "34222-2007"
+        "postalCode": "33573-6817"
       },
       {
         "line": [
@@ -77,6 +61,22 @@
         "city": "SUN CITY CENTER",
         "state": "FL",
         "postalCode": "33573-6813"
+      },
+      {
+        "line": [
+          "912 AMERICAN EAGLE BLVD"
+        ],
+        "city": "SUN CITY CENTER",
+        "state": "FL",
+        "postalCode": "33573-5228"
+      },
+      {
+        "line": [
+          "2901 US HIGHWAY 301 N"
+        ],
+        "city": "ELLENTON",
+        "state": "FL",
+        "postalCode": "34222-2007"
       }
     ],
     "extension": [

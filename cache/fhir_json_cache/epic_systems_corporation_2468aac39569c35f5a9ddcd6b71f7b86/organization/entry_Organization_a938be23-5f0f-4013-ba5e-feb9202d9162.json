@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "a938be23-5f0f-4013-ba5e-feb9202d9162",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-09T23:56:58-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - EDISON JAMES",
     "address": [
       {
         "type": "physical",
-        "text": "98 James Street\nSuite 100",
+        "text": "98 James Street\r\nSuite 100\r\nEdison NJ 08820\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - EDISON JAMES",
-          "98 James Street\nSuite 100"
+          "98 James Street\r\nSuite 100"
         ],
         "city": "Edison",
         "state": "NJ",
-        "postalCode": "08820"
+        "postalCode": "08820",
+        "country": "US"
       }
     ],
     "partOf": {

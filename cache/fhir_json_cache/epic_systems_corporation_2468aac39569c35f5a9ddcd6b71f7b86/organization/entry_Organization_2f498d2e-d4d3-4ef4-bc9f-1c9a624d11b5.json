@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "2f498d2e-d4d3-4ef4-bc9f-1c9a624d11b5",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-09T23:56:58-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - PRINCETON",
     "address": [
       {
         "type": "physical",
-        "text": "134 Stanhope Street",
+        "text": "134 Stanhope Street\r\nPrinceton NJ 08540\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - PRINCETON",
           "134 Stanhope Street"
         ],
         "city": "Princeton",
         "state": "NJ",
-        "postalCode": "08540"
+        "postalCode": "08540",
+        "country": "US"
       }
     ],
     "partOf": {

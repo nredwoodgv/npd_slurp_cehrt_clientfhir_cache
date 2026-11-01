@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124460621"
+        "value": "1790990505"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790990505"
+        "value": "1124460621"
       }
     ],
     "address": [
-      {
-        "line": [
-          "12200 ANNAPOLIS RD; SUITE 116"
-        ],
-        "city": "GLENN DALE",
-        "state": "MD",
-        "postalCode": "20769-9182"
-      },
       {
         "line": [
           "12200 Annapolis Rd",
@@ -41,6 +33,15 @@
       },
       {
         "line": [
+          "17001 Science Dr",
+          "Suite 114"
+        ],
+        "city": "BOWIE",
+        "state": "MD",
+        "postalCode": "20715-4329"
+      },
+      {
+        "line": [
           "201 NATIONAL HARBOR BLVD STE 500"
         ],
         "city": "OXON HILL",
@@ -49,12 +50,11 @@
       },
       {
         "line": [
-          "17001 Science Dr",
-          "Suite 114"
+          "12200 ANNAPOLIS RD; SUITE 116"
         ],
-        "city": "BOWIE",
+        "city": "GLENN DALE",
         "state": "MD",
-        "postalCode": "20715-4329"
+        "postalCode": "20769-9182"
       },
       {
         "line": [

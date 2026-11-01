@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "f011f359-d397-49c8-b553-da478bbbb57d",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:10-05:00"
+      "lastUpdated": "2026-10-26T23:44:08-05:00"
     },
     "active": true,
     "name": "Mercy Health Tri County Primary Care",
     "address": [
       {
         "type": "physical",
-        "text": "9582 Princeton Glendale Road\nHAMILTON OH 45011\nUnited States of America",
+        "text": "9582 Princeton Glendale Road\r\nHAMILTON OH 45011\r\nUnited States of America",
         "line": [
           "Mercy Health Tri County Primary Care",
           "9582 Princeton Glendale Road"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:c218f4cf-04a9-4f7e-b20a-effa30dc87bc"
+      "reference": "urn:uuid:c74482ff-4f4c-4cbf-892e-36d440163fc9"
     }
   },
   "fullUrl": "urn:uuid:f011f359-d397-49c8-b553-da478bbbb57d"

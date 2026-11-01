@@ -3,17 +3,20 @@
     "resourceType": "Organization",
     "id": "3712eaac-a8a9-4b39-b06d-0559418378a9",
     "meta": {
-      "lastUpdated": "2025-10-06T17:33:14-05:00"
+      "lastUpdated": "2026-10-26T23:27:39-05:00"
     },
     "active": true,
     "name": "CVS/minuteclinic - Raleigh-Durham",
     "address": [
       {
         "type": "physical",
-        "text": "27504\nUnited States of America",
+        "text": "1 CVS Drive\r\nRaleigh NC 27504\r\nUnited States of America",
         "line": [
-          "CVS/minuteclinic - Raleigh-Durham"
+          "CVS/minuteclinic - Raleigh-Durham",
+          "1 CVS Drive"
         ],
+        "city": "Raleigh",
+        "state": "NC",
         "postalCode": "27504",
         "country": "US"
       }

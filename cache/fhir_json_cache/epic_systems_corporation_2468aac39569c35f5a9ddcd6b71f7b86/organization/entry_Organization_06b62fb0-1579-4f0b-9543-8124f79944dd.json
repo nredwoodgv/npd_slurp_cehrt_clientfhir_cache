@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "06b62fb0-1579-4f0b-9543-8124f79944dd",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:56-05:00"
+      "lastUpdated": "2026-10-27T00:53:40-05:00"
     },
     "active": true,
     "name": "Manning Family Children's Pediatrics - Thibodaux",
     "address": [
       {
         "type": "physical",
-        "text": "604 N. Acadia Rd.\nTHIBODAUX LA 70301-4897\nUnited States of America",
+        "text": "604 N. Acadia Rd.\r\nTHIBODAUX LA 70301-4897\r\nUnited States of America",
         "line": [
           "Manning Family Children's Pediatrics - Thibodaux",
           "604 N. Acadia Rd."
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:571e3049-6d90-484b-bd9b-1936644c5b3b"
+      "reference": "urn:uuid:a3792191-e404-47be-acb3-de7fc01c8e68"
     }
   },
   "fullUrl": "urn:uuid:06b62fb0-1579-4f0b-9543-8124f79944dd"

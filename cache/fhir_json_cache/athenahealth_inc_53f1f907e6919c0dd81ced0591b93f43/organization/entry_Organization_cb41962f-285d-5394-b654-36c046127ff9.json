@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629465224"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669818480"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134166812"
+        "value": "1881648376"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629465224"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,17 +30,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881648376"
+        "value": "1134166812"
       }
     ],
     "address": [
       {
         "line": [
-          "434 North Captain Gloster Drive"
+          "451 Bank Street"
         ],
-        "city": "GLOSTER",
+        "city": "WOODVILLE",
         "state": "MS",
-        "postalCode": "39638-3401"
+        "postalCode": "39669-6001"
       },
       {
         "line": [
@@ -53,11 +53,11 @@
       },
       {
         "line": [
-          "451 Bank Street"
+          "434 North Captain Gloster Drive"
         ],
-        "city": "WOODVILLE",
+        "city": "GLOSTER",
         "state": "MS",
-        "postalCode": "39669-6001"
+        "postalCode": "39638-3401"
       }
     ],
     "extension": [

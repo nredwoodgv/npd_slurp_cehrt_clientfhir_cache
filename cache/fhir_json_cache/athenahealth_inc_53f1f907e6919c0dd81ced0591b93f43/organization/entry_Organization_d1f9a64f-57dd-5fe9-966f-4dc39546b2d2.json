@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
+        "value": "1730484031"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
+        "value": "1962602300"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,11 +34,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
+        "value": "1053373951"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
+        "value": "1215999511"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,45 +46,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
+        "value": "1750302923"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
+        "value": "1669801585"
       }
     ],
     "address": [
       {
         "line": [
-          "400 W MURCHISON AVE"
+          "2713 SOUTH COMMERCIAL AVE"
         ],
-        "city": "ELDORADO",
+        "city": "COLEMAN",
         "state": "TX",
-        "postalCode": "76936-1246"
-      },
-      {
-        "line": [
-          "438 HOUSTON HART"
-        ],
-        "city": "SAN ANGELO",
-        "state": "TX",
-        "postalCode": "76903-4089"
-      },
-      {
-        "line": [
-          "3501 KNICKERBOCKER RD"
-        ],
-        "city": "SAN ANGELO",
-        "state": "TX",
-        "postalCode": "76904-7610"
-      },
-      {
-        "line": [
-          "4343 OAK GROVE BLVD"
-        ],
-        "city": "SAN ANGELO",
-        "state": "TX",
-        "postalCode": "76904-4500"
+        "postalCode": "76834-7503"
       },
       {
         "line": [
@@ -96,11 +72,11 @@
       },
       {
         "line": [
-          "2713 SOUTH COMMERCIAL AVE"
+          "4343 OAK GROVE BLVD"
         ],
-        "city": "COLEMAN",
+        "city": "SAN ANGELO",
         "state": "TX",
-        "postalCode": "76834-7503"
+        "postalCode": "76904-4500"
       },
       {
         "line": [
@@ -112,11 +88,19 @@
       },
       {
         "line": [
-          "1915 GREENWOOD"
+          "3501 KNICKERBOCKER RD"
         ],
         "city": "SAN ANGELO",
         "state": "TX",
-        "postalCode": "76901-1112"
+        "postalCode": "76904-7610"
+      },
+      {
+        "line": [
+          "609 RIO CONCHO DR"
+        ],
+        "city": "SAN ANGELO",
+        "state": "TX",
+        "postalCode": "76903-9900"
       },
       {
         "line": [
@@ -128,11 +112,27 @@
       },
       {
         "line": [
-          "609 RIO CONCHO DR"
+          "438 HOUSTON HART"
         ],
         "city": "SAN ANGELO",
         "state": "TX",
-        "postalCode": "76903-9900"
+        "postalCode": "76903-4089"
+      },
+      {
+        "line": [
+          "1915 GREENWOOD"
+        ],
+        "city": "SAN ANGELO",
+        "state": "TX",
+        "postalCode": "76901-1112"
+      },
+      {
+        "line": [
+          "400 W MURCHISON AVE"
+        ],
+        "city": "ELDORADO",
+        "state": "TX",
+        "postalCode": "76936-1246"
       },
       {
         "line": [

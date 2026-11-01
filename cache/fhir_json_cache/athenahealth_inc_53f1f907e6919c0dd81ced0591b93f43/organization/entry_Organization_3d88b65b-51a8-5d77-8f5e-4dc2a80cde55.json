@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972532299"
+        "value": "1306062229"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,11 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588131643"
+        "value": "1972532299"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306062229"
+        "value": "1588131643"
       }
     ],
     "address": [
@@ -37,6 +37,12 @@
         "city": "CENTREVILLE",
         "state": "AL",
         "postalCode": "35042-2918"
+      },
+      {
+        "line": [],
+        "city": "CENTREVILLE",
+        "state": "AL",
+        "postalCode": "35042-1610"
       },
       {
         "line": [
@@ -53,12 +59,6 @@
         "city": "CENTREVILLE",
         "state": "AL",
         "postalCode": "35042-2918"
-      },
-      {
-        "line": [],
-        "city": "CENTREVILLE",
-        "state": "AL",
-        "postalCode": "35042-1610"
       }
     ],
     "extension": [

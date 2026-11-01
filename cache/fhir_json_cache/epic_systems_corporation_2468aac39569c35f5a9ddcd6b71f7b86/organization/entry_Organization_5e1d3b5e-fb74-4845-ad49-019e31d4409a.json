@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "5e1d3b5e-fb74-4845-ad49-019e31d4409a",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:10-05:00"
+      "lastUpdated": "2026-10-26T23:44:08-05:00"
     },
     "active": true,
     "name": "Bon Secours Hampton Roads Surgical Specialists",
     "address": [
       {
         "type": "physical",
-        "text": "155 Kingsley Lane\nNorfolk VA 23505\nUnited States of America",
+        "text": "155 Kingsley Lane\r\nNorfolk VA 23505\r\nUnited States of America",
         "line": [
           "Bon Secours Hampton Roads Surgical Specialists",
           "155 Kingsley Lane"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:c218f4cf-04a9-4f7e-b20a-effa30dc87bc"
+      "reference": "urn:uuid:c74482ff-4f4c-4cbf-892e-36d440163fc9"
     }
   },
   "fullUrl": "urn:uuid:5e1d3b5e-fb74-4845-ad49-019e31d4409a"

@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "7b532747-8632-4d95-9b2b-d408523d8195",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:10-05:00"
+      "lastUpdated": "2026-10-26T23:44:08-05:00"
     },
     "active": true,
     "name": "Mercy Health Oak Point Primary Care",
     "address": [
       {
         "type": "physical",
-        "text": "5940 Oak Point Road\nLORAIN OH 44053\nUnited States of America",
+        "text": "5940 Oak Point Road\r\nLORAIN OH 44053\r\nUnited States of America",
         "line": [
           "Mercy Health Oak Point Primary Care",
           "5940 Oak Point Road"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:c218f4cf-04a9-4f7e-b20a-effa30dc87bc"
+      "reference": "urn:uuid:c74482ff-4f4c-4cbf-892e-36d440163fc9"
     }
   },
   "fullUrl": "urn:uuid:7b532747-8632-4d95-9b2b-d408523d8195"

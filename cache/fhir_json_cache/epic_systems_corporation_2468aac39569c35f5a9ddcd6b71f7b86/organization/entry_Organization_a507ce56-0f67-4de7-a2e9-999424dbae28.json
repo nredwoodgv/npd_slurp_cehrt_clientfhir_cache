@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "a507ce56-0f67-4de7-a2e9-999424dbae28",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Arbor Gate Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "2601 W Beltline Hwy Ste 200\nMadison WI 53713\nUS",
+        "text": "2601 W Beltline Hwy Ste 200\r\nMadison WI 53713\r\nUS",
         "line": [
           "UW Health Arbor Gate Clinic",
           "2601 W Beltline Hwy Ste 200"
         ],
         "city": "Madison",
         "state": "WI",
-        "postalCode": "53713"
+        "postalCode": "53713",
+        "country": "US"
       }
     ],
     "partOf": {

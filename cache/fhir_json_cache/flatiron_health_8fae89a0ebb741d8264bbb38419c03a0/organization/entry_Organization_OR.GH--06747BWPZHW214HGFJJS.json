@@ -90,10 +90,6 @@
       },
       {
         "system": "phone",
-        "value": "(555)867-5309"
-      },
-      {
-        "system": "phone",
         "value": "(843)234-1660"
       },
       {
@@ -103,6 +99,10 @@
       {
         "system": "phone",
         "value": "(843)357-7357"
+      },
+      {
+        "system": "phone",
+        "value": "(555)867-5309"
       }
     ],
     "address": [
@@ -264,17 +264,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1313 Mockingbird Lane"
-        ],
-        "city": "Mockingbird Heights",
-        "state": "CA",
-        "postalCode": "90210",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "817 Farrar Drive"
         ],
         "city": "Conway",
@@ -357,6 +346,17 @@
         "city": "Murrells Inlet",
         "state": "SC",
         "postalCode": "29576",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1313 Mockingbird Lane"
+        ],
+        "city": "Mockingbird Heights",
+        "state": "CA",
+        "postalCode": "90210",
         "country": "USA"
       }
     ],

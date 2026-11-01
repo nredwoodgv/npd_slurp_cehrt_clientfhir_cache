@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "c512eaa8-1a16-4205-8fce-92dbf470ee70",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-09T23:56:58-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - EDISON",
     "address": [
       {
         "type": "physical",
-        "text": "10 Parsonage Road\nSuites 118 & 104",
+        "text": "10 Parsonage Road\r\nSuites 118 & 104\r\nEdison NJ 08837\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - EDISON",
-          "10 Parsonage Road\nSuites 118 & 104"
+          "10 Parsonage Road\r\nSuites 118 & 104"
         ],
         "city": "Edison",
         "state": "NJ",
-        "postalCode": "08837"
+        "postalCode": "08837",
+        "country": "US"
       }
     ],
     "partOf": {

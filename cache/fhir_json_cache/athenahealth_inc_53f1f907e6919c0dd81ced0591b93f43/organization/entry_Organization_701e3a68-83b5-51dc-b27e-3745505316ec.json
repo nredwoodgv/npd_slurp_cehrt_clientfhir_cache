@@ -18,7 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487014361"
+        "value": "1013341734"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,31 +26,40 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013341734"
+        "value": "1871204511"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871204511"
+        "value": "1487014361"
       }
     ],
     "address": [
       {
         "line": [
-          "2401 Newnan Crossing Blvd East",
-          "Suite 120"
+          "1365 Rock Quarry Rd",
+          "Suite 202"
         ],
-        "city": "Newnan",
+        "city": "Stockbridge",
         "state": "GA",
-        "postalCode": "30265-2409"
+        "postalCode": "30281-5023"
       },
       {
         "line": [
           "619 South 8th Street",
-          "Suite 302"
+          "Suite 300"
         ],
         "city": "Griffin",
         "state": "GA",
         "postalCode": "30224-4260"
+      },
+      {
+        "line": [
+          "2401 Newnan Crossing Blvd East",
+          "Suite 130"
+        ],
+        "city": "Newnan",
+        "state": "GA",
+        "postalCode": "30265-2409"
       },
       {
         "line": [
@@ -64,7 +73,7 @@
       {
         "line": [
           "2401 Newnan Crossing Blvd East",
-          "Suite 130"
+          "Suite 120"
         ],
         "city": "Newnan",
         "state": "GA",
@@ -74,18 +83,9 @@
         "line": [
           "755 Old Norcross Rd"
         ],
-        "city": "LAWRENCEVILLE",
+        "city": "Lawrenceville",
         "state": "GA",
         "postalCode": "30046-4317"
-      },
-      {
-        "line": [
-          "619 South 8th Street",
-          "Suite 300"
-        ],
-        "city": "Griffin",
-        "state": "GA",
-        "postalCode": "30224-4260"
       },
       {
         "line": [
@@ -98,20 +98,20 @@
       },
       {
         "line": [
-          "1365 Rock Quarry Rd",
-          "Suite 202"
+          "755 Old Norcross Rd"
         ],
-        "city": "Stockbridge",
+        "city": "LAWRENCEVILLE",
         "state": "GA",
-        "postalCode": "30281-5023"
+        "postalCode": "30046-4317"
       },
       {
         "line": [
-          "755 Old Norcross Rd"
+          "619 South 8th Street",
+          "Suite 302"
         ],
-        "city": "Lawrenceville",
+        "city": "Griffin",
         "state": "GA",
-        "postalCode": "30046-4317"
+        "postalCode": "30224-4260"
       }
     ],
     "extension": [

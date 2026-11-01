@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "c02fdf04-9942-4589-bff6-fcb7398c26cf",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health East Towne Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "4122 E Towne Blvd\nMADISON WI 53704\nUS",
+        "text": "4122 E Towne Blvd\r\nMADISON WI 53704\r\nUS",
         "line": [
           "UW Health East Towne Clinic",
           "4122 E Towne Blvd"
         ],
         "city": "MADISON",
         "state": "WI",
-        "postalCode": "53704"
+        "postalCode": "53704",
+        "country": "US"
       }
     ],
     "partOf": {

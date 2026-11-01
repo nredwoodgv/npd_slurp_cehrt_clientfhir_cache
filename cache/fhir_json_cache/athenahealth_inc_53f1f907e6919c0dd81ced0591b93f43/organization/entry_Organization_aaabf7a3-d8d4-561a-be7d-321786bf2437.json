@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558344978"
+        "value": "1417987124"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417987124"
+        "value": "1558344978"
       }
     ],
     "address": [
@@ -32,27 +32,11 @@
       },
       {
         "line": [
-          "355 CROSSING BLVD"
-        ],
-        "city": "ORANGE PARK",
-        "state": "FL",
-        "postalCode": "32073-2860"
-      },
-      {
-        "line": [
           "2029 PROFESSIONAL CENTER DRIVE"
         ],
         "city": "ORANGE PARK",
         "state": "FL",
         "postalCode": "32073-4661"
-      },
-      {
-        "line": [
-          "2145 KINGSLEY AVENUE"
-        ],
-        "city": "ORANGE PARK",
-        "state": "FL",
-        "postalCode": "32073-5151"
       },
       {
         "line": [
@@ -64,11 +48,27 @@
       },
       {
         "line": [
+          "2145 KINGSLEY AVENUE"
+        ],
+        "city": "ORANGE PARK",
+        "state": "FL",
+        "postalCode": "32073-5151"
+      },
+      {
+        "line": [
           "1504 Seabreeze Ave"
         ],
         "city": "Jacksonville Beach",
         "state": "FL",
         "postalCode": "32250-3365"
+      },
+      {
+        "line": [
+          "355 CROSSING BLVD"
+        ],
+        "city": "ORANGE PARK",
+        "state": "FL",
+        "postalCode": "32073-2860"
       }
     ],
     "extension": [

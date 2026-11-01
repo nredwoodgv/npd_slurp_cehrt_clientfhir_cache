@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "107dac14-bdfe-4876-94c8-b8582cf8a073",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:02-05:00"
+      "lastUpdated": "2026-10-28T00:03:01-05:00"
     },
     "active": true,
     "name": "Our Lady of the Lake Livingston",
     "address": [
       {
         "type": "physical",
-        "text": "5000 O'donovan Blvd\nWALKER LA 70785\nUnited States of America",
+        "text": "5000 O'donovan Blvd\r\nWALKER LA 70785\r\nUnited States of America",
         "line": [
           "Our Lady of the Lake Livingston",
           "5000 O'donovan Blvd"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:5734eb57-1dbe-4815-a655-e8930004dd8b"
+      "reference": "urn:uuid:fb10c72a-022b-473e-888b-00dcb8b43cc2"
     }
   },
   "fullUrl": "urn:uuid:107dac14-bdfe-4876-94c8-b8582cf8a073"

@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "9426d42b-8666-458d-baba-460ab8a7ab8c",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Yahara Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "1050 E Broadway\nMonona WI 53716\nUS",
+        "text": "1050 E Broadway\r\nMonona WI 53716\r\nUS",
         "line": [
           "UW Health Yahara Clinic",
           "1050 E Broadway"
         ],
         "city": "Monona",
         "state": "WI",
-        "postalCode": "53716"
+        "postalCode": "53716",
+        "country": "US"
       }
     ],
     "partOf": {

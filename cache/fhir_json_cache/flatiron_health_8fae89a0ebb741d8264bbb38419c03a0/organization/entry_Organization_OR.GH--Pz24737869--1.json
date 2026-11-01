@@ -1202,10 +1202,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104312701"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1568885044"
       },
       {
@@ -1291,6 +1287,10 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1356837959"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104312701"
       }
     ],
     "active": true,
@@ -2994,11 +2994,15 @@
       },
       {
         "system": "phone",
-        "value": "(501)507-6035"
+        "value": "(480)428-7678"
       },
       {
         "system": "phone",
-        "value": "(936)213-7000"
+        "value": "(281)666-7009"
+      },
+      {
+        "system": "phone",
+        "value": "(501)507-6035"
       },
       {
         "system": "phone",
@@ -3010,11 +3014,7 @@
       },
       {
         "system": "phone",
-        "value": "(480)428-7678"
-      },
-      {
-        "system": "phone",
-        "value": "(281)666-7009"
+        "value": "(936)213-7000"
       }
     ],
     "address": [
@@ -9176,17 +9176,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "130 Medical Circle"
-        ],
-        "city": "Nashville",
-        "state": "AR",
-        "postalCode": "71852",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "5325 Oak Street"
         ],
         "city": "St Francisville",
@@ -10517,6 +10506,41 @@
         "use": "work",
         "type": "postal",
         "line": [
+          "7910 W Jefferson Blvd"
+        ],
+        "city": "Fort Wayne",
+        "state": "IN",
+        "postalCode": "46804",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "14780 W Mountain View Blvd",
+          "Suite 211"
+        ],
+        "city": "Surprise",
+        "state": "AZ",
+        "postalCode": "85374",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "22999 Hwy 59 N",
+          "Suite 201, West Tower Professional Building"
+        ],
+        "city": "Kingwood",
+        "state": "TX",
+        "postalCode": "77339",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
           "301 N 32nd Street"
         ],
         "city": "Muskogee",
@@ -10551,18 +10575,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1020 Riverwood Ct",
-          "Suite 330"
-        ],
-        "city": "Conroe",
-        "state": "TX",
-        "postalCode": "77304",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "5340 Holy Cross Pkwy"
         ],
         "city": "Mishawaka",
@@ -10586,35 +10598,23 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "7910 W Jefferson Blvd"
+          "1020 Riverwood Ct",
+          "Suite 330"
         ],
-        "city": "Fort Wayne",
-        "state": "IN",
-        "postalCode": "46804",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "14780 W Mountain View Blvd",
-          "Suite 211"
-        ],
-        "city": "Surprise",
-        "state": "AZ",
-        "postalCode": "85374",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "22999 Hwy 59 N",
-          "Suite 201, West Tower Professional Building"
-        ],
-        "city": "Kingwood",
+        "city": "Conroe",
         "state": "TX",
-        "postalCode": "77339",
+        "postalCode": "77304",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "130 Medical Circle"
+        ],
+        "city": "Nashville",
+        "state": "AR",
+        "postalCode": "71852",
         "country": "USA"
       }
     ],

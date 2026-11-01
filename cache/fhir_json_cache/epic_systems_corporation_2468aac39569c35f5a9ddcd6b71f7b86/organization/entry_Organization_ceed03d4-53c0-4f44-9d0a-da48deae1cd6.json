@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "ceed03d4-53c0-4f44-9d0a-da48deae1cd6",
     "meta": {
-      "lastUpdated": "2025-10-06T17:33:52-05:00"
+      "lastUpdated": "2026-10-28T02:07:47-05:00"
     },
     "active": true,
     "name": "Jewish Community Free Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "50 Montgomery Drive\nSANTA ROSA CA 95404-6615\nUnited States of America",
+        "text": "50 Montgomery Drive\r\nSANTA ROSA CA 95404-6615\r\nUnited States of America",
         "line": [
           "Jewish Community Free Clinic",
           "50 Montgomery Drive"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:3aff7a3d-ef29-484d-9594-65115c9fcc58"
+      "reference": "urn:uuid:32aea290-2d02-46c7-aaa0-e090af45f66d"
     }
   },
   "fullUrl": "urn:uuid:ceed03d4-53c0-4f44-9d0a-da48deae1cd6"

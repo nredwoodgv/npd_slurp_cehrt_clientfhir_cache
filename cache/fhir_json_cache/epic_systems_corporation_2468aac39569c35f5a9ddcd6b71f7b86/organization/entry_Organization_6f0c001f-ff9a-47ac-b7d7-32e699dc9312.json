@@ -3,17 +3,17 @@
     "resourceType": "Organization",
     "id": "6f0c001f-ff9a-47ac-b7d7-32e699dc9312",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:20-05:00"
+      "lastUpdated": "2026-10-28T02:12:48-05:00"
     },
     "active": true,
-    "name": "UNLV Otolaryngology Clinic",
+    "name": "UNLV Spring Valley",
     "address": [
       {
         "type": "physical",
-        "text": "5320 S Rainbow Blvd 250\nLas Vegas NV 89118\nUnited States of America",
+        "text": "5320 S Rainbow Blvd Ste 250\r\nLas Vegas NV 89118\r\nUnited States of America",
         "line": [
-          "UNLV Otolaryngology Clinic",
-          "5320 S Rainbow Blvd 250"
+          "UNLV Spring Valley",
+          "5320 S Rainbow Blvd Ste 250"
         ],
         "city": "Las Vegas",
         "state": "NV",
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:bc5acbba-cab1-45ce-aada-7107819f1e1e"
+      "reference": "urn:uuid:4e5f9c87-054d-4f31-8571-cdbcb8c28dc2"
     }
   },
   "fullUrl": "urn:uuid:6f0c001f-ff9a-47ac-b7d7-32e699dc9312"

@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "1222"
       },
-      "display": "Health Ventures of Central Iowa"
+      "display": "Health Ventures of Central Iowa, LLC"
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://emrproxy.mcfarlandclinic.com/FHIRProxy/api/FHIR/R4"
+    "address": "https://emrproxy.mcfarlandclinic.com/FHIRProxy/MYCHART/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:1755e529-c0fa-4792-81cc-b19735fee66a"
 }

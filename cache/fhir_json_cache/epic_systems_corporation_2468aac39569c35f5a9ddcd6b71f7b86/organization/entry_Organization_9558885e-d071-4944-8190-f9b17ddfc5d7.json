@@ -3,17 +3,20 @@
     "resourceType": "Organization",
     "id": "9558885e-d071-4944-8190-f9b17ddfc5d7",
     "meta": {
-      "lastUpdated": "2025-10-06T17:33:14-05:00"
+      "lastUpdated": "2026-10-26T23:27:39-05:00"
     },
     "active": true,
     "name": "CVS/minuteclinic - Nashville",
     "address": [
       {
         "type": "physical",
-        "text": "37204\nUnited States of America",
+        "text": "1 CVS Drive\r\nNashville TN 37204\r\nUnited States of America",
         "line": [
-          "CVS/minuteclinic - Nashville"
+          "CVS/minuteclinic - Nashville",
+          "1 CVS Drive"
         ],
+        "city": "Nashville",
+        "state": "TN",
         "postalCode": "37204",
         "country": "US"
       }

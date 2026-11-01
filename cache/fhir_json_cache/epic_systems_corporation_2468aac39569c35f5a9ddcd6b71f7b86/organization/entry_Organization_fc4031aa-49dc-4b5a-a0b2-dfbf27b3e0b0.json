@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "fc4031aa-49dc-4b5a-a0b2-dfbf27b3e0b0",
     "meta": {
-      "lastUpdated": "2025-10-06T17:33:52-05:00"
+      "lastUpdated": "2026-10-28T02:07:47-05:00"
     },
     "active": true,
     "name": "Kahuku Medical Center",
     "address": [
       {
         "type": "physical",
-        "text": "56-117 Pualalea St\nKAHUKU HI 96731\nUnited States of America",
+        "text": "56-117 Pualalea St\r\nKAHUKU HI 96731\r\nUnited States of America",
         "line": [
           "Kahuku Medical Center",
           "56-117 Pualalea St"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:704ac10e-1cb4-48be-8edb-3880784b6d83"
+      "reference": "urn:uuid:32aea290-2d02-46c7-aaa0-e090af45f66d"
     }
   },
   "fullUrl": "urn:uuid:fc4031aa-49dc-4b5a-a0b2-dfbf27b3e0b0"

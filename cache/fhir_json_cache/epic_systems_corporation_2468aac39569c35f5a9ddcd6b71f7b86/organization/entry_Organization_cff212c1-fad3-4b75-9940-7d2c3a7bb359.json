@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "cff212c1-fad3-4b75-9940-7d2c3a7bb359",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:56-05:00"
+      "lastUpdated": "2026-10-27T00:53:40-05:00"
     },
     "active": true,
     "name": "WJMC Manhattan Blvd",
     "address": [
       {
         "type": "physical",
-        "text": "2845 Manhattan Blvd\nHarvey LA 70058\nUnited States of America",
+        "text": "2845 Manhattan Blvd\r\nHarvey LA 70058\r\nUnited States of America",
         "line": [
           "WJMC Manhattan Blvd",
           "2845 Manhattan Blvd"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:571e3049-6d90-484b-bd9b-1936644c5b3b"
+      "reference": "urn:uuid:a3792191-e404-47be-acb3-de7fc01c8e68"
     }
   },
   "fullUrl": "urn:uuid:cff212c1-fad3-4b75-9940-7d2c3a7bb359"

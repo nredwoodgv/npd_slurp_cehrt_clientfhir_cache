@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "1a9dd86a-c4a2-4ad0-8e7a-ff5fdaa2f423",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-08T23:09:17-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - SADDLEBROOK",
     "address": [
       {
         "type": "physical",
-        "text": "160 Pehle Avenue\n4th Floor, Suite 400",
+        "text": "160 Pehle Avenue\r\n4th Floor, Suite 400\r\nSaddle Brook NJ 07663\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - SADDLEBROOK",
-          "160 Pehle Avenue\n4th Floor, Suite 400"
+          "160 Pehle Avenue\r\n4th Floor, Suite 400"
         ],
         "city": "Saddle Brook",
         "state": "NJ",
-        "postalCode": "07663"
+        "postalCode": "07663",
+        "country": "US"
       }
     ],
     "partOf": {

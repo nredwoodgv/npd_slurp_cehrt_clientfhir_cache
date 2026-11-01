@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "d90a8d3c-46f6-4afe-af3d-ed8b75697c99",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health N Bell School Rd Medical Center",
     "address": [
       {
         "type": "physical",
-        "text": "3505 N Bell School Rd\nRockford IL 61114\nUS",
+        "text": "3505 N Bell School Rd\r\nRockford IL 61114\r\nUnited States of America",
         "line": [
           "UW Health N Bell School Rd Medical Center",
           "3505 N Bell School Rd"
         ],
         "city": "Rockford",
         "state": "IL",
-        "postalCode": "61114"
+        "postalCode": "61114",
+        "country": "US"
       }
     ],
     "partOf": {

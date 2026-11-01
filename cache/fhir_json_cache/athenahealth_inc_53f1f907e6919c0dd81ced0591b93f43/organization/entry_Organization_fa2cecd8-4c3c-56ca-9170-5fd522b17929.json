@@ -14,70 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700311933"
+        "value": "1326539404"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326539404"
+        "value": "1700311933"
       }
     ],
     "address": [
       {
         "line": [
-          "1049 Market Street",
-          "Suite 603"
+          "10572 LAKE SEMINOLE TER"
         ],
-        "city": "SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94103-1365"
-      },
-      {
-        "line": [
-          "8 CINDERELLA LN NW"
-        ],
-        "city": "FORT WALTON BEACH",
+        "city": "SEMINOLE",
         "state": "FL",
-        "postalCode": "32547-1623"
-      },
-      {
-        "line": [
-          "107 FOX PLAN RD"
-        ],
-        "city": "MONROEVILLE",
-        "state": "PA",
-        "postalCode": "15146-2687"
-      },
-      {
-        "line": [
-          "3628 MANCHESTER WAY"
-        ],
-        "city": "KENT",
-        "state": "WA",
-        "postalCode": "98032-7088"
-      },
-      {
-        "line": [
-          "17935 SW 35TH DR"
-        ],
-        "city": "Miramar",
-        "state": "FL",
-        "postalCode": "33029-1688"
-      },
-      {
-        "line": [
-          "3054 Kenwood Cir"
-        ],
-        "city": "OAKLEY",
-        "state": "CA",
-        "postalCode": "94561-6023"
-      },
-      {
-        "line": [
-          "260 Bellefonte Circle"
-        ],
-        "city": "ASHLAND",
-        "state": "KY",
-        "postalCode": "41101-2196"
+        "postalCode": "33772-5467"
       },
       {
         "line": [
@@ -89,28 +40,77 @@
       },
       {
         "line": [
-          "41941 CONNERWOOD CT"
+          "584 CASTRO ST",
+          "STE 2090"
         ],
-        "city": "CANTON",
-        "state": "MI",
-        "postalCode": "48187-3592"
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94114-2512"
       },
       {
         "line": [
-          "565 S MASON RD",
-          "# 437"
+          "7533 S CENTER VIEW CT STE N"
         ],
-        "city": "KATY",
-        "state": "TX",
-        "postalCode": "77450-2437"
+        "city": "WEST JORDAN",
+        "state": "UT",
+        "postalCode": "84084-5526"
       },
       {
         "line": [
-          "21 KREUTZER RD"
+          "19 SYPHRONA CIR"
         ],
-        "city": "HINSDALE",
-        "state": "MA",
-        "postalCode": "01235-9265"
+        "city": "CLAYTON",
+        "state": "NC",
+        "postalCode": "27527-7055"
+      },
+      {
+        "line": [
+          "27418 N 93RD ST"
+        ],
+        "city": "SCOTTSDALE",
+        "state": "AZ",
+        "postalCode": "85262-9015"
+      },
+      {
+        "line": [
+          "260 Bellefonte Circle"
+        ],
+        "city": "ASHLAND",
+        "state": "KY",
+        "postalCode": "41101-2196"
+      },
+      {
+        "line": [
+          "3003 32ND AVE S STE 240"
+        ],
+        "city": "FARGO",
+        "state": "ND",
+        "postalCode": "58103-6118"
+      },
+      {
+        "line": [
+          "138 W MAIN ST",
+          "APT 4"
+        ],
+        "city": "CHESTER",
+        "state": "CT",
+        "postalCode": "06412-1364"
+      },
+      {
+        "line": [
+          "6650 RIVERS AVE STE 100"
+        ],
+        "city": "CHARLESTON",
+        "state": "SC",
+        "postalCode": "29406-4809"
+      },
+      {
+        "line": [
+          "3628 MANCHESTER WAY"
+        ],
+        "city": "KENT",
+        "state": "WA",
+        "postalCode": "98032-7088"
       },
       {
         "line": [
@@ -130,6 +130,47 @@
       },
       {
         "line": [
+          "4548 BAKERSTOWN CULMERVILLE RD"
+        ],
+        "city": "GIBSONIA",
+        "state": "PA",
+        "postalCode": "15044-7707"
+      },
+      {
+        "line": [
+          "21 KREUTZER RD"
+        ],
+        "city": "HINSDALE",
+        "state": "MA",
+        "postalCode": "01235-9265"
+      },
+      {
+        "line": [
+          "10629 SPRINGTIDE WAY"
+        ],
+        "city": "FORT WAYNE",
+        "state": "IN",
+        "postalCode": "46845-9441"
+      },
+      {
+        "line": [
+          "10 TRAILWOOD LN"
+        ],
+        "city": "TRUMBULL",
+        "state": "CT",
+        "postalCode": "06611-4041"
+      },
+      {
+        "line": [
+          "565 S MASON RD",
+          "# 437"
+        ],
+        "city": "KATY",
+        "state": "TX",
+        "postalCode": "77450-2437"
+      },
+      {
+        "line": [
           "1390 Market St",
           "Ste 200"
         ],
@@ -139,53 +180,27 @@
       },
       {
         "line": [
-          "4548 BAKERSTOWN CULMERVILLE RD"
+          "2222 W GRAND RIVER AVE STE A"
         ],
-        "city": "GIBSONIA",
+        "city": "OKEMOS",
+        "state": "MI",
+        "postalCode": "48864-1604"
+      },
+      {
+        "line": [
+          "17935 SW 35TH DR"
+        ],
+        "city": "Miramar",
+        "state": "FL",
+        "postalCode": "33029-1688"
+      },
+      {
+        "line": [
+          "107 FOX PLAN RD"
+        ],
+        "city": "MONROEVILLE",
         "state": "PA",
-        "postalCode": "15044-7707"
-      },
-      {
-        "line": [
-          "12049 PIONEERS WAY",
-          "APT 2219"
-        ],
-        "city": "ORLANDO",
-        "state": "FL",
-        "postalCode": "32832-2811"
-      },
-      {
-        "line": [
-          "3003 32ND AVE S STE 240"
-        ],
-        "city": "FARGO",
-        "state": "ND",
-        "postalCode": "58103-6118"
-      },
-      {
-        "line": [
-          "7533 S CENTER VIEW CT STE N"
-        ],
-        "city": "WEST JORDAN",
-        "state": "UT",
-        "postalCode": "84084-5526"
-      },
-      {
-        "line": [
-          "615 THOMPSON RD"
-        ],
-        "city": "LITHIA",
-        "state": "FL",
-        "postalCode": "33547-2826"
-      },
-      {
-        "line": [
-          "584 CASTRO ST",
-          "STE 2090"
-        ],
-        "city": "SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94114-2512"
+        "postalCode": "15146-2687"
       },
       {
         "line": [
@@ -198,75 +213,11 @@
       },
       {
         "line": [
-          "4126 SHERRY MIST LN"
+          "7904 ARTIFACT DR"
         ],
-        "city": "KATY",
-        "state": "TX",
-        "postalCode": "77449-1891"
-      },
-      {
-        "line": [
-          "212 W TROY ST STE B"
-        ],
-        "city": "DOTHAN",
-        "state": "AL",
-        "postalCode": "36303-4455"
-      },
-      {
-        "line": [
-          "195 CANYON CREEK TRL"
-        ],
-        "city": "DURANGO",
-        "state": "CO",
-        "postalCode": "81303-7533"
-      },
-      {
-        "line": [
-          "10629 SPRINGTIDE WAY"
-        ],
-        "city": "FORT WAYNE",
-        "state": "IN",
-        "postalCode": "46845-9441"
-      },
-      {
-        "line": [
-          "3083 E TIFFANY WAY"
-        ],
-        "city": "GILBERT",
-        "state": "AZ",
-        "postalCode": "85298-8707"
-      },
-      {
-        "line": [
-          "27418 N 93RD ST"
-        ],
-        "city": "SCOTTSDALE",
-        "state": "AZ",
-        "postalCode": "85262-9015"
-      },
-      {
-        "line": [
-          "3201 G ST"
-        ],
-        "city": "ANTIOCH",
-        "state": "CA",
-        "postalCode": "94509-5926"
-      },
-      {
-        "line": [
-          "2222 W GRAND RIVER AVE STE A"
-        ],
-        "city": "OKEMOS",
-        "state": "MI",
-        "postalCode": "48864-1604"
-      },
-      {
-        "line": [
-          "4030 WAKE FOREST RD STE 349"
-        ],
-        "city": "RALEIGH",
-        "state": "NC",
-        "postalCode": "27609-0010"
+        "city": "ZEPHYRHILLS",
+        "state": "FL",
+        "postalCode": "33541-7736"
       },
       {
         "line": [
@@ -278,19 +229,61 @@
       },
       {
         "line": [
-          "110 MAIN ST"
+          "12049 PIONEERS WAY",
+          "APT 2219"
         ],
-        "city": "BECKLEY",
-        "state": "WV",
-        "postalCode": "25801-4611"
+        "city": "ORLANDO",
+        "state": "FL",
+        "postalCode": "32832-2811"
       },
       {
         "line": [
-          "19 SYPHRONA CIR"
+          "41941 CONNERWOOD CT"
         ],
-        "city": "CLAYTON",
+        "city": "CANTON",
+        "state": "MI",
+        "postalCode": "48187-3592"
+      },
+      {
+        "line": [
+          "4030 WAKE FOREST RD STE 349"
+        ],
+        "city": "RALEIGH",
         "state": "NC",
-        "postalCode": "27527-7055"
+        "postalCode": "27609-0010"
+      },
+      {
+        "line": [
+          "212 W TROY ST STE B"
+        ],
+        "city": "DOTHAN",
+        "state": "AL",
+        "postalCode": "36303-4455"
+      },
+      {
+        "line": [
+          "1049 Market Street",
+          "Suite 603"
+        ],
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94103-1365"
+      },
+      {
+        "line": [
+          "4126 SHERRY MIST LN"
+        ],
+        "city": "KATY",
+        "state": "TX",
+        "postalCode": "77449-1891"
+      },
+      {
+        "line": [
+          "8 CINDERELLA LN NW"
+        ],
+        "city": "FORT WALTON BEACH",
+        "state": "FL",
+        "postalCode": "32547-1623"
       },
       {
         "line": [
@@ -302,36 +295,35 @@
       },
       {
         "line": [
-          "6650 RIVERS AVE STE 100"
+          "3083 E TIFFANY WAY"
         ],
-        "city": "CHARLESTON",
-        "state": "SC",
-        "postalCode": "29406-4809"
+        "city": "GILBERT",
+        "state": "AZ",
+        "postalCode": "85298-8707"
       },
       {
         "line": [
-          "7904 ARTIFACT DR"
+          "615 THOMPSON RD"
         ],
-        "city": "ZEPHYRHILLS",
+        "city": "LITHIA",
         "state": "FL",
-        "postalCode": "33541-7736"
+        "postalCode": "33547-2826"
       },
       {
         "line": [
-          "138 W MAIN ST",
-          "APT 4"
+          "195 CANYON CREEK TRL"
         ],
-        "city": "CHESTER",
-        "state": "CT",
-        "postalCode": "06412-1364"
+        "city": "DURANGO",
+        "state": "CO",
+        "postalCode": "81303-7533"
       },
       {
         "line": [
-          "10572 LAKE SEMINOLE TER"
+          "110 MAIN ST"
         ],
-        "city": "SEMINOLE",
-        "state": "FL",
-        "postalCode": "33772-5467"
+        "city": "BECKLEY",
+        "state": "WV",
+        "postalCode": "25801-4611"
       },
       {
         "line": [
@@ -343,11 +335,19 @@
       },
       {
         "line": [
-          "10 TRAILWOOD LN"
+          "3054 Kenwood Cir"
         ],
-        "city": "TRUMBULL",
-        "state": "CT",
-        "postalCode": "06611-4041"
+        "city": "OAKLEY",
+        "state": "CA",
+        "postalCode": "94561-6023"
+      },
+      {
+        "line": [
+          "3201 G ST"
+        ],
+        "city": "ANTIOCH",
+        "state": "CA",
+        "postalCode": "94509-5926"
       }
     ],
     "extension": [

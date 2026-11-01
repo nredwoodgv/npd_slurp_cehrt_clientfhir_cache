@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "987db4ce-984c-474e-a3d2-32b91d96ba0c",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "Peter Christensen Health Center Maternal-Fetal Medicine Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "129 Old Abe Rd\nLac Du Flambeau WI 54538\nUS",
+        "text": "129 Old Abe Rd\r\nLac Du Flambeau WI 54538\r\nUS",
         "line": [
           "Peter Christensen Health Center Maternal-Fetal Medicine Clinic",
           "129 Old Abe Rd"
         ],
         "city": "Lac Du Flambeau",
         "state": "WI",
-        "postalCode": "54538"
+        "postalCode": "54538",
+        "country": "US"
       }
     ],
     "partOf": {

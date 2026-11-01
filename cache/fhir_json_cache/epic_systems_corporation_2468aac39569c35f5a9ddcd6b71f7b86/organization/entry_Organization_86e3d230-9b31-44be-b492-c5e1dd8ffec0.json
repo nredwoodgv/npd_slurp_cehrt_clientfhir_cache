@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "86e3d230-9b31-44be-b492-c5e1dd8ffec0",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:56-05:00"
+      "lastUpdated": "2026-10-27T00:53:40-05:00"
     },
     "active": true,
     "name": "TINO Buckman Offices",
     "address": [
       {
         "type": "physical",
-        "text": "3434 Prytania Street\nNew Orleans LA 70115-3532\nUnited States of America",
+        "text": "3434 Prytania Street\r\nNew Orleans LA 70115-3532\r\nUnited States of America",
         "line": [
           "TINO Buckman Offices",
           "3434 Prytania Street"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:571e3049-6d90-484b-bd9b-1936644c5b3b"
+      "reference": "urn:uuid:a3792191-e404-47be-acb3-de7fc01c8e68"
     }
   },
   "fullUrl": "urn:uuid:86e3d230-9b31-44be-b492-c5e1dd8ffec0"

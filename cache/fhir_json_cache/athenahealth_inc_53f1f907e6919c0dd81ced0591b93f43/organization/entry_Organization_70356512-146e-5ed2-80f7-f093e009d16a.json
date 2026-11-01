@@ -22,11 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750672051"
+        "value": "1427005131"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427005131"
+        "value": "1750672051"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,6 +34,14 @@
       }
     ],
     "address": [
+      {
+        "line": [
+          "205 Trinity Way"
+        ],
+        "city": "SAINT JOHNS",
+        "state": "FL",
+        "postalCode": "32259-1155"
+      },
       {
         "line": [
           "4205 Belfort Rd Ste 4015"
@@ -44,9 +52,26 @@
       },
       {
         "line": [
-          "1 Shircliff Way"
+          "3 Shircliff Way"
         ],
-        "city": "Jacksonville",
+        "city": "JACKSONVILLE",
+        "state": "FL",
+        "postalCode": "32216-9999"
+      },
+      {
+        "line": [
+          "SVPE_PULM_RS_DILLON 625_HOPD",
+          "3 Shircliff Way, Suite 625"
+        ],
+        "city": "JACKSONVILLE",
+        "state": "FL",
+        "postalCode": "32204-4776"
+      },
+      {
+        "line": [
+          "1 SHIRCLIFF WAY"
+        ],
+        "city": "JACKSONVILLE",
         "state": "FL",
         "postalCode": "32204-4748"
       },
@@ -60,44 +85,11 @@
       },
       {
         "line": [
-          "1 SHIRCLIFF WAY"
-        ],
-        "city": "JACKSONVILLE",
-        "state": "FL",
-        "postalCode": "32204-4748"
-      },
-      {
-        "line": [
           "3 Shircliff Way"
         ],
         "city": "Jacksonville",
         "state": "FL",
         "postalCode": "32204-4777"
-      },
-      {
-        "line": [
-          "205 Trinity Way"
-        ],
-        "city": "SAINT JOHNS",
-        "state": "FL",
-        "postalCode": "32259-1155"
-      },
-      {
-        "line": [
-          "7963 Normandy Blvd"
-        ],
-        "city": "JACKSONVILLE",
-        "state": "FL",
-        "postalCode": "32221-6640"
-      },
-      {
-        "line": [
-          "SVPE_PULM_RS_DILLON 625_HOPD",
-          "3 Shircliff Way, Suite 625"
-        ],
-        "city": "JACKSONVILLE",
-        "state": "FL",
-        "postalCode": "32204-4776"
       },
       {
         "line": [
@@ -109,11 +101,11 @@
       },
       {
         "line": [
-          "3 Shircliff Way"
+          "7963 Normandy Blvd"
         ],
         "city": "JACKSONVILLE",
         "state": "FL",
-        "postalCode": "32216-9999"
+        "postalCode": "32221-6640"
       },
       {
         "line": [
@@ -130,6 +122,14 @@
         "city": "SAINT LOUIS",
         "state": "MO",
         "postalCode": "63134-9999"
+      },
+      {
+        "line": [
+          "1 Shircliff Way"
+        ],
+        "city": "Jacksonville",
+        "state": "FL",
+        "postalCode": "32204-4748"
       }
     ],
     "extension": [

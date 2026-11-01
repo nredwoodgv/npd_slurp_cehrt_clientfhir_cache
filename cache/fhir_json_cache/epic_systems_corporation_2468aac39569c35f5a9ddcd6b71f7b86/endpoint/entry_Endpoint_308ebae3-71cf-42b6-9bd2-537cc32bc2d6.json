@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "425"
       },
-      "display": "TriHealth"
+      "display": "TriHealth, Inc."
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://epicscripts.trihealth.com/fhirproxy/api/FHIR/R4"
+    "address": "https://epicscripts.trihealth.com/fhirproxy/HOME/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:308ebae3-71cf-42b6-9bd2-537cc32bc2d6"
 }

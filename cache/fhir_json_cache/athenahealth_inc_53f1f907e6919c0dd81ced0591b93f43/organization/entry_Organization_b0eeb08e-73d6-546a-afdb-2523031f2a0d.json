@@ -18,18 +18,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841438504"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1659358968"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1710578471"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1841438504"
       }
     ],
     "address": [
+      {
+        "line": [
+          "2827 BABCOCK RD"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78229-4813"
+      },
       {
         "line": [
           "111 Dallas St"
@@ -40,11 +48,19 @@
       },
       {
         "line": [
-          "5962 DANNY KAYE DR BLDG 1"
+          "7930 FLOYD CURL DR"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78240-5221"
+        "postalCode": "78229-3925"
+      },
+      {
+        "line": [
+          "2040 BABCOCK RD SUITE 407"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78229-4428"
       },
       {
         "line": [
@@ -54,6 +70,62 @@
         "city": "SAN ANTONIO",
         "state": "TX",
         "postalCode": "78229-4428"
+      },
+      {
+        "line": [
+          "111 DALLAS ST"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78202-1201"
+      },
+      {
+        "line": [
+          "11212 State Hwy 151"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78251-0002"
+      },
+      {
+        "line": [
+          "6019 BUENA VISTA ST"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78237-1700"
+      },
+      {
+        "line": [
+          "1650 Lockhill Selma Rd."
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78213-1929"
+      },
+      {
+        "line": [
+          "4118 MCCULLOUGH AVE STE. 8"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78212-9019"
+      },
+      {
+        "line": [
+          "403 TREELINE PARK"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78209-2042"
+      },
+      {
+        "line": [
+          "1139 E SONTERRA BLVD"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78258-4347"
       },
       {
         "line": [
@@ -73,83 +145,11 @@
       },
       {
         "line": [
-          "2040 BABCOCK RD SUITE 407"
+          "5962 DANNY KAYE DR BLDG 1"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78229-4428"
-      },
-      {
-        "line": [
-          "4118 MCCULLOUGH AVE STE. 8"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78212-9019"
-      },
-      {
-        "line": [
-          "7930 FLOYD CURL DR"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78229-3925"
-      },
-      {
-        "line": [
-          "1139 E SONTERRA BLVD"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78258-4347"
-      },
-      {
-        "line": [
-          "111 DALLAS ST"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78202-1201"
-      },
-      {
-        "line": [
-          "6019 BUENA VISTA ST"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78237-1700"
-      },
-      {
-        "line": [
-          "2827 BABCOCK RD"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78229-4813"
-      },
-      {
-        "line": [
-          "1650 Lockhill Selma Rd."
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78213-1929"
-      },
-      {
-        "line": [
-          "403 TREELINE PARK"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78209-2042"
-      },
-      {
-        "line": [
-          "11212 State Hwy 151"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78251-0002"
+        "postalCode": "78240-5221"
       }
     ],
     "extension": [

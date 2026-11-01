@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "0350310e-5441-4cbe-bfbe-a7e61f35cb5c",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Newburg Rd Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "6824 Newburg Rd\nRockford IL 61108\nUS",
+        "text": "6824 Newburg Rd\r\nRockford IL 61108\r\nUnited States of America",
         "line": [
           "UW Health Newburg Rd Clinic",
           "6824 Newburg Rd"
         ],
         "city": "Rockford",
         "state": "IL",
-        "postalCode": "61108"
+        "postalCode": "61108",
+        "country": "US"
       }
     ],
     "partOf": {

@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730491945"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043815848"
+        "value": "1942254347"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,21 +22,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942254347"
+        "value": "1730491945"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1043815848"
       }
     ],
     "address": [
       {
         "line": [
-          "550 1ST AVE"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10016-6401"
-      },
-      {
-        "line": [
-          "550 1ST AVE"
+          "550 1st ave"
         ],
         "city": "NEW YORK",
         "state": "NY",
@@ -56,11 +48,19 @@
       },
       {
         "line": [
-          "550 1st ave"
+          "550 1ST AVE"
         ],
         "city": "NEW YORK",
         "state": "NY",
         "postalCode": "10016-6402"
+      },
+      {
+        "line": [
+          "550 1ST AVE"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10016-6401"
       }
     ],
     "extension": [

@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "546d2f54-5009-4bae-99a7-65ffff755a0b",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:10-05:00"
+      "lastUpdated": "2026-10-26T23:44:08-05:00"
     },
     "active": true,
     "name": "Kings Mills Hospital",
     "address": [
       {
         "type": "physical",
-        "text": "5440 Kings Island Dr\nMASON OH 45040\nUnited States of America",
+        "text": "5440 Kings Island Dr\r\nMASON OH 45040\r\nUnited States of America",
         "line": [
           "Kings Mills Hospital",
           "5440 Kings Island Dr"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:c218f4cf-04a9-4f7e-b20a-effa30dc87bc"
+      "reference": "urn:uuid:c74482ff-4f4c-4cbf-892e-36d440163fc9"
     }
   },
   "fullUrl": "urn:uuid:546d2f54-5009-4bae-99a7-65ffff755a0b"

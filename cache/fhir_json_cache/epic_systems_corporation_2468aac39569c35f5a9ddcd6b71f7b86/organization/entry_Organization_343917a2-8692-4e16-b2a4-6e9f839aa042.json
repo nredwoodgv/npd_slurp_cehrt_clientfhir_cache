@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "343917a2-8692-4e16-b2a4-6e9f839aa042",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Marshfield Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "1000 N OAK AVE\nMarshfield WI 54449\nUS",
+        "text": "1000 N OAK AVE\r\nMarshfield WI 54449\r\nUS",
         "line": [
           "UW Health Marshfield Clinic",
           "1000 N OAK AVE"
         ],
         "city": "Marshfield",
         "state": "WI",
-        "postalCode": "54449"
+        "postalCode": "54449",
+        "country": "US"
       }
     ],
     "partOf": {

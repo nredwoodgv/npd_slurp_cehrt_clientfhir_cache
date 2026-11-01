@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "90d4d660-ed03-40bf-b58e-77fb67d8c432",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-08T23:09:17-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - GLEN RIDGE",
     "address": [
       {
         "type": "physical",
-        "text": "311 Bay Avenue\nSuites 200 & 203",
+        "text": "311 Bay Avenue\r\nSuites 200 & 203\r\nGlen Ridge NJ 07028\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - GLEN RIDGE",
-          "311 Bay Avenue\nSuites 200 & 203"
+          "311 Bay Avenue\r\nSuites 200 & 203"
         ],
         "city": "Glen Ridge",
         "state": "NJ",
-        "postalCode": "07028"
+        "postalCode": "07028",
+        "country": "US"
       }
     ],
     "partOf": {

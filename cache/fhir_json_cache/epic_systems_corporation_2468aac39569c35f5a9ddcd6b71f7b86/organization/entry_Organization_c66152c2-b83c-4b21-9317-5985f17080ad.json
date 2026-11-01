@@ -3,17 +3,20 @@
     "resourceType": "Organization",
     "id": "c66152c2-b83c-4b21-9317-5985f17080ad",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:44-05:00"
+      "lastUpdated": "2026-10-14T00:03:27-05:00"
     },
     "active": true,
     "name": "Dallas County Health and Human Services",
     "address": [
       {
         "type": "physical",
-        "text": "75207\nUnited States",
+        "text": "2377 N. Stemmons Freeway Suite 159\r\nDallas TX 75207\r\nUnited States",
         "line": [
-          "Dallas County Health and Human Services"
+          "Dallas County Health and Human Services",
+          "2377 N. Stemmons Freeway Suite 159"
         ],
+        "city": "Dallas",
+        "state": "TX",
         "postalCode": "75207",
         "country": "US"
       }

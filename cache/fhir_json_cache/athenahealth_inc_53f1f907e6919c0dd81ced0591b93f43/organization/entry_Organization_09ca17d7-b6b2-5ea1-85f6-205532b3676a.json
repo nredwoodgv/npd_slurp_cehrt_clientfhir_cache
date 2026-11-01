@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417718297"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205698479"
+        "value": "1235990011"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,14 +22,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447137740"
+        "value": "1205698479"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235990011"
+        "value": "1417718297"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447137740"
       }
     ],
     "address": [
+      {
+        "line": [
+          "8300 Utica Ave",
+          "Ste 245"
+        ],
+        "city": "RANCHO CUCAMONGA",
+        "state": "CA",
+        "postalCode": "91730-3852"
+      },
       {
         "line": [
           "80 Guest ST"
@@ -50,15 +59,6 @@
         "city": "PASADENA",
         "state": "CA",
         "postalCode": "91107-6622"
-      },
-      {
-        "line": [
-          "8300 Utica Ave",
-          "Ste 245"
-        ],
-        "city": "RANCHO CUCAMONGA",
-        "state": "CA",
-        "postalCode": "91730-3852"
       }
     ],
     "extension": [

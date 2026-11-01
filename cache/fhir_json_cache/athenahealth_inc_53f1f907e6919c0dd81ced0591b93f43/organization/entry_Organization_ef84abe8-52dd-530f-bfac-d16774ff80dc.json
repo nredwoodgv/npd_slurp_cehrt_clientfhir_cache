@@ -18,6 +18,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1568850600"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1265507537"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1942554514"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1598715401"
       },
       {
@@ -26,19 +38,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942554514"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265507537"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568850600"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356311252"
+        "value": "1700866399"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,11 +46,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700866399"
+        "value": "1780663989"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780663989"
+        "value": "1356311252"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -64,27 +64,11 @@
     "address": [
       {
         "line": [
-          "185 S CHET KRAUSE DR"
+          "201 E HOSPITAL RD"
         ],
-        "city": "IOLA",
+        "city": "EAGLE RIVER",
         "state": "WI",
-        "postalCode": "54945-9300"
-      },
-      {
-        "line": [
-          "2251 North Shore Rd"
-        ],
-        "city": "RHINELANDER",
-        "state": "WI",
-        "postalCode": "54501-6710"
-      },
-      {
-        "line": [
-          "824 Illinois Ave"
-        ],
-        "city": "Stevens Point",
-        "state": "WI",
-        "postalCode": "54481-3112"
+        "postalCode": "54521-9368"
       },
       {
         "line": [
@@ -96,23 +80,39 @@
       },
       {
         "line": [
-          "3576 NU ROC LANE"
+          "401 W MOHAWK DR STE 100"
         ],
-        "city": "LAONA",
+        "city": "TOMAHAWK",
         "state": "WI",
-        "postalCode": "54541-9291"
+        "postalCode": "54487-2274"
       },
       {
         "line": [
-          "2251 North Shore Dr"
+          "824 Illinois Ave"
         ],
-        "city": "RHINELANDER",
+        "city": "Stevens Point",
         "state": "WI",
-        "postalCode": "54501-6710"
+        "postalCode": "54481-3112"
       },
       {
         "line": [
-          "4686 N SHORE DR"
+          "900 Illinois Ave"
+        ],
+        "city": "STEVENS POINT",
+        "state": "WI",
+        "postalCode": "54481-3114"
+      },
+      {
+        "line": [
+          "7805 BIRCH ST"
+        ],
+        "city": "SCHOFIELD",
+        "state": "WI",
+        "postalCode": "54476-5219"
+      },
+      {
+        "line": [
+          "900 BOYCE DR"
         ],
         "city": "RHINELANDER",
         "state": "WI",
@@ -120,15 +120,55 @@
       },
       {
         "line": [
-          "601 South Center Ave"
+          "1970 NAVAJO ST"
         ],
-        "city": "MERRILL",
+        "city": "RHINELANDER",
         "state": "WI",
-        "postalCode": "54452-3404"
+        "postalCode": "54501-8890"
       },
       {
         "line": [
-          "401 W MOHAWK DR STE 100"
+          "1207 TAYLOR STREET"
+        ],
+        "city": "MERRILL",
+        "state": "WI",
+        "postalCode": "54452-2970"
+      },
+      {
+        "line": [
+          "\".\""
+        ],
+        "city": "WAUSAU",
+        "state": "WI",
+        "postalCode": "54401-7439"
+      },
+      {
+        "line": [
+          "2251 NORTH SHORE DR"
+        ],
+        "city": "RHINELANDER",
+        "state": "WI",
+        "postalCode": "54501-6710"
+      },
+      {
+        "line": [
+          "2251 North Shore Drive"
+        ],
+        "city": "Rhinelander",
+        "state": "WI",
+        "postalCode": "54501-6710"
+      },
+      {
+        "line": [
+          "2251 NORTH SHORE RD"
+        ],
+        "city": "RHINELANDER",
+        "state": "WI",
+        "postalCode": "54501-6710"
+      },
+      {
+        "line": [
+          "N/A"
         ],
         "city": "TOMAHAWK",
         "state": "WI",
@@ -144,27 +184,11 @@
       },
       {
         "line": [
-          "N/A"
+          "900 Boyce Drive"
         ],
-        "city": "STEVENS POINT",
+        "city": "RHINELANDER",
         "state": "WI",
-        "postalCode": "54481-3114"
-      },
-      {
-        "line": [
-          "900 Illinois Ave"
-        ],
-        "city": "STEVENS POINT",
-        "state": "WI",
-        "postalCode": "54481-3114"
-      },
-      {
-        "line": [
-          "\".\""
-        ],
-        "city": "WAUSAU",
-        "state": "WI",
-        "postalCode": "54401-7439"
+        "postalCode": "54501-3835"
       },
       {
         "line": [
@@ -176,155 +200,11 @@
       },
       {
         "line": [
-          "2251 NORTH SHORE DR"
-        ],
-        "city": "RHINELANDER",
-        "state": "WI",
-        "postalCode": "54501-6710"
-      },
-      {
-        "line": [
-          "2100 E SIXTH ST"
-        ],
-        "city": "MILLADORE",
-        "state": "WI",
-        "postalCode": "54454-3017"
-      },
-      {
-        "line": [
-          "N/A"
-        ],
-        "city": "TOMAHAWK",
-        "state": "WI",
-        "postalCode": "54487-2273"
-      },
-      {
-        "line": [
-          "2251 North Shore Drive"
-        ],
-        "city": "Rhinelander",
-        "state": "WI",
-        "postalCode": "54501-6710"
-      },
-      {
-        "line": [
-          "201 E HOSPITAL RD"
-        ],
-        "city": "EAGLE RIVER",
-        "state": "WI",
-        "postalCode": "54521-9368"
-      },
-      {
-        "line": [
-          "1209 TAYLOR STREET"
+          "601 South Center Ave"
         ],
         "city": "MERRILL",
         "state": "WI",
-        "postalCode": "54452-2970"
-      },
-      {
-        "line": [
-          "720 EAST KINGS RD"
-        ],
-        "city": "TOMAHAWK",
-        "state": "WI",
-        "postalCode": "54487-1513"
-      },
-      {
-        "line": [
-          "1401 CHURCHILL ST"
-        ],
-        "city": "WAUPACA",
-        "state": "WI",
-        "postalCode": "54981-2027"
-      },
-      {
-        "line": [
-          "N/A"
-        ],
-        "city": "WESTON",
-        "state": "WI",
-        "postalCode": "54476-5216"
-      },
-      {
-        "line": [
-          "900 Boyce Drive"
-        ],
-        "city": "RHINELANDER",
-        "state": "WI",
-        "postalCode": "54501-3835"
-      },
-      {
-        "line": [
-          "105 W PIONEER ST"
-        ],
-        "city": "CRANDON",
-        "state": "WI",
-        "postalCode": "54520-1554"
-      },
-      {
-        "line": [
-          "7805 BIRCH ST"
-        ],
-        "city": "SCHOFIELD",
-        "state": "WI",
-        "postalCode": "54476-5219"
-      },
-      {
-        "line": [
-          "1226 BERLIN ST"
-        ],
-        "city": "WAUPACA",
-        "state": "WI",
-        "postalCode": "54981-1991"
-      },
-      {
-        "line": [
-          "1970 NAVAJO ST"
-        ],
-        "city": "RHINELANDER",
-        "state": "WI",
-        "postalCode": "54501-8890"
-      },
-      {
-        "line": [
-          "1923 S UTICA AVE"
-        ],
-        "city": "TULSA",
-        "state": "OK",
-        "postalCode": "74104-6520"
-      },
-      {
-        "line": [
-          "2251 NORTH SHORE RD"
-        ],
-        "city": "RHINELANDER",
-        "state": "WI",
-        "postalCode": "54501-6710"
-      },
-      {
-        "line": [
-          "4686 N SHORE DR"
-        ],
-        "city": "RHINELANDER",
-        "state": "WI",
-        "postalCode": "54501-6703"
-      },
-      {
-        "line": [
-          "9969 OLD HWY 70"
-        ],
-        "city": "MINOCQUA",
-        "state": "WI",
-        "postalCode": "54548-9010"
-      },
-      {
-        "line": [
-          "3120 ROSALIE PKWY"
-        ],
-        "city": "PLOVER",
-        "state": "WI",
-        "postalCode": "54467-4154"
+        "postalCode": "54452-3404"
       },
       {
         "line": [
@@ -336,55 +216,7 @@
       },
       {
         "line": [
-          "900 BOYCE DR"
-        ],
-        "city": "RHINELANDER",
-        "state": "WI",
-        "postalCode": "54501-3835"
-      },
-      {
-        "line": [
-          "1000 DAY ST"
-        ],
-        "city": "RHINELANDER",
-        "state": "WI",
-        "postalCode": "54501-3835"
-      },
-      {
-        "line": [
           "N/A"
-        ],
-        "city": "STANLEY",
-        "state": "WI",
-        "postalCode": "54768-1297"
-      },
-      {
-        "line": [
-          "N/A"
-        ],
-        "city": "WESTON",
-        "state": "WI",
-        "postalCode": "54476-5220"
-      },
-      {
-        "line": [
-          "\".\""
-        ],
-        "city": "WAUSAU",
-        "state": "WI",
-        "postalCode": "54402-0541"
-      },
-      {
-        "line": [
-          "3430 East Main St"
-        ],
-        "city": "Merrill",
-        "state": "WI",
-        "postalCode": "54452-9001"
-      },
-      {
-        "line": [
-          "900 ILLINOIS AVE"
         ],
         "city": "STEVENS POINT",
         "state": "WI",
@@ -392,19 +224,11 @@
       },
       {
         "line": [
-          "1800 SHERMAN AVE"
-        ],
-        "city": "STEVENS POINT",
-        "state": "WI",
-        "postalCode": "54481-7215"
-      },
-      {
-        "line": [
-          "2251 North Shore Dr"
+          "2251 North Shore Rd"
         ],
         "city": "RHINELANDER",
         "state": "WI",
-        "postalCode": "54501-8360"
+        "postalCode": "54501-6710"
       },
       {
         "line": [
@@ -416,43 +240,27 @@
       },
       {
         "line": [
-          "900 BOYCE AVE"
+          "2100 E SIXTH ST"
+        ],
+        "city": "MILLADORE",
+        "state": "WI",
+        "postalCode": "54454-3017"
+      },
+      {
+        "line": [
+          "4686 N SHORE DR"
         ],
         "city": "RHINELANDER",
         "state": "WI",
-        "postalCode": "54501-3835"
+        "postalCode": "54501-6703"
       },
       {
         "line": [
-          "1207 TAYLOR STREET"
+          "2251 North Shore Dr"
         ],
-        "city": "MERRILL",
+        "city": "RHINELANDER",
         "state": "WI",
-        "postalCode": "54452-2970"
-      },
-      {
-        "line": [
-          "401 W Mohawk Ave"
-        ],
-        "city": "TOMAHAWK",
-        "state": "WI",
-        "postalCode": "54487-2274"
-      },
-      {
-        "line": [
-          "222 W College Ave"
-        ],
-        "city": "APPLETON",
-        "state": "WI",
-        "postalCode": "54911-1111"
-      },
-      {
-        "line": [
-          "N/A"
-        ],
-        "city": "TOMAHAWK",
-        "state": "WI",
-        "postalCode": "54487-2274"
+        "postalCode": "54501-6710"
       },
       {
         "line": [
@@ -464,11 +272,59 @@
       },
       {
         "line": [
-          "824 ILLINOIS AVE"
+          "900 ILLINOIS AVE"
         ],
         "city": "STEVENS POINT",
         "state": "WI",
-        "postalCode": "54481-3112"
+        "postalCode": "54481-3114"
+      },
+      {
+        "line": [
+          "3430 East Main St"
+        ],
+        "city": "Merrill",
+        "state": "WI",
+        "postalCode": "54452-9001"
+      },
+      {
+        "line": [
+          "1800 SHERMAN AVE"
+        ],
+        "city": "STEVENS POINT",
+        "state": "WI",
+        "postalCode": "54481-7215"
+      },
+      {
+        "line": [
+          "N/A"
+        ],
+        "city": "TOMAHAWK",
+        "state": "WI",
+        "postalCode": "54487-2273"
+      },
+      {
+        "line": [
+          "900 BOYCE AVE"
+        ],
+        "city": "RHINELANDER",
+        "state": "WI",
+        "postalCode": "54501-3835"
+      },
+      {
+        "line": [
+          "185 S CHET KRAUSE DR"
+        ],
+        "city": "IOLA",
+        "state": "WI",
+        "postalCode": "54945-9300"
+      },
+      {
+        "line": [
+          "N/A"
+        ],
+        "city": "WESTON",
+        "state": "WI",
+        "postalCode": "54476-5220"
       },
       {
         "line": [
@@ -480,11 +336,155 @@
       },
       {
         "line": [
+          "N/A"
+        ],
+        "city": "STANLEY",
+        "state": "WI",
+        "postalCode": "54768-1297"
+      },
+      {
+        "line": [
+          "1923 S UTICA AVE"
+        ],
+        "city": "TULSA",
+        "state": "OK",
+        "postalCode": "74104-6520"
+      },
+      {
+        "line": [
+          "720 EAST KINGS RD"
+        ],
+        "city": "TOMAHAWK",
+        "state": "WI",
+        "postalCode": "54487-1513"
+      },
+      {
+        "line": [
+          "222 W College Ave"
+        ],
+        "city": "APPLETON",
+        "state": "WI",
+        "postalCode": "54911-1111"
+      },
+      {
+        "line": [
+          "824 ILLINOIS AVE"
+        ],
+        "city": "STEVENS POINT",
+        "state": "WI",
+        "postalCode": "54481-3112"
+      },
+      {
+        "line": [
+          "1401 CHURCHILL ST"
+        ],
+        "city": "WAUPACA",
+        "state": "WI",
+        "postalCode": "54981-2027"
+      },
+      {
+        "line": [
+          "4686 N SHORE DR"
+        ],
+        "city": "RHINELANDER",
+        "state": "WI",
+        "postalCode": "54501-3835"
+      },
+      {
+        "line": [
+          "1209 TAYLOR STREET"
+        ],
+        "city": "MERRILL",
+        "state": "WI",
+        "postalCode": "54452-2970"
+      },
+      {
+        "line": [
+          "3576 NU ROC LANE"
+        ],
+        "city": "LAONA",
+        "state": "WI",
+        "postalCode": "54541-9291"
+      },
+      {
+        "line": [
+          "N/A"
+        ],
+        "city": "WESTON",
+        "state": "WI",
+        "postalCode": "54476-5216"
+      },
+      {
+        "line": [
+          "9969 OLD HWY 70"
+        ],
+        "city": "MINOCQUA",
+        "state": "WI",
+        "postalCode": "54548-9010"
+      },
+      {
+        "line": [
           "1500 O'DAY STREET"
         ],
         "city": "MERRILL",
         "state": "WI",
         "postalCode": "54452-3487"
+      },
+      {
+        "line": [
+          "1000 DAY ST"
+        ],
+        "city": "RHINELANDER",
+        "state": "WI",
+        "postalCode": "54501-3835"
+      },
+      {
+        "line": [
+          "3120 ROSALIE PKWY"
+        ],
+        "city": "PLOVER",
+        "state": "WI",
+        "postalCode": "54467-4154"
+      },
+      {
+        "line": [
+          "\".\""
+        ],
+        "city": "WAUSAU",
+        "state": "WI",
+        "postalCode": "54402-0541"
+      },
+      {
+        "line": [
+          "2251 North Shore Dr"
+        ],
+        "city": "RHINELANDER",
+        "state": "WI",
+        "postalCode": "54501-8360"
+      },
+      {
+        "line": [
+          "401 W Mohawk Ave"
+        ],
+        "city": "TOMAHAWK",
+        "state": "WI",
+        "postalCode": "54487-2274"
+      },
+      {
+        "line": [
+          "1226 BERLIN ST"
+        ],
+        "city": "WAUPACA",
+        "state": "WI",
+        "postalCode": "54981-1991"
+      },
+      {
+        "line": [
+          "105 W PIONEER ST"
+        ],
+        "city": "CRANDON",
+        "state": "WI",
+        "postalCode": "54520-1554"
       }
     ],
     "extension": [

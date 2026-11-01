@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134939333"
+        "value": "1508677519"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508677519"
+        "value": "1134939333"
       }
     ],
     "address": [
@@ -42,41 +42,6 @@
       },
       {
         "line": [
-          "70 ORANGE AVE",
-          "STE 235"
-        ],
-        "city": "LIVINGSTON",
-        "state": "NJ",
-        "postalCode": "07039-4903"
-      },
-      {
-        "line": [
-          "70 ORAVE AVE",
-          "STE 235"
-        ],
-        "city": "LIVINGSTON",
-        "state": "NJ",
-        "postalCode": "07039-4903"
-      },
-      {
-        "line": [
-          "70 S ORANGE AVE Suite 235"
-        ],
-        "city": "LIVINGSTON",
-        "state": "NJ",
-        "postalCode": "07039-4910"
-      },
-      {
-        "line": [
-          "477 STATE ROUTE 10",
-          "STE 204"
-        ],
-        "city": "RANDOLPH",
-        "state": "NJ",
-        "postalCode": "07869-2144"
-      },
-      {
-        "line": [
           "70 S ORANGE AVE"
         ],
         "city": "LIVINGSTON",
@@ -85,7 +50,7 @@
       },
       {
         "line": [
-          "70 S ORANGE AVE",
+          "70 ORAVE AVE",
           "STE 235"
         ],
         "city": "LIVINGSTON",
@@ -103,6 +68,33 @@
       },
       {
         "line": [
+          "70 ORANGE AVE",
+          "STE 235"
+        ],
+        "city": "LIVINGSTON",
+        "state": "NJ",
+        "postalCode": "07039-4903"
+      },
+      {
+        "line": [
+          "70 S ORANGE AVE",
+          "STE 235"
+        ],
+        "city": "LIVINGSTON",
+        "state": "NJ",
+        "postalCode": "07039-4903"
+      },
+      {
+        "line": [
+          "477 STATE ROUTE 10",
+          "STE 204"
+        ],
+        "city": "RANDOLPH",
+        "state": "NJ",
+        "postalCode": "07869-2144"
+      },
+      {
+        "line": [
           "70 S ORANGE AVE",
           "STE 235"
         ],
@@ -114,6 +106,14 @@
         "line": [
           "70 South Orange Avenue",
           "STE 235"
+        ],
+        "city": "LIVINGSTON",
+        "state": "NJ",
+        "postalCode": "07039-4910"
+      },
+      {
+        "line": [
+          "70 S ORANGE AVE Suite 235"
         ],
         "city": "LIVINGSTON",
         "state": "NJ",

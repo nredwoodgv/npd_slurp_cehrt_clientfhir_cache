@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "f871c093-d561-472c-a4dd-c893969affcd",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health N Mulford Rd Immediate Care",
     "address": [
       {
         "type": "physical",
-        "text": "3775 N Mulford Rd\nRockford IL 61114\nUS",
+        "text": "3775 N Mulford Rd\r\nRockford IL 61114\r\nUnited States of America",
         "line": [
           "UW Health N Mulford Rd Immediate Care",
           "3775 N Mulford Rd"
         ],
         "city": "Rockford",
         "state": "IL",
-        "postalCode": "61114"
+        "postalCode": "61114",
+        "country": "US"
       }
     ],
     "partOf": {

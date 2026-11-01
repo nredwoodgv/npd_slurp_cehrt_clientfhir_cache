@@ -14,26 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609546126"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821482530"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003075607"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790116911"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760841159"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1760015317"
       },
       {
@@ -42,11 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447598321"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902065766"
+        "value": "1790116911"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,7 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467752998"
+        "value": "1760841159"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,7 +38,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447598321"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467752998"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1851751549"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821482530"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154746899"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -70,17 +62,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154746899"
+        "value": "1003075607"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1609546126"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902065766"
       }
     ],
     "address": [
       {
         "line": [
-          "244 Avenue D SW"
+          "1129 N Missouri Ave"
         ],
-        "city": "WINTER HAVEN",
+        "city": "LAKELAND",
         "state": "FL",
-        "postalCode": "33880-2927"
+        "postalCode": "33805-4411"
       },
       {
         "line": [
@@ -92,19 +92,19 @@
       },
       {
         "line": [
+          "244 Avenue D SW"
+        ],
+        "city": "WINTER HAVEN",
+        "state": "FL",
+        "postalCode": "33880-2927"
+      },
+      {
+        "line": [
           "903 Lowry Ave"
         ],
         "city": "LAKELAND",
         "state": "FL",
         "postalCode": "33801-7544"
-      },
-      {
-        "line": [
-          "1129 N Missouri Ave"
-        ],
-        "city": "LAKELAND",
-        "state": "FL",
-        "postalCode": "33805-4411"
       }
     ],
     "extension": [

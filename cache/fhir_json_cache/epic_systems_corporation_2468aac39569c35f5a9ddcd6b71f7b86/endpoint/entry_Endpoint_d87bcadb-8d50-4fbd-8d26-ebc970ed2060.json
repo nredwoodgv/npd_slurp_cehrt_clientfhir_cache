@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "1011"
       },
-      "display": "Cone Health"
+      "display": "The Moses H. Cone Memorial Hospital Operating Corporation d/b/a Cone Health"
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://epsoap.conehealth.com/FHIRProxy/api/FHIR/R4"
+    "address": "https://epsoap.conehealth.com/FHIRProxy/HOME/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:d87bcadb-8d50-4fbd-8d26-ebc970ed2060"
 }

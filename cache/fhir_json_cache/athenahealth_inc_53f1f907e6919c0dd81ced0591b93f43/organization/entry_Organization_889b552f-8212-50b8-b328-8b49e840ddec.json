@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154407799"
+        "value": "1447343413"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447343413"
+        "value": "1154407799"
       }
     ],
     "address": [
-      {
-        "line": [
-          "850 S ATLANTIC BLVD STE 104",
-          "STE 104"
-        ],
-        "city": "MONTEREY PARK",
-        "state": "CA",
-        "postalCode": "91754-6704"
-      },
       {
         "line": [
           "711 W COLLEGE ST",
@@ -39,6 +30,15 @@
         "city": "LOS ANGELES",
         "state": "CA",
         "postalCode": "90012-1093"
+      },
+      {
+        "line": [
+          "850 S ATLANTIC BLVD STE 104",
+          "STE 104"
+        ],
+        "city": "MONTEREY PARK",
+        "state": "CA",
+        "postalCode": "91754-6704"
       }
     ],
     "extension": [

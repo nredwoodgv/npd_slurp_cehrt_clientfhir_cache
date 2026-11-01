@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "95e2f056-da6d-45a8-a09b-58747973aae1",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:20-05:00"
+      "lastUpdated": "2026-10-28T02:12:48-05:00"
     },
     "active": true,
     "name": "UNLV Peds Bailey Middle School",
     "address": [
       {
         "type": "physical",
-        "text": "2500 N Hollywood Blvd\nLas Vegas NV 89156\nUnited States of America",
+        "text": "2500 N Hollywood Blvd\r\nLas Vegas NV 89156\r\nUnited States of America",
         "line": [
           "UNLV Peds Bailey Middle School",
           "2500 N Hollywood Blvd"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:bc5acbba-cab1-45ce-aada-7107819f1e1e"
+      "reference": "urn:uuid:4e5f9c87-054d-4f31-8571-cdbcb8c28dc2"
     }
   },
   "fullUrl": "urn:uuid:95e2f056-da6d-45a8-a09b-58747973aae1"

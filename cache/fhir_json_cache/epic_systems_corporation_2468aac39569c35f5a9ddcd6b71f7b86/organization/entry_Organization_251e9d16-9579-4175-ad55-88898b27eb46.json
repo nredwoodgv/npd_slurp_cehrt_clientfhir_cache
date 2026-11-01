@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "251e9d16-9579-4175-ad55-88898b27eb46",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Care Direct",
     "address": [
       {
         "type": "physical",
-        "text": "1345 Deming Way Suite 100\nMiddleton WI 53562\nUS",
+        "text": "1345 Deming Way Suite 100\r\nMiddleton WI 53562\r\nUnited States of America",
         "line": [
           "UW Health Care Direct",
           "1345 Deming Way Suite 100"
         ],
         "city": "Middleton",
         "state": "WI",
-        "postalCode": "53562"
+        "postalCode": "53562",
+        "country": "US"
       }
     ],
     "partOf": {

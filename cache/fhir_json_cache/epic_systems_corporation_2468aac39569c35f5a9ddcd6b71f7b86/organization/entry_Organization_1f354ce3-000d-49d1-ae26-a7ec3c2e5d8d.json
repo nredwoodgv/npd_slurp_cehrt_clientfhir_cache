@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "1f354ce3-000d-49d1-ae26-a7ec3c2e5d8d",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health District 100 Wellness Center",
     "address": [
       {
         "type": "physical",
-        "text": "1320 East Ave\nBelvidere IL 61008\nUS",
+        "text": "1320 East Ave\r\nBelvidere IL 61008\r\nUS",
         "line": [
           "UW Health District 100 Wellness Center",
           "1320 East Ave"
         ],
         "city": "Belvidere",
         "state": "IL",
-        "postalCode": "61008"
+        "postalCode": "61008",
+        "country": "US"
       }
     ],
     "partOf": {

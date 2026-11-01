@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "b1932f6f-e338-4867-a4c3-aec13418d644",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:10-05:00"
+      "lastUpdated": "2026-10-26T23:44:08-05:00"
     },
     "active": true,
     "name": "Mercy Health St Rita's Ambulatory Infusion Center",
     "address": [
       {
         "type": "physical",
-        "text": "773 W. High St.\nLIMA OH 45801-5912\nUnited States of America",
+        "text": "773 W. High St.\r\nLIMA OH 45801-5912\r\nUnited States of America",
         "line": [
           "Mercy Health St Rita's Ambulatory Infusion Center",
           "773 W. High St."
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:c218f4cf-04a9-4f7e-b20a-effa30dc87bc"
+      "reference": "urn:uuid:c74482ff-4f4c-4cbf-892e-36d440163fc9"
     }
   },
   "fullUrl": "urn:uuid:b1932f6f-e338-4867-a4c3-aec13418d644"

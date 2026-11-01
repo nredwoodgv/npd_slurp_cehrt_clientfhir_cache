@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982807061"
+        "value": "1548993603"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548993603"
+        "value": "1144337148"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,15 +26,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093828568"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1609983691"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144337148"
+        "value": "1093828568"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1982807061"
       }
     ],
     "address": [
@@ -64,19 +64,11 @@
       },
       {
         "line": [
-          "186 HOSPITAL DRIVE"
+          "376 WV HIGHWAY 5 E"
         ],
-        "city": "GRANTSVILLE",
+        "city": "GLENVILLE",
         "state": "WV",
-        "postalCode": "26147-7100"
-      },
-      {
-        "line": [
-          "483 Court Street"
-        ],
-        "city": "ELIZABETH",
-        "state": "WV",
-        "postalCode": "26143-1111"
+        "postalCode": "26351-9999"
       },
       {
         "line": [
@@ -89,11 +81,11 @@
       },
       {
         "line": [
-          "376 WV HIGHWAY 5 E"
+          "186 HOSPITAL DRIVE"
         ],
-        "city": "GLENVILLE",
+        "city": "GRANTSVILLE",
         "state": "WV",
-        "postalCode": "26351-9999"
+        "postalCode": "26147-7100"
       },
       {
         "line": [
@@ -102,6 +94,14 @@
         "city": "GLENVILLE",
         "state": "WV",
         "postalCode": "26351-1342"
+      },
+      {
+        "line": [
+          "483 Court Street"
+        ],
+        "city": "ELIZABETH",
+        "state": "WV",
+        "postalCode": "26143-1111"
       }
     ],
     "extension": [

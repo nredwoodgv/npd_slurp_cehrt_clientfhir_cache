@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235990011"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1447137740"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053172833"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -31,6 +23,14 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1205698479"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053172833"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235990011"
       }
     ],
     "address": [
@@ -44,21 +44,12 @@
       },
       {
         "line": [
-          "9777 Wilshire Blvd",
-          "Ste 820"
+          "7777 Fay Ave",
+          "Ste 205"
         ],
-        "city": "BEVERLY HILLS",
+        "city": "LA JOLLA",
         "state": "CA",
-        "postalCode": "90212-1910"
-      },
-      {
-        "line": [
-          "100 Meadowcreek Dr",
-          "Ste 115, 225"
-        ],
-        "city": "CORTE MADERA",
-        "state": "CA",
-        "postalCode": "94925-1230"
+        "postalCode": "92037-4324"
       },
       {
         "line": [
@@ -71,12 +62,12 @@
       },
       {
         "line": [
-          "7777 Fay Ave",
-          "Ste 205"
+          "9777 Wilshire Blvd",
+          "Ste 820"
         ],
-        "city": "LA JOLLA",
+        "city": "BEVERLY HILLS",
         "state": "CA",
-        "postalCode": "92037-4324"
+        "postalCode": "90212-1910"
       },
       {
         "line": [
@@ -85,14 +76,6 @@
         "city": "SAN FRANCISCO",
         "state": "CA",
         "postalCode": "94109-3009"
-      },
-      {
-        "line": [
-          "80 Guest ST"
-        ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2071"
       },
       {
         "line": [
@@ -105,12 +88,29 @@
       },
       {
         "line": [
+          "100 Meadowcreek Dr",
+          "Ste 115, 225"
+        ],
+        "city": "CORTE MADERA",
+        "state": "CA",
+        "postalCode": "94925-1230"
+      },
+      {
+        "line": [
           "46 Kala Bagai Way",
           "Ste 24"
         ],
         "city": "BERKELEY",
         "state": "CA",
         "postalCode": "94704-1872"
+      },
+      {
+        "line": [
+          "80 Guest ST"
+        ],
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2071"
       }
     ],
     "extension": [

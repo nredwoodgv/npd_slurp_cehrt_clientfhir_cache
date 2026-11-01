@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730541145"
+        "value": "1598290132"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093251217"
+        "value": "1417782194"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730637190"
+        "value": "1457745317"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,7 +38,31 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457745317"
+        "value": "1730541145"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1922310093"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730637190"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457719064"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1093251217"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1043739287"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750765434"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -47,41 +71,9 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1720572209"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922310093"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750765434"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457719064"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043739287"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417782194"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598290132"
       }
     ],
     "address": [
-      {
-        "line": [
-          "151 DREXLER CIR STE 1"
-        ],
-        "city": "ELIZABETHTOWN",
-        "state": "KY",
-        "postalCode": "42701-7843"
-      },
       {
         "line": [
           "310 21ST AVE N"
@@ -89,6 +81,14 @@
         "city": "NASHVILLE",
         "state": "TN",
         "postalCode": "37203-1846"
+      },
+      {
+        "line": [
+          "151 DREXLER CIR STE 1"
+        ],
+        "city": "ELIZABETHTOWN",
+        "state": "KY",
+        "postalCode": "42701-7843"
       }
     ],
     "extension": [

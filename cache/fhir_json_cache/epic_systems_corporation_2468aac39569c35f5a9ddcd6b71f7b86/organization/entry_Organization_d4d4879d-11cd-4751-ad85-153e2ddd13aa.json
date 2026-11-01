@@ -6,6 +6,38 @@
       {
         "system": "https://open.epic.com/brand-identifier",
         "value": "432-208"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144203498"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144203498"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144203498"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144203498"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144203498"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144203498"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144203498"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144203498"
       }
     ],
     "active": true,
@@ -22,13 +54,17 @@
     "name": "Charles B. Wang Community Health Center",
     "address": [
       {
-        "state": "NY",
-        "country": "US"
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/data-absent-reason",
+            "valueCode": "unknown"
+          }
+        ]
       }
     ],
     "endpoint": [
       {
-        "reference": "urn:uuid:e6c650f2-a6d9-416f-a4fd-0023858fe54a"
+        "reference": "urn:uuid:69b118e4-1be8-434f-9e52-8e65b8ece200"
       }
     ]
   },

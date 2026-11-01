@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "b93944ba-1901-4b92-8ef4-62d2252d1c5e",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-09T23:56:58-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - BRIDGEWATER",
     "address": [
       {
         "type": "physical",
-        "text": "704 Route 202 South\nSuite 1",
+        "text": "704 Route 202 South\r\nSuite 1\r\nBRIDGEWATER NJ 08807\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - BRIDGEWATER",
-          "704 Route 202 South\nSuite 1"
+          "704 Route 202 South\r\nSuite 1"
         ],
         "city": "BRIDGEWATER",
         "state": "NJ",
-        "postalCode": "08807"
+        "postalCode": "08807",
+        "country": "US"
       }
     ],
     "partOf": {

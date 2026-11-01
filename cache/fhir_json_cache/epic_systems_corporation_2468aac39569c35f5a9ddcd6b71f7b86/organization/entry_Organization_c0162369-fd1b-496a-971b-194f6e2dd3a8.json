@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "c0162369-fd1b-496a-971b-194f6e2dd3a8",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-09T23:56:58-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - LAWRENCE",
     "address": [
       {
         "type": "physical",
-        "text": "2 Princess Road\nSuite J",
+        "text": "2 Princess Road\r\nSuite J\r\nLawrence Township NJ 08648\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - LAWRENCE",
-          "2 Princess Road\nSuite J"
+          "2 Princess Road\r\nSuite J"
         ],
         "city": "Lawrence Township",
         "state": "NJ",
-        "postalCode": "08648"
+        "postalCode": "08648",
+        "country": "US"
       }
     ],
     "partOf": {

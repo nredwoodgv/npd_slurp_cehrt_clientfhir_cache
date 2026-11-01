@@ -14,19 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548836224"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366018020"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1922677517"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295433944"
+        "value": "1548836224"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -35,17 +27,17 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1942876701"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1366018020"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1295433944"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2310 ST HWY 103"
-        ],
-        "city": "ETOILE",
-        "state": "TX",
-        "postalCode": "75944-1111"
-      },
       {
         "line": [
           "606 West Columbia"
@@ -56,19 +48,11 @@
       },
       {
         "line": [
-          "103 Timberland Hwy"
+          "2608 N UNIVERSITY DR"
         ],
-        "city": "PINELAND",
+        "city": "NACOGDOCHES",
         "state": "TX",
-        "postalCode": "75968-4012"
-      },
-      {
-        "line": [
-          "12815 US Hwy 84 E"
-        ],
-        "city": "JOAQUIN",
-        "state": "TX",
-        "postalCode": "75954-0001"
+        "postalCode": "75965-2904"
       },
       {
         "line": [
@@ -80,11 +64,27 @@
       },
       {
         "line": [
-          "2608 N UNIVERSITY DR"
+          "12815 US Hwy 84 E"
         ],
-        "city": "NACOGDOCHES",
+        "city": "JOAQUIN",
         "state": "TX",
-        "postalCode": "75965-2904"
+        "postalCode": "75954-0001"
+      },
+      {
+        "line": [
+          "2310 ST HWY 103"
+        ],
+        "city": "ETOILE",
+        "state": "TX",
+        "postalCode": "75944-1111"
+      },
+      {
+        "line": [
+          "103 Timberland Hwy"
+        ],
+        "city": "PINELAND",
+        "state": "TX",
+        "postalCode": "75968-4012"
       },
       {
         "line": [

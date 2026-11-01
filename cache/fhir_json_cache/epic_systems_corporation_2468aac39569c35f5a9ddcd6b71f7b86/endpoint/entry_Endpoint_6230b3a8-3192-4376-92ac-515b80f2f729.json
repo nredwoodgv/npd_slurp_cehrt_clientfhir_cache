@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "13715"
       },
-      "display": "Lakeland Regional Health"
+      "display": "Lakeland Regional Health System, Inc."
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://epicapp.mylrh.org/OAuth2/api/FHIR/R4"
+    "address": "https://epicapp.mylrh.org/OAuth2/LRH/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:6230b3a8-3192-4376-92ac-515b80f2f729"
 }

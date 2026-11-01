@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720192040"
+        "value": "1265741755"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265741755"
+        "value": "1720192040"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2509 THOMAS AVE"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75201-2039"
-      },
       {
         "line": [
           "7777 FOREST LANE"
@@ -48,20 +40,20 @@
       },
       {
         "line": [
-          "3500 GASTON AVENUE"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75204-2039"
-      },
-      {
-        "line": [
           "12200 PARK CENTAL DR",
           "SUITE300"
         ],
         "city": "DALLAS",
         "state": "TX",
         "postalCode": "75251-2106"
+      },
+      {
+        "line": [
+          "3930 CRUTCHER ST"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75246-1701"
       },
       {
         "line": [
@@ -81,11 +73,19 @@
       },
       {
         "line": [
-          "3930 CRUTCHER ST"
+          "3500 GASTON AVENUE"
         ],
         "city": "DALLAS",
         "state": "TX",
-        "postalCode": "75246-1701"
+        "postalCode": "75204-2039"
+      },
+      {
+        "line": [
+          "2509 THOMAS AVE"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75201-2039"
       }
     ],
     "extension": [

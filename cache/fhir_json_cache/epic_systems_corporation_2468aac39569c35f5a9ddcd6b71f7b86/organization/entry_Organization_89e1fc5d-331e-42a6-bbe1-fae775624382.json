@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "89e1fc5d-331e-42a6-bbe1-fae775624382",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-08T23:09:17-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - TEANECK",
     "address": [
       {
         "type": "physical",
-        "text": "222 Cedar Lane\nSuite 206",
+        "text": "222 Cedar Lane\r\nSuite 206\r\nTeaneck NJ 07666\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - TEANECK",
-          "222 Cedar Lane\nSuite 206"
+          "222 Cedar Lane\r\nSuite 206"
         ],
         "city": "Teaneck",
         "state": "NJ",
-        "postalCode": "07666"
+        "postalCode": "07666",
+        "country": "US"
       }
     ],
     "partOf": {

@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "97432ce4-be27-4995-b346-b85d6e4e02db",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-09T23:56:58-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - HOLMDEL",
     "address": [
       {
         "type": "physical",
-        "text": "733 N. Beers St\nSuite L6",
+        "text": "733 N. Beers St\r\nSuite L6\r\nHolmdel NJ 07733\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - HOLMDEL",
-          "733 N. Beers St\nSuite L6"
+          "733 N. Beers St\r\nSuite L6"
         ],
         "city": "Holmdel",
         "state": "NJ",
-        "postalCode": "07733"
+        "postalCode": "07733",
+        "country": "US"
       }
     ],
     "partOf": {

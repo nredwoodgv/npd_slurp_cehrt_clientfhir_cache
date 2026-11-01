@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730412388"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275290694"
+        "value": "1962025148"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962025148"
+        "value": "1508489782"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,18 +30,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508489782"
+        "value": "1275290694"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730412388"
       }
     ],
     "address": [
-      {
-        "line": [
-          "4301 W William Cannon DR, Bldg. E, Suite 320"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78749-1474"
-      },
       {
         "line": [
           "313 E 12th ST  SUITE 101"
@@ -56,11 +48,11 @@
       },
       {
         "line": [
-          "2716 Spirit of Texas Dr, Ste 160"
+          "6001 Kyle Pkwy"
         ],
-        "city": "Austin",
+        "city": "Kyle",
         "state": "TX",
-        "postalCode": "78719-2353"
+        "postalCode": "78640-6178"
       },
       {
         "line": [
@@ -72,11 +64,11 @@
       },
       {
         "line": [
-          "201 Seton Parkway"
+          "7900 FM 1826"
         ],
-        "city": "Round Rock",
+        "city": "Austin",
         "state": "TX",
-        "postalCode": "78665-8000"
+        "postalCode": "78737-1407"
       },
       {
         "line": [
@@ -96,14 +88,6 @@
       },
       {
         "line": [
-          "7900 FM 1826"
-        ],
-        "city": "Austin",
-        "state": "TX",
-        "postalCode": "78737-1407"
-      },
-      {
-        "line": [
           "625 E 10TH ST"
         ],
         "city": "Austin",
@@ -120,11 +104,27 @@
       },
       {
         "line": [
-          "6001 Kyle Pkwy"
+          "2716 Spirit of Texas Dr, Ste 160"
         ],
-        "city": "Kyle",
+        "city": "Austin",
         "state": "TX",
-        "postalCode": "78640-6178"
+        "postalCode": "78719-2353"
+      },
+      {
+        "line": [
+          "201 Seton Parkway"
+        ],
+        "city": "Round Rock",
+        "state": "TX",
+        "postalCode": "78665-8000"
+      },
+      {
+        "line": [
+          "4301 W William Cannon DR, Bldg. E, Suite 320"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78749-1474"
       }
     ],
     "extension": [

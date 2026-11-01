@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "0066701b-53c7-4a49-a5a7-025863f7f751",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Fort Atkinson Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "1620 Mehta Ln\nFort Atkinson WI 53538\nUS",
+        "text": "1620 Mehta Ln\r\nFort Atkinson WI 53538\r\nUS",
         "line": [
           "UW Health Fort Atkinson Clinic",
           "1620 Mehta Ln"
         ],
         "city": "Fort Atkinson",
         "state": "WI",
-        "postalCode": "53538"
+        "postalCode": "53538",
+        "country": "US"
       }
     ],
     "partOf": {

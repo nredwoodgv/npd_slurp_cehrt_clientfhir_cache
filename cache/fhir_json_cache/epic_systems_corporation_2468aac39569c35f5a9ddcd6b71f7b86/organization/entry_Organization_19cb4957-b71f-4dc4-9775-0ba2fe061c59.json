@@ -3,26 +3,26 @@
     "resourceType": "Organization",
     "id": "19cb4957-b71f-4dc4-9775-0ba2fe061c59",
     "meta": {
-      "lastUpdated": "2025-10-06T17:33:57-05:00"
+      "lastUpdated": "2026-10-24T00:51:14-05:00"
     },
     "active": true,
     "name": "CC Central Surgical Associates Jackson",
     "address": [
       {
         "type": "physical",
-        "text": "1190 North State St\nLower level\nJackson MS 39202\nUnited States of America",
+        "text": "1190 North State Street\r\nSuite 502\r\nJACKSON MS 39202-2414\r\nUnited States of America",
         "line": [
           "CC Central Surgical Associates Jackson",
-          "1190 North State St\nLower level"
+          "1190 North State Street\r\nSuite 502"
         ],
-        "city": "Jackson",
+        "city": "JACKSON",
         "state": "MS",
-        "postalCode": "39202",
+        "postalCode": "39202-2414",
         "country": "USA"
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:c07c51c7-9c20-48c8-adbe-e06182d5e13b"
+      "reference": "urn:uuid:b6574074-0726-4ca7-bcdc-ed3cd2f46fc0"
     }
   },
   "fullUrl": "urn:uuid:19cb4957-b71f-4dc4-9775-0ba2fe061c59"

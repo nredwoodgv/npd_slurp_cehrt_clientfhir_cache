@@ -14,37 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912481292"
+        "value": "1821036724"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821036724"
+        "value": "1912481292"
       }
     ],
     "address": [
       {
         "line": [
-          "260 FALLS AVE STE C"
+          "450 E MAIN ST"
         ],
-        "city": "TWIN FALLS",
+        "city": "REXBURG",
         "state": "ID",
-        "postalCode": "83301-3370"
-      },
-      {
-        "line": [
-          "1501 Hiland Ave"
-        ],
-        "city": "BURLEY",
-        "state": "ID",
-        "postalCode": "83318-2688"
-      },
-      {
-        "line": [
-          "1411 Falls Ave E Ste 1301"
-        ],
-        "city": "TWIN FALLS",
-        "state": "ID",
-        "postalCode": "83301-3467"
+        "postalCode": "83440-2048"
       },
       {
         "line": [
@@ -56,11 +40,19 @@
       },
       {
         "line": [
-          "1501 Hiland Ave"
+          "260 FALLS AVE STE C"
         ],
-        "city": "BURLEY",
+        "city": "TWIN FALLS",
         "state": "ID",
-        "postalCode": "83318-2655"
+        "postalCode": "83301-3370"
+      },
+      {
+        "line": [
+          "1411 Falls Ave E Ste 1301"
+        ],
+        "city": "TWIN FALLS",
+        "state": "ID",
+        "postalCode": "83301-3467"
       },
       {
         "line": [
@@ -72,6 +64,14 @@
       },
       {
         "line": [
+          "1501 Hiland Ave"
+        ],
+        "city": "BURLEY",
+        "state": "ID",
+        "postalCode": "83318-2688"
+      },
+      {
+        "line": [
           "393 E 2nd N"
         ],
         "city": "REXBURG",
@@ -80,11 +80,11 @@
       },
       {
         "line": [
-          "450 E MAIN ST"
+          "1501 Hiland Ave"
         ],
-        "city": "REXBURG",
+        "city": "BURLEY",
         "state": "ID",
-        "postalCode": "83440-2048"
+        "postalCode": "83318-2655"
       }
     ],
     "extension": [

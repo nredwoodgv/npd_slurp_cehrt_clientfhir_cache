@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "91f8af51-81ad-43e5-b0fd-9cf7a5278e4e",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-08T23:09:17-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - DENVILLE",
     "address": [
       {
         "type": "physical",
-        "text": "16 Pocono Road\nSuite 114",
+        "text": "16 Pocono Road\r\nSuite 114\r\nDenville NJ 07834\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - DENVILLE",
-          "16 Pocono Road\nSuite 114"
+          "16 Pocono Road\r\nSuite 114"
         ],
         "city": "Denville",
         "state": "NJ",
-        "postalCode": "07834"
+        "postalCode": "07834",
+        "country": "US"
       }
     ],
     "partOf": {

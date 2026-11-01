@@ -6,6 +6,10 @@
       {
         "system": "https://open.epic.com/brand-identifier",
         "value": "1316"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1627363736"
       }
     ],
     "active": true,
@@ -28,7 +32,7 @@
     ],
     "endpoint": [
       {
-        "reference": "urn:uuid:11e7219f-2900-4cc0-a851-da4e56717ca1"
+        "reference": "urn:uuid:aff7958f-b389-4e14-8c76-c6b07fa35ce6"
       }
     ]
   },

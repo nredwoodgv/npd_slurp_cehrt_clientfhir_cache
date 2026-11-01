@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730320748"
+        "value": "1255698841"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255698841"
+        "value": "1730320748"
       }
     ],
     "address": [
+      {
+        "line": [
+          "301 Pine Street NW"
+        ],
+        "city": "HARTSELLE",
+        "state": "AL",
+        "postalCode": "35640-2338"
+      },
       {
         "line": [
           "301 Pine St N.W",
@@ -46,14 +54,6 @@
         "city": "HARTSELLE",
         "state": "AL",
         "postalCode": "35640-2339"
-      },
-      {
-        "line": [
-          "301 Pine Street NW"
-        ],
-        "city": "HARTSELLE",
-        "state": "AL",
-        "postalCode": "35640-2338"
       }
     ],
     "extension": [

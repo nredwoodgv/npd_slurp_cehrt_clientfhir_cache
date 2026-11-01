@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "283d8866-3d29-4ca6-8287-57583f65a347",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health North Main Partners Health Center",
     "address": [
       {
         "type": "physical",
-        "text": "2601 N Main St\nRockford IL 61103\nUS",
+        "text": "2601 N Main St\r\nRockford IL 61103\r\nUnited States of America",
         "line": [
           "UW Health North Main Partners Health Center",
           "2601 N Main St"
         ],
         "city": "Rockford",
         "state": "IL",
-        "postalCode": "61103"
+        "postalCode": "61103",
+        "country": "US"
       }
     ],
     "partOf": {

@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "2893"
       },
-      "display": "Washington Hospital Healthcare System"
+      "display": "Washington Township Health Care District, a duly licensed district hospital d/b/a Washington Health"
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://psacesoap.whhs.com/interconnect-fhir-prd/api/FHIR/R4"
+    "address": "https://psacesoap.whhs.com/interconnect-fhir-prd/WHHS/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:5fee2779-3a58-44ae-a16b-7f3fd320f413"
 }

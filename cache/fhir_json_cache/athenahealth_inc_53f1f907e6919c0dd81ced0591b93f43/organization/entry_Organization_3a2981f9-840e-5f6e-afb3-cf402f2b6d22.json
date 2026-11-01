@@ -14,38 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881535789"
+        "value": "1437197092"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437197092"
+        "value": "1881535789"
       }
     ],
     "address": [
       {
         "line": [
-          "198 MASSACHUSETTS AVE"
+          "15 TSIENNETO RD",
+          "STE 101"
         ],
-        "city": "NORTH ANDOVER",
-        "state": "MA",
-        "postalCode": "01845-4143"
-      },
-      {
-        "line": [
-          "198 Mass Ave",
-          "Suite103"
-        ],
-        "city": "NORTH ANDOVER",
-        "state": "MA",
-        "postalCode": "01845-4143"
-      },
-      {
-        "line": [
-          "1 General St"
-        ],
-        "city": "LAWRENCE",
-        "state": "MA",
-        "postalCode": "01841-2997"
+        "city": "DERRY",
+        "state": "NH",
+        "postalCode": "03038-1559"
       },
       {
         "line": [
@@ -65,6 +49,14 @@
       },
       {
         "line": [
+          "198 MASSACHUSETTS AVE"
+        ],
+        "city": "NORTH ANDOVER",
+        "state": "MA",
+        "postalCode": "01845-4143"
+      },
+      {
+        "line": [
           "15 Tsienneto Road",
           "Suite 101"
         ],
@@ -74,12 +66,20 @@
       },
       {
         "line": [
-          "15 TSIENNETO RD",
-          "STE 101"
+          "198 Mass Ave",
+          "Suite103"
         ],
-        "city": "DERRY",
-        "state": "NH",
-        "postalCode": "03038-1559"
+        "city": "NORTH ANDOVER",
+        "state": "MA",
+        "postalCode": "01845-4143"
+      },
+      {
+        "line": [
+          "1 General St"
+        ],
+        "city": "LAWRENCE",
+        "state": "MA",
+        "postalCode": "01841-2997"
       },
       {
         "line": [

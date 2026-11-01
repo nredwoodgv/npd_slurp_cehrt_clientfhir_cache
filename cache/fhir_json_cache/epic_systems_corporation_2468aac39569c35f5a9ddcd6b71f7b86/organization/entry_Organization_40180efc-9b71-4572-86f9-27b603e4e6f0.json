@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "40180efc-9b71-4572-86f9-27b603e4e6f0",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-09T23:56:58-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - PENNINGTON",
     "address": [
       {
         "type": "physical",
-        "text": "Two Capital Way\nSuite 487A",
+        "text": "Two Capital Way\r\nSuite 487A\r\nPennington NJ 08534\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - PENNINGTON",
-          "Two Capital Way\nSuite 487A"
+          "Two Capital Way\r\nSuite 487A"
         ],
         "city": "Pennington",
         "state": "NJ",
-        "postalCode": "08534"
+        "postalCode": "08534",
+        "country": "US"
       }
     ],
     "partOf": {

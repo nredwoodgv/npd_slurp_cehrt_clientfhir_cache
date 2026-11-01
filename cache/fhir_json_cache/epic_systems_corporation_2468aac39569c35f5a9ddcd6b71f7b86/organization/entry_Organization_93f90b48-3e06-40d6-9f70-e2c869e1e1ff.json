@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "93f90b48-3e06-40d6-9f70-e2c869e1e1ff",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:41-05:00"
+      "lastUpdated": "2026-09-03T00:04:07-05:00"
     },
     "active": true,
     "name": "Array Behavioral Care, LLC",
     "address": [
       {
         "type": "physical",
-        "text": "1120 NJ-73\nMount Laurel NJ 08054\nUnited States of America",
+        "text": "1120 NJ-73\r\nMount Laurel NJ 08054\r\nUnited States of America",
         "line": [
           "Array Behavioral Care, LLC",
           "1120 NJ-73"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:56e6ec46-9a05-4039-98c4-61786996628a"
+      "reference": "urn:uuid:fcdcf701-ae3e-45a2-9f65-26e41995ebe7"
     }
   },
   "fullUrl": "urn:uuid:93f90b48-3e06-40d6-9f70-e2c869e1e1ff"

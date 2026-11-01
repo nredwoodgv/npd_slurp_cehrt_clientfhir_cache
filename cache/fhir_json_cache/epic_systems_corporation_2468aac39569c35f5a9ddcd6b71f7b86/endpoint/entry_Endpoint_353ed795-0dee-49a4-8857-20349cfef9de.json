@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "424"
       },
-      "display": "Riverside Medical Clinic"
+      "display": "Riverside Medical Clinic Patient Services, Inc."
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://SF1.rmcps.com/FHIRProxy/api/FHIR/R4"
+    "address": "https://SF1.rmcps.com/FHIRProxy/RMC/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:353ed795-0dee-49a4-8857-20349cfef9de"
 }

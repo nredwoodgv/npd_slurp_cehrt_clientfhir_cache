@@ -22,8 +22,12 @@
     "name": "Community Health Center of Fort Dodge",
     "address": [
       {
-        "state": "IA",
-        "country": "US"
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/data-absent-reason",
+            "valueCode": "unknown"
+          }
+        ]
       }
     ],
     "endpoint": [

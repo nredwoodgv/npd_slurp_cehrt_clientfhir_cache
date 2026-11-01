@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "6b37bb21-8fa7-458e-8d27-f896329ef59d",
     "meta": {
-      "lastUpdated": "2025-10-06T17:34:13-05:00"
+      "lastUpdated": "2026-10-26T23:31:03-05:00"
     },
     "active": true,
     "name": "Deckerville Ortho Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "3559 Main St\nDECKERVILLE MI 48427\nUnited States of America",
+        "text": "3559 Main St\r\nDECKERVILLE MI 48427\r\nUnited States of America",
         "line": [
           "Deckerville Ortho Clinic",
           "3559 Main St"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:44c69c6c-7dba-4d8c-b412-dfbeae673aa6"
+      "reference": "urn:uuid:7256cbdd-200d-4d05-8732-c89b0055fd19"
     }
   },
   "fullUrl": "urn:uuid:6b37bb21-8fa7-458e-8d27-f896329ef59d"

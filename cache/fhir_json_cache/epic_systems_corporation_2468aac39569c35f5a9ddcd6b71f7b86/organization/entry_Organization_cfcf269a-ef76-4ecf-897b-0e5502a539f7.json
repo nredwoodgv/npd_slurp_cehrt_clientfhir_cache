@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "cfcf269a-ef76-4ecf-897b-0e5502a539f7",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:08-05:00"
+      "lastUpdated": "2026-10-28T02:41:06-05:00"
     },
     "active": true,
     "name": "Providence Primary Care - Manhattan Beach",
     "address": [
       {
         "type": "physical",
-        "text": "1010 N Sepulveda Blvd\nManhattan Beach CA 90266\nUnited States of America",
+        "text": "1010 N Sepulveda Blvd\r\nManhattan Beach CA 90266\r\nUnited States of America",
         "line": [
           "Providence Primary Care - Manhattan Beach",
           "1010 N Sepulveda Blvd"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:6f164dd4-0ad3-4171-8475-7046ea218ac2"
+      "reference": "urn:uuid:d99d09bb-45ff-4328-862c-cd0fbb3a9487"
     }
   },
   "fullUrl": "urn:uuid:cfcf269a-ef76-4ecf-897b-0e5502a539f7"

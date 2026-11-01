@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "d73a39e2-c875-40bd-9a13-99959203ef8a",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:47-05:00"
+      "lastUpdated": "2026-10-24T00:15:37-05:00"
     },
     "active": true,
     "name": "UT Health Medical Group - Chandler",
     "address": [
       {
         "type": "physical",
-        "text": "125 Hwy 31 E\nChandler TX 75758\nUnited States of America",
+        "text": "125 Hwy 31 E\r\nChandler TX 75758\r\nUnited States of America",
         "line": [
           "UT Health Medical Group - Chandler",
           "125 Hwy 31 E"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:86cd7df3-006d-4c3c-b5bf-7df70c6c0af8"
+      "reference": "urn:uuid:53afcfef-04ce-4063-8009-35707f095a87"
     }
   },
   "fullUrl": "urn:uuid:d73a39e2-c875-40bd-9a13-99959203ef8a"

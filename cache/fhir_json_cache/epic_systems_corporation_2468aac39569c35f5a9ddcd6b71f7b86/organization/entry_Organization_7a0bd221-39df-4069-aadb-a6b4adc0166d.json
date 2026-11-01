@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "7a0bd221-39df-4069-aadb-a6b4adc0166d",
     "meta": {
-      "lastUpdated": "2025-12-06T17:08:24-06:00"
+      "lastUpdated": "2026-10-14T23:18:29-05:00"
     },
     "active": true,
     "name": "paulding County Hospital Pay Clinic - S Main St",
     "address": [
       {
         "type": "physical",
-        "text": "301 S Main St\nPAYNE OH 45880\nUnited States of America",
+        "text": "301 S Main St\r\nPAYNE OH 45880\r\nUnited States of America",
         "line": [
           "paulding County Hospital Pay Clinic - S Main St",
           "301 S Main St"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:f66275a8-2e2b-47d8-956b-6e5763077d7f"
+      "reference": "urn:uuid:f7bb563d-0e1f-40d1-a1be-31f82730458b"
     }
   },
   "fullUrl": "urn:uuid:7a0bd221-39df-4069-aadb-a6b4adc0166d"

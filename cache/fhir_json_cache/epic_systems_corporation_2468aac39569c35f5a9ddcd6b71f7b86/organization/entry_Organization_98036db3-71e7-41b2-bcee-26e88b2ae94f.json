@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "98036db3-71e7-41b2-bcee-26e88b2ae94f",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:56-05:00"
+      "lastUpdated": "2026-10-27T00:53:40-05:00"
     },
     "active": true,
     "name": "LCMC Urgent Care Clearview",
     "address": [
       {
         "type": "physical",
-        "text": "1105 S. Clearview Parkway\nNEW ORLEANS LA 70121-1010\nUnited States of America",
+        "text": "1105 S. Clearview Parkway\r\nNEW ORLEANS LA 70121-1010\r\nUnited States of America",
         "line": [
           "LCMC Urgent Care Clearview",
           "1105 S. Clearview Parkway"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:571e3049-6d90-484b-bd9b-1936644c5b3b"
+      "reference": "urn:uuid:a3792191-e404-47be-acb3-de7fc01c8e68"
     }
   },
   "fullUrl": "urn:uuid:98036db3-71e7-41b2-bcee-26e88b2ae94f"

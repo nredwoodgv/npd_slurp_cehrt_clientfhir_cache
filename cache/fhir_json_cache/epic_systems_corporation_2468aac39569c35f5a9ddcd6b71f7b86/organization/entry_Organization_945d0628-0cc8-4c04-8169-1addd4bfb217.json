@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "945d0628-0cc8-4c04-8169-1addd4bfb217",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:10-05:00"
+      "lastUpdated": "2026-10-26T23:44:08-05:00"
     },
     "active": true,
     "name": "Covenant St. Joseph Hospital Nashua",
     "address": [
       {
         "type": "physical",
-        "text": "168 KINSLEY ST\nNASHUA NH 03060-3634\nUnited States of America",
+        "text": "168 KINSLEY ST\r\nNASHUA NH 03060-3634\r\nUnited States of America",
         "line": [
           "Covenant St. Joseph Hospital Nashua",
           "168 KINSLEY ST"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:c218f4cf-04a9-4f7e-b20a-effa30dc87bc"
+      "reference": "urn:uuid:c74482ff-4f4c-4cbf-892e-36d440163fc9"
     }
   },
   "fullUrl": "urn:uuid:945d0628-0cc8-4c04-8169-1addd4bfb217"

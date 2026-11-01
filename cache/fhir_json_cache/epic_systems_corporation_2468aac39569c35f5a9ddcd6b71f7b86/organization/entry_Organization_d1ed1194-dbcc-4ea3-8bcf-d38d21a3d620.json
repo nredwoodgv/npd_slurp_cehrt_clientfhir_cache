@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "d1ed1194-dbcc-4ea3-8bcf-d38d21a3d620",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:40-05:00"
+      "lastUpdated": "2026-09-14T23:52:00-05:00"
     },
     "active": true,
     "name": "Family Health Center",
     "address": [
       {
         "type": "physical",
-        "text": "117 W Paterson St\nKalamazoo MI 49007-2557\nUnited States of America",
+        "text": "117 W Paterson St\r\nKalamazoo MI 49007-2557\r\nUnited States of America",
         "line": [
           "Family Health Center",
           "117 W Paterson St"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:7adaa03c-ec22-49a5-9c81-35753b1889b1"
+      "reference": "urn:uuid:5d4273ef-39e3-483f-b857-01547556d756"
     }
   },
   "fullUrl": "urn:uuid:d1ed1194-dbcc-4ea3-8bcf-d38d21a3d620"

@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "bb25a8a8-37b0-4b43-b265-2489be64e8f4",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:10-05:00"
+      "lastUpdated": "2026-10-26T23:44:08-05:00"
     },
     "active": true,
     "name": "Mercy Health  Bay  Meadows Family  Medicine",
     "address": [
       {
         "type": "physical",
-        "text": "3851 Navarre Ave\nOREGON OH 43616-3497\nUnited States of America",
+        "text": "3851 Navarre Ave\r\nOREGON OH 43616-3497\r\nUnited States of America",
         "line": [
           "Mercy Health  Bay  Meadows Family  Medicine",
           "3851 Navarre Ave"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:c218f4cf-04a9-4f7e-b20a-effa30dc87bc"
+      "reference": "urn:uuid:c74482ff-4f4c-4cbf-892e-36d440163fc9"
     }
   },
   "fullUrl": "urn:uuid:bb25a8a8-37b0-4b43-b265-2489be64e8f4"

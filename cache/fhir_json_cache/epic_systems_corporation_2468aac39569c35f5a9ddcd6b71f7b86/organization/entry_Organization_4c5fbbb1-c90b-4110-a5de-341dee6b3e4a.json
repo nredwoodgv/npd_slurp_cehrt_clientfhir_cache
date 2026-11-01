@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "4c5fbbb1-c90b-4110-a5de-341dee6b3e4a",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:56-05:00"
+      "lastUpdated": "2026-10-27T00:53:40-05:00"
     },
     "active": true,
     "name": "WJMC Lapalco Blvd",
     "address": [
       {
         "type": "physical",
-        "text": "3909 LaPalco Blvd\nHarvey LA 70058\nUnited States of America",
+        "text": "3909 LaPalco Blvd\r\nHarvey LA 70058\r\nUnited States of America",
         "line": [
           "WJMC Lapalco Blvd",
           "3909 LaPalco Blvd"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:571e3049-6d90-484b-bd9b-1936644c5b3b"
+      "reference": "urn:uuid:a3792191-e404-47be-acb3-de7fc01c8e68"
     }
   },
   "fullUrl": "urn:uuid:4c5fbbb1-c90b-4110-a5de-341dee6b3e4a"

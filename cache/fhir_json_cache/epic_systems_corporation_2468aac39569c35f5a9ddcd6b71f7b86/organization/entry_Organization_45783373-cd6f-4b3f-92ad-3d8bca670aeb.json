@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "45783373-cd6f-4b3f-92ad-3d8bca670aeb",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:45-05:00"
+      "lastUpdated": "2026-10-28T02:14:34-05:00"
     },
     "active": true,
     "name": "Barton Psychiatry & Mental Health",
     "address": [
       {
         "type": "physical",
-        "text": "1067 4th St.\nSouth Lake Tahoe CA 96150\n*United States of America",
+        "text": "1067 4th St.\r\nSouth Lake Tahoe CA 96150\r\n*United States of America",
         "line": [
           "Barton Psychiatry & Mental Health",
           "1067 4th St."
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:018e9480-fcee-43fe-be2e-07d8c8043646"
+      "reference": "urn:uuid:1a5d9b05-357c-40e6-a60a-844c702879bb"
     }
   },
   "fullUrl": "urn:uuid:45783373-cd6f-4b3f-92ad-3d8bca670aeb"

@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "f8de694f-7577-4338-8cf2-5ed2751c47d8",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Orth Rd Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "8451 Orth Rd\nLoves Park IL 61111\nUS",
+        "text": "8451 Orth Rd\r\nLoves Park IL 61111\r\nUnited States of America",
         "line": [
           "UW Health Orth Rd Clinic",
           "8451 Orth Rd"
         ],
         "city": "Loves Park",
         "state": "IL",
-        "postalCode": "61111"
+        "postalCode": "61111",
+        "country": "US"
       }
     ],
     "partOf": {

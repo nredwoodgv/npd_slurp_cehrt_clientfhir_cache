@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346044401"
+        "value": "1396961322"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396961322"
+        "value": "1346044401"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2371 Crockett Drive Suite 102"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-5918"
-      },
       {
         "line": [
           "1601 Columbia"
@@ -40,11 +32,11 @@
       },
       {
         "line": [
-          "203 S. Geneva"
+          "2371 Crockett Drive Suite 102"
         ],
-        "city": "BRECKENRIDGE",
+        "city": "BROWNWOOD",
         "state": "TX",
-        "postalCode": "76424-4702"
+        "postalCode": "76801-5918"
       },
       {
         "line": [
@@ -53,6 +45,14 @@
         "city": "HASKELL",
         "state": "TX",
         "postalCode": "79521-5415"
+      },
+      {
+        "line": [
+          "203 S. Geneva"
+        ],
+        "city": "BRECKENRIDGE",
+        "state": "TX",
+        "postalCode": "76424-4702"
       }
     ],
     "extension": [

@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "085073f2-0dfe-4bb5-9fc6-2e37b0a8876a",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Aesthetics and Plastic Surgery",
     "address": [
       {
         "type": "physical",
-        "text": "2349 Deming Way Suite 100\nMIDDLETON WI 53562\nUS",
+        "text": "2349 Deming Way Suite 100\r\nMIDDLETON WI 53562\r\nUS",
         "line": [
           "UW Health Aesthetics and Plastic Surgery",
           "2349 Deming Way Suite 100"
         ],
         "city": "MIDDLETON",
         "state": "WI",
-        "postalCode": "53562"
+        "postalCode": "53562",
+        "country": "US"
       }
     ],
     "partOf": {

@@ -43,6 +43,10 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "111111111"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "15151515"
       }
     ],
     "active": true,
@@ -598,6 +602,18 @@
         "city": "Fort Worth",
         "state": "TX",
         "postalCode": "76104",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "4218 Gateway Dr",
+          "Suite 100"
+        ],
+        "city": "Colleyville",
+        "state": "TX",
+        "postalCode": "76034",
         "country": "USA"
       },
       {

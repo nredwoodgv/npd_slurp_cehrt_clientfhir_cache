@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "44aed8d5-e216-4bbf-a998-a6667599f71f",
     "meta": {
-      "lastUpdated": "2025-10-06T17:34:13-05:00"
+      "lastUpdated": "2026-10-26T23:31:03-05:00"
     },
     "active": true,
     "name": "Aspire North Branch Family Healthcare",
     "address": [
       {
         "type": "physical",
-        "text": "4000 Huron St\nNorth Branch MI 48461\nUnited States of America",
+        "text": "4000 Huron St\r\nNorth Branch MI 48461\r\nUnited States of America",
         "line": [
           "Aspire North Branch Family Healthcare",
           "4000 Huron St"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:44c69c6c-7dba-4d8c-b412-dfbeae673aa6"
+      "reference": "urn:uuid:7256cbdd-200d-4d05-8732-c89b0055fd19"
     }
   },
   "fullUrl": "urn:uuid:44aed8d5-e216-4bbf-a998-a6667599f71f"

@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "dee20c77-a161-4a73-95ba-ab8e465cb63e",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-08T23:09:17-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - WAYNE S300",
     "address": [
       {
         "type": "physical",
-        "text": "1211 Hamburg Turnpike\nSuite 300",
+        "text": "1211 Hamburg Turnpike\r\nSuite 300\r\nWayne NJ 07470\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - WAYNE S300",
-          "1211 Hamburg Turnpike\nSuite 300"
+          "1211 Hamburg Turnpike\r\nSuite 300"
         ],
         "city": "Wayne",
         "state": "NJ",
-        "postalCode": "07470"
+        "postalCode": "07470",
+        "country": "US"
       }
     ],
     "partOf": {

@@ -3,17 +3,17 @@
     "resourceType": "Organization",
     "id": "4bbd1fcc-6ce4-4e74-8a59-e419b86b487a",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:56-05:00"
+      "lastUpdated": "2026-10-27T00:53:40-05:00"
     },
     "active": true,
     "name": "Sleep Center of New Orleans",
     "address": [
       {
         "type": "physical",
-        "text": "4232 Williams Blvd.\n108\nKenner LA 70065\nUnited States of America",
+        "text": "4232 Williams Blvd.\r\n108\r\nKenner LA 70065\r\nUnited States of America",
         "line": [
           "Sleep Center of New Orleans",
-          "4232 Williams Blvd.\n108"
+          "4232 Williams Blvd.\r\n108"
         ],
         "city": "Kenner",
         "state": "LA",
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:571e3049-6d90-484b-bd9b-1936644c5b3b"
+      "reference": "urn:uuid:a3792191-e404-47be-acb3-de7fc01c8e68"
     }
   },
   "fullUrl": "urn:uuid:4bbd1fcc-6ce4-4e74-8a59-e419b86b487a"

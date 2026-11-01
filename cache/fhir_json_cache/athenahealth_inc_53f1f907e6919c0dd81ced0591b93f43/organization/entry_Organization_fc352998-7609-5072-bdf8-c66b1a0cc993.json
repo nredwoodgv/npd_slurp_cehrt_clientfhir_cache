@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285664763"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1558839076"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932664091"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285664763"
       }
     ],
     "address": [
@@ -36,11 +36,11 @@
       },
       {
         "line": [
-          "1139 E SONTERRA BLVD"
+          "12412 JUDSON RD"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78258-4347"
+        "postalCode": "78233-3255"
       },
       {
         "line": [
@@ -49,14 +49,6 @@
         "city": "SAN ANTONIO",
         "state": "TX",
         "postalCode": "78217-5415"
-      },
-      {
-        "line": [
-          "12412 JUDSON RD"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78233-3255"
       },
       {
         "line": [
@@ -73,6 +65,14 @@
         "city": "SAN ANTONIO",
         "state": "TX",
         "postalCode": "78224-1337"
+      },
+      {
+        "line": [
+          "1139 E SONTERRA BLVD"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78258-4347"
       }
     ],
     "extension": [

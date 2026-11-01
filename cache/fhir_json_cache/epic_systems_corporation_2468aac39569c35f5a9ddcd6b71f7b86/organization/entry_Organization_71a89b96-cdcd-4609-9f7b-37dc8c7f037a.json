@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "71a89b96-cdcd-4609-9f7b-37dc8c7f037a",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:56-05:00"
+      "lastUpdated": "2026-10-27T00:53:40-05:00"
     },
     "active": true,
     "name": "New Orleans East Hospital",
     "address": [
       {
         "type": "physical",
-        "text": "5620 Read Blvd\nNew Orleans LA 70127\nUnited States of America",
+        "text": "5620 Read Blvd\r\nNew Orleans LA 70127\r\nUnited States of America",
         "line": [
           "New Orleans East Hospital",
           "5620 Read Blvd"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:571e3049-6d90-484b-bd9b-1936644c5b3b"
+      "reference": "urn:uuid:a3792191-e404-47be-acb3-de7fc01c8e68"
     }
   },
   "fullUrl": "urn:uuid:71a89b96-cdcd-4609-9f7b-37dc8c7f037a"

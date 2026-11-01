@@ -18,11 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205259736"
+        "value": "1134200702"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134200702"
+        "value": "1205259736"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,15 +30,6 @@
       }
     ],
     "address": [
-      {
-        "line": [
-          "37 Palmer Street",
-          "Suite 1A"
-        ],
-        "city": "CALAIS",
-        "state": "ME",
-        "postalCode": "04619-1305"
-      },
       {
         "line": [
           "37 Palmer Street",
@@ -50,11 +41,12 @@
       },
       {
         "line": [
-          "24 Hospital Lane"
+          "37 Palmer Street",
+          "Suite 1A"
         ],
         "city": "CALAIS",
         "state": "ME",
-        "postalCode": "04619-1329"
+        "postalCode": "04619-1305"
       },
       {
         "line": [
@@ -63,6 +55,14 @@
         "city": "BAILEYVILLE",
         "state": "ME",
         "postalCode": "04694-3417"
+      },
+      {
+        "line": [
+          "24 Hospital Lane"
+        ],
+        "city": "CALAIS",
+        "state": "ME",
+        "postalCode": "04619-1329"
       }
     ],
     "extension": [

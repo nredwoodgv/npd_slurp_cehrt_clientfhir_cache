@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "d2db98d7-3fb1-4afc-a1ac-2e7f8cc06a8c",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:10-05:00"
+      "lastUpdated": "2026-10-26T23:44:08-05:00"
     },
     "active": true,
     "name": "Mercy West Harrison",
     "address": [
       {
         "type": "physical",
-        "text": "10450 New Haven Rd.\nHarrison OH 45030\nUnited States of America",
+        "text": "10450 New Haven Rd.\r\nHarrison OH 45030\r\nUnited States of America",
         "line": [
           "Mercy West Harrison",
           "10450 New Haven Rd."
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:c218f4cf-04a9-4f7e-b20a-effa30dc87bc"
+      "reference": "urn:uuid:c74482ff-4f4c-4cbf-892e-36d440163fc9"
     }
   },
   "fullUrl": "urn:uuid:d2db98d7-3fb1-4afc-a1ac-2e7f8cc06a8c"

@@ -14,47 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457183311"
+        "value": "1790942381"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790942381"
+        "value": "1457183311"
       }
     ],
     "address": [
-      {
-        "line": [
-          "440 MALL BLVD STE C"
-        ],
-        "city": "SAVANNAH",
-        "state": "GA",
-        "postalCode": "31406-4868"
-      },
-      {
-        "line": [
-          "247 S Main St"
-        ],
-        "city": "REIDSVILLE",
-        "state": "GA",
-        "postalCode": "30453-4605"
-      },
-      {
-        "line": [
-          "222 PERRY HWY",
-          "STE 1"
-        ],
-        "city": "HAWKINSVILLE",
-        "state": "GA",
-        "postalCode": "31036-6748"
-      },
-      {
-        "line": [
-          "340 Hospital Drive"
-        ],
-        "city": "MACON",
-        "state": "GA",
-        "postalCode": "31217-3838"
-      },
       {
         "line": [
           "777 Hemlock Street"
@@ -62,14 +29,6 @@
         "city": "MACON",
         "state": "GA",
         "postalCode": "31201-2102"
-      },
-      {
-        "line": [
-          "1601 FAIR RD"
-        ],
-        "city": "STATESBORO",
-        "state": "GA",
-        "postalCode": "30458-1698"
       },
       {
         "line": [
@@ -81,11 +40,19 @@
       },
       {
         "line": [
-          "1707 MEADOWS LN STE G"
+          "247 S Main St"
         ],
-        "city": "VIDALIA",
+        "city": "REIDSVILLE",
         "state": "GA",
-        "postalCode": "30474-7201"
+        "postalCode": "30453-4605"
+      },
+      {
+        "line": [
+          "610 Sparta Road"
+        ],
+        "city": "SANDERSVILLE",
+        "state": "GA",
+        "postalCode": "31082-1860"
       },
       {
         "line": [
@@ -97,19 +64,27 @@
       },
       {
         "line": [
-          "247 S Main St"
+          "1601 FAIR RD"
         ],
-        "city": "SAVANNAH",
+        "city": "STATESBORO",
         "state": "GA",
-        "postalCode": "31406-4868"
+        "postalCode": "30458-1698"
       },
       {
         "line": [
-          "242 Industrial Boulevard"
+          "460 MALL BLVD STE B"
         ],
-        "city": "DUBLIN",
+        "city": "SAVANNAH",
         "state": "GA",
-        "postalCode": "31021-2904"
+        "postalCode": "31406-4801"
+      },
+      {
+        "line": [
+          "1707 MEADOWS LN STE G"
+        ],
+        "city": "VIDALIA",
+        "state": "GA",
+        "postalCode": "30474-7201"
       },
       {
         "line": [
@@ -122,19 +97,44 @@
       },
       {
         "line": [
-          "610 Sparta Road"
+          "222 PERRY HWY",
+          "STE 1"
         ],
-        "city": "SANDERSVILLE",
+        "city": "HAWKINSVILLE",
         "state": "GA",
-        "postalCode": "31082-1860"
+        "postalCode": "31036-6748"
       },
       {
         "line": [
-          "460 MALL BLVD STE B"
+          "440 MALL BLVD STE C"
         ],
         "city": "SAVANNAH",
         "state": "GA",
-        "postalCode": "31406-4801"
+        "postalCode": "31406-4868"
+      },
+      {
+        "line": [
+          "247 S Main St"
+        ],
+        "city": "SAVANNAH",
+        "state": "GA",
+        "postalCode": "31406-4868"
+      },
+      {
+        "line": [
+          "340 Hospital Drive"
+        ],
+        "city": "MACON",
+        "state": "GA",
+        "postalCode": "31217-3838"
+      },
+      {
+        "line": [
+          "242 Industrial Boulevard"
+        ],
+        "city": "DUBLIN",
+        "state": "GA",
+        "postalCode": "31021-2904"
       }
     ],
     "extension": [

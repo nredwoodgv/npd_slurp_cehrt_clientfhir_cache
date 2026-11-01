@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "98132a53-c880-4eef-a3ae-17a4a1a8b48b",
     "meta": {
-      "lastUpdated": "2025-10-06T17:39:51-05:00"
+      "lastUpdated": "2026-10-28T01:45:29-05:00"
     },
     "active": true,
     "name": "Gunnison Valley Hospital",
     "address": [
       {
         "type": "physical",
-        "text": "711 N Taylor St\nGUNNISON CO 81230\nUnited States of America",
+        "text": "711 N Taylor St\r\nGUNNISON CO 81230\r\nUnited States of America",
         "line": [
           "Gunnison Valley Hospital",
           "711 N Taylor St"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:e1a9a64b-e623-4ab3-8208-84cb19c3d745"
+      "reference": "urn:uuid:95d6bc1c-8a46-481a-ae1b-1a1d1fdba84d"
     }
   },
   "fullUrl": "urn:uuid:98132a53-c880-4eef-a3ae-17a4a1a8b48b"

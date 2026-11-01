@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649228966"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932402484"
       },
       {
@@ -27,28 +23,16 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1013031368"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649228966"
       }
     ],
     "address": [
       {
         "line": [
-          "1902 Grace Street"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24504-3524"
-      },
-      {
-        "line": [
           "2410 Atherholt Road"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24501-2148"
-      },
-      {
-        "line": [
-          "2410 Atherholt Rd."
         ],
         "city": "LYNCHBURG",
         "state": "VA",
@@ -69,6 +53,22 @@
         "city": "LYNCHBURG",
         "state": "VA",
         "postalCode": "24503-2030"
+      },
+      {
+        "line": [
+          "2410 Atherholt Rd."
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24501-2148"
+      },
+      {
+        "line": [
+          "1902 Grace Street"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24504-3524"
       }
     ],
     "extension": [

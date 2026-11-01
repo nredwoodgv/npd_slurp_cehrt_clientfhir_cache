@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "72a58f66-c692-4d30-a926-349c5871e4e3",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Sun Prairie Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "2651 Windsor St\nSun Prairie WI 53590\nUS",
+        "text": "2651 Windsor St\r\nSun Prairie WI 53590\r\nUS",
         "line": [
           "UW Health Sun Prairie Clinic",
           "2651 Windsor St"
         ],
         "city": "Sun Prairie",
         "state": "WI",
-        "postalCode": "53590"
+        "postalCode": "53590",
+        "country": "US"
       }
     ],
     "partOf": {

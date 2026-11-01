@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "e5daeeb2-e0b9-40eb-9646-9f770f54e4ed",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Bellin Health Bellevue",
     "address": [
       {
         "type": "physical",
-        "text": "3263 Eaton Road \nGreen Bay WI 54311\nUS",
+        "text": "3263 Eaton Road \r\nGreen Bay WI 54311\r\nUS",
         "line": [
           "UW Health Bellin Health Bellevue",
           "3263 Eaton Road"
         ],
         "city": "Green Bay",
         "state": "WI",
-        "postalCode": "54311"
+        "postalCode": "54311",
+        "country": "US"
       }
     ],
     "partOf": {

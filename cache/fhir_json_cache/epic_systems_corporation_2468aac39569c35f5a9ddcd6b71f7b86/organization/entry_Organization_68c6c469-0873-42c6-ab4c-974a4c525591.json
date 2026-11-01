@@ -6,6 +6,18 @@
       {
         "system": "https://open.epic.com/brand-identifier",
         "value": "432-210"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306832894"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306832894"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306832894"
       }
     ],
     "active": true,
@@ -22,17 +34,13 @@
     "name": "Sawtooth Mountain Clinic",
     "address": [
       {
-        "extension": [
-          {
-            "url": "http://hl7.org/fhir/StructureDefinition/data-absent-reason",
-            "valueCode": "unknown"
-          }
-        ]
+        "state": "MN",
+        "country": "US"
       }
     ],
     "endpoint": [
       {
-        "reference": "urn:uuid:5f9adcdb-d88a-4f9d-a7da-ffc8b93b116f"
+        "reference": "urn:uuid:b91c391d-8a3b-46ab-a0ff-8c1473924734"
       }
     ]
   },

@@ -22,8 +22,12 @@
     "name": "Columbia Community Mental Health",
     "address": [
       {
-        "state": "OR",
-        "country": "US"
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/data-absent-reason",
+            "valueCode": "unknown"
+          }
+        ]
       }
     ],
     "endpoint": [

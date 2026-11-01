@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "dbad9bd9-9a30-478a-bc82-4881af5c2f0a",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "Transformations Surgery Center (TSC)",
     "address": [
       {
         "type": "physical",
-        "text": "2349 Deming Way Suite 100\nMiddleton WI 53562\nUS",
+        "text": "2349 Deming Way Suite 100\r\nMiddleton WI 53562\r\nUS",
         "line": [
           "Transformations Surgery Center (TSC)",
           "2349 Deming Way Suite 100"
         ],
         "city": "Middleton",
         "state": "WI",
-        "postalCode": "53562"
+        "postalCode": "53562",
+        "country": "US"
       }
     ],
     "partOf": {

@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "c27f324b-653f-4556-a0f3-1522516b2c00",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:10-05:00"
+      "lastUpdated": "2026-10-26T23:44:08-05:00"
     },
     "active": true,
     "name": "MERCY HEALTH NILES PRIMARY CARE",
     "address": [
       {
         "type": "physical",
-        "text": "929 Robbins Ave.\nNILES OH 44446\nUnited States of America",
+        "text": "929 Robbins Ave.\r\nNILES OH 44446\r\nUnited States of America",
         "line": [
           "MERCY HEALTH NILES PRIMARY CARE",
           "929 Robbins Ave."
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:c218f4cf-04a9-4f7e-b20a-effa30dc87bc"
+      "reference": "urn:uuid:c74482ff-4f4c-4cbf-892e-36d440163fc9"
     }
   },
   "fullUrl": "urn:uuid:c27f324b-653f-4556-a0f3-1522516b2c00"

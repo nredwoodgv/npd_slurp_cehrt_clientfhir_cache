@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "1805"
       },
-      "display": "Watson Clinic"
+      "display": "Watson Clinic LLP"
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://epic-arr.watsonclinicad.com/FHIRProxy/api/FHIR/R4"
+    "address": "https://epic-arr.watsonclinicad.com/FHIRProxy/WATSONCLINIC/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:92cb9692-f4dd-4e8d-aa3d-4b3b0ce8e8af"
 }

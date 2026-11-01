@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215178421"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1316188147"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114920329"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,13 +22,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215178421"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417133380"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114920329"
       }
     ],
     "address": [
       {
         "line": [
-          "One Wyoming St"
+          "One Wyoming Street"
         ],
         "city": "DAYTON",
         "state": "OH",
@@ -52,109 +52,19 @@
       },
       {
         "line": [
-          "1 Wyoming"
-        ],
-        "city": "Dayton",
-        "state": "OH",
-        "postalCode": "45409-2722"
-      },
-      {
-        "line": [
-          "2350 Miami Valley Dr",
-          "Ste 215"
-        ],
-        "city": "DAYTON",
-        "state": "OH",
-        "postalCode": "45459-4778"
-      },
-      {
-        "line": [
-          "707 S Edwin C Moses Blvd"
-        ],
-        "city": "DAYTON",
-        "state": "OH",
-        "postalCode": "45417-3462"
-      },
-      {
-        "line": [
-          "One Wyoming Street"
-        ],
-        "city": "DAYTON",
-        "state": "OH",
-        "postalCode": "45409-2722"
-      },
-      {
-        "line": [
-          "2400 Miami Valley Dr"
-        ],
-        "city": "DAYTON",
-        "state": "OH",
-        "postalCode": "45459-1294"
-      },
-      {
-        "line": [
-          "2400 Miami Valley Dr"
-        ],
-        "city": "DAYTON",
-        "state": "OH",
-        "postalCode": "45459-4774"
-      },
-      {
-        "line": [
-          "3130 N County Rd 25-A"
-        ],
-        "city": "TROY",
-        "state": "OH",
-        "postalCode": "45373-1337"
-      },
-      {
-        "line": [
-          "4000 Miamisburg-Centerville rd"
-        ],
-        "city": "MIAMISBURG",
-        "state": "OH",
-        "postalCode": "45342-7615"
-      },
-      {
-        "line": [
-          "100 West MAIN ST"
-        ],
-        "city": "SPRINGFIELD",
-        "state": "OH",
-        "postalCode": "45502-1312"
-      },
-      {
-        "line": [
           "One Wyoming St"
         ],
         "city": "DAYTON",
         "state": "OH",
-        "postalCode": "45409-2939"
+        "postalCode": "45409-2722"
       },
       {
         "line": [
-          "1 Elizabeth Place"
+          "1141 N. Monroe Dr"
         ],
-        "city": "DAYTON",
+        "city": "Xenia",
         "state": "OH",
-        "postalCode": "45417-3445"
-      },
-      {
-        "line": [
-          "9000 N Main St"
-        ],
-        "city": "DAYTON",
-        "state": "OH",
-        "postalCode": "45415-1180"
-      },
-      {
-        "line": [
-          "30 E Apple Street",
-          "Suite 6258"
-        ],
-        "city": "DAYTON",
-        "state": "OH",
-        "postalCode": "45409-2939"
+        "postalCode": "45385-1619"
       },
       {
         "line": [
@@ -166,6 +76,14 @@
       },
       {
         "line": [
+          "1 Wyoming"
+        ],
+        "city": "Dayton",
+        "state": "OH",
+        "postalCode": "45409-2722"
+      },
+      {
+        "line": [
           "One Medical Center Dr"
         ],
         "city": "FRANKLIN",
@@ -174,27 +92,52 @@
       },
       {
         "line": [
-          "725 University Blvd"
+          "9000 N Main St"
         ],
-        "city": "FAIRBORN",
+        "city": "DAYTON",
         "state": "OH",
-        "postalCode": "45324-2640"
+        "postalCode": "45415-1180"
       },
       {
         "line": [
-          "2400 Miami Valley Drive"
+          "2400 Miami Valley Dr"
         ],
         "city": "DAYTON",
+        "state": "OH",
+        "postalCode": "45459-4774"
+      },
+      {
+        "line": [
+          "2400 Miami Valley Dr"
+        ],
+        "city": "DAYTON",
+        "state": "OH",
+        "postalCode": "45459-1294"
+      },
+      {
+        "line": [
+          "707 S Edwin C Moses Blvd"
+        ],
+        "city": "DAYTON",
+        "state": "OH",
+        "postalCode": "45417-3462"
+      },
+      {
+        "line": [
+          "2350 Miami Valley Drive",
+          "Suite 210"
+        ],
+        "city": "Centerville",
         "state": "OH",
         "postalCode": "45459-4778"
       },
       {
         "line": [
-          "9000 N Main Street"
+          "1 Elizabeth Place"
         ],
         "city": "DAYTON",
         "state": "OH",
-        "postalCode": "45415-1180"
+        "postalCode": "45417-3445"
       },
       {
         "line": [
@@ -206,26 +149,42 @@
       },
       {
         "line": [
-          "300 Austin West Blvd"
+          "835 S Main St"
         ],
-        "city": "MIAMISBURG",
+        "city": "DAYTON",
         "state": "OH",
-        "postalCode": "45342-7519"
+        "postalCode": "45402-2711"
       },
       {
         "line": [
-          "885 N SANDUSKY AVE"
+          "100 West MAIN ST"
         ],
-        "city": "UPPER SANDUSKY",
+        "city": "SPRINGFIELD",
         "state": "OH",
-        "postalCode": "43351-1031"
+        "postalCode": "45502-1312"
       },
       {
         "line": [
-          "2350 Miami Valley Drive",
-          "Suite 210"
+          "9000 N Main Street"
         ],
-        "city": "Centerville",
+        "city": "DAYTON",
+        "state": "OH",
+        "postalCode": "45415-1180"
+      },
+      {
+        "line": [
+          "725 University Blvd"
+        ],
+        "city": "FAIRBORN",
+        "state": "OH",
+        "postalCode": "45324-2640"
+      },
+      {
+        "line": [
+          "2350 Miami Valley Dr",
+          "Ste 215"
+        ],
+        "city": "DAYTON",
         "state": "OH",
         "postalCode": "45459-4778"
       },
@@ -239,11 +198,35 @@
       },
       {
         "line": [
-          "1141 N. Monroe Dr"
+          "4000 Miamisburg-Centerville rd"
         ],
-        "city": "Xenia",
+        "city": "MIAMISBURG",
         "state": "OH",
-        "postalCode": "45385-1619"
+        "postalCode": "45342-7615"
+      },
+      {
+        "line": [
+          "2400 Miami Valley Drive"
+        ],
+        "city": "DAYTON",
+        "state": "OH",
+        "postalCode": "45459-4778"
+      },
+      {
+        "line": [
+          "3130 N County Rd 25-A"
+        ],
+        "city": "TROY",
+        "state": "OH",
+        "postalCode": "45373-1337"
+      },
+      {
+        "line": [
+          "885 N SANDUSKY AVE"
+        ],
+        "city": "UPPER SANDUSKY",
+        "state": "OH",
+        "postalCode": "43351-1031"
       },
       {
         "line": [
@@ -255,11 +238,28 @@
       },
       {
         "line": [
-          "835 S Main St"
+          "30 E Apple Street",
+          "Suite 6258"
         ],
         "city": "DAYTON",
         "state": "OH",
-        "postalCode": "45402-2711"
+        "postalCode": "45409-2939"
+      },
+      {
+        "line": [
+          "300 Austin West Blvd"
+        ],
+        "city": "MIAMISBURG",
+        "state": "OH",
+        "postalCode": "45342-7519"
+      },
+      {
+        "line": [
+          "One Wyoming St"
+        ],
+        "city": "DAYTON",
+        "state": "OH",
+        "postalCode": "45409-2939"
       }
     ],
     "extension": [

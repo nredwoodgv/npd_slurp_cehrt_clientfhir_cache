@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "87889820-a8f4-4a20-b3e9-e494d0fbaf24",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:56-05:00"
+      "lastUpdated": "2026-10-27T00:53:40-05:00"
     },
     "active": true,
     "name": "Bridgepoint Continuing Care Hospital",
     "address": [
       {
         "type": "physical",
-        "text": "1101 Medical Center Blvd, 4th Floor\nMarrero LA 70072-3147\nUnited States of America",
+        "text": "1101 Medical Center Blvd, 4th Floor\r\nMarrero LA 70072-3147\r\nUnited States of America",
         "line": [
           "Bridgepoint Continuing Care Hospital",
           "1101 Medical Center Blvd, 4th Floor"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:571e3049-6d90-484b-bd9b-1936644c5b3b"
+      "reference": "urn:uuid:a3792191-e404-47be-acb3-de7fc01c8e68"
     }
   },
   "fullUrl": "urn:uuid:87889820-a8f4-4a20-b3e9-e494d0fbaf24"

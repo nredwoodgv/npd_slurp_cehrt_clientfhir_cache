@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "709"
       },
-      "display": "Cedars-Sinai Health System"
+      "display": "Cedars-Sinai Medical Center"
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://cslinkmobile.csmc.edu/fhirproxy/api/FHIR/R4"
+    "address": "https://epicproxy.et0612.epichosted.com/APIProxyPRD/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:379beeaa-ae38-4647-9798-44ecb5ad2d91"
 }

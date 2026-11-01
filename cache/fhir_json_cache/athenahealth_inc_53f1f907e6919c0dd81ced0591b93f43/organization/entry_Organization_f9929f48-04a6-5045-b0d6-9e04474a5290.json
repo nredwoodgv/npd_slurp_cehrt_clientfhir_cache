@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659301992"
+        "value": "1104539774"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104539774"
+        "value": "1659301992"
       }
     ],
     "address": [
       {
         "line": [
-          "6600 state hwy 29 s"
+          "323 S MINNESOTA ST"
         ],
-        "city": "ALEXANDRIA",
+        "city": "CROOKSTON",
         "state": "MN",
-        "postalCode": "56308-6196"
+        "postalCode": "56716-1601"
       },
       {
         "line": [
@@ -40,27 +40,11 @@
       },
       {
         "line": [
-          "1818 E 23RD AVE"
+          "111 17th Ave East"
         ],
-        "city": "HUTCHINSON",
-        "state": "KS",
-        "postalCode": "67502-1106"
-      },
-      {
-        "line": [
-          "2450 Riverside AVE"
-        ],
-        "city": "MINNEAPOLIS",
+        "city": "ALEXANDRIA",
         "state": "MN",
-        "postalCode": "55454-0355"
-      },
-      {
-        "line": [
-          "323 S MINNESOTA ST"
-        ],
-        "city": "CROOKSTON",
-        "state": "MN",
-        "postalCode": "56716-1601"
+        "postalCode": "56308-3798"
       },
       {
         "line": [
@@ -80,11 +64,20 @@
       },
       {
         "line": [
-          "111 17th Ave East"
+          "6600 state hwy 29 s"
         ],
         "city": "ALEXANDRIA",
         "state": "MN",
-        "postalCode": "56308-3798"
+        "postalCode": "56308-6196"
+      },
+      {
+        "line": [
+          "1601 East Hwy 13",
+          "Suite 211"
+        ],
+        "city": "BURNSVILLE",
+        "state": "MN",
+        "postalCode": "55337-5105"
       },
       {
         "line": [
@@ -96,12 +89,19 @@
       },
       {
         "line": [
-          "1601 East Hwy 13",
-          "Suite 211"
+          "2450 Riverside AVE"
         ],
-        "city": "BURNSVILLE",
+        "city": "MINNEAPOLIS",
         "state": "MN",
-        "postalCode": "55337-5105"
+        "postalCode": "55454-0355"
+      },
+      {
+        "line": [
+          "1818 E 23RD AVE"
+        ],
+        "city": "HUTCHINSON",
+        "state": "KS",
+        "postalCode": "67502-1106"
       }
     ],
     "extension": [

@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "13471dc9-8237-47a5-bb4d-95e939eb8bbd",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-09T23:56:58-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - CHERRY HILL RTE 70",
     "address": [
       {
         "type": "physical",
-        "text": "2 Executive Campus, 2370 Rt. 70\n2nd Floor, Suite 205",
+        "text": "2 Executive Campus, 2370 Rt. 70\r\n2nd Floor, Suite 205\r\nCHERRY HILL NJ 08034\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - CHERRY HILL RTE 70",
-          "2 Executive Campus, 2370 Rt. 70\n2nd Floor, Suite 205"
+          "2 Executive Campus, 2370 Rt. 70\r\n2nd Floor, Suite 205"
         ],
         "city": "CHERRY HILL",
         "state": "NJ",
-        "postalCode": "08034"
+        "postalCode": "08034",
+        "country": "US"
       }
     ],
     "partOf": {

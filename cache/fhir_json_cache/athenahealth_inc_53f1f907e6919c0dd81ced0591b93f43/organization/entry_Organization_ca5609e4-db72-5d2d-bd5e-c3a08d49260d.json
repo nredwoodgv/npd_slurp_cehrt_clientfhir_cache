@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194767186"
+        "value": "1730571100"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861818379"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831132133"
+        "value": "1861810186"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,42 +30,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730571100"
+        "value": "1831132133"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861810186"
+        "value": "1861818379"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1598213241"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1194767186"
       }
     ],
     "address": [
-      {
-        "line": [
-          "600 Denmark Street"
-        ],
-        "city": "BALDWIN",
-        "state": "MI",
-        "postalCode": "49304-7500"
-      },
-      {
-        "line": [
-          "916 E Lewis st"
-        ],
-        "city": "WHITEHALL",
-        "state": "MI",
-        "postalCode": "49461-1699"
-      },
-      {
-        "line": [
-          "701 E Main st"
-        ],
-        "city": "HART",
-        "state": "MI",
-        "postalCode": "49420-1168"
-      },
       {
         "line": [
           "72 S. State Street"
@@ -80,11 +56,11 @@
       },
       {
         "line": [
-          "1000 E. Tinkham Ave"
+          "701 E Main st"
         ],
-        "city": "LUDINGTON",
+        "city": "HART",
         "state": "MI",
-        "postalCode": "49431-1568"
+        "postalCode": "49420-1168"
       },
       {
         "line": [
@@ -104,19 +80,51 @@
       },
       {
         "line": [
+          "1001 Diana st"
+        ],
+        "city": "LUDINGTON",
+        "state": "MI",
+        "postalCode": "49431-1908"
+      },
+      {
+        "line": [
+          "916 E Lewis st"
+        ],
+        "city": "WHITEHALL",
+        "state": "MI",
+        "postalCode": "49461-1699"
+      },
+      {
+        "line": [
+          "600 Denmark Street"
+        ],
+        "city": "BALDWIN",
+        "state": "MI",
+        "postalCode": "49304-7500"
+      },
+      {
+        "line": [
+          "1000 E. Tinkham Ave"
+        ],
+        "city": "LUDINGTON",
+        "state": "MI",
+        "postalCode": "49431-1568"
+      },
+      {
+        "line": [
+          "1380 E Sherman Blvd"
+        ],
+        "city": "MUSKEGON",
+        "state": "MI",
+        "postalCode": "49444-1814"
+      },
+      {
+        "line": [
           "1275 Kenneth"
         ],
         "city": "MUSKEGON",
         "state": "MI",
         "postalCode": "49442-5180"
-      },
-      {
-        "line": [
-          "570 S Henry St"
-        ],
-        "city": "MUSKEGON",
-        "state": "MI",
-        "postalCode": "49442-1814"
       },
       {
         "line": [
@@ -128,19 +136,11 @@
       },
       {
         "line": [
-          "1001 Diana st"
-        ],
-        "city": "LUDINGTON",
-        "state": "MI",
-        "postalCode": "49431-1908"
-      },
-      {
-        "line": [
-          "1380 E Sherman Blvd"
+          "570 S Henry St"
         ],
         "city": "MUSKEGON",
         "state": "MI",
-        "postalCode": "49444-1814"
+        "postalCode": "49442-1814"
       }
     ],
     "extension": [

@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144371576"
+        "value": "1205651510"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205651510"
+        "value": "1144371576"
       }
     ],
     "address": [
@@ -36,23 +36,6 @@
       },
       {
         "line": [
-          "73 PRESTIGE LANE",
-          "SUITE 205"
-        ],
-        "city": "DAWSONVILLE",
-        "state": "GA",
-        "postalCode": "30534-8952"
-      },
-      {
-        "line": [
-          "53 Gordon Road, Suite 102"
-        ],
-        "city": "JASPER",
-        "state": "GA",
-        "postalCode": "30143-7104"
-      },
-      {
-        "line": [
           "290 HERITAGE WALK STE B"
         ],
         "city": "WOODSTOCK",
@@ -61,28 +44,19 @@
       },
       {
         "line": [
+          "320 HOSPITAL RD"
+        ],
+        "city": "CANTON",
+        "state": "GA",
+        "postalCode": "30114-2410"
+      },
+      {
+        "line": [
           "3905 BROOKSIDE PKWY STE 202"
         ],
         "city": "ALPHARETTA",
         "state": "GA",
         "postalCode": "30022-4429"
-      },
-      {
-        "line": [
-          "3970 DEP BILL CANTRELL MEMORIAL RD"
-        ],
-        "city": "CUMMING",
-        "state": "GA",
-        "postalCode": "30040-2824"
-      },
-      {
-        "line": [
-          "1495 Hickory Flat Hwy",
-          "Suite 140"
-        ],
-        "city": "CANTON",
-        "state": "GA",
-        "postalCode": "30115-4229"
       },
       {
         "line": [
@@ -95,20 +69,19 @@
       },
       {
         "line": [
-          "101 GREENFIELD DR",
-          "STE 260"
+          "53 Gordon Road, Suite 102"
+        ],
+        "city": "JASPER",
+        "state": "GA",
+        "postalCode": "30143-7104"
+      },
+      {
+        "line": [
+          "3970 Dep Bill Cantrell Memorial Rd"
         ],
         "city": "CUMMING",
         "state": "GA",
         "postalCode": "30040-2824"
-      },
-      {
-        "line": [
-          "320 HOSPITAL RD"
-        ],
-        "city": "CANTON",
-        "state": "GA",
-        "postalCode": "30114-2410"
       },
       {
         "line": [
@@ -121,11 +94,38 @@
       },
       {
         "line": [
-          "3970 Dep Bill Cantrell Memorial Rd"
+          "1495 Hickory Flat Hwy",
+          "Suite 140"
+        ],
+        "city": "CANTON",
+        "state": "GA",
+        "postalCode": "30115-4229"
+      },
+      {
+        "line": [
+          "3970 DEP BILL CANTRELL MEMORIAL RD"
         ],
         "city": "CUMMING",
         "state": "GA",
         "postalCode": "30040-2824"
+      },
+      {
+        "line": [
+          "101 GREENFIELD DR",
+          "STE 260"
+        ],
+        "city": "CUMMING",
+        "state": "GA",
+        "postalCode": "30040-2824"
+      },
+      {
+        "line": [
+          "73 PRESTIGE LANE",
+          "SUITE 205"
+        ],
+        "city": "DAWSONVILLE",
+        "state": "GA",
+        "postalCode": "30534-8952"
       }
     ],
     "extension": [

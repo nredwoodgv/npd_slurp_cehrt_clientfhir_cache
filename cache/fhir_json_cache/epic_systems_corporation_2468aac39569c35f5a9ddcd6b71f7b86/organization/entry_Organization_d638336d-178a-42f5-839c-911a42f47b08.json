@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "d638336d-178a-42f5-839c-911a42f47b08",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:08-05:00"
+      "lastUpdated": "2026-10-28T02:41:06-05:00"
     },
     "active": true,
     "name": "Providence Medical Group Urgent Care - Napa",
     "address": [
       {
         "type": "physical",
-        "text": "1621 W Imola Ave\nNapa CA 94559\nUnited States of America",
+        "text": "1621 W Imola Ave\r\nNapa CA 94559\r\nUnited States of America",
         "line": [
           "Providence Medical Group Urgent Care - Napa",
           "1621 W Imola Ave"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:6f164dd4-0ad3-4171-8475-7046ea218ac2"
+      "reference": "urn:uuid:d99d09bb-45ff-4328-862c-cd0fbb3a9487"
     }
   },
   "fullUrl": "urn:uuid:d638336d-178a-42f5-839c-911a42f47b08"

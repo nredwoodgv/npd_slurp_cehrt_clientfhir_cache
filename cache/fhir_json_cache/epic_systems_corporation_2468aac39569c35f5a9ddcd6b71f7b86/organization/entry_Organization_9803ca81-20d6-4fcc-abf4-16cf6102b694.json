@@ -3,16 +3,16 @@
     "resourceType": "Organization",
     "id": "9803ca81-20d6-4fcc-abf4-16cf6102b694",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:23-05:00"
+      "lastUpdated": "2026-10-26T23:04:18-05:00"
     },
     "active": true,
-    "name": "Starling Physicians - Rocky Hill - 2110 Silas Deane",
+    "name": "Starling Physicians",
     "address": [
       {
         "type": "physical",
-        "text": "2110 Silas Deane Highway\nRocky Hill CT 06067-2313\nUnited States of America",
+        "text": "2110 Silas Deane Highway\r\nRocky Hill CT 06067-2313\r\nUnited States of America",
         "line": [
-          "Starling Physicians - Rocky Hill - 2110 Silas Deane",
+          "Starling Physicians",
           "2110 Silas Deane Highway"
         ],
         "city": "Rocky Hill",
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:5c1766d0-2d39-42ed-911b-22429d6f9d75"
+      "reference": "urn:uuid:108db06a-17b9-46fc-baba-2ecdc8512ae5"
     }
   },
   "fullUrl": "urn:uuid:9803ca81-20d6-4fcc-abf4-16cf6102b694"

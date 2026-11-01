@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "30d79e89-a28b-4ab4-9a12-9527b572b0db",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:56-05:00"
+      "lastUpdated": "2026-10-27T00:53:40-05:00"
     },
     "active": true,
     "name": "East Jefferson General Hospital River Ridge",
     "address": [
       {
         "type": "physical",
-        "text": "9605 Jefferson Hwy\nRiver Ridge LA 70123-2550\nUnited States of America",
+        "text": "9605 Jefferson Hwy\r\nRiver Ridge LA 70123-2550\r\nUnited States of America",
         "line": [
           "East Jefferson General Hospital River Ridge",
           "9605 Jefferson Hwy"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:571e3049-6d90-484b-bd9b-1936644c5b3b"
+      "reference": "urn:uuid:a3792191-e404-47be-acb3-de7fc01c8e68"
     }
   },
   "fullUrl": "urn:uuid:30d79e89-a28b-4ab4-9a12-9527b572b0db"

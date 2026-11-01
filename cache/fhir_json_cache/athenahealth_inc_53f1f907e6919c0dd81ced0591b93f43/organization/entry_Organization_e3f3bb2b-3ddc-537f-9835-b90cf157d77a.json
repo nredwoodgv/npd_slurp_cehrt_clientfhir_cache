@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518252873"
+        "value": "1083019541"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083019541"
+        "value": "1518252873"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,15 +28,23 @@
     "address": [
       {
         "line": [
-          "2605 SHORE RD"
+          "100 MEDICAL CENTER WAY"
         ],
-        "city": "NORTHFIELD",
+        "city": "SOMERS POINT",
         "state": "NJ",
-        "postalCode": "08225-2136"
+        "postalCode": "08244-2300"
       },
       {
         "line": [
-          "100 MEDICAL CENTER WAY"
+          "649 Shore Road"
+        ],
+        "city": "SOMERS POINT",
+        "state": "NJ",
+        "postalCode": "08244-2060"
+      },
+      {
+        "line": [
+          "1 EAST NEW YORK AVENUE"
         ],
         "city": "SOMERS POINT",
         "state": "NJ",
@@ -52,19 +60,11 @@
       },
       {
         "line": [
-          "1 EAST NEW YORK AVENUE"
+          "2605 SHORE RD"
         ],
-        "city": "SOMERS POINT",
+        "city": "NORTHFIELD",
         "state": "NJ",
-        "postalCode": "08244-2300"
-      },
-      {
-        "line": [
-          "649 Shore Road"
-        ],
-        "city": "SOMERS POINT",
-        "state": "NJ",
-        "postalCode": "08244-2060"
+        "postalCode": "08225-2136"
       }
     ],
     "extension": [

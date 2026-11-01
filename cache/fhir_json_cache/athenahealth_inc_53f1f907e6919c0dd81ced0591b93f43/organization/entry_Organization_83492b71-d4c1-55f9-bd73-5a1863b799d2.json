@@ -14,23 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821452566"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972967628"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942664677"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720722820"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235593989"
+        "value": "1619338647"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,31 +26,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417311168"
+        "value": "1972967628"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720449739"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831552322"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104289693"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619338647"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821459850"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326402074"
+        "value": "1942664677"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -74,21 +38,57 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265893291"
+        "value": "1831552322"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326402074"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1881058535"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720449739"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235593989"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720722820"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1265893291"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104289693"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821452566"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417311168"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821459850"
       }
     ],
     "address": [
       {
         "line": [
-          "107 E McClanahan Street"
+          "439 US HWY 158 W"
         ],
-        "city": "OXFORD",
+        "city": "YANCEYVILLE",
         "state": "NC",
-        "postalCode": "27565-2919"
+        "postalCode": "27379-8304"
       },
       {
         "line": [
@@ -100,19 +100,19 @@
       },
       {
         "line": [
+          "100 Kellie Drive"
+        ],
+        "city": "SMITHFIELD",
+        "state": "NC",
+        "postalCode": "27577-4016"
+      },
+      {
+        "line": [
           "249 East NC Hwy 54"
         ],
         "city": "DURHAM",
         "state": "NC",
         "postalCode": "27713-7512"
-      },
-      {
-        "line": [
-          "120 Healthplex Way"
-        ],
-        "city": "APEX",
-        "state": "NC",
-        "postalCode": "27502-8403"
       },
       {
         "line": [
@@ -124,20 +124,27 @@
       },
       {
         "line": [
-          "100 Kellie Drive"
+          "107 E McClanahan Street"
         ],
-        "city": "SMITHFIELD",
+        "city": "OXFORD",
         "state": "NC",
-        "postalCode": "27577-4016"
+        "postalCode": "27565-2919"
       },
       {
         "line": [
-          "1803 Forest Hills Rd W",
-          "Ste 100"
+          "3790 Guess Road"
         ],
-        "city": "WILSON",
+        "city": "DURHAM",
         "state": "NC",
-        "postalCode": "27893-3412"
+        "postalCode": "27705-6916"
+      },
+      {
+        "line": [
+          "120 Healthplex Way"
+        ],
+        "city": "APEX",
+        "state": "NC",
+        "postalCode": "27502-8403"
       },
       {
         "line": [
@@ -146,23 +153,6 @@
         "city": "RALEIGH",
         "state": "NC",
         "postalCode": "27614-8093"
-      },
-      {
-        "line": [
-          "100 Perkins Dr"
-        ],
-        "city": "CHAPEL HILL",
-        "state": "NC",
-        "postalCode": "27514-1783"
-      },
-      {
-        "line": [
-          "2076 Hwy 42 W",
-          "Ste 300"
-        ],
-        "city": "CLAYTON",
-        "state": "NC",
-        "postalCode": "27520-5302"
       },
       {
         "line": [
@@ -175,19 +165,29 @@
       },
       {
         "line": [
-          "3790 Guess Road"
+          "2076 Hwy 42 W",
+          "Ste 300"
         ],
-        "city": "DURHAM",
+        "city": "CLAYTON",
         "state": "NC",
-        "postalCode": "27705-6916"
+        "postalCode": "27520-5302"
       },
       {
         "line": [
-          "439 US HWY 158 W"
+          "100 Perkins Dr"
         ],
-        "city": "YANCEYVILLE",
+        "city": "CHAPEL HILL",
         "state": "NC",
-        "postalCode": "27379-8304"
+        "postalCode": "27514-1783"
+      },
+      {
+        "line": [
+          "1803 Forest Hills Rd W",
+          "Ste 100"
+        ],
+        "city": "WILSON",
+        "state": "NC",
+        "postalCode": "27893-3412"
       }
     ],
     "extension": [

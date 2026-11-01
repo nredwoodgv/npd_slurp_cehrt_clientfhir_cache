@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "207bf7be-6434-4616-853a-d41d2ed7ebb1",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Verona Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "100 N Nine Mound Rd\nVerona WI 53593\nUS",
+        "text": "100 N Nine Mound Rd\r\nVerona WI 53593\r\nUS",
         "line": [
           "UW Health Verona Clinic",
           "100 N Nine Mound Rd"
         ],
         "city": "Verona",
         "state": "WI",
-        "postalCode": "53593"
+        "postalCode": "53593",
+        "country": "US"
       }
     ],
     "partOf": {

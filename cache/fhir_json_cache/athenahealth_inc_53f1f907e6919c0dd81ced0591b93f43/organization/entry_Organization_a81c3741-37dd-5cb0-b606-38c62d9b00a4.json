@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
+        "value": "1669801585"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,11 +26,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215999511"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1750302923"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
+        "value": "1730484031"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,33 +46,29 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1053373951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
       }
     ],
     "address": [
       {
         "line": [
-          "116 Medical Park Lane Suite B"
-        ],
-        "city": "Huntsville",
-        "state": "TX",
-        "postalCode": "77340-4978"
-      },
-      {
-        "line": [
-          "1602 Rock Prairie Road, Suite 4400"
+          "1602 Rock Prairie Road, STE 2000"
         ],
         "city": "COLLEGE STATION",
         "state": "TX",
-        "postalCode": "77845-5986"
+        "postalCode": "77845-5988"
+      },
+      {
+        "line": [
+          "3131 University Drive E"
+        ],
+        "city": "BRYAN",
+        "state": "TX",
+        "postalCode": "77802-3473"
       },
       {
         "line": [
@@ -88,19 +88,19 @@
       },
       {
         "line": [
-          "1602 Rock Prairie Road, STE 2000"
+          "1602 Rock Prairie Road, Suite 4400"
         ],
         "city": "COLLEGE STATION",
         "state": "TX",
-        "postalCode": "77845-5988"
+        "postalCode": "77845-5986"
       },
       {
         "line": [
-          "3131 University Drive E"
+          "116 Medical Park Lane Suite B"
         ],
-        "city": "BRYAN",
+        "city": "Huntsville",
         "state": "TX",
-        "postalCode": "77802-3473"
+        "postalCode": "77340-4978"
       }
     ],
     "extension": [

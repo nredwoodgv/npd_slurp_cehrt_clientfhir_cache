@@ -279,6 +279,10 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1598766495"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1639323595"
       }
     ],
     "active": true,
@@ -647,6 +651,10 @@
       {
         "system": "phone",
         "value": "(318)992-9200"
+      },
+      {
+        "system": "phone",
+        "value": "(504)529-6600"
       }
     ],
     "address": [
@@ -2059,6 +2067,17 @@
         "city": "Jena",
         "state": "LA",
         "postalCode": "71371",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1717 St. Charles Ave"
+        ],
+        "city": "New",
+        "state": "LA",
+        "postalCode": "70130",
         "country": "USA"
       }
     ],

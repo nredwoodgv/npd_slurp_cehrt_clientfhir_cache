@@ -14,21 +14,37 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831717511"
+        "value": "1962040147"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962040147"
+        "value": "1831717511"
       }
     ],
     "address": [
       {
         "line": [
-          "325 IVYSTONE DRIVE"
+          "6689 CHRISWOOD DR"
         ],
         "city": "MACON",
         "state": "GA",
-        "postalCode": "31220-7633"
+        "postalCode": "31216-6700"
+      },
+      {
+        "line": [
+          "331 CARILLON LANE"
+        ],
+        "city": "MACON",
+        "state": "GA",
+        "postalCode": "31210-9711"
+      },
+      {
+        "line": [
+          "216 MILL POND CHASE"
+        ],
+        "city": "WARNER ROBINS",
+        "state": "GA",
+        "postalCode": "31088-1654"
       },
       {
         "line": [
@@ -57,14 +73,6 @@
       },
       {
         "line": [
-          "1120 MORNINGSIDE DRIVE"
-        ],
-        "city": "PERRY",
-        "state": "GA",
-        "postalCode": "31069-2906"
-      },
-      {
-        "line": [
           "1601 WATSON BOULEVARD"
         ],
         "city": "WARNER ROBINS",
@@ -73,19 +81,11 @@
       },
       {
         "line": [
-          "6689 CHRISWOOD DR"
+          "1120 MORNINGSIDE DRIVE"
         ],
-        "city": "MACON",
+        "city": "PERRY",
         "state": "GA",
-        "postalCode": "31216-6700"
-      },
-      {
-        "line": [
-          "216 MILL POND CHASE"
-        ],
-        "city": "WARNER ROBINS",
-        "state": "GA",
-        "postalCode": "31088-1654"
+        "postalCode": "31069-2906"
       },
       {
         "line": [
@@ -97,11 +97,11 @@
       },
       {
         "line": [
-          "331 CARILLON LANE"
+          "325 IVYSTONE DRIVE"
         ],
         "city": "MACON",
         "state": "GA",
-        "postalCode": "31210-9711"
+        "postalCode": "31220-7633"
       }
     ],
     "extension": [

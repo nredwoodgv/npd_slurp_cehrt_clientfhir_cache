@@ -3,17 +3,17 @@
     "resourceType": "Organization",
     "id": "8543cd98-db4e-4b5d-994b-74d62ff4d346",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:02-05:00"
+      "lastUpdated": "2026-10-28T00:03:01-05:00"
     },
     "active": true,
     "name": "Specialty Hospital Monroe",
     "address": [
       {
         "type": "physical",
-        "text": "309 Jackson St\n7th Floor\nMONROE LA 71201\nUnited States of America",
+        "text": "309 Jackson St\r\n7th Floor\r\nMONROE LA 71201\r\nUnited States of America",
         "line": [
           "Specialty Hospital Monroe",
-          "309 Jackson St\n7th Floor"
+          "309 Jackson St\r\n7th Floor"
         ],
         "city": "MONROE",
         "state": "LA",
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:5734eb57-1dbe-4815-a655-e8930004dd8b"
+      "reference": "urn:uuid:fb10c72a-022b-473e-888b-00dcb8b43cc2"
     }
   },
   "fullUrl": "urn:uuid:8543cd98-db4e-4b5d-994b-74d62ff4d346"

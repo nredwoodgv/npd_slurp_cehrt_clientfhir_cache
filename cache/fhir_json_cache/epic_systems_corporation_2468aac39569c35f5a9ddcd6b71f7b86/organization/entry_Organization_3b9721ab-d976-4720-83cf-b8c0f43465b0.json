@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "3b9721ab-d976-4720-83cf-b8c0f43465b0",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:10-05:00"
+      "lastUpdated": "2026-10-26T23:44:08-05:00"
     },
     "active": true,
     "name": "Mercy Health Physicians Pain Center",
     "address": [
       {
         "type": "physical",
-        "text": "4760 Red Bank Expressway\nCINCINNATI OH 45227\nUnited States of America",
+        "text": "4760 Red Bank Expressway\r\nCINCINNATI OH 45227\r\nUnited States of America",
         "line": [
           "Mercy Health Physicians Pain Center",
           "4760 Red Bank Expressway"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:c218f4cf-04a9-4f7e-b20a-effa30dc87bc"
+      "reference": "urn:uuid:c74482ff-4f4c-4cbf-892e-36d440163fc9"
     }
   },
   "fullUrl": "urn:uuid:3b9721ab-d976-4720-83cf-b8c0f43465b0"

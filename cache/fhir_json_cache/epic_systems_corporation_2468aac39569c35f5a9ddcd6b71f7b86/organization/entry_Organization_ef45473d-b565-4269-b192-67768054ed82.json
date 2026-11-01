@@ -3,16 +3,17 @@
     "resourceType": "Organization",
     "id": "ef45473d-b565-4269-b192-67768054ed82",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:17-05:00"
+      "lastUpdated": "2026-10-15T23:57:11-05:00"
     },
     "active": true,
     "name": "Yale New Haven Hospital",
     "address": [
       {
         "type": "physical",
-        "text": "New Haven CT 06510\nUnited States of America",
+        "text": "20 York St\r\nNew Haven CT 06510\r\nUnited States of America",
         "line": [
-          "Yale New Haven Hospital"
+          "Yale New Haven Hospital",
+          "20 York St"
         ],
         "city": "New Haven",
         "state": "CT",

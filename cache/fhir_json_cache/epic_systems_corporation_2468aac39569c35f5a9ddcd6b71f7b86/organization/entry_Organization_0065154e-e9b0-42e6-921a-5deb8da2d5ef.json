@@ -3,17 +3,20 @@
     "resourceType": "Organization",
     "id": "0065154e-e9b0-42e6-921a-5deb8da2d5ef",
     "meta": {
-      "lastUpdated": "2025-10-06T17:33:14-05:00"
+      "lastUpdated": "2026-10-26T23:27:39-05:00"
     },
     "active": true,
     "name": "CVS/minuteclinic - Odessa",
     "address": [
       {
         "type": "physical",
-        "text": "79762\nUnited States of America",
+        "text": "1 CVS Drive\r\nOdessa TX 79762\r\nUnited States of America",
         "line": [
-          "CVS/minuteclinic - Odessa"
+          "CVS/minuteclinic - Odessa",
+          "1 CVS Drive"
         ],
+        "city": "Odessa",
+        "state": "TX",
         "postalCode": "79762",
         "country": "US"
       }

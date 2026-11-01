@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972397545"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215653761"
+        "value": "1750076931"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,19 +26,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750076931"
+        "value": "1972397545"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215653761"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1274 OSGOOD ST",
-          "STE 2 FL NORTH"
-        ],
-        "city": "NORTH ANDOVER",
-        "state": "MA",
-        "postalCode": "01845-1090"
-      },
       {
         "line": [
           "7 SKYLINE DR",
@@ -54,14 +45,6 @@
       },
       {
         "line": [
-          "615 SAINT GEORGE SQUARE CT STE 300"
-        ],
-        "city": "WINSTON SALEM",
-        "state": "NC",
-        "postalCode": "27103-1368"
-      },
-      {
-        "line": [
           "83 WOOSTER HTS STE 125"
         ],
         "city": "DANBURY",
@@ -70,20 +53,11 @@
       },
       {
         "line": [
-          "221 1ST AVE SW STE 610"
+          "615 SAINT GEORGE SQUARE CT STE 300"
         ],
-        "city": "ROCHESTER",
-        "state": "MN",
-        "postalCode": "55902-4504"
-      },
-      {
-        "line": [
-          "2 N CENTRAL AVE",
-          "STE 1800"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85004-2139"
+        "city": "WINSTON SALEM",
+        "state": "NC",
+        "postalCode": "27103-1368"
       },
       {
         "line": [
@@ -102,6 +76,32 @@
         "city": "MIAMI",
         "state": "FL",
         "postalCode": "33131-1111"
+      },
+      {
+        "line": [
+          "2 N CENTRAL AVE",
+          "STE 1800"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85004-2139"
+      },
+      {
+        "line": [
+          "1274 OSGOOD ST",
+          "STE 2 FL NORTH"
+        ],
+        "city": "NORTH ANDOVER",
+        "state": "MA",
+        "postalCode": "01845-1090"
+      },
+      {
+        "line": [
+          "221 1ST AVE SW STE 610"
+        ],
+        "city": "ROCHESTER",
+        "state": "MN",
+        "postalCode": "55902-4504"
       }
     ],
     "extension": [

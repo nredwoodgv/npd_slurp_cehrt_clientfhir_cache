@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "c117f805-1dcf-4c87-b034-ac1fe5202023",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:56-05:00"
+      "lastUpdated": "2026-10-27T00:53:40-05:00"
     },
     "active": true,
     "name": "St. Thomas Community Health Center",
     "address": [
       {
         "type": "physical",
-        "text": "1020 St. Andrew St\nNEW ORLEANS LA 70130-5022\nUnited States of America",
+        "text": "1020 St. Andrew St\r\nNEW ORLEANS LA 70130-5022\r\nUnited States of America",
         "line": [
           "St. Thomas Community Health Center",
           "1020 St. Andrew St"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:571e3049-6d90-484b-bd9b-1936644c5b3b"
+      "reference": "urn:uuid:a3792191-e404-47be-acb3-de7fc01c8e68"
     }
   },
   "fullUrl": "urn:uuid:c117f805-1dcf-4c87-b034-ac1fe5202023"

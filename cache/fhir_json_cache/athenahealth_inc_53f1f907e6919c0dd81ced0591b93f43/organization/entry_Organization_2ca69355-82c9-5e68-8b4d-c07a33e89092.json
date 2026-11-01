@@ -14,34 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891013496"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1245544923"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1992207294"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1891013496"
       }
     ],
     "address": [
-      {
-        "line": [
-          "323 W WALNUT AVE"
-        ],
-        "city": "BASTROP",
-        "state": "LA",
-        "postalCode": "71220-4521"
-      },
-      {
-        "line": [
-          "10280 BOSWELL ST"
-        ],
-        "city": "BASTROP",
-        "state": "LA",
-        "postalCode": "71220-3310"
-      },
       {
         "line": [
           "323 W. West Walnut"
@@ -49,14 +33,6 @@
         "city": "BASTROP",
         "state": "LA",
         "postalCode": "71221-1060"
-      },
-      {
-        "line": [
-          "5976 HIGHWAY 65 N"
-        ],
-        "city": "LAKE PROVIDENCE",
-        "state": "LA",
-        "postalCode": "71254-5235"
       },
       {
         "line": [
@@ -68,11 +44,11 @@
       },
       {
         "line": [
-          "323 West Walnut Ave."
+          "10280 BOSWELL ST"
         ],
         "city": "BASTROP",
         "state": "LA",
-        "postalCode": "71220-4521"
+        "postalCode": "71220-3310"
       },
       {
         "line": [
@@ -81,6 +57,30 @@
         "city": "WEST MONROE",
         "state": "LA",
         "postalCode": "71291-8551"
+      },
+      {
+        "line": [
+          "323 W WALNUT AVE"
+        ],
+        "city": "BASTROP",
+        "state": "LA",
+        "postalCode": "71220-4521"
+      },
+      {
+        "line": [
+          "5976 HIGHWAY 65 N"
+        ],
+        "city": "LAKE PROVIDENCE",
+        "state": "LA",
+        "postalCode": "71254-5235"
+      },
+      {
+        "line": [
+          "323 West Walnut Ave."
+        ],
+        "city": "BASTROP",
+        "state": "LA",
+        "postalCode": "71220-4521"
       }
     ],
     "extension": [

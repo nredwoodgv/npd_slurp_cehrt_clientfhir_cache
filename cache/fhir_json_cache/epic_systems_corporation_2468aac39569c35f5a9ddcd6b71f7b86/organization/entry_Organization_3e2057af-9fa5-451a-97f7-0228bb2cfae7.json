@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "3e2057af-9fa5-451a-97f7-0228bb2cfae7",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:14-05:00"
+      "lastUpdated": "2026-10-06T23:32:43-05:00"
     },
     "active": true,
     "name": "BioSpine Orlando",
     "address": [
       {
         "type": "physical",
-        "text": "3900 Millenia Blvd.\nOrlando FL 32839\nUnited States of America",
+        "text": "3900 Millenia Blvd.\r\nOrlando FL 32839\r\nUnited States of America",
         "line": [
           "BioSpine Orlando",
           "3900 Millenia Blvd."
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:4b531211-015c-4473-9a63-57e29751b4c2"
+      "reference": "urn:uuid:8eeb6e48-e70a-4efb-9591-169aeae7e078"
     }
   },
   "fullUrl": "urn:uuid:3e2057af-9fa5-451a-97f7-0228bb2cfae7"

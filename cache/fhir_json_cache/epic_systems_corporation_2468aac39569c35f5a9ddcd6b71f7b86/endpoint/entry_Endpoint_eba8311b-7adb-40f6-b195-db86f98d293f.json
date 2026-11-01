@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "2576"
       },
-      "display": "Trinity Health"
+      "display": "Trinity Health Corporation"
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://epic-ext.trinity-health.org/FHIR/api/FHIR/R4"
+    "address": "https://epic-ext.trinity-health.org/FHIR/MYCHART/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:eba8311b-7adb-40f6-b195-db86f98d293f"
 }

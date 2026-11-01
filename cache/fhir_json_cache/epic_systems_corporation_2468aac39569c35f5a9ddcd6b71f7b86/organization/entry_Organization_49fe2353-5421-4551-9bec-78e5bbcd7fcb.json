@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "49fe2353-5421-4551-9bec-78e5bbcd7fcb",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-09T23:56:58-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - MOUNT LAUREL",
     "address": [
       {
         "type": "physical",
-        "text": "15000 Midlantic Drive\nSuite 100",
+        "text": "15000 Midlantic Drive\r\nSuite 100\r\nMount Laurel NJ 08054\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - MOUNT LAUREL",
-          "15000 Midlantic Drive\nSuite 100"
+          "15000 Midlantic Drive\r\nSuite 100"
         ],
         "city": "Mount Laurel",
         "state": "NJ",
-        "postalCode": "08054"
+        "postalCode": "08054",
+        "country": "US"
       }
     ],
     "partOf": {

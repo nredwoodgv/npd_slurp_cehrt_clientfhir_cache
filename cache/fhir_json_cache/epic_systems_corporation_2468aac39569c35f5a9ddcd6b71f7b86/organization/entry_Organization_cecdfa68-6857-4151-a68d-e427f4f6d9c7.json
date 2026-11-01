@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "cecdfa68-6857-4151-a68d-e427f4f6d9c7",
     "meta": {
-      "lastUpdated": "2025-10-06T17:33:52-05:00"
+      "lastUpdated": "2026-10-28T02:07:47-05:00"
     },
     "active": true,
     "name": "Community Health Center of Fort Dodge",
     "address": [
       {
         "type": "physical",
-        "text": "126 N 10th Street\nFort Dodge IA 50501\nUnited States of America",
+        "text": "126 N 10th Street\r\nFort Dodge IA 50501\r\nUnited States of America",
         "line": [
           "Community Health Center of Fort Dodge",
           "126 N 10th Street"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:43577f7a-e56a-4f76-b522-181fd30d0d42"
+      "reference": "urn:uuid:32aea290-2d02-46c7-aaa0-e090af45f66d"
     }
   },
   "fullUrl": "urn:uuid:cecdfa68-6857-4151-a68d-e427f4f6d9c7"

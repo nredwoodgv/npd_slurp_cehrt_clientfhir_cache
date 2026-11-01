@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "869"
       },
-      "display": "Michigan Medicine"
+      "display": "the Regents of the University of Michigan, d/b/a University of Michigan Health System"
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://mcproxyprd.med.umich.edu/FHIR-PRD/api/FHIR/R4"
+    "address": "https://mcproxyprd.med.umich.edu/FHIR-PRD/UMICH/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:35005e55-d848-4cff-a133-87d3262f1aa7"
 }

@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "681b59db-513b-48ca-bfb1-2468cc7d186e",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Rehabilitation Hospital (UWRH)",
     "address": [
       {
         "type": "physical",
-        "text": "5115 N Biltmore Ln\nMadison WI 53718\nUS",
+        "text": "5115 N Biltmore Ln\r\nMadison WI 53718\r\nUnited States of America",
         "line": [
           "UW Health Rehabilitation Hospital (UWRH)",
           "5115 N Biltmore Ln"
         ],
         "city": "Madison",
         "state": "WI",
-        "postalCode": "53718"
+        "postalCode": "53718",
+        "country": "US"
       }
     ],
     "partOf": {

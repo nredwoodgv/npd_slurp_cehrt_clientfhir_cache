@@ -3,17 +3,17 @@
     "resourceType": "Organization",
     "id": "95ea5ad0-1d15-4c40-ac9f-49d146dfb5a1",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:02-05:00"
+      "lastUpdated": "2026-10-28T00:03:01-05:00"
     },
     "active": true,
     "name": "CVT Surgical Center",
     "address": [
       {
         "type": "physical",
-        "text": "7777 Hennessey Blvd\nSuite 1008\nBaton Rouge LA 70808\nUnited States of America",
+        "text": "7777 Hennessey Blvd\r\nSuite 1008\r\nBaton Rouge LA 70808\r\nUnited States of America",
         "line": [
           "CVT Surgical Center",
-          "7777 Hennessey Blvd\nSuite 1008"
+          "7777 Hennessey Blvd\r\nSuite 1008"
         ],
         "city": "Baton Rouge",
         "state": "LA",
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:5734eb57-1dbe-4815-a655-e8930004dd8b"
+      "reference": "urn:uuid:fb10c72a-022b-473e-888b-00dcb8b43cc2"
     }
   },
   "fullUrl": "urn:uuid:95ea5ad0-1d15-4c40-ac9f-49d146dfb5a1"

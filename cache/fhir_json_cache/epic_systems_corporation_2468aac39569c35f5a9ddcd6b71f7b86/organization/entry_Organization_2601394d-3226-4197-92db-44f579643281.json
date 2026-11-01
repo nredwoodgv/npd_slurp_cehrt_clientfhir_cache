@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "2601394d-3226-4197-92db-44f579643281",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:40-05:00"
+      "lastUpdated": "2026-09-14T23:52:00-05:00"
     },
     "active": true,
     "name": "Cereal City Pediatrics",
     "address": [
       {
         "type": "physical",
-        "text": "4520 Beckley Rd\nBattle Creek MI 49015-7941\nUnited States of America",
+        "text": "4520 Beckley Rd\r\nBattle Creek MI 49015-7941\r\nUnited States of America",
         "line": [
           "Cereal City Pediatrics",
           "4520 Beckley Rd"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:7adaa03c-ec22-49a5-9c81-35753b1889b1"
+      "reference": "urn:uuid:50af7930-9fd4-4372-9083-d9145fa096ec"
     }
   },
   "fullUrl": "urn:uuid:2601394d-3226-4197-92db-44f579643281"

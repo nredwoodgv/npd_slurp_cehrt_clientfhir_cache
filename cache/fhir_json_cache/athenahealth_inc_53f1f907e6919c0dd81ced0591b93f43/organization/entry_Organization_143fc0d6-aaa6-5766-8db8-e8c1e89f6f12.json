@@ -18,11 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134137573"
+        "value": "1306137070"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306137070"
+        "value": "1134137573"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,7 +32,15 @@
     "address": [
       {
         "line": [
-          "808A Hicksville Road"
+          "643 Route 211"
+        ],
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postalCode": "10941-1749"
+      },
+      {
+        "line": [
+          "236 South Main Street"
         ],
         "city": "ARLINGTON",
         "state": "VA",
@@ -40,11 +48,19 @@
       },
       {
         "line": [
-          "1381 White Plains Road\t"
+          "5665 Riverdale Ave"
         ],
-        "city": "BRONX",
+        "city": "ARLINGTON",
+        "state": "VA",
+        "postalCode": "22203-1824"
+      },
+      {
+        "line": [
+          "909 Midland Ave"
+        ],
+        "city": "YONKERS",
         "state": "NY",
-        "postalCode": "10462-4101"
+        "postalCode": "10704-1092"
       },
       {
         "line": [
@@ -57,6 +73,62 @@
       },
       {
         "line": [
+          "8989 Union TPKE"
+        ],
+        "city": "ARLINGTON",
+        "state": "VA",
+        "postalCode": "22203-1824"
+      },
+      {
+        "line": [
+          "50 Glen Cove Road"
+        ],
+        "city": "ARLINGTON",
+        "state": "VA",
+        "postalCode": "22203-1824"
+      },
+      {
+        "line": [
+          "2710 Long Beach Rd"
+        ],
+        "city": "ARLINGTON",
+        "state": "VA",
+        "postalCode": "22203-1824"
+      },
+      {
+        "line": [
+          "808A Hicksville Road"
+        ],
+        "city": "MASSAPEQUA",
+        "state": "NY",
+        "postalCode": "11758-7465"
+      },
+      {
+        "line": [
+          "1381 White Plains Road"
+        ],
+        "city": "ARLINGTON",
+        "state": "VA",
+        "postalCode": "22203-1824"
+      },
+      {
+        "line": [
+          "1381 White Plains Road"
+        ],
+        "city": "BRONX",
+        "state": "NY",
+        "postalCode": "10462-4101"
+      },
+      {
+        "line": [
+          "643 Route 211"
+        ],
+        "city": "ARLINGTON",
+        "state": "VA",
+        "postalCode": "22203-1824"
+      },
+      {
+        "line": [
           "3231 East Tremont Ave\t"
         ],
         "city": "BRONX",
@@ -65,7 +137,7 @@
       },
       {
         "line": [
-          "8989 Union TPKE"
+          "909 Midland Ave"
         ],
         "city": "ARLINGTON",
         "state": "VA",
@@ -89,27 +161,11 @@
       },
       {
         "line": [
-          "909 Midland Ave"
+          "1381 White Plains Road\t"
         ],
-        "city": "YONKERS",
+        "city": "BRONX",
         "state": "NY",
-        "postalCode": "10704-1092"
-      },
-      {
-        "line": [
-          "909 Midland Ave"
-        ],
-        "city": "ARLINGTON",
-        "state": "VA",
-        "postalCode": "22203-1824"
-      },
-      {
-        "line": [
-          "808A Hicksville Road"
-        ],
-        "city": "MASSAPEQUA",
-        "state": "NY",
-        "postalCode": "11758-7465"
+        "postalCode": "10462-4101"
       },
       {
         "line": [
@@ -130,59 +186,11 @@
       },
       {
         "line": [
-          "643 Route 211"
-        ],
-        "city": "MIDDLETOWN",
-        "state": "NY",
-        "postalCode": "10941-1749"
-      },
-      {
-        "line": [
-          "50 Glen Cove Road"
-        ],
-        "city": "ARLINGTON",
-        "state": "VA",
-        "postalCode": "22203-1824"
-      },
-      {
-        "line": [
-          "236 South Main Street"
-        ],
-        "city": "ARLINGTON",
-        "state": "VA",
-        "postalCode": "22203-1824"
-      },
-      {
-        "line": [
-          "5665 Riverdale Ave"
-        ],
-        "city": "ARLINGTON",
-        "state": "VA",
-        "postalCode": "22203-1824"
-      },
-      {
-        "line": [
-          "1381 White Plains Road"
-        ],
-        "city": "ARLINGTON",
-        "state": "VA",
-        "postalCode": "22203-1824"
-      },
-      {
-        "line": [
-          "2304 Eastchester Rd\t"
+          "2304 Eastchester Rd"
         ],
         "city": "BRONX",
         "state": "NY",
         "postalCode": "10469-5911"
-      },
-      {
-        "line": [
-          "2710 Long Beach Rd"
-        ],
-        "city": "ARLINGTON",
-        "state": "VA",
-        "postalCode": "22203-1824"
       },
       {
         "line": [
@@ -194,11 +202,11 @@
       },
       {
         "line": [
-          "643 Route 211"
+          "2304 Eastchester Rd\t"
         ],
-        "city": "ARLINGTON",
-        "state": "VA",
-        "postalCode": "22203-1824"
+        "city": "BRONX",
+        "state": "NY",
+        "postalCode": "10469-5911"
       },
       {
         "line": [
@@ -211,19 +219,11 @@
       },
       {
         "line": [
-          "2304 Eastchester Rd"
+          "808A Hicksville Road"
         ],
-        "city": "BRONX",
-        "state": "NY",
-        "postalCode": "10469-5911"
-      },
-      {
-        "line": [
-          "1381 White Plains Road"
-        ],
-        "city": "BRONX",
-        "state": "NY",
-        "postalCode": "10462-4101"
+        "city": "ARLINGTON",
+        "state": "VA",
+        "postalCode": "22203-1824"
       }
     ],
     "extension": [

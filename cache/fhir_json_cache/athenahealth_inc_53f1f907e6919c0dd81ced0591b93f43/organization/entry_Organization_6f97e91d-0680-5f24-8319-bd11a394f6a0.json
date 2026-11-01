@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548567498"
+        "value": "1386911006"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386911006"
+        "value": "1548567498"
       }
     ],
     "address": [
@@ -33,12 +33,11 @@
       },
       {
         "line": [
-          "4511 Chino Hills Pkwy",
-          "#C"
+          "3833 Worsham Ave, Ste 200"
         ],
-        "city": "CHINO HILLS",
+        "city": "LONG BEACH",
         "state": "CA",
-        "postalCode": "91709-5853"
+        "postalCode": "90808-1766"
       },
       {
         "line": [
@@ -58,14 +57,6 @@
       },
       {
         "line": [
-          "3833 Worsham Ave, Ste 200"
-        ],
-        "city": "LONG BEACH",
-        "state": "CA",
-        "postalCode": "90808-1766"
-      },
-      {
-        "line": [
           "351 Hospital Rd #110"
         ],
         "city": "NEWPORT BEACH",
@@ -79,6 +70,15 @@
         "city": "LOS ALAMITOS",
         "state": "CA",
         "postalCode": "90720-3113"
+      },
+      {
+        "line": [
+          "4511 Chino Hills Pkwy",
+          "#C"
+        ],
+        "city": "CHINO HILLS",
+        "state": "CA",
+        "postalCode": "91709-5853"
       }
     ],
     "extension": [

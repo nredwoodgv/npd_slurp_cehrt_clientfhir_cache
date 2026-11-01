@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "f4906d67-597d-48be-8398-dcf26f18d0f0",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health American Family Children's Hospital (AFCH)",
     "address": [
       {
         "type": "physical",
-        "text": "1675 Highland Ave\nMadison WI 53792\nUS",
+        "text": "1675 Highland Ave\r\nMadison WI 53792\r\nUS",
         "line": [
           "UW Health American Family Children's Hospital (AFCH)",
           "1675 Highland Ave"
         ],
         "city": "Madison",
         "state": "WI",
-        "postalCode": "53792"
+        "postalCode": "53792",
+        "country": "US"
       }
     ],
     "partOf": {

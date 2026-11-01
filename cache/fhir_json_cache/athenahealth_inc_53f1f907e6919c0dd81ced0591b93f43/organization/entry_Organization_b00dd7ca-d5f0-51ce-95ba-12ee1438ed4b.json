@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
+        "value": "1649232984"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1053373951"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,11 +38,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730484031"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1124080320"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
+        "value": "1215999511"
       }
     ],
     "address": [
@@ -54,7 +54,7 @@
         "line": [
           "1405 W JEFFERSON ST"
         ],
-        "city": "Waxahachie",
+        "city": "WAXAHACHIE",
         "state": "TX",
         "postalCode": "75165-2231"
       },
@@ -62,7 +62,7 @@
         "line": [
           "1405 W JEFFERSON ST"
         ],
-        "city": "WAXAHACHIE",
+        "city": "Waxahachie",
         "state": "TX",
         "postalCode": "75165-2231"
       }

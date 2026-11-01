@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "8d2c3786-fb91-4566-8431-7ce1bc8874e1",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Eastpark Medical Center",
     "address": [
       {
         "type": "physical",
-        "text": "4621 Eastpark Blvd\nMadison WI 53718\nUS",
+        "text": "4621 Eastpark Blvd\r\nMadison WI 53718\r\nUS",
         "line": [
           "UW Health Eastpark Medical Center",
           "4621 Eastpark Blvd"
         ],
         "city": "Madison",
         "state": "WI",
-        "postalCode": "53718"
+        "postalCode": "53718",
+        "country": "US"
       }
     ],
     "partOf": {

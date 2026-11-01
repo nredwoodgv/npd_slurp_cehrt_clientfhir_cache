@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "18ccac0a-4dcb-4d6b-8f7e-df8c9e22c581",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Winnebago County Employee and Family Wellness Center",
     "address": [
       {
         "type": "physical",
-        "text": "526 W State St\nRockford IL 61101\nUS",
+        "text": "526 W State St\r\nRockford IL 61101\r\nUS",
         "line": [
           "UW Health Winnebago County Employee and Family Wellness Center",
           "526 W State St"
         ],
         "city": "Rockford",
         "state": "IL",
-        "postalCode": "61101"
+        "postalCode": "61101",
+        "country": "US"
       }
     ],
     "partOf": {

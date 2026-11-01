@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "4c1991c3-58d5-4985-a761-2fca056dbeaf",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:03-05:00"
+      "lastUpdated": "2026-10-28T00:43:20-05:00"
     },
     "active": true,
     "name": "NEW Community Clinic - Primary and Specialty Care (Emplify Community Connect)",
     "address": [
       {
         "type": "physical",
-        "text": "610 N Broadway St\nGreen Bay WI 54301\nUnited States of America",
+        "text": "610 N Broadway St\r\nGreen Bay WI 54301\r\nUnited States of America",
         "line": [
           "NEW Community Clinic - Primary and Specialty Care (Emplify Community Connect)",
           "610 N Broadway St"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:512d8e6c-87bd-40e8-8b49-568f0d9f6438"
+      "reference": "urn:uuid:cdfdbd71-d1ff-4d4e-92fa-17950c956549"
     }
   },
   "fullUrl": "urn:uuid:4c1991c3-58d5-4985-a761-2fca056dbeaf"

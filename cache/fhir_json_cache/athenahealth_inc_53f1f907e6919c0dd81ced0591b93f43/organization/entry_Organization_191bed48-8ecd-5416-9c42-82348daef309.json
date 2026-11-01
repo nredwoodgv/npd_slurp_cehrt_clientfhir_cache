@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114920329"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1316188147"
       },
       {
@@ -27,20 +31,16 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417133380"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114920329"
       }
     ],
     "address": [
       {
         "line": [
-          "1001 Xenia Dr"
+          "One Wyoming Street"
         ],
-        "city": "YELLOW SPRINGS",
+        "city": "DAYTON",
         "state": "OH",
-        "postalCode": "45387-1600"
+        "postalCode": "45409-2722"
       },
       {
         "line": [
@@ -52,11 +52,11 @@
       },
       {
         "line": [
-          "One Wyoming Street"
+          "1001 Xenia Dr"
         ],
-        "city": "DAYTON",
+        "city": "YELLOW SPRINGS",
         "state": "OH",
-        "postalCode": "45409-2722"
+        "postalCode": "45387-1600"
       }
     ],
     "extension": [

@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "6a9269eb-9026-4994-bf7a-d1a2e3eacb60",
     "meta": {
-      "lastUpdated": "2025-10-06T17:34:13-05:00"
+      "lastUpdated": "2026-10-26T23:31:03-05:00"
     },
     "active": true,
     "name": "Hills & Dales Wound Care Center",
     "address": [
       {
         "type": "physical",
-        "text": "4675 Hill St\nCASS CITY MI 48726\nUnited States of America",
+        "text": "4675 Hill St\r\nCASS CITY MI 48726\r\nUnited States of America",
         "line": [
           "Hills & Dales Wound Care Center",
           "4675 Hill St"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:44c69c6c-7dba-4d8c-b412-dfbeae673aa6"
+      "reference": "urn:uuid:7256cbdd-200d-4d05-8732-c89b0055fd19"
     }
   },
   "fullUrl": "urn:uuid:6a9269eb-9026-4994-bf7a-d1a2e3eacb60"

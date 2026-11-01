@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "c0fe2ed0-6f97-4854-8f1b-a1b3365058ff",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Davis Junction Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "5665 North Junction Way\nDavis Junction IL 61020\nUS",
+        "text": "5665 North Junction Way\r\nDavis Junction IL 61020\r\nUnited States of America",
         "line": [
           "UW Health Davis Junction Clinic",
           "5665 North Junction Way"
         ],
         "city": "Davis Junction",
         "state": "IL",
-        "postalCode": "61020"
+        "postalCode": "61020",
+        "country": "US"
       }
     ],
     "partOf": {

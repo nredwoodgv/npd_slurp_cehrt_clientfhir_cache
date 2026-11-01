@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730903675"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417683707"
       },
       {
@@ -22,14 +26,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730903675"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578334058"
       }
     ],
     "address": [
+      {
+        "line": [
+          "4300 PARK RD"
+        ],
+        "city": "CHARLOTTE",
+        "state": "NC",
+        "postalCode": "28209-2271"
+      },
       {
         "line": [
           "100 Whetstone Place",
@@ -49,14 +57,6 @@
       },
       {
         "line": [
-          "606 N 1ST ST"
-        ],
-        "city": "ALBEMARLE",
-        "state": "NC",
-        "postalCode": "28001-3300"
-      },
-      {
-        "line": [
           "4711 CURRY FORD RD",
           "STE B"
         ],
@@ -66,20 +66,20 @@
       },
       {
         "line": [
-          "4300 PARK RD"
+          "606 N 1ST ST"
         ],
-        "city": "CHARLOTTE",
+        "city": "ALBEMARLE",
         "state": "NC",
-        "postalCode": "28209-2271"
+        "postalCode": "28001-3300"
       },
       {
         "line": [
-          "418 NORTH MAIN STREET",
-          "SUITE 200"
+          "4540 SOUTHSIDE BLVD",
+          "STE 401"
         ],
-        "city": "ROYAL OAK",
-        "state": "MI",
-        "postalCode": "48067-1813"
+        "city": "JACKSONVILLE",
+        "state": "FL",
+        "postalCode": "32216-5488"
       },
       {
         "line": [
@@ -92,12 +92,12 @@
       },
       {
         "line": [
-          "4540 SOUTHSIDE BLVD",
-          "STE 401"
+          "418 NORTH MAIN STREET",
+          "SUITE 200"
         ],
-        "city": "JACKSONVILLE",
-        "state": "FL",
-        "postalCode": "32216-5488"
+        "city": "ROYAL OAK",
+        "state": "MI",
+        "postalCode": "48067-1813"
       }
     ],
     "extension": [

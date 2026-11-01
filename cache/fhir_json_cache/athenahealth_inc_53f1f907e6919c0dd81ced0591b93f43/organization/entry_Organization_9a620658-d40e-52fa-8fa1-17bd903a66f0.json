@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689720435"
+        "value": "1821864877"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821864877"
+        "value": "1689720435"
       }
     ],
     "address": [
@@ -35,14 +35,8 @@
         "postalCode": "83611-7702"
       },
       {
-        "line": [],
-        "city": "CASCADE",
-        "state": "ID",
-        "postalCode": "83611-7702"
-      },
-      {
         "line": [
-          "402 Lake Cascade Pkwy"
+          "402 Lake Cascade Parkway"
         ],
         "city": "CASCADE",
         "state": "ID",
@@ -59,20 +53,26 @@
       },
       {
         "line": [
-          "402 Lake Cascade Parkway"
-        ],
-        "city": "CASCADE",
-        "state": "ID",
-        "postalCode": "83611-7702"
-      },
-      {
-        "line": [
           "402 LAKE CASCADE PKWY",
           "PO BOX 1330"
         ],
         "city": "CASCADE",
         "state": "ID",
         "postalCode": "83611-1330"
+      },
+      {
+        "line": [
+          "402 Lake Cascade Pkwy"
+        ],
+        "city": "CASCADE",
+        "state": "ID",
+        "postalCode": "83611-7702"
+      },
+      {
+        "line": [],
+        "city": "CASCADE",
+        "state": "ID",
+        "postalCode": "83611-7702"
       }
     ],
     "extension": [

@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "6e5ac857-f5c2-440f-98bf-82d93f7a60f4",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:08-05:00"
+      "lastUpdated": "2026-10-28T02:41:06-05:00"
     },
     "active": true,
     "name": "Providence Primary Care - Carson",
     "address": [
       {
         "type": "physical",
-        "text": "21501 S Avalon Blvd\nCarson CA 90745\nUnited States of America",
+        "text": "21501 S Avalon Blvd\r\nCarson CA 90745\r\nUnited States of America",
         "line": [
           "Providence Primary Care - Carson",
           "21501 S Avalon Blvd"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:6f164dd4-0ad3-4171-8475-7046ea218ac2"
+      "reference": "urn:uuid:d99d09bb-45ff-4328-862c-cd0fbb3a9487"
     }
   },
   "fullUrl": "urn:uuid:6e5ac857-f5c2-440f-98bf-82d93f7a60f4"

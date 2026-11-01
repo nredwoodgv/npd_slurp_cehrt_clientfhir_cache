@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "0266b837-ef18-4ab2-91f4-97e71c490da1",
     "meta": {
-      "lastUpdated": "2025-10-06T17:34:13-05:00"
+      "lastUpdated": "2026-10-26T23:31:03-05:00"
     },
     "active": true,
     "name": "Port Sanilac Healthcare",
     "address": [
       {
         "type": "physical",
-        "text": "245 S Ridge St\nPort Sanilac MI 48469\nUnited States of America",
+        "text": "245 S Ridge St\r\nPort Sanilac MI 48469\r\nUnited States of America",
         "line": [
           "Port Sanilac Healthcare",
           "245 S Ridge St"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:44c69c6c-7dba-4d8c-b412-dfbeae673aa6"
+      "reference": "urn:uuid:7256cbdd-200d-4d05-8732-c89b0055fd19"
     }
   },
   "fullUrl": "urn:uuid:0266b837-ef18-4ab2-91f4-97e71c490da1"

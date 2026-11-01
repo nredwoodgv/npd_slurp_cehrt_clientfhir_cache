@@ -6,6 +6,22 @@
       {
         "system": "https://open.epic.com/brand-identifier",
         "value": "841"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1134271661"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215947387"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669448882"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578106951"
       }
     ],
     "active": true,
@@ -19,7 +35,7 @@
         ]
       }
     ],
-    "name": "Connecticut Children's Medical Center",
+    "name": "Connecticut Children's",
     "address": [
       {
         "state": "CT",
@@ -32,7 +48,7 @@
     ],
     "endpoint": [
       {
-        "reference": "urn:uuid:77e3f390-01bc-4ca3-a710-04c3c6b2064a"
+        "reference": "urn:uuid:3793a493-bd7f-4f19-9c25-679afbef844f"
       }
     ]
   },

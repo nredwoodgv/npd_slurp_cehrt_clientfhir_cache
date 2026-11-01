@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447524392"
+        "value": "1598958431"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598958431"
+        "value": "1447524392"
       }
     ],
     "address": [
@@ -40,20 +40,11 @@
       },
       {
         "line": [
-          "3103 Megan Street"
-        ],
-        "city": "EAGLE PASS",
-        "state": "TX",
-        "postalCode": "78852-5891"
-      },
-      {
-        "line": [
-          "5430 Fredericksburg Rd",
-          "Ste. 400"
+          "215 E. Quincy Ste. 427"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78229-3539"
+        "postalCode": "78215-2033"
       },
       {
         "line": [
@@ -65,11 +56,11 @@
       },
       {
         "line": [
-          "215 E. Quincy Ste. 427"
+          "3103 Megan Street"
         ],
-        "city": "SAN ANTONIO",
+        "city": "EAGLE PASS",
         "state": "TX",
-        "postalCode": "78215-2033"
+        "postalCode": "78852-5891"
       },
       {
         "line": [
@@ -78,6 +69,15 @@
         "city": "SAN ANTONIO",
         "state": "TX",
         "postalCode": "78258-3992"
+      },
+      {
+        "line": [
+          "5430 Fredericksburg Rd",
+          "Ste. 400"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78229-3539"
       }
     ],
     "extension": [

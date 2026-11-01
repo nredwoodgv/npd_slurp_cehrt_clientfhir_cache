@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "3ba1bb0d-c9bf-440f-9e81-b0d35df765e3",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:45-05:00"
+      "lastUpdated": "2026-10-28T02:14:34-05:00"
     },
     "active": true,
     "name": "Barton Obstetrics & Gynecology - Minden",
     "address": [
       {
         "type": "physical",
-        "text": "897 Ironwood Dr.\nMinden NV 89423\n*United States of America",
+        "text": "897 Ironwood Dr.\r\nMinden NV 89423\r\n*United States of America",
         "line": [
           "Barton Obstetrics & Gynecology - Minden",
           "897 Ironwood Dr."
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:018e9480-fcee-43fe-be2e-07d8c8043646"
+      "reference": "urn:uuid:1a5d9b05-357c-40e6-a60a-844c702879bb"
     }
   },
   "fullUrl": "urn:uuid:3ba1bb0d-c9bf-440f-9e81-b0d35df765e3"

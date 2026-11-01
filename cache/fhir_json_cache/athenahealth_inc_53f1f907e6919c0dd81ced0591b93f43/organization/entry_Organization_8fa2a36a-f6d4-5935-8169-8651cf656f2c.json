@@ -14,14 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750873337"
+        "value": "1548293640"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548293640"
+        "value": "1750873337"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3099 Bainbridge Avenue",
+          "Dr. Mohammed Uddin"
+        ],
+        "city": "BRONX",
+        "state": "NY",
+        "postalCode": "10467-3921"
+      },
       {
         "line": [
           "1625 St Peters Ave.",
@@ -39,15 +48,6 @@
         "city": "BRONX",
         "state": "NY",
         "postalCode": "10467-4839"
-      },
-      {
-        "line": [
-          "3099 Bainbridge Avenue",
-          "Dr. Mohammed Uddin"
-        ],
-        "city": "BRONX",
-        "state": "NY",
-        "postalCode": "10467-3921"
       }
     ],
     "extension": [

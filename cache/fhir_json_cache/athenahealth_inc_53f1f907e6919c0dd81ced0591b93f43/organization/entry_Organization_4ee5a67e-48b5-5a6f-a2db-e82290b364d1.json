@@ -14,21 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013239482"
+        "value": "1245228972"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245228972"
+        "value": "1013239482"
       }
     ],
     "address": [
       {
         "line": [
-          "1065 BUCKS LAKE RD"
+          "75 Pringle Way",
+          "#701"
         ],
-        "city": "QUINCY",
-        "state": "CA",
-        "postalCode": "95971-9599"
+        "city": "RENO",
+        "state": "NV",
+        "postalCode": "89502-1464"
       },
       {
         "line": [
@@ -40,12 +41,11 @@
       },
       {
         "line": [
-          "75 Pringle Way",
-          "#701"
+          "1065 BUCKS LAKE RD"
         ],
-        "city": "RENO",
-        "state": "NV",
-        "postalCode": "89502-1464"
+        "city": "QUINCY",
+        "state": "CA",
+        "postalCode": "95971-9599"
       }
     ],
     "extension": [

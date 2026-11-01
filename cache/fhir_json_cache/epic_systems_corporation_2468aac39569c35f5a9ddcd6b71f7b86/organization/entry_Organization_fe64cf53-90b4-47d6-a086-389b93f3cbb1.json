@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "fe64cf53-90b4-47d6-a086-389b93f3cbb1",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Cancer Center Johnson Creek",
     "address": [
       {
         "type": "physical",
-        "text": "250 Doctors Ct \nJohnson Creek WI 53038\nUS",
+        "text": "250 Doctors Ct \r\nJohnson Creek WI 53038\r\nUS",
         "line": [
           "UW Cancer Center Johnson Creek",
           "250 Doctors Ct"
         ],
         "city": "Johnson Creek",
         "state": "WI",
-        "postalCode": "53038"
+        "postalCode": "53038",
+        "country": "US"
       }
     ],
     "partOf": {

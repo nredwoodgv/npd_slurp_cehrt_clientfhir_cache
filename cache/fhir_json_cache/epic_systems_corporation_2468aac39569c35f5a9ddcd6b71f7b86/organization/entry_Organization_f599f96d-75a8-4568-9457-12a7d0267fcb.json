@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "f599f96d-75a8-4568-9457-12a7d0267fcb",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Richland Hospital Clinic Department",
     "address": [
       {
         "type": "physical",
-        "text": "333 East Second Street\nRichland Center WI 53581\nUS",
+        "text": "333 East Second Street\r\nRichland Center WI 53581\r\nUS",
         "line": [
           "UW Health Richland Hospital Clinic Department",
           "333 East Second Street"
         ],
         "city": "Richland Center",
         "state": "WI",
-        "postalCode": "53581"
+        "postalCode": "53581",
+        "country": "US"
       }
     ],
     "partOf": {

@@ -22,15 +22,21 @@
     "name": "UW Health",
     "address": [
       {
-        "state": "WI"
+        "state": "WI",
+        "country": "US"
       },
       {
-        "state": "IL"
+        "state": "IL",
+        "country": "US"
+      },
+      {
+        "state": "MN",
+        "country": "US"
       }
     ],
     "endpoint": [
       {
-        "reference": "urn:uuid:9873f2be-5397-432e-9e7e-891bb87dc6b8"
+        "reference": "urn:uuid:ffab68c1-c72a-43f0-a3f5-54ce9c6872cb"
       }
     ]
   },

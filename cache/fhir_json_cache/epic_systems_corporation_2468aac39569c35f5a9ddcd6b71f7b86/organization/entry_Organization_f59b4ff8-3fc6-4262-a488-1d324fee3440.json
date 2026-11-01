@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "f59b4ff8-3fc6-4262-a488-1d324fee3440",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:45-05:00"
+      "lastUpdated": "2026-10-28T02:14:34-05:00"
     },
     "active": true,
     "name": "Barton Stateline Medical Center",
     "address": [
       {
         "type": "physical",
-        "text": "155 US-50\nStateline NV 89449-9800\n*United States of America",
+        "text": "155 US-50\r\nStateline NV 89449-9800\r\n*United States of America",
         "line": [
           "Barton Stateline Medical Center",
           "155 US-50"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:018e9480-fcee-43fe-be2e-07d8c8043646"
+      "reference": "urn:uuid:1a5d9b05-357c-40e6-a60a-844c702879bb"
     }
   },
   "fullUrl": "urn:uuid:f59b4ff8-3fc6-4262-a488-1d324fee3440"

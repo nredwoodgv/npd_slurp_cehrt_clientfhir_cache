@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "614192ab-c8c1-42b7-bc89-c9a1ea1d02d6",
     "meta": {
-      "lastUpdated": "2025-10-06T17:33:02-05:00"
+      "lastUpdated": "2026-10-21T23:34:04-05:00"
     },
     "active": true,
     "name": "Maryland Primary Care Physicians (MPCP)",
     "address": [
       {
         "type": "physical",
-        "text": "7711 Quarterfield Road\nGLEN BURNIE MD 21061\nUnited States of America",
+        "text": "7711 Quarterfield Road\r\nGLEN BURNIE MD 21061\r\nUnited States of America",
         "line": [
           "Maryland Primary Care Physicians (MPCP)",
           "7711 Quarterfield Road"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:28df6439-1c90-4270-9861-4b76dcf45798"
+      "reference": "urn:uuid:2e233e72-2079-49c5-9820-7fe276b324fe"
     }
   },
   "fullUrl": "urn:uuid:614192ab-c8c1-42b7-bc89-c9a1ea1d02d6"

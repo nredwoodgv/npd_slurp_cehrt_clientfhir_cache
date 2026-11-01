@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "ea82556a-2683-4846-b46b-1e7967c07a77",
     "meta": {
-      "lastUpdated": "2025-10-06T17:34:13-05:00"
+      "lastUpdated": "2026-10-26T23:31:03-05:00"
     },
     "active": true,
     "name": "CMU Health Pediatrics - Bay Rd",
     "address": [
       {
         "type": "physical",
-        "text": "3875 Bay Rd Ste 1S\nSAGINAW MI 48603\nUnited States of America",
+        "text": "3875 Bay Rd Ste 1S\r\nSAGINAW MI 48603\r\nUnited States of America",
         "line": [
           "CMU Health Pediatrics - Bay Rd",
           "3875 Bay Rd Ste 1S"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:44c69c6c-7dba-4d8c-b412-dfbeae673aa6"
+      "reference": "urn:uuid:b8bb8541-07a5-43b2-8094-99933f7ecd37"
     }
   },
   "fullUrl": "urn:uuid:ea82556a-2683-4846-b46b-1e7967c07a77"

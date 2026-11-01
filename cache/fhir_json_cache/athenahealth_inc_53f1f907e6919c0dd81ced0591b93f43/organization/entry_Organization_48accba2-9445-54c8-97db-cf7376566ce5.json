@@ -14,46 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144755455"
+        "value": "1194413534"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194413534"
+        "value": "1144755455"
       }
     ],
     "address": [
-      {
-        "line": [
-          "200 Wake Robin"
-        ],
-        "city": "SHELBURNE",
-        "state": "VT",
-        "postalCode": "05482-9998"
-      },
-      {
-        "line": [
-          "18 Carmichael St"
-        ],
-        "city": "ESSEX JUNCTION",
-        "state": "VT",
-        "postalCode": "05452-4476"
-      },
-      {
-        "line": [
-          "1200 NORTH AVE"
-        ],
-        "city": "BURLINGTON",
-        "state": "VT",
-        "postalCode": "05408-2789"
-      },
-      {
-        "line": [
-          "43 Timber Lane"
-        ],
-        "city": "SOUTH BURLINGTON",
-        "state": "VT",
-        "postalCode": "05403-5201"
-      },
       {
         "line": [
           "43 Starr Farm Road"
@@ -61,22 +29,6 @@
         "city": "BURLINGTON",
         "state": "VT",
         "postalCode": "05408-1321"
-      },
-      {
-        "line": [
-          "272 Church Street"
-        ],
-        "city": "BURLINGTON",
-        "state": "VT",
-        "postalCode": "05401-4695"
-      },
-      {
-        "line": [
-          "687 Harbor Rd"
-        ],
-        "city": "SHELBURNE",
-        "state": "VT",
-        "postalCode": "05482-9998"
       },
       {
         "line": [
@@ -88,6 +40,14 @@
       },
       {
         "line": [
+          "43 Timber Lane"
+        ],
+        "city": "SOUTH BURLINGTON",
+        "state": "VT",
+        "postalCode": "05403-5201"
+      },
+      {
+        "line": [
           "300 Pearl Street"
         ],
         "city": "BURLINGTON",
@@ -96,11 +56,43 @@
       },
       {
         "line": [
+          "200 Wake Robin"
+        ],
+        "city": "SHELBURNE",
+        "state": "VT",
+        "postalCode": "05482-9998"
+      },
+      {
+        "line": [
           "47 W Spring St"
         ],
         "city": "WINOOSKI",
         "state": "VT",
         "postalCode": "05404-1397"
+      },
+      {
+        "line": [
+          "272 Church Street"
+        ],
+        "city": "BURLINGTON",
+        "state": "VT",
+        "postalCode": "05401-4695"
+      },
+      {
+        "line": [
+          "1200 NORTH AVE"
+        ],
+        "city": "BURLINGTON",
+        "state": "VT",
+        "postalCode": "05408-2789"
+      },
+      {
+        "line": [
+          "687 Harbor Rd"
+        ],
+        "city": "SHELBURNE",
+        "state": "VT",
+        "postalCode": "05482-9998"
       },
       {
         "line": [
@@ -117,6 +109,14 @@
         "city": "SOUTH BURLINGTON",
         "state": "VT",
         "postalCode": "05403-6430"
+      },
+      {
+        "line": [
+          "18 Carmichael St"
+        ],
+        "city": "ESSEX JUNCTION",
+        "state": "VT",
+        "postalCode": "05452-4476"
       }
     ],
     "extension": [

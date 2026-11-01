@@ -14,11 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487902995"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730437245"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073861431"
+        "value": "1215287362"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,21 +30,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487902995"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215287362"
+        "value": "1073861431"
       }
     ],
     "address": [
       {
         "line": [
-          "7870 US 2"
+          "1721 S. Stephenson Ave."
         ],
-        "city": "MANISTIQUE",
+        "city": "IRON MOUNTAIN",
         "state": "MI",
-        "postalCode": "49854-8992"
+        "postalCode": "49801-3637"
       },
       {
         "line": [
@@ -52,27 +52,27 @@
       },
       {
         "line": [
-          "1721 S. Stephenson Ave."
-        ],
-        "city": "IRON MOUNTAIN",
-        "state": "MI",
-        "postalCode": "49801-3637"
-      },
-      {
-        "line": [
-          "18341 US 41"
-        ],
-        "city": "LANSE",
-        "state": "MI",
-        "postalCode": "49946-8024"
-      },
-      {
-        "line": [
           "1500 Sand Point Rd"
         ],
         "city": "MUNISING",
         "state": "MI",
         "postalCode": "49862-1406"
+      },
+      {
+        "line": [
+          "500 Campus Drive"
+        ],
+        "city": "HANCOCK",
+        "state": "MI",
+        "postalCode": "49930-1452"
+      },
+      {
+        "line": [
+          "7870 US 2"
+        ],
+        "city": "MANISTIQUE",
+        "state": "MI",
+        "postalCode": "49854-8992"
       },
       {
         "line": [
@@ -84,11 +84,11 @@
       },
       {
         "line": [
-          "500 Campus Drive"
+          "18341 US 41"
         ],
-        "city": "HANCOCK",
+        "city": "LANSE",
         "state": "MI",
-        "postalCode": "49930-1452"
+        "postalCode": "49946-8024"
       }
     ],
     "extension": [

@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "1234"
       },
-      "display": "Erlanger Health"
+      "display": "Erlanger Health, Inc."
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://epicproxy.et0967.epichosted.com/FHIRProxy/api/FHIR/R4"
+    "address": "https://epicproxy.et0967.epichosted.com/FHIRProxy/EHS/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:708aa21e-e019-4434-bc98-7143d5c93664"
 }

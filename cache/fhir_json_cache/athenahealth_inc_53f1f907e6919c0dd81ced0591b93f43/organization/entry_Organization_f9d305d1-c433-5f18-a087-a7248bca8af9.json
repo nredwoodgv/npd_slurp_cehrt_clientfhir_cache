@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548567498"
+        "value": "1386911006"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386911006"
+        "value": "1548567498"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2333 BUCHANNAN ST",
-          "2ND FL"
-        ],
-        "city": "SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94115-1925"
-      },
       {
         "line": [
           "45 CASTRO street"
@@ -46,6 +37,15 @@
         "city": "SAN FRANCISCO",
         "state": "CA",
         "postalCode": "94118-1618"
+      },
+      {
+        "line": [
+          "2333 BUCHANNAN ST",
+          "2ND FL"
+        ],
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94115-1925"
       }
     ],
     "extension": [

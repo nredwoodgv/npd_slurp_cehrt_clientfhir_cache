@@ -3,20 +3,21 @@
     "resourceType": "Organization",
     "id": "98dad265-ff80-402d-aaef-4d3446c36082",
     "meta": {
-      "lastUpdated": "2025-10-06T17:34:18-05:00"
+      "lastUpdated": "2026-10-08T23:13:45-05:00"
     },
     "active": true,
     "name": "SEP H&V Aurora",
     "address": [
       {
         "type": "physical",
-        "text": "Aurora IN 47001\nUnited States of America",
+        "text": "204 Bridgeway Street\r\nAURORA IN 47001-1334\r\nUnited States of America",
         "line": [
-          "SEP H&V Aurora"
+          "SEP H&V Aurora",
+          "204 Bridgeway Street"
         ],
-        "city": "Aurora",
+        "city": "AURORA",
         "state": "IN",
-        "postalCode": "47001",
+        "postalCode": "47001-1334",
         "country": "USA"
       }
     ],

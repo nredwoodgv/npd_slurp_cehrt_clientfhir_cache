@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "41f06315-2c63-4eba-9b1a-ea3a6156c6d3",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:56-05:00"
+      "lastUpdated": "2026-10-27T00:53:40-05:00"
     },
     "active": true,
     "name": "Caplan Eye Clinic - Gretna",
     "address": [
       {
         "type": "physical",
-        "text": "120 Ochsner Blvd, Ste 330\nGretna LA 70056-7139\nUnited States of America",
+        "text": "120 Ochsner Blvd, Ste 330\r\nGretna LA 70056-7139\r\nUnited States of America",
         "line": [
           "Caplan Eye Clinic - Gretna",
           "120 Ochsner Blvd, Ste 330"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:571e3049-6d90-484b-bd9b-1936644c5b3b"
+      "reference": "urn:uuid:a3792191-e404-47be-acb3-de7fc01c8e68"
     }
   },
   "fullUrl": "urn:uuid:41f06315-2c63-4eba-9b1a-ea3a6156c6d3"

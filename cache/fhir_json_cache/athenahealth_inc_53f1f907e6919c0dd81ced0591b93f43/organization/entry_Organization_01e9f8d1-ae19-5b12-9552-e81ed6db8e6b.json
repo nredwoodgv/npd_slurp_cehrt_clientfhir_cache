@@ -14,18 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1942872890"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1619551744"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417521857"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942872890"
       }
     ],
     "address": [
+      {
+        "line": [
+          "15900 HIGHWAY 15 N"
+        ],
+        "city": "RIPLEY",
+        "state": "MS",
+        "postalCode": "38663-9208"
+      },
       {
         "line": [
           "1615 US Hwy 231 S."
@@ -41,14 +49,6 @@
         "city": "RALEIGH",
         "state": "NC",
         "postalCode": "27612-3853"
-      },
-      {
-        "line": [
-          "15900 HIGHWAY 15 N"
-        ],
-        "city": "RIPLEY",
-        "state": "MS",
-        "postalCode": "38663-9208"
       }
     ],
     "extension": [

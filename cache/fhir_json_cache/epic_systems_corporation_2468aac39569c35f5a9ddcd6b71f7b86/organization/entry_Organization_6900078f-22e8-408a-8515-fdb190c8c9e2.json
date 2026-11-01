@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "6900078f-22e8-408a-8515-fdb190c8c9e2",
     "meta": {
-      "lastUpdated": "2025-10-06T17:34:11-05:00"
+      "lastUpdated": "2026-03-13T02:55:50-05:00"
     },
     "active": true,
     "name": "EVN Zovio - San Diego",
     "address": [
       {
         "type": "physical",
-        "text": "8620 Spectrum Center Blvd.\nSAN DIEGO CA 92123\nUnited States",
+        "text": "8620 Spectrum Center Blvd.\r\nSAN DIEGO CA 92123\r\nUnited States",
         "line": [
           "EVN Zovio - San Diego",
           "8620 Spectrum Center Blvd."
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:f15df3e5-c3ab-4f25-9d8e-3309ac09d436"
+      "reference": "urn:uuid:33169e88-0c8e-4709-94f1-0771915dd9e6"
     }
   },
   "fullUrl": "urn:uuid:6900078f-22e8-408a-8515-fdb190c8c9e2"

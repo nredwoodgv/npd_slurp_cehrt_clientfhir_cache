@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669667283"
+        "value": "1528179017"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528179017"
+        "value": "1669667283"
       }
     ],
     "address": [
-      {
-        "line": [
-          "18111 Brookhurst St.",
-          "Suite 3200"
-        ],
-        "city": "FOUNTAIN VALLEY",
-        "state": "CA",
-        "postalCode": "92708-6728"
-      },
       {
         "line": [
           "1555 SUPERIOR AVENUE"
@@ -38,6 +29,20 @@
         "city": "NEWPORT BEACH",
         "state": "CA",
         "postalCode": "92663-3628"
+      },
+      {
+        "line": [
+          "1445 SUPERIOR AVENUE"
+        ],
+        "city": "NEWPORT BEACH",
+        "state": "CA",
+        "postalCode": "92663-6152"
+      },
+      {
+        "line": [],
+        "city": "COSTA MESA",
+        "state": "CA",
+        "postalCode": "92626-3534"
       },
       {
         "line": [
@@ -58,11 +63,12 @@
       },
       {
         "line": [
-          "1445 SUPERIOR AVENUE"
+          "18111 Brookhurst St.",
+          "Suite 3200"
         ],
-        "city": "NEWPORT BEACH",
+        "city": "FOUNTAIN VALLEY",
         "state": "CA",
-        "postalCode": "92663-6152"
+        "postalCode": "92708-6728"
       },
       {
         "line": [
@@ -71,12 +77,6 @@
         "city": "SAN JUAN CAPISTRANO",
         "state": "CA",
         "postalCode": "92675-2700"
-      },
-      {
-        "line": [],
-        "city": "COSTA MESA",
-        "state": "CA",
-        "postalCode": "92626-3534"
       }
     ],
     "extension": [

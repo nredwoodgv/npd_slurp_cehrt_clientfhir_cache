@@ -3,17 +3,20 @@
     "resourceType": "Organization",
     "id": "bb93b2d9-2af4-453b-85b7-ac6975ce4702",
     "meta": {
-      "lastUpdated": "2025-10-06T17:33:14-05:00"
+      "lastUpdated": "2026-10-26T23:27:39-05:00"
     },
     "active": true,
     "name": "CVS/minuteclinic - Western PA",
     "address": [
       {
         "type": "physical",
-        "text": "15613\nUnited States of America",
+        "text": "1 CVS Drive\r\nApollo PA 15613\r\nUnited States of America",
         "line": [
-          "CVS/minuteclinic - Western PA"
+          "CVS/minuteclinic - Western PA",
+          "1 CVS Drive"
         ],
+        "city": "Apollo",
+        "state": "PA",
         "postalCode": "15613",
         "country": "US"
       }

@@ -22,17 +22,13 @@
     "name": "Richfield Medical Group",
     "address": [
       {
-        "extension": [
-          {
-            "url": "http://hl7.org/fhir/StructureDefinition/data-absent-reason",
-            "valueCode": "unknown"
-          }
-        ]
+        "state": "MN",
+        "country": "USA"
       }
     ],
     "endpoint": [
       {
-        "reference": "urn:uuid:e7a7a41b-d91b-ec11-9150-001dd8b71f19"
+        "reference": "urn:uuid:d0cf5278-90c2-4cb7-a20f-575774568e0b"
       }
     ]
   },

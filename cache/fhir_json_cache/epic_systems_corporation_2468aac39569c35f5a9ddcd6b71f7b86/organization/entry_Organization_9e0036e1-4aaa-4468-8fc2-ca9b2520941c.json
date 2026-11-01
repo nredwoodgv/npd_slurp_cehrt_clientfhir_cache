@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "9e0036e1-4aaa-4468-8fc2-ca9b2520941c",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "Sun Prairie Dental Clinic - Access Community Health Centers (ACHC)",
     "address": [
       {
         "type": "physical",
-        "text": "1270 W. Main Street\nSun Prairie WI 53590\nUS",
+        "text": "1270 W. Main Street\r\nSun Prairie WI 53590\r\nUnited States of America",
         "line": [
           "Sun Prairie Dental Clinic - Access Community Health Centers (ACHC)",
           "1270 W. Main Street"
         ],
         "city": "Sun Prairie",
         "state": "WI",
-        "postalCode": "53590"
+        "postalCode": "53590",
+        "country": "US"
       }
     ],
     "partOf": {

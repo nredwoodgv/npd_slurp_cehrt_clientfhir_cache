@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "f8db3258-e8ce-423a-98fd-ebce474ef2c9",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-09T23:56:58-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - VOORHEES",
     "address": [
       {
         "type": "physical",
-        "text": "136 Route 73\nSuites A & B",
+        "text": "136 Route 73\r\nSuites A & B\r\nVoorhees NJ 08043\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - VOORHEES",
-          "136 Route 73\nSuites A & B"
+          "136 Route 73\r\nSuites A & B"
         ],
         "city": "Voorhees",
         "state": "NJ",
-        "postalCode": "08043"
+        "postalCode": "08043",
+        "country": "US"
       }
     ],
     "partOf": {

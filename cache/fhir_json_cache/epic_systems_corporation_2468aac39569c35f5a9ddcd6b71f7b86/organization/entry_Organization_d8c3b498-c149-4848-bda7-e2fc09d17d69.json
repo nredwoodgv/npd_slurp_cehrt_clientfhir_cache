@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "d8c3b498-c149-4848-bda7-e2fc09d17d69",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:08-05:00"
+      "lastUpdated": "2026-10-28T02:41:06-05:00"
     },
     "active": true,
     "name": "Providence Medical Group Rohnert Park - Internal Medicine",
     "address": [
       {
         "type": "physical",
-        "text": "1450 Medical Center Dr\nRohnert Park CA 94928\nUnited States of America",
+        "text": "1450 Medical Center Dr\r\nRohnert Park CA 94928\r\nUnited States of America",
         "line": [
           "Providence Medical Group Rohnert Park - Internal Medicine",
           "1450 Medical Center Dr"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:6f164dd4-0ad3-4171-8475-7046ea218ac2"
+      "reference": "urn:uuid:d99d09bb-45ff-4328-862c-cd0fbb3a9487"
     }
   },
   "fullUrl": "urn:uuid:d8c3b498-c149-4848-bda7-e2fc09d17d69"

@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "f6d9f97d-851b-42c2-95a2-65677021a6b1",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-09T23:56:58-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - CHERRY HILL",
     "address": [
       {
         "type": "physical",
-        "text": "2090 Springdale Road\nSuite D",
+        "text": "2090 Springdale Road\r\nSuite D\r\nCHERRY HILL NJ 08003\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - CHERRY HILL",
-          "2090 Springdale Road\nSuite D"
+          "2090 Springdale Road\r\nSuite D"
         ],
         "city": "CHERRY HILL",
         "state": "NJ",
-        "postalCode": "08003"
+        "postalCode": "08003",
+        "country": "US"
       }
     ],
     "partOf": {

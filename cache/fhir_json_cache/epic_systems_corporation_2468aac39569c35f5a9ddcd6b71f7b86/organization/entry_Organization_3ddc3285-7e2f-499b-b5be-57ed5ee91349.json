@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "3ddc3285-7e2f-499b-b5be-57ed5ee91349",
     "meta": {
-      "lastUpdated": "2025-10-06T17:34:13-05:00"
+      "lastUpdated": "2026-10-26T23:31:03-05:00"
     },
     "active": true,
     "name": "Aspire Quick Care",
     "address": [
       {
         "type": "physical",
-        "text": "2771 Angle St\nMARLETTE MI 48453-1002\nUnited States of America",
+        "text": "2771 Angle St\r\nMARLETTE MI 48453-1002\r\nUnited States of America",
         "line": [
           "Aspire Quick Care",
           "2771 Angle St"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:44c69c6c-7dba-4d8c-b412-dfbeae673aa6"
+      "reference": "urn:uuid:7256cbdd-200d-4d05-8732-c89b0055fd19"
     }
   },
   "fullUrl": "urn:uuid:3ddc3285-7e2f-499b-b5be-57ed5ee91349"

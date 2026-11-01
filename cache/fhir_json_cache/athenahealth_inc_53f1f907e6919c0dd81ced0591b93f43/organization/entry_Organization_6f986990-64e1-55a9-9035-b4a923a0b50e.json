@@ -20,14 +20,6 @@
     "address": [
       {
         "line": [
-          "350 Hawthorne Ave"
-        ],
-        "city": "OAKLAND",
-        "state": "CA",
-        "postalCode": "94609-3108"
-      },
-      {
-        "line": [
           "1545 PINE ST",
           "Suite 109"
         ],
@@ -36,10 +28,12 @@
         "postalCode": "94109-4682"
       },
       {
-        "line": [],
-        "city": "MOUNTAIN VIEW",
+        "line": [
+          "350 Hawthorne Ave"
+        ],
+        "city": "OAKLAND",
         "state": "CA",
-        "postalCode": "94040-4302"
+        "postalCode": "94609-3108"
       },
       {
         "line": [
@@ -62,6 +56,12 @@
         "city": "BERKELEY",
         "state": "CA",
         "postalCode": "94705-2067"
+      },
+      {
+        "line": [],
+        "city": "MOUNTAIN VIEW",
+        "state": "CA",
+        "postalCode": "94040-4302"
       }
     ],
     "extension": [

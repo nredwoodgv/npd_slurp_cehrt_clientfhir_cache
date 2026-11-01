@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "efbf2a81-45d2-44d5-965c-a27d27f7c13d",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Home Care Services",
     "address": [
       {
         "type": "physical",
-        "text": "1345 Deming Way\nMiddleton WI 53562\nUS",
+        "text": "1345 Deming Way\r\nMiddleton WI 53562\r\nUS",
         "line": [
           "UW Health Home Care Services",
           "1345 Deming Way"
         ],
         "city": "Middleton",
         "state": "WI",
-        "postalCode": "53562"
+        "postalCode": "53562",
+        "country": "US"
       }
     ],
     "partOf": {

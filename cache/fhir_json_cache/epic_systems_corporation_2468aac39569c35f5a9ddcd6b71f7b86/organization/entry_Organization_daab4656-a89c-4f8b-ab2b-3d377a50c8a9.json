@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "daab4656-a89c-4f8b-ab2b-3d377a50c8a9",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health 1340 Charles St Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "1340 Charles St\nRockford IL 61104\nUS",
+        "text": "1340 Charles St\r\nRockford IL 61104\r\nUnited States of America",
         "line": [
           "UW Health 1340 Charles St Clinic",
           "1340 Charles St"
         ],
         "city": "Rockford",
         "state": "IL",
-        "postalCode": "61104"
+        "postalCode": "61104",
+        "country": "US"
       }
     ],
     "partOf": {

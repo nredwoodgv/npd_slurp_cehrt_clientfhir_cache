@@ -14,63 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588132062"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1871095190"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790098218"
+        "value": "1154965093"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154965093"
+        "value": "1588132062"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1790098218"
       }
     ],
     "address": [
       {
         "line": [
-          "14837 PEYTON DR"
-        ],
-        "city": "CHINO HILLS",
-        "state": "CA",
-        "postalCode": "91709-2075"
-      },
-      {
-        "line": [
-          "82013 CARREON BLVD",
-          "SUITE H"
-        ],
-        "city": "INDIO",
-        "state": "CA",
-        "postalCode": "92201-0100"
-      },
-      {
-        "line": [
-          "14837 Peyton Dr"
-        ],
-        "city": "CHINO HILLS",
-        "state": "CA",
-        "postalCode": "91709-0001"
-      },
-      {
-        "line": [
-          "8945 MAGNOLIA AVE STE 200",
-          "STE 200"
+          "8945 MAGNOLIA AVE STE 200"
         ],
         "city": "RIVERSIDE",
         "state": "CA",
         "postalCode": "92503-4436"
-      },
-      {
-        "line": [
-          "800 S MAIN ST"
-        ],
-        "city": "CORONA",
-        "state": "CA",
-        "postalCode": "92882-3420"
       },
       {
         "line": [
@@ -83,6 +49,30 @@
       },
       {
         "line": [
+          "14837 Peyton Dr"
+        ],
+        "city": "CHINO HILLS",
+        "state": "CA",
+        "postalCode": "91709-0001"
+      },
+      {
+        "line": [
+          "800 S MAIN ST"
+        ],
+        "city": "CORONA",
+        "state": "CA",
+        "postalCode": "92882-3420"
+      },
+      {
+        "line": [
+          "14837 PEYTON DR"
+        ],
+        "city": "CHINO HILLS",
+        "state": "CA",
+        "postalCode": "91709-2075"
+      },
+      {
+        "line": [
           "11825 APPLE VALLEY RD"
         ],
         "city": "APPLE VALLEY",
@@ -91,7 +81,17 @@
       },
       {
         "line": [
-          "8945 MAGNOLIA AVE STE 200"
+          "82013 CARREON BLVD",
+          "SUITE H"
+        ],
+        "city": "INDIO",
+        "state": "CA",
+        "postalCode": "92201-0100"
+      },
+      {
+        "line": [
+          "8945 MAGNOLIA AVE STE 200",
+          "STE 200"
         ],
         "city": "RIVERSIDE",
         "state": "CA",

@@ -14,18 +14,27 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437522067"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578126306"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1942762315"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437522067"
       }
     ],
     "address": [
+      {
+        "line": [
+          "8850 Stanford Blvd",
+          "Suite 3300"
+        ],
+        "city": "COLUMBIA",
+        "state": "MD",
+        "postalCode": "21045-5421"
+      },
       {
         "line": [
           "8850 Stanford Blvd",
@@ -50,15 +59,6 @@
         "city": "COLUMBIA",
         "state": "SC",
         "postalCode": "29201-9999"
-      },
-      {
-        "line": [
-          "8850 Stanford Blvd",
-          "Suite 3300"
-        ],
-        "city": "COLUMBIA",
-        "state": "MD",
-        "postalCode": "21045-5421"
       }
     ],
     "extension": [

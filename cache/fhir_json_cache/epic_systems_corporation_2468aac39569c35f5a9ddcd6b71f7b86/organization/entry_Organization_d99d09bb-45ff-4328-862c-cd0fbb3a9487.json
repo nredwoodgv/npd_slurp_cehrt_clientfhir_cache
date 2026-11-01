@@ -19,15 +19,11 @@
         ]
       }
     ],
-    "name": "Providence Health & Services",
+    "name": "Providence, Oregon, California",
     "address": [
       {
-        "extension": [
-          {
-            "url": "http://hl7.org/fhir/StructureDefinition/data-absent-reason",
-            "valueCode": "unknown"
-          }
-        ]
+        "state": "CA",
+        "country": "USA"
       }
     ],
     "endpoint": [

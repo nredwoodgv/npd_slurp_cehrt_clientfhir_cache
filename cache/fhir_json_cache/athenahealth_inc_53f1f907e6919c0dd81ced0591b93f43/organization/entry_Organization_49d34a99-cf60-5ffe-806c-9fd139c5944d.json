@@ -14,29 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710927405"
+        "value": "1861440810"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861440810"
+        "value": "1710927405"
       }
     ],
     "address": [
       {
         "line": [
-          "12884 Cleveland St W"
+          "8495 NORMANDY BLVD"
         ],
-        "city": "NAHUNTA",
-        "state": "GA",
-        "postalCode": "31553-2834"
-      },
-      {
-        "line": [
-          "463386 STATE ROAD 200"
-        ],
-        "city": "YULEE",
+        "city": "JACKSONVILLE",
         "state": "FL",
-        "postalCode": "32097-3240"
+        "postalCode": "32221-6701"
       },
       {
         "line": [
@@ -48,19 +40,19 @@
       },
       {
         "line": [
-          "8495 NORMANDY BLVD"
+          "330 Corporate way"
         ],
-        "city": "JACKSONVILLE",
+        "city": "FLEMING ISLAND",
         "state": "FL",
-        "postalCode": "32221-6701"
+        "postalCode": "32003-4461"
       },
       {
         "line": [
-          "1625 Lime Street"
+          "463386 STATE ROAD 200"
         ],
-        "city": "FERNANDINA BEACH",
+        "city": "YULEE",
         "state": "FL",
-        "postalCode": "32034-3017"
+        "postalCode": "32097-3240"
       },
       {
         "line": [
@@ -73,20 +65,12 @@
       },
       {
         "line": [
-          "463380 State Road 200",
-          "Unit B"
+          "13241 BARTRAM PARK BLVD",
+          "Suite 305"
         ],
-        "city": "YULEE",
+        "city": "JACKSONVILLE",
         "state": "FL",
-        "postalCode": "32097-3240"
-      },
-      {
-        "line": [
-          "330 Corporate way"
-        ],
-        "city": "FLEMING ISLAND",
-        "state": "FL",
-        "postalCode": "32003-4461"
+        "postalCode": "32258-5236"
       },
       {
         "line": [
@@ -98,20 +82,20 @@
       },
       {
         "line": [
-          "3316 3RD ST S STE 200"
+          "463380 State Road 200",
+          "Unit B"
         ],
-        "city": "JACKSONVILLE BEACH",
+        "city": "YULEE",
         "state": "FL",
-        "postalCode": "32250-6091"
+        "postalCode": "32097-3240"
       },
       {
         "line": [
-          "13241 BARTRAM PARK BLVD",
-          "Suite 305"
+          "1625 Lime Street"
         ],
-        "city": "JACKSONVILLE",
+        "city": "FERNANDINA BEACH",
         "state": "FL",
-        "postalCode": "32258-5236"
+        "postalCode": "32034-3017"
       },
       {
         "line": [
@@ -120,6 +104,22 @@
         "city": "BLACKSHEAR",
         "state": "GA",
         "postalCode": "31516-1545"
+      },
+      {
+        "line": [
+          "3316 3RD ST S STE 200"
+        ],
+        "city": "JACKSONVILLE BEACH",
+        "state": "FL",
+        "postalCode": "32250-6091"
+      },
+      {
+        "line": [
+          "12884 Cleveland St W"
+        ],
+        "city": "NAHUNTA",
+        "state": "GA",
+        "postalCode": "31553-2834"
       }
     ],
     "extension": [

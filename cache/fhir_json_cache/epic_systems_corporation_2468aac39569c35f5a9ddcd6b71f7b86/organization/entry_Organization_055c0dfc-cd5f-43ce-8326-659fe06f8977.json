@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "055c0dfc-cd5f-43ce-8326-659fe06f8977",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health 2404 Charles St Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "2404 Charles St\nRockford IL 61108\nUS",
+        "text": "2404 Charles St\r\nRockford IL 61108\r\nUnited States of America",
         "line": [
           "UW Health 2404 Charles St Clinic",
           "2404 Charles St"
         ],
         "city": "Rockford",
         "state": "IL",
-        "postalCode": "61108"
+        "postalCode": "61108",
+        "country": "US"
       }
     ],
     "partOf": {

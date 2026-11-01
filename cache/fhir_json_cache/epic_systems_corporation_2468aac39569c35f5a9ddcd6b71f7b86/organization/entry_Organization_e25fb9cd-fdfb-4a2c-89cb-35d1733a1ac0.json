@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "e25fb9cd-fdfb-4a2c-89cb-35d1733a1ac0",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:10-05:00"
+      "lastUpdated": "2026-10-26T23:44:08-05:00"
     },
     "active": true,
     "name": "St. Mary's Lewiston Mollison",
     "address": [
       {
         "type": "physical",
-        "text": "15 MOLLISON WAY\nLEWISTON ME 04240-5805\nUnited States of America",
+        "text": "15 MOLLISON WAY\r\nLEWISTON ME 04240-5805\r\nUnited States of America",
         "line": [
           "St. Mary's Lewiston Mollison",
           "15 MOLLISON WAY"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:c218f4cf-04a9-4f7e-b20a-effa30dc87bc"
+      "reference": "urn:uuid:c74482ff-4f4c-4cbf-892e-36d440163fc9"
     }
   },
   "fullUrl": "urn:uuid:e25fb9cd-fdfb-4a2c-89cb-35d1733a1ac0"

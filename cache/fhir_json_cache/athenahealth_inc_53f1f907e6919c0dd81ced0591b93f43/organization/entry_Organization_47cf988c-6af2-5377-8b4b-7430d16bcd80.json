@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821349317"
+        "value": "1629398219"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629398219"
+        "value": "1821349317"
       }
     ],
     "address": [
@@ -40,15 +40,7 @@
       },
       {
         "line": [
-          "400 WASHINGTON ST SUITE 206"
-        ],
-        "city": "BRAINTREE",
-        "state": "MA",
-        "postalCode": "02184-4769"
-      },
-      {
-        "line": [
-          "2100 DORCHESTER AVENUE"
+          "2100 DORCHESTER AVE, SUITE 209"
         ],
         "city": "DORCHESTER CENTER",
         "state": "MA",
@@ -81,7 +73,7 @@
       },
       {
         "line": [
-          "2100 DORCHESTER AVE, SUITE 209"
+          "2100 DORCHESTER AVENUE"
         ],
         "city": "DORCHESTER CENTER",
         "state": "MA",
@@ -94,6 +86,14 @@
         "city": "DORCHESTER CENTER",
         "state": "MA",
         "postalCode": "02124-5616"
+      },
+      {
+        "line": [
+          "400 WASHINGTON ST SUITE 206"
+        ],
+        "city": "BRAINTREE",
+        "state": "MA",
+        "postalCode": "02184-4769"
       }
     ],
     "extension": [

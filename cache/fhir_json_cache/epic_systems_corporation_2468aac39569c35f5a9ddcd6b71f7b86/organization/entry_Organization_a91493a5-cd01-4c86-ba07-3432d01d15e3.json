@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "a91493a5-cd01-4c86-ba07-3432d01d15e3",
     "meta": {
-      "lastUpdated": "2025-10-06T17:33:57-05:00"
+      "lastUpdated": "2026-10-24T00:51:14-05:00"
     },
     "active": true,
     "name": "CC CTRL SURG FOREST",
     "address": [
       {
         "type": "physical",
-        "text": "505 Airport Rd\nFOREST MS 39074-3508\nUnited States of America",
+        "text": "505 Airport Rd\r\nFOREST MS 39074-3508\r\nUnited States of America",
         "line": [
           "CC CTRL SURG FOREST",
           "505 Airport Rd"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:c07c51c7-9c20-48c8-adbe-e06182d5e13b"
+      "reference": "urn:uuid:b6574074-0726-4ca7-bcdc-ed3cd2f46fc0"
     }
   },
   "fullUrl": "urn:uuid:a91493a5-cd01-4c86-ba07-3432d01d15e3"

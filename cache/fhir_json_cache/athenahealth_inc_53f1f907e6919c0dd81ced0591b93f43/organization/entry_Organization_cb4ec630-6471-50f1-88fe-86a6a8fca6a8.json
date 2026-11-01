@@ -18,14 +18,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699260760"
+        "value": "1366529620"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366529620"
+        "value": "1699260760"
       }
     ],
     "address": [
+      {
+        "line": [
+          "110 East 55th Street 16th Fl"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10022-4568"
+      },
       {
         "line": [
           "525 E 68th st"
@@ -41,14 +49,6 @@
         "city": "NEW YORK",
         "state": "NY",
         "postalCode": "10154-0001"
-      },
-      {
-        "line": [
-          "110 East 55th Street 16th Fl"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10022-4568"
       },
       {
         "line": [

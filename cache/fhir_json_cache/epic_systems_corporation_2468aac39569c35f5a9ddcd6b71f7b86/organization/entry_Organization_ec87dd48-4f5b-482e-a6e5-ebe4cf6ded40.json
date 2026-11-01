@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "ec87dd48-4f5b-482e-a6e5-ebe4cf6ded40",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-09T23:56:58-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - VINELAND",
     "address": [
       {
         "type": "physical",
-        "text": "1103 West Sherman Avenue\nSuite 2B",
+        "text": "1103 West Sherman Avenue\r\nSuite 2B\r\nVineland NJ 08360\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - VINELAND",
-          "1103 West Sherman Avenue\nSuite 2B"
+          "1103 West Sherman Avenue\r\nSuite 2B"
         ],
         "city": "Vineland",
         "state": "NJ",
-        "postalCode": "08360"
+        "postalCode": "08360",
+        "country": "US"
       }
     ],
     "partOf": {

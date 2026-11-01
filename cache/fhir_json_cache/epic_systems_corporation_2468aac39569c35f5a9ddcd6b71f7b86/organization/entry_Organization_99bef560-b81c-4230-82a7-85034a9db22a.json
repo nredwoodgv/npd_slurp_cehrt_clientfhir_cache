@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "99bef560-b81c-4230-82a7-85034a9db22a",
     "meta": {
-      "lastUpdated": "2025-10-06T17:33:57-05:00"
+      "lastUpdated": "2026-10-24T00:51:14-05:00"
     },
     "active": true,
     "name": "CC CTRL SURG BRANDON",
     "address": [
       {
         "type": "physical",
-        "text": "107 Ridgewood Cir\nBRANDON MS 39042\nUnited States of America",
+        "text": "107 Ridgewood Cir\r\nBRANDON MS 39042\r\nUnited States of America",
         "line": [
           "CC CTRL SURG BRANDON",
           "107 Ridgewood Cir"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:c07c51c7-9c20-48c8-adbe-e06182d5e13b"
+      "reference": "urn:uuid:b6574074-0726-4ca7-bcdc-ed3cd2f46fc0"
     }
   },
   "fullUrl": "urn:uuid:99bef560-b81c-4230-82a7-85034a9db22a"

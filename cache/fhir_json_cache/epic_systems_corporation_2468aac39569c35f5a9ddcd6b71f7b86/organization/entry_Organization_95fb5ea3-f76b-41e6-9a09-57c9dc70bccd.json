@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "95fb5ea3-f76b-41e6-9a09-57c9dc70bccd",
     "meta": {
-      "lastUpdated": "2025-10-06T17:34:13-05:00"
+      "lastUpdated": "2026-10-26T23:31:03-05:00"
     },
     "active": true,
     "name": "Aspire Marlette Women's Health Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "2775 Main St\nMARLETTE MI 48453\nUnited States of America",
+        "text": "2775 Main St\r\nMARLETTE MI 48453\r\nUnited States of America",
         "line": [
           "Aspire Marlette Women's Health Clinic",
           "2775 Main St"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:44c69c6c-7dba-4d8c-b412-dfbeae673aa6"
+      "reference": "urn:uuid:7256cbdd-200d-4d05-8732-c89b0055fd19"
     }
   },
   "fullUrl": "urn:uuid:95fb5ea3-f76b-41e6-9a09-57c9dc70bccd"

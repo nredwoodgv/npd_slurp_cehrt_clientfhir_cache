@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "1d45cb29-48dd-46f2-be89-73f9df794efb",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:08-05:00"
+      "lastUpdated": "2026-10-28T02:41:06-05:00"
     },
     "active": true,
     "name": "OREGON HEART CENTER CARDIOLOGY SALEM",
     "address": [
       {
         "type": "physical",
-        "text": "610 Hawthorne Ave SE, Suite 110\nSalem OR 97301\nUnited States of America",
+        "text": "610 Hawthorne Ave SE, Suite 110\r\nSalem OR 97301\r\nUnited States of America",
         "line": [
           "OREGON HEART CENTER CARDIOLOGY SALEM",
           "610 Hawthorne Ave SE, Suite 110"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:6f164dd4-0ad3-4171-8475-7046ea218ac2"
+      "reference": "urn:uuid:235d4747-be2a-4e99-95b1-c538d82227b7"
     }
   },
   "fullUrl": "urn:uuid:1d45cb29-48dd-46f2-be89-73f9df794efb"

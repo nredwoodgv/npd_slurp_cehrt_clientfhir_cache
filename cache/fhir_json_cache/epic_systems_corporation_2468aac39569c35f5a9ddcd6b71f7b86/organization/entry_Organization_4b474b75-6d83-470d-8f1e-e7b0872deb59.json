@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "4b474b75-6d83-470d-8f1e-e7b0872deb59",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-08T23:09:17-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - PARAMUS",
     "address": [
       {
         "type": "physical",
-        "text": "277 Forest Avenue\nSuites 102 & 206",
+        "text": "277 Forest Avenue\r\nSuites 102 & 206\r\nParamus NJ 07652\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - PARAMUS",
-          "277 Forest Avenue\nSuites 102 & 206"
+          "277 Forest Avenue\r\nSuites 102 & 206"
         ],
         "city": "Paramus",
         "state": "NJ",
-        "postalCode": "07652"
+        "postalCode": "07652",
+        "country": "US"
       }
     ],
     "partOf": {

@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "877"
       },
-      "display": "Contra Costa Health"
+      "display": "Contra Costa County, a political subdivision of the State of California, for its Health Services Department"
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://icproxy.mycclink.org/proxy-FHIR/api/FHIR/R4"
+    "address": "https://epicproxy.et0421.epichosted.com/APIPROXYPRD/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:9280550a-db56-42d3-8272-48e8dc272702"
 }

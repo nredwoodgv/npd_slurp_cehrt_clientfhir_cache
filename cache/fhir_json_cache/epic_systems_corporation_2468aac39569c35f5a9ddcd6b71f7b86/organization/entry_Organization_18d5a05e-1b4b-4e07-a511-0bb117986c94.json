@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "18d5a05e-1b4b-4e07-a511-0bb117986c94",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "Waisman Center",
     "address": [
       {
         "type": "physical",
-        "text": "1500 Highland Ave\nMadison WI 53705\nUS",
+        "text": "1500 Highland Ave\r\nMadison WI 53705\r\nUS",
         "line": [
           "Waisman Center",
           "1500 Highland Ave"
         ],
         "city": "Madison",
         "state": "WI",
-        "postalCode": "53705"
+        "postalCode": "53705",
+        "country": "US"
       }
     ],
     "partOf": {

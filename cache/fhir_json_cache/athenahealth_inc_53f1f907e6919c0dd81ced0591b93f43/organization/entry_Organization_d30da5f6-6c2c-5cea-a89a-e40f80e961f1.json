@@ -18,7 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902043433"
+        "value": "1033294673"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396798302"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,26 +30,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033294673"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1598929135"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396798302"
+        "value": "1902043433"
       }
     ],
     "address": [
       {
         "line": [
-          "4230 Harding Road",
-          "Suite 330"
+          "4230 Harding Road, Ste 535"
         ],
         "city": "NASHVILLE",
         "state": "TN",
-        "postalCode": "37205-2018"
+        "postalCode": "37205-2094"
       },
       {
         "line": [
@@ -57,11 +56,12 @@
       },
       {
         "line": [
-          "4230 Harding Road, Ste 535"
+          "4230 Harding Road",
+          "Suite 330"
         ],
         "city": "NASHVILLE",
         "state": "TN",
-        "postalCode": "37205-2094"
+        "postalCode": "37205-2018"
       }
     ],
     "extension": [

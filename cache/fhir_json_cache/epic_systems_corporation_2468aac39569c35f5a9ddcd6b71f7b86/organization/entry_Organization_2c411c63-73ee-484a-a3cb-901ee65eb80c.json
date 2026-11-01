@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "2c411c63-73ee-484a-a3cb-901ee65eb80c",
     "meta": {
-      "lastUpdated": "2025-10-06T17:33:52-05:00"
+      "lastUpdated": "2026-10-28T02:07:47-05:00"
     },
     "active": true,
     "name": "All Care Health Center",
     "address": [
       {
         "type": "physical",
-        "text": "902 S 6th St\nCOUNCIL BLUFFS IA 51501\nUnited States of America",
+        "text": "902 S 6th St\r\nCOUNCIL BLUFFS IA 51501\r\nUnited States of America",
         "line": [
           "All Care Health Center",
           "902 S 6th St"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:dc92813a-eda9-4c30-9d26-41ed0e5aaed7"
+      "reference": "urn:uuid:32aea290-2d02-46c7-aaa0-e090af45f66d"
     }
   },
   "fullUrl": "urn:uuid:2c411c63-73ee-484a-a3cb-901ee65eb80c"

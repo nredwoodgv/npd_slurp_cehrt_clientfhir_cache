@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "487f34f0-569c-41d1-8186-c452143ff9d5",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:14-05:00"
+      "lastUpdated": "2026-10-06T23:32:43-05:00"
     },
     "active": true,
     "name": "BioSpine Sarasota - Ortho",
     "address": [
       {
         "type": "physical",
-        "text": "6600 University Parkway East\nSarasota FL 34240\nUnited States of America",
+        "text": "6600 University Parkway East\r\nSarasota FL 34240\r\nUnited States of America",
         "line": [
           "BioSpine Sarasota - Ortho",
           "6600 University Parkway East"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:4b531211-015c-4473-9a63-57e29751b4c2"
+      "reference": "urn:uuid:8eeb6e48-e70a-4efb-9591-169aeae7e078"
     }
   },
   "fullUrl": "urn:uuid:487f34f0-569c-41d1-8186-c452143ff9d5"

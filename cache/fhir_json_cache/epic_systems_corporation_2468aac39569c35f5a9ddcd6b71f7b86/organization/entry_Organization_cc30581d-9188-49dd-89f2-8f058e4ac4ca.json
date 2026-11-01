@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "cc30581d-9188-49dd-89f2-8f058e4ac4ca",
     "meta": {
-      "lastUpdated": "2025-12-06T17:08:24-06:00"
+      "lastUpdated": "2026-10-14T23:18:29-05:00"
     },
     "active": true,
     "name": "Paulding County Hospital Oakwood Clinic - N First St",
     "address": [
       {
         "type": "physical",
-        "text": "109 N First St\nOAKWOOD OH 45873\nUnited States of America",
+        "text": "109 N First St\r\nOAKWOOD OH 45873\r\nUnited States of America",
         "line": [
           "Paulding County Hospital Oakwood Clinic - N First St",
           "109 N First St"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:f66275a8-2e2b-47d8-956b-6e5763077d7f"
+      "reference": "urn:uuid:f7bb563d-0e1f-40d1-a1be-31f82730458b"
     }
   },
   "fullUrl": "urn:uuid:cc30581d-9188-49dd-89f2-8f058e4ac4ca"

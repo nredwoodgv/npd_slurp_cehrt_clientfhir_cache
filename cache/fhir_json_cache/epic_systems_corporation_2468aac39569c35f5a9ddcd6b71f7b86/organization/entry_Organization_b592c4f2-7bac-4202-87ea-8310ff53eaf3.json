@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "b592c4f2-7bac-4202-87ea-8310ff53eaf3",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:56-05:00"
+      "lastUpdated": "2026-10-27T00:53:40-05:00"
     },
     "active": true,
     "name": "MRI of Louisiana - WJMC",
     "address": [
       {
         "type": "physical",
-        "text": "1111 Medical Center Blvd, Suite N-110\nMarrero LA 70072\nUnited States of America",
+        "text": "1111 Medical Center Blvd, Suite N-110\r\nMarrero LA 70072\r\nUnited States of America",
         "line": [
           "MRI of Louisiana - WJMC",
           "1111 Medical Center Blvd, Suite N-110"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:571e3049-6d90-484b-bd9b-1936644c5b3b"
+      "reference": "urn:uuid:a3792191-e404-47be-acb3-de7fc01c8e68"
     }
   },
   "fullUrl": "urn:uuid:b592c4f2-7bac-4202-87ea-8310ff53eaf3"

@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "4248"
       },
-      "display": "Exact Sciences Corporation"
+      "display": "Exact Sciences Laboratories, LLC"
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://epicproxy.et1126.epichosted.com/FHIRProxy/api/FHIR/R4"
+    "address": "https://epicproxy.et1126.epichosted.com/FHIRProxy/EXACT/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:09fd80dc-9fde-4a3c-8cea-5dbf6c02c650"
 }

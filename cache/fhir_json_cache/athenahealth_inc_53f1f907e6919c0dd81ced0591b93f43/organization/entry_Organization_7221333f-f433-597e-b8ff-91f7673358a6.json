@@ -14,18 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114809241"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1275975104"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1811230741"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114809241"
       }
     ],
     "address": [
+      {
+        "line": [
+          "555 S MAIN ST"
+        ],
+        "city": "ORANGE",
+        "state": "CA",
+        "postalCode": "92868-4505"
+      },
       {
         "line": [
           "4980 BARRANCA PKWY Suite 220"
@@ -33,14 +41,6 @@
         "city": "IRVINE",
         "state": "CA",
         "postalCode": "92604-8655"
-      },
-      {
-        "line": [
-          "25982 PALA STE 230"
-        ],
-        "city": "MISSION VIEJO",
-        "state": "CA",
-        "postalCode": "92691-6728"
       },
       {
         "line": [
@@ -52,11 +52,11 @@
       },
       {
         "line": [
-          "555 S MAIN ST"
+          "25982 PALA STE 230"
         ],
-        "city": "ORANGE",
+        "city": "MISSION VIEJO",
         "state": "CA",
-        "postalCode": "92868-4505"
+        "postalCode": "92691-6728"
       }
     ],
     "extension": [

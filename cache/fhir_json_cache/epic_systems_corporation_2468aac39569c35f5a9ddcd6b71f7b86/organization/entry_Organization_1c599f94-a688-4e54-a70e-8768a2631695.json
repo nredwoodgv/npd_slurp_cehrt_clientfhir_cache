@@ -3,17 +3,17 @@
     "resourceType": "Organization",
     "id": "1c599f94-a688-4e54-a70e-8768a2631695",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:56-05:00"
+      "lastUpdated": "2026-10-27T00:53:40-05:00"
     },
     "active": true,
     "name": "Luis F. Soto Cardiology",
     "address": [
       {
         "type": "physical",
-        "text": "4300 Houma Blvd\nSuite 107\nMetairie LA 70006\nUnited States of America",
+        "text": "4300 Houma Blvd\r\nSuite 107\r\nMetairie LA 70006\r\nUnited States of America",
         "line": [
           "Luis F. Soto Cardiology",
-          "4300 Houma Blvd\nSuite 107"
+          "4300 Houma Blvd\r\nSuite 107"
         ],
         "city": "Metairie",
         "state": "LA",
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:571e3049-6d90-484b-bd9b-1936644c5b3b"
+      "reference": "urn:uuid:a3792191-e404-47be-acb3-de7fc01c8e68"
     }
   },
   "fullUrl": "urn:uuid:1c599f94-a688-4e54-a70e-8768a2631695"

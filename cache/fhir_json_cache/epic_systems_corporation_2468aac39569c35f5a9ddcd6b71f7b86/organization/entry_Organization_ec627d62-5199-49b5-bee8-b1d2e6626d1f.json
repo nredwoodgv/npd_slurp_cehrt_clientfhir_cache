@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "ec627d62-5199-49b5-bee8-b1d2e6626d1f",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Marshfield Medical Center River Region - Stevens Point",
     "address": [
       {
         "type": "physical",
-        "text": "4100 State Hwy 66\nStevens Point WI 54482\nUS",
+        "text": "4100 State Hwy 66\r\nStevens Point WI 54482\r\nUS",
         "line": [
           "UW Health Marshfield Medical Center River Region - Stevens Point",
           "4100 State Hwy 66"
         ],
         "city": "Stevens Point",
         "state": "WI",
-        "postalCode": "54482"
+        "postalCode": "54482",
+        "country": "US"
       }
     ],
     "partOf": {

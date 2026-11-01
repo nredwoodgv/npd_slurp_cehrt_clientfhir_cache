@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821092552"
+        "value": "1942969746"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861150427"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,11 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942969746"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861150427"
+        "value": "1821092552"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -44,19 +44,19 @@
       },
       {
         "line": [
-          "15931 Boundary Drive"
-        ],
-        "city": "ASHLAND",
-        "state": "MS",
-        "postalCode": "38603-0092"
-      },
-      {
-        "line": [
           "1705 Crescent Meadows Drive"
         ],
         "city": "HOLLY SPRINGS",
         "state": "MS",
         "postalCode": "38635-9998"
+      },
+      {
+        "line": [
+          "15931 Boundary Drive"
+        ],
+        "city": "ASHLAND",
+        "state": "MS",
+        "postalCode": "38603-0092"
       }
     ],
     "extension": [

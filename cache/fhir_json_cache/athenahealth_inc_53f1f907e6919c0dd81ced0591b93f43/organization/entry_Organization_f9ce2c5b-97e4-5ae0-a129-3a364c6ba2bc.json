@@ -14,11 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790086767"
+        "value": "1821385329"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1588384671"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1790086767"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1891415972"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,50 +38,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891415972"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1407576580"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821385329"
       }
     ],
     "address": [
       {
-        "line": [
-          "227 BURLEY AVE"
-        ],
+        "line": [],
         "city": "HOPKINSVILLE",
         "state": "KY",
-        "postalCode": "42240-8725"
-      },
-      {
-        "line": [
-          "320 W 18TH ST"
-        ],
-        "city": "HOPKINSVILLE",
-        "state": "KY",
-        "postalCode": "42241-2400"
-      },
-      {
-        "line": [
-          "1717 HIGH ST",
-          "STE 3"
-        ],
-        "city": "HOPKINSVILLE",
-        "state": "KY",
-        "postalCode": "42240-6300"
-      },
-      {
-        "line": [
-          "1717 HIGH ST, SUITE 4B"
-        ],
-        "city": "HOPKINSVILLE",
-        "state": "KY",
-        "postalCode": "42240-6300"
+        "postalCode": "42240-2400"
       },
       {
         "line": [
@@ -85,14 +58,6 @@
       },
       {
         "line": [
-          "10755 EAGLE WAY STE 100"
-        ],
-        "city": "HOPKINSVILLE",
-        "state": "KY",
-        "postalCode": "42240-8742"
-      },
-      {
-        "line": [
           "222 W 18TH ST"
         ],
         "city": "HOPKINSVILLE",
@@ -101,8 +66,40 @@
       },
       {
         "line": [
+          "227 BURLEY AVE"
+        ],
+        "city": "HOPKINSVILLE",
+        "state": "KY",
+        "postalCode": "42240-8725"
+      },
+      {
+        "line": [
           "1717 HIGH ST.",
           "STE 1A"
+        ],
+        "city": "HOPKINSVILLE",
+        "state": "KY",
+        "postalCode": "42240-6300"
+      },
+      {
+        "line": [
+          "10755 EAGLE WAY STE 100"
+        ],
+        "city": "HOPKINSVILLE",
+        "state": "KY",
+        "postalCode": "42240-8742"
+      },
+      {
+        "line": [
+          "320 W 18TH ST"
+        ],
+        "city": "HOPKINSVILLE",
+        "state": "KY",
+        "postalCode": "42241-2400"
+      },
+      {
+        "line": [
+          "1717 HIGH ST, SUITE 4B"
         ],
         "city": "HOPKINSVILLE",
         "state": "KY",
@@ -117,10 +114,13 @@
         "postalCode": "42286-0317"
       },
       {
-        "line": [],
+        "line": [
+          "1717 HIGH ST",
+          "STE 3"
+        ],
         "city": "HOPKINSVILLE",
         "state": "KY",
-        "postalCode": "42240-2400"
+        "postalCode": "42240-6300"
       }
     ],
     "extension": [

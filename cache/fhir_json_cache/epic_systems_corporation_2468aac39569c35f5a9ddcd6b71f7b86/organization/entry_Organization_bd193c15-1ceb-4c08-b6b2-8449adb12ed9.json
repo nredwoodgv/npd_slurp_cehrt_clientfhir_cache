@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "bd193c15-1ceb-4c08-b6b2-8449adb12ed9",
     "meta": {
-      "lastUpdated": "2025-10-06T17:34:13-05:00"
+      "lastUpdated": "2026-10-26T23:31:03-05:00"
     },
     "active": true,
     "name": "Scheurer Primary Care - Bad Axe",
     "address": [
       {
         "type": "physical",
-        "text": "75 Buschlen Rd\nBad Axe MI 48413\nUnited States of America",
+        "text": "75 Buschlen Rd\r\nBad Axe MI 48413\r\nUnited States of America",
         "line": [
           "Scheurer Primary Care - Bad Axe",
           "75 Buschlen Rd"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:44c69c6c-7dba-4d8c-b412-dfbeae673aa6"
+      "reference": "urn:uuid:7bbe2dc6-0ad2-4bce-9f83-fed2a8fc2f0a"
     }
   },
   "fullUrl": "urn:uuid:bd193c15-1ceb-4c08-b6b2-8449adb12ed9"

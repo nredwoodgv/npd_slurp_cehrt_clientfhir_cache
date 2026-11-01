@@ -14,38 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457382947"
+        "value": "1801808571"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801808571"
+        "value": "1457382947"
       }
     ],
     "address": [
-      {
-        "line": [
-          "910 James Bowie Drive"
-        ],
-        "city": "NEW BOSTON",
-        "state": "TX",
-        "postalCode": "75570-2335"
-      },
-      {
-        "line": [
-          "2604 St Michael Dr Ste 425"
-        ],
-        "city": "TEXARKANA",
-        "state": "TX",
-        "postalCode": "75503-2378"
-      },
-      {
-        "line": [
-          "2602 St Michael Drive Suite 400"
-        ],
-        "city": "TEXARKANA",
-        "state": "TX",
-        "postalCode": "75503-5224"
-      },
       {
         "line": [
           "2602 St Michael Dr Ste 302A"
@@ -64,11 +40,11 @@
       },
       {
         "line": [
-          "3510 Richmond Rd"
+          "3502 Richmond Rd"
         ],
         "city": "TEXARKANA",
         "state": "TX",
-        "postalCode": "75503-0714"
+        "postalCode": "75503-0705"
       },
       {
         "line": [
@@ -80,27 +56,27 @@
       },
       {
         "line": [
-          "3502 Richmond Rd"
+          "910 James Bowie Drive"
         ],
-        "city": "TEXARKANA",
+        "city": "NEW BOSTON",
         "state": "TX",
-        "postalCode": "75503-0705"
+        "postalCode": "75570-2335"
       },
       {
         "line": [
-          "2600 SAINT MICHAEL DR"
+          "2602 St Michael Drive Suite 400"
         ],
         "city": "TEXARKANA",
         "state": "TX",
-        "postalCode": "75503-2372"
+        "postalCode": "75503-5224"
       },
       {
         "line": [
-          "2602 St Michael Drive Suite 201B"
+          "805 Trinity Drive"
         ],
-        "city": "TEXARKANA",
-        "state": "TX",
-        "postalCode": "75503-2320"
+        "city": "HOPE",
+        "state": "AR",
+        "postalCode": "71801-3621"
       },
       {
         "line": [
@@ -112,19 +88,43 @@
       },
       {
         "line": [
+          "3510 Richmond Rd"
+        ],
+        "city": "TEXARKANA",
+        "state": "TX",
+        "postalCode": "75503-0714"
+      },
+      {
+        "line": [
+          "2604 St Michael Dr Ste 425"
+        ],
+        "city": "TEXARKANA",
+        "state": "TX",
+        "postalCode": "75503-2378"
+      },
+      {
+        "line": [
+          "2602 St Michael Drive Suite 201B"
+        ],
+        "city": "TEXARKANA",
+        "state": "TX",
+        "postalCode": "75503-2320"
+      },
+      {
+        "line": [
+          "2600 SAINT MICHAEL DR"
+        ],
+        "city": "TEXARKANA",
+        "state": "TX",
+        "postalCode": "75503-2372"
+      },
+      {
+        "line": [
           "2006 MOORES LN"
         ],
         "city": "TEXARKANA",
         "state": "TX",
         "postalCode": "75503-1840"
-      },
-      {
-        "line": [
-          "805 Trinity Drive"
-        ],
-        "city": "HOPE",
-        "state": "AR",
-        "postalCode": "71801-3621"
       }
     ],
     "extension": [

@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "1047"
       },
-      "display": "Infirmary Health System"
+      "display": "Infirmary Health System, Inc."
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://ssproxyprod.infirmaryhealth.org/epicFHIR/api/FHIR/R4"
+    "address": "https://ssproxyprod.infirmaryhealth.org/epicFHIR/MYCPRD/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:c23da1ca-6c98-4e00-9b4c-4dc4d32ef623"
 }

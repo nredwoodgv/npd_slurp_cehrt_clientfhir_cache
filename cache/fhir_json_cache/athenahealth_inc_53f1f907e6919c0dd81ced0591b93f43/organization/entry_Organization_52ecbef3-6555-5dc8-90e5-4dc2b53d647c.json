@@ -14,23 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316253875"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588226328"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548739170"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396201000"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285388546"
+        "value": "1598225021"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,52 +22,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598225021"
+        "value": "1316253875"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396201000"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548739170"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285388546"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588226328"
       }
     ],
     "address": [
-      {
-        "line": [
-          "77 Hospital Ave",
-          "Suite 104"
-        ],
-        "city": "NORTH ADAMS",
-        "state": "MA",
-        "postalCode": "01247-2550"
-      },
-      {
-        "line": [
-          "462 Hegeman Ave"
-        ],
-        "city": "COLCHESTER",
-        "state": "VT",
-        "postalCode": "05446-3187"
-      },
-      {
-        "line": [
-          "214 Main St"
-        ],
-        "city": "VERGENNES",
-        "state": "VT",
-        "postalCode": "05491-1157"
-      },
-      {
-        "line": [
-          "409 Alfred St",
-          "Units 4 & 5"
-        ],
-        "city": "BIDDEFORD",
-        "state": "ME",
-        "postalCode": "04005-3756"
-      },
-      {
-        "line": [
-          "12 Dallaire Ave"
-        ],
-        "city": "CHICOPEE",
-        "state": "MA",
-        "postalCode": "01020-1237"
-      },
       {
         "line": [
           "655 Main Street",
@@ -92,15 +50,6 @@
         "city": "BENNINGTON",
         "state": "VT",
         "postalCode": "05201-2225"
-      },
-      {
-        "line": [
-          "31 Lower Main Street",
-          "Suite 3"
-        ],
-        "city": "MORRISVILLE",
-        "state": "VT",
-        "postalCode": "05661-6100"
       },
       {
         "line": [
@@ -113,6 +62,24 @@
       },
       {
         "line": [
+          "77 Hospital Ave",
+          "Suite 104"
+        ],
+        "city": "NORTH ADAMS",
+        "state": "MA",
+        "postalCode": "01247-2550"
+      },
+      {
+        "line": [
+          "409 Alfred St",
+          "Units 4 & 5"
+        ],
+        "city": "BIDDEFORD",
+        "state": "ME",
+        "postalCode": "04005-3756"
+      },
+      {
+        "line": [
           "402 Bna Dr",
           "Suite 112"
         ],
@@ -122,12 +89,45 @@
       },
       {
         "line": [
+          "31 Lower Main Street",
+          "Suite 3"
+        ],
+        "city": "MORRISVILLE",
+        "state": "VT",
+        "postalCode": "05661-6100"
+      },
+      {
+        "line": [
           "41 Acme Rd",
           "Suite 3"
         ],
         "city": "BREWER",
         "state": "ME",
         "postalCode": "04412-1543"
+      },
+      {
+        "line": [
+          "462 Hegeman Ave"
+        ],
+        "city": "COLCHESTER",
+        "state": "VT",
+        "postalCode": "05446-3187"
+      },
+      {
+        "line": [
+          "12 Dallaire Ave"
+        ],
+        "city": "CHICOPEE",
+        "state": "MA",
+        "postalCode": "01020-1237"
+      },
+      {
+        "line": [
+          "214 Main St"
+        ],
+        "city": "VERGENNES",
+        "state": "VT",
+        "postalCode": "05491-1157"
       }
     ],
     "extension": [

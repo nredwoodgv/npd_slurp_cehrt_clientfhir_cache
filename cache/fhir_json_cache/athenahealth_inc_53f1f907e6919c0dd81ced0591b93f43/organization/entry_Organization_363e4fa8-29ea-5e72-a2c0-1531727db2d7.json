@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124100961"
+        "value": "1346322187"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346322187"
+        "value": "1124100961"
       }
     ],
     "address": [
-      {
-        "line": [
-          "227 E. McCallister Drive"
-        ],
-        "city": "TERRE HAUTE",
-        "state": "IN",
-        "postalCode": "47802-4248"
-      },
       {
         "line": [
           "2400 NORTHPARK DR"
@@ -46,6 +38,14 @@
         "city": "COLUMBUS",
         "state": "IN",
         "postalCode": "47203-4467"
+      },
+      {
+        "line": [
+          "227 E. McCallister Drive"
+        ],
+        "city": "TERRE HAUTE",
+        "state": "IN",
+        "postalCode": "47802-4248"
       },
       {
         "line": [

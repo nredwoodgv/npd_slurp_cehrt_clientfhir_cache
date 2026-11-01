@@ -6,6 +6,18 @@
       {
         "system": "https://open.epic.com/brand-identifier",
         "value": "432-216"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1346383379"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1346383379"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1346383379"
       }
     ],
     "active": true,
@@ -22,13 +34,17 @@
     "name": "Chehalis Tribal Wellness Center",
     "address": [
       {
-        "state": "WA",
-        "country": "US"
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/data-absent-reason",
+            "valueCode": "unknown"
+          }
+        ]
       }
     ],
     "endpoint": [
       {
-        "reference": "urn:uuid:e6c650f2-a6d9-416f-a4fd-0023858fe54a"
+        "reference": "urn:uuid:2ca7fcdf-3592-46b0-80a5-84ea03658128"
       }
     ]
   },

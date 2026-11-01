@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "e059cd87-6a0a-4bfc-9223-29d3c35175c2",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Spring Brook Rd Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "7180 Spring Brook Rd\nRockford IL 61114\nUS",
+        "text": "7180 Spring Brook Rd\r\nRockford IL 61114\r\nUnited States of America",
         "line": [
           "UW Health Spring Brook Rd Clinic",
           "7180 Spring Brook Rd"
         ],
         "city": "Rockford",
         "state": "IL",
-        "postalCode": "61114"
+        "postalCode": "61114",
+        "country": "US"
       }
     ],
     "partOf": {

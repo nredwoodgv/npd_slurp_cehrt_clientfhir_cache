@@ -18,10 +18,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659775831"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1972879773"
       },
       {
@@ -31,6 +27,10 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730697483"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1659775831"
       }
     ],
     "address": [
@@ -44,11 +44,11 @@
       },
       {
         "line": [
-          "1720 E CESAR E CHAVEZ AVE"
+          "7091 E SPEEDWAY BLVD"
         ],
-        "city": "LOS ANGELES",
-        "state": "CA",
-        "postalCode": "90033-2414"
+        "city": "TUCSON",
+        "state": "AZ",
+        "postalCode": "85710-1241"
       },
       {
         "line": [
@@ -60,11 +60,11 @@
       },
       {
         "line": [
-          "7091 E SPEEDWAY BLVD"
+          "1720 E CESAR E CHAVEZ AVE"
         ],
-        "city": "TUCSON",
-        "state": "AZ",
-        "postalCode": "85710-1241"
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "postalCode": "90033-2414"
       }
     ],
     "extension": [

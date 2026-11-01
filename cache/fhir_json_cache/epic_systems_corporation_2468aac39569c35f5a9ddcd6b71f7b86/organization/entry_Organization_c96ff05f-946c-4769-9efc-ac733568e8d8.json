@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "c96ff05f-946c-4769-9efc-ac733568e8d8",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-08T23:09:17-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - WESTFIELD",
     "address": [
       {
         "type": "physical",
-        "text": "275 Orchard Street",
+        "text": "275 Orchard Street\r\nWestfield NJ 07090\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - WESTFIELD",
           "275 Orchard Street"
         ],
         "city": "Westfield",
         "state": "NJ",
-        "postalCode": "07090"
+        "postalCode": "07090",
+        "country": "US"
       }
     ],
     "partOf": {

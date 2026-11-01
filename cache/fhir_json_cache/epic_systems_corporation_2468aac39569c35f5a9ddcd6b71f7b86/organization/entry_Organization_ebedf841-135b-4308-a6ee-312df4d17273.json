@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "ebedf841-135b-4308-a6ee-312df4d17273",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:56-05:00"
+      "lastUpdated": "2026-10-27T00:53:40-05:00"
     },
     "active": true,
     "name": "Lallie Kemp Regional Medical Center",
     "address": [
       {
         "type": "physical",
-        "text": "52579 Hwy 51\nIndependence LA 70443\nUnited States of America",
+        "text": "52579 Hwy 51\r\nIndependence LA 70443\r\nUnited States of America",
         "line": [
           "Lallie Kemp Regional Medical Center",
           "52579 Hwy 51"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:571e3049-6d90-484b-bd9b-1936644c5b3b"
+      "reference": "urn:uuid:a3792191-e404-47be-acb3-de7fc01c8e68"
     }
   },
   "fullUrl": "urn:uuid:ebedf841-135b-4308-a6ee-312df4d17273"

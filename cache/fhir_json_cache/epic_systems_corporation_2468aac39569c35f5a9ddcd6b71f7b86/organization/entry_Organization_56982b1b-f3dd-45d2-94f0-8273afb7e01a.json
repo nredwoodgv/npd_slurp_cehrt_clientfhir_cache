@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "56982b1b-f3dd-45d2-94f0-8273afb7e01a",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Belvidere Hospital",
     "address": [
       {
         "type": "physical",
-        "text": "1625 S State St\nBelvidere IL 61008\nUS",
+        "text": "1625 S State St\r\nBelvidere IL 61008\r\nUnited States of America",
         "line": [
           "UW Health Belvidere Hospital",
           "1625 S State St"
         ],
         "city": "Belvidere",
         "state": "IL",
-        "postalCode": "61008"
+        "postalCode": "61008",
+        "country": "US"
       }
     ],
     "partOf": {

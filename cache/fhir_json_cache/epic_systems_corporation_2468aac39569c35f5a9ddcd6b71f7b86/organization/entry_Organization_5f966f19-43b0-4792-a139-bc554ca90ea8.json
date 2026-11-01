@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "5f966f19-43b0-4792-a139-bc554ca90ea8",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:56-05:00"
+      "lastUpdated": "2026-10-27T00:53:40-05:00"
     },
     "active": true,
     "name": "Pennington Biomed",
     "address": [
       {
         "type": "physical",
-        "text": "6400 Perkins Rd\nBaton Rouge LA 70808\nUnited States of America",
+        "text": "6400 Perkins Rd\r\nBaton Rouge LA 70808\r\nUnited States of America",
         "line": [
           "Pennington Biomed",
           "6400 Perkins Rd"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:571e3049-6d90-484b-bd9b-1936644c5b3b"
+      "reference": "urn:uuid:6759369c-9dee-437f-b895-857baa926891"
     }
   },
   "fullUrl": "urn:uuid:5f966f19-43b0-4792-a139-bc554ca90ea8"

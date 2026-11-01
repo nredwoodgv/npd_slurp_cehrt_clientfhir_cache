@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "533"
       },
-      "display": "Wellstar"
+      "display": "Wellstar Health System, Inc."
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://epicsoap.wellstar.org/fhirproxy/api/FHIR/R4"
+    "address": "https://epicsoap.wellstar.org/fhirproxy/HOME/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:b7c89240-d135-4dd8-93cc-a5b3bc0586b7"
 }

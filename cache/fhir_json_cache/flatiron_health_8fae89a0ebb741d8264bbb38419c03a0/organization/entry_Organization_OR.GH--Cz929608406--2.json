@@ -34,6 +34,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669425716"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1114919339"
       },
       {
@@ -55,10 +59,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "12456321"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669425716"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -130,6 +130,10 @@
       },
       {
         "system": "phone",
+        "value": "(256)536-9020"
+      },
+      {
+        "system": "phone",
         "value": "(256)737-2000"
       },
       {
@@ -174,11 +178,11 @@
       },
       {
         "system": "phone",
-        "value": "(257)705-4224"
+        "value": "(256)882-3605"
       },
       {
         "system": "phone",
-        "value": "(256)536-9020"
+        "value": "(257)705-4224"
       },
       {
         "system": "phone",
@@ -203,10 +207,6 @@
       {
         "system": "phone",
         "value": "(256)705-4294"
-      },
-      {
-        "system": "phone",
-        "value": "(256)882-3605"
       }
     ],
     "address": [
@@ -263,6 +263,18 @@
         "city": "No Address Available",
         "state": "AL",
         "postalCode": "12345",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "9238 Madison Blvd",
+          "Suite 114"
+        ],
+        "city": "Madison",
+        "state": "AL",
+        "postalCode": "35758",
         "country": "USA"
       },
       {
@@ -412,6 +424,18 @@
         "use": "work",
         "type": "postal",
         "line": [
+          "4704 Whitesburg Drive",
+          "Suite 100"
+        ],
+        "city": "Huntsville",
+        "state": "AL",
+        "postalCode": "35802",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
           "1310 14th Avenue SE"
         ],
         "city": "Decatur",
@@ -452,18 +476,6 @@
         "city": "Cullman",
         "state": "Al",
         "postalCode": "35058",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "9238 Madison Blvd",
-          "Suite 114"
-        ],
-        "city": "Madison",
-        "state": "AL",
-        "postalCode": "35758",
         "country": "USA"
       },
       {
@@ -653,18 +665,6 @@
         "city": "Huntsville",
         "state": "Al",
         "postalCode": "35801",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "4704 Whitesburg Drive",
-          "Suite 100"
-        ],
-        "city": "Huntsville",
-        "state": "AL",
-        "postalCode": "35802",
         "country": "USA"
       },
       {

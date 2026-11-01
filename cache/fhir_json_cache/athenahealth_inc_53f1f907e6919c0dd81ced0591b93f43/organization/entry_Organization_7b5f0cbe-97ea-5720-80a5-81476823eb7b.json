@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972951242"
+        "value": "1902209240"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1760857734"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,22 +26,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902209240"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760857734"
+        "value": "1972951242"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1401 JOHNSTON WILLIS DRIVE"
-        ],
-        "city": "RICHMOND",
-        "state": "VA",
-        "postalCode": "23235-4730"
-      },
       {
         "line": [
           "7101 JAHNKE ROAD"
@@ -53,6 +45,14 @@
         "city": "RICHMOND",
         "state": "VA",
         "postalCode": "23294-4301"
+      },
+      {
+        "line": [
+          "1401 JOHNSTON WILLIS DRIVE"
+        ],
+        "city": "RICHMOND",
+        "state": "VA",
+        "postalCode": "23235-4730"
       },
       {
         "line": [

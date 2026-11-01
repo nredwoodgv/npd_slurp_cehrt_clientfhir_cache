@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407689433"
+        "value": "1629929070"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629929070"
+        "value": "1407689433"
       }
     ],
     "address": [
@@ -32,22 +32,6 @@
       },
       {
         "line": [
-          "401 W LOS FELIZ RD"
-        ],
-        "city": "GLENDALE",
-        "state": "CA",
-        "postalCode": "91204-2769"
-      },
-      {
-        "line": [
-          "544 N GLENDALE AVE Suite A"
-        ],
-        "city": "GLENDALE",
-        "state": "CA",
-        "postalCode": "91206-3311"
-      },
-      {
-        "line": [
           "11301 W OLYMPIC BLVD",
           "STE 125"
         ],
@@ -58,6 +42,22 @@
       {
         "line": [
           "544 N GLENDALE AVE"
+        ],
+        "city": "GLENDALE",
+        "state": "CA",
+        "postalCode": "91206-3311"
+      },
+      {
+        "line": [
+          "401 W LOS FELIZ RD"
+        ],
+        "city": "GLENDALE",
+        "state": "CA",
+        "postalCode": "91204-2769"
+      },
+      {
+        "line": [
+          "544 N GLENDALE AVE Suite A"
         ],
         "city": "GLENDALE",
         "state": "CA",

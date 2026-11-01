@@ -6,6 +6,14 @@
       {
         "system": "https://open.epic.com/brand-identifier",
         "value": "297"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225484090"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1255312138"
       }
     ],
     "active": true,
@@ -22,11 +30,11 @@
     "name": "Penn Medicine",
     "address": [
       {
-        "state": "NJ",
+        "state": "PA",
         "country": "USA"
       },
       {
-        "state": "PA",
+        "state": "NJ",
         "country": "USA"
       },
       {
@@ -40,7 +48,7 @@
     ],
     "endpoint": [
       {
-        "reference": "urn:uuid:df10ce27-b7ff-48bd-96a9-37ffa3046612"
+        "reference": "urn:uuid:a313749f-d49d-4fb3-aa3b-5b62ab5c6f0e"
       }
     ]
   },

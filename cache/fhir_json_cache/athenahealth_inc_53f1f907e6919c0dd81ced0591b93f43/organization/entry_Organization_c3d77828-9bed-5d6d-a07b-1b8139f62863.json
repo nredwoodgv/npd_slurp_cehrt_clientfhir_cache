@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427569524"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1689051849"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366839185"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,18 +22,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1427569524"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1366839185"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1093102816"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2400 LEE HIGHWAY"
-        ],
-        "city": "PULASKI",
-        "state": "VA",
-        "postalCode": "24301-2326"
-      },
       {
         "line": [
           "2706 OGDEN ROAD"
@@ -73,6 +65,14 @@
         "city": "BLACKSBURG",
         "state": "VA",
         "postalCode": "24060-7017"
+      },
+      {
+        "line": [
+          "2400 LEE HIGHWAY"
+        ],
+        "city": "PULASKI",
+        "state": "VA",
+        "postalCode": "24301-2326"
       }
     ],
     "extension": [

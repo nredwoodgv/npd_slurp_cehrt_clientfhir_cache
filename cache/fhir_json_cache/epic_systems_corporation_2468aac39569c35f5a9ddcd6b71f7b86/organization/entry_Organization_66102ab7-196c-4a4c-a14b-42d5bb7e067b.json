@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "66102ab7-196c-4a4c-a14b-42d5bb7e067b",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:10-05:00"
+      "lastUpdated": "2026-10-26T23:44:08-05:00"
     },
     "active": true,
     "name": "Aylett Medical Center",
     "address": [
       {
         "type": "physical",
-        "text": "1041 Sharon Road, STE 205\nKING WILLIAM VA 23086\nUnited States of America",
+        "text": "1041 Sharon Road, STE 205\r\nKING WILLIAM VA 23086\r\nUnited States of America",
         "line": [
           "Aylett Medical Center",
           "1041 Sharon Road, STE 205"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:c218f4cf-04a9-4f7e-b20a-effa30dc87bc"
+      "reference": "urn:uuid:c74482ff-4f4c-4cbf-892e-36d440163fc9"
     }
   },
   "fullUrl": "urn:uuid:66102ab7-196c-4a4c-a14b-42d5bb7e067b"

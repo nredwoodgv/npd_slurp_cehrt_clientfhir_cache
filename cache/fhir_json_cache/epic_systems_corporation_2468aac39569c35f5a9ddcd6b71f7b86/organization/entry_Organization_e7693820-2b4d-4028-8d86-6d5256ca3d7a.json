@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "e7693820-2b4d-4028-8d86-6d5256ca3d7a",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:02-05:00"
+      "lastUpdated": "2026-10-28T00:03:01-05:00"
     },
     "active": true,
     "name": "Lane Regional Medical Center",
     "address": [
       {
         "type": "physical",
-        "text": "6300 Main St\nZACHARY LA 70791\nUnited States of America",
+        "text": "6300 Main St\r\nZACHARY LA 70791\r\nUnited States of America",
         "line": [
           "Lane Regional Medical Center",
           "6300 Main St"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:5734eb57-1dbe-4815-a655-e8930004dd8b"
+      "reference": "urn:uuid:fb10c72a-022b-473e-888b-00dcb8b43cc2"
     }
   },
   "fullUrl": "urn:uuid:e7693820-2b4d-4028-8d86-6d5256ca3d7a"

@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "6719e4a2-c461-4395-b768-8e3fc3cbed3b",
     "meta": {
-      "lastUpdated": "2025-10-06T17:39:51-05:00"
+      "lastUpdated": "2026-10-28T01:45:29-05:00"
     },
     "active": true,
     "name": "Regional West Health Services",
     "address": [
       {
         "type": "physical",
-        "text": "4021 Ave. B\nSCOTTSBLUFF NE 69361\nUnited States of America",
+        "text": "4021 Ave. B\r\nSCOTTSBLUFF NE 69361\r\nUnited States of America",
         "line": [
           "Regional West Health Services",
           "4021 Ave. B"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:e1a9a64b-e623-4ab3-8208-84cb19c3d745"
+      "reference": "urn:uuid:95d6bc1c-8a46-481a-ae1b-1a1d1fdba84d"
     }
   },
   "fullUrl": "urn:uuid:6719e4a2-c461-4395-b768-8e3fc3cbed3b"

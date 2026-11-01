@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "e94522da-9508-4120-92a3-ae87bacc1e58",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Oregon Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "137 S Main St\nOregon WI 53575\nUS",
+        "text": "137 S Main St\r\nOregon WI 53575\r\nUS",
         "line": [
           "UW Health Oregon Clinic",
           "137 S Main St"
         ],
         "city": "Oregon",
         "state": "WI",
-        "postalCode": "53575"
+        "postalCode": "53575",
+        "country": "US"
       }
     ],
     "partOf": {

@@ -3,16 +3,16 @@
     "resourceType": "Organization",
     "id": "eadb0228-174d-4f27-9bc5-b4ddbcdc45ce",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:23-05:00"
+      "lastUpdated": "2026-10-26T23:04:18-05:00"
     },
     "active": true,
-    "name": "Connecticut Orthopaedics - Hamden - 2408 Whitney",
+    "name": "Connecticut Orthopaedics",
     "address": [
       {
         "type": "physical",
-        "text": "2408 Whitney Ave\nHamden CT 06518-3209\nUnited States of America",
+        "text": "2408 Whitney Ave\r\nHamden CT 06518-3209\r\nUnited States of America",
         "line": [
-          "Connecticut Orthopaedics - Hamden - 2408 Whitney",
+          "Connecticut Orthopaedics",
           "2408 Whitney Ave"
         ],
         "city": "Hamden",
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:5c1766d0-2d39-42ed-911b-22429d6f9d75"
+      "reference": "urn:uuid:237751cc-7c41-4ea9-9e6c-6b3018b5af81"
     }
   },
   "fullUrl": "urn:uuid:eadb0228-174d-4f27-9bc5-b4ddbcdc45ce"

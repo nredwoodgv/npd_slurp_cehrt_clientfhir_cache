@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "0dc262de-c52b-47a1-ae2f-acfe11e9529a",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:08-05:00"
+      "lastUpdated": "2026-10-28T02:41:06-05:00"
     },
     "active": true,
     "name": "Providence Holy Cross Medical Center",
     "address": [
       {
         "type": "physical",
-        "text": "15031 Rinaldi Street\nMission Hills CA 91345\nUnited States of America",
+        "text": "15031 Rinaldi Street\r\nMission Hills CA 91345\r\nUnited States of America",
         "line": [
           "Providence Holy Cross Medical Center",
           "15031 Rinaldi Street"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:6f164dd4-0ad3-4171-8475-7046ea218ac2"
+      "reference": "urn:uuid:d99d09bb-45ff-4328-862c-cd0fbb3a9487"
     }
   },
   "fullUrl": "urn:uuid:0dc262de-c52b-47a1-ae2f-acfe11e9529a"

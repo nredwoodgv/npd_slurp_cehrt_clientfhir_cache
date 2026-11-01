@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "130564bf-76a7-453b-902e-e2617c78875d",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-09T23:56:58-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - LANGHORNE",
     "address": [
       {
         "type": "physical",
-        "text": "859 Town Center Drive",
+        "text": "859 Town Center Drive\r\nLanghorne PA 19047\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - LANGHORNE",
           "859 Town Center Drive"
         ],
         "city": "Langhorne",
         "state": "PA",
-        "postalCode": "19047"
+        "postalCode": "19047",
+        "country": "US"
       }
     ],
     "partOf": {

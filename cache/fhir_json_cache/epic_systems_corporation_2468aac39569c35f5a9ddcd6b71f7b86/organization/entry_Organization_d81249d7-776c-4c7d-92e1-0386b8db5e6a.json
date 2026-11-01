@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "d81249d7-776c-4c7d-92e1-0386b8db5e6a",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-09T23:56:58-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - SHREWSBURY",
     "address": [
       {
         "type": "physical",
-        "text": "655 Shrewsbury Avenue\nSuite 207",
+        "text": "655 Shrewsbury Avenue\r\nSuite 207\r\nShrewsbury NJ 07702\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - SHREWSBURY",
-          "655 Shrewsbury Avenue\nSuite 207"
+          "655 Shrewsbury Avenue\r\nSuite 207"
         ],
         "city": "Shrewsbury",
         "state": "NJ",
-        "postalCode": "07702"
+        "postalCode": "07702",
+        "country": "US"
       }
     ],
     "partOf": {

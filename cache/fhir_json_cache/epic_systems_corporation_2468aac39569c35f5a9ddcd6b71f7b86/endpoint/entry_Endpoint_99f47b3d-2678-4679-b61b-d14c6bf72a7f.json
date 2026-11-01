@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "969"
       },
-      "display": "Allegheny Health Network"
+      "display": "Highmark Health"
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://epicprisfd.ahn.org/PRD-FHIR/api/FHIR/R4"
+    "address": "https://epicprisfd.ahn.org/PRD-FHIR/MYCHART/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:99f47b3d-2678-4679-b61b-d14c6bf72a7f"
 }

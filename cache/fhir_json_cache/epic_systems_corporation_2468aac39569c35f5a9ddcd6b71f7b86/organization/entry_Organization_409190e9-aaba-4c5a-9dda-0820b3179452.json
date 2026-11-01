@@ -22,17 +22,13 @@
     "name": "Fairview Range",
     "address": [
       {
-        "extension": [
-          {
-            "url": "http://hl7.org/fhir/StructureDefinition/data-absent-reason",
-            "valueCode": "unknown"
-          }
-        ]
+        "state": "MN",
+        "country": "USA"
       }
     ],
     "endpoint": [
       {
-        "reference": "urn:uuid:e7a7a41b-d91b-ec11-9150-001dd8b71f19"
+        "reference": "urn:uuid:40a9e617-66be-4797-a5b6-c270f4ed6d51"
       }
     ]
   },

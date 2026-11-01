@@ -14,30 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225034234"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164698809"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578725941"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881850956"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013434067"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396046637"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1174955256"
       },
       {
@@ -46,10 +22,51 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225034234"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1639325046"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1164698809"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881850956"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396046637"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578725941"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013434067"
       }
     ],
     "address": [
+      {
+        "line": [
+          "12951 W LINEBAUGH AVENUE"
+        ],
+        "city": "TAMPA",
+        "state": "FL",
+        "postalCode": "33626-4460"
+      },
+      {
+        "line": [
+          "305 Memorial Medical Pkwy",
+          "Suite 207"
+        ],
+        "city": "DAYTONA BEACH",
+        "state": "FL",
+        "postalCode": "32117-5169"
+      },
       {
         "line": [
           "380 Celebration Pl",
@@ -58,6 +75,22 @@
         "city": "KISSIMMEE",
         "state": "FL",
         "postalCode": "34747-4606"
+      },
+      {
+        "line": [
+          "37740 MERIDIAN AVENUE"
+        ],
+        "city": "DADE CITY",
+        "state": "FL",
+        "postalCode": "33525-4221"
+      },
+      {
+        "line": [
+          "."
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30316-1328"
       },
       {
         "line": [
@@ -77,44 +110,11 @@
       },
       {
         "line": [
-          "305 Memorial Medical Pkwy",
-          "Suite 207"
-        ],
-        "city": "DAYTONA BEACH",
-        "state": "FL",
-        "postalCode": "32117-5169"
-      },
-      {
-        "line": [
-          "."
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30316-1328"
-      },
-      {
-        "line": [
-          "12951 W LINEBAUGH AVENUE"
-        ],
-        "city": "TAMPA",
-        "state": "FL",
-        "postalCode": "33626-4460"
-      },
-      {
-        "line": [
           "."
         ],
         "city": "ORLANDO",
         "state": "FL",
         "postalCode": "32820-1111"
-      },
-      {
-        "line": [
-          "37740 MERIDIAN AVENUE"
-        ],
-        "city": "DADE CITY",
-        "state": "FL",
-        "postalCode": "33525-4221"
       }
     ],
     "extension": [

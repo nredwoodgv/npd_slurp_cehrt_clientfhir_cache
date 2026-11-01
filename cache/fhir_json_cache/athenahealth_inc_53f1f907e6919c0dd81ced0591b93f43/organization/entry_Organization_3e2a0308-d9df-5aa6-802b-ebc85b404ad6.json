@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821471780"
+        "value": "1043441694"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043441694"
+        "value": "1821471780"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -27,12 +27,10 @@
     ],
     "address": [
       {
-        "line": [
-          "12950 East Freeway"
-        ],
-        "city": "HOUSTON",
+        "line": [],
+        "city": "BEAUMONT",
         "state": "TX",
-        "postalCode": "77015-5710"
+        "postalCode": "77701-0212"
       },
       {
         "line": [],
@@ -41,10 +39,12 @@
         "postalCode": "77505-3140"
       },
       {
-        "line": [],
-        "city": "BEAUMONT",
+        "line": [
+          "12950 East Freeway"
+        ],
+        "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77701-0212"
+        "postalCode": "77015-5710"
       }
     ],
     "extension": [

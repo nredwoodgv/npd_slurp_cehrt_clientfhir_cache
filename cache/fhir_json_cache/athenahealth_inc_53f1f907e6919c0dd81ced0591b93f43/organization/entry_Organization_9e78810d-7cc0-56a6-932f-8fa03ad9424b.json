@@ -18,37 +18,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548211311"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1457617235"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1073615456"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548211311"
       }
     ],
     "address": [
       {
         "line": [
-          "745 West State Street"
-        ],
-        "city": "COLUMBUS",
-        "state": "OH",
-        "postalCode": "43222-1515"
-      },
-      {
-        "line": [
-          "6150 E. Broad St"
-        ],
-        "city": "COLUMBUS",
-        "state": "OH",
-        "postalCode": "43213-1574"
-      },
-      {
-        "line": [
-          "150 Taylor Station Rd Ste 200"
+          "150 Taylor Station Road, Suite 200"
         ],
         "city": "COLUMBUS",
         "state": "OH",
@@ -56,11 +40,11 @@
       },
       {
         "line": [
-          "484 County Line Road West Ste 140"
+          "745 West State Street"
         ],
-        "city": "WESTERVILLE",
+        "city": "COLUMBUS",
         "state": "OH",
-        "postalCode": "43082-7080"
+        "postalCode": "43222-1515"
       },
       {
         "line": [
@@ -73,11 +57,27 @@
       },
       {
         "line": [
-          "150 Taylor Station Road, Suite 200"
+          "484 County Line Road West Ste 140"
+        ],
+        "city": "WESTERVILLE",
+        "state": "OH",
+        "postalCode": "43082-7080"
+      },
+      {
+        "line": [
+          "150 Taylor Station Rd Ste 200"
         ],
         "city": "COLUMBUS",
         "state": "OH",
         "postalCode": "43213-4470"
+      },
+      {
+        "line": [
+          "6150 E. Broad St"
+        ],
+        "city": "COLUMBUS",
+        "state": "OH",
+        "postalCode": "43213-1574"
       }
     ],
     "extension": [

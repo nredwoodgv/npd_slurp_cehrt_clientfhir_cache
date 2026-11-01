@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "3cbc6a0c-a8e6-470f-b5d9-678d00df0b20",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:56-05:00"
+      "lastUpdated": "2026-10-27T00:53:40-05:00"
     },
     "active": true,
     "name": "Manning Family Children's Hospital Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "936 Kaliste Saloom\nLAFAYETTE LA 70508-4902\nUnited States of America",
+        "text": "936 Kaliste Saloom\r\nLAFAYETTE LA 70508-4902\r\nUnited States of America",
         "line": [
           "Manning Family Children's Hospital Clinic",
           "936 Kaliste Saloom"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:571e3049-6d90-484b-bd9b-1936644c5b3b"
+      "reference": "urn:uuid:a3792191-e404-47be-acb3-de7fc01c8e68"
     }
   },
   "fullUrl": "urn:uuid:3cbc6a0c-a8e6-470f-b5d9-678d00df0b20"

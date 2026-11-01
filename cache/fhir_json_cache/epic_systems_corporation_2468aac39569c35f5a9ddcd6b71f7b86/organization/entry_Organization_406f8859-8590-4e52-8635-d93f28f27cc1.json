@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "406f8859-8590-4e52-8635-d93f28f27cc1",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:08-05:00"
+      "lastUpdated": "2026-10-28T02:41:06-05:00"
     },
     "active": true,
     "name": "Providence Queen Of The Valley Medical Center",
     "address": [
       {
         "type": "physical",
-        "text": "1000 Trancas St\nNapa CA 94558\nUnited States of America",
+        "text": "1000 Trancas St\r\nNapa CA 94558\r\nUnited States of America",
         "line": [
           "Providence Queen Of The Valley Medical Center",
           "1000 Trancas St"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:6f164dd4-0ad3-4171-8475-7046ea218ac2"
+      "reference": "urn:uuid:d99d09bb-45ff-4328-862c-cd0fbb3a9487"
     }
   },
   "fullUrl": "urn:uuid:406f8859-8590-4e52-8635-d93f28f27cc1"

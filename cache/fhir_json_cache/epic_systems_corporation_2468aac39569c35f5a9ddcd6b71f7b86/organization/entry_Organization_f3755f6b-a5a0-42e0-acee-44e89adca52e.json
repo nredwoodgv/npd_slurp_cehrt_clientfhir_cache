@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "f3755f6b-a5a0-42e0-acee-44e89adca52e",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Sauk Prairie Specialty Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "250 26th St, Suite 120\nPrairie du Sac WI 53578\nUS",
+        "text": "250 26th St, Suite 120\r\nPrairie du Sac WI 53578\r\nUS",
         "line": [
           "UW Health Sauk Prairie Specialty Clinic",
           "250 26th St, Suite 120"
         ],
         "city": "Prairie du Sac",
         "state": "WI",
-        "postalCode": "53578"
+        "postalCode": "53578",
+        "country": "US"
       }
     ],
     "partOf": {

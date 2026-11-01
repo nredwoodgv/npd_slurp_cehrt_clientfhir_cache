@@ -86,6 +86,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306850508"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1706590962"
       },
       {
@@ -199,10 +203,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1295023372"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306850508"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -690,10 +690,6 @@
       },
       {
         "system": "phone",
-        "value": "(352)237-9430"
-      },
-      {
-        "system": "phone",
         "value": "(239)561-9622"
       },
       {
@@ -715,10 +711,6 @@
       {
         "system": "phone",
         "value": "(727)821-0017"
-      },
-      {
-        "system": "phone",
-        "value": "(941)792-1881"
       },
       {
         "system": "phone",
@@ -802,6 +794,70 @@
       },
       {
         "system": "phone",
+        "value": "(407)890-2273"
+      },
+      {
+        "system": "phone",
+        "value": "(386)586-1860"
+      },
+      {
+        "system": "phone",
+        "value": "(772)567-2332"
+      },
+      {
+        "system": "phone",
+        "value": "(386)673-2442"
+      },
+      {
+        "system": "phone",
+        "value": "(352)237-9430"
+      },
+      {
+        "system": "phone",
+        "value": "(386)767-6977"
+      },
+      {
+        "system": "phone",
+        "value": "(941)377-9993"
+      },
+      {
+        "system": "phone",
+        "value": "(863)385-1244"
+      },
+      {
+        "system": "phone",
+        "value": "(727)522-0558"
+      },
+      {
+        "system": "phone",
+        "value": "(772)287-4061"
+      },
+      {
+        "system": "phone",
+        "value": "(813)633-3955"
+      },
+      {
+        "system": "phone",
+        "value": "(850)877-8166"
+      },
+      {
+        "system": "phone",
+        "value": "(941)484-3531"
+      },
+      {
+        "system": "phone",
+        "value": "(941)408-0500"
+      },
+      {
+        "system": "phone",
+        "value": "(813)279-7107"
+      },
+      {
+        "system": "phone",
+        "value": "(941)792-1881"
+      },
+      {
+        "system": "phone",
         "value": "(727)842-8411"
       },
       {
@@ -871,10 +927,6 @@
       {
         "system": "phone",
         "value": "(941)748-2217"
-      },
-      {
-        "system": "phone",
-        "value": "(850)877-8166"
       },
       {
         "system": "phone",
@@ -1122,10 +1174,6 @@
       },
       {
         "system": "phone",
-        "value": "(941)408-0500"
-      },
-      {
-        "system": "phone",
         "value": "(727)215-5114"
       },
       {
@@ -1142,14 +1190,6 @@
       },
       {
         "system": "phone",
-        "value": "(772)567-2332"
-      },
-      {
-        "system": "phone",
-        "value": "(941)484-3531"
-      },
-      {
-        "system": "phone",
         "value": "(386)774-7411"
       },
       {
@@ -1159,10 +1199,6 @@
       {
         "system": "phone",
         "value": "(727)341-1316"
-      },
-      {
-        "system": "phone",
-        "value": "(863)385-1244"
       },
       {
         "system": "phone",
@@ -1182,10 +1218,6 @@
       },
       {
         "system": "phone",
-        "value": "(813)279-7107"
-      },
-      {
-        "system": "phone",
         "value": "(239)732-3140"
       },
       {
@@ -1202,22 +1234,6 @@
       },
       {
         "system": "phone",
-        "value": "(386)673-2442"
-      },
-      {
-        "system": "phone",
-        "value": "(813)633-3955"
-      },
-      {
-        "system": "phone",
-        "value": "(772)287-4061"
-      },
-      {
-        "system": "phone",
-        "value": "(727)522-0558"
-      },
-      {
-        "system": "phone",
         "value": "(386)325-8140"
       },
       {
@@ -1227,14 +1243,6 @@
       {
         "system": "phone",
         "value": "(239)174-8200"
-      },
-      {
-        "system": "phone",
-        "value": "(386)767-6977"
-      },
-      {
-        "system": "phone",
-        "value": "(386)586-1860"
       },
       {
         "system": "phone",
@@ -1355,10 +1363,6 @@
       {
         "system": "phone",
         "value": "(904)202-2000"
-      },
-      {
-        "system": "phone",
-        "value": "(407)890-2273"
       },
       {
         "system": "phone",
@@ -1579,10 +1583,6 @@
       {
         "system": "phone",
         "value": "(352)596-1401"
-      },
-      {
-        "system": "phone",
-        "value": "(941)377-9993"
       },
       {
         "system": "phone",
@@ -3315,29 +3315,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "6420 W. Newberry Rd., East Wing",
-          "Suite 100"
-        ],
-        "city": "Gainesville",
-        "state": "FL",
-        "postalCode": "32605",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "4945 SW 49th Place"
-        ],
-        "city": "Ocala",
-        "state": "FL",
-        "postalCode": "34474",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "2848 Center Pointe Drive- 1st Floor"
         ],
         "city": "Fort Myers",
@@ -3400,17 +3377,6 @@
         "city": "St. Petersburg",
         "state": "FL",
         "postalCode": "33701-4553",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "3630 Manatee Ave W."
-        ],
-        "city": "Bradenton",
-        "state": "FL",
-        "postalCode": "34205",
         "country": "USA"
       },
       {
@@ -3693,6 +3659,235 @@
         "city": "Spring Hill",
         "state": "FL",
         "postalCode": "34608",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "8300 Red Bug Lake Rd"
+        ],
+        "city": "Oviedo",
+        "state": "Fl",
+        "postalCode": "32765",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2890 Center Point Drive"
+        ],
+        "city": "Fort Myers",
+        "state": "FL",
+        "postalCode": "33916",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1 Memorial Medical Parkway",
+          "Suite 200"
+        ],
+        "city": "Palm Coast",
+        "state": "FL",
+        "postalCode": "32164",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "3730 7th Terrace",
+          "Suite 101"
+        ],
+        "city": "Vero Beach",
+        "state": "FL",
+        "postalCode": "32960",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "325 Clyde Morris Blvd",
+          "Suite 450"
+        ],
+        "city": "Ormond Beach",
+        "state": "FL",
+        "postalCode": "32174",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "4945 SW 49th Place"
+        ],
+        "city": "Ocala",
+        "state": "FL",
+        "postalCode": "34474",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1726 Dunlawton Ave"
+        ],
+        "city": "Port Orange",
+        "state": "FL",
+        "postalCode": "32127",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "600 North Cattlemen Rd",
+          "Suite 200"
+        ],
+        "city": "Sarasota",
+        "state": "FL",
+        "postalCode": "34232",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1396 Whisper Circle"
+        ],
+        "city": "Sebring",
+        "state": "FL",
+        "postalCode": "33870",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "5767 49th St North",
+          "Ste B"
+        ],
+        "city": "St Petersburg",
+        "state": "FL",
+        "postalCode": "33709",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "105 Badger Park DR #1-4"
+        ],
+        "city": "St Johns",
+        "state": "FL",
+        "postalCode": "32259-1165",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "301 Southeast Ocean Avenue"
+        ],
+        "city": "Stuart",
+        "state": "FL",
+        "postalCode": "34994",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "4051 Upper Creek Dr.",
+          "Suite 103B"
+        ],
+        "city": "Sun City",
+        "state": "FL",
+        "postalCode": "33573",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2351 Phillips Road"
+        ],
+        "city": "Tallahassee",
+        "state": "FL",
+        "postalCode": "32308",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "901 South Tamiami Trail"
+        ],
+        "city": "Venice",
+        "state": "FL",
+        "postalCode": "34285",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "5500 Pinebrook Road, Suite 202"
+        ],
+        "city": "North Venice",
+        "state": "FL",
+        "postalCode": "34275-3678",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1037 S State Road 7",
+          "Suite 303"
+        ],
+        "city": "Wellington",
+        "state": "FL",
+        "postalCode": "33414",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2895 Hueland Pond Blvd",
+          "Suite 100"
+        ],
+        "city": "Wesley Chapel",
+        "state": "FL",
+        "postalCode": "33543",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "3630 Manatee Ave W."
+        ],
+        "city": "Bradenton",
+        "state": "FL",
+        "postalCode": "34205",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "6420 W. Newberry Rd., East Wing",
+          "Suite 100"
+        ],
+        "city": "Gainesville",
+        "state": "FL",
+        "postalCode": "32605",
         "country": "USA"
       },
       {
@@ -6027,18 +6222,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1037 S State Road 7",
-          "Suite 303"
-        ],
-        "city": "Wellington",
-        "state": "FL",
-        "postalCode": "33414",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "681 4th Ave North"
         ],
         "city": "Naples",
@@ -6854,17 +7037,6 @@
         "city": "Fort Myers",
         "state": "FL",
         "postalCode": "33916",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "2351 Phillips Road"
-        ],
-        "city": "Tallahassee",
-        "state": "FL",
-        "postalCode": "32308",
         "country": "USA"
       },
       {
@@ -7884,40 +8056,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "3730 7th Terrace",
-          "Suite 101"
-        ],
-        "city": "Vero Beach",
-        "state": "FL",
-        "postalCode": "32960",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "901 South Tamiami Trail"
-        ],
-        "city": "Venice",
-        "state": "FL",
-        "postalCode": "34285",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "5500 Pinebrook Road, Suite 202"
-        ],
-        "city": "North Venice",
-        "state": "FL",
-        "postalCode": "34275-3678",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "2824 Enterprise Rd"
         ],
         "city": "Orange City",
@@ -7940,34 +8078,12 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "105 Badger Park DR #1-4"
-        ],
-        "city": "St Johns",
-        "state": "FL",
-        "postalCode": "32259-1165",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "1615 Pasadena Avenue South",
           "Suite 400"
         ],
         "city": "St. Petersburg",
         "state": "Fl",
         "postalCode": "33707",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1396 Whisper Circle"
-        ],
-        "city": "Sebring",
-        "state": "FL",
-        "postalCode": "33870",
         "country": "USA"
       },
       {
@@ -8064,18 +8180,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "2895 Hueland Pond Blvd",
-          "Suite 100"
-        ],
-        "city": "Wesley Chapel",
-        "state": "FL",
-        "postalCode": "33543",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "8350 Sierra Meadows Dr."
         ],
         "city": "Naples",
@@ -8115,53 +8219,6 @@
         "city": "Tavares",
         "state": "FL",
         "postalCode": "32778",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "325 Clyde Morris Blvd",
-          "Suite 450"
-        ],
-        "city": "Ormond Beach",
-        "state": "FL",
-        "postalCode": "32174",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "4051 Upper Creek Dr.",
-          "Suite 103B"
-        ],
-        "city": "Sun City",
-        "state": "FL",
-        "postalCode": "33573",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "301 Southeast Ocean Avenue"
-        ],
-        "city": "Stuart",
-        "state": "FL",
-        "postalCode": "34994",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "5767 49th St North",
-          "Ste B"
-        ],
-        "city": "St Petersburg",
-        "state": "FL",
-        "postalCode": "33709",
         "country": "USA"
       },
       {
@@ -8217,29 +8274,6 @@
         "city": "Fort Myers",
         "state": "Fl",
         "postalCode": "33916",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1726 Dunlawton Ave"
-        ],
-        "city": "Port Orange",
-        "state": "FL",
-        "postalCode": "32127",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1 Memorial Medical Parkway",
-          "Suite 200"
-        ],
-        "city": "Palm Coast",
-        "state": "FL",
-        "postalCode": "32164",
         "country": "USA"
       },
       {
@@ -9362,17 +9396,6 @@
         "city": "Jacksonville",
         "state": "FL",
         "postalCode": "32207",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "8300 Red Bug Lake Rd"
-        ],
-        "city": "Oviedo",
-        "state": "Fl",
-        "postalCode": "32765",
         "country": "USA"
       },
       {
@@ -10981,18 +11004,6 @@
         "city": "Brooksville",
         "state": "FL",
         "postalCode": "34613",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "600 North Cattlemen Rd",
-          "Suite 200"
-        ],
-        "city": "Sarasota",
-        "state": "FL",
-        "postalCode": "34232",
         "country": "USA"
       },
       {

@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "685"
       },
-      "display": "University of Chicago Hospitals"
+      "display": "The University of Chicago Medical Center"
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://interconapps.uchospitals.edu/PRD-FHIR-Proxy/api/FHIR/R4"
+    "address": "https://epicproxy.et0169.epichosted.com/APIProxyPRD/UCM/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:e2e85d32-168f-44fc-a5a7-dcd554de5ccf"
 }

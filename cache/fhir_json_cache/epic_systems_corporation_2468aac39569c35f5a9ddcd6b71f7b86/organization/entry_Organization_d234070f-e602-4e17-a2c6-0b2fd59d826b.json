@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "d234070f-e602-4e17-a2c6-0b2fd59d826b",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:14-05:00"
+      "lastUpdated": "2026-10-06T23:32:43-05:00"
     },
     "active": true,
     "name": "BioSpine Tampa Surgery Center",
     "address": [
       {
         "type": "physical",
-        "text": "5301 Avion Park Dr.\nTampa FL 33607\nUnited States of America",
+        "text": "5301 Avion Park Dr.\r\nTampa FL 33607\r\nUnited States of America",
         "line": [
           "BioSpine Tampa Surgery Center",
           "5301 Avion Park Dr."
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:4b531211-015c-4473-9a63-57e29751b4c2"
+      "reference": "urn:uuid:8eeb6e48-e70a-4efb-9591-169aeae7e078"
     }
   },
   "fullUrl": "urn:uuid:d234070f-e602-4e17-a2c6-0b2fd59d826b"

@@ -14,10 +14,31 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1518055524"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326969783"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821919275"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1427146430"
       }
     ],
     "address": [
+      {
+        "line": [
+          "200 LAKEWOOD BLVD.",
+          "CHICAGO CHILD TRAUMA CTR @ CHILDREN'S ADVCY CTR"
+        ],
+        "city": "PARK FOREST",
+        "state": "IL",
+        "postalCode": "60466-1718"
+      },
       {
         "line": [
           "6501 S. Promontory Dr.",
@@ -35,15 +56,6 @@
         "city": "CHICAGO",
         "state": "IL",
         "postalCode": "60615-5583"
-      },
-      {
-        "line": [
-          "200 LAKEWOOD BLVD.",
-          "CHICAGO CHILD TRAUMA CTR @ CHILDREN'S ADVCY CTR"
-        ],
-        "city": "PARK FOREST",
-        "state": "IL",
-        "postalCode": "60466-1718"
       }
     ],
     "extension": [

@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093282360"
+        "value": "1144713884"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144713884"
+        "value": "1093282360"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -40,21 +40,11 @@
     "address": [
       {
         "line": [
-          "728 Post Road East",
-          "Suite 202"
+          "11477 Olde Cabin Rd"
         ],
-        "city": "MILFORD",
-        "state": "CT",
-        "postalCode": "06460-5200"
-      },
-      {
-        "line": [
-          "901 Farmington Avenue",
-          "Suite 300"
-        ],
-        "city": "WEST HARTFORD",
-        "state": "CT",
-        "postalCode": "06119-1418"
+        "city": "SAINT LOUIS",
+        "state": "MO",
+        "postalCode": "63141-1147"
       },
       {
         "line": [
@@ -67,38 +57,12 @@
       },
       {
         "line": [
-          "11477 Olde Cabin Rd"
-        ],
-        "city": "SAINT LOUIS",
-        "state": "MO",
-        "postalCode": "63141-1147"
-      },
-      {
-        "line": [
-          "64 Thompson Street",
-          "Unit A103"
-        ],
-        "city": "NEW HAVEN",
-        "state": "CT",
-        "postalCode": "06513-5707"
-      },
-      {
-        "line": [
-          "17222 HOSPITAL BOULEVARD",
-          "SUITE 222"
-        ],
-        "city": "BROOKSVILLE",
-        "state": "FL",
-        "postalCode": "34601-8925"
-      },
-      {
-        "line": [
-          "121 Becks Woods Dr",
+          "728 Post Road East",
           "Suite 202"
         ],
-        "city": "BEAR",
-        "state": "DE",
-        "postalCode": "19701-3852"
+        "city": "MILFORD",
+        "state": "CT",
+        "postalCode": "06460-5200"
       },
       {
         "line": [
@@ -111,6 +75,24 @@
       },
       {
         "line": [
+          "121 Becks Woods Dr",
+          "Suite 202"
+        ],
+        "city": "BEAR",
+        "state": "DE",
+        "postalCode": "19701-3852"
+      },
+      {
+        "line": [
+          "17222 HOSPITAL BOULEVARD",
+          "SUITE 222"
+        ],
+        "city": "BROOKSVILLE",
+        "state": "FL",
+        "postalCode": "34601-8925"
+      },
+      {
+        "line": [
           "16091 Swingley Ridge Rd",
           "Suite 100"
         ],
@@ -120,12 +102,21 @@
       },
       {
         "line": [
-          "88 Noble Avenue",
-          "Suite 202"
+          "901 Farmington Avenue",
+          "Suite 300"
         ],
-        "city": "MILFORD",
+        "city": "WEST HARTFORD",
         "state": "CT",
-        "postalCode": "06460-5200"
+        "postalCode": "06119-1418"
+      },
+      {
+        "line": [
+          "64 Thompson Street",
+          "Unit A103"
+        ],
+        "city": "NEW HAVEN",
+        "state": "CT",
+        "postalCode": "06513-5707"
       },
       {
         "line": [
@@ -134,6 +125,15 @@
         "city": "SAINT LOUIS",
         "state": "MO",
         "postalCode": "63124-1147"
+      },
+      {
+        "line": [
+          "88 Noble Avenue",
+          "Suite 202"
+        ],
+        "city": "MILFORD",
+        "state": "CT",
+        "postalCode": "06460-5200"
       }
     ],
     "extension": [

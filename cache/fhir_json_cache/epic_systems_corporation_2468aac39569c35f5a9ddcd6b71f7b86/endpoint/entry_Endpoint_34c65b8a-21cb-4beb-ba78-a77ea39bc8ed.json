@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "812"
       },
-      "display": "Henry Ford Health"
+      "display": "Henry Ford Health System"
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://fhir.hfhs.org/fhirproxy/api/FHIR/R4"
+    "address": "https://fhir.hfhs.org/tesseractproxy/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:34c65b8a-21cb-4beb-ba78-a77ea39bc8ed"
 }

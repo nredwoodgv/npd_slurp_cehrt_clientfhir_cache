@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "601481b4-c3f9-48e3-902e-f4536c7c3d3b",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Orthotics and Prosthetics Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "6220 University Ave Suite 103\nMiddleton WI 53562\nUS",
+        "text": "6220 University Ave Suite 103\r\nMiddleton WI 53562\r\nUS",
         "line": [
           "UW Health Orthotics and Prosthetics Clinic",
           "6220 University Ave Suite 103"
         ],
         "city": "Middleton",
         "state": "WI",
-        "postalCode": "53562"
+        "postalCode": "53562",
+        "country": "US"
       }
     ],
     "partOf": {

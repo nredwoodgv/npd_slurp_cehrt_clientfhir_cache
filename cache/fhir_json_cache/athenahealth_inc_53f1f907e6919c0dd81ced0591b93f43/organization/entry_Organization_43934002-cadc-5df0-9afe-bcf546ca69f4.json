@@ -26,11 +26,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861418220"
+        "value": "1154792232"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154792232"
+        "value": "1861418220"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -49,32 +49,16 @@
       },
       {
         "line": [
-          "855 Downtowner Blvd"
-        ],
-        "city": "MOBILE",
-        "state": "AL",
-        "postalCode": "36609-5403"
-      },
-      {
-        "line": [
-          "810 Bestgate Rd Suite 220"
-        ],
-        "city": "ANNAPOLIS",
-        "state": "MD",
-        "postalCode": "21401-3033"
-      },
-      {
-        "line": [
-          "4901 Grande Drive"
-        ],
-        "city": "PENSACOLA",
-        "state": "FL",
-        "postalCode": "32504-8986"
-      },
-      {
-        "line": [
           "182 E REDSTONE AVE",
           "STE A"
+        ],
+        "city": "CRESTVIEW",
+        "state": "FL",
+        "postalCode": "32539-5348"
+      },
+      {
+        "line": [
+          "180 E REDSTONE AVE STE A"
         ],
         "city": "CRESTVIEW",
         "state": "FL",
@@ -91,11 +75,27 @@
       },
       {
         "line": [
-          "180 E REDSTONE AVE STE A"
+          "4901 Grande Drive"
         ],
-        "city": "CRESTVIEW",
+        "city": "PENSACOLA",
         "state": "FL",
-        "postalCode": "32539-5348"
+        "postalCode": "32504-8986"
+      },
+      {
+        "line": [
+          "810 Bestgate Rd Suite 220"
+        ],
+        "city": "ANNAPOLIS",
+        "state": "MD",
+        "postalCode": "21401-3033"
+      },
+      {
+        "line": [
+          "855 Downtowner Blvd"
+        ],
+        "city": "MOBILE",
+        "state": "AL",
+        "postalCode": "36609-5403"
       }
     ],
     "extension": [

@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427604198"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1295223279"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871034462"
+        "value": "1427604198"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1477870467"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,81 +30,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477870467"
+        "value": "1871034462"
       }
     ],
     "address": [
       {
         "line": [
-          "125 US 51 BYP"
-        ],
-        "city": "DYERSBURG",
-        "state": "TN",
-        "postalCode": "38024-2138"
-      },
-      {
-        "line": [
-          "700 WC Nursing Home Rd"
-        ],
-        "city": "DRESDEN",
-        "state": "TN",
-        "postalCode": "38225-1818"
-      },
-      {
-        "line": [
-          "161 Mt Pelia Rd"
-        ],
-        "city": "MARTIN",
-        "state": "TN",
-        "postalCode": "38237-3811"
-      },
-      {
-        "line": [
-          "1900 PARR AVE"
-        ],
-        "city": "DYERSBURG",
-        "state": "TN",
-        "postalCode": "38024-2009"
-      },
-      {
-        "line": [
-          "1004 Holiday Lane"
-        ],
-        "city": "FULTON",
-        "state": "KY",
-        "postalCode": "42041-8458"
-      },
-      {
-        "line": [
-          "82 Will McKnight Dr"
+          "108 Physicians Dr"
         ],
         "city": "JACKSON",
         "state": "TN",
-        "postalCode": "38301-7375"
-      },
-      {
-        "line": [
-          "700 WC NURSING HOME RD"
-        ],
-        "city": "DRESDEN",
-        "state": "TN",
-        "postalCode": "38225-1818"
-      },
-      {
-        "line": [
-          "1632 Hwy 45 bypass"
-        ],
-        "city": "HUMBOLDT",
-        "state": "TN",
-        "postalCode": "38343-6697"
-      },
-      {
-        "line": [
-          "1716 Parr Avenue Ste. C"
-        ],
-        "city": "DYERSBURG",
-        "state": "TN",
-        "postalCode": "38024-2074"
+        "postalCode": "38305-6012"
       },
       {
         "line": [
@@ -116,11 +52,51 @@
       },
       {
         "line": [
-          "616 West Forest Avenue"
+          "435 West Market Street"
+        ],
+        "city": "DYERSBURG",
+        "state": "TN",
+        "postalCode": "38024-5019"
+      },
+      {
+        "line": [
+          "161 Mt Pelia Rd"
+        ],
+        "city": "MARTIN",
+        "state": "TN",
+        "postalCode": "38237-3811"
+      },
+      {
+        "line": [
+          "367 Hospital Blvd"
         ],
         "city": "JACKSON",
         "state": "TN",
-        "postalCode": "38301-3902"
+        "postalCode": "38305-2080"
+      },
+      {
+        "line": [
+          "1004 Holiday Lane"
+        ],
+        "city": "FULTON",
+        "state": "KY",
+        "postalCode": "42041-8458"
+      },
+      {
+        "line": [
+          "400 EAST TICKLE ST"
+        ],
+        "city": "DYERSBURG",
+        "state": "TN",
+        "postalCode": "38024-3120"
+      },
+      {
+        "line": [
+          "1900 PARR AVE"
+        ],
+        "city": "DYERSBURG",
+        "state": "TN",
+        "postalCode": "38024-2009"
       },
       {
         "line": [
@@ -132,27 +108,27 @@
       },
       {
         "line": [
-          "1900 Parr Avenue"
+          "620 Skyline Drive"
         ],
-        "city": "DYERSBURG",
+        "city": "JACKSON",
         "state": "TN",
-        "postalCode": "38024-2009"
+        "postalCode": "38301-3923"
       },
       {
         "line": [
-          "420 WILKINSON DR"
+          "175 Hospital Dr"
         ],
-        "city": "DYERSBURG",
+        "city": "MC KENZIE",
         "state": "TN",
-        "postalCode": "38024-2085"
+        "postalCode": "38201-1636"
       },
       {
         "line": [
-          "350 EAST TICKLE ST"
+          "1636 Woodlawn Avenue"
         ],
         "city": "DYERSBURG",
         "state": "TN",
-        "postalCode": "38024-3118"
+        "postalCode": "38024-2026"
       },
       {
         "line": [
@@ -165,67 +141,27 @@
       },
       {
         "line": [
-          "620 Skyline Drive"
+          "616 West Forest Avenue"
         ],
         "city": "JACKSON",
         "state": "TN",
-        "postalCode": "38301-3923"
+        "postalCode": "38301-3902"
       },
       {
         "line": [
-          "367 Hospital Blvd"
-        ],
-        "city": "JACKSON",
-        "state": "TN",
-        "postalCode": "38305-2080"
-      },
-      {
-        "line": [
-          "158 Mt Pelia Rd"
-        ],
-        "city": "MARTIN",
-        "state": "TN",
-        "postalCode": "38237-3812"
-      },
-      {
-        "line": [
-          "175 Hospital Dr"
-        ],
-        "city": "MC KENZIE",
-        "state": "TN",
-        "postalCode": "38201-1636"
-      },
-      {
-        "line": [
-          "108 Physicians Dr"
-        ],
-        "city": "JACKSON",
-        "state": "TN",
-        "postalCode": "38305-6012"
-      },
-      {
-        "line": [
-          "101 Jackson Walk Plaza"
-        ],
-        "city": "JACKSON",
-        "state": "TN",
-        "postalCode": "38301-3008"
-      },
-      {
-        "line": [
-          "435 West Market Street"
+          "125 US 51 BYP"
         ],
         "city": "DYERSBURG",
         "state": "TN",
-        "postalCode": "38024-5019"
+        "postalCode": "38024-2138"
       },
       {
         "line": [
-          "1636 Woodlawn Avenue"
+          "82 Will McKnight Dr"
         ],
-        "city": "DYERSBURG",
+        "city": "JACKSON",
         "state": "TN",
-        "postalCode": "38024-2026"
+        "postalCode": "38301-7375"
       },
       {
         "line": [
@@ -237,27 +173,19 @@
       },
       {
         "line": [
-          "1629 WOODLAWN AVENUE"
+          "101 Jackson Walk Plaza"
         ],
-        "city": "DYERSBURG",
+        "city": "JACKSON",
         "state": "TN",
-        "postalCode": "38024-2025"
+        "postalCode": "38301-3008"
       },
       {
         "line": [
-          "900 HWY 51 BYPASS"
+          "1900 Parr Avenue"
         ],
         "city": "DYERSBURG",
         "state": "TN",
-        "postalCode": "38024-2855"
-      },
-      {
-        "line": [
-          "400 Frank Maynard Blvd"
-        ],
-        "city": "DYERSBURG",
-        "state": "TN",
-        "postalCode": "38024-2138"
+        "postalCode": "38024-2009"
       },
       {
         "line": [
@@ -269,11 +197,35 @@
       },
       {
         "line": [
-          "400 EAST TICKLE ST"
+          "400 Frank Maynard Blvd"
         ],
         "city": "DYERSBURG",
         "state": "TN",
-        "postalCode": "38024-3120"
+        "postalCode": "38024-2138"
+      },
+      {
+        "line": [
+          "1716 Parr Avenue Ste. C"
+        ],
+        "city": "DYERSBURG",
+        "state": "TN",
+        "postalCode": "38024-2074"
+      },
+      {
+        "line": [
+          "1629 WOODLAWN AVENUE"
+        ],
+        "city": "DYERSBURG",
+        "state": "TN",
+        "postalCode": "38024-2025"
+      },
+      {
+        "line": [
+          "350 EAST TICKLE ST"
+        ],
+        "city": "DYERSBURG",
+        "state": "TN",
+        "postalCode": "38024-3118"
       },
       {
         "line": [
@@ -285,12 +237,11 @@
       },
       {
         "line": [
-          "1720 Woodlawn Ave",
-          "Ste 1"
+          "420 WILKINSON DR"
         ],
         "city": "DYERSBURG",
         "state": "TN",
-        "postalCode": "38024-1300"
+        "postalCode": "38024-2085"
       },
       {
         "line": [
@@ -299,6 +250,55 @@
         "city": "CARUTHERSVILLE",
         "state": "MO",
         "postalCode": "63830-2202"
+      },
+      {
+        "line": [
+          "900 HWY 51 BYPASS"
+        ],
+        "city": "DYERSBURG",
+        "state": "TN",
+        "postalCode": "38024-2855"
+      },
+      {
+        "line": [
+          "158 Mt Pelia Rd"
+        ],
+        "city": "MARTIN",
+        "state": "TN",
+        "postalCode": "38237-3812"
+      },
+      {
+        "line": [
+          "1632 Hwy 45 bypass"
+        ],
+        "city": "HUMBOLDT",
+        "state": "TN",
+        "postalCode": "38343-6697"
+      },
+      {
+        "line": [
+          "700 WC Nursing Home Rd"
+        ],
+        "city": "DRESDEN",
+        "state": "TN",
+        "postalCode": "38225-1818"
+      },
+      {
+        "line": [
+          "700 WC NURSING HOME RD"
+        ],
+        "city": "DRESDEN",
+        "state": "TN",
+        "postalCode": "38225-1818"
+      },
+      {
+        "line": [
+          "1720 Woodlawn Ave",
+          "Ste 1"
+        ],
+        "city": "DYERSBURG",
+        "state": "TN",
+        "postalCode": "38024-1300"
       },
       {
         "line": [

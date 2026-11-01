@@ -18,11 +18,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033767785"
+        "value": "1588043707"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225723125"
+        "value": "1912421645"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033767785"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,21 +34,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588043707"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912421645"
+        "value": "1225723125"
       }
     ],
     "address": [
       {
         "line": [
-          "3490 E YUKON RD"
+          "5514 N BIG SPRING ST"
         ],
-        "city": "ODESSA",
+        "city": "MIDLAND",
         "state": "TX",
-        "postalCode": "79762-0123"
+        "postalCode": "79705-2697"
       },
       {
         "line": [
@@ -53,14 +53,6 @@
         "city": "ODESSA",
         "state": "TX",
         "postalCode": "79765-6209"
-      },
-      {
-        "line": [
-          "5514 N BIG SPRING ST"
-        ],
-        "city": "MIDLAND",
-        "state": "TX",
-        "postalCode": "79705-2697"
       },
       {
         "line": [
@@ -80,6 +72,14 @@
       },
       {
         "line": [
+          "3490 E YUKON RD"
+        ],
+        "city": "ODESSA",
+        "state": "TX",
+        "postalCode": "79762-2010"
+      },
+      {
+        "line": [
           "6301 ANDREWS HIGHWAY"
         ],
         "city": "MIDLAND",
@@ -92,7 +92,7 @@
         ],
         "city": "ODESSA",
         "state": "TX",
-        "postalCode": "79762-2010"
+        "postalCode": "79762-0123"
       }
     ],
     "extension": [

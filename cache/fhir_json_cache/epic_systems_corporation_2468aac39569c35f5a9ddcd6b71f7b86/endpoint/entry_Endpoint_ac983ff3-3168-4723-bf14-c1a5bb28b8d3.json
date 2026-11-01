@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "17354"
       },
-      "display": "Woman's Hospital"
+      "display": "Woman's Hospital Foundation"
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://epicproxy.et1339.epichosted.com/FHIRproxy/api/FHIR/R4"
+    "address": "https://epicproxy.et1339.epichosted.com/FHIRproxy/HOME/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:ac983ff3-3168-4723-bf14-c1a5bb28b8d3"
 }

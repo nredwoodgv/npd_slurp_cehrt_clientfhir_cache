@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821349317"
+        "value": "1629398219"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629398219"
+        "value": "1821349317"
       }
     ],
     "address": [
-      {
-        "line": [
-          "60 East st"
-        ],
-        "city": "METHUEN",
-        "state": "MA",
-        "postalCode": "01844-4500"
-      },
-      {
-        "line": [
-          "60 East Street, Suite 1100"
-        ],
-        "city": "METHUEN",
-        "state": "MA",
-        "postalCode": "01844-4597"
-      },
       {
         "line": [
           "60 East Street"
@@ -48,11 +32,11 @@
       },
       {
         "line": [
-          "736 CAMBRIDGE ST"
+          "60 East st"
         ],
-        "city": "BRIGHTON",
+        "city": "METHUEN",
         "state": "MA",
-        "postalCode": "02135-2907"
+        "postalCode": "01844-4500"
       },
       {
         "line": [
@@ -63,7 +47,23 @@
         "postalCode": "02114-2621"
       },
       {
+        "line": [
+          "60 East Street, Suite 1100"
+        ],
+        "city": "METHUEN",
+        "state": "MA",
+        "postalCode": "01844-4597"
+      },
+      {
         "line": [],
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2907"
+      },
+      {
+        "line": [
+          "736 CAMBRIDGE ST"
+        ],
         "city": "BRIGHTON",
         "state": "MA",
         "postalCode": "02135-2907"

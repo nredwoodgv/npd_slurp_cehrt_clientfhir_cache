@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801808571"
+        "value": "1457382947"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457382947"
+        "value": "1801808571"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3311 PRESCOTT RD.",
-          "SUITE 410"
-        ],
-        "city": "ALEXANDRIA",
-        "state": "LA",
-        "postalCode": "71301-3900"
-      },
       {
         "line": [
           "3330 MASONIC DRIVE"
@@ -38,14 +29,6 @@
         "city": "ALEXANDRIA",
         "state": "LA",
         "postalCode": "71301-3841"
-      },
-      {
-        "line": [
-          "80 VERSAILLES BLVD STE A"
-        ],
-        "city": "ALEXANDRIA",
-        "state": "LA",
-        "postalCode": "71303-3979"
       },
       {
         "line": [
@@ -57,11 +40,12 @@
       },
       {
         "line": [
-          "3330 masonic drive"
+          "3311 PRESCOTT RD.",
+          "SUITE 410"
         ],
         "city": "ALEXANDRIA",
         "state": "LA",
-        "postalCode": "71301-3841"
+        "postalCode": "71301-3900"
       },
       {
         "line": [
@@ -74,11 +58,27 @@
       },
       {
         "line": [
+          "80 VERSAILLES BLVD STE A"
+        ],
+        "city": "ALEXANDRIA",
+        "state": "LA",
+        "postalCode": "71303-3979"
+      },
+      {
+        "line": [
           "2833 BABCOCK RD STE 203"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
         "postalCode": "78229-4894"
+      },
+      {
+        "line": [
+          "3330 masonic drive"
+        ],
+        "city": "ALEXANDRIA",
+        "state": "LA",
+        "postalCode": "71301-3841"
       },
       {
         "line": [

@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1407849920"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1154354744"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1386157832"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407849920"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,11 +32,27 @@
     "address": [
       {
         "line": [
+          "31413 Winterplace Pkwy suite 103"
+        ],
+        "city": "SALISBURY",
+        "state": "MD",
+        "postalCode": "21804-1877"
+      },
+      {
+        "line": [
           "1647 WOODBROOKE DR"
         ],
         "city": "SALISBURY",
         "state": "MD",
         "postalCode": "21804-8502"
+      },
+      {
+        "line": [
+          "10344 OLD OCEAN CITY BLVD"
+        ],
+        "city": "BERLIN",
+        "state": "MD",
+        "postalCode": "21811-1162"
       },
       {
         "line": [
@@ -64,14 +80,6 @@
       },
       {
         "line": [
-          "12145 Elm Street"
-        ],
-        "city": "PRINCESS ANNE",
-        "state": "MD",
-        "postalCode": "21853-1358"
-      },
-      {
-        "line": [
           "100 Power Street"
         ],
         "city": "SALISBURY",
@@ -88,19 +96,11 @@
       },
       {
         "line": [
-          "31413 Winterplace Pkwy suite 103"
+          "12145 Elm Street"
         ],
-        "city": "SALISBURY",
+        "city": "PRINCESS ANNE",
         "state": "MD",
-        "postalCode": "21804-1877"
-      },
-      {
-        "line": [
-          "10344 OLD OCEAN CITY BLVD"
-        ],
-        "city": "BERLIN",
-        "state": "MD",
-        "postalCode": "21811-1162"
+        "postalCode": "21853-1358"
       }
     ],
     "extension": [

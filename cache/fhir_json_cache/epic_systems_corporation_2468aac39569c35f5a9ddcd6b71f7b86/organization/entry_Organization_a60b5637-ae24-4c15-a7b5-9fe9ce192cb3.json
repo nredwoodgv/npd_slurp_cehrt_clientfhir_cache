@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "a60b5637-ae24-4c15-a7b5-9fe9ce192cb3",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:41-05:00"
+      "lastUpdated": "2026-09-30T23:37:09-05:00"
     },
     "active": true,
     "name": "Highland Podiatry",
     "address": [
       {
         "type": "physical",
-        "text": "1156 Columbus Ave #2\nWashington Court House OH 43160\nUnited States of America",
+        "text": "1156 Columbus Ave #2\r\nWashington Court House OH 43160\r\nUnited States of America",
         "line": [
           "Highland Podiatry",
           "1156 Columbus Ave #2"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:128f895e-0132-4cb2-a0be-b3fada28fba1"
+      "reference": "urn:uuid:ff2b1905-8ecd-4fd3-8d7e-9b58aa945316"
     }
   },
   "fullUrl": "urn:uuid:a60b5637-ae24-4c15-a7b5-9fe9ce192cb3"

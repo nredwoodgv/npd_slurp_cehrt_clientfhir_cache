@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275290694"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730412388"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508489782"
+        "value": "1962025148"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,11 +26,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629538491"
+        "value": "1275290694"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962025148"
+        "value": "1508489782"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629538491"
       }
     ],
     "address": [
@@ -45,14 +45,6 @@
         "city": "Wimberley",
         "state": "TX",
         "postalCode": "78676-5238"
-      },
-      {
-        "line": [
-          "11714 Wilson Parke Ave Ste 150"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78726-4061"
       },
       {
         "line": [
@@ -72,11 +64,11 @@
       },
       {
         "line": [
-          "4112 Links Ln,  Ste 101"
+          "249 Sportsplex Drive, Suite 200"
         ],
-        "city": "ROUND ROCK",
+        "city": "Dripping Springs",
         "state": "TX",
-        "postalCode": "78664-3902"
+        "postalCode": "78620-2350"
       },
       {
         "line": [
@@ -89,6 +81,14 @@
       },
       {
         "line": [
+          "1401 Medical Pkwy Bldg B, Ste 220"
+        ],
+        "city": "CEDAR PARK",
+        "state": "TX",
+        "postalCode": "78613-5013"
+      },
+      {
+        "line": [
           "1004 W 32nd St"
         ],
         "city": "Lampasas",
@@ -97,11 +97,11 @@
       },
       {
         "line": [
-          "6811 Austin Center Blvd Ste 410"
+          "11714 Wilson Parke Ave Ste 150"
         ],
-        "city": "Austin",
+        "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "78731-3157"
+        "postalCode": "78726-4061"
       },
       {
         "line": [
@@ -113,19 +113,19 @@
       },
       {
         "line": [
-          "249 Sportsplex Drive, Suite 200"
+          "6811 Austin Center Blvd Ste 410"
         ],
-        "city": "Dripping Springs",
+        "city": "Austin",
         "state": "TX",
-        "postalCode": "78620-2350"
+        "postalCode": "78731-3157"
       },
       {
         "line": [
-          "1401 Medical Pkwy Bldg B, Ste 220"
+          "4112 Links Ln,  Ste 101"
         ],
-        "city": "CEDAR PARK",
+        "city": "ROUND ROCK",
         "state": "TX",
-        "postalCode": "78613-5013"
+        "postalCode": "78664-3902"
       }
     ],
     "extension": [

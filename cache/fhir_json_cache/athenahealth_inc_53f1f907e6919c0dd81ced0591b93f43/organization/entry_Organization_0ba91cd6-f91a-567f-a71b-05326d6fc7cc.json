@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
+        "value": "1669801585"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962602300"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,15 +26,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1124080320"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
+        "value": "1215999511"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,11 +38,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
+        "value": "1215348487"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
+        "value": "1730484031"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,10 +50,131 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
+        "value": "1053373951"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1705 Jackson St"
+        ],
+        "city": "RICHMOND",
+        "state": "TX",
+        "postalCode": "77469-3246"
+      },
+      {
+        "line": [
+          "305 SANDY CORNER RD"
+        ],
+        "city": "EL CAMPO",
+        "state": "TX",
+        "postalCode": "77437-9535"
+      },
+      {
+        "line": [
+          "601 E SAN ANTONIO ST STE 203W"
+        ],
+        "city": "VICTORIA",
+        "state": "TX",
+        "postalCode": "77901-6051"
+      },
+      {
+        "line": [
+          "3301 E Mockingbird Ln"
+        ],
+        "city": "VICTORIA",
+        "state": "TX",
+        "postalCode": "77904-2437"
+      },
+      {
+        "line": [
+          "506 E SAN ANTONIO ST"
+        ],
+        "city": "VICTORIA",
+        "state": "TX",
+        "postalCode": "77901-6060"
+      },
+      {
+        "line": [
+          "2810 N BEN WILSON ST",
+          "STE 100"
+        ],
+        "city": "VICTORIA",
+        "state": "TX",
+        "postalCode": "77901-5641"
+      },
+      {
+        "line": [
+          "5621 CORSICA RD STE B"
+        ],
+        "city": "CORPUS CHRISTI",
+        "state": "TX",
+        "postalCode": "78414-6375"
+      },
+      {
+        "line": [
+          "4652 US Hwy 77A South"
+        ],
+        "city": "YOAKUM",
+        "state": "TX",
+        "postalCode": "77995-5365"
+      },
+      {
+        "line": [
+          "1301 MALLETTE DR"
+        ],
+        "city": "VICTORIA",
+        "state": "TX",
+        "postalCode": "77904-4671"
+      },
+      {
+        "line": [
+          "101 MEDICAL DR"
+        ],
+        "city": "VICTORIA",
+        "state": "TX",
+        "postalCode": "77904-3102"
+      },
+      {
+        "line": [
+          "1400 N TEXANA ST"
+        ],
+        "city": "HALLETTSVILLE",
+        "state": "TX",
+        "postalCode": "77964-2021"
+      },
+      {
+        "line": [
+          "3103 E Airline"
+        ],
+        "city": "VICTORIA",
+        "state": "TX",
+        "postalCode": "77901-4546"
+      },
+      {
+        "line": [
+          "1200 N VIRGINIA ST"
+        ],
+        "city": "PORT LAVACA",
+        "state": "TX",
+        "postalCode": "77979-2507"
+      },
+      {
+        "line": [
+          "601 E SAN ANTONIO STE 402W"
+        ],
+        "city": "VICTORIA",
+        "state": "TX",
+        "postalCode": "77901-6053"
+      },
+      {
+        "line": [
+          "2701 HOSPITAL DR"
+        ],
+        "city": "VICTORIA",
+        "state": "TX",
+        "postalCode": "77901-5749"
+      },
       {
         "line": [
           "110 MEDICAL CENTER DR STE 104"
@@ -72,51 +193,11 @@
       },
       {
         "line": [
-          "1303 N JOHN STOCKBAUER DR"
+          "601 E San Antonio Ste 303W"
         ],
         "city": "VICTORIA",
         "state": "TX",
-        "postalCode": "77904-4654"
-      },
-      {
-        "line": [
-          "601 E SAN ANTONIO STE 402W"
-        ],
-        "city": "VICTORIA",
-        "state": "TX",
-        "postalCode": "77901-6053"
-      },
-      {
-        "line": [
-          "101 JAMES COLEMAN DR"
-        ],
-        "city": "VICTORIA",
-        "state": "TX",
-        "postalCode": "77904-3147"
-      },
-      {
-        "line": [
-          "9006 N NAVARRO ST STE C"
-        ],
-        "city": "VICTORIA",
-        "state": "TX",
-        "postalCode": "77904-1566"
-      },
-      {
-        "line": [
-          "3103 E Airline"
-        ],
-        "city": "VICTORIA",
-        "state": "TX",
-        "postalCode": "77901-4546"
-      },
-      {
-        "line": [
-          "1400 N TEXANA ST"
-        ],
-        "city": "HALLETTSVILLE",
-        "state": "TX",
-        "postalCode": "77964-2021"
+        "postalCode": "77901-6002"
       },
       {
         "line": [
@@ -144,27 +225,11 @@
       },
       {
         "line": [
-          "1705 Jackson St"
-        ],
-        "city": "RICHMOND",
-        "state": "TX",
-        "postalCode": "77469-3246"
-      },
-      {
-        "line": [
-          "601 E San Antonio Ste 303W"
+          "101 JAMES COLEMAN DR"
         ],
         "city": "VICTORIA",
         "state": "TX",
-        "postalCode": "77901-6002"
-      },
-      {
-        "line": [
-          "1013 South Wells Street"
-        ],
-        "city": "EDNA",
-        "state": "TX",
-        "postalCode": "77957-4045"
+        "postalCode": "77904-3147"
       },
       {
         "line": [
@@ -176,115 +241,11 @@
       },
       {
         "line": [
-          "506 E SAN ANTONIO ST"
-        ],
-        "city": "VICTORIA",
-        "state": "TX",
-        "postalCode": "77901-6060"
-      },
-      {
-        "line": [
           "6502 NURSERY DR STE 300"
         ],
         "city": "VICTORIA",
         "state": "TX",
         "postalCode": "77904-1181"
-      },
-      {
-        "line": [
-          "4409 JOHN STOCKBAUER DR"
-        ],
-        "city": "VICTORIA",
-        "state": "TX",
-        "postalCode": "77904-2899"
-      },
-      {
-        "line": [
-          "4001 MERIDIAN"
-        ],
-        "city": "FRANKLIN",
-        "state": "TN",
-        "postalCode": "37064-0501"
-      },
-      {
-        "line": [
-          "2550 N Esplanade St"
-        ],
-        "city": "CUERO",
-        "state": "TX",
-        "postalCode": "77954-4723"
-      },
-      {
-        "line": [
-          "102 MEDICAL DR"
-        ],
-        "city": "VICTORIA",
-        "state": "TX",
-        "postalCode": "77901-3101"
-      },
-      {
-        "line": [
-          "4652 US Hwy 77A South"
-        ],
-        "city": "YOAKUM",
-        "state": "TX",
-        "postalCode": "77995-5365"
-      },
-      {
-        "line": [
-          "2701 HOSPITAL DR"
-        ],
-        "city": "VICTORIA",
-        "state": "TX",
-        "postalCode": "77901-5749"
-      },
-      {
-        "line": [
-          "5621 CORSICA RD STE B"
-        ],
-        "city": "CORPUS CHRISTI",
-        "state": "TX",
-        "postalCode": "78414-6375"
-      },
-      {
-        "line": [
-          "601 E SAN ANTONIO ST STE 101W"
-        ],
-        "city": "VICTORIA",
-        "state": "TX",
-        "postalCode": "77901-6004"
-      },
-      {
-        "line": [
-          "601 E SAN ANTONIO ST STE 203W"
-        ],
-        "city": "VICTORIA",
-        "state": "TX",
-        "postalCode": "77901-6051"
-      },
-      {
-        "line": [
-          "1200 N VIRGINIA ST"
-        ],
-        "city": "PORT LAVACA",
-        "state": "TX",
-        "postalCode": "77979-2507"
-      },
-      {
-        "line": [
-          "601 E San Antonio St STE 203W"
-        ],
-        "city": "VICTORIA",
-        "state": "TX",
-        "postalCode": "77901-6051"
-      },
-      {
-        "line": [
-          "101 MEDICAL DR"
-        ],
-        "city": "VICTORIA",
-        "state": "TX",
-        "postalCode": "77904-3102"
       },
       {
         "line": [
@@ -296,30 +257,6 @@
       },
       {
         "line": [
-          "2701 HOSPITAL DR"
-        ],
-        "city": "VICTORIA",
-        "state": "TX",
-        "postalCode": "77901-5748"
-      },
-      {
-        "line": [
-          "305 SANDY CORNER RD"
-        ],
-        "city": "EL CAMPO",
-        "state": "TX",
-        "postalCode": "77437-9535"
-      },
-      {
-        "line": [
-          "1301 MALLETTE DR"
-        ],
-        "city": "VICTORIA",
-        "state": "TX",
-        "postalCode": "77904-4671"
-      },
-      {
-        "line": [
           "1200 Carl Ramert Dr."
         ],
         "city": "YOAKUM",
@@ -328,20 +265,83 @@
       },
       {
         "line": [
-          "3301 E Mockingbird Ln"
+          "1303 N JOHN STOCKBAUER DR"
         ],
         "city": "VICTORIA",
         "state": "TX",
-        "postalCode": "77904-2437"
+        "postalCode": "77904-4654"
       },
       {
         "line": [
-          "2810 N BEN WILSON ST",
-          "STE 100"
+          "601 E San Antonio St STE 203W"
         ],
         "city": "VICTORIA",
         "state": "TX",
-        "postalCode": "77901-5641"
+        "postalCode": "77901-6051"
+      },
+      {
+        "line": [
+          "4001 MERIDIAN"
+        ],
+        "city": "FRANKLIN",
+        "state": "TN",
+        "postalCode": "37064-0501"
+      },
+      {
+        "line": [
+          "9006 N NAVARRO ST STE C"
+        ],
+        "city": "VICTORIA",
+        "state": "TX",
+        "postalCode": "77904-1566"
+      },
+      {
+        "line": [
+          "1013 South Wells Street"
+        ],
+        "city": "EDNA",
+        "state": "TX",
+        "postalCode": "77957-4045"
+      },
+      {
+        "line": [
+          "4409 JOHN STOCKBAUER DR"
+        ],
+        "city": "VICTORIA",
+        "state": "TX",
+        "postalCode": "77904-2899"
+      },
+      {
+        "line": [
+          "2701 HOSPITAL DR"
+        ],
+        "city": "VICTORIA",
+        "state": "TX",
+        "postalCode": "77901-5748"
+      },
+      {
+        "line": [
+          "2550 N Esplanade St"
+        ],
+        "city": "CUERO",
+        "state": "TX",
+        "postalCode": "77954-4723"
+      },
+      {
+        "line": [
+          "601 E SAN ANTONIO ST STE 101W"
+        ],
+        "city": "VICTORIA",
+        "state": "TX",
+        "postalCode": "77901-6004"
+      },
+      {
+        "line": [
+          "102 MEDICAL DR"
+        ],
+        "city": "VICTORIA",
+        "state": "TX",
+        "postalCode": "77901-3101"
       }
     ],
     "extension": [

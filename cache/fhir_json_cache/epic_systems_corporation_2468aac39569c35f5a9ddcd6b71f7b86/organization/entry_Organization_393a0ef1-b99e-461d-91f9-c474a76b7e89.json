@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "393a0ef1-b99e-461d-91f9-c474a76b7e89",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-08T23:09:17-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - ROSELLE",
     "address": [
       {
         "type": "physical",
-        "text": "776 East Third Avenue",
+        "text": "776 East Third Avenue\r\nRoselle NJ 07203\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - ROSELLE",
           "776 East Third Avenue"
         ],
         "city": "Roselle",
         "state": "NJ",
-        "postalCode": "07203"
+        "postalCode": "07203",
+        "country": "US"
       }
     ],
     "partOf": {

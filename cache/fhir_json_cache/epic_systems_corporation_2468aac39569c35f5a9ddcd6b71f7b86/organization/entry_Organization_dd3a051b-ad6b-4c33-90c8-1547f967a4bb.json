@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "dd3a051b-ad6b-4c33-90c8-1547f967a4bb",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:10-05:00"
+      "lastUpdated": "2026-10-26T23:44:08-05:00"
     },
     "active": true,
     "name": "Mercy Health Maumee Pain Management",
     "address": [
       {
         "type": "physical",
-        "text": "1360 Arrowhead Road\nMaumee OH 43537\nUnited States of America",
+        "text": "1360 Arrowhead Road\r\nMaumee OH 43537\r\nUnited States of America",
         "line": [
           "Mercy Health Maumee Pain Management",
           "1360 Arrowhead Road"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:c218f4cf-04a9-4f7e-b20a-effa30dc87bc"
+      "reference": "urn:uuid:c74482ff-4f4c-4cbf-892e-36d440163fc9"
     }
   },
   "fullUrl": "urn:uuid:dd3a051b-ad6b-4c33-90c8-1547f967a4bb"

@@ -3,18 +3,21 @@
     "resourceType": "Organization",
     "id": "13a7051a-e2d3-4410-955b-5d7eb83dee93",
     "meta": {
-      "lastUpdated": "2025-10-06T17:34:07-05:00"
+      "lastUpdated": "2026-09-30T23:01:41-05:00"
     },
     "active": true,
     "name": "CommunityCare",
     "address": [
       {
         "type": "physical",
-        "text": "18702\nUnited States",
+        "text": "426 Airport Rd\r\nHAZLE TOWNSHIP PA 18202\r\nUnited States",
         "line": [
-          "CommunityCare"
+          "CommunityCare",
+          "426 Airport Rd"
         ],
-        "postalCode": "18702",
+        "city": "HAZLE TOWNSHIP",
+        "state": "PA",
+        "postalCode": "18202",
         "country": "USA"
       }
     ],

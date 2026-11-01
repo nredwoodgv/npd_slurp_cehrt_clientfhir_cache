@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "339"
       },
-      "display": "Dartmouth Health"
+      "display": "Dartmouth-Hitchcock Clinic and Mary Hitchcock Memorial Hospital"
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://edhwebportal.hitchcock.org/FHIRProxy/api/FHIR/R4"
+    "address": "https://edhwebportal.hitchcock.org/FHIRProxy/MYDH/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:b0f5ab25-c9de-48f0-99b0-a506927f6cb6"
 }

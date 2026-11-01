@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750680757"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1457663197"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700831500"
+        "value": "1750680757"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,6 +30,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912965088"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1386716520"
       },
       {
@@ -42,43 +42,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912965088"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902979081"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942317631"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114962461"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730117805"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174537500"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376644922"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255378139"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629272968"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114133485"
+        "value": "1700831500"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -87,6 +51,42 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1588737266"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114962461"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376644922"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1942317631"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730117805"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1255378139"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902979081"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629272968"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174537500"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114133485"
       }
     ],
     "address": [
@@ -100,19 +100,19 @@
       },
       {
         "line": [
-          "27351 DEQUINDRE RD"
-        ],
-        "city": "MADISON HEIGHTS",
-        "state": "MI",
-        "postalCode": "48071-3487"
-      },
-      {
-        "line": [
           "11800 TWELVE MILE RD"
         ],
         "city": "WARREN",
         "state": "MI",
         "postalCode": "48093-3472"
+      },
+      {
+        "line": [
+          "27351 DEQUINDRE RD"
+        ],
+        "city": "MADISON HEIGHTS",
+        "state": "MI",
+        "postalCode": "48071-3487"
       }
     ],
     "extension": [

@@ -3,17 +3,17 @@
     "resourceType": "Organization",
     "id": "592b1846-63a5-4026-b1fc-f4c8566fba72",
     "meta": {
-      "lastUpdated": "2025-10-06T17:33:57-05:00"
+      "lastUpdated": "2026-10-24T00:51:14-05:00"
     },
     "active": true,
     "name": "CC CTRL SURG MADISON",
     "address": [
       {
         "type": "physical",
-        "text": "401 Baptist Dr\nSuite 204\nMADISON MS 39110-2011\nUnited States of America",
+        "text": "401 Baptist Dr\r\nSuite 204\r\nMADISON MS 39110-2011\r\nUnited States of America",
         "line": [
           "CC CTRL SURG MADISON",
-          "401 Baptist Dr\nSuite 204"
+          "401 Baptist Dr\r\nSuite 204"
         ],
         "city": "MADISON",
         "state": "MS",
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:c07c51c7-9c20-48c8-adbe-e06182d5e13b"
+      "reference": "urn:uuid:b6574074-0726-4ca7-bcdc-ed3cd2f46fc0"
     }
   },
   "fullUrl": "urn:uuid:592b1846-63a5-4026-b1fc-f4c8566fba72"

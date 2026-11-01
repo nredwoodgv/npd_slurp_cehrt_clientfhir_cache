@@ -14,11 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700085610"
+        "value": "1790984508"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578762381"
+        "value": "1467651273"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700085610"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,33 +30,29 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790984508"
+        "value": "1578762381"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1073644498"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467651273"
       }
     ],
     "address": [
       {
         "line": [
-          "4200 TWELVE OAKS DR"
+          "7200 CAMBRIDGE ST"
         ],
         "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77027-6812"
+        "postalCode": "77030-2607"
       },
       {
         "line": [
-          "1300 BINZ ST"
+          "4000 SPENCER HWY"
         ],
-        "city": "HOUSTON",
+        "city": "PASADENA",
         "state": "TX",
-        "postalCode": "77004-7016"
+        "postalCode": "77504-1202"
       },
       {
         "line": [
@@ -64,11 +64,11 @@
       },
       {
         "line": [
-          "7200 CAMBRIDGE ST"
+          "1300 BINZ ST"
         ],
         "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77030-2607"
+        "postalCode": "77004-7016"
       },
       {
         "line": [
@@ -80,11 +80,11 @@
       },
       {
         "line": [
-          "4000 SPENCER HWY"
+          "4200 TWELVE OAKS DR"
         ],
-        "city": "PASADENA",
+        "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77504-1202"
+        "postalCode": "77027-6812"
       }
     ],
     "extension": [

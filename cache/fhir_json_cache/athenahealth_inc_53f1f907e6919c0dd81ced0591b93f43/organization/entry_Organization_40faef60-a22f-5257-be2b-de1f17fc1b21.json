@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497792048"
+        "value": "1578217188"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578217188"
+        "value": "1497792048"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2700 QUARRY LAKE DR",
-          "SUITE 200"
-        ],
-        "city": "BALTIMORE",
-        "state": "MD",
-        "postalCode": "21209-3762"
-      },
       {
         "line": [
           "5 Park Center Court",
@@ -39,6 +30,15 @@
         "city": "OWINGS MILLS",
         "state": "MD",
         "postalCode": "21117-4202"
+      },
+      {
+        "line": [
+          "2700 QUARRY LAKE DR",
+          "SUITE 200"
+        ],
+        "city": "BALTIMORE",
+        "state": "MD",
+        "postalCode": "21209-3762"
       }
     ],
     "extension": [

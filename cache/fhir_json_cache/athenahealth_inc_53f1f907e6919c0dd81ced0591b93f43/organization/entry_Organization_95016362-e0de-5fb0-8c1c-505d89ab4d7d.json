@@ -18,14 +18,38 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790551059"
+        "value": "1225809049"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225809049"
+        "value": "1790551059"
       }
     ],
     "address": [
+      {
+        "line": [
+          "802 N COAST HIGHWAY 101"
+        ],
+        "city": "ENCINITAS",
+        "state": "CA",
+        "postalCode": "92024-2047"
+      },
+      {
+        "line": [
+          "6037 La Granada Suite C"
+        ],
+        "city": "RANCHO SANTA FE",
+        "state": "CA",
+        "postalCode": "92067-0950"
+      },
+      {
+        "line": [
+          "142 Encinitas Blvd"
+        ],
+        "city": "ENCINITAS",
+        "state": "CA",
+        "postalCode": "92024-3657"
+      },
       {
         "line": [
           "142 ENCINITAS BLVD"
@@ -45,31 +69,6 @@
       },
       {
         "line": [
-          "801 TRAVIS STREET",
-          "SUITE 2101, PMB 509"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77002-5730"
-      },
-      {
-        "line": [
-          "802 N COAST HIGHWAY 101"
-        ],
-        "city": "ENCINITAS",
-        "state": "CA",
-        "postalCode": "92024-2047"
-      },
-      {
-        "line": [
-          "4110 SORRENTO VALLEY BLVD STE C"
-        ],
-        "city": "SAN DIEGO",
-        "state": "CA",
-        "postalCode": "92121-1429"
-      },
-      {
-        "line": [
           "66 W FLAGLER ST",
           "STE 900 PMB 10098"
         ],
@@ -79,19 +78,20 @@
       },
       {
         "line": [
-          "6037 La Granada Suite C"
+          "801 TRAVIS STREET",
+          "SUITE 2101, PMB 509"
         ],
-        "city": "RANCHO SANTA FE",
-        "state": "CA",
-        "postalCode": "92067-0950"
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77002-5730"
       },
       {
         "line": [
-          "142 Encinitas Blvd"
+          "4110 SORRENTO VALLEY BLVD STE C"
         ],
-        "city": "ENCINITAS",
+        "city": "SAN DIEGO",
         "state": "CA",
-        "postalCode": "92024-3657"
+        "postalCode": "92121-1429"
       }
     ],
     "extension": [

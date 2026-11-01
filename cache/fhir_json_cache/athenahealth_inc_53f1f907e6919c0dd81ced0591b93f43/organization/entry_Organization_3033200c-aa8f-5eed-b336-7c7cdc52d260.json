@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649228966"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285931089"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1013031368"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649228966"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,11 +32,27 @@
     "address": [
       {
         "line": [
+          "3300 RIVERMONT AVENUE"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24503-2030"
+      },
+      {
+        "line": [
           "414 PARK AVENUE"
         ],
         "city": "DANVILLE",
         "state": "VA",
         "postalCode": "24541-4101"
+      },
+      {
+        "line": [
+          "3300 RIVERMONT AVENUE"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24503-2513"
       },
       {
         "line": [
@@ -48,36 +64,20 @@
       },
       {
         "line": [
+          "2010 ATHERHOLT RD"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24501-1106"
+      },
+      {
+        "line": [
           "OAK VASSAR MEDICAL BLDG",
           "1330 OAK LANE SUITE 100"
         ],
         "city": "LYNCHBURG",
         "state": "VA",
         "postalCode": "24503-2513"
-      },
-      {
-        "line": [
-          "3300 RIVERMONT AVENUE"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24503-2513"
-      },
-      {
-        "line": [
-          "3300 RIVERMONT AVENUE"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24503-2030"
-      },
-      {
-        "line": [
-          "2010 ATHERHOLT RD"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24501-1106"
       },
       {
         "line": [

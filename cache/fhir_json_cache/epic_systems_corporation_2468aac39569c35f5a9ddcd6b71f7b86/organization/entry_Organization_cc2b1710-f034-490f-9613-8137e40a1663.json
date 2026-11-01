@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "cc2b1710-f034-490f-9613-8137e40a1663",
     "meta": {
-      "lastUpdated": "2025-12-06T17:09:51-06:00"
+      "lastUpdated": "2026-10-26T23:31:03-05:00"
     },
     "active": true,
     "name": "CMU Health Pediatric Neurology - Houghton",
     "address": [
       {
         "type": "physical",
-        "text": "1000 Houghton Ave\nSAGINAW MI 48602\nUnited States of America",
+        "text": "1000 Houghton Ave\r\nSAGINAW MI 48602\r\nUnited States of America",
         "line": [
           "CMU Health Pediatric Neurology - Houghton",
           "1000 Houghton Ave"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:44c69c6c-7dba-4d8c-b412-dfbeae673aa6"
+      "reference": "urn:uuid:b8bb8541-07a5-43b2-8094-99933f7ecd37"
     }
   },
   "fullUrl": "urn:uuid:cc2b1710-f034-490f-9613-8137e40a1663"

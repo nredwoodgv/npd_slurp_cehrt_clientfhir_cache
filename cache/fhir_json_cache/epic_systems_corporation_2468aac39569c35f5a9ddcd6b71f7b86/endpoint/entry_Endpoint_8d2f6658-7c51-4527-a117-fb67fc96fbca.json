@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "325"
       },
-      "display": "UW Medicine (WA)"
+      "display": "The University of Washington, a Washington state institution of higher education, on behalf of its health system, UW Medicine"
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://fhir.epic.medical.washington.edu/FHIR-Proxy/api/FHIR/R4"
+    "address": "https://fhir.epic.medical.washington.edu/FHIR-Proxy/UWM/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:8d2f6658-7c51-4527-a117-fb67fc96fbca"
 }

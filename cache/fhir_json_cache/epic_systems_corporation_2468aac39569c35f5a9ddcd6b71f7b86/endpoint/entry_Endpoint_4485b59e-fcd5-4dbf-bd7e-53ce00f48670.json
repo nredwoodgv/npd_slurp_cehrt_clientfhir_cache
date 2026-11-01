@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "1439"
       },
-      "display": "UVA Health"
+      "display": "The Rector and Visitors of the University of Virginia on behalf of its Medical Center"
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://hscsesoap.hscs.virginia.edu/oauth2/api/FHIR/R4"
+    "address": "https://hscsesoap.hscs.virginia.edu/oauth2/UVAHEALTH/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:4485b59e-fcd5-4dbf-bd7e-53ce00f48670"
 }

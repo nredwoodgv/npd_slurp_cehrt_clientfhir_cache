@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "557"
       },
-      "display": "Saint Luke's Health System (MO)"
+      "display": "Saint Luke's Health System, Inc."
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://epicmobile.corp.saint-lukes.org/FHIRPROXY/api/FHIR/R4"
+    "address": "https://epicproxy.et0877.epichosted.com/APIProxyPRD/HOME/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:06e00558-bb2a-430a-bb3f-94f421a1c7f8"
 }

@@ -3,17 +3,17 @@
     "resourceType": "Organization",
     "id": "575ec420-ab9f-4114-92ee-eec1b8b7acd6",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:56-05:00"
+      "lastUpdated": "2026-10-27T00:53:40-05:00"
     },
     "active": true,
     "name": "Foot and Ankle Center LLC",
     "address": [
       {
         "type": "physical",
-        "text": "1111 Medical Center Blvd.\nSuite North 507\nMarrero LA 70072\nUnited States of America",
+        "text": "1111 Medical Center Blvd.\r\nSuite North 507\r\nMarrero LA 70072\r\nUnited States of America",
         "line": [
           "Foot and Ankle Center LLC",
-          "1111 Medical Center Blvd.\nSuite North 507"
+          "1111 Medical Center Blvd.\r\nSuite North 507"
         ],
         "city": "Marrero",
         "state": "LA",
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:571e3049-6d90-484b-bd9b-1936644c5b3b"
+      "reference": "urn:uuid:a3792191-e404-47be-acb3-de7fc01c8e68"
     }
   },
   "fullUrl": "urn:uuid:575ec420-ab9f-4114-92ee-eec1b8b7acd6"

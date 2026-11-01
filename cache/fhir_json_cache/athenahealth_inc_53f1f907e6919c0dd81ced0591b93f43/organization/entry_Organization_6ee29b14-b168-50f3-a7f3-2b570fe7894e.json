@@ -14,39 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548567498"
+        "value": "1386911006"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386911006"
+        "value": "1548567498"
       }
     ],
     "address": [
-      {
-        "line": [
-          "4005 MISSION OAKS BLVD"
-        ],
-        "city": "CAMARILLO",
-        "state": "CA",
-        "postalCode": "93012-5156"
-      },
-      {
-        "line": [
-          "1849 Old Bayshore Hwy",
-          "3rd Floor"
-        ],
-        "city": "BURLINGAME",
-        "state": "CA",
-        "postalCode": "94010-1214"
-      },
-      {
-        "line": [
-          "55 VALLEY ST."
-        ],
-        "city": "PASADENA",
-        "state": "CA",
-        "postalCode": "91105-2015"
-      },
       {
         "line": [
           "302 W LA VETA AVE STE 100"
@@ -57,20 +32,11 @@
       },
       {
         "line": [
-          "2601 W.Alameda Avenue #312"
+          "4005 MISSION OAKS BLVD"
         ],
-        "city": "BURBANK",
+        "city": "CAMARILLO",
         "state": "CA",
-        "postalCode": "91505-4406"
-      },
-      {
-        "line": [
-          "225 W. Broadway Suite 350",
-          "380"
-        ],
-        "city": "GLENDALE",
-        "state": "CA",
-        "postalCode": "91204-1303"
+        "postalCode": "93012-5156"
       },
       {
         "line": [
@@ -90,11 +56,21 @@
       },
       {
         "line": [
-          "700 GARDEN VIEW CT STE 102"
+          "225 W. Broadway Suite 350",
+          "380"
         ],
-        "city": "ENCINITAS",
+        "city": "GLENDALE",
         "state": "CA",
-        "postalCode": "92024-2478"
+        "postalCode": "91204-1303"
+      },
+      {
+        "line": [
+          "5858 Horton St.",
+          "Suite 100"
+        ],
+        "city": "EMERYVILLE",
+        "state": "CA",
+        "postalCode": "94608-2007"
       },
       {
         "line": [
@@ -106,12 +82,36 @@
       },
       {
         "line": [
-          "5858 Horton St.",
-          "Suite 100"
+          "55 VALLEY ST."
         ],
-        "city": "EMERYVILLE",
+        "city": "PASADENA",
         "state": "CA",
-        "postalCode": "94608-2007"
+        "postalCode": "91105-2015"
+      },
+      {
+        "line": [
+          "1849 Old Bayshore Hwy",
+          "3rd Floor"
+        ],
+        "city": "BURLINGAME",
+        "state": "CA",
+        "postalCode": "94010-1214"
+      },
+      {
+        "line": [
+          "2601 W.Alameda Avenue #312"
+        ],
+        "city": "BURBANK",
+        "state": "CA",
+        "postalCode": "91505-4406"
+      },
+      {
+        "line": [
+          "700 GARDEN VIEW CT STE 102"
+        ],
+        "city": "ENCINITAS",
+        "state": "CA",
+        "postalCode": "92024-2478"
       }
     ],
     "extension": [

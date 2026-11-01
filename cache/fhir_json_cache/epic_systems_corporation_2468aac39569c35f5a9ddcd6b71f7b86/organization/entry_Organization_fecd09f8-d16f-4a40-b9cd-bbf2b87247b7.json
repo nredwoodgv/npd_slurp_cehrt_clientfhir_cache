@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "fecd09f8-d16f-4a40-b9cd-bbf2b87247b7",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-08T23:09:17-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - SPARTA",
     "address": [
       {
         "type": "physical",
-        "text": "70 Sparta Avenue\nSuite 209",
+        "text": "70 Sparta Avenue\r\nSuite 209\r\nSparta NJ 07871\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - SPARTA",
-          "70 Sparta Avenue\nSuite 209"
+          "70 Sparta Avenue\r\nSuite 209"
         ],
         "city": "Sparta",
         "state": "NJ",
-        "postalCode": "07871"
+        "postalCode": "07871",
+        "country": "US"
       }
     ],
     "partOf": {

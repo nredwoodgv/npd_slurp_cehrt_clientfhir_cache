@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "5e705089-b35c-4475-bf9a-df0338da305f",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-08T23:09:17-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - WEST ORANGE NORTHFIELD",
     "address": [
       {
         "type": "physical",
-        "text": "741 Northfield Ave\nSuites 200 & 206",
+        "text": "741 Northfield Ave\r\nSuites 200 & 206\r\nWest Orange NJ 07052\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - WEST ORANGE NORTHFIELD",
-          "741 Northfield Ave\nSuites 200 & 206"
+          "741 Northfield Ave\r\nSuites 200 & 206"
         ],
         "city": "West Orange",
         "state": "NJ",
-        "postalCode": "07052"
+        "postalCode": "07052",
+        "country": "US"
       }
     ],
     "partOf": {

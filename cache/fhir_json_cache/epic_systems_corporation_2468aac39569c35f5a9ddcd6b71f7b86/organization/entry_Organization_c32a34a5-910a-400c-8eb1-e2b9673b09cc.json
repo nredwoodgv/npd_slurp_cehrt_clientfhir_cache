@@ -22,12 +22,32 @@
     "name": "Evernorth Home-Based Care",
     "address": [
       {
-        "extension": [
-          {
-            "url": "http://hl7.org/fhir/StructureDefinition/data-absent-reason",
-            "valueCode": "unknown"
-          }
-        ]
+        "state": "IL",
+        "country": "US"
+      },
+      {
+        "state": "MD",
+        "country": "US"
+      },
+      {
+        "state": "TX",
+        "country": "US"
+      },
+      {
+        "state": "PA",
+        "country": "US"
+      },
+      {
+        "state": "AZ",
+        "country": "US"
+      },
+      {
+        "state": "TN",
+        "country": "US"
+      },
+      {
+        "state": "AL",
+        "country": "US"
       }
     ],
     "endpoint": [

@@ -14,29 +14,54 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205844719"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1598788218"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1528082336"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1205844719"
       }
     ],
     "address": [
       {
         "line": [
-          "2801 Wilena Ave"
+          "3058 Mobile Highway"
         ],
         "city": "MONTGOMERY",
         "state": "AL",
-        "postalCode": "36107-1055"
+        "postalCode": "36108-4027"
       },
       {
         "line": [
-          "33 Salem"
+          "1845 Cherry St"
+        ],
+        "city": "MONTGOMERY",
+        "state": "AL",
+        "postalCode": "36107-2613"
+      },
+      {
+        "line": [
+          "1845 Cherry ST"
+        ],
+        "city": "MONTGOMERY",
+        "state": "AL",
+        "postalCode": "36107-2613"
+      },
+      {
+        "line": [
+          "2905 East South Blvd"
+        ],
+        "city": "MONTGOMERY",
+        "state": "AL",
+        "postalCode": "36116-2905"
+      },
+      {
+        "line": [
+          "33 Salem Rd",
+          "#1"
         ],
         "city": "MONTEVALLO",
         "state": "AL",
@@ -52,11 +77,11 @@
       },
       {
         "line": [
-          "1845 Cherry St"
+          "511 East Tuskeena"
         ],
-        "city": "MONTGOMERY",
+        "city": "HAYNEVILLE",
         "state": "AL",
-        "postalCode": "36107-2613"
+        "postalCode": "36040-2666"
       },
       {
         "line": [
@@ -69,43 +94,11 @@
       },
       {
         "line": [
-          "3058 Mobile Highway"
-        ],
-        "city": "MONTGOMERY",
-        "state": "AL",
-        "postalCode": "36108-4027"
-      },
-      {
-        "line": [
-          "1845 Cherry ST"
+          "1845 Cherry Street"
         ],
         "city": "MONTGOMERY",
         "state": "AL",
         "postalCode": "36107-2613"
-      },
-      {
-        "line": [
-          "2905 E South Blvd"
-        ],
-        "city": "MONTGOMERY",
-        "state": "AL",
-        "postalCode": "36116-2501"
-      },
-      {
-        "line": [
-          "33 SALEM RD # 2"
-        ],
-        "city": "MONTEVALLO",
-        "state": "AL",
-        "postalCode": "35115-3586"
-      },
-      {
-        "line": [
-          "1000 First Street North"
-        ],
-        "city": "ALABASTER",
-        "state": "AL",
-        "postalCode": "35007-9999"
       },
       {
         "line": [
@@ -117,28 +110,11 @@
       },
       {
         "line": [
-          "1845 Cherry Street"
-        ],
-        "city": "MONTGOMERY",
-        "state": "AL",
-        "postalCode": "36107-2613"
-      },
-      {
-        "line": [
           "3350 S Court St"
         ],
         "city": "MONTGOMERY",
         "state": "AL",
         "postalCode": "36105-1606"
-      },
-      {
-        "line": [
-          "33 Salem Rd",
-          "#1"
-        ],
-        "city": "MONTEVALLO",
-        "state": "AL",
-        "postalCode": "35115-3586"
       },
       {
         "line": [
@@ -150,19 +126,27 @@
       },
       {
         "line": [
-          "2905 East South Blvd"
+          "2801 Wilena Ave"
         ],
         "city": "MONTGOMERY",
         "state": "AL",
-        "postalCode": "36116-2905"
+        "postalCode": "36107-1055"
       },
       {
         "line": [
-          "511 East Tuskeena"
+          "1845 CHERRY ST"
         ],
-        "city": "HAYNEVILLE",
+        "city": "MONTGOMERY",
         "state": "AL",
-        "postalCode": "36040-2666"
+        "postalCode": "36107-2613"
+      },
+      {
+        "line": [
+          "33 Salem"
+        ],
+        "city": "MONTEVALLO",
+        "state": "AL",
+        "postalCode": "35115-3586"
       },
       {
         "line": [
@@ -175,11 +159,27 @@
       },
       {
         "line": [
-          "1845 CHERRY ST"
+          "33 SALEM RD # 2"
+        ],
+        "city": "MONTEVALLO",
+        "state": "AL",
+        "postalCode": "35115-3586"
+      },
+      {
+        "line": [
+          "2905 E South Blvd"
         ],
         "city": "MONTGOMERY",
         "state": "AL",
-        "postalCode": "36107-2613"
+        "postalCode": "36116-2501"
+      },
+      {
+        "line": [
+          "1000 First Street North"
+        ],
+        "city": "ALABASTER",
+        "state": "AL",
+        "postalCode": "35007-9999"
       }
     ],
     "extension": [

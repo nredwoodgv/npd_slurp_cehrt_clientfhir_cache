@@ -6,6 +6,30 @@
       {
         "system": "https://open.epic.com/brand-identifier",
         "value": "764"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306883228"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1801506027"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619086766"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962916437"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881642239"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1699092718"
       }
     ],
     "active": true,
@@ -28,7 +52,7 @@
     ],
     "endpoint": [
       {
-        "reference": "urn:uuid:f8e64c87-7afb-425b-87e4-e52b3b7d7380"
+        "reference": "urn:uuid:4c58664b-6540-43a4-8e87-b2adeea63579"
       }
     ]
   },

@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "dfdcf1ba-e36b-42b8-95d0-5fcf06def7ed",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:02-05:00"
+      "lastUpdated": "2026-10-28T00:03:01-05:00"
     },
     "active": true,
     "name": "Ear Nose and Throat Surgical Group",
     "address": [
       {
         "type": "physical",
-        "text": "138 Park Pl Blvd\nMadison MS 39110\nUnited States of America",
+        "text": "138 Park Pl Blvd\r\nMadison MS 39110\r\nUnited States of America",
         "line": [
           "Ear Nose and Throat Surgical Group",
           "138 Park Pl Blvd"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:5734eb57-1dbe-4815-a655-e8930004dd8b"
+      "reference": "urn:uuid:fb10c72a-022b-473e-888b-00dcb8b43cc2"
     }
   },
   "fullUrl": "urn:uuid:dfdcf1ba-e36b-42b8-95d0-5fcf06def7ed"

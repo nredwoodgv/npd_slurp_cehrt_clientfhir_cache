@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "5dd70d50-0a2e-4bb6-8ab6-cc178107f124",
     "meta": {
-      "lastUpdated": "2025-10-06T17:34:13-05:00"
+      "lastUpdated": "2026-10-26T23:31:03-05:00"
     },
     "active": true,
     "name": "Scheurer Wound Care",
     "address": [
       {
         "type": "physical",
-        "text": "135 N Caseville Rd Ste B\nPigeon MI 48755\nUnited States of America",
+        "text": "135 N Caseville Rd Ste B\r\nPigeon MI 48755\r\nUnited States of America",
         "line": [
           "Scheurer Wound Care",
           "135 N Caseville Rd Ste B"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:44c69c6c-7dba-4d8c-b412-dfbeae673aa6"
+      "reference": "urn:uuid:7bbe2dc6-0ad2-4bce-9f83-fed2a8fc2f0a"
     }
   },
   "fullUrl": "urn:uuid:5dd70d50-0a2e-4bb6-8ab6-cc178107f124"

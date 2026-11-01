@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "b46b7b1a-d9b0-41b2-94cd-9a9dcdc637f1",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-09T23:56:58-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - ENGLEWOOD",
     "address": [
       {
         "type": "physical",
-        "text": "300 Grand Avenue\nSuite 202",
+        "text": "300 Grand Avenue\r\nSuite 202\r\nEnglewood NJ 07631\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - ENGLEWOOD",
-          "300 Grand Avenue\nSuite 202"
+          "300 Grand Avenue\r\nSuite 202"
         ],
         "city": "Englewood",
         "state": "NJ",
-        "postalCode": "07631"
+        "postalCode": "07631",
+        "country": "US"
       }
     ],
     "partOf": {

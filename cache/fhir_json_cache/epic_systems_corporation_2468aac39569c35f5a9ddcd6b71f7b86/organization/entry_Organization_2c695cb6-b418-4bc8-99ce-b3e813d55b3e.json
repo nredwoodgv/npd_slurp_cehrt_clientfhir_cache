@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "2c695cb6-b418-4bc8-99ce-b3e813d55b3e",
     "meta": {
-      "lastUpdated": "2025-10-06T17:34:13-05:00"
+      "lastUpdated": "2026-10-26T23:31:03-05:00"
     },
     "active": true,
     "name": "Scheurer Health FastCare",
     "address": [
       {
         "type": "physical",
-        "text": "100 PIGEON RD\nTraverse City MI 48413\nUnited States of America",
+        "text": "100 PIGEON RD\r\nTraverse City MI 48413\r\nUnited States of America",
         "line": [
           "Scheurer Health FastCare",
           "100 PIGEON RD"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:44c69c6c-7dba-4d8c-b412-dfbeae673aa6"
+      "reference": "urn:uuid:7bbe2dc6-0ad2-4bce-9f83-fed2a8fc2f0a"
     }
   },
   "fullUrl": "urn:uuid:2c695cb6-b418-4bc8-99ce-b3e813d55b3e"

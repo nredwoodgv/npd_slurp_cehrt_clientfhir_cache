@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "5e9bf172-4235-44d6-ba43-de66b77fccbf",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:20-05:00"
+      "lastUpdated": "2026-10-28T02:12:48-05:00"
     },
     "active": true,
     "name": "UNLV Pediatrics@Shannon West Homelss Youth Center",
     "address": [
       {
         "type": "physical",
-        "text": "1650 Flamingo Rd\nLas Vegas NV 89119\nUnited States of America",
+        "text": "1650 Flamingo Rd\r\nLas Vegas NV 89119\r\nUnited States of America",
         "line": [
           "UNLV Pediatrics@Shannon West Homelss Youth Center",
           "1650 Flamingo Rd"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:bc5acbba-cab1-45ce-aada-7107819f1e1e"
+      "reference": "urn:uuid:4e5f9c87-054d-4f31-8571-cdbcb8c28dc2"
     }
   },
   "fullUrl": "urn:uuid:5e9bf172-4235-44d6-ba43-de66b77fccbf"

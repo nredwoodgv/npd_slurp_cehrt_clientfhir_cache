@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "ac9871b8-f90b-49d9-a507-92c1afcbc01f",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-09T23:56:58-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - WOODBURY",
     "address": [
       {
         "type": "physical",
-        "text": "17 W Red Bank Avenue\nSuite 303",
+        "text": "17 W Red Bank Avenue\r\nSuite 303\r\nWoodbury NJ 08096\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - WOODBURY",
-          "17 W Red Bank Avenue\nSuite 303"
+          "17 W Red Bank Avenue\r\nSuite 303"
         ],
         "city": "Woodbury",
         "state": "NJ",
-        "postalCode": "08096"
+        "postalCode": "08096",
+        "country": "US"
       }
     ],
     "partOf": {

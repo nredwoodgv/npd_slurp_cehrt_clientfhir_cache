@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700062296"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1336316975"
       },
       {
@@ -26,22 +30,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700062296"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1487087078"
       }
     ],
     "address": [
-      {
-        "line": [
-          "376 N Paiute Drive"
-        ],
-        "city": "CEDAR CITY",
-        "state": "UT",
-        "postalCode": "84721-6181"
-      },
       {
         "line": [
           "1449 North 1400 West",
@@ -53,11 +45,11 @@
       },
       {
         "line": [
-          "1449 N 1400 W STE 19"
+          "157 North Reservation Drive"
         ],
-        "city": "SAINT GEORGE",
+        "city": "KANOSH",
         "state": "UT",
-        "postalCode": "84770-5237"
+        "postalCode": "84637-0007"
       },
       {
         "line": [
@@ -69,27 +61,19 @@
       },
       {
         "line": [
-          "376 N PAIUTE DR"
+          "440 S Main"
         ],
-        "city": "CEDAR CITY",
+        "city": "RICHFIELD",
         "state": "UT",
-        "postalCode": "84721-6181"
+        "postalCode": "84701-2070"
       },
       {
         "line": [
-          "157 North Reservation Drive"
+          "1449 N 1400 W STE 19"
         ],
-        "city": "KANOSH",
+        "city": "SAINT GEORGE",
         "state": "UT",
-        "postalCode": "84637-0007"
-      },
-      {
-        "line": [
-          "440 North Paiute Drive"
-        ],
-        "city": "CEDAR CITY",
-        "state": "UT",
-        "postalCode": "84721-6181"
+        "postalCode": "84770-5237"
       },
       {
         "line": [
@@ -101,11 +85,19 @@
       },
       {
         "line": [
-          "440 S Main"
+          "376 N PAIUTE DR"
         ],
-        "city": "RICHFIELD",
+        "city": "CEDAR CITY",
         "state": "UT",
-        "postalCode": "84701-2070"
+        "postalCode": "84721-6181"
+      },
+      {
+        "line": [
+          "376 N Paiute Drive"
+        ],
+        "city": "CEDAR CITY",
+        "state": "UT",
+        "postalCode": "84721-6181"
       },
       {
         "line": [
@@ -114,6 +106,14 @@
         "city": "KANOSH",
         "state": "UT",
         "postalCode": "84637-7700"
+      },
+      {
+        "line": [
+          "440 North Paiute Drive"
+        ],
+        "city": "CEDAR CITY",
+        "state": "UT",
+        "postalCode": "84721-6181"
       }
     ],
     "extension": [

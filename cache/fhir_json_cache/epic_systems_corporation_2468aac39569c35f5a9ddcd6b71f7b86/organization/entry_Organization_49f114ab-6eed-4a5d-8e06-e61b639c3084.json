@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "49f114ab-6eed-4a5d-8e06-e61b639c3084",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:13-05:00"
+      "lastUpdated": "2026-10-08T23:09:17-05:00"
     },
     "active": true,
     "name": "NEW JERSEY UROLOGY - CLIFFSIDE PARK",
     "address": [
       {
         "type": "physical",
-        "text": "663 Palisade Avenue\nSuite 304",
+        "text": "663 Palisade Avenue\r\nSuite 304\r\nCLIFFSIDE PARK NJ 07010\r\nUnited States of America",
         "line": [
           "NEW JERSEY UROLOGY - CLIFFSIDE PARK",
-          "663 Palisade Avenue\nSuite 304"
+          "663 Palisade Avenue\r\nSuite 304"
         ],
         "city": "CLIFFSIDE PARK",
         "state": "NJ",
-        "postalCode": "07010"
+        "postalCode": "07010",
+        "country": "US"
       }
     ],
     "partOf": {

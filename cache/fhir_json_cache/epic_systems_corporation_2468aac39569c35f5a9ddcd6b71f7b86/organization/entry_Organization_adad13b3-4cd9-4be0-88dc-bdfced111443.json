@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "adad13b3-4cd9-4be0-88dc-bdfced111443",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Aspirus Wausau - Plaza",
     "address": [
       {
         "type": "physical",
-        "text": "2720 PLAZA DR STE 2200\nWausau WI 54401\nUS",
+        "text": "2720 PLAZA DR STE 2200\r\nWausau WI 54401\r\nUS",
         "line": [
           "UW Health Aspirus Wausau - Plaza",
           "2720 PLAZA DR STE 2200"
         ],
         "city": "Wausau",
         "state": "WI",
-        "postalCode": "54401"
+        "postalCode": "54401",
+        "country": "US"
       }
     ],
     "partOf": {

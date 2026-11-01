@@ -22,17 +22,13 @@
     "name": "Burnsville Family Physicians",
     "address": [
       {
-        "extension": [
-          {
-            "url": "http://hl7.org/fhir/StructureDefinition/data-absent-reason",
-            "valueCode": "unknown"
-          }
-        ]
+        "state": "MN",
+        "country": "USA"
       }
     ],
     "endpoint": [
       {
-        "reference": "urn:uuid:e7a7a41b-d91b-ec11-9150-001dd8b71f19"
+        "reference": "urn:uuid:f0d9c311-c1f9-4ab1-b838-f23eb9445e30"
       }
     ]
   },

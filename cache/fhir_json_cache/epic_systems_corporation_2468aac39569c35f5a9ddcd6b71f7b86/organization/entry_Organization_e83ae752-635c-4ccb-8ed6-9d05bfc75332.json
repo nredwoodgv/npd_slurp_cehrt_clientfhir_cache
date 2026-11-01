@@ -6,6 +6,18 @@
       {
         "system": "https://open.epic.com/brand-identifier",
         "value": "908-8"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386757854"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386757854"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386757854"
       }
     ],
     "active": true,
@@ -22,12 +34,8 @@
     "name": "Endoscopy Center of Connecticut",
     "address": [
       {
-        "extension": [
-          {
-            "url": "http://hl7.org/fhir/StructureDefinition/data-absent-reason",
-            "valueCode": "unknown"
-          }
-        ]
+        "state": "CT",
+        "country": "US"
       }
     ],
     "endpoint": [

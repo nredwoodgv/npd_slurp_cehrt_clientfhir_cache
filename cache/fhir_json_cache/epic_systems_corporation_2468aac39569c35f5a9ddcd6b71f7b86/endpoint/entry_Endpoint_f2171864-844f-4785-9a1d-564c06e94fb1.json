@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "686"
       },
-      "display": "Virtua Health"
+      "display": "Virtua Health, Inc."
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://epicproxy.et1017.epichosted.com/FHIRProxy/api/FHIR/R4"
+    "address": "https://epicproxy.et1017.epichosted.com/FHIRProxy/CHFC/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:f2171864-844f-4785-9a1d-564c06e94fb1"
 }

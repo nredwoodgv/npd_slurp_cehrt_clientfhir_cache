@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "077f7e9c-6fc6-4073-b45c-d93d4170aa29",
     "meta": {
-      "lastUpdated": "2025-12-06T17:08:24-06:00"
+      "lastUpdated": "2026-10-14T23:18:29-05:00"
     },
     "active": true,
     "name": "Paulding County Hospital Antwerp Clinic - S Erie St",
     "address": [
       {
         "type": "physical",
-        "text": "608 S Erie St\nANTWERP OH 45813\nUnited States of America",
+        "text": "608 S Erie St\r\nANTWERP OH 45813\r\nUnited States of America",
         "line": [
           "Paulding County Hospital Antwerp Clinic - S Erie St",
           "608 S Erie St"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:f66275a8-2e2b-47d8-956b-6e5763077d7f"
+      "reference": "urn:uuid:f7bb563d-0e1f-40d1-a1be-31f82730458b"
     }
   },
   "fullUrl": "urn:uuid:077f7e9c-6fc6-4073-b45c-d93d4170aa29"

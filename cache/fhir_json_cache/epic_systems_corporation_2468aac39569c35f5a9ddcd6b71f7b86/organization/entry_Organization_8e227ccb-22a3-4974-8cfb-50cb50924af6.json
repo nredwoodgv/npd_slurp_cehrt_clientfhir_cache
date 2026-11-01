@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "8e227ccb-22a3-4974-8cfb-50cb50924af6",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:10-05:00"
+      "lastUpdated": "2026-10-26T23:44:08-05:00"
     },
     "active": true,
     "name": "Mercy Howland Urgent Care",
     "address": [
       {
         "type": "physical",
-        "text": "1950 Niles Cortland Road\nWARREN OH 44484\nUnited States of America",
+        "text": "1950 Niles Cortland Road\r\nWARREN OH 44484\r\nUnited States of America",
         "line": [
           "Mercy Howland Urgent Care",
           "1950 Niles Cortland Road"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:c218f4cf-04a9-4f7e-b20a-effa30dc87bc"
+      "reference": "urn:uuid:c74482ff-4f4c-4cbf-892e-36d440163fc9"
     }
   },
   "fullUrl": "urn:uuid:8e227ccb-22a3-4974-8cfb-50cb50924af6"

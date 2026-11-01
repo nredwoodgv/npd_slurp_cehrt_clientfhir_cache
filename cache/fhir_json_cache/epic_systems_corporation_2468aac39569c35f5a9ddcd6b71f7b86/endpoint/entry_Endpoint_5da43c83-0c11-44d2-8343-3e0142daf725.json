@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "4099"
       },
-      "display": "DaVita"
+      "display": "DPS CKD, LLC"
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://epicproxy.et1087.epichosted.com/FHIRProxy/api/FHIR/R4"
+    "address": "https://epicproxy.et1087.epichosted.com/FHIRProxy/DAVITA/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:5da43c83-0c11-44d2-8343-3e0142daf725"
 }

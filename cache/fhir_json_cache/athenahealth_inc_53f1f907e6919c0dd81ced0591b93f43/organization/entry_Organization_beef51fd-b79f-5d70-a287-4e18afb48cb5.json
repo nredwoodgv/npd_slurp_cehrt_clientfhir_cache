@@ -14,27 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528556750"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063917425"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639111057"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952340911"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083014914"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538430533"
+        "value": "1902002272"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,15 +22,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902002272"
+        "value": "1538430533"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154584373"
+        "value": "1245769744"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376862151"
+        "value": "1952340911"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962933416"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,25 +46,33 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245769744"
+        "value": "1083014914"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962933416"
+        "value": "1376862151"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154584373"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528556750"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1063917425"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1639111057"
       }
     ],
     "address": [
       {
         "line": [
-          "801 BROADWAY AVE NW"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49504-4462"
-      },
-      {
-        "line": [
-          "200 JEFFERSON AVE SE"
+          "200 Jefferson Street SE"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
@@ -96,43 +88,11 @@
       },
       {
         "line": [
-          "2080 44TH ST SE"
+          "6050 NORTHLAND DR NE, STE 200"
         ],
-        "city": "KENTWOOD",
+        "city": "ROCKFORD",
         "state": "MI",
-        "postalCode": "49508-5299"
-      },
-      {
-        "line": [
-          "6741 Fulton ST E, STE 202"
-        ],
-        "city": "ADA",
-        "state": "MI",
-        "postalCode": "49301-9006"
-      },
-      {
-        "line": [
-          "2144  E PARIS AVE SE STE 200"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49546-6126"
-      },
-      {
-        "line": [
-          "200 Jefferson Street SE"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49503-4502"
-      },
-      {
-        "line": [
-          "6741 Fulton St E, STE 201"
-        ],
-        "city": "ADA",
-        "state": "MI",
-        "postalCode": "49301-9006"
+        "postalCode": "49341-9257"
       },
       {
         "line": [
@@ -144,35 +104,11 @@
       },
       {
         "line": [
-          "2144 E PARIS AVE SE, STE 200"
+          "200 JEFFERSON AVE SE"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49546-6126"
-      },
-      {
-        "line": [
-          "6050 NORTHLAND DR NE, STE 200"
-        ],
-        "city": "ROCKFORD",
-        "state": "MI",
-        "postalCode": "49341-9257"
-      },
-      {
-        "line": [
-          "2373 64TH ST SW, STE 1300"
-        ],
-        "city": "BYRON CENTER",
-        "state": "MI",
-        "postalCode": "49315-7975"
-      },
-      {
-        "line": [
-          "6741 Fulton ST E, STE 103"
-        ],
-        "city": "ADA",
-        "state": "MI",
-        "postalCode": "49301-9006"
+        "postalCode": "49503-4502"
       },
       {
         "line": [
@@ -184,11 +120,35 @@
       },
       {
         "line": [
-          "3290 N WELLNESS DR, STE 220"
+          "2080 44TH ST SE"
         ],
-        "city": "HOLLAND",
+        "city": "KENTWOOD",
         "state": "MI",
-        "postalCode": "49424-7261"
+        "postalCode": "49508-5299"
+      },
+      {
+        "line": [
+          "2144  E PARIS AVE SE STE 200"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49546-6126"
+      },
+      {
+        "line": [
+          "1471 E BELTLINE AVE NE, STE 101"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49525-4548"
+      },
+      {
+        "line": [
+          "6741 Fulton St E, STE 201"
+        ],
+        "city": "ADA",
+        "state": "MI",
+        "postalCode": "49301-9006"
       },
       {
         "line": [
@@ -200,11 +160,51 @@
       },
       {
         "line": [
-          "1471 E BELTLINE AVE NE, STE 101"
+          "6741 Fulton ST E, STE 202"
+        ],
+        "city": "ADA",
+        "state": "MI",
+        "postalCode": "49301-9006"
+      },
+      {
+        "line": [
+          "6741 Fulton ST E, STE 103"
+        ],
+        "city": "ADA",
+        "state": "MI",
+        "postalCode": "49301-9006"
+      },
+      {
+        "line": [
+          "2144 E PARIS AVE SE, STE 200"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49525-4548"
+        "postalCode": "49546-6126"
+      },
+      {
+        "line": [
+          "801 BROADWAY AVE NW"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49504-4462"
+      },
+      {
+        "line": [
+          "3290 N WELLNESS DR, STE 220"
+        ],
+        "city": "HOLLAND",
+        "state": "MI",
+        "postalCode": "49424-7261"
+      },
+      {
+        "line": [
+          "2373 64TH ST SW, STE 1300"
+        ],
+        "city": "BYRON CENTER",
+        "state": "MI",
+        "postalCode": "49315-7975"
       }
     ],
     "extension": [

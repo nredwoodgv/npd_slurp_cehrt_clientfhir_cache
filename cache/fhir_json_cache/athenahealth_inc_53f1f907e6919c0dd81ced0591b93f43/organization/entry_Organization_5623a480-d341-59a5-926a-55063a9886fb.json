@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1851037162"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1588433502"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821391442"
+        "value": "1851037162"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1295655587"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,10 +30,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295655587"
+        "value": "1821391442"
       }
     ],
     "address": [
+      {
+        "line": [
+          "6015 FAYETTEVILLE RD"
+        ],
+        "city": "DURHAM",
+        "state": "NC",
+        "postalCode": "27713-6254"
+      },
       {
         "line": [
           "1880 N STONEBRIDGE DR"
@@ -41,6 +49,14 @@
         "city": "MCKINNEY",
         "state": "TX",
         "postalCode": "75071-7438"
+      },
+      {
+        "line": [
+          "885 GOLD HILL RD"
+        ],
+        "city": "FORT MILL",
+        "state": "SC",
+        "postalCode": "29708-7946"
       },
       {
         "line": [
@@ -52,8 +68,7 @@
       },
       {
         "line": [
-          "233 S 13TH ST",
-          "STE 1100"
+          "233 S 13TH ST"
         ],
         "city": "LINCOLN",
         "state": "NE",
@@ -61,7 +76,8 @@
       },
       {
         "line": [
-          "233 S 13TH ST"
+          "233 S 13TH ST",
+          "STE 1100"
         ],
         "city": "LINCOLN",
         "state": "NE",
@@ -75,38 +91,6 @@
         "city": "IRVING",
         "state": "TX",
         "postalCode": "75038-3533"
-      },
-      {
-        "line": [
-          "6015 FAYETTEVILLE RD"
-        ],
-        "city": "DURHAM",
-        "state": "NC",
-        "postalCode": "27713-6254"
-      },
-      {
-        "line": [
-          "1233 N MAYFAIR RD"
-        ],
-        "city": "MILWAUKEE",
-        "state": "WI",
-        "postalCode": "53226-3255"
-      },
-      {
-        "line": [
-          "431 MASON PARK BLVD STE C"
-        ],
-        "city": "KATY",
-        "state": "TX",
-        "postalCode": "77450-6234"
-      },
-      {
-        "line": [
-          "885 GOLD HILL RD"
-        ],
-        "city": "FORT MILL",
-        "state": "SC",
-        "postalCode": "29708-7946"
       },
       {
         "line": [
@@ -124,6 +108,22 @@
         "city": "CHICAGO",
         "state": "IL",
         "postalCode": "60611-4264"
+      },
+      {
+        "line": [
+          "431 MASON PARK BLVD STE C"
+        ],
+        "city": "KATY",
+        "state": "TX",
+        "postalCode": "77450-6234"
+      },
+      {
+        "line": [
+          "1233 N MAYFAIR RD"
+        ],
+        "city": "MILWAUKEE",
+        "state": "WI",
+        "postalCode": "53226-3255"
       }
     ],
     "extension": [

@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "757e250a-0794-45b7-9825-27c7fa6209d4",
     "meta": {
-      "lastUpdated": "2025-10-06T17:33:52-05:00"
+      "lastUpdated": "2026-10-28T02:07:47-05:00"
     },
     "active": true,
     "name": "CommuniCare OLE",
     "address": [
       {
         "type": "physical",
-        "text": "1141 Pearr Tree Lane\nNapa CA 94559\nUnited States of America",
+        "text": "1141 Pearr Tree Lane\r\nNapa CA 94559\r\nUnited States of America",
         "line": [
           "CommuniCare OLE",
           "1141 Pearr Tree Lane"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:48169391-da87-4c0e-af4f-f5bc885502db"
+      "reference": "urn:uuid:32aea290-2d02-46c7-aaa0-e090af45f66d"
     }
   },
   "fullUrl": "urn:uuid:757e250a-0794-45b7-9825-27c7fa6209d4"

@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "aa0a5677-f03e-411b-95cc-fedffb75b189",
     "meta": {
-      "lastUpdated": "2025-12-06T17:08:24-06:00"
+      "lastUpdated": "2026-10-14T23:18:29-05:00"
     },
     "active": true,
     "name": "Riverview Noble Creek Dr",
     "address": [
       {
         "type": "physical",
-        "text": "205 Noble Creek Dr\nNOBLESVILLE IN 46060\nUnited States of America",
+        "text": "205 Noble Creek Dr\r\nNOBLESVILLE IN 46060\r\nUnited States of America",
         "line": [
           "Riverview Noble Creek Dr",
           "205 Noble Creek Dr"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:f66275a8-2e2b-47d8-956b-6e5763077d7f"
+      "reference": "urn:uuid:72177386-f0de-4824-a8cc-1192c19633bd"
     }
   },
   "fullUrl": "urn:uuid:aa0a5677-f03e-411b-95cc-fedffb75b189"

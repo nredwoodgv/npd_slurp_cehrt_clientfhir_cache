@@ -3,21 +3,22 @@
     "resourceType": "Organization",
     "id": "ffc927b5-5ad2-462f-a1e5-79a47c7fec39",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:55-05:00"
+      "lastUpdated": "2026-10-16T00:35:52-05:00"
     },
     "active": true,
     "name": "UW Health Rochelle Clinic",
     "address": [
       {
         "type": "physical",
-        "text": "380 Il-38 E \nRochelle IL 61068\nUS",
+        "text": "380 Il-38 E \r\nRochelle IL 61068\r\nUnited States of America",
         "line": [
           "UW Health Rochelle Clinic",
           "380 Il-38 E"
         ],
         "city": "Rochelle",
         "state": "IL",
-        "postalCode": "61068"
+        "postalCode": "61068",
+        "country": "US"
       }
     ],
     "partOf": {

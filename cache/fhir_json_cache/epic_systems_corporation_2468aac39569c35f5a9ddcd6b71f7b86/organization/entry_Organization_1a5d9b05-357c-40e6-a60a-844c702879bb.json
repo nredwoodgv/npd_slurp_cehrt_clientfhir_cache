@@ -22,17 +22,17 @@
     "name": "Barton Health",
     "address": [
       {
-        "extension": [
-          {
-            "url": "http://hl7.org/fhir/StructureDefinition/data-absent-reason",
-            "valueCode": "unknown"
-          }
-        ]
+        "state": "CA",
+        "country": "US"
+      },
+      {
+        "state": "NV",
+        "country": "US"
       }
     ],
     "endpoint": [
       {
-        "reference": "urn:uuid:469117d1-5759-40c2-bd92-f42afa2bf0a0"
+        "reference": "urn:uuid:6800d9f0-164d-400c-a591-fbd40a4aedae"
       }
     ]
   },

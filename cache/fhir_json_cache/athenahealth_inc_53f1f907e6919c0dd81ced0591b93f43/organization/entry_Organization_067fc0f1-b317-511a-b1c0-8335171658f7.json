@@ -14,11 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134774623"
+        "value": "1700690963"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982346326"
+        "value": "1386458552"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1134774623"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,15 +30,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700690963"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1922749399"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700690971"
+        "value": "1982346326"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,17 +42,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386458552"
+        "value": "1700690971"
       }
     ],
     "address": [
       {
         "line": [
-          "4295 5TH AVE"
+          "2870 MONTGOMERY HWY"
+        ],
+        "city": "DOTHAN",
+        "state": "AL",
+        "postalCode": "36303-2606"
+      },
+      {
+        "line": [
+          "3700 WILLIAMS DRIVE"
         ],
         "city": "MARIANNA",
         "state": "FL",
-        "postalCode": "32446-2176"
+        "postalCode": "32446-7973"
       },
       {
         "line": [
@@ -64,27 +72,11 @@
       },
       {
         "line": [
-          "2907 KERRY FOREST PKWY"
-        ],
-        "city": "TALLAHASSEE",
-        "state": "FL",
-        "postalCode": "32309-6825"
-      },
-      {
-        "line": [
-          "4719 Highway 90"
+          "4719 HWY 90"
         ],
         "city": "MARIANNA",
         "state": "FL",
         "postalCode": "32446-7839"
-      },
-      {
-        "line": [
-          "3700 WILLIAMS DRIVE"
-        ],
-        "city": "MARIANNA",
-        "state": "FL",
-        "postalCode": "32446-7973"
       },
       {
         "line": [
@@ -97,19 +89,11 @@
       },
       {
         "line": [
-          "2870 MONTGOMERY HWY"
+          "2907 KERRY FOREST PKWY"
         ],
-        "city": "DOTHAN",
-        "state": "AL",
-        "postalCode": "36303-2606"
-      },
-      {
-        "line": [
-          "4719 HWY 90"
-        ],
-        "city": "MARIANNA",
+        "city": "TALLAHASSEE",
         "state": "FL",
-        "postalCode": "32446-7839"
+        "postalCode": "32309-6825"
       },
       {
         "line": [
@@ -118,6 +102,22 @@
         "city": "MARIANNA",
         "state": "FL",
         "postalCode": "32446-7839"
+      },
+      {
+        "line": [
+          "4719 Highway 90"
+        ],
+        "city": "MARIANNA",
+        "state": "FL",
+        "postalCode": "32446-7839"
+      },
+      {
+        "line": [
+          "4295 5TH AVE"
+        ],
+        "city": "MARIANNA",
+        "state": "FL",
+        "postalCode": "32446-2176"
       }
     ],
     "extension": [

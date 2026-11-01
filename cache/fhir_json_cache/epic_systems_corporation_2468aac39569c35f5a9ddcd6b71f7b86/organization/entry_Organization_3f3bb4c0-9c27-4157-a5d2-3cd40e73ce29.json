@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "3f3bb4c0-9c27-4157-a5d2-3cd40e73ce29",
     "meta": {
-      "lastUpdated": "2025-10-06T17:34:13-05:00"
+      "lastUpdated": "2026-10-26T23:31:03-05:00"
     },
     "active": true,
     "name": "Scheurer Primary Care - Pigeon",
     "address": [
       {
         "type": "physical",
-        "text": "168 N Caseville Rd\nPigeon MI 48755\nUnited States of America",
+        "text": "168 N Caseville Rd\r\nPigeon MI 48755\r\nUnited States of America",
         "line": [
           "Scheurer Primary Care - Pigeon",
           "168 N Caseville Rd"
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:44c69c6c-7dba-4d8c-b412-dfbeae673aa6"
+      "reference": "urn:uuid:7bbe2dc6-0ad2-4bce-9f83-fed2a8fc2f0a"
     }
   },
   "fullUrl": "urn:uuid:3f3bb4c0-9c27-4157-a5d2-3cd40e73ce29"

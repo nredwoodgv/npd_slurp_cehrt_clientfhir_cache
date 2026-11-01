@@ -3,17 +3,17 @@
     "resourceType": "Organization",
     "id": "7b93c1e6-8895-427d-82eb-a47f9ac1dea0",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:23-05:00"
+      "lastUpdated": "2026-10-26T23:04:18-05:00"
     },
     "active": true,
-    "name": "Endoscopy Center of CT - Hamden",
+    "name": "Endoscopy Center of CT",
     "address": [
       {
         "type": "physical",
-        "text": "2200 Whitney Ave\nHamden CT 06518\nUnited States of America",
+        "text": "2200 Whitney Avenue\r\nHamden CT 06518\r\nUnited States of America",
         "line": [
-          "Endoscopy Center of CT - Hamden",
-          "2200 Whitney Ave"
+          "Endoscopy Center of CT",
+          "2200 Whitney Avenue"
         ],
         "city": "Hamden",
         "state": "CT",
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:5c1766d0-2d39-42ed-911b-22429d6f9d75"
+      "reference": "urn:uuid:e83ae752-635c-4ccb-8ed6-9d05bfc75332"
     }
   },
   "fullUrl": "urn:uuid:7b93c1e6-8895-427d-82eb-a47f9ac1dea0"

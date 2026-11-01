@@ -3,25 +3,26 @@
     "resourceType": "Organization",
     "id": "80304e7f-e245-4e67-8d8a-8dd285b67254",
     "meta": {
-      "lastUpdated": "2025-10-06T17:31:45-05:00"
+      "lastUpdated": "2026-10-28T02:14:34-05:00"
     },
     "active": true,
     "name": "Barton Memorial Hospital",
     "address": [
       {
         "type": "physical",
-        "text": "2170 SOUTH AVENUE\nSO LAKE TAHOE CA 96150-7026\nUnited States of America",
+        "text": "2170 SOUTH AVENUE\r\nSO LAKE TAHOE CA 96150-7026\r\n*United States of America",
         "line": [
           "Barton Memorial Hospital",
           "2170 SOUTH AVENUE"
         ],
         "city": "SO LAKE TAHOE",
         "state": "CA",
-        "postalCode": "96150-7026"
+        "postalCode": "96150-7026",
+        "country": "US"
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:018e9480-fcee-43fe-be2e-07d8c8043646"
+      "reference": "urn:uuid:1a5d9b05-357c-40e6-a60a-844c702879bb"
     }
   },
   "fullUrl": "urn:uuid:80304e7f-e245-4e67-8d8a-8dd285b67254"

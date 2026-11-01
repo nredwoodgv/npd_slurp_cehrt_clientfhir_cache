@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639111057"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528556750"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063917425"
+        "value": "1457863565"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,35 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376862151"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457863565"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902002272"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083014914"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1447456173"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538430533"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154584373"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760599906"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,18 +30,46 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902002272"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376862151"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1760599906"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154584373"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952340911"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1538430533"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1083014914"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1063917425"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1639111057"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528556750"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1000 EAST PARIS AVE SE, STE 200"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49546-8383"
-      },
       {
         "line": [
           "200 Jefferson Ave SE"
@@ -88,11 +80,11 @@
       },
       {
         "line": [
-          "200 JEFFERSON AVE SE"
+          "1000 EAST PARIS AVE SE, STE 200"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49503-4502"
+        "postalCode": "49546-8383"
       },
       {
         "line": [
@@ -101,6 +93,14 @@
         "city": "BYRON CENTER",
         "state": "MI",
         "postalCode": "49315-7974"
+      },
+      {
+        "line": [
+          "200 JEFFERSON AVE SE"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49503-4502"
       }
     ],
     "extension": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396655544"
+        "value": "1417443771"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417443771"
+        "value": "1396655544"
       }
     ],
     "address": [
@@ -32,19 +32,11 @@
       },
       {
         "line": [
-          "2012 Chandleer Forest Court"
+          "117 EAST KING'S HIGHWAY"
         ],
-        "city": "INDIAN TRAIL",
+        "city": "EDEN",
         "state": "NC",
-        "postalCode": "28079-3216"
-      },
-      {
-        "line": [
-          "896 Kite Road"
-        ],
-        "city": "MILLERS CREEK",
-        "state": "NC",
-        "postalCode": "28651-8502"
+        "postalCode": "27288-5201"
       },
       {
         "line": [
@@ -56,11 +48,11 @@
       },
       {
         "line": [
-          "117 EAST KING'S HIGHWAY"
+          "2012 Chandleer Forest Court"
         ],
-        "city": "EDEN",
+        "city": "INDIAN TRAIL",
         "state": "NC",
-        "postalCode": "27288-5201"
+        "postalCode": "28079-3216"
       },
       {
         "line": [
@@ -78,6 +70,14 @@
         "city": "CHARLOTTE",
         "state": "NC",
         "postalCode": "28202-3639"
+      },
+      {
+        "line": [
+          "896 Kite Road"
+        ],
+        "city": "MILLERS CREEK",
+        "state": "NC",
+        "postalCode": "28651-8502"
       }
     ],
     "extension": [

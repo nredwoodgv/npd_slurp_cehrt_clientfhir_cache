@@ -19,7 +19,7 @@
         "system": "https://fhir.epic.com/Developer/Management/OrganizationId",
         "value": "1515"
       },
-      "display": "Baptist Healthcare System"
+      "display": "Baptist Healthcare System, Inc."
     },
     "contact": [
       {
@@ -46,7 +46,7 @@
       "application/xml+fhir",
       "application/fhir+xml"
     ],
-    "address": "https://epicproxy.bhsi.com/PRD-FHIR/api/FHIR/R4"
+    "address": "https://epicproxy.bhsi.com/PRD-FHIR/BHSI/api/FHIR/R4"
   },
   "fullUrl": "urn:uuid:f204f30f-b129-40b4-945e-724930780dfa"
 }

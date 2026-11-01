@@ -14,21 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205431368"
+        "value": "1811432321"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811432321"
+        "value": "1205431368"
       }
     ],
     "address": [
       {
         "line": [
-          "5505 Roswell Rd."
+          "5505 Roswell Rd Ste 350A"
         ],
         "city": "ATLANTA",
         "state": "GA",
         "postalCode": "30342-1985"
+      },
+      {
+        "line": [
+          "4296 Memorial Dr"
+        ],
+        "city": "DECATUR",
+        "state": "GA",
+        "postalCode": "30032-1227"
       },
       {
         "line": [
@@ -41,20 +49,11 @@
       },
       {
         "line": [
-          "939 Bob Arnold Blvd",
-          "Suite G"
+          "403 Permian Way"
         ],
-        "city": "LITHIA SPRINGS",
+        "city": "VILLA RICA",
         "state": "GA",
-        "postalCode": "30122-3258"
-      },
-      {
-        "line": [
-          "5505 Roswell Rd Ste 350A"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30342-1985"
+        "postalCode": "30180-3226"
       },
       {
         "line": [
@@ -67,12 +66,11 @@
       },
       {
         "line": [
-          "403 Permian Way",
-          "Suite C & D"
+          "5505 Roswell Rd."
         ],
-        "city": "VILLA RICA",
+        "city": "ATLANTA",
         "state": "GA",
-        "postalCode": "30180-3226"
+        "postalCode": "30342-1985"
       },
       {
         "line": [
@@ -82,6 +80,15 @@
         "city": "VILLA RICA",
         "state": "GA",
         "postalCode": "30180-3252"
+      },
+      {
+        "line": [
+          "403 Permian Way",
+          "Suite C & D"
+        ],
+        "city": "VILLA RICA",
+        "state": "GA",
+        "postalCode": "30180-3226"
       },
       {
         "line": [
@@ -101,14 +108,6 @@
       },
       {
         "line": [
-          "403 Permian Way"
-        ],
-        "city": "VILLA RICA",
-        "state": "GA",
-        "postalCode": "30180-3226"
-      },
-      {
-        "line": [
           "403 Permian Way",
           "Suite D"
         ],
@@ -118,11 +117,12 @@
       },
       {
         "line": [
-          "4296 Memorial Dr"
+          "939 Bob Arnold Blvd",
+          "Suite G"
         ],
-        "city": "DECATUR",
+        "city": "LITHIA SPRINGS",
         "state": "GA",
-        "postalCode": "30032-1227"
+        "postalCode": "30122-3258"
       }
     ],
     "extension": [

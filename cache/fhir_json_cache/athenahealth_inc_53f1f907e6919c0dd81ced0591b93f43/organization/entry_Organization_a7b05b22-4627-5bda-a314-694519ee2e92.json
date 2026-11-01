@@ -14,14 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578577565"
+        "value": "1831530906"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831530906"
+        "value": "1578577565"
       }
     ],
     "address": [
+      {
+        "line": [
+          "300 20th Avenue North",
+          "Suite 505"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37203-2179"
+      },
       {
         "line": [
           "2300 Patterson Street"
@@ -49,21 +58,20 @@
       },
       {
         "line": [
+          "410 42ND AVE N STE 300"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37209-3656"
+      },
+      {
+        "line": [
           "2201 MURPHY AVE",
           "STE 207"
         ],
         "city": "NASHVILLE",
         "state": "TN",
         "postalCode": "37203-1954"
-      },
-      {
-        "line": [
-          "410 42ND AVE N",
-          "STE 300"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37209-3656"
       },
       {
         "line": [
@@ -81,15 +89,6 @@
         "city": "NASHVILLE",
         "state": "TN",
         "postalCode": "37203-2131"
-      },
-      {
-        "line": [
-          "300 20th Avenue North",
-          "Suite 505"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37203-2179"
       }
     ],
     "extension": [

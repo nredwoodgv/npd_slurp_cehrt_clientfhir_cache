@@ -14,38 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467962118"
+        "value": "1780151738"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780151738"
+        "value": "1467962118"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1105 BURMAN DR"
-        ],
-        "city": "JACKSONVILLE",
-        "state": "AR",
-        "postalCode": "72076-4386"
-      },
-      {
-        "line": [
-          "300 S Shackleford Rd"
-        ],
-        "city": "LITTLE ROCK",
-        "state": "AR",
-        "postalCode": "72211-5725"
-      },
-      {
-        "line": [
-          "300 S SHACKLEFORD RD"
-        ],
-        "city": "LITTLE ROCK",
-        "state": "AR",
-        "postalCode": "72211-5725"
-      },
       {
         "line": [
           "300 S. SHACKLEFORD RD"
@@ -61,6 +37,30 @@
         "city": "MALVERN",
         "state": "AR",
         "postalCode": "72104-4816"
+      },
+      {
+        "line": [
+          "300 S SHACKLEFORD RD"
+        ],
+        "city": "LITTLE ROCK",
+        "state": "AR",
+        "postalCode": "72211-5725"
+      },
+      {
+        "line": [
+          "1105 BURMAN DR"
+        ],
+        "city": "JACKSONVILLE",
+        "state": "AR",
+        "postalCode": "72076-4386"
+      },
+      {
+        "line": [
+          "300 S Shackleford Rd"
+        ],
+        "city": "LITTLE ROCK",
+        "state": "AR",
+        "postalCode": "72211-5725"
       }
     ],
     "extension": [

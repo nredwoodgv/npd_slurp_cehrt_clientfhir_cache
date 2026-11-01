@@ -3,14 +3,14 @@
     "resourceType": "Organization",
     "id": "90647a6e-c6a3-4e2e-b2e6-1785487783ce",
     "meta": {
-      "lastUpdated": "2025-10-06T17:32:47-05:00"
+      "lastUpdated": "2026-10-24T00:15:37-05:00"
     },
     "active": true,
     "name": "UT Health Medical Group - Quitman 606",
     "address": [
       {
         "type": "physical",
-        "text": "606 E. Goode St.\nQUITMAN TX 75783-2563\nUnited States of America",
+        "text": "606 E. Goode St.\r\nQUITMAN TX 75783-2563\r\nUnited States of America",
         "line": [
           "UT Health Medical Group - Quitman 606",
           "606 E. Goode St."
@@ -22,7 +22,7 @@
       }
     ],
     "partOf": {
-      "reference": "urn:uuid:86cd7df3-006d-4c3c-b5bf-7df70c6c0af8"
+      "reference": "urn:uuid:53afcfef-04ce-4063-8009-35707f095a87"
     }
   },
   "fullUrl": "urn:uuid:90647a6e-c6a3-4e2e-b2e6-1785487783ce"

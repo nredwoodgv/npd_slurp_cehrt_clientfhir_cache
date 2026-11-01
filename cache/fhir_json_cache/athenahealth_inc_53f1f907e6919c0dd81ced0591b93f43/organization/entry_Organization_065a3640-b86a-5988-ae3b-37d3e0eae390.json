@@ -18,6 +18,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104203371"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1093102857"
       },
       {
@@ -26,22 +30,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104203371"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1659768414"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3700 SOUTH MAIN STREET"
-        ],
-        "city": "BLACKSBURG",
-        "state": "VA",
-        "postalCode": "24060-7017"
-      },
       {
         "line": [
           "1900 ELECTRIC ROAD"
@@ -52,11 +44,19 @@
       },
       {
         "line": [
-          "2400 LEE HIGHWAY"
+          "3700 SOUTH MAIN STREET"
         ],
-        "city": "PULASKI",
+        "city": "BLACKSBURG",
         "state": "VA",
-        "postalCode": "24301-2326"
+        "postalCode": "24060-7017"
+      },
+      {
+        "line": [
+          "1 ARH LANE"
+        ],
+        "city": "LOW MOOR",
+        "state": "VA",
+        "postalCode": "24457-0007"
       },
       {
         "line": [
@@ -68,11 +68,11 @@
       },
       {
         "line": [
-          "1 ARH LANE"
+          "2400 LEE HIGHWAY"
         ],
-        "city": "LOW MOOR",
+        "city": "PULASKI",
         "state": "VA",
-        "postalCode": "24457-0007"
+        "postalCode": "24301-2326"
       }
     ],
     "extension": [
