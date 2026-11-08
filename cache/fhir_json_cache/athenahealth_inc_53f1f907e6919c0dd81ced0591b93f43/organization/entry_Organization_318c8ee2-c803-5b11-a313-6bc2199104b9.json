@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437554722"
+        "value": "1578126306"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578126306"
+        "value": "1437554722"
       }
     ],
     "address": [
-      {
-        "line": [
-          "7474 Greenway Center Drive",
-          "Suite 700B"
-        ],
-        "city": "GREENBELT",
-        "state": "MD",
-        "postalCode": "20770-3523"
-      },
       {
         "line": [
           "7474 Greenway Center Drive",
@@ -48,6 +39,15 @@
         "city": "GREENBELT",
         "state": "MD",
         "postalCode": "20770-9999"
+      },
+      {
+        "line": [
+          "7474 Greenway Center Drive",
+          "Suite 700B"
+        ],
+        "city": "GREENBELT",
+        "state": "MD",
+        "postalCode": "20770-3523"
       }
     ],
     "extension": [

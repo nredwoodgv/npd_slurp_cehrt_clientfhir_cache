@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528782042"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396782363"
       },
       {
@@ -23,10 +27,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1992752224"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528782042"
       }
     ],
     "address": [
@@ -44,7 +44,7 @@
         ],
         "city": "CARLINVILLE",
         "state": "IL",
-        "postalCode": "62626-3720"
+        "postalCode": "62626-3710"
       },
       {
         "line": [
@@ -52,7 +52,7 @@
         ],
         "city": "CARLINVILLE",
         "state": "IL",
-        "postalCode": "62626-3710"
+        "postalCode": "62626-3720"
       }
     ],
     "extension": [

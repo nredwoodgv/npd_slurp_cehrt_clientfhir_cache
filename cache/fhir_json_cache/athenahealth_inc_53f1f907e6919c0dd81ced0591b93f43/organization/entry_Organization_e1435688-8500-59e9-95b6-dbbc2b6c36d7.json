@@ -14,19 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326067315"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528128063"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821196148"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336175462"
+        "value": "1639108822"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,7 +22,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639108822"
+        "value": "1366981805"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821196148"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528128063"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336175462"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,7 +42,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366981805"
+        "value": "1326067315"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -52,12 +52,18 @@
     "address": [
       {
         "line": [
-          "260 Midway Medical Park",
-          "Ste 100"
+          "4221 FORT HENRY DRIVE",
+          "Ste 1"
         ],
+        "city": "KINGSPORT",
+        "state": "TN",
+        "postalCode": "37663-2256"
+      },
+      {
+        "line": [],
         "city": "BRISTOL",
         "state": "TN",
-        "postalCode": "37620-1602"
+        "postalCode": "37620-1726"
       },
       {
         "line": [
@@ -77,31 +83,25 @@
         "postalCode": "24273-2606"
       },
       {
-        "line": [],
-        "city": "KINGSPORT",
-        "state": "TN",
-        "postalCode": "37660-5904"
-      },
-      {
         "line": [
-          "4221 FORT HENRY DRIVE",
-          "Ste 1"
+          "260 Midway Medical Park",
+          "Ste 100"
         ],
-        "city": "KINGSPORT",
-        "state": "TN",
-        "postalCode": "37663-2256"
-      },
-      {
-        "line": [],
         "city": "BRISTOL",
         "state": "TN",
-        "postalCode": "37620-1726"
+        "postalCode": "37620-1602"
       },
       {
         "line": [],
         "city": "BRISTOL",
         "state": "TN",
         "postalCode": "37620-7429"
+      },
+      {
+        "line": [],
+        "city": "KINGSPORT",
+        "state": "TN",
+        "postalCode": "37660-5904"
       }
     ],
     "extension": [

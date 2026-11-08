@@ -14,18 +14,26 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417521857"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1942872890"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1619551744"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417521857"
       }
     ],
     "address": [
+      {
+        "line": [
+          "4901 GLENWOOD AVE"
+        ],
+        "city": "RALEIGH",
+        "state": "NC",
+        "postalCode": "27612-3853"
+      },
       {
         "line": [
           "15900 HIGHWAY 15 N"
@@ -41,14 +49,6 @@
         "city": "CRAWFORDSVILLE",
         "state": "IN",
         "postalCode": "47933-9421"
-      },
-      {
-        "line": [
-          "4901 GLENWOOD AVE"
-        ],
-        "city": "RALEIGH",
-        "state": "NC",
-        "postalCode": "27612-3853"
       }
     ],
     "extension": [

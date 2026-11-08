@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598225021"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861118846"
+        "value": "1396201000"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,11 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396201000"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548739170"
+        "value": "1861118846"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -39,6 +31,14 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1588226328"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598225021"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548739170"
       }
     ],
     "address": [
@@ -53,12 +53,11 @@
       },
       {
         "line": [
-          "54 Chickering Dr.",
-          "Suite A"
+          "12 Dallaire Ave"
         ],
-        "city": "BRATTLEBORO",
-        "state": "VT",
-        "postalCode": "05301-8805"
+        "city": "CHICOPEE",
+        "state": "MA",
+        "postalCode": "01020-1237"
       },
       {
         "line": [
@@ -68,15 +67,6 @@
         "city": "NORTH ADAMS",
         "state": "MA",
         "postalCode": "01247-2550"
-      },
-      {
-        "line": [
-          "409 Alfred St",
-          "Units 4 & 5"
-        ],
-        "city": "BIDDEFORD",
-        "state": "ME",
-        "postalCode": "04005-3756"
       },
       {
         "line": [
@@ -98,15 +88,6 @@
       },
       {
         "line": [
-          "41 Acme Rd",
-          "Suite 3"
-        ],
-        "city": "BREWER",
-        "state": "ME",
-        "postalCode": "04412-1543"
-      },
-      {
-        "line": [
           "462 Hegeman Ave"
         ],
         "city": "COLCHESTER",
@@ -115,11 +96,30 @@
       },
       {
         "line": [
-          "12 Dallaire Ave"
+          "54 Chickering Dr.",
+          "Suite A"
         ],
-        "city": "CHICOPEE",
-        "state": "MA",
-        "postalCode": "01020-1237"
+        "city": "BRATTLEBORO",
+        "state": "VT",
+        "postalCode": "05301-8805"
+      },
+      {
+        "line": [
+          "409 Alfred St",
+          "Units 4 & 5"
+        ],
+        "city": "BIDDEFORD",
+        "state": "ME",
+        "postalCode": "04005-3756"
+      },
+      {
+        "line": [
+          "41 Acme Rd",
+          "Suite 3"
+        ],
+        "city": "BREWER",
+        "state": "ME",
+        "postalCode": "04412-1543"
       },
       {
         "line": [

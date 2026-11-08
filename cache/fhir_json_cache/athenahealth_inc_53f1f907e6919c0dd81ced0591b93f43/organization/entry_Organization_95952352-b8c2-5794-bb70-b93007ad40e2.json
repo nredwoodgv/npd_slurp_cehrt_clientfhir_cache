@@ -14,18 +14,35 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104513126"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215676747"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1508576372"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104513126"
       }
     ],
     "address": [
+      {
+        "line": [
+          "501 MAIN ST"
+        ],
+        "city": "SANDSTONE",
+        "state": "MN",
+        "postalCode": "55072-4410"
+      },
+      {
+        "line": [
+          "255 HIGHWAY 97",
+          "UNIT 1A"
+        ],
+        "city": "FOREST LAKE",
+        "state": "MN",
+        "postalCode": "55025-2687"
+      },
       {
         "line": [
           "1300 NORTHRIDGE DRIVE"
@@ -33,6 +50,22 @@
         "city": "PINE CITY",
         "state": "MN",
         "postalCode": "55063-5846"
+      },
+      {
+        "line": [
+          "501 Main St"
+        ],
+        "city": "SANDSTONE",
+        "state": "MN",
+        "postalCode": "55072-4410"
+      },
+      {
+        "line": [
+          "501 Main Street"
+        ],
+        "city": "SANDSTONE",
+        "state": "MN",
+        "postalCode": "55072-6500"
       },
       {
         "line": [
@@ -52,31 +85,6 @@
       },
       {
         "line": [
-          "501 Main Street"
-        ],
-        "city": "SANDSTONE",
-        "state": "MN",
-        "postalCode": "55072-6500"
-      },
-      {
-        "line": [
-          "255 HIGHWAY 97",
-          "UNIT 1A"
-        ],
-        "city": "FOREST LAKE",
-        "state": "MN",
-        "postalCode": "55025-2687"
-      },
-      {
-        "line": [
-          "12760 Lake Blvs"
-        ],
-        "city": "LINDSTROM",
-        "state": "MN",
-        "postalCode": "55045-9585"
-      },
-      {
-        "line": [
           "1300 NORTHRIDGE CT NW"
         ],
         "city": "PINE CITY",
@@ -85,19 +93,11 @@
       },
       {
         "line": [
-          "501 MAIN ST"
+          "12760 Lake Blvs"
         ],
-        "city": "SANDSTONE",
+        "city": "LINDSTROM",
         "state": "MN",
-        "postalCode": "55072-4410"
-      },
-      {
-        "line": [
-          "501 Main St"
-        ],
-        "city": "SANDSTONE",
-        "state": "MN",
-        "postalCode": "55072-4410"
+        "postalCode": "55045-9585"
       },
       {
         "line": [

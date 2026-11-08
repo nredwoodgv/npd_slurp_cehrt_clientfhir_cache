@@ -14,21 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750814737"
+        "value": "1649501347"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649501347"
+        "value": "1750814737"
       }
     ],
     "address": [
       {
         "line": [
-          "2071 N Main"
+          "4214 Andrews Hwy",
+          "Suite 305"
         ],
-        "city": "FORT STOCKTON",
+        "city": "MIDLAND",
         "state": "TX",
-        "postalCode": "79735-3041"
+        "postalCode": "79703-4811"
       },
       {
         "line": [
@@ -40,6 +41,14 @@
       },
       {
         "line": [
+          "5609 Deauville"
+        ],
+        "city": "MIDLAND",
+        "state": "TX",
+        "postalCode": "79706-2870"
+      },
+      {
+        "line": [
           "500 W 4th St"
         ],
         "city": "ODESSA",
@@ -48,12 +57,19 @@
       },
       {
         "line": [
-          "4214 Andrews Hwy",
-          "Suite 305"
+          "1819 S Memorial"
         ],
-        "city": "MIDLAND",
+        "city": "PECOS",
         "state": "TX",
-        "postalCode": "79703-4811"
+        "postalCode": "79772-7036"
+      },
+      {
+        "line": [
+          "5001 Office Park"
+        ],
+        "city": "ODESSA",
+        "state": "TX",
+        "postalCode": "79762-4843"
       },
       {
         "line": [
@@ -66,11 +82,19 @@
       },
       {
         "line": [
-          "2200 W Illinois Ave"
+          "2071 N Main"
         ],
-        "city": "MIDLAND",
+        "city": "FORT STOCKTON",
         "state": "TX",
-        "postalCode": "79701-6407"
+        "postalCode": "79735-3041"
+      },
+      {
+        "line": [
+          "2323 TEXAS ST"
+        ],
+        "city": "PECOS",
+        "state": "TX",
+        "postalCode": "79772-7338"
       },
       {
         "line": [
@@ -79,14 +103,6 @@
         "city": "MIDLAND",
         "state": "TX",
         "postalCode": "79707-5572"
-      },
-      {
-        "line": [
-          "5001 Office Park"
-        ],
-        "city": "ODESSA",
-        "state": "TX",
-        "postalCode": "79762-4843"
       },
       {
         "line": [
@@ -99,27 +115,11 @@
       },
       {
         "line": [
-          "1819 S Memorial"
-        ],
-        "city": "PECOS",
-        "state": "TX",
-        "postalCode": "79772-7036"
-      },
-      {
-        "line": [
-          "2323 TEXAS ST"
-        ],
-        "city": "PECOS",
-        "state": "TX",
-        "postalCode": "79772-7338"
-      },
-      {
-        "line": [
-          "5609 Deauville"
+          "2200 W Illinois Ave"
         ],
         "city": "MIDLAND",
         "state": "TX",
-        "postalCode": "79706-2870"
+        "postalCode": "79701-6407"
       },
       {
         "line": [

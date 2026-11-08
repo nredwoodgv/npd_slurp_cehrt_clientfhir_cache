@@ -14,26 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346251451"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1336097831"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1790265445"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1346251451"
       }
     ],
     "address": [
-      {
-        "line": [
-          "700 Garden View Court Suite 204"
-        ],
-        "city": "ENCINITAS",
-        "state": "CA",
-        "postalCode": "92024-2478"
-      },
       {
         "line": [
           "354 SANTA FE DRIVE"
@@ -61,6 +53,14 @@
       {
         "line": [
           "700 GARDEN VIEW CT STE 204"
+        ],
+        "city": "ENCINITAS",
+        "state": "CA",
+        "postalCode": "92024-2478"
+      },
+      {
+        "line": [
+          "700 Garden View Court Suite 204"
         ],
         "city": "ENCINITAS",
         "state": "CA",

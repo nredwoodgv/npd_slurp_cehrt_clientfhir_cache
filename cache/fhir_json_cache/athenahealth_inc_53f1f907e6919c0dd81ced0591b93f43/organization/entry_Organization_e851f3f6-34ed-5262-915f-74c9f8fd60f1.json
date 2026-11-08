@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841811866"
+        "value": "1780903070"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780903070"
+        "value": "1841811866"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1 S CREEK DR STE 112"
-        ],
-        "city": "MONTICELLO",
-        "state": "KY",
-        "postalCode": "42633-9472"
-      },
       {
         "line": [
           "1 South Creek Dr",
@@ -41,8 +33,15 @@
       },
       {
         "line": [
-          "One South Creek Drive",
-          "Suite 112"
+          "1 S CREEK DR STE 112"
+        ],
+        "city": "MONTICELLO",
+        "state": "KY",
+        "postalCode": "42633-9472"
+      },
+      {
+        "line": [
+          "One South Creek Drive"
         ],
         "city": "MONTICELLO",
         "state": "KY",
@@ -58,7 +57,8 @@
       },
       {
         "line": [
-          "One South Creek Drive"
+          "One South Creek Drive",
+          "Suite 112"
         ],
         "city": "MONTICELLO",
         "state": "KY",

@@ -14,21 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932191822"
+        "value": "1952336869"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952336869"
+        "value": "1932191822"
       }
     ],
     "address": [
       {
         "line": [
-          "800 FairPark Blvd"
+          "2305 SPRINGHILL RD",
+          "SUITE 4"
         ],
-        "city": "LITTLE ROCK",
+        "city": "BENTON",
         "state": "AR",
-        "postalCode": "72204-1720"
+        "postalCode": "72019-7552"
       },
       {
         "line": [
@@ -48,20 +49,19 @@
       },
       {
         "line": [
+          "800 FairPark Blvd"
+        ],
+        "city": "LITTLE ROCK",
+        "state": "AR",
+        "postalCode": "72204-1720"
+      },
+      {
+        "line": [
           "6144 Hwy 5 North"
         ],
         "city": "BRYANT",
         "state": "AR",
         "postalCode": "72022-8516"
-      },
-      {
-        "line": [
-          "2305 SPRINGHILL RD",
-          "SUITE 4"
-        ],
-        "city": "BENTON",
-        "state": "AR",
-        "postalCode": "72019-7552"
       }
     ],
     "extension": [

@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083918577"
+        "value": "1609075324"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609075324"
+        "value": "1083918577"
       }
     ],
     "address": [
@@ -37,6 +37,22 @@
         "city": "OLD GREENWICH",
         "state": "CT",
         "postalCode": "06870-1674"
+      },
+      {
+        "line": [
+          "53 COURTLAND AVE"
+        ],
+        "city": "STAMFORD",
+        "state": "CT",
+        "postalCode": "06902-3401"
+      },
+      {
+        "line": [
+          "70 PARSONAGE RD"
+        ],
+        "city": "GREENWICH",
+        "state": "CT",
+        "postalCode": "06830-3941"
       },
       {
         "line": [
@@ -56,14 +72,6 @@
       },
       {
         "line": [
-          "8 WEST END AVENUE"
-        ],
-        "city": "OLD GREENWICH",
-        "state": "CT",
-        "postalCode": "06870-1642"
-      },
-      {
-        "line": [
           "8 W End Ave"
         ],
         "city": "OLD GREENWICH",
@@ -80,19 +88,11 @@
       },
       {
         "line": [
-          "70 PARSONAGE RD"
+          "8 WEST END AVENUE"
         ],
-        "city": "GREENWICH",
+        "city": "OLD GREENWICH",
         "state": "CT",
-        "postalCode": "06830-3941"
-      },
-      {
-        "line": [
-          "53 COURTLAND AVE"
-        ],
-        "city": "STAMFORD",
-        "state": "CT",
-        "postalCode": "06902-3401"
+        "postalCode": "06870-1642"
       }
     ],
     "extension": [

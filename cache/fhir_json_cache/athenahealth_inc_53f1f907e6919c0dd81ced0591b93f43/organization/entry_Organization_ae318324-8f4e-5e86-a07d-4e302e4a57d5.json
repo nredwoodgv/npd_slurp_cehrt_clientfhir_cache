@@ -14,45 +14,37 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871512160"
+        "value": "1578085296"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578085296"
+        "value": "1871512160"
       }
     ],
     "address": [
       {
         "line": [
-          "153 DOWELL ROAD"
+          "1903 W HEBRON LN"
         ],
-        "city": "RUSSELL SPRINGS",
+        "city": "SHEPHERDSVILLE",
         "state": "KY",
-        "postalCode": "42642-4579"
+        "postalCode": "40165-7425"
       },
       {
         "line": [
-          "4960 NORTON HEALTHCARE BLVD"
+          "200 ABRAHAM FLEXNER WAY"
         ],
         "city": "LOUISVILLE",
         "state": "KY",
-        "postalCode": "40241-2831"
+        "postalCode": "40202-2878"
       },
       {
         "line": [
-          "1004 GLENVIEW DR"
-        ],
-        "city": "GLASGOW",
-        "state": "KY",
-        "postalCode": "42141-3424"
-      },
-      {
-        "line": [
-          "2401 TERRA CROSSING BLVD"
+          "1850 Bluegrass Ave Ste 2"
         ],
         "city": "LOUISVILLE",
         "state": "KY",
-        "postalCode": "40245-5371"
+        "postalCode": "40215-1161"
       },
       {
         "line": [
@@ -65,27 +57,11 @@
       },
       {
         "line": [
-          "1313 ST ANTHONY PL"
+          "5601 SOUTH 3RD ST"
         ],
         "city": "LOUISVILLE",
         "state": "KY",
-        "postalCode": "40204-1740"
-      },
-      {
-        "line": [
-          "1301 N Race Street"
-        ],
-        "city": "GLASGOW",
-        "state": "KY",
-        "postalCode": "42141-3454"
-      },
-      {
-        "line": [
-          "807 Northgate Boulevard"
-        ],
-        "city": "NEW ALBANY",
-        "state": "IN",
-        "postalCode": "47150-6419"
+        "postalCode": "40214-2615"
       },
       {
         "line": [
@@ -97,11 +73,35 @@
       },
       {
         "line": [
-          "5601 SOUTH 3RD ST"
+          "1313 ST ANTHONY PL"
         ],
         "city": "LOUISVILLE",
         "state": "KY",
-        "postalCode": "40214-2615"
+        "postalCode": "40204-1740"
+      },
+      {
+        "line": [
+          "807 Northgate Boulevard"
+        ],
+        "city": "NEW ALBANY",
+        "state": "IN",
+        "postalCode": "47150-6419"
+      },
+      {
+        "line": [
+          "1301 N Race Street"
+        ],
+        "city": "GLASGOW",
+        "state": "KY",
+        "postalCode": "42141-3454"
+      },
+      {
+        "line": [
+          "4960 NORTON HEALTHCARE BLVD"
+        ],
+        "city": "LOUISVILLE",
+        "state": "KY",
+        "postalCode": "40241-2831"
       },
       {
         "line": [
@@ -113,44 +113,27 @@
       },
       {
         "line": [
+          "2401 TERRA CROSSING BLVD"
+        ],
+        "city": "LOUISVILLE",
+        "state": "KY",
+        "postalCode": "40245-5371"
+      },
+      {
+        "line": [
+          "1004 GLENVIEW DR"
+        ],
+        "city": "GLASGOW",
+        "state": "KY",
+        "postalCode": "42141-3424"
+      },
+      {
+        "line": [
           "313 Federal Drive"
         ],
         "city": "CORYDON",
         "state": "IN",
         "postalCode": "47112-3070"
-      },
-      {
-        "line": [
-          "104 HARDIN LN",
-          "STE B"
-        ],
-        "city": "SOMERSET",
-        "state": "KY",
-        "postalCode": "42503-3800"
-      },
-      {
-        "line": [
-          "1850 Bluegrass Ave Ste 2"
-        ],
-        "city": "LOUISVILLE",
-        "state": "KY",
-        "postalCode": "40215-1161"
-      },
-      {
-        "line": [
-          "8885 STATE ROAD 237"
-        ],
-        "city": "TELL CITY",
-        "state": "IN",
-        "postalCode": "47586-8567"
-      },
-      {
-        "line": [
-          "1903 W HEBRON LN"
-        ],
-        "city": "SHEPHERDSVILLE",
-        "state": "KY",
-        "postalCode": "40165-7425"
       },
       {
         "line": [
@@ -163,11 +146,28 @@
       },
       {
         "line": [
-          "200 ABRAHAM FLEXNER WAY"
+          "104 HARDIN LN",
+          "STE B"
         ],
-        "city": "LOUISVILLE",
+        "city": "SOMERSET",
         "state": "KY",
-        "postalCode": "40202-2878"
+        "postalCode": "42503-3800"
+      },
+      {
+        "line": [
+          "8885 STATE ROAD 237"
+        ],
+        "city": "TELL CITY",
+        "state": "IN",
+        "postalCode": "47586-8567"
+      },
+      {
+        "line": [
+          "153 DOWELL ROAD"
+        ],
+        "city": "RUSSELL SPRINGS",
+        "state": "KY",
+        "postalCode": "42642-4579"
       },
       {
         "line": [

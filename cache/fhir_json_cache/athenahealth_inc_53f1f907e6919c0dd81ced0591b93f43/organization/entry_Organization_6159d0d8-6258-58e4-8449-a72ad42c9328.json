@@ -18,11 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023204062"
+        "value": "1194768721"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194768721"
+        "value": "1023204062"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,6 +30,22 @@
       }
     ],
     "address": [
+      {
+        "line": [
+          "3000 Medical Center Pkway"
+        ],
+        "city": "BENTONVILLE",
+        "state": "AR",
+        "postalCode": "72712-3217"
+      },
+      {
+        "line": [
+          "609 W. Maple Ave."
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72764-5335"
+      },
       {
         "line": [
           "609 W Maple Ave"
@@ -40,23 +56,7 @@
       },
       {
         "line": [
-          "3000 Medical Ctr Pkwy"
-        ],
-        "city": "BENTONVILLE",
-        "state": "AR",
-        "postalCode": "72712-3217"
-      },
-      {
-        "line": [
           "609 W. Maple Ave"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72764-5335"
-      },
-      {
-        "line": [
-          "609 W MAPLE AVE"
         ],
         "city": "SPRINGDALE",
         "state": "AR",
@@ -72,11 +72,11 @@
       },
       {
         "line": [
-          "609 W. Maple Ave."
+          "3000 Medical Ctr Pkwy"
         ],
-        "city": "SPRINGDALE",
+        "city": "BENTONVILLE",
         "state": "AR",
-        "postalCode": "72764-5335"
+        "postalCode": "72712-3217"
       },
       {
         "line": [
@@ -96,11 +96,19 @@
       },
       {
         "line": [
-          "3000 Medical Center Pkway"
+          "609 W. Maple"
         ],
-        "city": "BENTONVILLE",
+        "city": "SPRINGDALE",
         "state": "AR",
-        "postalCode": "72712-3217"
+        "postalCode": "72764-5335"
+      },
+      {
+        "line": [
+          "609 W MAPLE AVE"
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72764-5335"
       },
       {
         "line": [
@@ -110,14 +118,6 @@
         "city": "BENTONVILLE",
         "state": "AR",
         "postalCode": "72712-3204"
-      },
-      {
-        "line": [
-          "609 W. Maple"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72764-5335"
       }
     ],
     "extension": [

@@ -14,17 +14,17 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346044401"
+        "value": "1396961322"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396961322"
+        "value": "1346044401"
       }
     ],
     "address": [
       {
         "line": [
-          "6250 Regional Plaza Ste 1000"
+          "6250 REGIONAL PLZ STE 1016"
         ],
         "city": "ABILENE",
         "state": "TX",
@@ -48,19 +48,19 @@
       },
       {
         "line": [
-          "6250 REGIONAL PLZ STE 1016"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79606-5223"
-      },
-      {
-        "line": [
           "1150 N 18TH ST STE 300"
         ],
         "city": "ABILENE",
         "state": "TX",
         "postalCode": "79601-2931"
+      },
+      {
+        "line": [
+          "6250 Regional Plaza Ste 1000"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79606-5223"
       }
     ],
     "extension": [

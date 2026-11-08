@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
+        "value": "1881656247"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669801585"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,7 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
+        "value": "1124080320"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,11 +42,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
+        "value": "1053373951"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
+        "value": "1750302923"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -56,27 +56,11 @@
     "address": [
       {
         "line": [
-          "2001 E 29th St"
-        ],
-        "city": "BRYAN",
-        "state": "TX",
-        "postalCode": "77802-1954"
-      },
-      {
-        "line": [
           "1604 Rock Prairie Rd"
         ],
         "city": "COLLEGE STATION",
         "state": "TX",
         "postalCode": "77845-8345"
-      },
-      {
-        "line": [
-          "2505 Villa Maria Rd"
-        ],
-        "city": "BRYAN",
-        "state": "TX",
-        "postalCode": "77802-2038"
       },
       {
         "line": [
@@ -88,11 +72,19 @@
       },
       {
         "line": [
-          "1115 Anderson"
+          "1602 Rock Prairie Ste 2400"
         ],
         "city": "COLLEGE STATION",
         "state": "TX",
-        "postalCode": "77840-4465"
+        "postalCode": "77845-0001"
+      },
+      {
+        "line": [
+          "2505 Villa Maria Rd"
+        ],
+        "city": "BRYAN",
+        "state": "TX",
+        "postalCode": "77802-2038"
       },
       {
         "line": [
@@ -112,11 +104,19 @@
       },
       {
         "line": [
-          "1602 Rock Prairie Ste 2400"
+          "2001 E 29th St"
+        ],
+        "city": "BRYAN",
+        "state": "TX",
+        "postalCode": "77802-1954"
+      },
+      {
+        "line": [
+          "1115 Anderson"
         ],
         "city": "COLLEGE STATION",
         "state": "TX",
-        "postalCode": "77845-0001"
+        "postalCode": "77840-4465"
       }
     ],
     "extension": [

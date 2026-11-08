@@ -14,11 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467884262"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437557519"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1942508379"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467884262"
+        "value": "1285614834"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -31,33 +39,9 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1154794261"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285614834"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437557519"
       }
     ],
     "address": [
-      {
-        "line": [
-          "201 Boston Post Rd. West"
-        ],
-        "city": "MARLBOROUGH",
-        "state": "MA",
-        "postalCode": "01752-3200"
-      },
-      {
-        "line": [
-          "54 Baker Ave. Ext. Suite 305"
-        ],
-        "city": "CONCORD",
-        "state": "MA",
-        "postalCode": "01742-2132"
-      },
       {
         "line": [
           "386 Washington Street"
@@ -68,11 +52,27 @@
       },
       {
         "line": [
+          "201 Boston Post Rd. West"
+        ],
+        "city": "MARLBOROUGH",
+        "state": "MA",
+        "postalCode": "01752-3200"
+      },
+      {
+        "line": [
           "190 Groton Road"
         ],
         "city": "AYER",
         "state": "MA",
         "postalCode": "01432-1124"
+      },
+      {
+        "line": [
+          "54 Baker Ave. Ext. Suite 305"
+        ],
+        "city": "CONCORD",
+        "state": "MA",
+        "postalCode": "01742-2132"
       },
       {
         "line": [

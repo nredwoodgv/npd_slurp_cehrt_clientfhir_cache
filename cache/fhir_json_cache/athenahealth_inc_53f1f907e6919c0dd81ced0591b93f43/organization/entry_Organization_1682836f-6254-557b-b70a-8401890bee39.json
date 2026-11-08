@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881401552"
+        "value": "1114689007"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1801501622"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,11 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114689007"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801501622"
+        "value": "1881401552"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,11 +36,12 @@
     "address": [
       {
         "line": [
-          "1303 WOODBURY AVE"
+          "360 US 1 Bypass",
+          "Unit 102"
         ],
         "city": "PORTSMOUTH",
         "state": "NH",
-        "postalCode": "03801-3217"
+        "postalCode": "03801-7105"
       },
       {
         "line": [
@@ -52,12 +53,11 @@
       },
       {
         "line": [
-          "360 US 1 Bypass",
-          "Unit 102"
+          "1303 WOODBURY AVE"
         ],
         "city": "PORTSMOUTH",
         "state": "NH",
-        "postalCode": "03801-7105"
+        "postalCode": "03801-3217"
       }
     ],
     "extension": [

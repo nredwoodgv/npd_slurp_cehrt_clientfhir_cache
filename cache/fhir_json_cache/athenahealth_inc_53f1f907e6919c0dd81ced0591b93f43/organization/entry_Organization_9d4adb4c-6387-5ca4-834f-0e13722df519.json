@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013031368"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932402484"
       },
       {
@@ -22,31 +26,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013031368"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649228966"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2323 Memorial Ave",
-          "Suite 10"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24501-2661"
-      },
-      {
-        "line": [
-          "2406 ATHERHOLT RD"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24501-2148"
-      },
       {
         "line": [
           "1901 Tate Springs Rd"
@@ -66,6 +49,14 @@
       },
       {
         "line": [
+          "2406 ATHERHOLT RD"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24501-2148"
+      },
+      {
+        "line": [
           "3300 Rivermont Ave"
         ],
         "city": "LYNCHBURG",
@@ -79,6 +70,15 @@
         "city": "LYNCHBURG",
         "state": "VA",
         "postalCode": "24503-4638"
+      },
+      {
+        "line": [
+          "2323 Memorial Ave",
+          "Suite 10"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24501-2661"
       }
     ],
     "extension": [

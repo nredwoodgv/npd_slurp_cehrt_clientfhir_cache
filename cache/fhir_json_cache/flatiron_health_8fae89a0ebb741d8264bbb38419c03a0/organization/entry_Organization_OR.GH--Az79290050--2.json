@@ -54,6 +54,42 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235741638"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1639264575"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1437494861"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225081912"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811955651"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669430542"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821341629"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285692178"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457303083"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "14016064"
       },
       {
@@ -154,10 +190,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225081912"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1326503749"
       },
       {
@@ -179,38 +211,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1992861314"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235741638"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639264575"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437494861"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811955651"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669430542"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821341629"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285692178"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457303083"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -342,6 +342,34 @@
       },
       {
         "system": "phone",
+        "value": "(423)752-5004"
+      },
+      {
+        "system": "phone",
+        "value": "(423)490-9080"
+      },
+      {
+        "system": "phone",
+        "value": "(615)860-1556"
+      },
+      {
+        "system": "phone",
+        "value": "(615)333-2481"
+      },
+      {
+        "system": "phone",
+        "value": "(615)721-0321"
+      },
+      {
+        "system": "phone",
+        "value": "(615)384-5558"
+      },
+      {
+        "system": "phone",
+        "value": "(931)906-2004"
+      },
+      {
+        "system": "phone",
         "value": "(931)342-1753"
       },
       {
@@ -447,34 +475,6 @@
       {
         "system": "phone",
         "value": "(615)890-5858"
-      },
-      {
-        "system": "phone",
-        "value": "(423)752-5004"
-      },
-      {
-        "system": "phone",
-        "value": "(423)490-9080"
-      },
-      {
-        "system": "phone",
-        "value": "(615)860-1556"
-      },
-      {
-        "system": "phone",
-        "value": "(615)333-2481"
-      },
-      {
-        "system": "phone",
-        "value": "(615)721-0321"
-      },
-      {
-        "system": "phone",
-        "value": "(615)384-5558"
-      },
-      {
-        "system": "phone",
-        "value": "(931)906-2004"
       },
       {
         "system": "phone",
@@ -697,6 +697,113 @@
         "city": "Cleveland",
         "state": "TN",
         "postalCode": "37312-3732",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1032 McCallie Avenue",
+          "Ste 200"
+        ],
+        "city": "Chattanooga",
+        "state": "TN",
+        "postalCode": "37403",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "979 E 3rd Street",
+          "Suiter G-15"
+        ],
+        "city": "Chattanooga",
+        "state": "TN",
+        "postalCode": "37403-2103",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "605 Glenwood Drive",
+          "Suite 200"
+        ],
+        "city": "Chattanooga",
+        "state": "TN",
+        "postalCode": "37404",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "4220 Harding Road",
+          "S&E Building Suite 200"
+        ],
+        "city": "Nashville",
+        "state": "TN",
+        "postalCode": "37205",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "3443 Dickerson Pike",
+          "Suite 760"
+        ],
+        "city": "Nashville",
+        "state": "TN",
+        "postalCode": "37207",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "397 Wallace Road",
+          "Building C Suite 201"
+        ],
+        "city": "Nashville",
+        "state": "TN",
+        "postalCode": "37211",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "5073 Main Street",
+          "Suite 210"
+        ],
+        "city": "Spring Hill",
+        "state": "TN",
+        "postalCode": "37174",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "504 22nd Avenue East"
+        ],
+        "city": "Springfield",
+        "state": "TN",
+        "postalCode": "37172",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "776 Weatherly Drive",
+          "Suite A"
+        ],
+        "city": "Clarksville",
+        "state": "TN",
+        "postalCode": "37043",
         "country": "USA"
       },
       {
@@ -1083,113 +1190,6 @@
         "city": "Nashville",
         "state": "TN",
         "postalCode": "37203-0002",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1032 McCallie Avenue",
-          "Ste 200"
-        ],
-        "city": "Chattanooga",
-        "state": "TN",
-        "postalCode": "37403",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "979 E 3rd Street",
-          "Suiter G-15"
-        ],
-        "city": "Chattanooga",
-        "state": "TN",
-        "postalCode": "37403-2103",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "605 Glenwood Drive",
-          "Suite 200"
-        ],
-        "city": "Chattanooga",
-        "state": "TN",
-        "postalCode": "37404",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "4220 Harding Road",
-          "S&E Building Suite 200"
-        ],
-        "city": "Nashville",
-        "state": "TN",
-        "postalCode": "37205",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "3443 Dickerson Pike",
-          "Suite 760"
-        ],
-        "city": "Nashville",
-        "state": "TN",
-        "postalCode": "37207",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "397 Wallace Road",
-          "Building C Suite 201"
-        ],
-        "city": "Nashville",
-        "state": "TN",
-        "postalCode": "37211",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "5073 Main Street",
-          "Suite 210"
-        ],
-        "city": "Spring Hill",
-        "state": "TN",
-        "postalCode": "37174",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "504 22nd Avenue East"
-        ],
-        "city": "Springfield",
-        "state": "TN",
-        "postalCode": "37172",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "776 Weatherly Drive",
-          "Suite A"
-        ],
-        "city": "Clarksville",
-        "state": "TN",
-        "postalCode": "37043",
         "country": "USA"
       },
       {

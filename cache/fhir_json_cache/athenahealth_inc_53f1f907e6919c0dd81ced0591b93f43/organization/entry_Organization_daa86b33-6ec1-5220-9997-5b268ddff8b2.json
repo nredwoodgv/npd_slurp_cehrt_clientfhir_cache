@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558521179"
+        "value": "1861378168"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861378168"
+        "value": "1558521179"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2203 W Lampasas Street",
-          "Suite 202"
-        ],
-        "city": "ENNIS",
-        "state": "TX",
-        "postalCode": "75119-5666"
-      },
       {
         "line": [
           "2500 Yorkstown"
@@ -43,6 +34,15 @@
         "line": [
           "2203 W Lampasas Street",
           "Suite 210"
+        ],
+        "city": "ENNIS",
+        "state": "TX",
+        "postalCode": "75119-5666"
+      },
+      {
+        "line": [
+          "2203 W Lampasas Street",
+          "Suite 202"
         ],
         "city": "ENNIS",
         "state": "TX",

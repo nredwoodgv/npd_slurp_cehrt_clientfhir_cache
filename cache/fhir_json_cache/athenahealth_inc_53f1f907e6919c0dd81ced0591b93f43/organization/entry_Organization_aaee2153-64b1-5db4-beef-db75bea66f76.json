@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043453517"
+        "value": "1386682011"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,10 +22,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386682011"
+        "value": "1043453517"
       }
     ],
     "address": [
+      {
+        "line": [
+          "54 SGT S PRENTISS DR"
+        ],
+        "city": "NATCHEZ",
+        "state": "MS",
+        "postalCode": "39120-4782"
+      },
       {
         "line": [
           "46 SGT PRENTISS DR STE 301"
@@ -42,14 +50,6 @@
         "city": "NATCHEZ",
         "state": "MS",
         "postalCode": "39120-4753"
-      },
-      {
-        "line": [
-          "54 SGT S PRENTISS DR"
-        ],
-        "city": "NATCHEZ",
-        "state": "MS",
-        "postalCode": "39120-4782"
       }
     ],
     "extension": [

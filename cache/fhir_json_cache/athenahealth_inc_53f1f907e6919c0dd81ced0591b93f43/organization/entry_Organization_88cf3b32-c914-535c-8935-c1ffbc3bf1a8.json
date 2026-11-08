@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225357395"
+        "value": "1700934593"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316939101"
+        "value": "1225357395"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,41 +26,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700934593"
+        "value": "1316939101"
       }
     ],
     "address": [
       {
         "line": [
-          "7400 E. OSBORN RD"
+          "3535 N. SCOTTSDALE RD"
         ],
         "city": "SCOTTSDALE",
         "state": "AZ",
-        "postalCode": "85251-6432"
-      },
-      {
-        "line": [
-          "250 E. DUNLAP AVE."
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85020-2825"
-      },
-      {
-        "line": [
-          "1111 E. MCDOWELL RD"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85006-2612"
-      },
-      {
-        "line": [
-          "350 W THOMAS RD"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85013-4409"
+        "postalCode": "85251-5625"
       },
       {
         "line": [
@@ -80,6 +56,22 @@
       },
       {
         "line": [
+          "250 E. DUNLAP AVE."
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85020-2825"
+      },
+      {
+        "line": [
+          "1111 E. MCDOWELL RD"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85006-2612"
+      },
+      {
+        "line": [
           "350 W. THOMAS RD"
         ],
         "city": "PHOENIX",
@@ -88,11 +80,19 @@
       },
       {
         "line": [
-          "3535 N. SCOTTSDALE RD"
+          "7400 E. OSBORN RD"
         ],
         "city": "SCOTTSDALE",
         "state": "AZ",
-        "postalCode": "85251-5625"
+        "postalCode": "85251-6432"
+      },
+      {
+        "line": [
+          "350 W THOMAS RD"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85013-4409"
       },
       {
         "line": [

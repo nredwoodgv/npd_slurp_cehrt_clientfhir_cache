@@ -10,11 +10,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316914161"
+        "value": "000000000"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "000000000"
+        "value": "1316914161"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,14 +26,36 @@
     "telecom": [
       {
         "system": "phone",
-        "value": "(864)512-1658"
+        "value": "(555)867-5309"
       },
       {
         "system": "phone",
-        "value": "(555)867-5309"
+        "value": "(864)512-1658"
       }
     ],
     "address": [
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1313 Mockingbird Lane"
+        ],
+        "city": "Mockingbird Heights",
+        "state": "CA",
+        "postalCode": "90210",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1313 Mockingbird Lane"
+        ],
+        "city": "Mockingbird Heights",
+        "state": "CA",
+        "postalCode": "90210",
+        "country": "USA"
+      },
       {
         "use": "work",
         "type": "postal",
@@ -44,28 +66,6 @@
         "city": "Anderson",
         "state": "SC",
         "postalCode": "29621",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1313 Mockingbird Lane"
-        ],
-        "city": "Mockingbird Heights",
-        "state": "CA",
-        "postalCode": "90210",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1313 Mockingbird Lane"
-        ],
-        "city": "Mockingbird Heights",
-        "state": "CA",
-        "postalCode": "90210",
         "country": "USA"
       },
       {

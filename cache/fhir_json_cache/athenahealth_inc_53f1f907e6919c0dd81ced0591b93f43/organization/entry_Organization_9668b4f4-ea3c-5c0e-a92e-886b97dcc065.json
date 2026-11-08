@@ -22,15 +22,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578327037"
+        "value": "1306553177"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528775251"
+        "value": "1871200501"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1477209740"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1255048443"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578327037"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,15 +50,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306553177"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477209740"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871200501"
+        "value": "1528775251"
       }
     ],
     "address": [
@@ -65,20 +65,20 @@
       },
       {
         "line": [
-          "5209 Burnet Rd Unit 300"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78756-2443"
-      },
-      {
-        "line": [
           "5209 BURNET RD",
           "UNIT 300"
         ],
         "city": "AUSTIN",
         "state": "TX",
         "postalCode": "78701-2402"
+      },
+      {
+        "line": [
+          "2401 HASSELL RD STE 1510"
+        ],
+        "city": "HOFFMAN ESTATES",
+        "state": "IL",
+        "postalCode": "60169-7241"
       },
       {
         "line": [
@@ -100,11 +100,11 @@
       },
       {
         "line": [
-          "2401 HASSELL RD STE 1510"
+          "5209 Burnet Rd Unit 300"
         ],
-        "city": "HOFFMAN ESTATES",
-        "state": "IL",
-        "postalCode": "60169-7241"
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78756-2443"
       }
     ],
     "extension": [

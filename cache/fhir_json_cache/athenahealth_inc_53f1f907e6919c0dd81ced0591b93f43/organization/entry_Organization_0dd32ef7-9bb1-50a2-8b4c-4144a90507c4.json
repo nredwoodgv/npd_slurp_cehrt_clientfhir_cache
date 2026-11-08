@@ -14,46 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346044401"
+        "value": "1396961322"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396961322"
+        "value": "1346044401"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1633 COTTONWOOD ST"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79601-3033"
-      },
-      {
-        "line": [
-          "5302 BUFFALO GAP RD STE 101"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79606-4248"
-      },
-      {
-        "line": [
-          "310 S PECOS ST"
-        ],
-        "city": "COLEMAN",
-        "state": "TX",
-        "postalCode": "76834-4159"
-      },
-      {
-        "line": [
-          "304 S DAUGHERTY AVE"
-        ],
-        "city": "EASTLAND",
-        "state": "TX",
-        "postalCode": "76448-2609"
-      },
       {
         "line": [
           "1 AVENUE N"
@@ -64,11 +32,11 @@
       },
       {
         "line": [
-          "2210 CROCKETT DRIVE"
+          "1633 COTTONWOOD ST"
         ],
-        "city": "BROWNWOOD",
+        "city": "ABILENE",
         "state": "TX",
-        "postalCode": "76801-5902"
+        "postalCode": "79601-3033"
       },
       {
         "line": [
@@ -80,19 +48,11 @@
       },
       {
         "line": [
-          "7821 TX-153"
+          "2008 NINE RD"
         ],
-        "city": "WINTERS",
+        "city": "BRADY",
         "state": "TX",
-        "postalCode": "79567-7345"
-      },
-      {
-        "line": [
-          "403 W Wallace St"
-        ],
-        "city": "SAN SABA",
-        "state": "TX",
-        "postalCode": "76877-4433"
+        "postalCode": "76825-7210"
       },
       {
         "line": [
@@ -104,19 +64,59 @@
       },
       {
         "line": [
-          "2008 NINE RD"
-        ],
-        "city": "BRADY",
-        "state": "TX",
-        "postalCode": "76825-7210"
-      },
-      {
-        "line": [
           "203 S GENEVA ST"
         ],
         "city": "BRECKENRIDGE",
         "state": "TX",
         "postalCode": "76424-4701"
+      },
+      {
+        "line": [
+          "403 W Wallace St"
+        ],
+        "city": "SAN SABA",
+        "state": "TX",
+        "postalCode": "76877-4433"
+      },
+      {
+        "line": [
+          "5302 BUFFALO GAP RD STE 101"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79606-4248"
+      },
+      {
+        "line": [
+          "304 S DAUGHERTY AVE"
+        ],
+        "city": "EASTLAND",
+        "state": "TX",
+        "postalCode": "76448-2609"
+      },
+      {
+        "line": [
+          "7821 TX-153"
+        ],
+        "city": "WINTERS",
+        "state": "TX",
+        "postalCode": "79567-7345"
+      },
+      {
+        "line": [
+          "310 S PECOS ST"
+        ],
+        "city": "COLEMAN",
+        "state": "TX",
+        "postalCode": "76834-4159"
+      },
+      {
+        "line": [
+          "2210 CROCKETT DRIVE"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-5902"
       }
     ],
     "extension": [

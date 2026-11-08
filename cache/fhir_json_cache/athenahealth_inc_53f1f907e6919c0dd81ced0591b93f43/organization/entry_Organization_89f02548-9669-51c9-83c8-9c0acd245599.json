@@ -14,29 +14,37 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588606990"
+        "value": "1659610699"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659610699"
+        "value": "1588606990"
       }
     ],
     "address": [
       {
         "line": [
-          "20940 N Tatum Blvd #100"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85050-7259"
-      },
-      {
-        "line": [
-          "9377 E Bell Rd"
+          "3535 N Scottsdale Rd"
         ],
         "city": "SCOTTSDALE",
         "state": "AZ",
-        "postalCode": "85260-1502"
+        "postalCode": "85251-5625"
+      },
+      {
+        "line": [
+          "9003 E Shea Blvd"
+        ],
+        "city": "SCOTTSDALE",
+        "state": "AZ",
+        "postalCode": "85260-7900"
+      },
+      {
+        "line": [
+          "17500 N Perimeter Dr"
+        ],
+        "city": "SCOTTSDALE",
+        "state": "AZ",
+        "postalCode": "85255-5441"
       },
       {
         "line": [
@@ -64,11 +72,11 @@
       },
       {
         "line": [
-          "17500 N Perimeter Dr"
+          "1114 South Higley Road, Suite 101-A"
         ],
-        "city": "SCOTTSDALE",
+        "city": "MESA",
         "state": "AZ",
-        "postalCode": "85255-5441"
+        "postalCode": "85206-3000"
       },
       {
         "line": [
@@ -80,11 +88,11 @@
       },
       {
         "line": [
-          "9003 E Shea Blvd"
+          "9377 E Bell Rd"
         ],
         "city": "SCOTTSDALE",
         "state": "AZ",
-        "postalCode": "85260-7900"
+        "postalCode": "85260-1502"
       },
       {
         "line": [
@@ -96,19 +104,11 @@
       },
       {
         "line": [
-          "1114 South Higley Road, Suite 101-A"
+          "20940 N Tatum Blvd #100"
         ],
-        "city": "MESA",
+        "city": "PHOENIX",
         "state": "AZ",
-        "postalCode": "85206-3000"
-      },
-      {
-        "line": [
-          "3535 N Scottsdale Rd"
-        ],
-        "city": "SCOTTSDALE",
-        "state": "AZ",
-        "postalCode": "85251-5625"
+        "postalCode": "85050-7259"
       }
     ],
     "extension": [

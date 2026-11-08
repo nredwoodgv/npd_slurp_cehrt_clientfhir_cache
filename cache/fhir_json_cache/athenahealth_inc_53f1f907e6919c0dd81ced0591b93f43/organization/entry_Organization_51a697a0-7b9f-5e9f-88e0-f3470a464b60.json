@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477793172"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619062858"
+        "value": "1801830807"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881622868"
+        "value": "1346263266"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,11 +34,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346263266"
+        "value": "1881622868"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801830807"
+        "value": "1477793172"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619062858"
       }
     ],
     "address": [
@@ -52,7 +52,15 @@
         ],
         "city": "LOCK HAVEN",
         "state": "PA",
-        "postalCode": "17745-2025"
+        "postalCode": "17745-2639"
+      },
+      {
+        "line": [
+          "24 Cree Drive"
+        ],
+        "city": "LOCK HAVEN",
+        "state": "PA",
+        "postalCode": "17745-2026"
       },
       {
         "line": [
@@ -68,14 +76,6 @@
         ],
         "city": "LOCK HAVEN",
         "state": "PA",
-        "postalCode": "17745-2639"
-      },
-      {
-        "line": [
-          "24 Cree Drive"
-        ],
-        "city": "LOCK HAVEN",
-        "state": "PA",
         "postalCode": "17745-2025"
       },
       {
@@ -84,7 +84,7 @@
         ],
         "city": "LOCK HAVEN",
         "state": "PA",
-        "postalCode": "17745-2026"
+        "postalCode": "17745-2025"
       }
     ],
     "extension": [

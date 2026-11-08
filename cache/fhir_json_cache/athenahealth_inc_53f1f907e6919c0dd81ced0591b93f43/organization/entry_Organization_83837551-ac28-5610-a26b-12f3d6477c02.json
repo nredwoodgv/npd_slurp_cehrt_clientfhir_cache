@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346044401"
+        "value": "1396961322"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396961322"
+        "value": "1346044401"
       }
     ],
     "address": [
-      {
-        "line": [
-          "125 S PARK DR STE D"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-5952"
-      },
-      {
-        "line": [
-          "6250 Regional Plaza, Ste 1060"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79606-5261"
-      },
       {
         "line": [
           "1680 ANTILLEY RD STE 300"
@@ -45,22 +29,6 @@
         "city": "ABILENE",
         "state": "TX",
         "postalCode": "79606-5247"
-      },
-      {
-        "line": [
-          "5302 Buffalo Gap Road Suite 104"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79606-4130"
-      },
-      {
-        "line": [
-          "6200 Regional Plaza, Ste 1675"
-        ],
-        "city": "ABILENE",
-        "state": "TX",
-        "postalCode": "79606-5272"
       },
       {
         "line": [
@@ -72,6 +40,14 @@
       },
       {
         "line": [
+          "6250 Regional Plz Ste 1060"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79606-5261"
+      },
+      {
+        "line": [
           "2502 CROCKETT DR STE A"
         ],
         "city": "BROWNWOOD",
@@ -80,7 +56,31 @@
       },
       {
         "line": [
-          "6250 Regional Plz Ste 1060"
+          "6200 Regional Plaza, Ste 1675"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79606-5272"
+      },
+      {
+        "line": [
+          "125 S PARK DR STE D"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-5952"
+      },
+      {
+        "line": [
+          "5302 Buffalo Gap Road Suite 104"
+        ],
+        "city": "ABILENE",
+        "state": "TX",
+        "postalCode": "79606-4130"
+      },
+      {
+        "line": [
+          "6250 Regional Plaza, Ste 1060"
         ],
         "city": "ABILENE",
         "state": "TX",

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245544923"
+        "value": "1992207294"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992207294"
+        "value": "1245544923"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,6 +36,14 @@
       },
       {
         "line": [
+          "1117 CHENIERE DREW RD"
+        ],
+        "city": "WEST MONROE",
+        "state": "LA",
+        "postalCode": "71291-8551"
+      },
+      {
+        "line": [
           "5980 CHERRY RIDGE RD"
         ],
         "city": "BASTROP",
@@ -44,19 +52,11 @@
       },
       {
         "line": [
-          "10280 BOSWELL ST"
+          "323 West Walnut Ave."
         ],
         "city": "BASTROP",
         "state": "LA",
-        "postalCode": "71220-3310"
-      },
-      {
-        "line": [
-          "1117 CHENIERE DREW RD"
-        ],
-        "city": "WEST MONROE",
-        "state": "LA",
-        "postalCode": "71291-8551"
+        "postalCode": "71220-4521"
       },
       {
         "line": [
@@ -76,11 +76,11 @@
       },
       {
         "line": [
-          "323 West Walnut Ave."
+          "10280 BOSWELL ST"
         ],
         "city": "BASTROP",
         "state": "LA",
-        "postalCode": "71220-4521"
+        "postalCode": "71220-3310"
       }
     ],
     "extension": [

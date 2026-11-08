@@ -18,18 +18,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578797494"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477009959"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770536740"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669606588"
       },
       {
@@ -38,7 +26,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1770536740"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1356448740"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1477009959"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578797494"
       }
     ],
     "address": [
@@ -60,22 +60,6 @@
       },
       {
         "line": [
-          "615 W Nursery"
-        ],
-        "city": "BUTLER",
-        "state": "MO",
-        "postalCode": "64730-0370"
-      },
-      {
-        "line": [
-          "402 West 1st St"
-        ],
-        "city": "ADRIAN",
-        "state": "MO",
-        "postalCode": "64720-9277"
-      },
-      {
-        "line": [
           "416 S High St"
         ],
         "city": "BUTLER",
@@ -89,6 +73,22 @@
         "city": "BUTLER",
         "state": "MO",
         "postalCode": "64730-1840"
+      },
+      {
+        "line": [
+          "402 West 1st St"
+        ],
+        "city": "ADRIAN",
+        "state": "MO",
+        "postalCode": "64720-9277"
+      },
+      {
+        "line": [
+          "615 W Nursery"
+        ],
+        "city": "BUTLER",
+        "state": "MO",
+        "postalCode": "64730-0370"
       },
       {
         "line": [

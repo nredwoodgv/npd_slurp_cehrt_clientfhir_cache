@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558797118"
+        "value": "1912264862"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1538420104"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,29 +26,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912264862"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538420104"
+        "value": "1558797118"
       }
     ],
     "address": [
       {
         "line": [
-          "2150 Main St"
+          "1400 E CHURCH ST"
         ],
-        "city": "CAMBRIA",
+        "city": "SANTA MARIA",
         "state": "CA",
-        "postalCode": "93428-3022"
-      },
-      {
-        "line": [
-          "345 South Halcyon RD"
-        ],
-        "city": "ARROYO GRANDE",
-        "state": "CA",
-        "postalCode": "93420-3817"
+        "postalCode": "93454-5906"
       },
       {
         "line": [
@@ -56,19 +48,19 @@
       },
       {
         "line": [
-          "1400 E CHURCH ST"
-        ],
-        "city": "SANTA MARIA",
-        "state": "CA",
-        "postalCode": "93454-5906"
-      },
-      {
-        "line": [
           "1304 Ella Street"
         ],
         "city": "SAN LUIS OBISPO",
         "state": "CA",
         "postalCode": "93401-4100"
+      },
+      {
+        "line": [
+          "345 South Halcyon RD"
+        ],
+        "city": "ARROYO GRANDE",
+        "state": "CA",
+        "postalCode": "93420-3817"
       },
       {
         "line": [
@@ -78,6 +70,14 @@
         "city": "SAN LUIS OBISPO",
         "state": "CA",
         "postalCode": "93405-5803"
+      },
+      {
+        "line": [
+          "2150 Main St"
+        ],
+        "city": "CAMBRIA",
+        "state": "CA",
+        "postalCode": "93428-3022"
       },
       {
         "line": [

@@ -20,7 +20,17 @@
     "address": [
       {
         "line": [
-          "240 middletown blvd"
+          "240 MIDDLETOWN BLVD",
+          "SUITE 101 C"
+        ],
+        "city": "LANGHORNE",
+        "state": "PA",
+        "postalCode": "19047-0207"
+      },
+      {
+        "line": [
+          "240 Middletown blvd",
+          "suite 101c"
         ],
         "city": "LANGHORNE",
         "state": "PA",
@@ -36,36 +46,11 @@
       },
       {
         "line": [
-          "240 MIDDLETOWN BLVD",
-          "SUITE 101 C"
+          "240 middletown blvd"
         ],
         "city": "LANGHORNE",
         "state": "PA",
         "postalCode": "19047-0207"
-      },
-      {
-        "line": [
-          "70 DURHAM RD"
-        ],
-        "city": "NEWTOWN",
-        "state": "PA",
-        "postalCode": "18940-1303"
-      },
-      {
-        "line": [
-          "1210 NORTHBROOK"
-        ],
-        "city": "FEASTERVILLE TREVOSE",
-        "state": "PA",
-        "postalCode": "19053-2518"
-      },
-      {
-        "line": [
-          "226 North Lincoln Ave"
-        ],
-        "city": "NEWTOWN",
-        "state": "PA",
-        "postalCode": "18940-2216"
       },
       {
         "line": [
@@ -77,12 +62,27 @@
       },
       {
         "line": [
-          "240 Middletown blvd",
-          "suite 101c"
+          "1210 NORTHBROOK"
         ],
-        "city": "LANGHORNE",
+        "city": "FEASTERVILLE TREVOSE",
         "state": "PA",
-        "postalCode": "19047-0207"
+        "postalCode": "19053-2518"
+      },
+      {
+        "line": [
+          "70 DURHAM RD"
+        ],
+        "city": "NEWTOWN",
+        "state": "PA",
+        "postalCode": "18940-1303"
+      },
+      {
+        "line": [
+          "226 North Lincoln Ave"
+        ],
+        "city": "NEWTOWN",
+        "state": "PA",
+        "postalCode": "18940-2216"
       }
     ],
     "extension": [

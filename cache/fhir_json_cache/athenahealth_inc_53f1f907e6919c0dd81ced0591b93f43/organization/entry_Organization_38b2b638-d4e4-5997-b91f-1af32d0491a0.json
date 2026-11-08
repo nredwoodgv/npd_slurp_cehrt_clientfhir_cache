@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891737185"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184996118"
+        "value": "1003250473"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,18 +22,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003250473"
+        "value": "1184996118"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1891737185"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1140 LEXINGTON RD"
-        ],
-        "city": "GEORGETOWN",
-        "state": "KY",
-        "postalCode": "40324-9330"
-      },
       {
         "line": [
           "1107 WEST LEXINGTON AVE"
@@ -45,6 +37,14 @@
         "city": "WINCHESTER",
         "state": "KY",
         "postalCode": "40391-1169"
+      },
+      {
+        "line": [
+          "1140 LEXINGTON RD"
+        ],
+        "city": "GEORGETOWN",
+        "state": "KY",
+        "postalCode": "40324-9330"
       },
       {
         "line": [

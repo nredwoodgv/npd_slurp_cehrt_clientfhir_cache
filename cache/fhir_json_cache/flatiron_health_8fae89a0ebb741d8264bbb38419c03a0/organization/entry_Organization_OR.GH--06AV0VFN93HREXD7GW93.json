@@ -10,15 +10,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1122334455"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1609823004"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1111111"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1122334455"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,6 +30,10 @@
     "telecom": [
       {
         "system": "phone",
+        "value": "(111)222-4444"
+      },
+      {
+        "system": "phone",
         "value": "(410)339-1680"
       },
       {
@@ -38,14 +42,21 @@
       },
       {
         "system": "phone",
-        "value": "(111)222-4444"
-      },
-      {
-        "system": "phone",
         "value": "(555)867-5309"
       }
     ],
     "address": [
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1313 Mockingbird Lane"
+        ],
+        "city": "Mockingbird",
+        "state": "CA",
+        "postalCode": "90210",
+        "country": "USA"
+      },
       {
         "use": "work",
         "type": "postal",
@@ -67,17 +78,6 @@
         "city": "Towson",
         "state": "MD",
         "postalCode": "21204",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1313 Mockingbird Lane"
-        ],
-        "city": "Mockingbird",
-        "state": "CA",
-        "postalCode": "90210",
         "country": "USA"
       },
       {

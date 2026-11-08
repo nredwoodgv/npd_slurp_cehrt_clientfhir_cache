@@ -14,14 +14,86 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215920285"
+        "value": "1033437116"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033437116"
+        "value": "1215920285"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1651 CAMPBELL AVE"
+        ],
+        "city": "INDIANAPOLIS",
+        "state": "IN",
+        "postalCode": "46218-5122"
+      },
+      {
+        "line": [
+          "730 SCHOOL STREET"
+        ],
+        "city": "CULVER",
+        "state": "IN",
+        "postalCode": "46511-1027"
+      },
+      {
+        "line": [
+          "1900 ALBER ST"
+        ],
+        "city": "WABASH",
+        "state": "IN",
+        "postalCode": "46992-1018"
+      },
+      {
+        "line": [
+          "317 BLAIR PIKE"
+        ],
+        "city": "PERU",
+        "state": "IN",
+        "postalCode": "46970-1507"
+      },
+      {
+        "line": [
+          "5909 LUTE RD"
+        ],
+        "city": "PORTAGE",
+        "state": "IN",
+        "postalCode": "46368-4824"
+      },
+      {
+        "line": [
+          "500 WALKERTON TRL"
+        ],
+        "city": "WALKERTON",
+        "state": "IN",
+        "postalCode": "46574-1300"
+      },
+      {
+        "line": [
+          "635 OAKHILL AVE"
+        ],
+        "city": "PLYMOUTH",
+        "state": "IN",
+        "postalCode": "46563-3064"
+      },
+      {
+        "line": [
+          "7440 NORTH 825 EAST"
+        ],
+        "city": "HOPE",
+        "state": "IN",
+        "postalCode": "47246-9702"
+      },
+      {
+        "line": [
+          "259 W HARRISON ST"
+        ],
+        "city": "MOORESVILLE",
+        "state": "IN",
+        "postalCode": "46158-1634"
+      },
       {
         "line": [
           "500 E PICKWICK DR"
@@ -40,22 +112,6 @@
       },
       {
         "line": [
-          "317 BLAIR PIKE"
-        ],
-        "city": "PERU",
-        "state": "IN",
-        "postalCode": "46970-1507"
-      },
-      {
-        "line": [
-          "1651 CAMPBELL AVE"
-        ],
-        "city": "INDIANAPOLIS",
-        "state": "IN",
-        "postalCode": "46218-5122"
-      },
-      {
-        "line": [
           "200 26TH ST"
         ],
         "city": "LOGANSPORT",
@@ -64,43 +120,11 @@
       },
       {
         "line": [
-          "259 W HARRISON ST"
+          "2901 WEST 37TH AVE"
         ],
-        "city": "MOORESVILLE",
+        "city": "HOBART",
         "state": "IN",
-        "postalCode": "46158-1634"
-      },
-      {
-        "line": [
-          "730 SCHOOL STREET"
-        ],
-        "city": "CULVER",
-        "state": "IN",
-        "postalCode": "46511-1027"
-      },
-      {
-        "line": [
-          "635 OAKHILL AVE"
-        ],
-        "city": "PLYMOUTH",
-        "state": "IN",
-        "postalCode": "46563-3064"
-      },
-      {
-        "line": [
-          "5909 LUTE RD"
-        ],
-        "city": "PORTAGE",
-        "state": "IN",
-        "postalCode": "46368-4824"
-      },
-      {
-        "line": [
-          "7440 NORTH 825 EAST"
-        ],
-        "city": "HOPE",
-        "state": "IN",
-        "postalCode": "47246-9702"
+        "postalCode": "46342-1727"
       },
       {
         "line": [
@@ -109,30 +133,6 @@
         "city": "WABASH",
         "state": "IN",
         "postalCode": "46992-1015"
-      },
-      {
-        "line": [
-          "500 WALKERTON TRL"
-        ],
-        "city": "WALKERTON",
-        "state": "IN",
-        "postalCode": "46574-1300"
-      },
-      {
-        "line": [
-          "1900 ALBER ST"
-        ],
-        "city": "WABASH",
-        "state": "IN",
-        "postalCode": "46992-1018"
-      },
-      {
-        "line": [
-          "2901 WEST 37TH AVE"
-        ],
-        "city": "HOBART",
-        "state": "IN",
-        "postalCode": "46342-1727"
       }
     ],
     "extension": [

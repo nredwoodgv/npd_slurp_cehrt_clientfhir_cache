@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013031368"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285931089"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649228966"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013031368"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,11 +32,36 @@
     "address": [
       {
         "line": [
+          "1902 GRACE STREET"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24504-3524"
+      },
+      {
+        "line": [
           "173 Brockman Park Drive"
         ],
         "city": "AMHERST",
         "state": "VA",
         "postalCode": "24521-2583"
+      },
+      {
+        "line": [
+          "1900 Tate Springs Road",
+          "Suite 3"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24501-1115"
+      },
+      {
+        "line": [
+          "2200 LANDOVER PLACE"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24501-2116"
       },
       {
         "line": [
@@ -48,20 +73,11 @@
       },
       {
         "line": [
-          "501 VES ROAD"
+          "3300 RIVERMONT AVENUE"
         ],
         "city": "LYNCHBURG",
         "state": "VA",
-        "postalCode": "24503-4638"
-      },
-      {
-        "line": [
-          "1900 Tate Springs Road",
-          "Suite 3"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24501-1115"
+        "postalCode": "24503-2030"
       },
       {
         "line": [
@@ -81,27 +97,11 @@
       },
       {
         "line": [
-          "3300 RIVERMONT AVENUE"
+          "501 VES ROAD"
         ],
         "city": "LYNCHBURG",
         "state": "VA",
-        "postalCode": "24503-2030"
-      },
-      {
-        "line": [
-          "1902 GRACE STREET"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24504-3524"
-      },
-      {
-        "line": [
-          "2200 LANDOVER PLACE"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24501-2116"
+        "postalCode": "24503-4638"
       }
     ],
     "extension": [

@@ -14,14 +14,30 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871508614"
+        "value": "1922337617"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922337617"
+        "value": "1871508614"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3104 Blackiston Blvd."
+        ],
+        "city": "NEW ALBANY",
+        "state": "IN",
+        "postalCode": "47150-9579"
+      },
+      {
+        "line": [
+          "2101 Broadway Street"
+        ],
+        "city": "CLARKSVILLE",
+        "state": "IN",
+        "postalCode": "47129-1017"
+      },
       {
         "line": [
           "923 EASTERN STAR CT"
@@ -32,19 +48,35 @@
       },
       {
         "line": [
-          "1015 Magazine Street"
-        ],
-        "city": "LOUISVILLE",
-        "state": "KY",
-        "postalCode": "40203-2017"
-      },
-      {
-        "line": [
-          "3104 Blackiston Blvd."
+          "4915 Charlestown Road"
         ],
         "city": "NEW ALBANY",
         "state": "IN",
-        "postalCode": "47150-9579"
+        "postalCode": "47150-9426"
+      },
+      {
+        "line": [
+          "73 Quartermaster Court"
+        ],
+        "city": "JEFFERSONVILLE",
+        "state": "IN",
+        "postalCode": "47130-3623"
+      },
+      {
+        "line": [
+          "960 S. 4th Street"
+        ],
+        "city": "LOUISVILLE",
+        "state": "KY",
+        "postalCode": "40203-3294"
+      },
+      {
+        "line": [
+          "586 Eastern Blvd."
+        ],
+        "city": "CLARKSVILLE",
+        "state": "IN",
+        "postalCode": "47129-2452"
       },
       {
         "line": [
@@ -56,35 +88,69 @@
       },
       {
         "line": [
-          "1496 N. Gardner Street"
-        ],
-        "city": "SCOTTSBURG",
-        "state": "IN",
-        "postalCode": "47170-7751"
-      },
-      {
-        "line": [
-          "1420 East Main Street"
-        ],
-        "city": "NEW ALBANY",
-        "state": "IN",
-        "postalCode": "47150-5730"
-      },
-      {
-        "line": [
-          "920 South 4th Street"
-        ],
-        "city": "LOUISVILLE",
-        "state": "KY",
-        "postalCode": "40203-3206"
-      },
-      {
-        "line": [
           "945 S. 4th Street"
         ],
         "city": "LOUISVILLE",
         "state": "KY",
         "postalCode": "40203-3594"
+      },
+      {
+        "line": [
+          "211 W OAK ST"
+        ],
+        "city": "LOUISVILLE",
+        "state": "KY",
+        "postalCode": "40203-2800"
+      },
+      {
+        "line": [
+          "1015 Magazine Street"
+        ],
+        "city": "LOUISVILLE",
+        "state": "KY",
+        "postalCode": "40203-2017"
+      },
+      {
+        "line": [
+          "950 Cross Avenue"
+        ],
+        "city": "MADISON",
+        "state": "IN",
+        "postalCode": "47250-2002"
+      },
+      {
+        "line": [
+          "950 CROSS AVE"
+        ],
+        "city": "MADISON",
+        "state": "IN",
+        "postalCode": "47250-2002"
+      },
+      {
+        "line": [
+          "2715 Charlestowns Roadq"
+        ],
+        "city": "JEFFERSONVILLE",
+        "state": "IN",
+        "postalCode": "47130-8163"
+      },
+      {
+        "line": [
+          "443 Spring St",
+          "Suite 201"
+        ],
+        "city": "JEFFERSONVILLE",
+        "state": "IN",
+        "postalCode": "47130-4494"
+      },
+      {
+        "line": [
+          "443 Spring Street",
+          "Suite 100"
+        ],
+        "city": "JEFFERSONVILLE",
+        "state": "IN",
+        "postalCode": "47130-4494"
       },
       {
         "line": [
@@ -104,93 +170,19 @@
       },
       {
         "line": [
-          "211 W OAK ST"
-        ],
-        "city": "LOUISVILLE",
-        "state": "KY",
-        "postalCode": "40203-2800"
-      },
-      {
-        "line": [
-          "4915 Charlestown Road"
-        ],
-        "city": "NEW ALBANY",
-        "state": "IN",
-        "postalCode": "47150-9426"
-      },
-      {
-        "line": [
-          "950 CROSS AVE"
-        ],
-        "city": "MADISON",
-        "state": "IN",
-        "postalCode": "47250-2002"
-      },
-      {
-        "line": [
-          "73 Quartermaster Court"
-        ],
-        "city": "JEFFERSONVILLE",
-        "state": "IN",
-        "postalCode": "47130-3623"
-      },
-      {
-        "line": [
-          "586 Eastern Blvd."
-        ],
-        "city": "CLARKSVILLE",
-        "state": "IN",
-        "postalCode": "47129-2452"
-      },
-      {
-        "line": [
-          "2101 Broadway Street"
-        ],
-        "city": "CLARKSVILLE",
-        "state": "IN",
-        "postalCode": "47129-1017"
-      },
-      {
-        "line": [
-          "443 Spring St",
-          "Suite 201"
-        ],
-        "city": "JEFFERSONVILLE",
-        "state": "IN",
-        "postalCode": "47130-4494"
-      },
-      {
-        "line": [
-          "2715 Charlestowns Roadq"
-        ],
-        "city": "JEFFERSONVILLE",
-        "state": "IN",
-        "postalCode": "47130-8163"
-      },
-      {
-        "line": [
-          "443 Spring Street",
-          "Suite 100"
-        ],
-        "city": "JEFFERSONVILLE",
-        "state": "IN",
-        "postalCode": "47130-4494"
-      },
-      {
-        "line": [
-          "950 Cross Avenue"
-        ],
-        "city": "MADISON",
-        "state": "IN",
-        "postalCode": "47250-2002"
-      },
-      {
-        "line": [
           "3625 SAINT JOSEPH RD"
         ],
         "city": "NEW ALBANY",
         "state": "IN",
         "postalCode": "47150-9745"
+      },
+      {
+        "line": [
+          "1496 N. Gardner Street"
+        ],
+        "city": "SCOTTSBURG",
+        "state": "IN",
+        "postalCode": "47170-7751"
       },
       {
         "line": [
@@ -202,11 +194,19 @@
       },
       {
         "line": [
-          "960 S. 4th Street"
+          "1420 East Main Street"
+        ],
+        "city": "NEW ALBANY",
+        "state": "IN",
+        "postalCode": "47150-5730"
+      },
+      {
+        "line": [
+          "920 South 4th Street"
         ],
         "city": "LOUISVILLE",
         "state": "KY",
-        "postalCode": "40203-3294"
+        "postalCode": "40203-3206"
       }
     ],
     "extension": [

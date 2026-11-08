@@ -14,14 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760779466"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386630028"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1033459854"
       },
       {
@@ -30,18 +22,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386630028"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1154739399"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1760779466"
       }
     ],
     "address": [
-      {
-        "line": [
-          "420 N LORETTO RD STE 500"
-        ],
-        "city": "LEBANON",
-        "state": "KY",
-        "postalCode": "40033-1633"
-      },
       {
         "line": [
           "320 N. Loretto RD"
@@ -66,6 +58,14 @@
         "city": "CAMPBELLSVILLE",
         "state": "KY",
         "postalCode": "42718-9663"
+      },
+      {
+        "line": [
+          "420 N LORETTO RD STE 500"
+        ],
+        "city": "LEBANON",
+        "state": "KY",
+        "postalCode": "40033-1633"
       }
     ],
     "extension": [

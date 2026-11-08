@@ -18,15 +18,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1003079799"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1144250176"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1780225326"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003079799"
       }
     ],
     "address": [
@@ -48,22 +48,6 @@
       },
       {
         "line": [
-          "3701 Eldorado Ave"
-        ],
-        "city": "BALTIMORE",
-        "state": "MD",
-        "postalCode": "21207-7658"
-      },
-      {
-        "line": [
-          "4502 Park Heights Ave"
-        ],
-        "city": "Baltimore",
-        "state": "MD",
-        "postalCode": "21215-6330"
-      },
-      {
-        "line": [
           "900 Caton Ave",
           "4th Floor"
         ],
@@ -78,6 +62,22 @@
         "city": "BALTIMORE",
         "state": "MD",
         "postalCode": "21229-5222"
+      },
+      {
+        "line": [
+          "3701 Eldorado Ave"
+        ],
+        "city": "BALTIMORE",
+        "state": "MD",
+        "postalCode": "21207-7658"
+      },
+      {
+        "line": [
+          "4502 Park Heights Ave"
+        ],
+        "city": "Baltimore",
+        "state": "MD",
+        "postalCode": "21215-6330"
       },
       {
         "line": [

@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629044961"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1801990833"
       },
       {
@@ -27,17 +23,13 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1114035102"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629044961"
       }
     ],
     "address": [
-      {
-        "line": [
-          "100 W. 16th St."
-        ],
-        "city": "EUREKA",
-        "state": "KS",
-        "postalCode": "67045-1064"
-      },
       {
         "line": [
           "100 W 16TH ST"
@@ -49,6 +41,14 @@
       {
         "line": [
           "101 W 16th St."
+        ],
+        "city": "EUREKA",
+        "state": "KS",
+        "postalCode": "67045-1064"
+      },
+      {
+        "line": [
+          "100 W. 16th St."
         ],
         "city": "EUREKA",
         "state": "KS",

@@ -14,37 +14,133 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114919875"
+        "value": "1255224747"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255224747"
+        "value": "1114919875"
       }
     ],
     "address": [
       {
         "line": [
-          "2301 EASTERN AVE"
-        ],
-        "city": "RED OAK",
-        "state": "IA",
-        "postalCode": "51566-1300"
-      },
-      {
-        "line": [
-          "220 ESSIE DAVISON DR"
-        ],
-        "city": "CLARINDA",
-        "state": "IA",
-        "postalCode": "51632-2625"
-      },
-      {
-        "line": [
-          "8303 DODGE STREET"
+          "7308 S 142ND ST"
         ],
         "city": "OMAHA",
         "state": "NE",
-        "postalCode": "68114-4108"
+        "postalCode": "68138-6804"
+      },
+      {
+        "line": [
+          "14000 HOSPITAL RD"
+        ],
+        "city": "BOYS TOWN",
+        "state": "NE",
+        "postalCode": "68010-7513"
+      },
+      {
+        "line": [
+          "555 N 30TH STREET"
+        ],
+        "city": "OMAHA",
+        "state": "NE",
+        "postalCode": "68131-2136"
+      },
+      {
+        "line": [
+          "105 SOUTH 90TH STREET"
+        ],
+        "city": "OMAHA",
+        "state": "NE",
+        "postalCode": "68114-3907"
+      },
+      {
+        "line": [
+          "16901 LAKESIDE HILLS COURT"
+        ],
+        "city": "OMAHA",
+        "state": "NE",
+        "postalCode": "68130-2318"
+      },
+      {
+        "line": [
+          "11111 SO 84TH STREET"
+        ],
+        "city": "PAPILLION",
+        "state": "NE",
+        "postalCode": "68046-4122"
+      },
+      {
+        "line": [
+          "6901 N 72ND ST"
+        ],
+        "city": "OMAHA",
+        "state": "NE",
+        "postalCode": "68122-1709"
+      },
+      {
+        "line": [
+          "603 ROSARY DR"
+        ],
+        "city": "CORNING",
+        "state": "IA",
+        "postalCode": "50841-1683"
+      },
+      {
+        "line": [
+          "105 S 90TH ST"
+        ],
+        "city": "OMAHA",
+        "state": "NE",
+        "postalCode": "68114-3963"
+      },
+      {
+        "line": [
+          "707 N 190TH PLAZA"
+        ],
+        "city": "ELKHORN",
+        "state": "NE",
+        "postalCode": "68022-3974"
+      },
+      {
+        "line": [
+          "450 E 23RD ST"
+        ],
+        "city": "FREMONT",
+        "state": "NE",
+        "postalCode": "68025-2303"
+      },
+      {
+        "line": [
+          "300 PERSHING AVENUE"
+        ],
+        "city": "SHENANDOAH",
+        "state": "IA",
+        "postalCode": "51601-2355"
+      },
+      {
+        "line": [
+          "600 S 42ND STREET"
+        ],
+        "city": "OMAHA",
+        "state": "NE",
+        "postalCode": "68198-1002"
+      },
+      {
+        "line": [
+          "723 W FAIRVIEW ST"
+        ],
+        "city": "ALBION",
+        "state": "NE",
+        "postalCode": "68620-1725"
+      },
+      {
+        "line": [
+          "4600 38TH STREET"
+        ],
+        "city": "COLUMBUS",
+        "state": "NE",
+        "postalCode": "68601-1664"
       },
       {
         "line": [
@@ -57,11 +153,19 @@
       },
       {
         "line": [
-          "723 W FAIRVIEW ST"
+          "10 EAST 31ST ST"
         ],
-        "city": "ALBION",
+        "city": "KEARNEY",
         "state": "NE",
-        "postalCode": "68620-1725"
+        "postalCode": "68847-2918"
+      },
+      {
+        "line": [
+          "16901 LAKESIDE HILS COURT"
+        ],
+        "city": "OMAHA",
+        "state": "NE",
+        "postalCode": "68130-2318"
       },
       {
         "line": [
@@ -73,23 +177,7 @@
       },
       {
         "line": [
-          "14000 HOSPITAL RD"
-        ],
-        "city": "BOYS TOWN",
-        "state": "NE",
-        "postalCode": "68010-7513"
-      },
-      {
-        "line": [
-          "111 South 90th Street"
-        ],
-        "city": "OMAHA",
-        "state": "NE",
-        "postalCode": "68114-3907"
-      },
-      {
-        "line": [
-          "4101 WOOLWORTH"
+          "4102 WOOLWORTH"
         ],
         "city": "OMAHA",
         "state": "NE",
@@ -105,15 +193,15 @@
       },
       {
         "line": [
-          "555 N 30TH STREET"
+          "2727 N CLARKSON ST"
         ],
-        "city": "OMAHA",
+        "city": "FREMONT",
         "state": "NE",
-        "postalCode": "68131-2136"
+        "postalCode": "68025-7713"
       },
       {
         "line": [
-          "8300 DODGE STREET"
+          "8303 DODGE STREET"
         ],
         "city": "OMAHA",
         "state": "NE",
@@ -121,83 +209,11 @@
       },
       {
         "line": [
-          "603 ROSARY DR"
+          "14000 BOYSTOWN HOSPITAL RD"
         ],
-        "city": "CORNING",
-        "state": "IA",
-        "postalCode": "50841-1683"
-      },
-      {
-        "line": [
-          "7915 FARNAM DRIVE"
-        ],
-        "city": "OMAHA",
+        "city": "BOYS TOWN",
         "state": "NE",
-        "postalCode": "68114-4504"
-      },
-      {
-        "line": [
-          "600 S 42ND STREET"
-        ],
-        "city": "OMAHA",
-        "state": "NE",
-        "postalCode": "68198-1002"
-      },
-      {
-        "line": [
-          "2808 S 143RD PLAZA"
-        ],
-        "city": "OMAHA",
-        "state": "NE",
-        "postalCode": "68144-5611"
-      },
-      {
-        "line": [
-          "8200 DODGE STREET"
-        ],
-        "city": "OMAHA",
-        "state": "NE",
-        "postalCode": "68114-4113"
-      },
-      {
-        "line": [
-          "300 PERSHING AVENUE"
-        ],
-        "city": "SHENANDOAH",
-        "state": "IA",
-        "postalCode": "51601-2355"
-      },
-      {
-        "line": [
-          "4600 38TH STREET"
-        ],
-        "city": "COLUMBUS",
-        "state": "NE",
-        "postalCode": "68601-1664"
-      },
-      {
-        "line": [
-          "707 N 190TH PLAZA"
-        ],
-        "city": "ELKHORN",
-        "state": "NE",
-        "postalCode": "68022-3974"
-      },
-      {
-        "line": [
-          "17607 GOLD PLAZA"
-        ],
-        "city": "OMAHA",
-        "state": "NE",
-        "postalCode": "68130-4661"
-      },
-      {
-        "line": [
-          "10 EAST 31ST ST"
-        ],
-        "city": "KEARNEY",
-        "state": "NE",
-        "postalCode": "68847-2918"
+        "postalCode": "68010-7513"
       },
       {
         "line": [
@@ -210,11 +226,27 @@
       },
       {
         "line": [
-          "6901 N 72ND ST"
+          "2301 EASTERN AVE"
+        ],
+        "city": "RED OAK",
+        "state": "IA",
+        "postalCode": "51566-1300"
+      },
+      {
+        "line": [
+          "8200 DODGE STREET"
         ],
         "city": "OMAHA",
         "state": "NE",
-        "postalCode": "68122-1709"
+        "postalCode": "68114-4113"
+      },
+      {
+        "line": [
+          "1213 GARFIELD AVE"
+        ],
+        "city": "HARLAN",
+        "state": "IA",
+        "postalCode": "51537-2057"
       },
       {
         "line": [
@@ -227,12 +259,12 @@
       },
       {
         "line": [
-          "707 N 190TH PLAZA",
-          "SUITE 2500"
+          "10707 PACIFIC ST",
+          "STE 100"
         ],
-        "city": "ELKHORN",
+        "city": "OMAHA",
         "state": "NE",
-        "postalCode": "68022-3974"
+        "postalCode": "68114-4762"
       },
       {
         "line": [
@@ -244,59 +276,11 @@
       },
       {
         "line": [
-          "4102 WOOLWORTH"
+          "220 ESSIE DAVISON DR"
         ],
-        "city": "OMAHA",
-        "state": "NE",
-        "postalCode": "68105-1851"
-      },
-      {
-        "line": [
-          "450 E 23RD ST"
-        ],
-        "city": "FREMONT",
-        "state": "NE",
-        "postalCode": "68025-2303"
-      },
-      {
-        "line": [
-          "105 S 90TH ST"
-        ],
-        "city": "OMAHA",
-        "state": "NE",
-        "postalCode": "68114-3963"
-      },
-      {
-        "line": [
-          "2735 NORTH CLARKSON STREET"
-        ],
-        "city": "FREMONT",
-        "state": "NE",
-        "postalCode": "68025-7717"
-      },
-      {
-        "line": [
-          "11111 SO 84TH STREET"
-        ],
-        "city": "PAPILLION",
-        "state": "NE",
-        "postalCode": "68046-4122"
-      },
-      {
-        "line": [
-          "14000 BOYSTOWN HOSPITAL RD"
-        ],
-        "city": "BOYS TOWN",
-        "state": "NE",
-        "postalCode": "68010-7513"
-      },
-      {
-        "line": [
-          "1213 GARFIELD AVE"
-        ],
-        "city": "HARLAN",
+        "city": "CLARINDA",
         "state": "IA",
-        "postalCode": "51537-2057"
+        "postalCode": "51632-2625"
       },
       {
         "line": [
@@ -308,60 +292,11 @@
       },
       {
         "line": [
-          "105 SOUTH 90TH STREET"
+          "4101 WOOLWORTH"
         ],
         "city": "OMAHA",
         "state": "NE",
-        "postalCode": "68114-3907"
-      },
-      {
-        "line": [
-          "16901 LAKESIDE HILS COURT"
-        ],
-        "city": "OMAHA",
-        "state": "NE",
-        "postalCode": "68130-2318"
-      },
-      {
-        "line": [
-          "2727 N CLARKSON ST"
-        ],
-        "city": "FREMONT",
-        "state": "NE",
-        "postalCode": "68025-7713"
-      },
-      {
-        "line": [
-          "10707 PACIFIC ST",
-          "STE 202"
-        ],
-        "city": "OMAHA",
-        "state": "NE",
-        "postalCode": "68114-4762"
-      },
-      {
-        "line": [
-          "105 S 90TH ST"
-        ],
-        "city": "OMAHA",
-        "state": "NE",
-        "postalCode": "68114-3907"
-      },
-      {
-        "line": [
-          "2802 28TH ST"
-        ],
-        "city": "CENTRAL CITY",
-        "state": "NE",
-        "postalCode": "68826-2707"
-      },
-      {
-        "line": [
-          "16901 LAKESIDE HILLS COURT"
-        ],
-        "city": "OMAHA",
-        "state": "NE",
-        "postalCode": "68130-2318"
+        "postalCode": "68105-1851"
       },
       {
         "line": [
@@ -373,36 +308,28 @@
       },
       {
         "line": [
+          "7915 FARNAM DRIVE"
+        ],
+        "city": "OMAHA",
+        "state": "NE",
+        "postalCode": "68114-4504"
+      },
+      {
+        "line": [
+          "707 N 190TH PLAZA",
+          "SUITE 2500"
+        ],
+        "city": "ELKHORN",
+        "state": "NE",
+        "postalCode": "68022-3974"
+      },
+      {
+        "line": [
           "6901 N 72ND STREET"
         ],
         "city": "OMAHA",
         "state": "NE",
         "postalCode": "68122-1709"
-      },
-      {
-        "line": [
-          "4508 38TH STREET",
-          "SUITE 210"
-        ],
-        "city": "COLUMBUS",
-        "state": "NE",
-        "postalCode": "68601-1800"
-      },
-      {
-        "line": [
-          "1213 garfield AVE"
-        ],
-        "city": "HARLAN",
-        "state": "IA",
-        "postalCode": "51537-2057"
-      },
-      {
-        "line": [
-          "7308 S 142ND ST"
-        ],
-        "city": "OMAHA",
-        "state": "NE",
-        "postalCode": "68138-6804"
       },
       {
         "line": [
@@ -415,6 +342,72 @@
       },
       {
         "line": [
+          "8300 DODGE STREET"
+        ],
+        "city": "OMAHA",
+        "state": "NE",
+        "postalCode": "68114-4108"
+      },
+      {
+        "line": [
+          "111 South 90th Street"
+        ],
+        "city": "OMAHA",
+        "state": "NE",
+        "postalCode": "68114-3907"
+      },
+      {
+        "line": [
+          "10707 PACIFIC ST",
+          "STE 202"
+        ],
+        "city": "OMAHA",
+        "state": "NE",
+        "postalCode": "68114-4762"
+      },
+      {
+        "line": [
+          "2735 NORTH CLARKSON STREET"
+        ],
+        "city": "FREMONT",
+        "state": "NE",
+        "postalCode": "68025-7717"
+      },
+      {
+        "line": [
+          "17607 GOLD PLAZA"
+        ],
+        "city": "OMAHA",
+        "state": "NE",
+        "postalCode": "68130-4661"
+      },
+      {
+        "line": [
+          "2808 S 143RD PLAZA"
+        ],
+        "city": "OMAHA",
+        "state": "NE",
+        "postalCode": "68144-5611"
+      },
+      {
+        "line": [
+          "2802 28TH ST"
+        ],
+        "city": "CENTRAL CITY",
+        "state": "NE",
+        "postalCode": "68826-2707"
+      },
+      {
+        "line": [
+          "4508 38TH STREET",
+          "SUITE 210"
+        ],
+        "city": "COLUMBUS",
+        "state": "NE",
+        "postalCode": "68601-1800"
+      },
+      {
+        "line": [
           "304 NORTH 179 STREET",
           "SUITE 206"
         ],
@@ -424,12 +417,19 @@
       },
       {
         "line": [
-          "10707 PACIFIC ST",
-          "STE 100"
+          "105 S 90TH ST"
         ],
         "city": "OMAHA",
         "state": "NE",
-        "postalCode": "68114-4762"
+        "postalCode": "68114-3907"
+      },
+      {
+        "line": [
+          "1213 garfield AVE"
+        ],
+        "city": "HARLAN",
+        "state": "IA",
+        "postalCode": "51537-2057"
       }
     ],
     "extension": [

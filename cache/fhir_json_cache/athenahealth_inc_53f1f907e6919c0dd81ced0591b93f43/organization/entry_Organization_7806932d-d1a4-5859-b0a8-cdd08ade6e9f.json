@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952622490"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1659370153"
       },
       {
@@ -27,17 +23,13 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1497076939"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952622490"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2002 HOLIDAY LANE SUITE 400"
-        ],
-        "city": "FULTON",
-        "state": "KY",
-        "postalCode": "42041-8468"
-      },
       {
         "line": [
           "113 WEST BROADWAY"
@@ -45,6 +37,14 @@
         "city": "MAYFIELD",
         "state": "KY",
         "postalCode": "42066-2213"
+      },
+      {
+        "line": [
+          "2002 HOLIDAY LANE SUITE 400"
+        ],
+        "city": "FULTON",
+        "state": "KY",
+        "postalCode": "42041-8468"
       }
     ],
     "extension": [

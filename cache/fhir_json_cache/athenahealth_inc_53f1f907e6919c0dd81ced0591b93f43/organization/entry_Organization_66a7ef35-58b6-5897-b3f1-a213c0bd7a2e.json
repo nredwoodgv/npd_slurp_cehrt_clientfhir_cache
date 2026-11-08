@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831049071"
+        "value": "1790997435"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790997435"
+        "value": "1831049071"
       }
     ],
     "address": [
+      {
+        "line": [
+          "450A S CLAIBORNE AVE"
+        ],
+        "city": "NEW ORLEANS",
+        "state": "LA",
+        "postalCode": "70112-1310"
+      },
       {
         "line": [
           "14500 Hayne Blvd"
@@ -32,11 +40,11 @@
       },
       {
         "line": [
-          "450A S CLAIBORNE AVE"
+          "3525 BIENVILLE ST"
         ],
         "city": "NEW ORLEANS",
         "state": "LA",
-        "postalCode": "70112-1310"
+        "postalCode": "70119-5249"
       },
       {
         "line": [
@@ -48,11 +56,11 @@
       },
       {
         "line": [
-          "3525 BIENVILLE ST"
+          "701 Metairie Rd Ste 2A202"
         ],
-        "city": "NEW ORLEANS",
+        "city": "METAIRIE",
         "state": "LA",
-        "postalCode": "70119-5249"
+        "postalCode": "70005-4050"
       },
       {
         "line": [
@@ -69,14 +77,6 @@
         "city": "NEW ORLEANS",
         "state": "LA",
         "postalCode": "70121-3822"
-      },
-      {
-        "line": [
-          "701 Metairie Rd Ste 2A202"
-        ],
-        "city": "METAIRIE",
-        "state": "LA",
-        "postalCode": "70005-4050"
       },
       {
         "line": [

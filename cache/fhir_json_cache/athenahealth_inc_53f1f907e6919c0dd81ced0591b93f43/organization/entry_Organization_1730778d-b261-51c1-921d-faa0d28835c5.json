@@ -14,23 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326543497"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265937312"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982201877"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730295296"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295236594"
+        "value": "1316540750"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,11 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225636673"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316540750"
+        "value": "1811492978"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,15 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811492978"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770183766"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497355382"
+        "value": "1225636673"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,10 +38,44 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1770183766"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1265937312"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326543497"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1982201877"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1295236594"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417557133"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1497355382"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730295296"
       }
     ],
     "address": [
+      {
+        "line": [],
+        "city": "DENVER",
+        "state": "CO",
+        "postalCode": "80229-4361"
+      },
       {
         "line": [
           "1550 S POTOMAC ST",
@@ -80,18 +86,13 @@
         "postalCode": "80012-5442"
       },
       {
-        "line": [],
-        "city": "DENVER",
-        "state": "CO",
-        "postalCode": "80229-4361"
-      },
-      {
         "line": [
-          "2301 LAWRENCE ST"
+          "355 Union Boulevard",
+          "Suite 105"
         ],
-        "city": "DENVER",
+        "city": "LAKEWOOD",
         "state": "CO",
-        "postalCode": "80205-2126"
+        "postalCode": "80228-6516"
       },
       {
         "line": [
@@ -113,20 +114,19 @@
       },
       {
         "line": [
-          "355 Union Boulevard",
-          "Suite 105"
-        ],
-        "city": "LAKEWOOD",
-        "state": "CO",
-        "postalCode": "80228-6516"
-      },
-      {
-        "line": [
           "9197 Grant St"
         ],
         "city": "DENVER",
         "state": "CO",
         "postalCode": "80229-4329"
+      },
+      {
+        "line": [
+          "2301 LAWRENCE ST"
+        ],
+        "city": "DENVER",
+        "state": "CO",
+        "postalCode": "80205-2126"
       },
       {
         "line": [

@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053852525"
+        "value": "1447530431"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,26 +34,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447530431"
+        "value": "1053852525"
       }
     ],
     "address": [
-      {
-        "line": [
-          "995 CLYBURN PLACE"
-        ],
-        "city": "AIKEN",
-        "state": "SC",
-        "postalCode": "29801-4193"
-      },
-      {
-        "line": [
-          "1000 Clyburn Place"
-        ],
-        "city": "AIKEN",
-        "state": "SC",
-        "postalCode": "29801-8534"
-      },
       {
         "line": [
           "995 Clyburn Place"
@@ -69,6 +53,22 @@
         "city": "AIKEN",
         "state": "SC",
         "postalCode": "29801-4193"
+      },
+      {
+        "line": [
+          "995 CLYBURN PLACE"
+        ],
+        "city": "AIKEN",
+        "state": "SC",
+        "postalCode": "29801-4193"
+      },
+      {
+        "line": [
+          "1000 Clyburn Place"
+        ],
+        "city": "AIKEN",
+        "state": "SC",
+        "postalCode": "29801-8534"
       }
     ],
     "extension": [

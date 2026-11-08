@@ -18,11 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053172833"
+        "value": "1447137740"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205698479"
+        "value": "1053172833"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,10 +30,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447137740"
+        "value": "1205698479"
       }
     ],
     "address": [
+      {
+        "line": [
+          "80 Guest ST"
+        ],
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2071"
+      },
       {
         "line": [
           "8300 Utica Ave",
@@ -42,14 +50,6 @@
         "city": "RANCHO CUCAMONGA",
         "state": "CA",
         "postalCode": "91730-3852"
-      },
-      {
-        "line": [
-          "80 Guest ST"
-        ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2071"
       },
       {
         "line": [

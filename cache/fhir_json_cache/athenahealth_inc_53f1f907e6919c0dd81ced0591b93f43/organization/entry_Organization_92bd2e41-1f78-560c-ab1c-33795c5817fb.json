@@ -14,21 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508253501"
+        "value": "1437542073"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437542073"
+        "value": "1508253501"
       }
     ],
     "address": [
       {
         "line": [
-          "331 State Route 61"
+          "1211 W KELLY AVE"
         ],
-        "city": "PRATT",
+        "city": "KINGMAN",
         "state": "KS",
-        "postalCode": "67124-0301"
+        "postalCode": "67068-8168"
+      },
+      {
+        "line": [
+          "750 W D AVE"
+        ],
+        "city": "KINGMAN",
+        "state": "KS",
+        "postalCode": "67068-1266"
       },
       {
         "line": [
@@ -40,7 +48,7 @@
       },
       {
         "line": [
-          "750 W D AVE"
+          "750 W. D Ave."
         ],
         "city": "KINGMAN",
         "state": "KS",
@@ -57,19 +65,11 @@
       },
       {
         "line": [
-          "750 W. D Ave."
+          "750 W D Ave"
         ],
         "city": "KINGMAN",
         "state": "KS",
         "postalCode": "67068-1266"
-      },
-      {
-        "line": [
-          "1211 W KELLY AVE"
-        ],
-        "city": "KINGMAN",
-        "state": "KS",
-        "postalCode": "67068-8168"
       },
       {
         "line": [
@@ -81,11 +81,11 @@
       },
       {
         "line": [
-          "750 W D Ave"
+          "331 State Route 61"
         ],
-        "city": "KINGMAN",
+        "city": "PRATT",
         "state": "KS",
-        "postalCode": "67068-1266"
+        "postalCode": "67124-0301"
       }
     ],
     "extension": [

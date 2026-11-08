@@ -18,10 +18,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275290694"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1588997233"
       },
       {
@@ -30,22 +26,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508489782"
+        "value": "1275290694"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629538491"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1508489782"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1201A Hill Rd"
-        ],
-        "city": "SMITHVILLE",
-        "state": "TX",
-        "postalCode": "78957-9533"
-      },
       {
         "line": [
           "605 NE 9th St"
@@ -53,6 +45,14 @@
         "city": "SMITHVILLE",
         "state": "TX",
         "postalCode": "78957-1025"
+      },
+      {
+        "line": [
+          "1201A Hill Rd"
+        ],
+        "city": "SMITHVILLE",
+        "state": "TX",
+        "postalCode": "78957-9533"
       }
     ],
     "extension": [

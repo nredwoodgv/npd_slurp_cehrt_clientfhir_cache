@@ -14,6 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1295397032"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104386655"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1871801688"
       },
       {
@@ -22,15 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104386655"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861054744"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295397032"
       }
     ],
     "address": [
@@ -45,11 +45,20 @@
       },
       {
         "line": [
-          "214 Main St"
+          "655 Main Street",
+          "Suite 2"
         ],
-        "city": "VERGENNES",
+        "city": "BENNINGTON",
         "state": "VT",
-        "postalCode": "05491-1157"
+        "postalCode": "05201-2225"
+      },
+      {
+        "line": [
+          "462 Hegeman Ave"
+        ],
+        "city": "COLCHESTER",
+        "state": "VT",
+        "postalCode": "05446-3187"
       },
       {
         "line": [
@@ -69,20 +78,11 @@
       },
       {
         "line": [
-          "655 Main Street",
-          "Suite 2"
+          "214 Main St"
         ],
-        "city": "BENNINGTON",
+        "city": "VERGENNES",
         "state": "VT",
-        "postalCode": "05201-2225"
-      },
-      {
-        "line": [
-          "462 Hegeman Ave"
-        ],
-        "city": "COLCHESTER",
-        "state": "VT",
-        "postalCode": "05446-3187"
+        "postalCode": "05491-1157"
       },
       {
         "line": [

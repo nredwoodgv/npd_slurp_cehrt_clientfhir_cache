@@ -14,21 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235453408"
+        "value": "1538155817"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538155817"
+        "value": "1235453408"
       }
     ],
     "address": [
       {
         "line": [
-          "315 S OSTEOPATHY ST"
+          "7331 EAST OSBORN DR"
         ],
-        "city": "KIRKSVILLE",
+        "city": "SCOTTSDALE",
+        "state": "AZ",
+        "postalCode": "85251-6435"
+      },
+      {
+        "line": [
+          "103 S 18TH ST"
+        ],
+        "city": "UNIONVILLE",
         "state": "MO",
-        "postalCode": "63501-6401"
+        "postalCode": "63565-1642"
       },
       {
         "line": [
@@ -41,11 +49,19 @@
       },
       {
         "line": [
-          "103 S 18TH ST"
+          "800 W JEFFERSON"
         ],
-        "city": "UNIONVILLE",
+        "city": "KIRKSVILLE",
         "state": "MO",
-        "postalCode": "63565-1642"
+        "postalCode": "63501-1443"
+      },
+      {
+        "line": [
+          "315 S OSTEOPATHY ST"
+        ],
+        "city": "KIRKSVILLE",
+        "state": "MO",
+        "postalCode": "63501-6401"
       },
       {
         "line": [
@@ -54,22 +70,6 @@
         "city": "KIRKSVILLE",
         "state": "MO",
         "postalCode": "63501-4537"
-      },
-      {
-        "line": [
-          "7331 EAST OSBORN DR"
-        ],
-        "city": "SCOTTSDALE",
-        "state": "AZ",
-        "postalCode": "85251-6435"
-      },
-      {
-        "line": [
-          "800 W JEFFERSON"
-        ],
-        "city": "KIRKSVILLE",
-        "state": "MO",
-        "postalCode": "63501-1443"
       }
     ],
     "extension": [

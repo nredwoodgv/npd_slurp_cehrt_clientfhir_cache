@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467332312"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1760292387"
       },
       {
@@ -22,25 +26,30 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649875816"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952252330"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467332312"
+        "value": "1649875816"
       }
     ],
     "address": [
       {
         "line": [
-          "101 East Wood Street"
+          "1309 Hunt Street"
+        ],
+        "city": "NEWBERRY",
+        "state": "SC",
+        "postalCode": "29108-3035"
+      },
+      {
+        "line": [
+          "391 Serpentine Drive",
+          "#200"
         ],
         "city": "SPARTANBURG",
         "state": "SC",
-        "postalCode": "29303-3040"
+        "postalCode": "29303-3079"
       },
       {
         "line": [
@@ -60,19 +69,28 @@
       },
       {
         "line": [
+          "101 East Wood Street"
+        ],
+        "city": "SPARTANBURG",
+        "state": "SC",
+        "postalCode": "29303-3040"
+      },
+      {
+        "line": [
+          "105 Halton Village Circle",
+          "Suite B"
+        ],
+        "city": "GREENVILLE",
+        "state": "SC",
+        "postalCode": "29607-6832"
+      },
+      {
+        "line": [
           "1 Still Hopes Drive"
         ],
         "city": "WEST COLUMBIA",
         "state": "SC",
         "postalCode": "29169-7164"
-      },
-      {
-        "line": [
-          "701 Grove Road"
-        ],
-        "city": "GREENVILLE",
-        "state": "SC",
-        "postalCode": "29607-4210"
       },
       {
         "line": [
@@ -84,11 +102,11 @@
       },
       {
         "line": [
-          "175 Patewood Drive"
+          "10 Enterprise Blvd STE 209"
         ],
         "city": "GREENVILLE",
         "state": "SC",
-        "postalCode": "29615-3570"
+        "postalCode": "29615-3554"
       },
       {
         "line": [
@@ -100,36 +118,28 @@
       },
       {
         "line": [
-          "214 Innovation Drive"
+          "2755 South Highway 14",
+          "Entrance A"
+        ],
+        "city": "GREER",
+        "state": "SC",
+        "postalCode": "29650-4926"
+      },
+      {
+        "line": [
+          "175 Patewood Drive"
         ],
         "city": "GREENVILLE",
         "state": "SC",
-        "postalCode": "29607-5254"
+        "postalCode": "29615-3570"
       },
       {
         "line": [
-          "391 Serpentine Drive",
-          "#200"
-        ],
-        "city": "SPARTANBURG",
-        "state": "SC",
-        "postalCode": "29303-3079"
-      },
-      {
-        "line": [
-          "1309 Hunt Street"
-        ],
-        "city": "NEWBERRY",
-        "state": "SC",
-        "postalCode": "29108-3035"
-      },
-      {
-        "line": [
-          "10 Enterprise Blvd STE 209"
+          "701 Grove Road"
         ],
         "city": "GREENVILLE",
         "state": "SC",
-        "postalCode": "29615-3554"
+        "postalCode": "29607-4210"
       },
       {
         "line": [
@@ -141,12 +151,11 @@
       },
       {
         "line": [
-          "2755 South Highway 14",
-          "Entrance A"
+          "214 Innovation Drive"
         ],
-        "city": "GREER",
+        "city": "GREENVILLE",
         "state": "SC",
-        "postalCode": "29650-4926"
+        "postalCode": "29607-5254"
       }
     ],
     "extension": [

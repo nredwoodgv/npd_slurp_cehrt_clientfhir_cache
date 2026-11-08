@@ -14,11 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1265780621"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1487902995"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730437245"
+        "value": "1073861431"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,11 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265780621"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073861431"
+        "value": "1730437245"
       }
     ],
     "address": [
@@ -44,35 +44,19 @@
       },
       {
         "line": [
-          "N15995 MAIN ST"
-        ],
-        "city": "POWERS",
-        "state": "MI",
-        "postalCode": "49874-9608"
-      },
-      {
-        "line": [
-          "1500 Sand Point Rd"
-        ],
-        "city": "MUNISING",
-        "state": "MI",
-        "postalCode": "49862-1406"
-      },
-      {
-        "line": [
-          "500 Campus Drive"
-        ],
-        "city": "HANCOCK",
-        "state": "MI",
-        "postalCode": "49930-1452"
-      },
-      {
-        "line": [
           "7870 US 2"
         ],
         "city": "MANISTIQUE",
         "state": "MI",
         "postalCode": "49854-8992"
+      },
+      {
+        "line": [
+          "N15995 MAIN ST"
+        ],
+        "city": "POWERS",
+        "state": "MI",
+        "postalCode": "49874-9608"
       },
       {
         "line": [
@@ -89,6 +73,22 @@
         "city": "LANSE",
         "state": "MI",
         "postalCode": "49946-8024"
+      },
+      {
+        "line": [
+          "500 Campus Drive"
+        ],
+        "city": "HANCOCK",
+        "state": "MI",
+        "postalCode": "49930-1452"
+      },
+      {
+        "line": [
+          "1500 Sand Point Rd"
+        ],
+        "city": "MUNISING",
+        "state": "MI",
+        "postalCode": "49862-1406"
       }
     ],
     "extension": [

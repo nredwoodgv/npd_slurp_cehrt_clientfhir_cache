@@ -14,14 +14,30 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821349317"
+        "value": "1629398219"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629398219"
+        "value": "1821349317"
       }
     ],
     "address": [
+      {
+        "line": [
+          "63 PLEASANT ST"
+        ],
+        "city": "WATERTOWN",
+        "state": "MA",
+        "postalCode": "02472-2386"
+      },
+      {
+        "line": [
+          "29 CRAFTS ST STE 400"
+        ],
+        "city": "NEWTON",
+        "state": "MA",
+        "postalCode": "02458-1393"
+      },
       {
         "line": [
           "2110 DORCHESTER AVENUE SUITE 203"
@@ -41,27 +57,11 @@
       },
       {
         "line": [
-          "29 CRAFTS ST STE 400"
-        ],
-        "city": "NEWTON",
-        "state": "MA",
-        "postalCode": "02458-1393"
-      },
-      {
-        "line": [
           "6 LEXINGTON ST STE 2"
         ],
         "city": "WALTHAM",
         "state": "MA",
         "postalCode": "02452-4401"
-      },
-      {
-        "line": [
-          "63 PLEASANT ST"
-        ],
-        "city": "WATERTOWN",
-        "state": "MA",
-        "postalCode": "02472-2386"
       }
     ],
     "extension": [

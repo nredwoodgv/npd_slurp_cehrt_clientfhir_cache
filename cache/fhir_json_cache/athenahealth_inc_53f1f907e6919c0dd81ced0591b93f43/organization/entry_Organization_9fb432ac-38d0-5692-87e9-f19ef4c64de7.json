@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376644922"
+        "value": "1114962461"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,11 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730117805"
+        "value": "1114133485"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114962461"
+        "value": "1902979081"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,11 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255378139"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902979081"
+        "value": "1376644922"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,18 +50,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114133485"
+        "value": "1730117805"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1255378139"
       }
     ],
     "address": [
-      {
-        "line": [
-          "17900 23 Mile Rd Ste 306"
-        ],
-        "city": "MACOMB",
-        "state": "MI",
-        "postalCode": "48044-1161"
-      },
       {
         "line": [
           "29000 Little Mack",
@@ -74,6 +66,14 @@
         "city": "SAINT CLAIR SHORES",
         "state": "MI",
         "postalCode": "48081-3018"
+      },
+      {
+        "line": [
+          "17900 23 Mile Rd Ste 306"
+        ],
+        "city": "MACOMB",
+        "state": "MI",
+        "postalCode": "48044-1161"
       }
     ],
     "extension": [

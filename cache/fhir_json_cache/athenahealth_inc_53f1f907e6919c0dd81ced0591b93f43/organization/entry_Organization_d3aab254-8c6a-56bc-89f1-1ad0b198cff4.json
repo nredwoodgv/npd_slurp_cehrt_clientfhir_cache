@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144641101"
+        "value": "1518363290"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518363290"
+        "value": "1144641101"
       }
     ],
     "address": [
       {
         "line": [
-          "374 Stockholm Street"
+          "1501 W 6th St"
         ],
         "city": "BROOKLYN",
         "state": "NY",
-        "postalCode": "11237-4006"
+        "postalCode": "11204-4925"
       },
       {
         "line": [
@@ -38,6 +38,23 @@
         "city": "BROOKLYN",
         "state": "NY",
         "postalCode": "11204-4925"
+      },
+      {
+        "line": [
+          "380 2nd Ave",
+          "#1000"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10010-5615"
+      },
+      {
+        "line": [
+          "2075 Flatbush Ave"
+        ],
+        "city": "BROOKLYN",
+        "state": "NY",
+        "postalCode": "11234-4340"
       },
       {
         "line": [
@@ -58,14 +75,6 @@
       },
       {
         "line": [
-          "2075 Flatbush Ave"
-        ],
-        "city": "BROOKLYN",
-        "state": "NY",
-        "postalCode": "11234-4340"
-      },
-      {
-        "line": [
           "374 STOCKHOLM ST"
         ],
         "city": "BROOKLYN",
@@ -74,20 +83,11 @@
       },
       {
         "line": [
-          "1501 W 6th St"
+          "374 Stockholm Street"
         ],
         "city": "BROOKLYN",
         "state": "NY",
-        "postalCode": "11204-4925"
-      },
-      {
-        "line": [
-          "380 2nd Ave",
-          "#1000"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10010-5615"
+        "postalCode": "11237-4006"
       }
     ],
     "extension": [

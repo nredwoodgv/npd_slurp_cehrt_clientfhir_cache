@@ -18,15 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881981033"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1902043433"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396798302"
+        "value": "1033294673"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,26 +30,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033294673"
+        "value": "1881981033"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396798302"
       }
     ],
     "address": [
-      {
-        "line": [
-          "4220 Harding Rd"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37205-2005"
-      },
-      {
-        "line": [
-          "460 Metroplex Drive, Suite 115"
-        ],
-        "city": "Nashville",
-        "state": "TN",
-        "postalCode": "37211-3136"
-      },
       {
         "line": [
           "1700 Medical Center Pkwy"
@@ -64,11 +48,27 @@
       },
       {
         "line": [
+          "4220 Harding Rd"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37205-2005"
+      },
+      {
+        "line": [
           "300 20th Ave N 2nd Fl Suite200"
         ],
         "city": "NASHVILLE",
         "state": "TN",
         "postalCode": "37236-0001"
+      },
+      {
+        "line": [
+          "460 Metroplex Drive, Suite 115"
+        ],
+        "city": "Nashville",
+        "state": "TN",
+        "postalCode": "37211-3136"
       }
     ],
     "extension": [

@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194121681"
+        "value": "1861144842"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861144842"
+        "value": "1194121681"
       }
     ],
     "address": [
-      {
-        "line": [
-          "548 Market Street",
-          "Suite 83340"
-        ],
-        "city": "SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94104-5401"
-      },
       {
         "line": [
           "1875 S GRANT ST, STE 760"
@@ -47,6 +38,15 @@
         "city": "SAN MATEO",
         "state": "CA",
         "postalCode": "94402-0760"
+      },
+      {
+        "line": [
+          "548 Market Street",
+          "Suite 83340"
+        ],
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94104-5401"
       }
     ],
     "extension": [

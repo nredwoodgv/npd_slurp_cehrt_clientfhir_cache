@@ -18,7 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164934295"
+        "value": "1336665991"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336665991"
+        "value": "1164934295"
       }
     ],
     "address": [
@@ -34,17 +34,9 @@
         "line": [
           "SCHEDULE TEMPLATE"
         ],
-        "city": "PLYMOUTH",
+        "city": "SOUTH BEND",
         "state": "IN",
-        "postalCode": "46563-9366"
-      },
-      {
-        "line": [
-          "1915 Lake Ave"
-        ],
-        "city": "PLYMOUTH",
-        "state": "IN",
-        "postalCode": "46563-9366"
+        "postalCode": "46601-1033"
       },
       {
         "line": [
@@ -56,11 +48,19 @@
       },
       {
         "line": [
-          "60160 Bodnar Blvd"
+          "SURGERY TEMPLATE"
         ],
         "city": "MISHAWAKA",
         "state": "IN",
-        "postalCode": "46544-9338"
+        "postalCode": "46545-1969"
+      },
+      {
+        "line": [
+          "1915 Lake Ave"
+        ],
+        "city": "PLYMOUTH",
+        "state": "IN",
+        "postalCode": "46563-9366"
       },
       {
         "line": [
@@ -72,15 +72,24 @@
       },
       {
         "line": [
-          "SURGERY TEMPLATE"
+          "611 E. Douglas Rd",
+          "Suite 128"
         ],
         "city": "MISHAWAKA",
         "state": "IN",
-        "postalCode": "46545-1969"
+        "postalCode": "46545-1464"
       },
       {
         "line": [
           "SCHEDULE TEMPLATE"
+        ],
+        "city": "PLYMOUTH",
+        "state": "IN",
+        "postalCode": "46563-9366"
+      },
+      {
+        "line": [
+          "BLOCK"
         ],
         "city": "SOUTH BEND",
         "state": "IN",
@@ -96,15 +105,6 @@
       },
       {
         "line": [
-          "611 E. Douglas Rd",
-          "Suite 128"
-        ],
-        "city": "MISHAWAKA",
-        "state": "IN",
-        "postalCode": "46545-1464"
-      },
-      {
-        "line": [
           "5230 BECK DR STE 6"
         ],
         "city": "ELKHART",
@@ -113,11 +113,11 @@
       },
       {
         "line": [
-          "BLOCK"
+          "60160 Bodnar Blvd"
         ],
-        "city": "SOUTH BEND",
+        "city": "MISHAWAKA",
         "state": "IN",
-        "postalCode": "46601-1033"
+        "postalCode": "46544-9338"
       }
     ],
     "extension": [

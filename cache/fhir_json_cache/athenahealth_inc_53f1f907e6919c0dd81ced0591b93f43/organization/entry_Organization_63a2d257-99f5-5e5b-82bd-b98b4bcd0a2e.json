@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1346366523"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669681573"
       },
       {
@@ -22,14 +26,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346366523"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1770605446"
       }
     ],
     "address": [
+      {
+        "line": [
+          "5050 NE HOYT # 626"
+        ],
+        "city": "PORTLAND",
+        "state": "OR",
+        "postalCode": "97213-2956"
+      },
       {
         "line": [
           "5050 NE Hoyt St Suite626"
@@ -48,15 +56,6 @@
       },
       {
         "line": [
-          "5050 NE HOYT ST",
-          "STE 626"
-        ],
-        "city": "PORTLAND",
-        "state": "OR",
-        "postalCode": "97213-2956"
-      },
-      {
-        "line": [
           "9820 NE CASCADES"
         ],
         "city": "PORTLAND",
@@ -65,7 +64,7 @@
       },
       {
         "line": [
-          "5050 NE HOYT # 626"
+          "5050 NE HOYT ST STE 626"
         ],
         "city": "PORTLAND",
         "state": "OR",
@@ -73,11 +72,11 @@
       },
       {
         "line": [
-          "9820 NE CASCADES PARKWAY"
+          "5050 NE Hoyt #626"
         ],
         "city": "PORTLAND",
         "state": "OR",
-        "postalCode": "97220-6825"
+        "postalCode": "97213-2991"
       },
       {
         "line": [
@@ -89,11 +88,11 @@
       },
       {
         "line": [
-          "5050 NE Hoyt #626"
+          "9820 NE CASCADES PARKWAY"
         ],
         "city": "PORTLAND",
         "state": "OR",
-        "postalCode": "97213-2991"
+        "postalCode": "97220-6825"
       }
     ],
     "extension": [

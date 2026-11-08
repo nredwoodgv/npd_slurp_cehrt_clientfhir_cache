@@ -14,19 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326434440"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1598357600"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952993065"
+        "value": "1972192987"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1801526009"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326434440"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,27 +42,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427668169"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1407518780"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972192987"
+        "value": "1427668169"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952993065"
       }
     ],
     "address": [
-      {
-        "line": [
-          "188 VALLEY STREET",
-          "SUITE 201"
-        ],
-        "city": "PROVIDENCE",
-        "state": "RI",
-        "postalCode": "02909-2458"
-      },
       {
         "line": [
           "512 S Peterson Avenue #2006"
@@ -73,11 +64,11 @@
       },
       {
         "line": [
-          "6112 N Mesa Street #6092"
+          "1500 CHESTNUT ST # 2420"
         ],
-        "city": "EL PASO",
-        "state": "TX",
-        "postalCode": "79912-4516"
+        "city": "PHILADELPHIA",
+        "state": "PA",
+        "postalCode": "19102-2737"
       },
       {
         "line": [
@@ -86,6 +77,15 @@
         "city": "PHOENIX",
         "state": "AZ",
         "postalCode": "85003-1902"
+      },
+      {
+        "line": [
+          "188 VALLEY STREET",
+          "SUITE 201"
+        ],
+        "city": "PROVIDENCE",
+        "state": "RI",
+        "postalCode": "02909-2458"
       },
       {
         "line": [
@@ -115,14 +115,6 @@
       },
       {
         "line": [
-          "6 LIBERTY SQUARE #2694"
-        ],
-        "city": "BOSTON",
-        "state": "MA",
-        "postalCode": "02109-5800"
-      },
-      {
-        "line": [
           "470 NOOR AVE",
           "Suite B. #1057"
         ],
@@ -132,11 +124,19 @@
       },
       {
         "line": [
-          "1500 CHESTNUT ST # 2420"
+          "6 LIBERTY SQUARE #2694"
         ],
-        "city": "PHILADELPHIA",
-        "state": "PA",
-        "postalCode": "19102-2737"
+        "city": "BOSTON",
+        "state": "MA",
+        "postalCode": "02109-5800"
+      },
+      {
+        "line": [
+          "6112 N Mesa Street #6092"
+        ],
+        "city": "EL PASO",
+        "state": "TX",
+        "postalCode": "79912-4516"
       }
     ],
     "extension": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609136563"
+        "value": "1346725108"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346725108"
+        "value": "1609136563"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -29,6 +29,14 @@
       {
         "line": [
           "12 Westbank Expressway"
+        ],
+        "city": "GRETNA",
+        "state": "LA",
+        "postalCode": "70053-3647"
+      },
+      {
+        "line": [
+          "12 WESTBANK EXPY"
         ],
         "city": "GRETNA",
         "state": "LA",

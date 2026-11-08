@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174977433"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1922453398"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1144844606"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174977433"
       }
     ],
     "address": [
       {
         "line": [
-          "500 Vincent St"
+          "500 Vincent Street"
         ],
         "city": "STEVENS POINT",
         "state": "WI",
@@ -41,14 +41,6 @@
         "city": "WAUSAU",
         "state": "WI",
         "postalCode": "54401-3948"
-      },
-      {
-        "line": [
-          "3200 Westhill Drive"
-        ],
-        "city": "WAUSAU",
-        "state": "WI",
-        "postalCode": "54401-4705"
       },
       {
         "line": [
@@ -68,7 +60,15 @@
       },
       {
         "line": [
-          "500 Vincent Street"
+          "500 Vincent St"
+        ],
+        "city": "WAUSAU",
+        "state": "WI",
+        "postalCode": "54401-1842"
+      },
+      {
+        "line": [
+          "500 Vincent St"
         ],
         "city": "STEVENS POINT",
         "state": "WI",
@@ -76,11 +76,11 @@
       },
       {
         "line": [
-          "500 Vincent St"
+          "3200 Westhill Drive"
         ],
         "city": "WAUSAU",
         "state": "WI",
-        "postalCode": "54401-1842"
+        "postalCode": "54401-4705"
       }
     ],
     "extension": [

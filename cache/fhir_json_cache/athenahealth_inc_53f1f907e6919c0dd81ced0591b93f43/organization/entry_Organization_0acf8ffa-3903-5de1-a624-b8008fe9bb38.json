@@ -14,22 +14,31 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659417467"
+        "value": "1689600280"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689600280"
+        "value": "1659417467"
       }
     ],
     "address": [
       {
         "line": [
-          "2601 SW 37th Avenue",
-          "Ste. 903"
+          "927 45th St",
+          "Suite 201"
         ],
-        "city": "MIAMI",
+        "city": "Mangonia Park",
         "state": "FL",
-        "postalCode": "33133-2753"
+        "postalCode": "33407-2450"
+      },
+      {
+        "line": [
+          "901 Village Blvd",
+          "Suite 702"
+        ],
+        "city": "WEST PALM BEACH",
+        "state": "FL",
+        "postalCode": "33409-1947"
       },
       {
         "line": [
@@ -51,21 +60,12 @@
       },
       {
         "line": [
-          "901 Village Blvd",
-          "Suite 702"
+          "2601 SW 37th Avenue",
+          "Ste. 903"
         ],
-        "city": "WEST PALM BEACH",
+        "city": "MIAMI",
         "state": "FL",
-        "postalCode": "33409-1947"
-      },
-      {
-        "line": [
-          "927 45th St",
-          "Suite 201"
-        ],
-        "city": "Mangonia Park",
-        "state": "FL",
-        "postalCode": "33407-2450"
+        "postalCode": "33133-2753"
       }
     ],
     "extension": [

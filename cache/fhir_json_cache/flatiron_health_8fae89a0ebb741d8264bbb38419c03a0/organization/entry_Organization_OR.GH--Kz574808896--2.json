@@ -18,10 +18,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "0000000000"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1083615587"
       },
       {
@@ -30,44 +26,24 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "0000000000"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467491027"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1770539637"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1700539637"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467491027"
       }
     ],
     "active": true,
     "name": "Lancaster Cancer Center Ltd",
     "telecom": [
-      {
-        "system": "phone",
-        "value": "(717)291-1313"
-      },
-      {
-        "system": "phone",
-        "value": "(717)230-3700"
-      },
-      {
-        "system": "phone",
-        "value": "(717)544-8300"
-      },
-      {
-        "system": "phone",
-        "value": "(717)544-5122"
-      },
-      {
-        "system": "phone",
-        "value": "(717)851-2511"
-      },
-      {
-        "system": "phone",
-        "value": "(717)291-8211"
-      },
       {
         "system": "phone",
         "value": "(717)391-1313"
@@ -82,66 +58,34 @@
       },
       {
         "system": "phone",
+        "value": "(717)291-1313"
+      },
+      {
+        "system": "phone",
+        "value": "(717)230-3700"
+      },
+      {
+        "system": "phone",
+        "value": "(717)544-8300"
+      },
+      {
+        "system": "phone",
+        "value": "(717)291-8211"
+      },
+      {
+        "system": "phone",
         "value": "(717)625-5000"
+      },
+      {
+        "system": "phone",
+        "value": "(717)544-5122"
+      },
+      {
+        "system": "phone",
+        "value": "(717)851-2511"
       }
     ],
     "address": [
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "703 Lampeter Road"
-        ],
-        "city": "Lancaster",
-        "state": "PA",
-        "postalCode": "17602",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1703 Innovation Drive"
-        ],
-        "city": "York`",
-        "state": "PA",
-        "postalCode": "17408",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "217 Harrisburg Avenue"
-        ],
-        "city": "Lancaster",
-        "state": "PA",
-        "postalCode": "17603",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "250 College Avenue"
-        ],
-        "city": "Lacaster",
-        "state": "PA",
-        "postalCode": "17603",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1858 Charter Lane 202",
-          "P.O. Box 10396"
-        ],
-        "city": "Lancaster",
-        "state": "PA",
-        "postalCode": "17605-0396",
-        "country": "USA"
-      },
       {
         "use": "work",
         "type": "postal",
@@ -191,55 +135,111 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1500 Highland Dr"
-        ],
-        "city": "Lititz",
-        "state": "PA",
-        "postalCode": "17543-0000",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1500 Highland Dr"
-        ],
-        "city": "Lititz",
-        "state": "PA",
-        "postalCode": "17543-0000",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "250 College Ave"
-        ],
-        "city": "Lancaster",
-        "state": "PA",
-        "postalCode": "17603",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "250 College Ave"
-        ],
-        "city": "Lancaster",
-        "state": "PA",
-        "postalCode": "17603",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "169 Martin Ave"
         ],
         "city": "Ephrata",
         "state": "PA",
         "postalCode": "17522-1002",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1858 Charter Lane 202",
+          "P.O. Box 10396"
+        ],
+        "city": "Lancaster",
+        "state": "PA",
+        "postalCode": "17605-0396",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "703 Lampeter Road"
+        ],
+        "city": "Lancaster",
+        "state": "PA",
+        "postalCode": "17602",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1703 Innovation Drive"
+        ],
+        "city": "York`",
+        "state": "PA",
+        "postalCode": "17408",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "217 Harrisburg Avenue"
+        ],
+        "city": "Lancaster",
+        "state": "PA",
+        "postalCode": "17603",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "250 College Avenue"
+        ],
+        "city": "Lacaster",
+        "state": "PA",
+        "postalCode": "17603",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "250 College Ave"
+        ],
+        "city": "Lancaster",
+        "state": "PA",
+        "postalCode": "17603",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "250 College Ave"
+        ],
+        "city": "Lancaster",
+        "state": "PA",
+        "postalCode": "17603",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1500 Highland Dr"
+        ],
+        "city": "Lititz",
+        "state": "PA",
+        "postalCode": "17543-0000",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1500 Highland Dr"
+        ],
+        "city": "Lititz",
+        "state": "PA",
+        "postalCode": "17543-0000",
         "country": "USA"
       }
     ],

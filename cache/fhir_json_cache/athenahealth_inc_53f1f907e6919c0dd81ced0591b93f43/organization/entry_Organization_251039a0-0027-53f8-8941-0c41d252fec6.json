@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114976867"
+        "value": "1003025347"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003025347"
+        "value": "1114976867"
       }
     ],
     "address": [
-      {
-        "line": [
-          "16874 Hwy 43"
-        ],
-        "city": "GREENSBURG",
-        "state": "LA",
-        "postalCode": "70441-4834"
-      },
       {
         "line": [
           "32 North 2nd Street"
@@ -37,6 +29,14 @@
         "city": "GREENSBURG",
         "state": "LA",
         "postalCode": "70441-5218"
+      },
+      {
+        "line": [
+          "16874 Hwy 43"
+        ],
+        "city": "GREENSBURG",
+        "state": "LA",
+        "postalCode": "70441-4834"
       },
       {
         "line": [

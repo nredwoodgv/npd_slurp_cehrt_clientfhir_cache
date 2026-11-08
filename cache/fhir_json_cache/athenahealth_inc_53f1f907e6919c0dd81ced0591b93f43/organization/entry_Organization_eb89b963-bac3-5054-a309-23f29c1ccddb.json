@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922453398"
+        "value": "1174977433"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174977433"
+        "value": "1922453398"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,7 +28,15 @@
     "address": [
       {
         "line": [
-          "1405 Kenwood Drive Suite B"
+          "4002 Schofield Ave Ste 2"
+        ],
+        "city": "WESTON",
+        "state": "WI",
+        "postalCode": "54476-3809"
+      },
+      {
+        "line": [
+          "1405 KENWWOD DR STE 5"
         ],
         "city": "WAUSAU",
         "state": "WI",
@@ -44,15 +52,7 @@
       },
       {
         "line": [
-          "4002 Schofield Ave Ste 2"
-        ],
-        "city": "WESTON",
-        "state": "WI",
-        "postalCode": "54476-3809"
-      },
-      {
-        "line": [
-          "1405 KENWWOD DR STE 5"
+          "1405 Kenwood Drive Suite B"
         ],
         "city": "WAUSAU",
         "state": "WI",

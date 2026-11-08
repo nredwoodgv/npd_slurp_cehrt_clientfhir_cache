@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477676930"
+        "value": "1982223848"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982223848"
+        "value": "1477676930"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1820 Sidewinder Drive"
-        ],
-        "city": "PARK CITY",
-        "state": "UT",
-        "postalCode": "84060-7562"
-      },
       {
         "line": [
           "3741 West 1260 South"
@@ -37,6 +29,14 @@
         "city": "RIVERTON",
         "state": "UT",
         "postalCode": "84065-7215"
+      },
+      {
+        "line": [
+          "1820 Sidewinder Drive"
+        ],
+        "city": "PARK CITY",
+        "state": "UT",
+        "postalCode": "84060-7562"
       }
     ],
     "extension": [

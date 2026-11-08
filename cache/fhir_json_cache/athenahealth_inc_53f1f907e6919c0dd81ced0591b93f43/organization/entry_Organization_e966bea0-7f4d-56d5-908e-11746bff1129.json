@@ -18,18 +18,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326460916"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1437158854"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1376644831"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326460916"
       }
     ],
     "address": [
+      {
+        "line": [
+          "71 1st Ave"
+        ],
+        "city": "WALTHAM",
+        "state": "MA",
+        "postalCode": "02451-1105"
+      },
+      {
+        "line": [
+          "220 Donald Lynch Boulevard"
+        ],
+        "city": "MARLBOROUGH",
+        "state": "MA",
+        "postalCode": "01752-4708"
+      },
       {
         "line": [
           "290 Congress St"
@@ -40,19 +56,11 @@
       },
       {
         "line": [
-          "965 Massachusetts Ave"
+          "675 Ponce de leon ave"
         ],
-        "city": "BOSTON",
-        "state": "MA",
-        "postalCode": "02118-2613"
-      },
-      {
-        "line": [
-          "One Financial Center"
-        ],
-        "city": "BOSTON",
-        "state": "MA",
-        "postalCode": "02110-2621"
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30313-1234"
       },
       {
         "line": [
@@ -65,126 +73,11 @@
       },
       {
         "line": [
-          "71 1st Ave"
-        ],
-        "city": "WALTHAM",
-        "state": "MA",
-        "postalCode": "02451-1105"
-      },
-      {
-        "line": [
-          "251 Ballardvale St"
-        ],
-        "city": "WILMINGTON",
-        "state": "MA",
-        "postalCode": "01887-1096"
-      },
-      {
-        "line": [
-          "One Ocean Spray Drive"
-        ],
-        "city": "MIDDLEBORO",
-        "state": "MA",
-        "postalCode": "02349-1000"
-      },
-      {
-        "line": [
-          "77 FOURTH AVE",
-          "5TH FLOOR"
-        ],
-        "city": "WALTHAM",
-        "state": "MA",
-        "postalCode": "02451-7559"
-      },
-      {
-        "line": [
-          "900 Chelmsford Street",
-          "Building 1"
-        ],
-        "city": "LOWELL",
-        "state": "MA",
-        "postalCode": "01851-8100"
-      },
-      {
-        "line": [
-          "675 Ponce de leon ave"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30313-1234"
-      },
-      {
-        "line": [
-          "399 Revolution Dr."
-        ],
-        "city": "SOMERVILLE",
-        "state": "MA",
-        "postalCode": "02145-1446"
-      },
-      {
-        "line": [
-          "4200 Wildwood Pkwy"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30339-8402"
-      },
-      {
-        "line": [
-          "131 Dartmouth"
-        ],
-        "city": "BOSTON",
-        "state": "MA",
-        "postalCode": "02116-5297"
-      },
-      {
-        "line": [
-          "770 Cochituate Road"
-        ],
-        "city": "FRAMINGHAM",
-        "state": "MA",
-        "postalCode": "01701-4666"
-      },
-      {
-        "line": [
-          "9 Oak Park Dr"
-        ],
-        "city": "BEDFORD",
-        "state": "MA",
-        "postalCode": "01730-1413"
-      },
-      {
-        "line": [
-          "529 Pleasant St"
-        ],
-        "city": "ATTLEBORO",
-        "state": "MA",
-        "postalCode": "02703-2421"
-      },
-      {
-        "line": [
-          "131 Dartmouth St"
-        ],
-        "city": "BOSTON",
-        "state": "MA",
-        "postalCode": "02116-5297"
-      },
-      {
-        "line": [
           "415 Main St"
         ],
         "city": "CAMBRIDGE",
         "state": "MA",
         "postalCode": "02139-1027"
-      },
-      {
-        "line": [
-          "600 W Chicago Ave",
-          "Suite 620"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60654-2284"
       },
       {
         "line": [
@@ -196,11 +89,43 @@
       },
       {
         "line": [
-          "3297 WASHINGTON ST"
+          "One Ocean Spray Drive"
         ],
-        "city": "JAMAICA PLAIN",
+        "city": "MIDDLEBORO",
         "state": "MA",
-        "postalCode": "02130-2655"
+        "postalCode": "02349-1000"
+      },
+      {
+        "line": [
+          "965 Massachusetts Ave"
+        ],
+        "city": "BOSTON",
+        "state": "MA",
+        "postalCode": "02118-2613"
+      },
+      {
+        "line": [
+          "4200 Wildwood Pkwy"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30339-8402"
+      },
+      {
+        "line": [
+          "333 W. Ohio Street"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60654-7809"
+      },
+      {
+        "line": [
+          "9 Oak Park Dr"
+        ],
+        "city": "BEDFORD",
+        "state": "MA",
+        "postalCode": "01730-1413"
       },
       {
         "line": [
@@ -213,11 +138,20 @@
       },
       {
         "line": [
-          "100 Technology Dr"
+          "77 FOURTH AVE",
+          "5TH FLOOR"
         ],
-        "city": "CAMBRIDGE",
+        "city": "WALTHAM",
         "state": "MA",
-        "postalCode": "02139-3585"
+        "postalCode": "02451-7559"
+      },
+      {
+        "line": [
+          "3297 WASHINGTON ST"
+        ],
+        "city": "JAMAICA PLAIN",
+        "state": "MA",
+        "postalCode": "02130-2655"
       },
       {
         "line": [
@@ -229,11 +163,11 @@
       },
       {
         "line": [
-          "111 Huntington Ave"
+          "311 ARSENAL ST"
         ],
-        "city": "BOSTON",
+        "city": "WATERTOWN",
         "state": "MA",
-        "postalCode": "02199-7610"
+        "postalCode": "02472-2782"
       },
       {
         "line": [
@@ -245,27 +179,44 @@
       },
       {
         "line": [
-          "333 W. Ohio Street"
+          "131 Dartmouth St"
         ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60654-7809"
+        "city": "BOSTON",
+        "state": "MA",
+        "postalCode": "02116-5297"
       },
       {
         "line": [
-          "2 Technology Dr"
+          "111 Huntington Ave"
         ],
-        "city": "WESTBOROUGH",
+        "city": "BOSTON",
         "state": "MA",
-        "postalCode": "01581-1727"
+        "postalCode": "02199-7610"
       },
       {
         "line": [
-          "220 Donald Lynch Boulevard"
+          "900 Chelmsford Street",
+          "Building 1"
         ],
-        "city": "MARLBOROUGH",
+        "city": "LOWELL",
         "state": "MA",
-        "postalCode": "01752-4708"
+        "postalCode": "01851-8100"
+      },
+      {
+        "line": [
+          "One Financial Center"
+        ],
+        "city": "BOSTON",
+        "state": "MA",
+        "postalCode": "02110-2621"
+      },
+      {
+        "line": [
+          "529 Pleasant St"
+        ],
+        "city": "ATTLEBORO",
+        "state": "MA",
+        "postalCode": "02703-2421"
       },
       {
         "line": [
@@ -277,11 +228,60 @@
       },
       {
         "line": [
-          "311 ARSENAL ST"
+          "600 W Chicago Ave",
+          "Suite 620"
         ],
-        "city": "WATERTOWN",
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60654-2284"
+      },
+      {
+        "line": [
+          "251 Ballardvale St"
+        ],
+        "city": "WILMINGTON",
         "state": "MA",
-        "postalCode": "02472-2782"
+        "postalCode": "01887-1096"
+      },
+      {
+        "line": [
+          "100 Technology Dr"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02139-3585"
+      },
+      {
+        "line": [
+          "131 Dartmouth"
+        ],
+        "city": "BOSTON",
+        "state": "MA",
+        "postalCode": "02116-5297"
+      },
+      {
+        "line": [
+          "2 Technology Dr"
+        ],
+        "city": "WESTBOROUGH",
+        "state": "MA",
+        "postalCode": "01581-1727"
+      },
+      {
+        "line": [
+          "770 Cochituate Road"
+        ],
+        "city": "FRAMINGHAM",
+        "state": "MA",
+        "postalCode": "01701-4666"
+      },
+      {
+        "line": [
+          "399 Revolution Dr."
+        ],
+        "city": "SOMERVILLE",
+        "state": "MA",
+        "postalCode": "02145-1446"
       }
     ],
     "extension": [

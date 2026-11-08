@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962040147"
+        "value": "1831717511"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831717511"
+        "value": "1962040147"
       }
     ],
     "address": [
       {
         "line": [
-          "6689 CHRISWOOD DR"
+          "216 MILL POND CHASE"
         ],
-        "city": "MACON",
+        "city": "WARNER ROBINS",
         "state": "GA",
-        "postalCode": "31216-6700"
+        "postalCode": "31088-1654"
       },
       {
         "line": [
@@ -40,36 +40,11 @@
       },
       {
         "line": [
-          "216 MILL POND CHASE"
-        ],
-        "city": "WARNER ROBINS",
-        "state": "GA",
-        "postalCode": "31088-1654"
-      },
-      {
-        "line": [
-          "204 WESTBURY COURT"
-        ],
-        "city": "WARNER ROBINS",
-        "state": "GA",
-        "postalCode": "31088-2621"
-      },
-      {
-        "line": [
-          "3990 RIVERSIDE PARK BOULEVARD",
-          "APARTMENT 1407"
+          "6689 CHRISWOOD DR"
         ],
         "city": "MACON",
         "state": "GA",
-        "postalCode": "31210-1237"
-      },
-      {
-        "line": [
-          "128 HUNTINGTON PLACE"
-        ],
-        "city": "BONAIRE",
-        "state": "GA",
-        "postalCode": "31005-4746"
+        "postalCode": "31216-6700"
       },
       {
         "line": [
@@ -89,11 +64,28 @@
       },
       {
         "line": [
-          "2042 BAKERS MILL ROAD"
+          "128 HUNTINGTON PLACE"
         ],
-        "city": "DACULA",
+        "city": "BONAIRE",
         "state": "GA",
-        "postalCode": "30019-4636"
+        "postalCode": "31005-4746"
+      },
+      {
+        "line": [
+          "3990 RIVERSIDE PARK BOULEVARD",
+          "APARTMENT 1407"
+        ],
+        "city": "MACON",
+        "state": "GA",
+        "postalCode": "31210-1237"
+      },
+      {
+        "line": [
+          "204 WESTBURY COURT"
+        ],
+        "city": "WARNER ROBINS",
+        "state": "GA",
+        "postalCode": "31088-2621"
       },
       {
         "line": [
@@ -102,6 +94,14 @@
         "city": "MACON",
         "state": "GA",
         "postalCode": "31220-7633"
+      },
+      {
+        "line": [
+          "2042 BAKERS MILL ROAD"
+        ],
+        "city": "DACULA",
+        "state": "GA",
+        "postalCode": "30019-4636"
       }
     ],
     "extension": [

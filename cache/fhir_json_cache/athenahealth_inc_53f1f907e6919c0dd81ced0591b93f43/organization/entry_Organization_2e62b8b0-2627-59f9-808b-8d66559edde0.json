@@ -18,23 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1750302923"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
+        "value": "1124080320"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,41 +34,37 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962602300"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215999511"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881656247"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649232984"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
+        "value": "1215348487"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
+        "value": "1669801585"
       }
     ],
     "address": [
       {
         "line": [
-          "510 E. Rio Grande"
+          "139 Franklin St."
         ],
-        "city": "Victoria",
+        "city": "GOLIAD",
         "state": "TX",
-        "postalCode": "77901-6033"
-      },
-      {
-        "line": [
-          "1013 South Wells St."
-        ],
-        "city": "Edna",
-        "state": "TX",
-        "postalCode": "77957-4045"
-      },
-      {
-        "line": [
-          "107.5 Swift St."
-        ],
-        "city": "Refugio",
-        "state": "TX",
-        "postalCode": "78377-2425"
+        "postalCode": "77963-4281"
       },
       {
         "line": [
@@ -92,11 +76,27 @@
       },
       {
         "line": [
-          "139 Franklin St."
+          "1013 South Wells St."
         ],
-        "city": "GOLIAD",
+        "city": "Edna",
         "state": "TX",
-        "postalCode": "77963-4281"
+        "postalCode": "77957-4045"
+      },
+      {
+        "line": [
+          "510 E. Rio Grande"
+        ],
+        "city": "Victoria",
+        "state": "TX",
+        "postalCode": "77901-6033"
+      },
+      {
+        "line": [
+          "107.5 Swift St."
+        ],
+        "city": "Refugio",
+        "state": "TX",
+        "postalCode": "78377-2425"
       }
     ],
     "extension": [

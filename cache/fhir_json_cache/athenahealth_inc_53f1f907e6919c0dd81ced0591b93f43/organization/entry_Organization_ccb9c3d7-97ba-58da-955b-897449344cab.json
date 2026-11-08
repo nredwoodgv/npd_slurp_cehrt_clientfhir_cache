@@ -14,29 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558344978"
+        "value": "1417987124"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417987124"
+        "value": "1558344978"
       }
     ],
     "address": [
       {
         "line": [
-          "232 PONTE VEDRA PARK DR"
-        ],
-        "city": "PONTE VEDRA BEACH",
-        "state": "FL",
-        "postalCode": "32082-6600"
-      },
-      {
-        "line": [
-          "3625 UNIVERSITY BLVD S"
+          "3960 OAK ST"
         ],
         "city": "JACKSONVILLE",
         "state": "FL",
-        "postalCode": "32216-4207"
+        "postalCode": "32205-9375"
       },
       {
         "line": [
@@ -48,11 +40,12 @@
       },
       {
         "line": [
-          "3960 OAK ST"
+          "1324 KING ST",
+          "SUITE 200"
         ],
         "city": "JACKSONVILLE",
         "state": "FL",
-        "postalCode": "32205-9375"
+        "postalCode": "32204-4735"
       },
       {
         "line": [
@@ -64,20 +57,11 @@
       },
       {
         "line": [
-          "1127 16TH AVE S"
+          "2561 OAK ST"
         ],
-        "city": "JACKSONVILLE BEACH",
+        "city": "JACKSONVILLE",
         "state": "FL",
-        "postalCode": "32250-3213"
-      },
-      {
-        "line": [
-          "2035 PROFESSIONAL CENTER DR",
-          "SUITE C"
-        ],
-        "city": "ORANGE PARK",
-        "state": "FL",
-        "postalCode": "32073-4492"
+        "postalCode": "32204-4559"
       },
       {
         "line": [
@@ -90,11 +74,19 @@
       },
       {
         "line": [
-          "2561 OAK ST"
+          "3625 UNIVERSITY BLVD S"
         ],
         "city": "JACKSONVILLE",
         "state": "FL",
-        "postalCode": "32204-4559"
+        "postalCode": "32216-4207"
+      },
+      {
+        "line": [
+          "1127 16TH AVE S"
+        ],
+        "city": "JACKSONVILLE BEACH",
+        "state": "FL",
+        "postalCode": "32250-3213"
       },
       {
         "line": [
@@ -106,20 +98,28 @@
       },
       {
         "line": [
+          "232 PONTE VEDRA PARK DR"
+        ],
+        "city": "PONTE VEDRA BEACH",
+        "state": "FL",
+        "postalCode": "32082-6600"
+      },
+      {
+        "line": [
+          "2035 PROFESSIONAL CENTER DR",
+          "SUITE C"
+        ],
+        "city": "ORANGE PARK",
+        "state": "FL",
+        "postalCode": "32073-4492"
+      },
+      {
+        "line": [
           "2 Shircliff Way, Suite 400"
         ],
         "city": "JACKSONVILLE",
         "state": "FL",
         "postalCode": "32204-4765"
-      },
-      {
-        "line": [
-          "1324 KING ST",
-          "SUITE 200"
-        ],
-        "city": "JACKSONVILLE",
-        "state": "FL",
-        "postalCode": "32204-4735"
       }
     ],
     "extension": [

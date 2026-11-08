@@ -18,15 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588043707"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912421645"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1033767785"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225723125"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,18 +30,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225723125"
+        "value": "1912421645"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588043707"
       }
     ],
     "address": [
-      {
-        "line": [
-          "5514 N BIG SPRING ST"
-        ],
-        "city": "MIDLAND",
-        "state": "TX",
-        "postalCode": "79705-2697"
-      },
       {
         "line": [
           "6950 EASTRIDGE RD"
@@ -53,14 +45,6 @@
         "city": "ODESSA",
         "state": "TX",
         "postalCode": "79765-6209"
-      },
-      {
-        "line": [
-          "616 N MAIN STREET"
-        ],
-        "city": "ANDREWS",
-        "state": "TX",
-        "postalCode": "79714-5207"
       },
       {
         "line": [
@@ -76,7 +60,15 @@
         ],
         "city": "ODESSA",
         "state": "TX",
-        "postalCode": "79762-2010"
+        "postalCode": "79762-0123"
+      },
+      {
+        "line": [
+          "5514 N BIG SPRING ST"
+        ],
+        "city": "MIDLAND",
+        "state": "TX",
+        "postalCode": "79705-2697"
       },
       {
         "line": [
@@ -92,7 +84,15 @@
         ],
         "city": "ODESSA",
         "state": "TX",
-        "postalCode": "79762-0123"
+        "postalCode": "79762-2010"
+      },
+      {
+        "line": [
+          "616 N MAIN STREET"
+        ],
+        "city": "ANDREWS",
+        "state": "TX",
+        "postalCode": "79714-5207"
       }
     ],
     "extension": [

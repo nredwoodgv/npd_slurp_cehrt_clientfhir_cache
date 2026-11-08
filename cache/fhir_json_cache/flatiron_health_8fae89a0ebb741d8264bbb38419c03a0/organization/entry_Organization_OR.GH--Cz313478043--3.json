@@ -134,7 +134,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "3456789"
+        "value": "2435"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -258,11 +258,15 @@
       },
       {
         "system": "phone",
-        "value": "(650)559-6040"
+        "value": "(123)123-4532"
       },
       {
         "system": "phone",
         "value": "(888)662-6367"
+      },
+      {
+        "system": "phone",
+        "value": "(650)559-6040"
       },
       {
         "system": "phone",
@@ -580,6 +584,17 @@
         "use": "work",
         "type": "postal",
         "line": [
+          "1 Presidential Blvd. Suite 115"
+        ],
+        "city": "Bala Cynwyd",
+        "state": "PA",
+        "postalCode": "11209",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
           "1 Road"
         ],
         "city": "WeHa",
@@ -688,11 +703,12 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "123 Test place"
+          "321456",
+          "23456"
         ],
-        "city": "Testville",
-        "state": "NY",
-        "postalCode": "10000",
+        "city": "asdfs",
+        "state": "ca",
+        "postalCode": "1232434524",
         "country": "USA"
       },
       {

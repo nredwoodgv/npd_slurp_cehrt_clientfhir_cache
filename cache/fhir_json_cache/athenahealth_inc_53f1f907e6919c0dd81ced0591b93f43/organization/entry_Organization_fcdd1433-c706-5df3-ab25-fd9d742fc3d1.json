@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144797614"
+        "value": "1750849428"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750849428"
+        "value": "1144797614"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,14 +26,6 @@
       }
     ],
     "address": [
-      {
-        "line": [
-          "10532 N. Port Washington Rd, Ste 1A"
-        ],
-        "city": "Mequon",
-        "state": "WI",
-        "postalCode": "53092-5563"
-      },
       {
         "line": [
           "7456 S STATE RD STE 205"
@@ -55,6 +47,14 @@
           "10532 N. Port Washington Rd, Ste 1A"
         ],
         "city": "MEQUON",
+        "state": "WI",
+        "postalCode": "53092-5563"
+      },
+      {
+        "line": [
+          "10532 N. Port Washington Rd, Ste 1A"
+        ],
+        "city": "Mequon",
         "state": "WI",
         "postalCode": "53092-5563"
       },

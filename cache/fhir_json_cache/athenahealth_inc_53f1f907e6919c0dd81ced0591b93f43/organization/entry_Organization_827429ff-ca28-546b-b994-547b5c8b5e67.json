@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548640642"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1174744379"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1407235971"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548640642"
       }
     ],
     "address": [
@@ -36,19 +36,19 @@
       },
       {
         "line": [
-          "503 SILVER CROSS DR"
-        ],
-        "city": "BROOKHAVEN",
-        "state": "MS",
-        "postalCode": "39601-2326"
-      },
-      {
-        "line": [
           "427 HIGHWAY 51 N"
         ],
         "city": "BROOKHAVEN",
         "state": "MS",
         "postalCode": "39601-2350"
+      },
+      {
+        "line": [
+          "524 BROOKMAN DR"
+        ],
+        "city": "BROOKHAVEN",
+        "state": "MS",
+        "postalCode": "39601-2384"
       },
       {
         "line": [
@@ -60,14 +60,6 @@
       },
       {
         "line": [
-          "519 BROOKMAN DR"
-        ],
-        "city": "BROOKHAVEN",
-        "state": "MS",
-        "postalCode": "39601-2326"
-      },
-      {
-        "line": [
           "101 MILLS ST"
         ],
         "city": "BROOKHAVEN",
@@ -76,11 +68,19 @@
       },
       {
         "line": [
-          "524 BROOKMAN DR"
+          "503 SILVER CROSS DR"
         ],
         "city": "BROOKHAVEN",
         "state": "MS",
-        "postalCode": "39601-2384"
+        "postalCode": "39601-2326"
+      },
+      {
+        "line": [
+          "519 BROOKMAN DR"
+        ],
+        "city": "BROOKHAVEN",
+        "state": "MS",
+        "postalCode": "39601-2326"
       }
     ],
     "extension": [

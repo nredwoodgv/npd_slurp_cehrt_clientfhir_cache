@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1851571392"
+        "value": "1083891329"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,11 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083891329"
+        "value": "1851571392"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316681430"
+        "value": "1578612412"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,7 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578612412"
+        "value": "1316681430"
       }
     ],
     "address": [
@@ -48,11 +48,19 @@
       },
       {
         "line": [
-          "592 Rockaway ave"
+          "592 Rockaway Avenue"
         ],
         "city": "BROOKLYN",
         "state": "NY",
         "postalCode": "11212-5539"
+      },
+      {
+        "line": [
+          "259  Bristol Street"
+        ],
+        "city": "BROOKLYN",
+        "state": "NY",
+        "postalCode": "11212-5540"
       },
       {
         "line": [
@@ -72,15 +80,7 @@
       },
       {
         "line": [
-          "259  Bristol Street"
-        ],
-        "city": "BROOKLYN",
-        "state": "NY",
-        "postalCode": "11212-5540"
-      },
-      {
-        "line": [
-          "592 Rockaway Avenue"
+          "592 Rockaway ave"
         ],
         "city": "BROOKLYN",
         "state": "NY",

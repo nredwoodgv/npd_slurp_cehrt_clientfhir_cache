@@ -3,13 +3,17 @@
     "resourceType": "Organization",
     "id": "3e16aab3-69b2-4552-a4d6-fc38d7a985f6",
     "meta": {
-      "versionId": "3",
-      "lastUpdated": "2025-07-24T21:59:29.636+00:00"
+      "versionId": "4",
+      "lastUpdated": "2026-11-04T17:58:45.919+00:00"
     },
     "extension": [
       {
         "url": "https://trubrudge.com/r4/StructureDefinition/feature",
-        "valueString": "unify"
+        "valueString": "unify fhir-dir"
+      },
+      {
+        "url": "https://trubrudge.com/r4/StructureDefinition/chpl-product",
+        "valueString": "ehr"
       }
     ],
     "identifier": [

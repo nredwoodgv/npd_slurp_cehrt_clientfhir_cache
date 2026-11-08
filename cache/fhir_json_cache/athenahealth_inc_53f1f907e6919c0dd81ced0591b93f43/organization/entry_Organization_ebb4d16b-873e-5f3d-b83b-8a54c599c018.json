@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497678437"
+        "value": "1952298812"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,34 +26,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952298812"
+        "value": "1497678437"
       }
     ],
     "address": [
       {
         "line": [
-          "1493 NEW WALKERTOWN RD"
+          "2000 CHURCH ST"
         ],
-        "city": "WINSTON SALEM",
-        "state": "NC",
-        "postalCode": "27101-3319"
-      },
-      {
-        "line": [
-          "2813 WHIPPLE AVE NW",
-          "STE C"
-        ],
-        "city": "CANTON",
-        "state": "OH",
-        "postalCode": "44708-1531"
-      },
-      {
-        "line": [
-          "1559 SPARTA ST"
-        ],
-        "city": "MCMINNVILLE",
+        "city": "NASHVILLE",
         "state": "TN",
-        "postalCode": "37110-1316"
+        "postalCode": "37236-0001"
       },
       {
         "line": [
@@ -73,19 +56,12 @@
       },
       {
         "line": [
-          "2000 CHURCH ST"
+          "1900 PATTERSON ST",
+          "STE 105"
         ],
         "city": "NASHVILLE",
         "state": "TN",
-        "postalCode": "37236-0001"
-      },
-      {
-        "line": [
-          "520 W Main St"
-        ],
-        "city": "SMITHVILLE",
-        "state": "TN",
-        "postalCode": "37166-1138"
+        "postalCode": "37203-2165"
       },
       {
         "line": [
@@ -94,24 +70,6 @@
         "city": "NASHVILLE",
         "state": "TN",
         "postalCode": "37203-1538"
-      },
-      {
-        "line": [
-          "3540 Maitland Dr",
-          "Suite 102"
-        ],
-        "city": "RALEIGH",
-        "state": "NC",
-        "postalCode": "27610-1230"
-      },
-      {
-        "line": [
-          "11201 SHAKER BLVD",
-          "STE 106"
-        ],
-        "city": "CLEVELAND",
-        "state": "OH",
-        "postalCode": "44104-3833"
       },
       {
         "line": [
@@ -124,6 +82,48 @@
       },
       {
         "line": [
+          "3540 Maitland Dr",
+          "Suite 102"
+        ],
+        "city": "RALEIGH",
+        "state": "NC",
+        "postalCode": "27610-1230"
+      },
+      {
+        "line": [
+          "2813 WHIPPLE AVE NW",
+          "STE C"
+        ],
+        "city": "CANTON",
+        "state": "OH",
+        "postalCode": "44708-1531"
+      },
+      {
+        "line": [
+          "1493 NEW WALKERTOWN RD"
+        ],
+        "city": "WINSTON SALEM",
+        "state": "NC",
+        "postalCode": "27101-3319"
+      },
+      {
+        "line": [
+          "1559 SPARTA ST"
+        ],
+        "city": "MCMINNVILLE",
+        "state": "TN",
+        "postalCode": "37110-1316"
+      },
+      {
+        "line": [
+          "520 W Main St"
+        ],
+        "city": "SMITHVILLE",
+        "state": "TN",
+        "postalCode": "37166-1138"
+      },
+      {
+        "line": [
           "11201 Shaker Blvd"
         ],
         "city": "CLEVELAND",
@@ -132,12 +132,12 @@
       },
       {
         "line": [
-          "1900 PATTERSON ST",
-          "STE 105"
+          "11201 SHAKER BLVD",
+          "STE 106"
         ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37203-2165"
+        "city": "CLEVELAND",
+        "state": "OH",
+        "postalCode": "44104-3833"
       }
     ],
     "extension": [

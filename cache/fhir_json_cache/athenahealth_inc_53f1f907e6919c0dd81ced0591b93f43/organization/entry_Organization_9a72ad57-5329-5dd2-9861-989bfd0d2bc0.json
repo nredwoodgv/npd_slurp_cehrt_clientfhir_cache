@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124099858"
+        "value": "1134176472"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,15 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124099858"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114962461"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1427251420"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548609761"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134176472"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,18 +38,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114962461"
+        "value": "1548609761"
       }
     ],
     "address": [
-      {
-        "line": [
-          "468 Cadieux Rd"
-        ],
-        "city": "Grosse Pointe",
-        "state": "MI",
-        "postalCode": "48230-1507"
-      },
       {
         "line": [
           "11800 E 12 Mile Rd"
@@ -57,6 +49,14 @@
         "city": "Warren",
         "state": "MI",
         "postalCode": "48093-3472"
+      },
+      {
+        "line": [
+          "468 Cadieux Rd"
+        ],
+        "city": "Grosse Pointe",
+        "state": "MI",
+        "postalCode": "48230-1507"
       }
     ],
     "extension": [

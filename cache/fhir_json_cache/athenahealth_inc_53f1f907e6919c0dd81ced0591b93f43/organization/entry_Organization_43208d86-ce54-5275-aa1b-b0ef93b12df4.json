@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063229458"
+        "value": "1699143800"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699143800"
+        "value": "1063229458"
       }
     ],
     "address": [
@@ -32,6 +32,14 @@
       },
       {
         "line": [
+          "312 Crescent Blvd"
+        ],
+        "city": "BENNINGTON",
+        "state": "VT",
+        "postalCode": "05201-2419"
+      },
+      {
+        "line": [
           "16 Danforth Street"
         ],
         "city": "HOOSICK FALLS",
@@ -40,11 +48,11 @@
       },
       {
         "line": [
-          "19 Danforth Street"
+          "160 Hospital Drive"
         ],
-        "city": "HOOSICK FALLS",
-        "state": "NY",
-        "postalCode": "12090-1223"
+        "city": "BENNINGTON",
+        "state": "VT",
+        "postalCode": "05201-2279"
       },
       {
         "line": [
@@ -64,14 +72,6 @@
       },
       {
         "line": [
-          "11 South Union Street"
-        ],
-        "city": "CAMBRIDGE",
-        "state": "NY",
-        "postalCode": "12816-1008"
-      },
-      {
-        "line": [
           "2595 Depot Street"
         ],
         "city": "MANCHESTER CENTER",
@@ -88,27 +88,27 @@
       },
       {
         "line": [
-          "312 Crescent Blvd"
-        ],
-        "city": "BENNINGTON",
-        "state": "VT",
-        "postalCode": "05201-2419"
-      },
-      {
-        "line": [
-          "160 Hospital Drive"
-        ],
-        "city": "BENNINGTON",
-        "state": "VT",
-        "postalCode": "05201-2279"
-      },
-      {
-        "line": [
           "300 Village Lane"
         ],
         "city": "BENNINGTON",
         "state": "VT",
         "postalCode": "05201-9041"
+      },
+      {
+        "line": [
+          "19 Danforth Street"
+        ],
+        "city": "HOOSICK FALLS",
+        "state": "NY",
+        "postalCode": "12090-1223"
+      },
+      {
+        "line": [
+          "11 South Union Street"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "NY",
+        "postalCode": "12816-1008"
       }
     ],
     "extension": [

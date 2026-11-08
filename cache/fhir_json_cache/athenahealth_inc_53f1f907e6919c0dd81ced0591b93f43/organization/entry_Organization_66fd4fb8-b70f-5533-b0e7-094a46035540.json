@@ -18,7 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235709023"
+        "value": "1003152430"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326147380"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,11 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003152430"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326147380"
+        "value": "1235709023"
       }
     ],
     "address": [
@@ -44,6 +44,14 @@
       },
       {
         "line": [
+          "725 Iowa Ave"
+        ],
+        "city": "HOLTON",
+        "state": "KS",
+        "postalCode": "66436-1628"
+      },
+      {
+        "line": [
           "1110 Columbine Dr,",
           "Suite 100"
         ],
@@ -53,11 +61,19 @@
       },
       {
         "line": [
-          "725 Iowa Ave"
+          "1121 W 7th St."
         ],
         "city": "HOLTON",
         "state": "KS",
-        "postalCode": "66436-1628"
+        "postalCode": "66436-1123"
+      },
+      {
+        "line": [
+          "1121 W 7th St"
+        ],
+        "city": "HOLTON",
+        "state": "KS",
+        "postalCode": "66436-1123"
       },
       {
         "line": [
@@ -75,22 +91,6 @@
         "city": "HOLTON",
         "state": "KS",
         "postalCode": "66436-1535"
-      },
-      {
-        "line": [
-          "1121 W 7th St"
-        ],
-        "city": "HOLTON",
-        "state": "KS",
-        "postalCode": "66436-1123"
-      },
-      {
-        "line": [
-          "1121 W 7th St."
-        ],
-        "city": "HOLTON",
-        "state": "KS",
-        "postalCode": "66436-1123"
       }
     ],
     "extension": [

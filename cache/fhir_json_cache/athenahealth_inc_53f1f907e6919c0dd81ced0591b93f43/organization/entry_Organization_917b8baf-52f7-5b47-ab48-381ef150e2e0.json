@@ -14,23 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992598205"
+        "value": "1366329468"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1033985726"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013700327"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992598213"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245117340"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,27 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366329468"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578325759"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447137542"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982470662"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285400978"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548036239"
+        "value": "1952177644"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -70,7 +38,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528945623"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447137542"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1942076633"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285400978"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1659250520"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -78,18 +62,59 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528945623"
+        "value": "1013700327"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952177644"
+        "value": "1992598213"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659250520"
+        "value": "1548036239"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992598205"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1982470662"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578325759"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245117340"
       }
     ],
     "address": [
+      {
+        "line": [
+          "62 Westerview Dr"
+        ],
+        "city": "Westerville",
+        "state": "OH",
+        "postalCode": "43081-2682"
+      },
+      {
+        "line": [
+          "4624 Sawmill Rd"
+        ],
+        "city": "Columbus",
+        "state": "OH",
+        "postalCode": "43220-2247"
+      },
+      {
+        "line": [
+          "1100 Beecher Crossing N",
+          "Ste C"
+        ],
+        "city": "Gahanna",
+        "state": "OH",
+        "postalCode": "43230-4565"
+      },
       {
         "line": [
           "80 GUEST ST"
@@ -108,31 +133,6 @@
       },
       {
         "line": [
-          "62 Westerview Dr"
-        ],
-        "city": "Westerville",
-        "state": "OH",
-        "postalCode": "43081-2682"
-      },
-      {
-        "line": [
-          "8559 S Mason Montgomery Rd",
-          "Stes #25-26"
-        ],
-        "city": "Mason",
-        "state": "OH",
-        "postalCode": "45040-9381"
-      },
-      {
-        "line": [
-          "4624 Sawmill Rd"
-        ],
-        "city": "Columbus",
-        "state": "OH",
-        "postalCode": "43220-2247"
-      },
-      {
-        "line": [
           "3055 Kettering Blvd",
           "Ste 218"
         ],
@@ -142,12 +142,12 @@
       },
       {
         "line": [
-          "1100 Beecher Crossing N",
-          "Ste C"
+          "8559 S Mason Montgomery Rd",
+          "Stes #25-26"
         ],
-        "city": "Gahanna",
+        "city": "Mason",
         "state": "OH",
-        "postalCode": "43230-4565"
+        "postalCode": "45040-9381"
       }
     ],
     "extension": [

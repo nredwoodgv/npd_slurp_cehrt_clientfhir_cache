@@ -14,21 +14,37 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164601399"
+        "value": "1295785699"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295785699"
+        "value": "1164601399"
       }
     ],
     "address": [
       {
         "line": [
-          "1715 N Jackson St"
+          "2835 HIGHWAY 231 N"
         ],
-        "city": "TULLAHOMA",
+        "city": "SHELBYVILLE",
         "state": "TN",
-        "postalCode": "37388-2231"
+        "postalCode": "37160-7327"
+      },
+      {
+        "line": [
+          "2835 Highway 231 N"
+        ],
+        "city": "SHELBYVILLE",
+        "state": "TN",
+        "postalCode": "37160-7327"
+      },
+      {
+        "line": [
+          "1101 GLENOAKS RD # B"
+        ],
+        "city": "SHELBYVILLE",
+        "state": "TN",
+        "postalCode": "37160-2529"
       },
       {
         "line": [
@@ -48,22 +64,6 @@
       },
       {
         "line": [
-          "1101 GLENOAKS RD # B"
-        ],
-        "city": "SHELBYVILLE",
-        "state": "TN",
-        "postalCode": "37160-2529"
-      },
-      {
-        "line": [
-          "2835 HIGHWAY 231 N"
-        ],
-        "city": "SHELBYVILLE",
-        "state": "TN",
-        "postalCode": "37160-7327"
-      },
-      {
-        "line": [
           "105 LEDFORD MILL RD STE B"
         ],
         "city": "TULLAHOMA",
@@ -72,11 +72,11 @@
       },
       {
         "line": [
-          "2835 Highway 231 N"
+          "1715 N Jackson St"
         ],
-        "city": "SHELBYVILLE",
+        "city": "TULLAHOMA",
         "state": "TN",
-        "postalCode": "37160-7327"
+        "postalCode": "37388-2231"
       }
     ],
     "extension": [

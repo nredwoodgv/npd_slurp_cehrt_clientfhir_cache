@@ -14,14 +14,31 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871512160"
+        "value": "1578085296"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578085296"
+        "value": "1871512160"
       }
     ],
     "address": [
+      {
+        "line": [
+          "9427 County Road 403"
+        ],
+        "city": "CHARLESTOWN",
+        "state": "IN",
+        "postalCode": "47111-8946"
+      },
+      {
+        "line": [
+          "100 MALLARD CREEK RD",
+          "SUITE 150"
+        ],
+        "city": "LOUISVILLE",
+        "state": "KY",
+        "postalCode": "40207-5138"
+      },
       {
         "line": [
           "313 FEDERAL DR.  SUITE 150"
@@ -32,20 +49,11 @@
       },
       {
         "line": [
-          "73 THOMPSON POYNTER RD",
-          "SUITE A"
+          "3906 S DUPONT SQUARE"
         ],
-        "city": "LONDON",
+        "city": "LOUISVILLE",
         "state": "KY",
-        "postalCode": "40741-7202"
-      },
-      {
-        "line": [
-          "1804 E. 10th St."
-        ],
-        "city": "JEFFERSONVILLE",
-        "state": "IN",
-        "postalCode": "47130-6016"
+        "postalCode": "40207-4647"
       },
       {
         "line": [
@@ -54,6 +62,15 @@
         "city": "JEFFERSONVILLE",
         "state": "IN",
         "postalCode": "47130-3725"
+      },
+      {
+        "line": [
+          "73 THOMPSON POYNTER RD",
+          "SUITE A"
+        ],
+        "city": "LONDON",
+        "state": "KY",
+        "postalCode": "40741-7202"
       },
       {
         "line": [
@@ -81,28 +98,11 @@
       },
       {
         "line": [
-          "3906 S DUPONT SQUARE"
+          "1804 E. 10th St."
         ],
-        "city": "LOUISVILLE",
-        "state": "KY",
-        "postalCode": "40207-4647"
-      },
-      {
-        "line": [
-          "100 MALLARD CREEK RD",
-          "SUITE 150"
-        ],
-        "city": "LOUISVILLE",
-        "state": "KY",
-        "postalCode": "40207-5138"
-      },
-      {
-        "line": [
-          "9427 County Road 403"
-        ],
-        "city": "CHARLESTOWN",
+        "city": "JEFFERSONVILLE",
         "state": "IN",
-        "postalCode": "47111-8946"
+        "postalCode": "47130-6016"
       },
       {
         "line": [

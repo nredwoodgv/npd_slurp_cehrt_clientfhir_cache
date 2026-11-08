@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023209236"
+        "value": "1831191691"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831191691"
+        "value": "1023209236"
       }
     ],
     "address": [
+      {
+        "line": [
+          "102 Schubert Drive"
+        ],
+        "city": "DOWNINGTOWN",
+        "state": "PA",
+        "postalCode": "19335-3382"
+      },
       {
         "line": [
           "325 CENTRAL AVE",
@@ -47,14 +55,6 @@
         "city": "MALVERN",
         "state": "PA",
         "postalCode": "19355-3256"
-      },
-      {
-        "line": [
-          "102 Schubert Drive"
-        ],
-        "city": "DOWNINGTOWN",
-        "state": "PA",
-        "postalCode": "19335-3382"
       }
     ],
     "extension": [

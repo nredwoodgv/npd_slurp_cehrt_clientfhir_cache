@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962879890"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1467049692"
       },
       {
@@ -26,7 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326763079"
+        "value": "1609988245"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962879890"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,11 +34,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1851769053"
+        "value": "1326763079"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609988245"
+        "value": "1851769053"
       }
     ],
     "address": [
@@ -52,15 +52,7 @@
       },
       {
         "line": [
-          "200 Arnet St. STE 110"
-        ],
-        "city": "YPSILANTI",
-        "state": "MI",
-        "postalCode": "48198-5753"
-      },
-      {
-        "line": [
-          "2650 CarpenterRd"
+          "3174 PACKARD RD."
         ],
         "city": "ANN ARBOR",
         "state": "MI",
@@ -92,11 +84,19 @@
       },
       {
         "line": [
-          "3174 PACKARD RD."
+          "2650 CarpenterRd"
         ],
         "city": "ANN ARBOR",
         "state": "MI",
         "postalCode": "48108-1947"
+      },
+      {
+        "line": [
+          "200 Arnet St. STE 110"
+        ],
+        "city": "YPSILANTI",
+        "state": "MI",
+        "postalCode": "48198-5753"
       },
       {
         "line": [

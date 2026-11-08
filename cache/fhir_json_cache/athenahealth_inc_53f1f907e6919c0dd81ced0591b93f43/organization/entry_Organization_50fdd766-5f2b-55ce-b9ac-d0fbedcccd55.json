@@ -14,14 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093325243"
+        "value": "1043780067"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043780067"
+        "value": "1093325243"
       }
     ],
     "address": [
+      {
+        "line": [
+          "6056 Boynton Beach Blvd",
+          "Suite 175"
+        ],
+        "city": "BOYNTON BEACH",
+        "state": "FL",
+        "postalCode": "33437-3500"
+      },
       {
         "line": [
           "7301 W PALMETTO PARK RD",
@@ -39,15 +48,6 @@
         "city": "BOCA RATON",
         "state": "FL",
         "postalCode": "33433-3430"
-      },
-      {
-        "line": [
-          "6056 Boynton Beach Blvd",
-          "Suite 175"
-        ],
-        "city": "BOYNTON BEACH",
-        "state": "FL",
-        "postalCode": "33437-3500"
       },
       {
         "line": [

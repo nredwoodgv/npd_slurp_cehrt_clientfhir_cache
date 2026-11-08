@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598958431"
+        "value": "1447524392"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447524392"
+        "value": "1598958431"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,11 +28,12 @@
     "address": [
       {
         "line": [
-          "16088 San Pedro Avenue, Suite 115"
+          "502 Madison Oak",
+          "Suite 320"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78232-2251"
+        "postalCode": "78258-4084"
       },
       {
         "line": [
@@ -45,20 +46,19 @@
       },
       {
         "line": [
+          "16088 San Pedro Avenue, Suite 115"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78232-2251"
+      },
+      {
+        "line": [
           "2455 NE Loop 410, Suite 235"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
         "postalCode": "78217-5650"
-      },
-      {
-        "line": [
-          "502 Madison Oak",
-          "Suite 320"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78258-4084"
       }
     ],
     "extension": [

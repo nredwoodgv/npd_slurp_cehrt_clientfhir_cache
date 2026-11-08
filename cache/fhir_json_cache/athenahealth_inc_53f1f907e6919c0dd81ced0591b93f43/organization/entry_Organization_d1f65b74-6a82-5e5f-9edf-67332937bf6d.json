@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629398219"
+        "value": "1821349317"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821349317"
+        "value": "1629398219"
       }
     ],
     "address": [
@@ -40,22 +40,6 @@
       },
       {
         "line": [
-          "72 WASHINGTON ST SUITE 2200"
-        ],
-        "city": "TAUNTON",
-        "state": "MA",
-        "postalCode": "02780-7409"
-      },
-      {
-        "line": [
-          "736 CAMBRIDGE ST"
-        ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2907"
-      },
-      {
-        "line": [
           "EBHS, 88 WASHINGTON STREET"
         ],
         "city": "TAUNTON",
@@ -64,11 +48,27 @@
       },
       {
         "line": [
+          "72 WASHINGTON ST SUITE 2200"
+        ],
+        "city": "TAUNTON",
+        "state": "MA",
+        "postalCode": "02780-7409"
+      },
+      {
+        "line": [
           "88 Washington St"
         ],
         "city": "TAUNTON",
         "state": "MA",
         "postalCode": "02780-2465"
+      },
+      {
+        "line": [
+          "736 CAMBRIDGE ST"
+        ],
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2907"
       }
     ],
     "extension": [

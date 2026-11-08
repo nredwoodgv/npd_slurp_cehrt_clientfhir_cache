@@ -14,31 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013459551"
+        "value": "1366495814"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366495814"
+        "value": "1013459551"
       }
     ],
     "address": [
-      {
-        "line": [
-          "613 Towne Park Dr West",
-          "Suite 303-304"
-        ],
-        "city": "RINCON",
-        "state": "GA",
-        "postalCode": "31326-5182"
-      },
-      {
-        "line": [
-          "4425 Paulsen Street"
-        ],
-        "city": "SAVANNAH",
-        "state": "GA",
-        "postalCode": "31405-3662"
-      },
       {
         "line": [
           "955 Ribaut Rd"
@@ -57,6 +40,14 @@
       },
       {
         "line": [
+          "905 E. 69th Street"
+        ],
+        "city": "SAVANNAH",
+        "state": "GA",
+        "postalCode": "31405-4719"
+      },
+      {
+        "line": [
           "4425 Paulsen Street",
           "Bdlg A, 2nd Fl"
         ],
@@ -66,11 +57,20 @@
       },
       {
         "line": [
-          "905 E. 69th Street"
+          "4425 Paulsen Street"
         ],
         "city": "SAVANNAH",
         "state": "GA",
-        "postalCode": "31405-4719"
+        "postalCode": "31405-3662"
+      },
+      {
+        "line": [
+          "613 Towne Park Dr West",
+          "Suite 303-304"
+        ],
+        "city": "RINCON",
+        "state": "GA",
+        "postalCode": "31326-5182"
       }
     ],
     "extension": [

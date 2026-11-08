@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386911006"
+        "value": "1548567498"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548567498"
+        "value": "1386911006"
       }
     ],
     "address": [
-      {
-        "line": [
-          "450 Stanyan STreet"
-        ],
-        "city": "SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94117-1019"
-      },
       {
         "line": [
           "1860 El Camino Real",
@@ -38,6 +30,14 @@
         "city": "BURLINGAME",
         "state": "CA",
         "postalCode": "94010-3106"
+      },
+      {
+        "line": [
+          "2645 Ocean Avenue, Ste. 207"
+        ],
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94132-1646"
       },
       {
         "line": [
@@ -58,11 +58,11 @@
       },
       {
         "line": [
-          "2645 Ocean Avenue, Ste. 207"
+          "450 Stanyan STreet"
         ],
         "city": "SAN FRANCISCO",
         "state": "CA",
-        "postalCode": "94132-1646"
+        "postalCode": "94117-1019"
       },
       {
         "line": [

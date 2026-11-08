@@ -14,47 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457399065"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679510499"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174561575"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093753907"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336153295"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598093718"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346254281"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639318520"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1497700397"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235299926"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659484657"
+        "value": "1386256881"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -70,19 +34,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770107302"
+        "value": "1174925663"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376871947"
+        "value": "1336153295"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164149365"
+        "value": "1639318520"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427120336"
+        "value": "1235299926"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -90,11 +54,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821101809"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386256881"
+        "value": "1770107302"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -102,7 +62,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174925663"
+        "value": "1659484657"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376871947"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598093718"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -110,22 +78,53 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053356162"
+        "value": "1164149365"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1942531769"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1427120336"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053356162"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821101809"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1346254281"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1093753907"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1679510499"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174561575"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457399065"
       }
     ],
     "address": [
       {
         "line": [
-          "4545 FULLER DR",
-          "# 325"
+          "3355 Eagle Park NEDR 103"
         ],
-        "city": "IRVING",
-        "state": "TX",
-        "postalCode": "75038-6530"
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49525-7004"
       },
       {
         "line": [
@@ -138,11 +137,12 @@
       },
       {
         "line": [
-          "3355 Eagle Park NEDR 103"
+          "4545 FULLER DR",
+          "# 325"
         ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49525-7004"
+        "city": "IRVING",
+        "state": "TX",
+        "postalCode": "75038-6530"
       }
     ],
     "extension": [

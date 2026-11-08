@@ -14,29 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710090089"
+        "value": "1235170283"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235170283"
+        "value": "1710090089"
       }
     ],
     "address": [
       {
         "line": [
-          "NONE"
+          "5920 SARATOGA ST",
+          "SUITE 610"
         ],
         "city": "CORPUS CHRISTI",
         "state": "TX",
-        "postalCode": "78411-2549"
-      },
-      {
-        "line": [
-          "114 Lang Rd."
-        ],
-        "city": "PORTLAND",
-        "state": "TX",
-        "postalCode": "78374-2654"
+        "postalCode": "78414-4106"
       },
       {
         "line": [
@@ -64,12 +57,19 @@
       },
       {
         "line": [
-          "5920 SARATOGA ST",
-          "SUITE 610"
+          "NONE"
         ],
         "city": "CORPUS CHRISTI",
         "state": "TX",
-        "postalCode": "78414-4106"
+        "postalCode": "78411-2549"
+      },
+      {
+        "line": [
+          "114 Lang Rd."
+        ],
+        "city": "PORTLAND",
+        "state": "TX",
+        "postalCode": "78374-2654"
       }
     ],
     "extension": [

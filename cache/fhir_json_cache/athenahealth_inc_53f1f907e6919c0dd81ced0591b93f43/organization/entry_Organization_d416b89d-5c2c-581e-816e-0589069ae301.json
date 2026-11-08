@@ -14,35 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538430533"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245769744"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457863565"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962933416"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376862151"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1447456173"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083014914"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902002272"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,7 +22,31 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1245769744"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1902002272"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457863565"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1154584373"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1083014914"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376862151"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1538430533"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,7 +54,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639111057"
+        "value": "1962933416"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -67,9 +63,45 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1528556750"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1639111057"
       }
     ],
     "address": [
+      {
+        "line": [
+          "200 Jefferson Ave SE"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49508-5008"
+      },
+      {
+        "line": [
+          "2121 Raybrook Ave SE"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49546-5793"
+      },
+      {
+        "line": [
+          "2499 Forest Hill SE"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49546-8257"
+      },
+      {
+        "line": [
+          "2589 44th St SE"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49512-3877"
+      },
       {
         "line": [
           "1010 Edison Ave NW"
@@ -80,43 +112,27 @@
       },
       {
         "line": [
-          "200 Leonard St NE"
+          "2000 32nd St"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49506-1030"
+        "postalCode": "49508-7910"
       },
       {
         "line": [
-          "1050 4 Mile Rd NW"
+          "3400 Wilson Ave SW"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49504-1505"
+        "postalCode": "49518-8203"
       },
       {
         "line": [
-          "200 Jefferson Street SE"
+          "2161 Leonard St NW"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49503-4502"
-      },
-      {
-        "line": [
-          "1551 Franklin Ave SE"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49506-8203"
-      },
-      {
-        "line": [
-          "200 Jefferson Ave SE"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49508-5008"
+        "postalCode": "49504-3829"
       },
       {
         "line": [
@@ -136,19 +152,19 @@
       },
       {
         "line": [
-          "2121 Raybrook Ave SE"
+          "1050 4 Mile Rd NW"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49546-5793"
+        "postalCode": "49504-1505"
       },
       {
         "line": [
-          "3400 Wilson Ave SW"
+          "200 Leonard St NE"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49518-8203"
+        "postalCode": "49506-1030"
       },
       {
         "line": [
@@ -160,43 +176,19 @@
       },
       {
         "line": [
-          "2499 Forest Hill SE"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49546-8257"
-      },
-      {
-        "line": [
-          "2000 32nd St"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49508-7910"
-      },
-      {
-        "line": [
-          "2161 Leonard St NW"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49504-3829"
-      },
-      {
-        "line": [
-          "2589 44th St SE"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49512-3877"
-      },
-      {
-        "line": [
           "1450 E Fulton"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
         "postalCode": "49503-3854"
+      },
+      {
+        "line": [
+          "1551 Franklin Ave SE"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49506-8203"
       },
       {
         "line": [
@@ -209,6 +201,14 @@
       {
         "line": [
           "200 Jefferson Ave SE"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49503-4502"
+      },
+      {
+        "line": [
+          "200 Jefferson Street SE"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",

@@ -14,31 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871699074"
+        "value": "1184719809"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184719809"
+        "value": "1871699074"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2089 VALE RD",
-          "SUITE 32"
-        ],
-        "city": "SAN PABLO",
-        "state": "CA",
-        "postalCode": "94806-3850"
-      },
-      {
-        "line": [
-          "2905 TELEGRAPH AVENUE"
-        ],
-        "city": "BERKELEY",
-        "state": "CA",
-        "postalCode": "94705-2017"
-      },
       {
         "line": [
           "127 HOSPITAL DR",
@@ -55,6 +38,23 @@
         "city": "OAKLAND",
         "state": "CA",
         "postalCode": "94609-3425"
+      },
+      {
+        "line": [
+          "2089 VALE RD",
+          "SUITE 32"
+        ],
+        "city": "SAN PABLO",
+        "state": "CA",
+        "postalCode": "94806-3850"
+      },
+      {
+        "line": [
+          "2905 TELEGRAPH AVENUE"
+        ],
+        "city": "BERKELEY",
+        "state": "CA",
+        "postalCode": "94705-2017"
       }
     ],
     "extension": [

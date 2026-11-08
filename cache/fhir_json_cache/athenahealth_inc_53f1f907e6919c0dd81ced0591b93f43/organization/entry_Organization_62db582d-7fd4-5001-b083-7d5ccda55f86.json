@@ -14,29 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285346809"
+        "value": "1437599032"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437599032"
+        "value": "1285346809"
       }
     ],
     "address": [
       {
         "line": [
-          "65 NIELSON ST STE 125"
+          "8545 Carmel Valley Rd"
         ],
-        "city": "WATSONVILLE",
+        "city": "CARMEL",
         "state": "CA",
-        "postalCode": "95076-2491"
-      },
-      {
-        "line": [
-          "75 Nielson Street"
-        ],
-        "city": "WATSONVILLE",
-        "state": "CA",
-        "postalCode": "95076-2468"
+        "postalCode": "93923-9556"
       },
       {
         "line": [
@@ -48,51 +40,11 @@
       },
       {
         "line": [
-          "45 NIELSON ST"
+          "8095 CAMINO ARROYO STE 100"
         ],
-        "city": "WATSONVILLE",
+        "city": "GILROY",
         "state": "CA",
-        "postalCode": "95076-2468"
-      },
-      {
-        "line": [
-          "1820 Main St"
-        ],
-        "city": "WATSONVILLE",
-        "state": "CA",
-        "postalCode": "95076-3092"
-      },
-      {
-        "line": [
-          "40 PENNY LN STE 1"
-        ],
-        "city": "WATSONVILLE",
-        "state": "CA",
-        "postalCode": "95076-6008"
-      },
-      {
-        "line": [
-          "160 Green Valley Road, Suite 101"
-        ],
-        "city": "FREEDOM",
-        "state": "CA",
-        "postalCode": "95019-3160"
-      },
-      {
-        "line": [
-          "65 NIELSON STREET, SUITE 102"
-        ],
-        "city": "WATSONVILLE",
-        "state": "CA",
-        "postalCode": "95076-2491"
-      },
-      {
-        "line": [
-          "8545 Carmel Valley Rd"
-        ],
-        "city": "CARMEL",
-        "state": "CA",
-        "postalCode": "93923-9556"
+        "postalCode": "95020-7304"
       },
       {
         "line": [
@@ -105,23 +57,6 @@
       },
       {
         "line": [
-          "65 Nielson St.",
-          " Suite 125"
-        ],
-        "city": "WATSONVILLE",
-        "state": "CA",
-        "postalCode": "95076-2491"
-      },
-      {
-        "line": [
-          "65 Nielson St Ste 102"
-        ],
-        "city": "WATSONVILLE",
-        "state": "CA",
-        "postalCode": "95076-2491"
-      },
-      {
-        "line": [
           "2265 41ST AVE"
         ],
         "city": "CAPITOLA",
@@ -130,27 +65,11 @@
       },
       {
         "line": [
-          "3801 CLARES ST"
+          "65 NIELSON STREET, SUITE 102"
         ],
-        "city": "CAPITOLA",
+        "city": "WATSONVILLE",
         "state": "CA",
-        "postalCode": "95010-2537"
-      },
-      {
-        "line": [
-          "99 AIRPORT BLVD"
-        ],
-        "city": "FREEDOM",
-        "state": "CA",
-        "postalCode": "95019-2917"
-      },
-      {
-        "line": [
-          "2128 SOQUEL AVE"
-        ],
-        "city": "SANTA CRUZ",
-        "state": "CA",
-        "postalCode": "95062-1401"
+        "postalCode": "95076-2491"
       },
       {
         "line": [
@@ -162,7 +81,7 @@
       },
       {
         "line": [
-          "65 NIELSON ST STE 102"
+          "65 NIELSON ST STE 125"
         ],
         "city": "WATSONVILLE",
         "state": "CA",
@@ -178,11 +97,92 @@
       },
       {
         "line": [
-          "8095 CAMINO ARROYO STE 100"
+          "160 Green Valley Road, Suite 101"
         ],
-        "city": "GILROY",
+        "city": "FREEDOM",
         "state": "CA",
-        "postalCode": "95020-7304"
+        "postalCode": "95019-3160"
+      },
+      {
+        "line": [
+          "2128 SOQUEL AVE"
+        ],
+        "city": "SANTA CRUZ",
+        "state": "CA",
+        "postalCode": "95062-1401"
+      },
+      {
+        "line": [
+          "65 Nielson St Ste 102"
+        ],
+        "city": "WATSONVILLE",
+        "state": "CA",
+        "postalCode": "95076-2491"
+      },
+      {
+        "line": [
+          "65 NIELSON ST STE 102"
+        ],
+        "city": "WATSONVILLE",
+        "state": "CA",
+        "postalCode": "95076-2491"
+      },
+      {
+        "line": [
+          "99 AIRPORT BLVD"
+        ],
+        "city": "FREEDOM",
+        "state": "CA",
+        "postalCode": "95019-2917"
+      },
+      {
+        "line": [
+          "75 Nielson Street"
+        ],
+        "city": "WATSONVILLE",
+        "state": "CA",
+        "postalCode": "95076-2468"
+      },
+      {
+        "line": [
+          "3801 CLARES ST"
+        ],
+        "city": "CAPITOLA",
+        "state": "CA",
+        "postalCode": "95010-2537"
+      },
+      {
+        "line": [
+          "45 NIELSON ST"
+        ],
+        "city": "WATSONVILLE",
+        "state": "CA",
+        "postalCode": "95076-2468"
+      },
+      {
+        "line": [
+          "65 Nielson St.",
+          " Suite 125"
+        ],
+        "city": "WATSONVILLE",
+        "state": "CA",
+        "postalCode": "95076-2491"
+      },
+      {
+        "line": [
+          "40 PENNY LN STE 1"
+        ],
+        "city": "WATSONVILLE",
+        "state": "CA",
+        "postalCode": "95076-6008"
+      },
+      {
+        "line": [
+          "1820 Main St"
+        ],
+        "city": "WATSONVILLE",
+        "state": "CA",
+        "postalCode": "95076-3092"
       }
     ],
     "extension": [

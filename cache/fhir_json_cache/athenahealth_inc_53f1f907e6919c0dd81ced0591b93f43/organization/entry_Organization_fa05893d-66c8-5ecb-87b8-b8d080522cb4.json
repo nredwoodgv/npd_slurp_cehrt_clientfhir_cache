@@ -14,31 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366909277"
+        "value": "1124668660"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124668660"
+        "value": "1366909277"
       }
     ],
     "address": [
       {
         "line": [
-          "1 DANIEL BURNHAM CT",
-          "STE 370C"
+          "1800 ATRIUM PKWY"
         ],
-        "city": "SAN FRANCISCO",
+        "city": "NAPA",
         "state": "CA",
-        "postalCode": "94109-0470"
-      },
-      {
-        "line": [
-          "2950 NORTHUP WAY",
-          "STE 210"
-        ],
-        "city": "BELLEVUE",
-        "state": "WA",
-        "postalCode": "98004-1406"
+        "postalCode": "94559-4837"
       },
       {
         "line": [
@@ -60,11 +50,21 @@
       },
       {
         "line": [
-          "1800 ATRIUM PKWY"
+          "1 DANIEL BURNHAM CT",
+          "STE 370C"
         ],
-        "city": "NAPA",
+        "city": "SAN FRANCISCO",
         "state": "CA",
-        "postalCode": "94559-4837"
+        "postalCode": "94109-0470"
+      },
+      {
+        "line": [
+          "2950 NORTHUP WAY",
+          "STE 210"
+        ],
+        "city": "BELLEVUE",
+        "state": "WA",
+        "postalCode": "98004-1406"
       }
     ],
     "extension": [

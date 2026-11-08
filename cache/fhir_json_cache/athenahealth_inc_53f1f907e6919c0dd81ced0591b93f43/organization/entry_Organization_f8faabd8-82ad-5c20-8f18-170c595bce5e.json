@@ -14,63 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073377982"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538860713"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679261671"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689438509"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356236426"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548960347"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730928136"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043196355"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255022273"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528788668"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629788203"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467221911"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700595386"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316823636"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033943931"
+        "value": "1063287753"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -78,7 +22,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083314892"
+        "value": "1316823636"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1538860713"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467221911"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073377982"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1679261671"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528788668"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -90,15 +54,39 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316635329"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1407727530"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063287753"
+        "value": "1083314892"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033943931"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1255022273"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1356236426"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1043196355"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730928136"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548960347"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316635329"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -106,22 +94,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083399901"
+        "value": "1689438509"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629788203"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700595386"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1023727328"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1083399901"
       }
     ],
     "address": [
-      {
-        "line": [
-          "123 Main St"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10017-1020"
-      },
       {
         "line": [
           "60 E DELAWARE PL"
@@ -132,12 +124,11 @@
       },
       {
         "line": [
-          "2820 NE 214th St",
-          "Ste 801"
+          "23961 CALLE DE LA MAGDALENA"
         ],
-        "city": "MIAMI",
-        "state": "FL",
-        "postalCode": "33180-1269"
+        "city": "LAGUNA HILLS",
+        "state": "CA",
+        "postalCode": "92653-3616"
       },
       {
         "line": [
@@ -150,11 +141,20 @@
       },
       {
         "line": [
-          "23961 CALLE DE LA MAGDALENA"
+          "2820 NE 214th St",
+          "Ste 801"
         ],
-        "city": "LAGUNA HILLS",
-        "state": "CA",
-        "postalCode": "92653-3616"
+        "city": "MIAMI",
+        "state": "FL",
+        "postalCode": "33180-1269"
+      },
+      {
+        "line": [
+          "123 Main St"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10017-1020"
       },
       {
         "line": [

@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598225021"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1548739170"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1588226328"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285388546"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,52 +38,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598225021"
+        "value": "1285388546"
       }
     ],
     "address": [
       {
         "line": [
-          "41 Acme Rd",
-          "Suite 3"
+          "4923 Ogletown Stanton Road",
+          "Suite 110"
         ],
-        "city": "BREWER",
+        "city": "NEWARK",
+        "state": "DE",
+        "postalCode": "19713-2012"
+      },
+      {
+        "line": [
+          "147 Riverside Dr",
+          "Suite 1"
+        ],
+        "city": "AUGUSTA",
         "state": "ME",
-        "postalCode": "04412-1543"
-      },
-      {
-        "line": [
-          "214 Main St"
-        ],
-        "city": "VERGENNES",
-        "state": "VT",
-        "postalCode": "05491-1157"
-      },
-      {
-        "line": [
-          "50 Union St"
-        ],
-        "city": "WEST SPRINGFIELD",
-        "state": "MA",
-        "postalCode": "01089-3317"
-      },
-      {
-        "line": [
-          "31 Lower Main Street",
-          "Suite 3"
-        ],
-        "city": "MORRISVILLE",
-        "state": "VT",
-        "postalCode": "05661-6100"
-      },
-      {
-        "line": [
-          "409 Alfred St",
-          "Units 4 & 5"
-        ],
-        "city": "BIDDEFORD",
-        "state": "ME",
-        "postalCode": "04005-3756"
+        "postalCode": "04330-4100"
       },
       {
         "line": [
@@ -96,20 +71,28 @@
       },
       {
         "line": [
-          "79 Coventry St"
+          "17 Catherine Street"
         ],
-        "city": "NEWPORT",
+        "city": "SAINT ALBANS",
         "state": "VT",
-        "postalCode": "05855-2206"
+        "postalCode": "05478-2205"
       },
       {
         "line": [
-          "4923 Ogletown Stanton Road",
-          "Suite 110"
+          "50 Union St"
         ],
-        "city": "NEWARK",
-        "state": "DE",
-        "postalCode": "19713-2012"
+        "city": "WEST SPRINGFIELD",
+        "state": "MA",
+        "postalCode": "01089-3317"
+      },
+      {
+        "line": [
+          "41 Acme Rd",
+          "Suite 3"
+        ],
+        "city": "BREWER",
+        "state": "ME",
+        "postalCode": "04412-1543"
       },
       {
         "line": [
@@ -129,12 +112,20 @@
       },
       {
         "line": [
-          "147 Riverside Dr",
-          "Suite 1"
+          "214 Main St"
         ],
-        "city": "AUGUSTA",
-        "state": "ME",
-        "postalCode": "04330-4100"
+        "city": "VERGENNES",
+        "state": "VT",
+        "postalCode": "05491-1157"
+      },
+      {
+        "line": [
+          "31 Lower Main Street",
+          "Suite 3"
+        ],
+        "city": "MORRISVILLE",
+        "state": "VT",
+        "postalCode": "05661-6100"
       },
       {
         "line": [
@@ -147,11 +138,20 @@
       },
       {
         "line": [
-          "17 Catherine Street"
+          "409 Alfred St",
+          "Units 4 & 5"
         ],
-        "city": "SAINT ALBANS",
+        "city": "BIDDEFORD",
+        "state": "ME",
+        "postalCode": "04005-3756"
+      },
+      {
+        "line": [
+          "79 Coventry St"
+        ],
+        "city": "NEWPORT",
         "state": "VT",
-        "postalCode": "05478-2205"
+        "postalCode": "05855-2206"
       }
     ],
     "extension": [

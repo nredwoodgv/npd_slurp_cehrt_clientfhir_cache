@@ -14,26 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740682921"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1184994162"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1487930632"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1740682921"
       }
     ],
     "address": [
-      {
-        "line": [
-          "100 Hospital Drive"
-        ],
-        "city": "BENNINGTON",
-        "state": "VT",
-        "postalCode": "05201-0045"
-      },
       {
         "line": [
           "17 Belmont Ave."
@@ -41,6 +33,22 @@
         "city": "BRATTLEBORO",
         "state": "VT",
         "postalCode": "05301-0341"
+      },
+      {
+        "line": [
+          "325 NORTH STREET"
+        ],
+        "city": "BENNINGTON",
+        "state": "VT",
+        "postalCode": "05201-1937"
+      },
+      {
+        "line": [
+          "312 Crescent B lvd"
+        ],
+        "city": "BENNINGTON",
+        "state": "VT",
+        "postalCode": "05201-2419"
       },
       {
         "line": [
@@ -56,23 +64,7 @@
         ],
         "city": "BENNINGTON",
         "state": "VT",
-        "postalCode": "05201-5010"
-      },
-      {
-        "line": [
-          "312 Crescent B lvd"
-        ],
-        "city": "BENNINGTON",
-        "state": "VT",
-        "postalCode": "05201-2419"
-      },
-      {
-        "line": [
-          "325 NORTH STREET"
-        ],
-        "city": "BENNINGTON",
-        "state": "VT",
-        "postalCode": "05201-1937"
+        "postalCode": "05201-5004"
       },
       {
         "line": [
@@ -80,7 +72,15 @@
         ],
         "city": "BENNINGTON",
         "state": "VT",
-        "postalCode": "05201-5004"
+        "postalCode": "05201-0045"
+      },
+      {
+        "line": [
+          "100 Hospital Drive"
+        ],
+        "city": "BENNINGTON",
+        "state": "VT",
+        "postalCode": "05201-5010"
       },
       {
         "line": [

@@ -18,7 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467174524"
+        "value": "1114604535"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114604535"
+        "value": "1427624659"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,25 +34,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760057541"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1982261905"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427624659"
+        "value": "1760057541"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467174524"
       }
     ],
     "address": [
       {
         "line": [
-          "3825 N LAFAYETTE ST"
+          "5885 GLENRIDGE DRIVE",
+          "SUITE 100"
         ],
-        "city": "DENVER",
-        "state": "CO",
-        "postalCode": "80205-3316"
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30328-5572"
       },
       {
         "line": [
@@ -64,12 +65,11 @@
       },
       {
         "line": [
-          "5885 GLENRIDGE DRIVE",
-          "SUITE 100"
+          "3825 N LAFAYETTE ST"
         ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30328-5572"
+        "city": "DENVER",
+        "state": "CO",
+        "postalCode": "80205-3316"
       }
     ],
     "extension": [

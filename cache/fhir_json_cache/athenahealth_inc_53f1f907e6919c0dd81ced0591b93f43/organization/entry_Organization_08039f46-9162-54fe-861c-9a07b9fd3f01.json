@@ -18,10 +18,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326099763"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1306363007"
       },
       {
@@ -30,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144271586"
+        "value": "1962453308"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,30 +34,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619928165"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619494366"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1043261498"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962453308"
+        "value": "1326099763"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619928165"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144271586"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619494366"
       }
     ],
     "address": [
-      {
-        "line": [
-          "6665 Pensacola Blvd"
-        ],
-        "city": "Pensacola",
-        "state": "FL",
-        "postalCode": "32505-1705"
-      },
       {
         "line": [
           "5151 N 9th Ave"
@@ -69,6 +61,22 @@
         "city": "PENSACOLA",
         "state": "FL",
         "postalCode": "32504-8721"
+      },
+      {
+        "line": [
+          "400 Milestone Blvd"
+        ],
+        "city": "Cantonment",
+        "state": "FL",
+        "postalCode": "32533-6579"
+      },
+      {
+        "line": [
+          "6665 Pensacola Blvd"
+        ],
+        "city": "Pensacola",
+        "state": "FL",
+        "postalCode": "32505-1705"
       },
       {
         "line": [
@@ -85,14 +93,6 @@
         "city": "Pensacola",
         "state": "FL",
         "postalCode": "32504-8721"
-      },
-      {
-        "line": [
-          "400 Milestone Blvd"
-        ],
-        "city": "Cantonment",
-        "state": "FL",
-        "postalCode": "32533-6579"
       }
     ],
     "extension": [

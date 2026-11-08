@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588692198"
+        "value": "1669146346"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669146346"
+        "value": "1588692198"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1555 Exchange Ave"
-        ],
-        "city": "CONWAY",
-        "state": "AR",
-        "postalCode": "72032-7824"
-      },
       {
         "line": [
           "1 Children's Way"
@@ -37,6 +29,14 @@
         "city": "LITTLE ROCK",
         "state": "AR",
         "postalCode": "72202-3500"
+      },
+      {
+        "line": [
+          "1555 Exchange Ave"
+        ],
+        "city": "CONWAY",
+        "state": "AR",
+        "postalCode": "72032-7824"
       }
     ],
     "extension": [

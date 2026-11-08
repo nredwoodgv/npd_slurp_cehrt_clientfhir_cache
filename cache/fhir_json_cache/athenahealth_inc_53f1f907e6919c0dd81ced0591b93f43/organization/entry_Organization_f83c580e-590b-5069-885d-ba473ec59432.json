@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619112760"
+        "value": "1073850426"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073850426"
+        "value": "1619112760"
       }
     ],
     "address": [
@@ -26,15 +26,6 @@
         "line": [
           "1601 Columbia Park Trail",
           "#101"
-        ],
-        "city": "RICHLAND",
-        "state": "WA",
-        "postalCode": "99352-4772"
-      },
-      {
-        "line": [
-          "1601 Columbia Park Trail",
-          "Suite 101"
         ],
         "city": "RICHLAND",
         "state": "WA",
@@ -52,6 +43,15 @@
         "line": [
           "1601 COLUMBIA PARK TRL",
           "STE 101"
+        ],
+        "city": "RICHLAND",
+        "state": "WA",
+        "postalCode": "99352-4772"
+      },
+      {
+        "line": [
+          "1601 Columbia Park Trail",
+          "Suite 101"
         ],
         "city": "RICHLAND",
         "state": "WA",

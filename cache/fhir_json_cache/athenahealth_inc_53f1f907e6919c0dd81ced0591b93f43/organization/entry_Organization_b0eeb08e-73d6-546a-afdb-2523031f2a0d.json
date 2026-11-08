@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003886789"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1659358968"
       },
       {
@@ -27,32 +23,20 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1841438504"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1003886789"
       }
     ],
     "address": [
       {
         "line": [
-          "2827 BABCOCK RD"
+          "1650 Lockhill Selma Rd."
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78229-4813"
-      },
-      {
-        "line": [
-          "111 Dallas St"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78205-1201"
-      },
-      {
-        "line": [
-          "7930 FLOYD CURL DR"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78229-3925"
+        "postalCode": "78213-1929"
       },
       {
         "line": [
@@ -64,8 +48,15 @@
       },
       {
         "line": [
-          "2040 BABCOCK RD",
-          "STE 407"
+          "7930 FLOYD CURL DR"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78229-3925"
+      },
+      {
+        "line": [
+          "2040 BABCOCK RD STE 407"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
@@ -73,11 +64,11 @@
       },
       {
         "line": [
-          "111 DALLAS ST"
+          "5962 DANNY KAYE DR BLDG 1"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78202-1201"
+        "postalCode": "78240-5221"
       },
       {
         "line": [
@@ -89,43 +80,11 @@
       },
       {
         "line": [
-          "6019 BUENA VISTA ST"
+          "111 Dallas St"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78237-1700"
-      },
-      {
-        "line": [
-          "1650 Lockhill Selma Rd."
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78213-1929"
-      },
-      {
-        "line": [
-          "4118 MCCULLOUGH AVE STE. 8"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78212-9019"
-      },
-      {
-        "line": [
-          "403 TREELINE PARK"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78209-2042"
-      },
-      {
-        "line": [
-          "1139 E SONTERRA BLVD"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78258-4347"
+        "postalCode": "78205-1201"
       },
       {
         "line": [
@@ -137,6 +96,14 @@
       },
       {
         "line": [
+          "111 DALLAS ST"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78202-1201"
+      },
+      {
+        "line": [
           "403 Treeline Park"
         ],
         "city": "SAN ANTONIO",
@@ -145,11 +112,43 @@
       },
       {
         "line": [
-          "5962 DANNY KAYE DR BLDG 1"
+          "2827 BABCOCK RD"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78240-5221"
+        "postalCode": "78229-4813"
+      },
+      {
+        "line": [
+          "4118 MCCULLOUGH AVE STE. 8"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78212-9019"
+      },
+      {
+        "line": [
+          "6019 BUENA VISTA ST"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78237-1700"
+      },
+      {
+        "line": [
+          "1139 E SONTERRA BLVD"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78258-4347"
+      },
+      {
+        "line": [
+          "403 TREELINE PARK"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78209-2042"
       }
     ],
     "extension": [

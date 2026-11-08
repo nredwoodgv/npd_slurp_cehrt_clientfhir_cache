@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649228966"
+        "value": "1285931089"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,33 +26,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285931089"
+        "value": "1649228966"
       }
     ],
     "address": [
       {
         "line": [
-          "130 ENTERPRISE DRIVE"
-        ],
-        "city": "DANVILLE",
-        "state": "VA",
-        "postalCode": "24540-4070"
-      },
-      {
-        "line": [
-          "125 NATIONWIDE DRIVE"
+          "3300 RIVERMONT AVENUE"
         ],
         "city": "LYNCHBURG",
         "state": "VA",
-        "postalCode": "24502-9998"
-      },
-      {
-        "line": [
-          "2410 ATHERHOLT ORAD"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24501-2148"
+        "postalCode": "24503-2030"
       },
       {
         "line": [
@@ -64,11 +48,11 @@
       },
       {
         "line": [
-          "3300 RIVERMONT AVENUE"
+          "130 ENTERPRISE DRIVE"
         ],
-        "city": "LYNCHBURG",
+        "city": "DANVILLE",
         "state": "VA",
-        "postalCode": "24503-2030"
+        "postalCode": "24540-4070"
       },
       {
         "line": [
@@ -77,6 +61,22 @@
         "city": "FARMVILLE",
         "state": "VA",
         "postalCode": "23901-2211"
+      },
+      {
+        "line": [
+          "2410 ATHERHOLT ORAD"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24501-2148"
+      },
+      {
+        "line": [
+          "125 NATIONWIDE DRIVE"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24502-9998"
       }
     ],
     "extension": [

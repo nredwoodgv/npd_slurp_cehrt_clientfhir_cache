@@ -14,27 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235949553"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1477433183"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1780579797"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235949553"
       }
     ],
     "address": [
-      {
-        "line": [
-          "4753 N BROADWAY",
-          "Suite 403"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60640-7910"
-      },
       {
         "line": [
           "12151 Regency Parkway",
@@ -46,12 +37,20 @@
       },
       {
         "line": [
-          "820 Davis St",
-          "Ste 222"
+          "4753 N BROADWAY",
+          "Suite 403"
         ],
-        "city": "EVANSTON",
+        "city": "CHICAGO",
         "state": "IL",
-        "postalCode": "60201-4445"
+        "postalCode": "60640-7910"
+      },
+      {
+        "line": [
+          "80 GUEST ST"
+        ],
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2071"
       },
       {
         "line": [
@@ -73,19 +72,20 @@
       },
       {
         "line": [
-          "80 GUEST ST"
-        ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2071"
-      },
-      {
-        "line": [
           "6392 Linden Rd"
         ],
         "city": "ROCKFORD",
         "state": "IL",
         "postalCode": "61109-2816"
+      },
+      {
+        "line": [
+          "820 Davis St",
+          "Ste 222"
+        ],
+        "city": "EVANSTON",
+        "state": "IL",
+        "postalCode": "60201-4445"
       }
     ],
     "extension": [

@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518353739"
+        "value": "1356093462"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356093462"
+        "value": "1518353739"
       }
     ],
     "address": [
-      {
-        "line": [
-          "33155 ANNAPOLIS ST"
-        ],
-        "city": "WAYNE",
-        "state": "MI",
-        "postalCode": "48184-2405"
-      },
       {
         "line": [
           "18101 OAKWOOD BLVD"
@@ -40,19 +32,27 @@
       },
       {
         "line": [
-          "1000 Telegraph rd"
-        ],
-        "city": "TAYLOR",
-        "state": "MI",
-        "postalCode": "48180-3330"
-      },
-      {
-        "line": [
           "23850 VAN BORN RD"
         ],
         "city": "DEARBORN HEIGHTS",
         "state": "MI",
         "postalCode": "48125-2325"
+      },
+      {
+        "line": [
+          "33155 ANNAPOLIS ST"
+        ],
+        "city": "WAYNE",
+        "state": "MI",
+        "postalCode": "48184-2405"
+      },
+      {
+        "line": [
+          "1000 Telegraph rd"
+        ],
+        "city": "TAYLOR",
+        "state": "MI",
+        "postalCode": "48180-3330"
       },
       {
         "line": [

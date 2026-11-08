@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760272645"
+        "value": "1174549786"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,18 +26,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609892223"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417846841"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174549786"
+        "value": "1760272645"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1609892223"
       }
     ],
     "address": [
+      {
+        "line": [
+          "6201 West Roosevelt Road"
+        ],
+        "city": "BERWYN",
+        "state": "IL",
+        "postalCode": "60402-1108"
+      },
       {
         "line": [
           "3 Erie Court"
@@ -53,14 +61,6 @@
         "city": "CHICAGO",
         "state": "IL",
         "postalCode": "60644-2342"
-      },
-      {
-        "line": [
-          "6201 West Roosevelt Road"
-        ],
-        "city": "BERWYN",
-        "state": "IL",
-        "postalCode": "60402-1108"
       },
       {
         "line": [

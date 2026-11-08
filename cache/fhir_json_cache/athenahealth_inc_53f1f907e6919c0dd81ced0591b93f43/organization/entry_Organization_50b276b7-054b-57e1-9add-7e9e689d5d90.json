@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740589860"
+        "value": "1063232403"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669422234"
+        "value": "1740589860"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,22 +26,46 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063232403"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1366689044"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497706287"
+        "value": "1669422234"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952101214"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1497706287"
       }
     ],
     "address": [
+      {
+        "line": [
+          "8424 Naab Rd #1H"
+        ],
+        "city": "INDIANAPOLIS",
+        "state": "IN",
+        "postalCode": "46260-1954"
+      },
+      {
+        "line": [
+          "1400 Professional Blvd., Suite 210"
+        ],
+        "city": "EVANSVILLE",
+        "state": "IN",
+        "postalCode": "47714-8004"
+      },
+      {
+        "line": [
+          "2605 N LEBANON ST"
+        ],
+        "city": "LEBANON",
+        "state": "IN",
+        "postalCode": "46052-1476"
+      },
       {
         "line": [
           "2001 W 86TH STREET"
@@ -57,30 +81,6 @@
         "city": "LEBANON",
         "state": "IN",
         "postalCode": "46052-1476"
-      },
-      {
-        "line": [
-          "2605 N LEBANON ST"
-        ],
-        "city": "LEBANON",
-        "state": "IN",
-        "postalCode": "46052-1476"
-      },
-      {
-        "line": [
-          "1400 Professional Blvd., Suite 210"
-        ],
-        "city": "EVANSVILLE",
-        "state": "IN",
-        "postalCode": "47714-8004"
-      },
-      {
-        "line": [
-          "8424 Naab Rd #1H"
-        ],
-        "city": "INDIANAPOLIS",
-        "state": "IN",
-        "postalCode": "46260-1954"
       },
       {
         "line": [

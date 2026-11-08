@@ -10,15 +10,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497794309"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497006639"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912257957"
+        "value": "000000000"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,31 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306197462"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689925745"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1111111111"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225034333"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1093716979"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306355680"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225050396"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,11 +26,43 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1111111111"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1457396079"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "000000000"
+        "value": "1497794309"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912257957"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225034333"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225050396"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1497006639"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689925745"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306355680"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306197462"
       }
     ],
     "active": true,
@@ -70,15 +70,7 @@
     "telecom": [
       {
         "system": "phone",
-        "value": "(404)851-2300"
-      },
-      {
-        "system": "phone",
-        "value": "(770)507-0070"
-      },
-      {
-        "system": "phone",
-        "value": "(770)761-7260"
+        "value": "(555)867-5309"
       },
       {
         "system": "phone",
@@ -86,11 +78,19 @@
       },
       {
         "system": "phone",
-        "value": "(770)740-9664"
+        "value": "(404)501-1000"
       },
       {
         "system": "phone",
-        "value": "(770)205-5292"
+        "value": "(404)851-8000"
+      },
+      {
+        "system": "phone",
+        "value": "(404)851-2300"
+      },
+      {
+        "system": "phone",
+        "value": "(770)761-7260"
       },
       {
         "system": "phone",
@@ -102,7 +102,15 @@
       },
       {
         "system": "phone",
-        "value": "(404)501-1000"
+        "value": "(770)224-1000"
+      },
+      {
+        "system": "phone",
+        "value": "(770)507-0070"
+      },
+      {
+        "system": "phone",
+        "value": "(770)205-5292"
       },
       {
         "system": "phone",
@@ -110,15 +118,7 @@
       },
       {
         "system": "phone",
-        "value": "(770)224-1000"
-      },
-      {
-        "system": "phone",
-        "value": "(404)851-8000"
-      },
-      {
-        "system": "phone",
-        "value": "(555)867-5309"
+        "value": "(770)740-9664"
       }
     ],
     "address": [
@@ -126,36 +126,11 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "5670 Peachtree Dunwoody Road",
-          "Suite 1100"
+          "1313 Mockingbird Lane"
         ],
-        "city": "Atlanta",
-        "state": "GA",
-        "postalCode": "30342",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1050 Eagles Landing Parkway",
-          "Suite 302"
-        ],
-        "city": "Stockbridge",
-        "state": "GA",
-        "postalCode": "30281",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1498 Klondike Rd",
-          "Suite 106"
-        ],
-        "city": "Conyers",
-        "state": "GA",
-        "postalCode": "30094-5169",
+        "city": "Mockingbird Heights",
+        "state": "CA",
+        "postalCode": "90210",
         "country": "USA"
       },
       {
@@ -174,24 +149,79 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "3400-C Old Milton Pkwy",
-          "Suite 400"
+          "2701 N Decatur Rd"
         ],
-        "city": "Alpharetta",
+        "city": "Decatur",
         "state": "GA",
-        "postalCode": "30005-3707",
+        "postalCode": "30033-5918",
         "country": "USA"
       },
       {
         "use": "work",
         "type": "postal",
         "line": [
-          "1505 Northside Blvd.",
-          "Suite 4600"
+          "1200 Northside Forsyth Dr"
         ],
         "city": "Cumming",
-        "state": "Ga",
-        "postalCode": "30041-7623",
+        "state": "GA",
+        "postalCode": "30041-7659",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1313 Mockingbird Lane"
+        ],
+        "city": "Mockingbird Heights",
+        "state": "CA",
+        "postalCode": "90210",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1313 Mockingbird Lane"
+        ],
+        "city": "Mockingbird Heights",
+        "state": "CA",
+        "postalCode": "90210",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1000 Johnson Ferry Rd NE"
+        ],
+        "city": "Atlanta",
+        "state": "GA",
+        "postalCode": "30342-1709",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "5670 Peachtree Dunwoody Road",
+          "Suite 1100"
+        ],
+        "city": "Atlanta",
+        "state": "GA",
+        "postalCode": "30342",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1498 Klondike Rd",
+          "Suite 106"
+        ],
+        "city": "Conyers",
+        "state": "GA",
+        "postalCode": "30094-5169",
         "country": "USA"
       },
       {
@@ -221,11 +251,35 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "2701 N Decatur Rd"
+          "450 Northside Cherokee Blvd"
         ],
-        "city": "Decatur",
+        "city": "Canton",
         "state": "GA",
-        "postalCode": "30033-5918",
+        "postalCode": "30115-8015",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1050 Eagles Landing Parkway",
+          "Suite 302"
+        ],
+        "city": "Stockbridge",
+        "state": "GA",
+        "postalCode": "30281",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1505 Northside Blvd.",
+          "Suite 4600"
+        ],
+        "city": "Cumming",
+        "state": "Ga",
+        "postalCode": "30041-7623",
         "country": "USA"
       },
       {
@@ -243,66 +297,12 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "450 Northside Cherokee Blvd"
+          "3400-C Old Milton Pkwy",
+          "Suite 400"
         ],
-        "city": "Canton",
+        "city": "Alpharetta",
         "state": "GA",
-        "postalCode": "30115-8015",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1200 Northside Forsyth Dr"
-        ],
-        "city": "Cumming",
-        "state": "GA",
-        "postalCode": "30041-7659",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1000 Johnson Ferry Rd NE"
-        ],
-        "city": "Atlanta",
-        "state": "GA",
-        "postalCode": "30342-1709",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1313 Mockingbird Lane"
-        ],
-        "city": "Mockingbird Heights",
-        "state": "CA",
-        "postalCode": "90210",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1313 Mockingbird Lane"
-        ],
-        "city": "Mockingbird Heights",
-        "state": "CA",
-        "postalCode": "90210",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1313 Mockingbird Lane"
-        ],
-        "city": "Mockingbird Heights",
-        "state": "CA",
-        "postalCode": "90210",
+        "postalCode": "30005-3707",
         "country": "USA"
       }
     ],

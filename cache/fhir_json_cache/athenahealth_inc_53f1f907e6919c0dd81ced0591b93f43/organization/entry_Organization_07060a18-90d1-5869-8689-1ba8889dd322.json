@@ -14,26 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881977593"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1548544802"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1891287520"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881977593"
       }
     ],
     "address": [
-      {
-        "line": [
-          "615 Ridge Rd"
-        ],
-        "city": "ROXBORO",
-        "state": "NC",
-        "postalCode": "27573-4629"
-      },
       {
         "line": [
           "503 Ridge Road"
@@ -41,6 +33,14 @@
         "city": "ROXBORO",
         "state": "NC",
         "postalCode": "27573-4627"
+      },
+      {
+        "line": [
+          "615 Ridge Rd"
+        ],
+        "city": "ROXBORO",
+        "state": "NC",
+        "postalCode": "27573-4629"
       },
       {
         "line": [

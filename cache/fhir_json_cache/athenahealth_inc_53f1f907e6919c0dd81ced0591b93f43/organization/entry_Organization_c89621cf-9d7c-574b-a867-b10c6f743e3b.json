@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740741461"
+        "value": "1811942451"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,18 +22,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811942451"
+        "value": "1740741461"
       }
     ],
     "address": [
       {
         "line": [
-          "9200 Calumet Avenue",
-          "Suite 300"
+          "1611 West Harrison Street",
+          "Suite 400"
         ],
-        "city": "MUNSTER",
-        "state": "IN",
-        "postalCode": "46321-2885"
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60612-4861"
       },
       {
         "line": [
@@ -46,15 +46,6 @@
       },
       {
         "line": [
-          "1611 West Harrison Street",
-          "Suite 400"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60612-4861"
-      },
-      {
-        "line": [
           "25 North Winfield Road",
           "Suite 505"
         ],
@@ -64,11 +55,12 @@
       },
       {
         "line": [
-          "2011 York Road"
+          "331 W SURF ST",
+          "STE 5800"
         ],
-        "city": "OAK BROOK",
+        "city": "CHICAGO",
         "state": "IL",
-        "postalCode": "60523-9999"
+        "postalCode": "60657-7227"
       },
       {
         "line": [
@@ -81,12 +73,20 @@
       },
       {
         "line": [
-          "331 W SURF ST",
-          "STE 5800"
+          "2011 York Road"
         ],
-        "city": "CHICAGO",
+        "city": "OAK BROOK",
         "state": "IL",
-        "postalCode": "60657-7227"
+        "postalCode": "60523-9999"
+      },
+      {
+        "line": [
+          "9200 Calumet Avenue",
+          "Suite 300"
+        ],
+        "city": "MUNSTER",
+        "state": "IN",
+        "postalCode": "46321-2885"
       },
       {
         "line": [

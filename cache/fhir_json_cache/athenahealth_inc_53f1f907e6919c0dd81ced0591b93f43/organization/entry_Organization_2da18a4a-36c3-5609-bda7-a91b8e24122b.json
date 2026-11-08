@@ -14,19 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972734200"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861818379"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730571100"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598213241"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831132133"
+        "value": "1730571100"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -43,17 +31,21 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861810186"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1972734200"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598213241"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831132133"
       }
     ],
     "address": [
-      {
-        "line": [
-          "72 S. State Street"
-        ],
-        "city": "SHELBY",
-        "state": "MI",
-        "postalCode": "49455-1239"
-      },
       {
         "line": [
           "1700 Clinton St"
@@ -61,6 +53,14 @@
         "city": "MUSKEGON",
         "state": "MI",
         "postalCode": "49442-5502"
+      },
+      {
+        "line": [
+          "72 S. State Street"
+        ],
+        "city": "SHELBY",
+        "state": "MI",
+        "postalCode": "49455-1228"
       },
       {
         "line": [
@@ -76,7 +76,7 @@
         ],
         "city": "SHELBY",
         "state": "MI",
-        "postalCode": "49455-1228"
+        "postalCode": "49455-1239"
       }
     ],
     "extension": [

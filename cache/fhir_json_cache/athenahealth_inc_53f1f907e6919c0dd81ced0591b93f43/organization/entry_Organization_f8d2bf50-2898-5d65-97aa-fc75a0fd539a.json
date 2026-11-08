@@ -14,56 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447524392"
+        "value": "1598958431"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598958431"
+        "value": "1447524392"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2108 Hunter Rd",
-          "Ste 116"
-        ],
-        "city": "SAN MARCOS",
-        "state": "TX",
-        "postalCode": "78666-5156"
-      },
-      {
-        "line": [
-          "1215 E COURT ST"
-        ],
-        "city": "SEGUIN",
-        "state": "TX",
-        "postalCode": "78155-5129"
-      },
-      {
-        "line": [
-          "7930 Floyd Curl Dr"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78229-3925"
-      },
-      {
-        "line": [
-          "1139 E Sonterra Blvd"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78258-4347"
-      },
-      {
-        "line": [
-          "8230 N Loop 1604 W",
-          "Suite 218"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78249-2990"
-      },
       {
         "line": [
           "8811 Village Drive"
@@ -71,22 +29,6 @@
         "city": "SAN ANTONIO",
         "state": "TX",
         "postalCode": "78217-5415"
-      },
-      {
-        "line": [
-          "11212 TX Hwy 151"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78251-4498"
-      },
-      {
-        "line": [
-          "1139 E. Sonterra Blvd"
-        ],
-        "city": "SAN ANTONIO",
-        "state": "TX",
-        "postalCode": "78258-4347"
       },
       {
         "line": [
@@ -98,25 +40,15 @@
       },
       {
         "line": [
-          "1340 E Walnut Street",
-          "Suite 1354"
-        ],
-        "city": "SEGUIN",
-        "state": "TX",
-        "postalCode": "78155-5126"
-      },
-      {
-        "line": [
-          "143 Sunset Road",
-          "Suite 100"
+          "11212 TX Hwy 151"
         ],
         "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78209-2659"
+        "postalCode": "78251-4498"
       },
       {
         "line": [
-          "1215 E COURT ST."
+          "1215 E COURT ST"
         ],
         "city": "SEGUIN",
         "state": "TX",
@@ -124,20 +56,20 @@
       },
       {
         "line": [
-          "1445 Hanz Drive"
+          "5000 Baptist Health Drive",
+          "Suite 101"
         ],
-        "city": "NEW BRAUNFELS",
+        "city": "SCHERTZ",
         "state": "TX",
-        "postalCode": "78130-2567"
+        "postalCode": "78154-1194"
       },
       {
         "line": [
-          "515 N King St",
-          "Suite 105"
+          "7930 Floyd Curl Dr"
         ],
-        "city": "SEGUIN",
+        "city": "SAN ANTONIO",
         "state": "TX",
-        "postalCode": "78155-4815"
+        "postalCode": "78229-3925"
       },
       {
         "line": [
@@ -157,12 +89,88 @@
       },
       {
         "line": [
-          "5000 Baptist Health Drive",
-          "Suite 101"
+          "1445 Hanz Drive"
         ],
-        "city": "SCHERTZ",
+        "city": "NEW BRAUNFELS",
         "state": "TX",
-        "postalCode": "78154-1194"
+        "postalCode": "78130-2567"
+      },
+      {
+        "line": [
+          "2648 Loop 337"
+        ],
+        "city": "NEW BRAUNFELS",
+        "state": "TX",
+        "postalCode": "78130-0001"
+      },
+      {
+        "line": [
+          "515 N King St",
+          "Suite 105"
+        ],
+        "city": "SEGUIN",
+        "state": "TX",
+        "postalCode": "78155-4815"
+      },
+      {
+        "line": [
+          "8230 N Loop 1604 W",
+          "Suite 218"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78249-2990"
+      },
+      {
+        "line": [
+          "1340 E Walnut Street",
+          "Suite 1354"
+        ],
+        "city": "SEGUIN",
+        "state": "TX",
+        "postalCode": "78155-5126"
+      },
+      {
+        "line": [
+          "1139 E Sonterra Blvd"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78258-4347"
+      },
+      {
+        "line": [
+          "1215 E COURT ST."
+        ],
+        "city": "SEGUIN",
+        "state": "TX",
+        "postalCode": "78155-5129"
+      },
+      {
+        "line": [
+          "1139 E. Sonterra Blvd"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78258-4347"
+      },
+      {
+        "line": [
+          "143 Sunset Road",
+          "Suite 100"
+        ],
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postalCode": "78209-2659"
+      },
+      {
+        "line": [
+          "2108 Hunter Rd",
+          "Ste 116"
+        ],
+        "city": "SAN MARCOS",
+        "state": "TX",
+        "postalCode": "78666-5156"
       },
       {
         "line": [
@@ -172,14 +180,6 @@
         "city": "SEGUIN",
         "state": "TX",
         "postalCode": "78155-4815"
-      },
-      {
-        "line": [
-          "2648 Loop 337"
-        ],
-        "city": "NEW BRAUNFELS",
-        "state": "TX",
-        "postalCode": "78130-0001"
       }
     ],
     "extension": [

@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023424041"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1760898787"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932515954"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,11 +26,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669888681"
+        "value": "1841606860"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841606860"
+        "value": "1023424041"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1932515954"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669888681"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -47,10 +47,12 @@
     ],
     "address": [
       {
-        "line": [],
-        "city": "POPLAR BLUFF",
-        "state": "MO",
-        "postalCode": "63902-8938"
+        "line": [
+          "4000 MERIDIAN"
+        ],
+        "city": "FRANKLIN",
+        "state": "TN",
+        "postalCode": "37064-6325"
       },
       {
         "line": [
@@ -62,11 +64,11 @@
       },
       {
         "line": [
-          "4000 MERIDIAN"
+          "606 W MISSOURI ST"
         ],
-        "city": "FRANKLIN",
-        "state": "TN",
-        "postalCode": "37064-6325"
+        "city": "BLOOMFIELD",
+        "state": "MO",
+        "postalCode": "63825-9706"
       },
       {
         "line": [
@@ -77,12 +79,10 @@
         "postalCode": "63730-8372"
       },
       {
-        "line": [
-          "606 W MISSOURI ST"
-        ],
-        "city": "BLOOMFIELD",
+        "line": [],
+        "city": "POPLAR BLUFF",
         "state": "MO",
-        "postalCode": "63825-9706"
+        "postalCode": "63902-8938"
       }
     ],
     "extension": [

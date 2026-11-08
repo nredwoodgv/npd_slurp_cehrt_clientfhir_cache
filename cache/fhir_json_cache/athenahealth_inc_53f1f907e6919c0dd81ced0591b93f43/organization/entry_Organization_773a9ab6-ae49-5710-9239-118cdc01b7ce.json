@@ -14,45 +14,38 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275990061"
+        "value": "1588775647"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588775647"
+        "value": "1275990061"
       }
     ],
     "address": [
       {
         "line": [
-          "1041 W STEARNS RD"
-        ],
-        "city": "BARTLETT",
-        "state": "IL",
-        "postalCode": "60103-4509"
-      },
-      {
-        "line": [
-          "1555 N BARRINGTON RD"
-        ],
-        "city": "HOFFMAN ESTATES",
-        "state": "IL",
-        "postalCode": "60169-1019"
-      },
-      {
-        "line": [
-          "701 W BIESTERFIELD RD"
+          "800 BIESTERFIELD RD"
         ],
         "city": "ELK GROVE VILLAGE",
         "state": "IL",
-        "postalCode": "60007-3300"
+        "postalCode": "60007-3361"
       },
       {
         "line": [
-          "126 Biesterfield Rd."
+          "1220 Iroquois Ave.",
+          "Suite 180"
         ],
-        "city": "ELK GROVE VILLAGE",
+        "city": "NAPERVILLE",
         "state": "IL",
-        "postalCode": "60007-3657"
+        "postalCode": "60563-8581"
+      },
+      {
+        "line": [
+          "4646 N. Marine Dr."
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60640-5759"
       },
       {
         "line": [
@@ -65,67 +58,60 @@
       },
       {
         "line": [
-          "630 North Ave"
+          "1555 N BARRINGTON RD"
         ],
-        "city": "CAROL STREAM",
+        "city": "HOFFMAN ESTATES",
         "state": "IL",
-        "postalCode": "60188-2127"
+        "postalCode": "60169-1019"
       },
       {
         "line": [
-          "800 BIESTERFIELD RD"
+          "908 N ELM ST, SUITE 210"
+        ],
+        "city": "HINSDALE",
+        "state": "IL",
+        "postalCode": "60521-3637"
+      },
+      {
+        "line": [
+          "126 Biesterfield Rd"
         ],
         "city": "ELK GROVE VILLAGE",
         "state": "IL",
-        "postalCode": "60007-3361"
+        "postalCode": "60007-3657"
       },
       {
         "line": [
-          "355 Ridge Ave"
+          "1041 W STEARNS RD"
         ],
-        "city": "EVANSTON",
+        "city": "BARTLETT",
         "state": "IL",
-        "postalCode": "60202-3328"
+        "postalCode": "60103-4509"
       },
       {
         "line": [
-          "235 S. Rand Rd"
+          "600 W Lake Cook Rd",
+          "Suite 120"
         ],
-        "city": "LAKE ZURICH",
+        "city": "BUFFALO GROVE",
         "state": "IL",
-        "postalCode": "60047-2273"
+        "postalCode": "60089-2085"
       },
       {
         "line": [
-          "361 W GOLF ROAD"
+          "908 N Elm St, Suite 309"
         ],
-        "city": "SCHAUMBURG",
+        "city": "HINSDALE",
         "state": "IL",
-        "postalCode": "60195-3607"
+        "postalCode": "60521-3625"
       },
       {
         "line": [
-          "630 E. North Avenue"
+          "1875 Dempster St"
         ],
-        "city": "CAROL STREAM",
+        "city": "PARK RIDGE",
         "state": "IL",
-        "postalCode": "60188-2127"
-      },
-      {
-        "line": [
-          "1415 S Arlington Heights Rd"
-        ],
-        "city": "ARLINGTON HEIGHTS",
-        "state": "IL",
-        "postalCode": "60005-3765"
-      },
-      {
-        "line": [
-          "1754 W Golf Road"
-        ],
-        "city": "MOUNT PROSPECT",
-        "state": "IL",
-        "postalCode": "60056-4071"
+        "postalCode": "60068-1186"
       },
       {
         "line": [
@@ -138,19 +124,35 @@
       },
       {
         "line": [
-          "701 WINTHROP"
+          "800 Biesterfield Road, Eberle Building, Suite 705B"
         ],
-        "city": "GLENDALE HEIGHTS",
+        "city": "ELK GROVE VILLAGE",
         "state": "IL",
-        "postalCode": "60139-1405"
+        "postalCode": "60007-3364"
       },
       {
         "line": [
-          "908 N ELM ST, SUITE 202"
+          "333 North Madison St"
         ],
-        "city": "HINSDALE",
+        "city": "JOLIET",
         "state": "IL",
-        "postalCode": "60521-3637"
+        "postalCode": "60435-8200"
+      },
+      {
+        "line": [
+          "333 N. Madison St., 2nd floor"
+        ],
+        "city": "JOLIET",
+        "state": "IL",
+        "postalCode": "60435-8200"
+      },
+      {
+        "line": [
+          "460 Quail Ridge Drive"
+        ],
+        "city": "WESTMONT",
+        "state": "IL",
+        "postalCode": "60559-6145"
       },
       {
         "line": [
@@ -162,11 +164,159 @@
       },
       {
         "line": [
+          "5201 S. Willow Springs Rd",
+          "Suite 160"
+        ],
+        "city": "LA GRANGE",
+        "state": "IL",
+        "postalCode": "60525-6558"
+      },
+      {
+        "line": [
+          "701 W BIESTERFIELD RD"
+        ],
+        "city": "ELK GROVE VILLAGE",
+        "state": "IL",
+        "postalCode": "60007-3300"
+      },
+      {
+        "line": [
+          "6084 S Archer Ave"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60638-2747"
+      },
+      {
+        "line": [
+          "303 Army Trail Rd.",
+          "ste 403"
+        ],
+        "city": "BLOOMINGDALE",
+        "state": "IL",
+        "postalCode": "60108-2152"
+      },
+      {
+        "line": [
+          "7447 W. Talcott Ave.",
+          "Suite 327"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60631-3719"
+      },
+      {
+        "line": [
+          "800 W CENTRAL RD"
+        ],
+        "city": "ARLINGTON HEIGHTS",
+        "state": "IL",
+        "postalCode": "60005-2349"
+      },
+      {
+        "line": [
+          "120 NORTH OAK STREET"
+        ],
+        "city": "HINSDALE",
+        "state": "IL",
+        "postalCode": "60521-3829"
+      },
+      {
+        "line": [
+          "333 North Madison St."
+        ],
+        "city": "JOLIET",
+        "state": "IL",
+        "postalCode": "60435-8200"
+      },
+      {
+        "line": [
+          "800 Biesterfield"
+        ],
+        "city": "ELK GROVE VILLAGE",
+        "state": "IL",
+        "postalCode": "60007-3500"
+      },
+      {
+        "line": [
+          "800 W CENTRAL"
+        ],
+        "city": "ARLINGTON HEIGHTS",
+        "state": "IL",
+        "postalCode": "60005-2349"
+      },
+      {
+        "line": [
+          "1555 Barrington Rd"
+        ],
+        "city": "HOFFMAN ESTATES",
+        "state": "IL",
+        "postalCode": "60169-1019"
+      },
+      {
+        "line": [
+          "355 Ridge Ave"
+        ],
+        "city": "EVANSTON",
+        "state": "IL",
+        "postalCode": "60202-3328"
+      },
+      {
+        "line": [
+          "701 WINTHROP"
+        ],
+        "city": "GLENDALE HEIGHTS",
+        "state": "IL",
+        "postalCode": "60139-1405"
+      },
+      {
+        "line": [
+          "205 W. Randolph St."
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60606-1820"
+      },
+      {
+        "line": [
+          "1415 S Arlington Heights Rd"
+        ],
+        "city": "ARLINGTON HEIGHTS",
+        "state": "IL",
+        "postalCode": "60005-3765"
+      },
+      {
+        "line": [
+          "630 North Ave"
+        ],
+        "city": "CAROL STREAM",
+        "state": "IL",
+        "postalCode": "60188-2127"
+      },
+      {
+        "line": [
           "1626 Algonquin Rd."
         ],
         "city": "HOFFMAN ESTATES",
         "state": "IL",
         "postalCode": "60192-1587"
+      },
+      {
+        "line": [
+          "800 Biesterfield Rd.",
+          "Suite 505"
+        ],
+        "city": "ELK GROVE VILLAGE",
+        "state": "IL",
+        "postalCode": "60007-3361"
+      },
+      {
+        "line": [
+          "235 RAND RD"
+        ],
+        "city": "LAKE ZURICH",
+        "state": "IL",
+        "postalCode": "60047-2273"
       },
       {
         "line": [
@@ -178,6 +328,47 @@
       },
       {
         "line": [
+          "908 N ELM ST, SUITE 202"
+        ],
+        "city": "HINSDALE",
+        "state": "IL",
+        "postalCode": "60521-3637"
+      },
+      {
+        "line": [
+          "500 S Weber Road"
+        ],
+        "city": "ROMEOVILLE",
+        "state": "IL",
+        "postalCode": "60446-6528"
+      },
+      {
+        "line": [
+          "1000 REMINGTON BLVD",
+          "SUITE 110"
+        ],
+        "city": "BOLINGBROOK",
+        "state": "IL",
+        "postalCode": "60440-4708"
+      },
+      {
+        "line": [
+          "800 BIESTERFIELD ROAD"
+        ],
+        "city": "ELK GROVE VILLAGE",
+        "state": "IL",
+        "postalCode": "60007-3361"
+      },
+      {
+        "line": [
+          "1100 E. Woodfield Rd Suite 140"
+        ],
+        "city": "SCHAUMBURG",
+        "state": "IL",
+        "postalCode": "60173-5116"
+      },
+      {
+        "line": [
           "800 Biesterfield"
         ],
         "city": "ELK GROVE VILLAGE",
@@ -186,11 +377,131 @@
       },
       {
         "line": [
-          "800 W CENTRAL RD"
+          "77 North Airlite St."
         ],
-        "city": "ARLINGTON HEIGHTS",
+        "city": "ELGIN",
         "state": "IL",
-        "postalCode": "60005-2349"
+        "postalCode": "60123-4912"
+      },
+      {
+        "line": [
+          "908 N. Elm St.",
+          "Suite 207"
+        ],
+        "city": "HINSDALE",
+        "state": "IL",
+        "postalCode": "60521-3637"
+      },
+      {
+        "line": [
+          "9600 GROSS POINT RD"
+        ],
+        "city": "SKOKIE",
+        "state": "IL",
+        "postalCode": "60076-1259"
+      },
+      {
+        "line": [
+          "126 Biesterfield Rd."
+        ],
+        "city": "ELK GROVE VILLAGE",
+        "state": "IL",
+        "postalCode": "60007-3657"
+      },
+      {
+        "line": [
+          "303 Army Trail Rd Ste 100"
+        ],
+        "city": "BLOOMINGDALE",
+        "state": "IL",
+        "postalCode": "60108-2155"
+      },
+      {
+        "line": [
+          "2363 63RD STREET"
+        ],
+        "city": "WOODRIDGE",
+        "state": "IL",
+        "postalCode": "60517-1369"
+      },
+      {
+        "line": [
+          "361 W GOLF ROAD"
+        ],
+        "city": "SCHAUMBURG",
+        "state": "IL",
+        "postalCode": "60195-3607"
+      },
+      {
+        "line": [],
+        "city": "SCHAUMBURG",
+        "state": "IL",
+        "postalCode": "60194-3550"
+      },
+      {
+        "line": [
+          "460 Quail Ridge Dr."
+        ],
+        "city": "WESTMONT",
+        "state": "IL",
+        "postalCode": "60559-6145"
+      },
+      {
+        "line": [
+          "1754 W Golf Road"
+        ],
+        "city": "MOUNT PROSPECT",
+        "state": "IL",
+        "postalCode": "60056-4071"
+      },
+      {
+        "line": [
+          "231 E Northwest Hwy"
+        ],
+        "city": "PALATINE",
+        "state": "IL",
+        "postalCode": "60067-8114"
+      },
+      {
+        "line": [
+          "630 E. North Avenue"
+        ],
+        "city": "CAROL STREAM",
+        "state": "IL",
+        "postalCode": "60188-2127"
+      },
+      {
+        "line": [
+          "12151 Regency Parkway"
+        ],
+        "city": "HUNTLEY",
+        "state": "IL",
+        "postalCode": "60142-7644"
+      },
+      {
+        "line": [
+          "235 S. Rand Rd"
+        ],
+        "city": "LAKE ZURICH",
+        "state": "IL",
+        "postalCode": "60047-2273"
+      },
+      {
+        "line": [
+          "5327 N. Sheridan Road",
+          "#C"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60640-6934"
+      },
+      {
+        "line": [
+          "1301 Lee St"
+        ],
+        "city": "DES PLAINES",
+        "state": "IL",
+        "postalCode": "60018-1514"
       },
       {
         "line": [
@@ -211,187 +522,6 @@
       },
       {
         "line": [
-          "701 Winthrop Ave"
-        ],
-        "city": "GLENDALE HEIGHTS",
-        "state": "IL",
-        "postalCode": "60139-1405"
-      },
-      {
-        "line": [
-          "800 BIESTERFIELD ROAD"
-        ],
-        "city": "ELK GROVE VILLAGE",
-        "state": "IL",
-        "postalCode": "60007-3361"
-      },
-      {
-        "line": [
-          "1100 E. Woodfield Rd Suite 140"
-        ],
-        "city": "SCHAUMBURG",
-        "state": "IL",
-        "postalCode": "60173-5116"
-      },
-      {
-        "line": [
-          "800 W CENTRAL"
-        ],
-        "city": "ARLINGTON HEIGHTS",
-        "state": "IL",
-        "postalCode": "60005-2349"
-      },
-      {
-        "line": [
-          "1000 REMINGTON BLVD",
-          "SUITE 110"
-        ],
-        "city": "BOLINGBROOK",
-        "state": "IL",
-        "postalCode": "60440-4708"
-      },
-      {
-        "line": [
-          "120 NORTH OAK STREET"
-        ],
-        "city": "HINSDALE",
-        "state": "IL",
-        "postalCode": "60521-3829"
-      },
-      {
-        "line": [
-          "5327 N. Sheridan Road",
-          "#C"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60640-6934"
-      },
-      {
-        "line": [
-          "231 E Northwest Hwy"
-        ],
-        "city": "PALATINE",
-        "state": "IL",
-        "postalCode": "60067-8114"
-      },
-      {
-        "line": [
-          "800 Biesterfield"
-        ],
-        "city": "ELK GROVE VILLAGE",
-        "state": "IL",
-        "postalCode": "60007-3500"
-      },
-      {
-        "line": [
-          "1875 Dempster St"
-        ],
-        "city": "PARK RIDGE",
-        "state": "IL",
-        "postalCode": "60068-1186"
-      },
-      {
-        "line": [
-          "9600 GROSS POINT RD"
-        ],
-        "city": "SKOKIE",
-        "state": "IL",
-        "postalCode": "60076-1259"
-      },
-      {
-        "line": [
-          "303 Army Trail Rd.",
-          "ste 403"
-        ],
-        "city": "BLOOMINGDALE",
-        "state": "IL",
-        "postalCode": "60108-2152"
-      },
-      {
-        "line": [
-          "1220 Iroquois Ave.",
-          "Suite 180"
-        ],
-        "city": "NAPERVILLE",
-        "state": "IL",
-        "postalCode": "60563-8581"
-      },
-      {
-        "line": [
-          "800 Biesterfield Road, Eberle Building, Suite 705B"
-        ],
-        "city": "ELK GROVE VILLAGE",
-        "state": "IL",
-        "postalCode": "60007-3364"
-      },
-      {
-        "line": [
-          "1301 Lee St"
-        ],
-        "city": "DES PLAINES",
-        "state": "IL",
-        "postalCode": "60018-1514"
-      },
-      {
-        "line": [
-          "600 W Lake Cook Rd",
-          "Suite 120"
-        ],
-        "city": "BUFFALO GROVE",
-        "state": "IL",
-        "postalCode": "60089-2085"
-      },
-      {
-        "line": [
-          "303 Army Trail Rd Ste 100"
-        ],
-        "city": "BLOOMINGDALE",
-        "state": "IL",
-        "postalCode": "60108-2155"
-      },
-      {
-        "line": [
-          "6084 S Archer Ave"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60638-2747"
-      },
-      {
-        "line": [
-          "500 S Weber Road"
-        ],
-        "city": "ROMEOVILLE",
-        "state": "IL",
-        "postalCode": "60446-6528"
-      },
-      {
-        "line": [
-          "235 RAND RD"
-        ],
-        "city": "LAKE ZURICH",
-        "state": "IL",
-        "postalCode": "60047-2273"
-      },
-      {
-        "line": [
-          "4646 N. Marine Dr."
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60640-5759"
-      },
-      {
-        "line": [
-          "460 Quail Ridge Dr."
-        ],
-        "city": "WESTMONT",
-        "state": "IL",
-        "postalCode": "60559-6145"
-      },
-      {
-        "line": [
           "7435 W. Talcott"
         ],
         "city": "CHICAGO",
@@ -400,141 +530,11 @@
       },
       {
         "line": [
-          "2363 63RD STREET"
+          "701 Winthrop Ave"
         ],
-        "city": "WOODRIDGE",
+        "city": "GLENDALE HEIGHTS",
         "state": "IL",
-        "postalCode": "60517-1369"
-      },
-      {
-        "line": [
-          "460 Quail Ridge Drive"
-        ],
-        "city": "WESTMONT",
-        "state": "IL",
-        "postalCode": "60559-6145"
-      },
-      {
-        "line": [
-          "908 N Elm St, Suite 309"
-        ],
-        "city": "HINSDALE",
-        "state": "IL",
-        "postalCode": "60521-3625"
-      },
-      {
-        "line": [
-          "908 N ELM ST, SUITE 210"
-        ],
-        "city": "HINSDALE",
-        "state": "IL",
-        "postalCode": "60521-3637"
-      },
-      {
-        "line": [
-          "1555 Barrington Rd"
-        ],
-        "city": "HOFFMAN ESTATES",
-        "state": "IL",
-        "postalCode": "60169-1019"
-      },
-      {
-        "line": [
-          "333 North Madison St."
-        ],
-        "city": "JOLIET",
-        "state": "IL",
-        "postalCode": "60435-8200"
-      },
-      {
-        "line": [
-          "800 Biesterfield Rd.",
-          "Suite 505"
-        ],
-        "city": "ELK GROVE VILLAGE",
-        "state": "IL",
-        "postalCode": "60007-3361"
-      },
-      {
-        "line": [
-          "77 North Airlite St."
-        ],
-        "city": "ELGIN",
-        "state": "IL",
-        "postalCode": "60123-4912"
-      },
-      {
-        "line": [
-          "7447 W. Talcott Ave.",
-          "Suite 327"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60631-3719"
-      },
-      {
-        "line": [
-          "333 N. Madison St., 2nd floor"
-        ],
-        "city": "JOLIET",
-        "state": "IL",
-        "postalCode": "60435-8200"
-      },
-      {
-        "line": [
-          "5201 S. Willow Springs Rd",
-          "Suite 160"
-        ],
-        "city": "LA GRANGE",
-        "state": "IL",
-        "postalCode": "60525-6558"
-      },
-      {
-        "line": [
-          "908 N. Elm St.",
-          "Suite 207"
-        ],
-        "city": "HINSDALE",
-        "state": "IL",
-        "postalCode": "60521-3637"
-      },
-      {
-        "line": [
-          "333 North Madison St"
-        ],
-        "city": "JOLIET",
-        "state": "IL",
-        "postalCode": "60435-8200"
-      },
-      {
-        "line": [
-          "12151 Regency Parkway"
-        ],
-        "city": "HUNTLEY",
-        "state": "IL",
-        "postalCode": "60142-7644"
-      },
-      {
-        "line": [
-          "205 W. Randolph St."
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60606-1820"
-      },
-      {
-        "line": [],
-        "city": "SCHAUMBURG",
-        "state": "IL",
-        "postalCode": "60194-3550"
-      },
-      {
-        "line": [
-          "126 Biesterfield Rd"
-        ],
-        "city": "ELK GROVE VILLAGE",
-        "state": "IL",
-        "postalCode": "60007-3657"
+        "postalCode": "60139-1405"
       },
       {
         "line": [

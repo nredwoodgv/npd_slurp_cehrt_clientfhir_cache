@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104496819"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1073054458"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1104367630"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104496819"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,19 +32,19 @@
     "address": [
       {
         "line": [
-          "8075 SPYGLASS HILL RD"
-        ],
-        "city": "MELBOURNE",
-        "state": "FL",
-        "postalCode": "32940-8427"
-      },
-      {
-        "line": [
           "255 FORTENBERRY RD STE A1"
         ],
         "city": "MERRITT ISLAND",
         "state": "FL",
         "postalCode": "32952-3601"
+      },
+      {
+        "line": [
+          "8075 SPYGLASS HILL RD"
+        ],
+        "city": "MELBOURNE",
+        "state": "FL",
+        "postalCode": "32940-8427"
       }
     ],
     "extension": [

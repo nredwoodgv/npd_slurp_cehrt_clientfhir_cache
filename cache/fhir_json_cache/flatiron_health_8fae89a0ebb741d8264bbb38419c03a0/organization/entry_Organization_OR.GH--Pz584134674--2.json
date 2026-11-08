@@ -18,7 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790775229"
+        "value": "000000000"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1111111111"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,11 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "000000000"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1111111111"
+        "value": "1790775229"
       }
     ],
     "active": true,
@@ -66,19 +66,19 @@
       },
       {
         "system": "phone",
-        "value": "(501)906-4441"
-      },
-      {
-        "system": "phone",
-        "value": "(870)535-4221"
-      },
-      {
-        "system": "phone",
         "value": "(555)555-5555"
       },
       {
         "system": "phone",
+        "value": "(501)906-4441"
+      },
+      {
+        "system": "phone",
         "value": "(555)867-5309"
+      },
+      {
+        "system": "phone",
+        "value": "(870)535-4221"
       }
     ],
     "address": [
@@ -277,230 +277,11 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "528 West Faulkner Street"
-        ],
-        "city": "El Dorado",
-        "state": "AR",
-        "postalCode": "71730",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "As per instruction"
-        ],
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "1808 W Main St"
         ],
         "city": "Russellville",
         "state": "AR",
         "postalCode": "728012724",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "404 South Bradley Street"
-        ],
-        "city": "Warren",
-        "state": "AR",
-        "postalCode": "71671",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "9601 Baptist Health Drive",
-          "Suite 106"
-        ],
-        "city": "Little Rock",
-        "state": "AR",
-        "postalCode": "72205",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "101 Hospital Drive"
-        ],
-        "city": "Magnolia",
-        "state": "AR",
-        "postalCode": "71753",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "8820 CARTI Way"
-        ],
-        "city": "Little Rock",
-        "state": "AR",
-        "postalCode": "72205",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1100 E Poplar Street"
-        ],
-        "city": "Clarksville",
-        "state": "AR",
-        "postalCode": "72830",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "2500 Highway US 65 South"
-        ],
-        "city": "Clinton",
-        "state": "AR",
-        "postalCode": "72031",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "2605 College Avenue"
-        ],
-        "city": "Conway",
-        "state": "AR",
-        "postalCode": "72034",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "313 N. Alabama Street",
-          "Suite 1"
-        ],
-        "city": "Crossett",
-        "state": "AR",
-        "postalCode": "71635",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "622 Hospital Drive"
-        ],
-        "city": "Mountain Home",
-        "state": "AR",
-        "postalCode": "72653",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "3400 Springhill Drive"
-        ],
-        "city": "North Little Rock",
-        "state": "AR",
-        "postalCode": "72117",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "3121 North Reynolds Road"
-        ],
-        "city": "Bryant",
-        "state": "AR",
-        "postalCode": "72022",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1505 North Medical Drive"
-        ],
-        "city": "Stuttgart",
-        "state": "AR",
-        "postalCode": "72160",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "209 South Portland Avenue"
-        ],
-        "city": "Russellville",
-        "state": "AR",
-        "postalCode": "72801",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1601 Northwest Ave"
-        ],
-        "city": "El Dorado",
-        "state": "AR",
-        "postalCode": "71730",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "410 Denison"
-        ],
-        "city": "Conway",
-        "state": "AR",
-        "postalCode": "72034",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "415 Rodgers Drive"
-        ],
-        "city": "Searcy",
-        "state": "AR",
-        "postalCode": "72143",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "405 Rodgers Drive"
-        ],
-        "city": "Searcy",
-        "state": "AR",
-        "postalCode": "72143",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "9500 Kanis, Suite #150"
-        ],
-        "city": "Little Rock",
-        "state": "AR",
-        "postalCode": "72205",
         "country": "USA"
       },
       {
@@ -518,7 +299,48 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "8901 CARTI Way"
+          "As per instruction"
+        ],
+        "city": ".",
+        "state": ".",
+        "postalCode": ".",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "410 Denison"
+        ],
+        "city": "Conway",
+        "state": "AR",
+        "postalCode": "72034",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "101 Hospital Drive"
+        ],
+        "city": "Magnolia",
+        "state": "AR",
+        "postalCode": "71753",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "As per instruction"
+        ],
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "8820 CARTI Way"
         ],
         "city": "Little Rock",
         "state": "AR",
@@ -540,11 +362,67 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "5001 Bobo Road"
+          "1313 Mockingbird Lane"
         ],
-        "city": "Pine Bluff",
+        "city": "Mockingbird Heights",
+        "state": "CA",
+        "postalCode": "90210",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "3121 North Reynolds Road"
+        ],
+        "city": "Bryant",
         "state": "AR",
-        "postalCode": "71603",
+        "postalCode": "72022",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "9500 Kanis, Suite #150"
+        ],
+        "city": "Little Rock",
+        "state": "AR",
+        "postalCode": "72205",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1505 North Medical Drive"
+        ],
+        "city": "Stuttgart",
+        "state": "AR",
+        "postalCode": "72160",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "622 Hospital Drive"
+        ],
+        "city": "Mountain Home",
+        "state": "AR",
+        "postalCode": "72653",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "313 N. Alabama Street",
+          "Suite 1"
+        ],
+        "city": "Crossett",
+        "state": "AR",
+        "postalCode": "71635",
         "country": "USA"
       },
       {
@@ -562,22 +440,44 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "As per instruction"
+          "209 South Portland Avenue"
         ],
-        "city": ".",
-        "state": ".",
-        "postalCode": ".",
+        "city": "Russellville",
+        "state": "AR",
+        "postalCode": "72801",
         "country": "USA"
       },
       {
         "use": "work",
         "type": "postal",
         "line": [
-          "1313 Mockingbird Lane"
+          "2605 College Avenue"
         ],
-        "city": "Mockingbird Heights",
-        "state": "CA",
-        "postalCode": "90210",
+        "city": "Conway",
+        "state": "AR",
+        "postalCode": "72034",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "528 West Faulkner Street"
+        ],
+        "city": "El Dorado",
+        "state": "AR",
+        "postalCode": "71730",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "405 Rodgers Drive"
+        ],
+        "city": "Searcy",
+        "state": "AR",
+        "postalCode": "72143",
         "country": "USA"
       },
       {
@@ -590,6 +490,106 @@
         "city": "North Little Rock",
         "state": "AR",
         "postalCode": "72117",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1601 Northwest Ave"
+        ],
+        "city": "El Dorado",
+        "state": "AR",
+        "postalCode": "71730",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "8901 CARTI Way"
+        ],
+        "city": "Little Rock",
+        "state": "AR",
+        "postalCode": "72205",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "5001 Bobo Road"
+        ],
+        "city": "Pine Bluff",
+        "state": "AR",
+        "postalCode": "71603",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1100 E Poplar Street"
+        ],
+        "city": "Clarksville",
+        "state": "AR",
+        "postalCode": "72830",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "415 Rodgers Drive"
+        ],
+        "city": "Searcy",
+        "state": "AR",
+        "postalCode": "72143",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2500 Highway US 65 South"
+        ],
+        "city": "Clinton",
+        "state": "AR",
+        "postalCode": "72031",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "404 South Bradley Street"
+        ],
+        "city": "Warren",
+        "state": "AR",
+        "postalCode": "71671",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "3400 Springhill Drive"
+        ],
+        "city": "North Little Rock",
+        "state": "AR",
+        "postalCode": "72117",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "9601 Baptist Health Drive",
+          "Suite 106"
+        ],
+        "city": "Little Rock",
+        "state": "AR",
+        "postalCode": "72205",
         "country": "USA"
       }
     ],

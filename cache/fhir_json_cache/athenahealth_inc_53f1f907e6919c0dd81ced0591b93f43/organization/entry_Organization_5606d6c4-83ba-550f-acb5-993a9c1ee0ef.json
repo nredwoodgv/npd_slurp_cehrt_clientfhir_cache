@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790942381"
+        "value": "1457183311"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457183311"
+        "value": "1790942381"
       }
     ],
     "address": [
-      {
-        "line": [
-          "777 Hemlock Street"
-        ],
-        "city": "MACON",
-        "state": "GA",
-        "postalCode": "31201-2102"
-      },
       {
         "line": [
           "200 Industrial Boulevard"
@@ -56,11 +48,11 @@
       },
       {
         "line": [
-          "460 MALL BLVD"
+          "340 Hospital Drive"
         ],
-        "city": "SAVANNAH",
+        "city": "MACON",
         "state": "GA",
-        "postalCode": "31406-0001"
+        "postalCode": "31217-3838"
       },
       {
         "line": [
@@ -72,19 +64,27 @@
       },
       {
         "line": [
-          "460 MALL BLVD STE B"
+          "460 MALL BLVD"
         ],
         "city": "SAVANNAH",
         "state": "GA",
-        "postalCode": "31406-4801"
+        "postalCode": "31406-0001"
       },
       {
         "line": [
-          "1707 MEADOWS LN STE G"
+          "777 Hemlock Street"
         ],
-        "city": "VIDALIA",
+        "city": "MACON",
         "state": "GA",
-        "postalCode": "30474-7201"
+        "postalCode": "31201-2102"
+      },
+      {
+        "line": [
+          "440 MALL BLVD STE C"
+        ],
+        "city": "SAVANNAH",
+        "state": "GA",
+        "postalCode": "31406-4868"
       },
       {
         "line": [
@@ -106,11 +106,11 @@
       },
       {
         "line": [
-          "440 MALL BLVD STE C"
+          "242 Industrial Boulevard"
         ],
-        "city": "SAVANNAH",
+        "city": "DUBLIN",
         "state": "GA",
-        "postalCode": "31406-4868"
+        "postalCode": "31021-2904"
       },
       {
         "line": [
@@ -122,19 +122,19 @@
       },
       {
         "line": [
-          "340 Hospital Drive"
+          "1707 MEADOWS LN STE G"
         ],
-        "city": "MACON",
+        "city": "VIDALIA",
         "state": "GA",
-        "postalCode": "31217-3838"
+        "postalCode": "30474-7201"
       },
       {
         "line": [
-          "242 Industrial Boulevard"
+          "460 MALL BLVD STE B"
         ],
-        "city": "DUBLIN",
+        "city": "SAVANNAH",
         "state": "GA",
-        "postalCode": "31021-2904"
+        "postalCode": "31406-4801"
       }
     ],
     "extension": [

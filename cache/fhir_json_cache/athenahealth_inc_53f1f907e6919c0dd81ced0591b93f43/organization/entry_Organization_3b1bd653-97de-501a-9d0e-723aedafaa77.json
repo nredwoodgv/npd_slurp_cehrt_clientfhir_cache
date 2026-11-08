@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1123456789"
+        "value": "1144464215"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144464215"
+        "value": "1123456789"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,11 +32,11 @@
     "address": [
       {
         "line": [
-          "970 Campbell Rd"
+          "7480 BEECHNUT ST"
         ],
         "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77024-2804"
+        "postalCode": "77074-4502"
       },
       {
         "line": [
@@ -48,11 +48,11 @@
       },
       {
         "line": [
-          "210 COLLEGE ST"
+          "1842 Hollister st."
         ],
-        "city": "SCHULENBURG",
+        "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "78956-1604"
+        "postalCode": "77080-6802"
       },
       {
         "line": [
@@ -64,19 +64,27 @@
       },
       {
         "line": [
-          "7480 BEECHNUT ST"
+          "7800 N. Stadium Dr."
         ],
         "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77074-4502"
+        "postalCode": "77030-4442"
       },
       {
         "line": [
-          "1842 Hollister st."
+          "1400 N MAIN ST."
         ],
-        "city": "HOUSTON",
+        "city": "GIDDINGS",
         "state": "TX",
-        "postalCode": "77080-6802"
+        "postalCode": "78942-1360"
+      },
+      {
+        "line": [
+          "120 STATE LOOP 92"
+        ],
+        "city": "LA GRANGE",
+        "state": "TX",
+        "postalCode": "78945-6035"
       },
       {
         "line": [
@@ -88,8 +96,23 @@
       },
       {
         "line": [
-          "603 WYCLIFFE DRIVE",
-          "SUITE B"
+          "970 Campbell Rd"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77024-2804"
+      },
+      {
+        "line": [
+          "7002 SETTLERS VILLAGE DR"
+        ],
+        "city": "KATY",
+        "state": "TX",
+        "postalCode": "77449-6886"
+      },
+      {
+        "line": [
+          "603 WYCLIFFE"
         ],
         "city": "HOUSTON",
         "state": "TX",
@@ -105,38 +128,6 @@
       },
       {
         "line": [
-          "7002 SETTLERS VILLAGE DR"
-        ],
-        "city": "KATY",
-        "state": "TX",
-        "postalCode": "77449-6886"
-      },
-      {
-        "line": [
-          "8580 WOODWAY DR"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77063-2423"
-      },
-      {
-        "line": [
-          "7800 N. Stadium Dr."
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77030-4442"
-      },
-      {
-        "line": [
-          "120 STATE LOOP 92"
-        ],
-        "city": "LA GRANGE",
-        "state": "TX",
-        "postalCode": "78945-6035"
-      },
-      {
-        "line": [
           "911 S JEFFERSON ST"
         ],
         "city": "LA GRANGE",
@@ -145,19 +136,28 @@
       },
       {
         "line": [
-          "1400 N MAIN ST."
+          "210 COLLEGE ST"
         ],
-        "city": "GIDDINGS",
+        "city": "SCHULENBURG",
         "state": "TX",
-        "postalCode": "78942-1360"
+        "postalCode": "78956-1604"
       },
       {
         "line": [
-          "504 BERING DR"
+          "603 WYCLIFFE DRIVE",
+          "SUITE B"
         ],
         "city": "HOUSTON",
         "state": "TX",
-        "postalCode": "77057-1479"
+        "postalCode": "77079-3507"
+      },
+      {
+        "line": [
+          "8580 WOODWAY DR"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77063-2423"
       },
       {
         "line": [
@@ -170,27 +170,27 @@
       },
       {
         "line": [
-          "2865 Westminster Plaza Dr"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77082-2430"
-      },
-      {
-        "line": [
-          "603 WYCLIFFE"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77079-3507"
-      },
-      {
-        "line": [
           "13820 Eagle Pass St"
         ],
         "city": "HOUSTON",
         "state": "TX",
         "postalCode": "77015-3916"
+      },
+      {
+        "line": [
+          "504 BERING DR"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77057-1479"
+      },
+      {
+        "line": [
+          "2865 Westminster Plaza Dr"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77082-2430"
       }
     ],
     "extension": [

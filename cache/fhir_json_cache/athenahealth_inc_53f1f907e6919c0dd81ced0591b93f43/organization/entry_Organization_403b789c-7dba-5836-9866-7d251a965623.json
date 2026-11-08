@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306117460"
+        "value": "1548601016"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548601016"
+        "value": "1306117460"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2100 Audubon Ave"
-        ],
-        "city": "THIBODAUX",
-        "state": "LA",
-        "postalCode": "70301-5014"
-      },
       {
         "line": [
           "102 W 112TH STREET"
@@ -45,6 +37,14 @@
         "city": "LUTCHER",
         "state": "LA",
         "postalCode": "70071-5151"
+      },
+      {
+        "line": [
+          "2100 Audubon Ave"
+        ],
+        "city": "THIBODAUX",
+        "state": "LA",
+        "postalCode": "70301-5014"
       }
     ],
     "extension": [

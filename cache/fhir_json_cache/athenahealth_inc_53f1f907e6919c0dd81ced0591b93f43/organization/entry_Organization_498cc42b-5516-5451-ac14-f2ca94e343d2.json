@@ -14,31 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760268643"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1255660056"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174106124"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316228166"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457008385"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962045948"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770745036"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,15 +22,35 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942175690"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649440983"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740450089"
+        "value": "1770745036"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619679008"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457008385"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447618327"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962045948"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1982328548"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174106124"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,11 +58,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902166945"
+        "value": "1316228166"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447618327"
+        "value": "1588834824"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1740450089"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1760268643"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -78,15 +82,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982328548"
+        "value": "1942175690"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619679008"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588834824"
+        "value": "1902166945"
       }
     ],
     "address": [
@@ -117,30 +117,6 @@
       },
       {
         "line": [
-          "515 Main Street"
-        ],
-        "city": "MADISON",
-        "state": "WV",
-        "postalCode": "25130-1417"
-      },
-      {
-        "line": [
-          "800 PENNSYLVANIA AVENUE"
-        ],
-        "city": "SOUTH CHARLESTON",
-        "state": "WV",
-        "postalCode": "25309-3351"
-      },
-      {
-        "line": [
-          "12803 Winfield RD"
-        ],
-        "city": "WINFIELD",
-        "state": "WV",
-        "postalCode": "25213-7449"
-      },
-      {
-        "line": [
           "1"
         ],
         "city": "SCOTT DEPOT",
@@ -157,19 +133,27 @@
       },
       {
         "line": [
-          "108 Washington Street W #201"
-        ],
-        "city": "CHARLESTON",
-        "state": "WV",
-        "postalCode": "25302-2344"
-      },
-      {
-        "line": [
           "501 Stockton Street"
         ],
         "city": "CHARLESTON",
         "state": "WV",
         "postalCode": "25387-2429"
+      },
+      {
+        "line": [
+          "800 PENNSYLVANIA AVENUE"
+        ],
+        "city": "SOUTH CHARLESTON",
+        "state": "WV",
+        "postalCode": "25309-3351"
+      },
+      {
+        "line": [
+          "515 Main Street"
+        ],
+        "city": "MADISON",
+        "state": "WV",
+        "postalCode": "25130-1417"
       },
       {
         "line": [
@@ -181,11 +165,27 @@
       },
       {
         "line": [
+          "108 Washington Street W #201"
+        ],
+        "city": "CHARLESTON",
+        "state": "WV",
+        "postalCode": "25302-2344"
+      },
+      {
+        "line": [
           "12 Kanawha Terrace"
         ],
         "city": "SAINT ALBANS",
         "state": "WV",
         "postalCode": "25177-2750"
+      },
+      {
+        "line": [
+          "12803 Winfield RD"
+        ],
+        "city": "WINFIELD",
+        "state": "WV",
+        "postalCode": "25213-7449"
       },
       {
         "line": [

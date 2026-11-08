@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407742018"
+        "value": "1417726597"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598367740"
+        "value": "1881463958"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,7 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881463958"
+        "value": "1669074415"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,7 +42,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205522760"
+        "value": "1407742018"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598367740"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1609713437"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,37 +62,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417726597"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1619740305"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609713437"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669074415"
+        "value": "1205522760"
       }
     ],
     "address": [
       {
         "line": [
-          "950 36TH ST SW"
-        ],
-        "city": "WYOMING",
-        "state": "MI",
-        "postalCode": "49509-3587"
-      },
-      {
-        "line": [
-          "2674 44TH ST SE"
+          "100 60th St SE",
+          "Rm E3 Ste A"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49512-3804"
+        "postalCode": "49548-6804"
       },
       {
         "line": [
@@ -96,59 +89,12 @@
       },
       {
         "line": [
-          "1920 Godfrey Ave SW"
-        ],
-        "city": "WYOMING",
-        "state": "MI",
-        "postalCode": "49509-1415"
-      },
-      {
-        "line": [
-          "1211 LAFAYETTE AVE NE"
+          "280 60th St SE",
+          "Suite 200"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49505-5092"
-      },
-      {
-        "line": [
-          "28 60TH ST SE"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49548-6802"
-      },
-      {
-        "line": [
-          "1211 Lafayette Ave NE"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49505-5092"
-      },
-      {
-        "line": [
-          "320 STATE ST SE"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49503-4313"
-      },
-      {
-        "line": [
-          "961 JOOSTEN ST SW ROOM 100"
-        ],
-        "city": "WYOMING",
-        "state": "MI",
-        "postalCode": "49509-1449"
-      },
-      {
-        "line": [
-          "1440 Davis Ave NW Room 100"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49504-3112"
+        "postalCode": "49548-8504"
       },
       {
         "line": [
@@ -169,11 +115,83 @@
       },
       {
         "line": [
+          "28 60TH ST SE"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49548-6802"
+      },
+      {
+        "line": [
+          "1211 LAFAYETTE AVE NE"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49505-5092"
+      },
+      {
+        "line": [
+          "1440 Davis Ave NW Room 100"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49504-3112"
+      },
+      {
+        "line": [
           "781 36 St SE"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
         "postalCode": "49509-3587"
+      },
+      {
+        "line": [
+          "950 36TH ST SW"
+        ],
+        "city": "WYOMING",
+        "state": "MI",
+        "postalCode": "49509-3587"
+      },
+      {
+        "line": [
+          "781 36TH ST SE STE B"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49548-2319"
+      },
+      {
+        "line": [
+          "961 JOOSTEN ST SW ROOM 100"
+        ],
+        "city": "WYOMING",
+        "state": "MI",
+        "postalCode": "49509-1449"
+      },
+      {
+        "line": [
+          "1211 Lafayette Ave NE"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49505-5092"
+      },
+      {
+        "line": [
+          "2674 44TH ST SE"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49512-3804"
+      },
+      {
+        "line": [
+          "1920 Godfrey Ave SW"
+        ],
+        "city": "WYOMING",
+        "state": "MI",
+        "postalCode": "49509-1415"
       },
       {
         "line": [
@@ -186,29 +204,11 @@
       },
       {
         "line": [
-          "280 60th St SE",
-          "Suite 200"
+          "320 STATE ST SE"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49548-8504"
-      },
-      {
-        "line": [
-          "100 60th St SE",
-          "Rm E3 Ste A"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49548-6804"
-      },
-      {
-        "line": [
-          "781 36TH ST SE STE B"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49548-2319"
+        "postalCode": "49503-4313"
       }
     ],
     "extension": [

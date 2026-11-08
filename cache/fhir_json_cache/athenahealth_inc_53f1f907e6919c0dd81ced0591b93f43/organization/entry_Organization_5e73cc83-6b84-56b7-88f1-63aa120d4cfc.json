@@ -18,18 +18,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215999511"
       },
       {
@@ -38,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
+        "value": "1730484031"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,18 +34,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053373951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124080320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1881656247"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3131 University Drive E"
-        ],
-        "city": "BRYAN",
-        "state": "TX",
-        "postalCode": "77802-3473"
-      },
       {
         "line": [
           "2400 Rock Prairie Road Suite 2400"
@@ -70,7 +62,7 @@
         "line": [
           "3131 University Drive E"
         ],
-        "city": "Bryan",
+        "city": "BRYAN",
         "state": "TX",
         "postalCode": "77802-3473"
       },
@@ -81,6 +73,14 @@
         "city": "Huntsville",
         "state": "TX",
         "postalCode": "77340-4978"
+      },
+      {
+        "line": [
+          "3131 University Drive E"
+        ],
+        "city": "Bryan",
+        "state": "TX",
+        "postalCode": "77802-3473"
       }
     ],
     "extension": [

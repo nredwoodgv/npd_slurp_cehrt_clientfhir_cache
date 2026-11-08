@@ -1034,15 +1034,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033565981"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "11111111111"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "0000000"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033565981"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -1178,10 +1178,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629835814"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "123456789"
       },
       {
@@ -1291,6 +1287,10 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1104312701"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629835814"
       }
     ],
     "active": true,
@@ -2538,10 +2538,6 @@
       },
       {
         "system": "phone",
-        "value": "(808)539-2273"
-      },
-      {
-        "system": "phone",
         "value": "(833)271-9737"
       },
       {
@@ -2595,6 +2591,10 @@
       {
         "system": "phone",
         "value": "(417)501-3829"
+      },
+      {
+        "system": "phone",
+        "value": "(808)539-2273"
       },
       {
         "system": "phone",
@@ -2759,10 +2759,6 @@
       {
         "system": "phone",
         "value": "(202)726-0941"
-      },
-      {
-        "system": "phone",
-        "value": "(928)635-7307"
       },
       {
         "system": "phone",
@@ -2994,10 +2990,6 @@
       },
       {
         "system": "phone",
-        "value": "(480)428-7678"
-      },
-      {
-        "system": "phone",
         "value": "(281)666-7009"
       },
       {
@@ -3015,6 +3007,14 @@
       {
         "system": "phone",
         "value": "(936)213-7000"
+      },
+      {
+        "system": "phone",
+        "value": "(928)635-7307"
+      },
+      {
+        "system": "phone",
+        "value": "(480)428-7678"
       }
     ],
     "address": [
@@ -7023,18 +7023,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "98-150 Kaonohi St",
-          "Suite B-219"
-        ],
-        "city": "Aiea",
-        "state": "HI",
-        "postalCode": "96701",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "4501 empire Court"
         ],
         "city": "Fredericksburg",
@@ -7770,18 +7758,6 @@
         "city": "Clearwater",
         "state": "FL",
         "postalCode": "33761",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "95 Soldiers Pass Rd",
-          "B1"
-        ],
-        "city": "Sedona",
-        "state": "AZ",
-        "postalCode": "86336",
         "country": "USA"
       },
       {
@@ -8708,18 +8684,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "17 Laa St",
-          "Suite B"
-        ],
-        "city": "Kahului",
-        "state": "HI",
-        "postalCode": "96732",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "740 E General Stewart Way",
           "Suite 210B"
         ],
@@ -8805,18 +8769,6 @@
         "city": "Casa Grande",
         "state": "AZ",
         "postalCode": "85122",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "77 W. Forest Avenue",
-          "Suite 301"
-        ],
-        "city": "Flagstaff",
-        "state": "AZ",
-        "postalCode": "86001",
         "country": "USA"
       },
       {
@@ -9409,17 +9361,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1281 E. Cottonwood Lane"
-        ],
-        "city": "Casa Grande",
-        "state": "AZ",
-        "postalCode": "85122",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "Brevard location radiology fax"
         ],
         "city": "Brevard",
@@ -9494,18 +9435,6 @@
         "city": "Gilbert",
         "state": "AZ",
         "postalCode": "85234",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "500 Ala Moana Blvd",
-          "Suite 6-230"
-        ],
-        "city": "Honolulu",
-        "state": "HI",
-        "postalCode": "96813",
         "country": "USA"
       },
       {
@@ -10461,17 +10390,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1281 E. Cottonwood Lane"
-        ],
-        "city": "Casa Grande",
-        "state": "AZ",
-        "postalCode": "85122",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "1281 E Cottonwood Lane"
         ],
         "city": "Casa Grande",
@@ -10511,18 +10429,6 @@
         "city": "Fort Wayne",
         "state": "IN",
         "postalCode": "46804",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "14780 W Mountain View Blvd",
-          "Suite 211"
-        ],
-        "city": "Surprise",
-        "state": "AZ",
-        "postalCode": "85374",
         "country": "USA"
       },
       {
@@ -10615,6 +10521,100 @@
         "city": "Nashville",
         "state": "AR",
         "postalCode": "71852",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "17 Laa St",
+          "Suite B"
+        ],
+        "city": "Kahului",
+        "state": "HI",
+        "postalCode": "96732",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "98-150 Kaonohi St",
+          "Suite B-219"
+        ],
+        "city": "Aiea",
+        "state": "HI",
+        "postalCode": "96701",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "500 Ala Moana Blvd",
+          "Suite 6-230"
+        ],
+        "city": "Honolulu",
+        "state": "HI",
+        "postalCode": "96813",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1281 E. Cottonwood Lane"
+        ],
+        "city": "Casa Grande",
+        "state": "AZ",
+        "postalCode": "85122",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1281 E. Cottonwood Lane"
+        ],
+        "city": "Casa Grande",
+        "state": "AZ",
+        "postalCode": "85122",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "77 W. Forest Avenue",
+          "Suite 301"
+        ],
+        "city": "Flagstaff",
+        "state": "AZ",
+        "postalCode": "86001",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "95 Soldiers Pass Rd",
+          "B1"
+        ],
+        "city": "Sedona",
+        "state": "AZ",
+        "postalCode": "86336",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "14780 W Mountain View Blvd",
+          "Suite 211"
+        ],
+        "city": "Surprise",
+        "state": "AZ",
+        "postalCode": "85374",
         "country": "USA"
       }
     ],

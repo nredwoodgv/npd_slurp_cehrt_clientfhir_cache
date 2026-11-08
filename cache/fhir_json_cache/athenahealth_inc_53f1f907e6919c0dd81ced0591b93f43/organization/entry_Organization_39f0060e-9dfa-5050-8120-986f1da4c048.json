@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437233426"
+        "value": "1649555004"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,14 +26,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235219965"
+        "value": "1437233426"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649555004"
+        "value": "1235219965"
       }
     ],
     "address": [
+      {
+        "line": [
+          "800 S Washington Ave"
+        ],
+        "city": "SAGINAW",
+        "state": "MI",
+        "postalCode": "48601-2551"
+      },
       {
         "line": [
           "110 BEECH ST",
@@ -42,14 +50,6 @@
         "city": "TAWAS CITY",
         "state": "MI",
         "postalCode": "48763-1111"
-      },
-      {
-        "line": [
-          "800 S Washington Ave"
-        ],
-        "city": "SAGINAW",
-        "state": "MI",
-        "postalCode": "48601-2551"
       }
     ],
     "extension": [

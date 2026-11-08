@@ -14,23 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
+        "value": "1730484031"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750302923"
+        "value": "1881656247"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1114235918"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,11 +34,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
+        "value": "1750302923"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
+        "value": "1053373951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962602300"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124080320"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -60,27 +60,19 @@
     "address": [
       {
         "line": [
-          "101 Miller"
+          "1400 FITZGERALD"
         ],
-        "city": "BROWNWOOD",
+        "city": "BANGS",
         "state": "TX",
-        "postalCode": "76801-5949"
+        "postalCode": "76823-4000"
       },
       {
         "line": [
-          "2500 Songbird Circle"
+          "1105 FITZGERALD ST"
         ],
-        "city": "BROWNWOOD",
+        "city": "BANGS",
         "state": "TX",
-        "postalCode": "76801-6488"
-      },
-      {
-        "line": [
-          "1405 W STOREY ST"
-        ],
-        "city": "SAN SABA",
-        "state": "TX",
-        "postalCode": "76877-6422"
+        "postalCode": "76823-3232"
       },
       {
         "line": [
@@ -89,14 +81,6 @@
         "city": "SAN SABA",
         "state": "TX",
         "postalCode": "76877-6422"
-      },
-      {
-        "line": [
-          "2501 Morris Sheppard Dr"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76801-5919"
       },
       {
         "line": [
@@ -116,19 +100,11 @@
       },
       {
         "line": [
-          "200 COUNTY ROAD 616"
+          "101 Miller"
         ],
         "city": "BROWNWOOD",
         "state": "TX",
-        "postalCode": "76802-3294"
-      },
-      {
-        "line": [
-          "1105 FITZGERALD ST"
-        ],
-        "city": "BANGS",
-        "state": "TX",
-        "postalCode": "76823-3232"
+        "postalCode": "76801-5949"
       },
       {
         "line": [
@@ -140,11 +116,35 @@
       },
       {
         "line": [
-          "1400 FITZGERALD"
+          "200 CR 616"
         ],
-        "city": "BANGS",
+        "city": "BROWNWOOD",
         "state": "TX",
-        "postalCode": "76823-4000"
+        "postalCode": "76802-3294"
+      },
+      {
+        "line": [
+          "2500 Songbird Circle"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-6488"
+      },
+      {
+        "line": [
+          "2501 Morris Sheppard Dr"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76801-5919"
+      },
+      {
+        "line": [
+          "1405 W STOREY ST"
+        ],
+        "city": "SAN SABA",
+        "state": "TX",
+        "postalCode": "76877-6422"
       },
       {
         "line": [
@@ -156,19 +156,19 @@
       },
       {
         "line": [
+          "200 COUNTY ROAD 616"
+        ],
+        "city": "BROWNWOOD",
+        "state": "TX",
+        "postalCode": "76802-3294"
+      },
+      {
+        "line": [
           "2500 SONG BIRD CIR"
         ],
         "city": "BROWNWOOD",
         "state": "TX",
         "postalCode": "76801-6488"
-      },
-      {
-        "line": [
-          "200 CR 616"
-        ],
-        "city": "BROWNWOOD",
-        "state": "TX",
-        "postalCode": "76802-3294"
       }
     ],
     "extension": [

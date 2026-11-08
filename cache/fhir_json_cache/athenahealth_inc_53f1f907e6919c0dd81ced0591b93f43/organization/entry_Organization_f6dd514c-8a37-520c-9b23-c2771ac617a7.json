@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063229458"
+        "value": "1699143800"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699143800"
+        "value": "1063229458"
       }
     ],
     "address": [
+      {
+        "line": [
+          "180 Mechanic Street"
+        ],
+        "city": "NORTH BENNINGTON",
+        "state": "VT",
+        "postalCode": "05257-0001"
+      },
       {
         "line": [
           "100 Hospital Drive"
@@ -40,19 +48,11 @@
       },
       {
         "line": [
-          "324 Equinox Road"
-        ],
-        "city": "MANCHESTER CENTER",
-        "state": "VT",
-        "postalCode": "05255-9253"
-      },
-      {
-        "line": [
-          "312 Crescent Blvd"
+          "2 Blackberry Lane"
         ],
         "city": "BENNINGTON",
         "state": "VT",
-        "postalCode": "05201-2419"
+        "postalCode": "05201-2300"
       },
       {
         "line": [
@@ -64,11 +64,11 @@
       },
       {
         "line": [
-          "21 Danforth Street"
+          "324 Equinox Road"
         ],
-        "city": "HOOSICK FALLS",
-        "state": "NY",
-        "postalCode": "12090-1226"
+        "city": "MANCHESTER CENTER",
+        "state": "VT",
+        "postalCode": "05255-9253"
       },
       {
         "line": [
@@ -88,19 +88,19 @@
       },
       {
         "line": [
-          "2 Blackberry Lane"
+          "312 Crescent Blvd"
         ],
         "city": "BENNINGTON",
         "state": "VT",
-        "postalCode": "05201-2300"
+        "postalCode": "05201-2419"
       },
       {
         "line": [
-          "180 Mechanic Street"
+          "21 Danforth Street"
         ],
-        "city": "NORTH BENNINGTON",
-        "state": "VT",
-        "postalCode": "05257-0001"
+        "city": "HOOSICK FALLS",
+        "state": "NY",
+        "postalCode": "12090-1226"
       },
       {
         "line": [

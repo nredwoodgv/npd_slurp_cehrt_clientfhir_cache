@@ -14,50 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235659103"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1154841021"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1295443000"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235659103"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2095 HENRY TECKLENBURG DRIVE"
-        ],
-        "city": "CHARLESTON",
-        "state": "SC",
-        "postalCode": "29414-5733"
-      },
-      {
-        "line": [
-          "120 GATEWAY CORPORATE BLVD"
-        ],
-        "city": "COLUMBIA",
-        "state": "SC",
-        "postalCode": "29203-9611"
-      },
-      {
-        "line": [
-          "3500 HIGHWAY 17 NORTH"
-        ],
-        "city": "MOUNT PLEASANT",
-        "state": "SC",
-        "postalCode": "29466-9123"
-      },
-      {
-        "line": [
-          "2435 FOREST DRIVE"
-        ],
-        "city": "COLUMBIA",
-        "state": "SC",
-        "postalCode": "29204-2026"
-      },
       {
         "line": [
           "730 STONEY LANDING ROAD"
@@ -76,11 +44,27 @@
       },
       {
         "line": [
-          "7832 RIVERS AVE"
+          "2095 HENRY TECKLENBURG DRIVE"
         ],
         "city": "CHARLESTON",
         "state": "SC",
-        "postalCode": "29406-4016"
+        "postalCode": "29414-5733"
+      },
+      {
+        "line": [
+          "120 GATEWAY CORPORATE BLVD"
+        ],
+        "city": "COLUMBIA",
+        "state": "SC",
+        "postalCode": "29203-9611"
+      },
+      {
+        "line": [
+          "2435 FOREST DRIVE"
+        ],
+        "city": "COLUMBIA",
+        "state": "SC",
+        "postalCode": "29204-2026"
       },
       {
         "line": [
@@ -89,6 +73,22 @@
         "city": "CHARLESTON",
         "state": "SC",
         "postalCode": "29401-1113"
+      },
+      {
+        "line": [
+          "7832 RIVERS AVE"
+        ],
+        "city": "CHARLESTON",
+        "state": "SC",
+        "postalCode": "29406-4016"
+      },
+      {
+        "line": [
+          "3500 HIGHWAY 17 NORTH"
+        ],
+        "city": "MOUNT PLEASANT",
+        "state": "SC",
+        "postalCode": "29466-9123"
       },
       {
         "line": [

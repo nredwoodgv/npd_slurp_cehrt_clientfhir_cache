@@ -14,14 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649501347"
+        "value": "1750814737"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750814737"
+        "value": "1649501347"
       }
     ],
     "address": [
+      {
+        "line": [
+          "7150 N PRESIDENT GEORGE BUSH HWY",
+          "Suite 101"
+        ],
+        "city": "GARLAND",
+        "state": "TX",
+        "postalCode": "75044-2208"
+      },
       {
         "line": [
           "3150 Horizon Rd"
@@ -32,11 +41,12 @@
       },
       {
         "line": [
-          "4750 PRESIDENT GEORGE BUSH TPKE"
+          "124 East Hwy 80",
+          "Ste 104"
         ],
-        "city": "SACHSE",
+        "city": "FORNEY",
         "state": "TX",
-        "postalCode": "75048-4283"
+        "postalCode": "75126-8607"
       },
       {
         "line": [
@@ -48,23 +58,6 @@
       },
       {
         "line": [
-          "1601 N Belt Line Rd",
-          "Ste A"
-        ],
-        "city": "MESQUITE",
-        "state": "TX",
-        "postalCode": "75149-1791"
-      },
-      {
-        "line": [
-          "6800 Scenic Dr"
-        ],
-        "city": "ROWLETT",
-        "state": "TX",
-        "postalCode": "75088-4552"
-      },
-      {
-        "line": [
           "231 S Collins Rd"
         ],
         "city": "SUNNYVALE",
@@ -73,20 +66,11 @@
       },
       {
         "line": [
-          "1023 N Belt Line Rd"
+          "4750 PRESIDENT GEORGE BUSH TPKE"
         ],
-        "city": "MESQUITE",
+        "city": "SACHSE",
         "state": "TX",
-        "postalCode": "75149-1788"
-      },
-      {
-        "line": [
-          "874 Ed Hall Dr",
-          "Ste 111"
-        ],
-        "city": "KAUFMAN",
-        "state": "TX",
-        "postalCode": "75142-1800"
+        "postalCode": "75048-4283"
       },
       {
         "line": [
@@ -107,16 +91,15 @@
       },
       {
         "line": [
-          "7150 N PRESIDENT GEORGE BUSH HWY",
-          "Suite 101"
+          "1101 N Galloway Ave"
         ],
-        "city": "GARLAND",
+        "city": "MESQUITE",
         "state": "TX",
-        "postalCode": "75044-2208"
+        "postalCode": "75149-2435"
       },
       {
         "line": [
-          "1024 N Galloway Ave"
+          "1023 N Belt Line Rd"
         ],
         "city": "MESQUITE",
         "state": "TX",
@@ -124,21 +107,11 @@
       },
       {
         "line": [
-          "124 East Hwy 80",
-          "Ste 104"
+          "3865 Childress Ave"
         ],
-        "city": "FORNEY",
+        "city": "MESQUITE",
         "state": "TX",
-        "postalCode": "75126-8607"
-      },
-      {
-        "line": [
-          "2300 W. FM 544",
-          "Ste 230"
-        ],
-        "city": "WYLIE",
-        "state": "TX",
-        "postalCode": "75098-4973"
+        "postalCode": "75150-2802"
       },
       {
         "line": [
@@ -151,11 +124,11 @@
       },
       {
         "line": [
-          "1101 N Galloway Ave"
+          "6800 Scenic Dr"
         ],
-        "city": "MESQUITE",
+        "city": "ROWLETT",
         "state": "TX",
-        "postalCode": "75149-2435"
+        "postalCode": "75088-4552"
       },
       {
         "line": [
@@ -167,11 +140,11 @@
       },
       {
         "line": [
-          "3865 Childress Ave"
+          "1024 N Galloway Ave"
         ],
         "city": "MESQUITE",
         "state": "TX",
-        "postalCode": "75150-2802"
+        "postalCode": "75149-1788"
       },
       {
         "line": [
@@ -181,6 +154,33 @@
         "city": "ROWLETT",
         "state": "TX",
         "postalCode": "75088-4362"
+      },
+      {
+        "line": [
+          "1601 N Belt Line Rd",
+          "Ste A"
+        ],
+        "city": "MESQUITE",
+        "state": "TX",
+        "postalCode": "75149-1791"
+      },
+      {
+        "line": [
+          "874 Ed Hall Dr",
+          "Ste 111"
+        ],
+        "city": "KAUFMAN",
+        "state": "TX",
+        "postalCode": "75142-1800"
+      },
+      {
+        "line": [
+          "2300 W. FM 544",
+          "Ste 230"
+        ],
+        "city": "WYLIE",
+        "state": "TX",
+        "postalCode": "75098-4973"
       }
     ],
     "extension": [

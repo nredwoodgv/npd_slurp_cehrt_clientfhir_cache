@@ -22,33 +22,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649228966"
+        "value": "1932402484"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932402484"
+        "value": "1649228966"
       }
     ],
     "address": [
       {
         "line": [
-          "1220 W Gretna Rd"
-        ],
-        "city": "GRETNA",
-        "state": "VA",
-        "postalCode": "24557-4087"
-      },
-      {
-        "line": [
-          "125 Nationwide Drive"
+          "3300 Rivermont Ave."
         ],
         "city": "LYNCHBURG",
         "state": "VA",
-        "postalCode": "24502-9998"
+        "postalCode": "24503-2030"
       },
       {
         "line": [
-          "3300 Rivermont Ave."
+          "3300 Rivermont Ave"
         ],
         "city": "LYNCHBURG",
         "state": "VA",
@@ -72,11 +64,11 @@
       },
       {
         "line": [
-          "3300 Rivermont Ave"
+          "1220 W Gretna Rd"
         ],
-        "city": "LYNCHBURG",
+        "city": "GRETNA",
         "state": "VA",
-        "postalCode": "24503-2030"
+        "postalCode": "24557-4087"
       },
       {
         "line": [
@@ -89,11 +81,11 @@
       },
       {
         "line": [
-          "115 Ambriar Court"
+          "125 Nationwide Drive"
         ],
-        "city": "AMHERST",
+        "city": "LYNCHBURG",
         "state": "VA",
-        "postalCode": "24521-3306"
+        "postalCode": "24502-9998"
       },
       {
         "line": [
@@ -102,6 +94,14 @@
         "city": "BEDFORD",
         "state": "VA",
         "postalCode": "24523-1902"
+      },
+      {
+        "line": [
+          "115 Ambriar Court"
+        ],
+        "city": "AMHERST",
+        "state": "VA",
+        "postalCode": "24521-3306"
       }
     ],
     "extension": [

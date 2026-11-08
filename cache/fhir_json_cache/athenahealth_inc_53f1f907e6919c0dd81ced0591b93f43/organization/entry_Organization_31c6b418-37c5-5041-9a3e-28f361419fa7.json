@@ -14,7 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386630028"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1760779466"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033459854"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -23,25 +31,9 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1154739399"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386630028"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033459854"
       }
     ],
     "address": [
-      {
-        "line": [
-          "320 Loretto Rd"
-        ],
-        "city": "LEBANON",
-        "state": "KY",
-        "postalCode": "40033-1300"
-      },
       {
         "line": [
           "79 Bob-O-Link Drive"
@@ -49,6 +41,14 @@
         "city": "SPRINGFIELD",
         "state": "KY",
         "postalCode": "40069-1516"
+      },
+      {
+        "line": [
+          "320 Loretto Rd"
+        ],
+        "city": "LEBANON",
+        "state": "KY",
+        "postalCode": "40033-1300"
       },
       {
         "line": [

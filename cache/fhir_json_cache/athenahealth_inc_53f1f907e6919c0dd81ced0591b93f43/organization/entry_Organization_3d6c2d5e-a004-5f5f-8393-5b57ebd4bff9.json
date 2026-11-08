@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811436157"
+        "value": "1629718804"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,18 +22,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629718804"
+        "value": "1811436157"
       }
     ],
     "address": [
-      {
-        "line": [
-          "199 SCOTT ST STE 800"
-        ],
-        "city": "BUFFALO",
-        "state": "NY",
-        "postalCode": "14204-2247"
-      },
       {
         "line": [
           "77 GOODELL ST STE 510"
@@ -41,6 +33,14 @@
         "city": "BUFFALO",
         "state": "NY",
         "postalCode": "14203-1258"
+      },
+      {
+        "line": [
+          "199 SCOTT ST STE 800"
+        ],
+        "city": "BUFFALO",
+        "state": "NY",
+        "postalCode": "14204-2247"
       }
     ],
     "extension": [

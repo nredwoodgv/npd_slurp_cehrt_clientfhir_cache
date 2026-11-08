@@ -14,6 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750621769"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174549786"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1871516799"
       },
       {
@@ -22,25 +30,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417846841"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1760272645"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174549786"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750621769"
+        "value": "1417846841"
       }
     ],
     "address": [
       {
         "line": [
-          "2233 W DIVISION ST"
+          "2233 W Division St"
         ],
         "city": "CHICAGO",
         "state": "IL",
@@ -48,7 +48,7 @@
       },
       {
         "line": [
-          "2233 W Division St"
+          "2233 W DIVISION ST"
         ],
         "city": "CHICAGO",
         "state": "IL",

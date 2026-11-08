@@ -14,14 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801140850"
+        "value": "1609767276"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609767276"
+        "value": "1801140850"
       }
     ],
     "address": [
+      {
+        "line": [
+          "521 SW 11th AVE",
+          "Suite 303"
+        ],
+        "city": "PORTLAND",
+        "state": "OR",
+        "postalCode": "97205-2622"
+      },
       {
         "line": [
           "8002 DISCOVERY DR",
@@ -43,15 +52,6 @@
         "line": [
           "521 SW 11th AVE",
           "SUITE 303"
-        ],
-        "city": "PORTLAND",
-        "state": "OR",
-        "postalCode": "97205-2622"
-      },
-      {
-        "line": [
-          "521 SW 11th AVE",
-          "Suite 303"
         ],
         "city": "PORTLAND",
         "state": "OR",

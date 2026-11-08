@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760728455"
+        "value": "1033863170"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033863170"
+        "value": "1760728455"
       }
     ],
     "address": [
-      {
-        "line": [
-          "702 N Main Street -2"
-        ],
-        "city": "OPP",
-        "state": "AL",
-        "postalCode": "36467-1010"
-      },
       {
         "line": [
           "918 DRAYTON AVE"
@@ -37,6 +29,14 @@
         "city": "ELBA",
         "state": "AL",
         "postalCode": "36323-1448"
+      },
+      {
+        "line": [
+          "702 N Main Street -2"
+        ],
+        "city": "OPP",
+        "state": "AL",
+        "postalCode": "36467-1010"
       }
     ],
     "extension": [

@@ -14,11 +14,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700809159"
+        "value": "1457396079"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457396079"
+        "value": "1700809159"
       }
     ],
     "active": true,
@@ -26,15 +26,15 @@
     "telecom": [
       {
         "system": "phone",
+        "value": "(404)851-6051"
+      },
+      {
+        "system": "phone",
         "value": "(404)255-1930"
       },
       {
         "system": "phone",
         "value": "(404)851-6073"
-      },
-      {
-        "system": "phone",
-        "value": "(404)851-6051"
       }
     ],
     "address": [
@@ -42,7 +42,31 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "5670 Peachtree Dunwoody Road"
+          "1000 Johnson Ferry Rd"
+        ],
+        "city": "Atlanta",
+        "state": "GA",
+        "postalCode": "30342",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "5670 Peachtree Dunwoody Road",
+          "Suite 1000"
+        ],
+        "city": "Atlanta",
+        "state": "GA",
+        "postalCode": "30342",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "5670 Peachtree Dunwoody Road",
+          "Suite 1150"
         ],
         "city": "Atlanta",
         "state": "GA",
@@ -64,31 +88,7 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "5670 Peachtree Dunwoody Road",
-          "Suite 1150"
-        ],
-        "city": "Atlanta",
-        "state": "GA",
-        "postalCode": "30342",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1000 Johnson Ferry Rd"
-        ],
-        "city": "Atlanta",
-        "state": "GA",
-        "postalCode": "30342",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "5670 Peachtree Dunwoody Road",
-          "Suite 1000"
+          "5670 Peachtree Dunwoody Road"
         ],
         "city": "Atlanta",
         "state": "GA",

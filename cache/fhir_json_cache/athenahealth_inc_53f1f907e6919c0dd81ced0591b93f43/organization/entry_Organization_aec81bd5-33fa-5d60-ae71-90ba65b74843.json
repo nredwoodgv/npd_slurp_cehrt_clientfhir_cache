@@ -18,19 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215276415"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1467791665"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538575386"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073992780"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,11 +26,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235478595"
+        "value": "1073992780"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1538575386"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1851860605"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215276415"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235478595"
       }
     ],
     "address": [
@@ -53,31 +53,6 @@
         "city": "CHELMSFORD",
         "state": "MA",
         "postalCode": "01824-2712"
-      },
-      {
-        "line": [
-          "330 MOUNT AUBURN STREET"
-        ],
-        "city": "CAMBRIDGE",
-        "state": "MA",
-        "postalCode": "02138-5502"
-      },
-      {
-        "line": [
-          "1440 MAIN STREET"
-        ],
-        "city": "WALTHAM",
-        "state": "MA",
-        "postalCode": "02451-1631"
-      },
-      {
-        "line": [
-          "154 EAST CENTRAL STREET",
-          "3RD FLOOR"
-        ],
-        "city": "NATICK",
-        "state": "MA",
-        "postalCode": "01760-3644"
       },
       {
         "line": [
@@ -95,6 +70,31 @@
         "city": "CAMBRIDGE",
         "state": "MA",
         "postalCode": "02138-5502"
+      },
+      {
+        "line": [
+          "154 EAST CENTRAL STREET",
+          "3RD FLOOR"
+        ],
+        "city": "NATICK",
+        "state": "MA",
+        "postalCode": "01760-3644"
+      },
+      {
+        "line": [
+          "330 MOUNT AUBURN STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-5502"
+      },
+      {
+        "line": [
+          "1440 MAIN STREET"
+        ],
+        "city": "WALTHAM",
+        "state": "MA",
+        "postalCode": "02451-1631"
       }
     ],
     "extension": [

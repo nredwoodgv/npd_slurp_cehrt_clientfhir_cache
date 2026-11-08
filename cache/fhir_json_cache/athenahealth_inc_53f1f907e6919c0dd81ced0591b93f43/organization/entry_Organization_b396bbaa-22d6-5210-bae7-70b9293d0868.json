@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366159873"
+        "value": "1528612694"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528612694"
+        "value": "1366159873"
       }
     ],
     "address": [
       {
         "line": [
-          "2457 MARTIN LUTHER KING JR. SW"
+          "5380 PEACHTREE INDUSTRIAL BLVD STE 150"
         ],
-        "city": "ATLANTA",
+        "city": "NORCROSS",
         "state": "GA",
-        "postalCode": "30311-1712"
+        "postalCode": "30071-1565"
       },
       {
         "line": [
@@ -40,16 +40,15 @@
       },
       {
         "line": [
-          "2295 PARKLAKE DR NE STE 574"
+          "2457 MARTIN LUTHER KING JR. SW"
         ],
         "city": "ATLANTA",
         "state": "GA",
-        "postalCode": "30345-2954"
+        "postalCode": "30311-1712"
       },
       {
         "line": [
-          "2457 MARTIN LUTHER KING JR. SW",
-          "STE A"
+          "2457 MARTIN LUTHER KING JR DR SW STE A"
         ],
         "city": "ATLANTA",
         "state": "GA",
@@ -65,27 +64,28 @@
       },
       {
         "line": [
-          "2457 MARTIN LUTHER KING JR DR SW STE A"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30311-1712"
-      },
-      {
-        "line": [
-          "5380 PEACHTREE INDUSTRIAL BLVD STE 150"
-        ],
-        "city": "NORCROSS",
-        "state": "GA",
-        "postalCode": "30071-1565"
-      },
-      {
-        "line": [
           "2457 MARTIN LUTHER KING JR. SW, SUITE A"
         ],
         "city": "ATLANTA",
         "state": "GA",
         "postalCode": "30311-1712"
+      },
+      {
+        "line": [
+          "2457 MARTIN LUTHER KING JR. SW",
+          "STE A"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30311-1712"
+      },
+      {
+        "line": [
+          "2295 PARKLAKE DR NE STE 574"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30345-2954"
       }
     ],
     "extension": [
