@@ -14,7 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174586283"
+        "value": "1851317911"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1093459844"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588917660"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,11 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1851317911"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588917660"
+        "value": "1174586283"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -35,13 +39,25 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1154686665"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093459844"
       }
     ],
     "address": [
+      {
+        "line": [
+          "501 Broadway St"
+        ],
+        "city": "DELHI",
+        "state": "LA",
+        "postalCode": "71232-2844"
+      },
+      {
+        "line": [
+          "407 Cincinnati Street"
+        ],
+        "city": "DELHI",
+        "state": "LA",
+        "postalCode": "71232-3007"
+      },
       {
         "line": [
           "522 Main Street"
@@ -49,22 +65,6 @@
         "city": "DELHI",
         "state": "LA",
         "postalCode": "71233-2538"
-      },
-      {
-        "line": [
-          "32 Crothers Drive"
-        ],
-        "city": "TALLULAH",
-        "state": "LA",
-        "postalCode": "71282-5510"
-      },
-      {
-        "line": [
-          "109 Elm Street"
-        ],
-        "city": "DELHI",
-        "state": "LA",
-        "postalCode": "71232-2844"
       },
       {
         "line": [
@@ -77,11 +77,11 @@
       },
       {
         "line": [
-          "727 OHIO STREET"
+          "32 Crothers Drive"
         ],
-        "city": "DELHI",
+        "city": "TALLULAH",
         "state": "LA",
-        "postalCode": "71232-2722"
+        "postalCode": "71282-5510"
       },
       {
         "line": [
@@ -93,14 +93,6 @@
       },
       {
         "line": [
-          "501 Broadway St"
-        ],
-        "city": "DELHI",
-        "state": "LA",
-        "postalCode": "71232-2844"
-      },
-      {
-        "line": [
           "119 Broadway Street"
         ],
         "city": "DELHI",
@@ -109,11 +101,19 @@
       },
       {
         "line": [
-          "407 Cincinnati Street"
+          "727 OHIO STREET"
         ],
         "city": "DELHI",
         "state": "LA",
-        "postalCode": "71232-3007"
+        "postalCode": "71232-2722"
+      },
+      {
+        "line": [
+          "109 Elm Street"
+        ],
+        "city": "DELHI",
+        "state": "LA",
+        "postalCode": "71232-2844"
       }
     ],
     "extension": [

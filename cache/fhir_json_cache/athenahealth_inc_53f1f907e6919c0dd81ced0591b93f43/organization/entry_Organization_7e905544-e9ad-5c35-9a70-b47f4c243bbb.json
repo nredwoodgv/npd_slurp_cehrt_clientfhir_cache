@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184994162"
+        "value": "1740682921"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,10 +22,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740682921"
+        "value": "1184994162"
       }
     ],
     "address": [
+      {
+        "line": [
+          "300 Village Lane"
+        ],
+        "city": "BENNINGTON",
+        "state": "VT",
+        "postalCode": "05201-9041"
+      },
       {
         "line": [
           "17 Belmont Ave."
@@ -33,6 +41,14 @@
         "city": "BRATTLEBORO",
         "state": "VT",
         "postalCode": "05301-0341"
+      },
+      {
+        "line": [
+          "160 Hospital Drive"
+        ],
+        "city": "BENNINGTON",
+        "state": "VT",
+        "postalCode": "05201-2279"
       },
       {
         "line": [
@@ -44,22 +60,6 @@
       },
       {
         "line": [
-          "312 Crescent B lvd"
-        ],
-        "city": "BENNINGTON",
-        "state": "VT",
-        "postalCode": "05201-2419"
-      },
-      {
-        "line": [
-          "300 Village Lane"
-        ],
-        "city": "BENNINGTON",
-        "state": "VT",
-        "postalCode": "05201-9041"
-      },
-      {
-        "line": [
           "100 Hospital Drive"
         ],
         "city": "BENNINGTON",
@@ -68,11 +68,11 @@
       },
       {
         "line": [
-          "100 Hospital Drive"
+          "312 Crescent B lvd"
         ],
         "city": "BENNINGTON",
         "state": "VT",
-        "postalCode": "05201-0045"
+        "postalCode": "05201-2419"
       },
       {
         "line": [
@@ -84,11 +84,11 @@
       },
       {
         "line": [
-          "160 Hospital Drive"
+          "100 Hospital Drive"
         ],
         "city": "BENNINGTON",
         "state": "VT",
-        "postalCode": "05201-2279"
+        "postalCode": "05201-0045"
       }
     ],
     "extension": [

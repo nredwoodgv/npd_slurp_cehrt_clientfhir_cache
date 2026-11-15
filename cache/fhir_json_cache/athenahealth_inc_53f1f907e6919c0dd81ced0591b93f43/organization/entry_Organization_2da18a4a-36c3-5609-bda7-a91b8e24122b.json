@@ -14,19 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861818379"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194767186"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730571100"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326463357"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972734200"
+        "value": "1194767186"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,7 +30,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861818379"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1831132133"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326463357"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1972734200"
       }
     ],
     "address": [
@@ -53,14 +53,6 @@
         "city": "MUSKEGON",
         "state": "MI",
         "postalCode": "49442-5502"
-      },
-      {
-        "line": [
-          "72 S. State Street"
-        ],
-        "city": "SHELBY",
-        "state": "MI",
-        "postalCode": "49455-1228"
       },
       {
         "line": [
@@ -77,6 +69,14 @@
         "city": "SHELBY",
         "state": "MI",
         "postalCode": "49455-1239"
+      },
+      {
+        "line": [
+          "72 S. State Street"
+        ],
+        "city": "SHELBY",
+        "state": "MI",
+        "postalCode": "49455-1228"
       }
     ],
     "extension": [

@@ -82,11 +82,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306850508"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1316720626"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306850508"
+        "value": "1811825318"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1295023372"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -199,10 +207,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "99-9999715"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295023372"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -682,23 +686,11 @@
       },
       {
         "system": "phone",
-        "value": "(352)753-9777"
-      },
-      {
-        "system": "phone",
         "value": "(561)366-4100"
       },
       {
         "system": "phone",
         "value": "(239)561-9622"
-      },
-      {
-        "system": "phone",
-        "value": "(407)426-8484"
-      },
-      {
-        "system": "phone",
-        "value": "(863)421-9705"
       },
       {
         "system": "phone",
@@ -782,10 +774,6 @@
       },
       {
         "system": "phone",
-        "value": "(239)343-9400"
-      },
-      {
-        "system": "phone",
         "value": "(352)596-1926"
       },
       {
@@ -863,6 +851,70 @@
       {
         "system": "phone",
         "value": "(941)484-3531"
+      },
+      {
+        "system": "phone",
+        "value": "(239)343-9400"
+      },
+      {
+        "system": "phone",
+        "value": "(904)926-3000"
+      },
+      {
+        "system": "phone",
+        "value": "(352)394-1150"
+      },
+      {
+        "system": "phone",
+        "value": "(863)421-9705"
+      },
+      {
+        "system": "phone",
+        "value": "(407)735-5695"
+      },
+      {
+        "system": "phone",
+        "value": "(352)787-9448"
+      },
+      {
+        "system": "phone",
+        "value": "(239)353-6636"
+      },
+      {
+        "system": "phone",
+        "value": "(941)257-2280"
+      },
+      {
+        "system": "phone",
+        "value": "(352)369-0181"
+      },
+      {
+        "system": "phone",
+        "value": "(386)774-7411"
+      },
+      {
+        "system": "phone",
+        "value": "(407)426-8484"
+      },
+      {
+        "system": "phone",
+        "value": "(407)565-2192"
+      },
+      {
+        "system": "phone",
+        "value": "(941)766-7222"
+      },
+      {
+        "system": "phone",
+        "value": "(352)753-9777"
+      },
+      {
+        "system": "phone",
+        "value": "(352)633-8319"
+      },
+      {
+        "system": "phone",
+        "value": "(407)898-5452"
       },
       {
         "system": "phone",
@@ -1090,10 +1142,6 @@
       },
       {
         "system": "phone",
-        "value": "(407)898-5452"
-      },
-      {
-        "system": "phone",
         "value": "(239)354-6000"
       },
       {
@@ -1194,14 +1242,6 @@
       },
       {
         "system": "phone",
-        "value": "(239)353-6636"
-      },
-      {
-        "system": "phone",
-        "value": "(386)774-7411"
-      },
-      {
-        "system": "phone",
         "value": "(407)203-2700"
       },
       {
@@ -1222,23 +1262,11 @@
       },
       {
         "system": "phone",
-        "value": "(352)787-9448"
-      },
-      {
-        "system": "phone",
-        "value": "(352)633-8319"
-      },
-      {
-        "system": "phone",
         "value": "(352)343-1117"
       },
       {
         "system": "phone",
         "value": "(386)325-8140"
-      },
-      {
-        "system": "phone",
-        "value": "(941)766-7222"
       },
       {
         "system": "phone",
@@ -1254,15 +1282,7 @@
       },
       {
         "system": "phone",
-        "value": "(352)369-0181"
-      },
-      {
-        "system": "phone",
         "value": "(772)581-0528"
-      },
-      {
-        "system": "phone",
-        "value": "(941)257-2280"
       },
       {
         "system": "phone",
@@ -1454,10 +1474,6 @@
       },
       {
         "system": "phone",
-        "value": "(352)394-1150"
-      },
-      {
-        "system": "phone",
         "value": "(947)485-7711"
       },
       {
@@ -1562,10 +1578,6 @@
       },
       {
         "system": "phone",
-        "value": "(407)735-5695"
-      },
-      {
-        "system": "phone",
         "value": "(448)227-8478"
       },
       {
@@ -1663,10 +1675,6 @@
       {
         "system": "phone",
         "value": "(352)671-4422"
-      },
-      {
-        "system": "phone",
-        "value": "(407)565-2192"
       },
       {
         "system": "phone",
@@ -3280,18 +3288,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1400 N US Highway 441",
-          "Suite 540"
-        ],
-        "city": "Lady Lake",
-        "state": "FL",
-        "postalCode": "32159-8984",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "3401 PGA Blvd",
           "Suite 200"
         ],
@@ -3320,28 +3316,6 @@
         "city": "Fort Myers",
         "state": "Fl",
         "postalCode": "33916",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "70 W Gore Street"
-        ],
-        "city": "Orlando",
-        "state": "FL",
-        "postalCode": "32806",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "40215 Highway 27"
-        ],
-        "city": "Davenport",
-        "state": "FL",
-        "postalCode": "33837-7813",
         "country": "USA"
       },
       {
@@ -3632,17 +3606,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "8960 Colonial Center Drive"
-        ],
-        "city": "Fort Myers",
-        "state": "FL",
-        "postalCode": "33905",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "7154 Medical Center Drive"
         ],
         "city": "Spring Hill",
@@ -3921,6 +3884,189 @@
         "city": "Fort Myers",
         "state": "FL",
         "postalCode": "33905",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "8960 Colonial Center Drive"
+        ],
+        "city": "Fort Myers",
+        "state": "FL",
+        "postalCode": "33905",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "100 Flagler Health Way"
+        ],
+        "city": "St Johns",
+        "state": "FL",
+        "postalCode": "32259-7166",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1340 N Hancock Road"
+        ],
+        "city": "Clermont",
+        "state": "FL",
+        "postalCode": "34711",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "40215 Highway 27"
+        ],
+        "city": "Davenport",
+        "state": "FL",
+        "postalCode": "33837-7813",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "6400 Sanger Road",
+          "Suite A-2400"
+        ],
+        "city": "Orlando",
+        "state": "FL",
+        "postalCode": "32827-7400",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "601 E Dixie Ave Suite 1001"
+        ],
+        "city": "Leesburg",
+        "state": "FL",
+        "postalCode": "34748",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "3530 Kraft Rd",
+          "Suite 300-301"
+        ],
+        "city": "Naples",
+        "state": "FL",
+        "postalCode": "34105-5020",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1390 Grand Venture Dr."
+        ],
+        "city": "North Port",
+        "state": "FL",
+        "postalCode": "34286",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1630 SE 18th St",
+          "Bldg 600 Suite 602"
+        ],
+        "city": "Ocala",
+        "state": "FL",
+        "postalCode": "34471",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2824 Enterprise Rd"
+        ],
+        "city": "Orange City",
+        "state": "Fl",
+        "postalCode": "32763",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "70 W Gore Street"
+        ],
+        "city": "Orlando",
+        "state": "FL",
+        "postalCode": "32806",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2572 West State Road 426",
+          "Suite 3072 & 3080"
+        ],
+        "city": "Oviedo",
+        "state": "FL",
+        "postalCode": "32765",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "22395 Edgewater Drive"
+        ],
+        "city": "Port Charlotte",
+        "state": "FL",
+        "postalCode": "33980",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1400 N US Highway 441",
+          "Suite 540"
+        ],
+        "city": "Lady Lake",
+        "state": "FL",
+        "postalCode": "32159-8984",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1400 US Highway 441 North",
+          "Suite 924"
+        ],
+        "city": "The Villages",
+        "state": "FL",
+        "postalCode": "32159",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "460 N Orlando Ave",
+          "Suite 200, Building D"
+        ],
+        "city": "Winter Park",
+        "state": "FL",
+        "postalCode": "32789",
         "country": "USA"
       },
       {
@@ -8077,29 +8223,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "3530 Kraft Rd",
-          "Suite 300-301"
-        ],
-        "city": "Naples",
-        "state": "FL",
-        "postalCode": "34105-5020",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "2824 Enterprise Rd"
-        ],
-        "city": "Orange City",
-        "state": "Fl",
-        "postalCode": "32763",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "52 West Gore Street"
         ],
         "city": "Orlando",
@@ -8191,34 +8314,11 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "601 E Dixie Ave Suite 1001"
-        ],
-        "city": "Leesburg",
-        "state": "FL",
-        "postalCode": "34748",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "10232 San Jose Blvd"
         ],
         "city": "Jacksonville",
         "state": "FL",
         "postalCode": "32257",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1400 US Highway 441 North",
-          "Suite 924"
-        ],
-        "city": "The Villages",
-        "state": "FL",
-        "postalCode": "32159",
         "country": "USA"
       },
       {
@@ -8241,17 +8341,6 @@
         "city": "Palatka",
         "state": "FL",
         "postalCode": "32177",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "22395 Edgewater Drive"
-        ],
-        "city": "Port Charlotte",
-        "state": "FL",
-        "postalCode": "33980",
         "country": "USA"
       },
       {
@@ -8346,35 +8435,12 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1630 SE 18th St",
-          "Bldg 600 Suite 602"
-        ],
-        "city": "Ocala",
-        "state": "FL",
-        "postalCode": "34471",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "1627 US Hwy 1",
           "Suite 201"
         ],
         "city": "Sebastian",
         "state": "FL",
         "postalCode": "32958",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1390 Grand Venture Dr."
-        ],
-        "city": "North Port",
-        "state": "FL",
-        "postalCode": "34286",
         "country": "USA"
       },
       {
@@ -10675,17 +10741,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1340 N Hancock Road"
-        ],
-        "city": "Clermont",
-        "state": "FL",
-        "postalCode": "34711",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "8440 Murano Del Lago Drive"
         ],
         "city": "Estero",
@@ -10880,18 +10935,6 @@
         "city": "Fort Myers",
         "state": "FL",
         "postalCode": "33916",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "6400 Sanger Road",
-          "Suite A-2400"
-        ],
-        "city": "Orlando",
-        "state": "FL",
-        "postalCode": "32827-7400",
         "country": "USA"
       },
       {
@@ -11380,30 +11423,6 @@
         "city": "Ocala",
         "state": "FL",
         "postalCode": "34471",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "2572 West State Road 426",
-          "Suite 3072 & 3080"
-        ],
-        "city": "Oviedo",
-        "state": "FL",
-        "postalCode": "32765",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "460 N Orlando Ave",
-          "Suite 200, Building D"
-        ],
-        "city": "Winter Park",
-        "state": "FL",
-        "postalCode": "32789",
         "country": "USA"
       },
       {

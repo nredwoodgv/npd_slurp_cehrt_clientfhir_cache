@@ -14,14 +14,48 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417987124"
+        "value": "1558344978"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558344978"
+        "value": "1417987124"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1324 KING ST",
+          "SUITE 200"
+        ],
+        "city": "JACKSONVILLE",
+        "state": "FL",
+        "postalCode": "32204-4735"
+      },
+      {
+        "line": [
+          "1101 OCILLA RD",
+          "PO BOX 1287"
+        ],
+        "city": "DOUGLAS",
+        "state": "GA",
+        "postalCode": "31533-2207"
+      },
+      {
+        "line": [
+          "159 N 3RD ST"
+        ],
+        "city": "MACCLENNY",
+        "state": "FL",
+        "postalCode": "32063-2103"
+      },
+      {
+        "line": [
+          "2561 OAK ST"
+        ],
+        "city": "JACKSONVILLE",
+        "state": "FL",
+        "postalCode": "32204-4559"
+      },
       {
         "line": [
           "3960 OAK ST"
@@ -40,64 +74,6 @@
       },
       {
         "line": [
-          "1324 KING ST",
-          "SUITE 200"
-        ],
-        "city": "JACKSONVILLE",
-        "state": "FL",
-        "postalCode": "32204-4735"
-      },
-      {
-        "line": [
-          "390 EH COURT"
-        ],
-        "city": "BRUNSWICK",
-        "state": "GA",
-        "postalCode": "31520-2198"
-      },
-      {
-        "line": [
-          "2561 OAK ST"
-        ],
-        "city": "JACKSONVILLE",
-        "state": "FL",
-        "postalCode": "32204-4559"
-      },
-      {
-        "line": [
-          "1101 OCILLA RD",
-          "PO BOX 1287"
-        ],
-        "city": "DOUGLAS",
-        "state": "GA",
-        "postalCode": "31533-2207"
-      },
-      {
-        "line": [
-          "3625 UNIVERSITY BLVD S"
-        ],
-        "city": "JACKSONVILLE",
-        "state": "FL",
-        "postalCode": "32216-4207"
-      },
-      {
-        "line": [
-          "1127 16TH AVE S"
-        ],
-        "city": "JACKSONVILLE BEACH",
-        "state": "FL",
-        "postalCode": "32250-3213"
-      },
-      {
-        "line": [
-          "159 N 3RD ST"
-        ],
-        "city": "MACCLENNY",
-        "state": "FL",
-        "postalCode": "32063-2103"
-      },
-      {
-        "line": [
           "232 PONTE VEDRA PARK DR"
         ],
         "city": "PONTE VEDRA BEACH",
@@ -112,6 +88,30 @@
         "city": "ORANGE PARK",
         "state": "FL",
         "postalCode": "32073-4492"
+      },
+      {
+        "line": [
+          "1127 16TH AVE S"
+        ],
+        "city": "JACKSONVILLE BEACH",
+        "state": "FL",
+        "postalCode": "32250-3213"
+      },
+      {
+        "line": [
+          "3625 UNIVERSITY BLVD S"
+        ],
+        "city": "JACKSONVILLE",
+        "state": "FL",
+        "postalCode": "32216-4207"
+      },
+      {
+        "line": [
+          "390 EH COURT"
+        ],
+        "city": "BRUNSWICK",
+        "state": "GA",
+        "postalCode": "31520-2198"
       },
       {
         "line": [

@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922638097"
+        "value": "1215974118"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215974118"
+        "value": "1922638097"
       }
     ],
     "address": [
@@ -32,15 +32,8 @@
       },
       {
         "line": [
-          "55 MEADOWLANDS PKWY"
-        ],
-        "city": "SECAUCUS",
-        "state": "NJ",
-        "postalCode": "07094-2977"
-      },
-      {
-        "line": [
-          "103 RIVER ROAD"
+          "103 River Road",
+          "2nd Floor"
         ],
         "city": "EDGEWATER",
         "state": "NJ",
@@ -64,8 +57,15 @@
       },
       {
         "line": [
-          "103 River Road",
-          "2nd Floor"
+          "718 Teaneck Road"
+        ],
+        "city": "TEANECK",
+        "state": "NJ",
+        "postalCode": "07666-4245"
+      },
+      {
+        "line": [
+          "103 RIVER ROAD"
         ],
         "city": "EDGEWATER",
         "state": "NJ",
@@ -73,11 +73,11 @@
       },
       {
         "line": [
-          "718 Teaneck Road"
+          "55 MEADOWLANDS PKWY"
         ],
-        "city": "TEANECK",
+        "city": "SECAUCUS",
         "state": "NJ",
-        "postalCode": "07666-4245"
+        "postalCode": "07094-2977"
       },
       {
         "line": [

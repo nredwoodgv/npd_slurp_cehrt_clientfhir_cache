@@ -14,45 +14,29 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659387934"
+        "value": "1891482113"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891482113"
+        "value": "1659387934"
       }
     ],
     "address": [
       {
         "line": [
-          "56 N Pecos Road Suite B"
+          "2649 Wigwam Pkwy Suite 100"
         ],
         "city": "HENDERSON",
         "state": "NV",
-        "postalCode": "89074-7332"
+        "postalCode": "89074-7310"
       },
       {
         "line": [
-          "3000 W Charleston Blvd Suite 1"
+          "2839 St Rose Pkwy Suite 160"
         ],
-        "city": "LAS VEGAS",
+        "city": "HENDERSON",
         "state": "NV",
-        "postalCode": "89102-1981"
-      },
-      {
-        "line": [
-          "5225 S Durango Drive"
-        ],
-        "city": "LAS VEGAS",
-        "state": "NV",
-        "postalCode": "89113-0159"
-      },
-      {
-        "line": [
-          "2800 N Tenaya Way Suite 202"
-        ],
-        "city": "LAS VEGAS",
-        "state": "NV",
-        "postalCode": "89128-0652"
+        "postalCode": "89052-4849"
       },
       {
         "line": [
@@ -61,22 +45,6 @@
         "city": "HENDERSON",
         "state": "NV",
         "postalCode": "89015-7324"
-      },
-      {
-        "line": [
-          "901 Adams Blvd"
-        ],
-        "city": "BOULDER CITY",
-        "state": "NV",
-        "postalCode": "89005-2213"
-      },
-      {
-        "line": [
-          "1155 Raiders Way"
-        ],
-        "city": "HENDERSON",
-        "state": "NV",
-        "postalCode": "89052-9998"
       },
       {
         "line": [
@@ -89,14 +57,6 @@
       },
       {
         "line": [
-          "3150 N Tenaya Way Suite 135"
-        ],
-        "city": "LAS VEGAS",
-        "state": "NV",
-        "postalCode": "89128-0463"
-      },
-      {
-        "line": [
           "2465 W Horizon Ridge Pkwy",
           "Suite 100"
         ],
@@ -106,19 +66,59 @@
       },
       {
         "line": [
-          "1440 E Calvada Blvd Suite 700"
+          "930 N GIBSON RD"
         ],
-        "city": "PAHRUMP",
+        "city": "HENDERSON",
         "state": "NV",
-        "postalCode": "89048-5856"
+        "postalCode": "89011-1711"
       },
       {
         "line": [
-          "401 N Buffalo Drive, Suite 200"
+          "7000 Blue Diamond Road Suite C-100"
         ],
         "city": "LAS VEGAS",
         "state": "NV",
-        "postalCode": "89145-0397"
+        "postalCode": "89178-9468"
+      },
+      {
+        "line": [
+          "4275 Burnham Avenue Suite 100"
+        ],
+        "city": "LAS VEGAS",
+        "state": "NV",
+        "postalCode": "89119-5400"
+      },
+      {
+        "line": [
+          "3000 W Charleston Blvd Suite 1"
+        ],
+        "city": "LAS VEGAS",
+        "state": "NV",
+        "postalCode": "89102-1981"
+      },
+      {
+        "line": [
+          "38 S Water St Suite 200"
+        ],
+        "city": "HENDERSON",
+        "state": "NV",
+        "postalCode": "89015-7324"
+      },
+      {
+        "line": [
+          "893 Adams Blvd"
+        ],
+        "city": "BOULDER CITY",
+        "state": "NV",
+        "postalCode": "89005-2235"
+      },
+      {
+        "line": [
+          "901 Adams Blvd"
+        ],
+        "city": "BOULDER CITY",
+        "state": "NV",
+        "postalCode": "89005-2213"
       },
       {
         "line": [
@@ -130,19 +130,19 @@
       },
       {
         "line": [
-          "6525 N Buffalo Dr Ste 130"
+          "3150 N Tenaya Way Suite 135"
         ],
         "city": "LAS VEGAS",
         "state": "NV",
-        "postalCode": "89131-4041"
+        "postalCode": "89128-0463"
       },
       {
         "line": [
-          "4275 Burnham Avenue Suite 100"
+          "401 N Buffalo Dr Ste 100"
         ],
         "city": "LAS VEGAS",
         "state": "NV",
-        "postalCode": "89119-5400"
+        "postalCode": "89145-0397"
       },
       {
         "line": [
@@ -162,19 +162,43 @@
       },
       {
         "line": [
-          "2649 Wigwam Pkwy Suite 100"
-        ],
-        "city": "HENDERSON",
-        "state": "NV",
-        "postalCode": "89074-7310"
-      },
-      {
-        "line": [
           "2724 N Tenaya Way Suite 100"
         ],
         "city": "LAS VEGAS",
         "state": "NV",
         "postalCode": "89128-0424"
+      },
+      {
+        "line": [
+          "1440 E Calvada Blvd Suite 700"
+        ],
+        "city": "PAHRUMP",
+        "state": "NV",
+        "postalCode": "89048-5856"
+      },
+      {
+        "line": [
+          "1155 Raiders Way"
+        ],
+        "city": "HENDERSON",
+        "state": "NV",
+        "postalCode": "89052-9998"
+      },
+      {
+        "line": [
+          "2800 N Tenaya Way Suite 202"
+        ],
+        "city": "LAS VEGAS",
+        "state": "NV",
+        "postalCode": "89128-0652"
+      },
+      {
+        "line": [
+          "6525 N Buffalo Dr Ste 130"
+        ],
+        "city": "LAS VEGAS",
+        "state": "NV",
+        "postalCode": "89131-4041"
       },
       {
         "line": [
@@ -187,22 +211,6 @@
       },
       {
         "line": [
-          "893 Adams Blvd"
-        ],
-        "city": "BOULDER CITY",
-        "state": "NV",
-        "postalCode": "89005-2235"
-      },
-      {
-        "line": [
-          "5795 Arville Street, Suite 200"
-        ],
-        "city": "LAS VEGAS",
-        "state": "NV",
-        "postalCode": "89118-3035"
-      },
-      {
-        "line": [
           "2540 W Horizon Ridge Pkwy"
         ],
         "city": "HENDERSON",
@@ -211,43 +219,35 @@
       },
       {
         "line": [
-          "2839 St Rose Pkwy Suite 160"
-        ],
-        "city": "HENDERSON",
-        "state": "NV",
-        "postalCode": "89052-4849"
-      },
-      {
-        "line": [
-          "7000 Blue Diamond Road Suite C-100"
-        ],
-        "city": "LAS VEGAS",
-        "state": "NV",
-        "postalCode": "89178-9468"
-      },
-      {
-        "line": [
-          "930 N GIBSON RD"
-        ],
-        "city": "HENDERSON",
-        "state": "NV",
-        "postalCode": "89011-1711"
-      },
-      {
-        "line": [
-          "38 S Water St Suite 200"
-        ],
-        "city": "HENDERSON",
-        "state": "NV",
-        "postalCode": "89015-7324"
-      },
-      {
-        "line": [
-          "401 N Buffalo Dr Ste 100"
+          "401 N Buffalo Drive, Suite 200"
         ],
         "city": "LAS VEGAS",
         "state": "NV",
         "postalCode": "89145-0397"
+      },
+      {
+        "line": [
+          "5225 S Durango Drive"
+        ],
+        "city": "LAS VEGAS",
+        "state": "NV",
+        "postalCode": "89113-0159"
+      },
+      {
+        "line": [
+          "56 N Pecos Road Suite B"
+        ],
+        "city": "HENDERSON",
+        "state": "NV",
+        "postalCode": "89074-7332"
+      },
+      {
+        "line": [
+          "5795 Arville Street, Suite 200"
+        ],
+        "city": "LAS VEGAS",
+        "state": "NV",
+        "postalCode": "89118-3035"
       }
     ],
     "extension": [

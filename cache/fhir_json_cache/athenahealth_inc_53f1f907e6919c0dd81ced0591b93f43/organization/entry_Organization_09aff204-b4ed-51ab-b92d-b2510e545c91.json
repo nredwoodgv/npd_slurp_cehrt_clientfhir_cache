@@ -14,14 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114366333"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376820605"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1023088168"
       },
       {
@@ -30,11 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700831500"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457663197"
+        "value": "1114366333"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,18 +30,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457663197"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1750680757"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700831500"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376820605"
       }
     ],
     "address": [
-      {
-        "line": [
-          "19229 MACK AVENUE, SUITE 34"
-        ],
-        "city": "GROSSE POINTE",
-        "state": "MI",
-        "postalCode": "48236-2858"
-      },
       {
         "line": [
           "19229 MACK AVE STE 24"
@@ -69,6 +61,14 @@
         "city": "GROSSE POINTE",
         "state": "MI",
         "postalCode": "48236-2857"
+      },
+      {
+        "line": [
+          "19229 MACK AVENUE, SUITE 34"
+        ],
+        "city": "GROSSE POINTE",
+        "state": "MI",
+        "postalCode": "48236-2858"
       }
     ],
     "extension": [

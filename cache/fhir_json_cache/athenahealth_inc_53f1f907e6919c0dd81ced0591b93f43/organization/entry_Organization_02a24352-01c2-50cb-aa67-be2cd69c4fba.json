@@ -14,11 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700831500"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457663197"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1912965088"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700831500"
+        "value": "1750680757"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457663197"
+        "value": "1114366333"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -35,25 +43,9 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1376820605"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750680757"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114366333"
       }
     ],
     "address": [
-      {
-        "line": [
-          "18101 Oakwood Blvd"
-        ],
-        "city": "DEARBORN",
-        "state": "MI",
-        "postalCode": "48124-4089"
-      },
       {
         "line": [
           "44405 Woodward Ave."
@@ -61,6 +53,14 @@
         "city": "PONTIAC",
         "state": "MI",
         "postalCode": "48341-5023"
+      },
+      {
+        "line": [
+          "18101 Oakwood Blvd"
+        ],
+        "city": "DEARBORN",
+        "state": "MI",
+        "postalCode": "48124-4089"
       },
       {
         "line": [

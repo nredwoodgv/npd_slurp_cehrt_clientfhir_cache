@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376541748"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730126392"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407803638"
+        "value": "1376541748"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,14 +26,26 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023065356"
+        "value": "1407803638"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1538112230"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1023065356"
       }
     ],
     "address": [
+      {
+        "line": [
+          "855 N Westhaven Dr"
+        ],
+        "city": "OSHKOSH",
+        "state": "WI",
+        "postalCode": "54904-7668"
+      },
       {
         "line": [
           "614 MEMORIAL DR"
@@ -45,6 +53,30 @@
         "city": "CHILTON",
         "state": "WI",
         "postalCode": "53014-1568"
+      },
+      {
+        "line": [
+          "1506 S ONEIDA ST"
+        ],
+        "city": "APPLETON",
+        "state": "WI",
+        "postalCode": "54915-1305"
+      },
+      {
+        "line": [
+          "2700 W 9th Ave"
+        ],
+        "city": "OSHKOSH",
+        "state": "WI",
+        "postalCode": "54904-7247"
+      },
+      {
+        "line": [
+          "500 S Oakwood"
+        ],
+        "city": "OSHKOSH",
+        "state": "WI",
+        "postalCode": "54904-7944"
       },
       {
         "line": [
@@ -72,43 +104,11 @@
       },
       {
         "line": [
-          "500 S Oakwood"
-        ],
-        "city": "OSHKOSH",
-        "state": "WI",
-        "postalCode": "54904-7944"
-      },
-      {
-        "line": [
-          "NA"
-        ],
-        "city": "OSHKOSH",
-        "state": "WI",
-        "postalCode": "54904-7864"
-      },
-      {
-        "line": [
           "900 ILLINOIS AVE"
         ],
         "city": "STEVENS POINT",
         "state": "WI",
         "postalCode": "54481-3114"
-      },
-      {
-        "line": [
-          "855 N Westhaven Dr"
-        ],
-        "city": "OSHKOSH",
-        "state": "WI",
-        "postalCode": "54904-7668"
-      },
-      {
-        "line": [
-          "2700 W 9th Ave"
-        ],
-        "city": "OSHKOSH",
-        "state": "WI",
-        "postalCode": "54904-7247"
       },
       {
         "line": [
@@ -120,6 +120,14 @@
       },
       {
         "line": [
+          "N/A"
+        ],
+        "city": "STEVENS POINT",
+        "state": "WI",
+        "postalCode": "54481-3114"
+      },
+      {
+        "line": [
           "\".\""
         ],
         "city": "STEVENS POINT",
@@ -128,11 +136,11 @@
       },
       {
         "line": [
-          "1506 S ONIEDA ST"
+          "N/A"
         ],
-        "city": "APPLETON",
+        "city": "OSHKOSH",
         "state": "WI",
-        "postalCode": "54915-1305"
+        "postalCode": "54904-7864"
       },
       {
         "line": [
@@ -144,7 +152,23 @@
       },
       {
         "line": [
-          "N/A"
+          "618 MEMORIAL DR"
+        ],
+        "city": "CHILTON",
+        "state": "WI",
+        "postalCode": "53014-1568"
+      },
+      {
+        "line": [
+          "1506 S ONIEDA ST"
+        ],
+        "city": "APPLETON",
+        "state": "WI",
+        "postalCode": "54915-1305"
+      },
+      {
+        "line": [
+          "NA"
         ],
         "city": "OSHKOSH",
         "state": "WI",
@@ -157,30 +181,6 @@
         "city": "APPLETON",
         "state": "WI",
         "postalCode": "54915-1305"
-      },
-      {
-        "line": [
-          "618 MEMORIAL DR"
-        ],
-        "city": "CHILTON",
-        "state": "WI",
-        "postalCode": "53014-1568"
-      },
-      {
-        "line": [
-          "1506 S ONEIDA ST"
-        ],
-        "city": "APPLETON",
-        "state": "WI",
-        "postalCode": "54915-1305"
-      },
-      {
-        "line": [
-          "N/A"
-        ],
-        "city": "STEVENS POINT",
-        "state": "WI",
-        "postalCode": "54481-3114"
       }
     ],
     "extension": [

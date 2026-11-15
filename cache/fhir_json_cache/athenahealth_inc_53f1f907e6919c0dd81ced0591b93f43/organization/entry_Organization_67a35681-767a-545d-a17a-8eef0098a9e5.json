@@ -18,19 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
+        "value": "1215999511"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,7 +30,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
+        "value": "1053373951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215348487"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730484031"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,17 +46,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
+        "value": "1649232984"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669801585"
       }
     ],
     "address": [
       {
         "line": [
-          "104 S CRESCENT"
+          "1302 N DEPOT"
         ],
         "city": "VICTORIA",
         "state": "TX",
-        "postalCode": "77901-2806"
+        "postalCode": "77901-6005"
       },
       {
         "line": [
@@ -72,11 +72,19 @@
       },
       {
         "line": [
-          "1302 N DEPOT"
+          "208 Marilyn Dr."
         ],
         "city": "VICTORIA",
         "state": "TX",
-        "postalCode": "77901-6005"
+        "postalCode": "77901-2616"
+      },
+      {
+        "line": [
+          "501 E Colorado St"
+        ],
+        "city": "VICTORIA",
+        "state": "TX",
+        "postalCode": "77901-6025"
       },
       {
         "line": [
@@ -96,14 +104,6 @@
       },
       {
         "line": [
-          "501 E Colorado St"
-        ],
-        "city": "VICTORIA",
-        "state": "TX",
-        "postalCode": "77901-6025"
-      },
-      {
-        "line": [
           "5142 FM 1726"
         ],
         "city": "GOLIAD",
@@ -112,19 +112,19 @@
       },
       {
         "line": [
+          "104 S CRESCENT"
+        ],
+        "city": "VICTORIA",
+        "state": "TX",
+        "postalCode": "77901-2806"
+      },
+      {
+        "line": [
           "5234 FM 1726"
         ],
         "city": "GOLIAD",
         "state": "TX",
         "postalCode": "77963-3805"
-      },
-      {
-        "line": [
-          "208 Marilyn Dr."
-        ],
-        "city": "VICTORIA",
-        "state": "TX",
-        "postalCode": "77901-2616"
       }
     ],
     "extension": [

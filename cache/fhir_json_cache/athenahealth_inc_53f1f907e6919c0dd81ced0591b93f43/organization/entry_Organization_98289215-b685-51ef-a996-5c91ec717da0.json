@@ -14,26 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417724170"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1619163052"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1437184165"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417724170"
       }
     ],
     "address": [
-      {
-        "line": [
-          "840 Winter Street"
-        ],
-        "city": "WALTHAM",
-        "state": "MA",
-        "postalCode": "02451-1501"
-      },
       {
         "line": [
           "71 Border Rd, Suite 300"
@@ -44,11 +36,19 @@
       },
       {
         "line": [
-          "840 WINTER ST"
+          "840 Winter Street"
         ],
         "city": "WALTHAM",
         "state": "MA",
         "postalCode": "02451-1433"
+      },
+      {
+        "line": [
+          "19 Amelia Drive"
+        ],
+        "city": "NANTUCKET",
+        "state": "MA",
+        "postalCode": "02554-6094"
       },
       {
         "line": [
@@ -64,7 +64,7 @@
         ],
         "city": "WALTHAM",
         "state": "MA",
-        "postalCode": "02451-1433"
+        "postalCode": "02451-1501"
       },
       {
         "line": [
@@ -76,11 +76,11 @@
       },
       {
         "line": [
-          "19 Amelia Drive"
+          "840 WINTER ST"
         ],
-        "city": "NANTUCKET",
+        "city": "WALTHAM",
         "state": "MA",
-        "postalCode": "02554-6094"
+        "postalCode": "02451-1433"
       },
       {
         "line": [

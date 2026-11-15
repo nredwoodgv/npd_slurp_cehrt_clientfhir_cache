@@ -18,26 +18,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073615456"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1548211311"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1457617235"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073615456"
       }
     ],
     "address": [
-      {
-        "line": [
-          "55 North High Street"
-        ],
-        "city": "NEW ALBANY",
-        "state": "OH",
-        "postalCode": "43054-7099"
-      },
       {
         "line": [
           "6150 E Broad St"
@@ -45,6 +37,14 @@
         "city": "COLUMBUS",
         "state": "OH",
         "postalCode": "43213-1574"
+      },
+      {
+        "line": [
+          "55 North High Street"
+        ],
+        "city": "NEW ALBANY",
+        "state": "OH",
+        "postalCode": "43054-7099"
       },
       {
         "line": [],

@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821385329"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1891415972"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1679293369"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407576580"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588384671"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,17 +34,48 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891415972"
+        "value": "1407576580"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821385329"
+        "value": "1588384671"
       }
     ],
     "address": [
       {
+        "line": [],
+        "city": "HOPKINSVILLE",
+        "state": "KY",
+        "postalCode": "42240-2400"
+      },
+      {
         "line": [
-          "10755 EAGLE WAY STE 100"
+          "1717 HIGH ST, SUITE 4B"
+        ],
+        "city": "HOPKINSVILLE",
+        "state": "KY",
+        "postalCode": "42240-6300"
+      },
+      {
+        "line": [
+          "105 KEETON DR"
+        ],
+        "city": "HOPKINSVILLE",
+        "state": "KY",
+        "postalCode": "42240-1961"
+      },
+      {
+        "line": [
+          "320 W 18TH ST"
+        ],
+        "city": "HOPKINSVILLE",
+        "state": "KY",
+        "postalCode": "42241-2400"
+      },
+      {
+        "line": [
+          "10755 EAGLE WAY",
+          "STE 100"
         ],
         "city": "HOPKINSVILLE",
         "state": "KY",
@@ -68,42 +99,11 @@
       },
       {
         "line": [
-          "1717 HIGH ST.",
-          "STE 1A"
+          "120 N MAIN ST"
         ],
-        "city": "HOPKINSVILLE",
+        "city": "TRENTON",
         "state": "KY",
-        "postalCode": "42240-6300"
-      },
-      {
-        "line": [
-          "1717 HIGH ST, SUITE 4B"
-        ],
-        "city": "HOPKINSVILLE",
-        "state": "KY",
-        "postalCode": "42240-6300"
-      },
-      {
-        "line": [
-          "320 W 18TH ST"
-        ],
-        "city": "HOPKINSVILLE",
-        "state": "KY",
-        "postalCode": "42241-2400"
-      },
-      {
-        "line": [
-          "105 KEETON DR"
-        ],
-        "city": "HOPKINSVILLE",
-        "state": "KY",
-        "postalCode": "42240-1961"
-      },
-      {
-        "line": [],
-        "city": "HOPKINSVILLE",
-        "state": "KY",
-        "postalCode": "42240-2400"
+        "postalCode": "42286-0317"
       },
       {
         "line": [
@@ -116,11 +116,12 @@
       },
       {
         "line": [
-          "120 N MAIN ST"
+          "1717 HIGH ST.",
+          "STE 1A"
         ],
-        "city": "TRENTON",
+        "city": "HOPKINSVILLE",
         "state": "KY",
-        "postalCode": "42286-0317"
+        "postalCode": "42240-6300"
       }
     ],
     "extension": [

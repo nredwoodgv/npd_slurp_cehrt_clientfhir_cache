@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699143800"
+        "value": "1063229458"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063229458"
+        "value": "1699143800"
       }
     ],
     "address": [
-      {
-        "line": [
-          "43 NEW SCOTLAND AVE"
-        ],
-        "city": "ALBANY",
-        "state": "NY",
-        "postalCode": "12208-3412"
-      },
-      {
-        "line": [
-          "6511 Spring Brook Ave."
-        ],
-        "city": "RHINEBECK",
-        "state": "NY",
-        "postalCode": "12572-3709"
-      },
       {
         "line": [
           "24 CENTURY HILL DR",
@@ -49,11 +33,27 @@
       },
       {
         "line": [
+          "6511 Spring Brook Ave."
+        ],
+        "city": "RHINEBECK",
+        "state": "NY",
+        "postalCode": "12572-3709"
+      },
+      {
+        "line": [
           "2215 BURDETT AVE"
         ],
         "city": "TROY",
         "state": "NY",
         "postalCode": "12180-2466"
+      },
+      {
+        "line": [
+          "43 NEW SCOTLAND AVE"
+        ],
+        "city": "ALBANY",
+        "state": "NY",
+        "postalCode": "12208-3412"
       },
       {
         "line": [

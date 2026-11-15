@@ -18,30 +18,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316154958"
+        "value": "1093993396"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093993396"
+        "value": "1316154958"
       }
     ],
     "address": [
-      {
-        "line": [
-          "16855 NE 2ND AVE UNIT N302"
-        ],
-        "city": "MIAMI",
-        "state": "FL",
-        "postalCode": "33162-1744"
-      },
-      {
-        "line": [
-          "6640 78TH AVE N STE A"
-        ],
-        "city": "PINELLAS PARK",
-        "state": "FL",
-        "postalCode": "33781-2064"
-      },
       {
         "line": [
           "4211 W BOY SCOUT BLVD",
@@ -53,27 +37,19 @@
       },
       {
         "line": [
-          "640 TYRONE BLVD N"
-        ],
-        "city": "SAINT PETERSBURG",
-        "state": "FL",
-        "postalCode": "33710-7126"
-      },
-      {
-        "line": [
-          "1700 S 23RD ST"
-        ],
-        "city": "FORT PIERCE",
-        "state": "FL",
-        "postalCode": "34950-4803"
-      },
-      {
-        "line": [
-          "10275 HAGEN RANCH RD"
+          "10275 HAGEN RANCH RD STE 100"
         ],
         "city": "BOYNTON BEACH",
         "state": "FL",
-        "postalCode": "33437-3783"
+        "postalCode": "33437-3784"
+      },
+      {
+        "line": [
+          "2300 SE VETERANS MEMORIAL PKWY"
+        ],
+        "city": "PORT SAINT LUCIE",
+        "state": "FL",
+        "postalCode": "34952-4861"
       },
       {
         "line": [
@@ -94,19 +70,11 @@
       },
       {
         "line": [
-          "10275 HAGEN RANCH RD STE 100"
+          "6640 78TH AVE N STE A"
         ],
-        "city": "BOYNTON BEACH",
+        "city": "PINELLAS PARK",
         "state": "FL",
-        "postalCode": "33437-3784"
-      },
-      {
-        "line": [
-          "2300 SE VETERANS MEMORIAL PKWY"
-        ],
-        "city": "PORT SAINT LUCIE",
-        "state": "FL",
-        "postalCode": "34952-4861"
+        "postalCode": "33781-2064"
       },
       {
         "line": [
@@ -115,6 +83,14 @@
         "city": "BRADENTON",
         "state": "FL",
         "postalCode": "34205-8632"
+      },
+      {
+        "line": [
+          "111 SE OSCEOLA ST STE 201"
+        ],
+        "city": "STUART",
+        "state": "FL",
+        "postalCode": "34994-2114"
       },
       {
         "line": [
@@ -127,11 +103,35 @@
       },
       {
         "line": [
-          "111 SE OSCEOLA ST STE 201"
+          "10275 HAGEN RANCH RD"
         ],
-        "city": "STUART",
+        "city": "BOYNTON BEACH",
         "state": "FL",
-        "postalCode": "34994-2114"
+        "postalCode": "33437-3783"
+      },
+      {
+        "line": [
+          "1700 S 23RD ST"
+        ],
+        "city": "FORT PIERCE",
+        "state": "FL",
+        "postalCode": "34950-4803"
+      },
+      {
+        "line": [
+          "640 TYRONE BLVD N"
+        ],
+        "city": "SAINT PETERSBURG",
+        "state": "FL",
+        "postalCode": "33710-7126"
+      },
+      {
+        "line": [
+          "16855 NE 2ND AVE UNIT N302"
+        ],
+        "city": "MIAMI",
+        "state": "FL",
+        "postalCode": "33162-1744"
       }
     ],
     "extension": [

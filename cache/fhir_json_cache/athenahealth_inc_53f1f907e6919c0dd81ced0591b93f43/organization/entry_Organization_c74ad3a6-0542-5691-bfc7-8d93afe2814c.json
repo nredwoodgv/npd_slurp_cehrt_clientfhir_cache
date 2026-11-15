@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053039032"
+        "value": "1770201766"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447978358"
+        "value": "1053039032"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,49 +30,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770201766"
+        "value": "1447978358"
       }
     ],
     "address": [
       {
         "line": [
-          "201 14 St NW"
-        ],
-        "city": "MANDAN",
-        "state": "ND",
-        "postalCode": "58554-2063"
-      },
-      {
-        "line": [
-          "727 Kirkwood Mall"
+          "401 N 9th St"
         ],
         "city": "BISMARCK",
         "state": "ND",
-        "postalCode": "58504-5753"
-      },
-      {
-        "line": [
-          "1312 Hwy 49 N"
-        ],
-        "city": "BEULAH",
-        "state": "ND",
-        "postalCode": "58523-6038"
-      },
-      {
-        "line": [
-          "4580 Coleman St"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58503-0347"
-      },
-      {
-        "line": [
-          "900 E Broadway Ave."
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58501-4507"
+        "postalCode": "58501-4530"
       },
       {
         "line": [
@@ -92,19 +60,35 @@
       },
       {
         "line": [
-          "1011 Boundary St NW"
-        ],
-        "city": "MANDAN",
-        "state": "ND",
-        "postalCode": "58554-1608"
-      },
-      {
-        "line": [
-          "301 Lorainn Dr"
+          "310 N 9th St"
         ],
         "city": "BISMARCK",
         "state": "ND",
-        "postalCode": "58503-0311"
+        "postalCode": "58501-4515"
+      },
+      {
+        "line": [
+          "1312 Hwy 49 N"
+        ],
+        "city": "BEULAH",
+        "state": "ND",
+        "postalCode": "58523-6038"
+      },
+      {
+        "line": [
+          "727 Kirkwood Mall"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58504-5753"
+      },
+      {
+        "line": [
+          "2500 Valleyview Ave"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58501-3090"
       },
       {
         "line": [
@@ -113,14 +97,6 @@
         "city": "BISMARCK",
         "state": "ND",
         "postalCode": "58503-1649"
-      },
-      {
-        "line": [
-          "310 N 9th St"
-        ],
-        "city": "BISMARCK",
-        "state": "ND",
-        "postalCode": "58501-4515"
       },
       {
         "line": [
@@ -148,11 +124,27 @@
       },
       {
         "line": [
-          "2500 Valleyview Ave"
+          "4580 Coleman St"
         ],
         "city": "BISMARCK",
         "state": "ND",
-        "postalCode": "58501-3090"
+        "postalCode": "58503-0347"
+      },
+      {
+        "line": [
+          "301 Lorainn Dr"
+        ],
+        "city": "BISMARCK",
+        "state": "ND",
+        "postalCode": "58503-0311"
+      },
+      {
+        "line": [
+          "201 14 St NW"
+        ],
+        "city": "MANDAN",
+        "state": "ND",
+        "postalCode": "58554-2063"
       },
       {
         "line": [
@@ -164,11 +156,19 @@
       },
       {
         "line": [
-          "401 N 9th St"
+          "1011 Boundary St NW"
+        ],
+        "city": "MANDAN",
+        "state": "ND",
+        "postalCode": "58554-1608"
+      },
+      {
+        "line": [
+          "900 E Broadway Ave."
         ],
         "city": "BISMARCK",
         "state": "ND",
-        "postalCode": "58501-4530"
+        "postalCode": "58501-4507"
       }
     ],
     "extension": [

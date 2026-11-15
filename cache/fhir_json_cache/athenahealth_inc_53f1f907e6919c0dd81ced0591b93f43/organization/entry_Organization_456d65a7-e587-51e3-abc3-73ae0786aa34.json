@@ -14,43 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730489840"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417214669"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1538594668"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124441274"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689115172"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174091383"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982073813"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386999027"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1437440054"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700198884"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,22 +30,46 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811396195"
+        "value": "1730489840"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124441274"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700198884"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1386999027"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1982073813"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417214669"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1811356892"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174091383"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689115172"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811396195"
       }
     ],
     "address": [
-      {
-        "line": [
-          "103 Hardin Lane"
-        ],
-        "city": "SOMERSET",
-        "state": "KY",
-        "postalCode": "42503-1874"
-      },
       {
         "line": [
           "17 LINCOLN RDG"
@@ -85,14 +77,6 @@
         "city": "SPRINGFIELD",
         "state": "KY",
         "postalCode": "40069-1599"
-      },
-      {
-        "line": [
-          "81 Ball Park Road"
-        ],
-        "city": "HARLAN",
-        "state": "KY",
-        "postalCode": "40831-1701"
       },
       {
         "line": [
@@ -104,11 +88,27 @@
       },
       {
         "line": [
+          "81 Ball Park Road"
+        ],
+        "city": "HARLAN",
+        "state": "KY",
+        "postalCode": "40831-1701"
+      },
+      {
+        "line": [
           "75 HAIL KNOB RD"
         ],
         "city": "SOMERSET",
         "state": "KY",
         "postalCode": "42503-3434"
+      },
+      {
+        "line": [
+          "103 Hardin Lane"
+        ],
+        "city": "SOMERSET",
+        "state": "KY",
+        "postalCode": "42503-1874"
       }
     ],
     "extension": [

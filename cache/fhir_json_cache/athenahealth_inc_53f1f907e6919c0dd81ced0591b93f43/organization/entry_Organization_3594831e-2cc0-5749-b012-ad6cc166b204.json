@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346244688"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1205845369"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1942860176"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1346244688"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -41,30 +41,6 @@
       },
       {
         "line": [
-          "8210 Walnut Hill Ln STE 130"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75231-4418"
-      },
-      {
-        "line": [
-          "8210 WALNUT HILL LN STE 130"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75231-4418"
-      },
-      {
-        "line": [
-          "7115 GREENVILLE AVE STE 310"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75231-5103"
-      },
-      {
-        "line": [
           "721 Keller Parkway",
           "Suite 107a"
         ],
@@ -74,12 +50,11 @@
       },
       {
         "line": [
-          "7115 GREENVILLE AVE",
-          "STE 230"
+          "8210 WALNUT HILL LN STE 130"
         ],
         "city": "DALLAS",
         "state": "TX",
-        "postalCode": "75231-5104"
+        "postalCode": "75231-4418"
       },
       {
         "line": [
@@ -100,20 +75,36 @@
       },
       {
         "line": [
+          "7115 Greenville Ave",
+          "Suite 310"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75231-5103"
+      },
+      {
+        "line": [
+          "7115 GREENVILLE AVE STE 310"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75231-5103"
+      },
+      {
+        "line": [
+          "5900 ALTAMESA BLVD"
+        ],
+        "city": "FORT WORTH",
+        "state": "TX",
+        "postalCode": "76132-5473"
+      },
+      {
+        "line": [
           "330 STANDRIDGE BLVD"
         ],
         "city": "ANNA",
         "state": "TX",
         "postalCode": "75409-3423"
-      },
-      {
-        "line": [
-          "8210 WALNUT HILL LN",
-          "SUITE 130"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75231-4313"
       },
       {
         "line": [
@@ -126,24 +117,33 @@
       },
       {
         "line": [
-          "5900 ALTAMESA BLVD"
-        ],
-        "city": "FORT WORTH",
-        "state": "TX",
-        "postalCode": "76132-5473"
-      },
-      {
-        "line": [
-          "7115 Greenville Ave",
-          "Suite 310"
+          "8210 Walnut Hill Ln STE 130"
         ],
         "city": "DALLAS",
         "state": "TX",
-        "postalCode": "75231-5103"
+        "postalCode": "75231-4418"
       },
       {
         "line": [
           "8081 Walnut Hill STE 1000"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75231-4313"
+      },
+      {
+        "line": [
+          "7115 GREENVILLE AVE",
+          "STE 230"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75231-5104"
+      },
+      {
+        "line": [
+          "8210 WALNUT HILL LN",
+          "SUITE 130"
         ],
         "city": "DALLAS",
         "state": "TX",

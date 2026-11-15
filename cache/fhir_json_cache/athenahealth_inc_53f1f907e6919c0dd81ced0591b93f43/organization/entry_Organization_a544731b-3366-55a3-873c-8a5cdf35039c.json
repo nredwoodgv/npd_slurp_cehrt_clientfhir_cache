@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467070029"
+        "value": "1245084250"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245084250"
+        "value": "1467070029"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,86 +32,12 @@
     "address": [
       {
         "line": [
-          "1000 LAFAYETTE BLVD STE 1100"
+          "505 5TH AVE",
+          "STE 729"
         ],
-        "city": "BRIDGEPORT",
-        "state": "CT",
-        "postalCode": "06604-4725"
-      },
-      {
-        "line": [
-          "7955 S PRIEST DR",
-          "STE 102"
-        ],
-        "city": "TEMPE",
-        "state": "AZ",
-        "postalCode": "85284-1050"
-      },
-      {
-        "line": [
-          "332 S MICHIGAN AVE",
-          "STE 900"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60604-4393"
-      },
-      {
-        "line": [
-          "2908 POSTON AVE"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37203-1309"
-      },
-      {
-        "line": [
-          "2009 MACKENZIE WAY STE 100"
-        ],
-        "city": "CRANBERRY TOWNSHIP",
-        "state": "PA",
-        "postalCode": "16066-5338"
-      },
-      {
-        "line": [
-          "10300 GREENBRIAR PL"
-        ],
-        "city": "OKLAHOMA CITY",
-        "state": "OK",
-        "postalCode": "73159-7653"
-      },
-      {
-        "line": [
-          "123 Main St"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10012-1020"
-      },
-      {
-        "line": [
-          "1400 HOOPER AVE"
-        ],
-        "city": "TOMS RIVER",
-        "state": "NJ",
-        "postalCode": "08753-2981"
-      },
-      {
-        "line": [
-          "221 BOLIVAR ST"
-        ],
-        "city": "JEFFERSON CITY",
-        "state": "MO",
-        "postalCode": "65101-1572"
-      },
-      {
-        "line": [
-          "2 SUN CT",
-          "STE 400"
-        ],
-        "city": "PEACHTREE CORNERS",
-        "state": "GA",
-        "postalCode": "30092-2865"
+        "city": "DES MOINES",
+        "state": "IA",
+        "postalCode": "50309-2318"
       },
       {
         "line": [
@@ -123,12 +49,11 @@
       },
       {
         "line": [
-          "233 S 13TH ST",
-          "STE 1900"
+          "123 Main St"
         ],
-        "city": "LINCOLN",
-        "state": "NE",
-        "postalCode": "68508-2000"
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10012-1020"
       },
       {
         "line": [
@@ -141,6 +66,32 @@
       },
       {
         "line": [
+          "332 S MICHIGAN AVE",
+          "STE 900"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60604-4393"
+      },
+      {
+        "line": [
+          "2 SUN CT",
+          "STE 400"
+        ],
+        "city": "PEACHTREE CORNERS",
+        "state": "GA",
+        "postalCode": "30092-2865"
+      },
+      {
+        "line": [
+          "2908 POSTON AVE"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37203-1309"
+      },
+      {
+        "line": [
           "211 E 7TH ST",
           "STE 620"
         ],
@@ -150,12 +101,44 @@
       },
       {
         "line": [
-          "505 5TH AVE",
-          "STE 729"
+          "10300 GREENBRIAR PL"
         ],
-        "city": "DES MOINES",
-        "state": "IA",
-        "postalCode": "50309-2318"
+        "city": "OKLAHOMA CITY",
+        "state": "OK",
+        "postalCode": "73159-7653"
+      },
+      {
+        "line": [
+          "233 S 13TH ST",
+          "STE 1900"
+        ],
+        "city": "LINCOLN",
+        "state": "NE",
+        "postalCode": "68508-2000"
+      },
+      {
+        "line": [
+          "221 BOLIVAR ST"
+        ],
+        "city": "JEFFERSON CITY",
+        "state": "MO",
+        "postalCode": "65101-1572"
+      },
+      {
+        "line": [
+          "1000 LAFAYETTE BLVD STE 1100"
+        ],
+        "city": "BRIDGEPORT",
+        "state": "CT",
+        "postalCode": "06604-4725"
+      },
+      {
+        "line": [
+          "2009 MACKENZIE WAY STE 100"
+        ],
+        "city": "CRANBERRY TOWNSHIP",
+        "state": "PA",
+        "postalCode": "16066-5338"
       },
       {
         "line": [
@@ -165,6 +148,23 @@
         "city": "COLUMBUS",
         "state": "OH",
         "postalCode": "43215-1052"
+      },
+      {
+        "line": [
+          "7955 S PRIEST DR",
+          "STE 102"
+        ],
+        "city": "TEMPE",
+        "state": "AZ",
+        "postalCode": "85284-1050"
+      },
+      {
+        "line": [
+          "1400 HOOPER AVE"
+        ],
+        "city": "TOMS RIVER",
+        "state": "NJ",
+        "postalCode": "08753-2981"
       },
       {
         "line": [

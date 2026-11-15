@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356622500"
+        "value": "1437440229"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336692359"
+        "value": "1558532739"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,11 +30,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558532739"
+        "value": "1992851067"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437440229"
+        "value": "1336692359"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,11 +42,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790247476"
+        "value": "1356622500"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992851067"
+        "value": "1790247476"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,14 +54,6 @@
       }
     ],
     "address": [
-      {
-        "line": [
-          "5635 W Belmont Ave"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60634-4384"
-      },
       {
         "line": [
           "5635 W. Belmont"
@@ -72,7 +64,15 @@
       },
       {
         "line": [
-          "5635 W Belmont Ave."
+          "5635 W Belmont Ave"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60634-4384"
+      },
+      {
+        "line": [
+          "5635 W BELMONT AVE"
         ],
         "city": "CHICAGO",
         "state": "IL",
@@ -88,7 +88,7 @@
       },
       {
         "line": [
-          "5635 W BELMONT AVE"
+          "5635 W Belmont Ave."
         ],
         "city": "CHICAGO",
         "state": "IL",

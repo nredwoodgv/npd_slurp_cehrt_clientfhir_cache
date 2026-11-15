@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952298812"
+        "value": "1497678437"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467347278"
+        "value": "1952298812"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,10 +26,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497678437"
+        "value": "1467347278"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1493 NEW WALKERTOWN RD"
+        ],
+        "city": "WINSTON SALEM",
+        "state": "NC",
+        "postalCode": "27101-3319"
+      },
       {
         "line": [
           "2000 CHURCH ST"
@@ -40,19 +48,11 @@
       },
       {
         "line": [
-          "6700 PEARL RD"
+          "1559 SPARTA ST"
         ],
-        "city": "CLEVELAND",
-        "state": "OH",
-        "postalCode": "44130-3828"
-      },
-      {
-        "line": [
-          "4220 HARDING RD"
-        ],
-        "city": "NASHVILLE",
+        "city": "MCMINNVILLE",
         "state": "TN",
-        "postalCode": "37205-2005"
+        "postalCode": "37110-1316"
       },
       {
         "line": [
@@ -65,11 +65,11 @@
       },
       {
         "line": [
-          "2300 PATTERSON ST"
+          "4220 HARDING RD"
         ],
         "city": "NASHVILLE",
         "state": "TN",
-        "postalCode": "37203-1538"
+        "postalCode": "37205-2005"
       },
       {
         "line": [
@@ -79,6 +79,14 @@
         "city": "NASHVILLE",
         "state": "TN",
         "postalCode": "37203-2119"
+      },
+      {
+        "line": [
+          "6700 PEARL RD"
+        ],
+        "city": "CLEVELAND",
+        "state": "OH",
+        "postalCode": "44130-3828"
       },
       {
         "line": [
@@ -100,19 +108,11 @@
       },
       {
         "line": [
-          "1493 NEW WALKERTOWN RD"
+          "2300 PATTERSON ST"
         ],
-        "city": "WINSTON SALEM",
-        "state": "NC",
-        "postalCode": "27101-3319"
-      },
-      {
-        "line": [
-          "1559 SPARTA ST"
-        ],
-        "city": "MCMINNVILLE",
+        "city": "NASHVILLE",
         "state": "TN",
-        "postalCode": "37110-1316"
+        "postalCode": "37203-1538"
       },
       {
         "line": [

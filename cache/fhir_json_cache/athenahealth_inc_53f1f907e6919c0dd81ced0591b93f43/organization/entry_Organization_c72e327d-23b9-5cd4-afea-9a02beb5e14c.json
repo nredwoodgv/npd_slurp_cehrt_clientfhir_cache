@@ -14,14 +14,23 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821349317"
+        "value": "1629398219"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629398219"
+        "value": "1821349317"
       }
     ],
     "address": [
+      {
+        "line": [
+          "289 PLEASANT ST",
+          "3rd Floor"
+        ],
+        "city": "FALL RIVER",
+        "state": "MA",
+        "postalCode": "02721-3005"
+      },
       {
         "line": [
           "535 FAUNCE CORNER RD"
@@ -37,15 +46,6 @@
         "city": "East Wareham",
         "state": "MA",
         "postalCode": "02538-1354"
-      },
-      {
-        "line": [
-          "289 PLEASANT ST",
-          "3rd Floor"
-        ],
-        "city": "FALL RIVER",
-        "state": "MA",
-        "postalCode": "02721-3005"
       }
     ],
     "extension": [

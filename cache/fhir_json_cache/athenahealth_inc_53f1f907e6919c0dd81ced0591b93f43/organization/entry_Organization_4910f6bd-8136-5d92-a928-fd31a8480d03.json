@@ -14,7 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376881029"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1083891329"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316681430"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -27,28 +35,12 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578612412"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376881029"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316681430"
       }
     ],
     "address": [
       {
         "line": [
-          "859 HENDRIX ST"
-        ],
-        "city": "BROOKLYN",
-        "state": "NY",
-        "postalCode": "11207-7901"
-      },
-      {
-        "line": [
-          "592 Rockaway Avenue"
+          "592 Rockaway ave"
         ],
         "city": "BROOKLYN",
         "state": "NY",
@@ -80,11 +72,19 @@
       },
       {
         "line": [
-          "592 Rockaway ave"
+          "592 Rockaway Avenue"
         ],
         "city": "BROOKLYN",
         "state": "NY",
         "postalCode": "11212-5539"
+      },
+      {
+        "line": [
+          "859 HENDRIX ST"
+        ],
+        "city": "BROOKLYN",
+        "state": "NY",
+        "postalCode": "11207-7901"
       }
     ],
     "extension": [

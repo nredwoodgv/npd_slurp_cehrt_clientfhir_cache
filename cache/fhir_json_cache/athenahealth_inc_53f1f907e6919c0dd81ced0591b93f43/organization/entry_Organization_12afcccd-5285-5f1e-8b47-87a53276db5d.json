@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396655544"
+        "value": "1417443771"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417443771"
+        "value": "1396655544"
       }
     ],
     "address": [
+      {
+        "line": [
+          "896 Kite Road"
+        ],
+        "city": "MILLERS CREEK",
+        "state": "NC",
+        "postalCode": "28651-8502"
+      },
       {
         "line": [
           "180 PARKWOOD DRIVE"
@@ -32,19 +40,11 @@
       },
       {
         "line": [
-          "2012 Chandleer Forest Court"
+          "1017 La Brisas Drive"
         ],
-        "city": "INDIAN TRAIL",
+        "city": "YADKINVILLE",
         "state": "NC",
-        "postalCode": "28079-3216"
-      },
-      {
-        "line": [
-          "1942 Swan Creek Road"
-        ],
-        "city": "HAMPTONVILLE",
-        "state": "NC",
-        "postalCode": "27020-8307"
+        "postalCode": "27055-5349"
       },
       {
         "line": [
@@ -56,11 +56,11 @@
       },
       {
         "line": [
-          "896 Kite Road"
+          "1942 Swan Creek Road"
         ],
-        "city": "MILLERS CREEK",
+        "city": "HAMPTONVILLE",
         "state": "NC",
-        "postalCode": "28651-8502"
+        "postalCode": "27020-8307"
       },
       {
         "line": [
@@ -73,11 +73,11 @@
       },
       {
         "line": [
-          "1017 La Brisas Drive"
+          "2012 Chandleer Forest Court"
         ],
-        "city": "YADKINVILLE",
+        "city": "INDIAN TRAIL",
         "state": "NC",
-        "postalCode": "27055-5349"
+        "postalCode": "28079-3216"
       }
     ],
     "extension": [

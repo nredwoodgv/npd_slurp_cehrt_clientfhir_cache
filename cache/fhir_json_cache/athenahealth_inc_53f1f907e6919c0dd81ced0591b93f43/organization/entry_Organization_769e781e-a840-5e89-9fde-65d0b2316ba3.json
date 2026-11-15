@@ -14,18 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619502622"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568294809"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922863224"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1245040278"
       },
       {
@@ -34,23 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124802061"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1881275915"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790517050"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033990064"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881426146"
+        "value": "1619502622"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,15 +34,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750146056"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750146999"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861014284"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124802061"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -78,11 +50,39 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881387322"
+        "value": "1750146999"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033990064"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1922863224"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1043042393"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750146056"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1790517050"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1568294809"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881387322"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881426146"
       }
     ],
     "address": [
@@ -96,11 +96,11 @@
       },
       {
         "line": [
-          "300 East Denver Avenue"
+          "117 N. Taylor St"
         ],
         "city": "GUNNISON",
         "state": "CO",
-        "postalCode": "81230-2210"
+        "postalCode": "81230-2131"
       },
       {
         "line": [
@@ -120,19 +120,19 @@
       },
       {
         "line": [
-          "117 N. Taylor St"
-        ],
-        "city": "GUNNISON",
-        "state": "CO",
-        "postalCode": "81230-2131"
-      },
-      {
-        "line": [
           "800 N Blvd."
         ],
         "city": "GUNNISON",
         "state": "CO",
         "postalCode": "81230-2847"
+      },
+      {
+        "line": [
+          "300 East Denver Avenue"
+        ],
+        "city": "GUNNISON",
+        "state": "CO",
+        "postalCode": "81230-2210"
       }
     ],
     "extension": [

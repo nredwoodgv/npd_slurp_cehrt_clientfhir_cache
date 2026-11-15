@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942622204"
+        "value": "1649551516"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649551516"
+        "value": "1942622204"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,6 +26,14 @@
       }
     ],
     "address": [
+      {
+        "line": [
+          "500 W WHITESTONE BLVD STE 100"
+        ],
+        "city": "CEDAR PARK",
+        "state": "TX",
+        "postalCode": "78613-2271"
+      },
       {
         "line": [
           "16420 RANCH ROAD 620 STE 104"
@@ -49,14 +57,6 @@
         "city": "LEANDER",
         "state": "TX",
         "postalCode": "78641-1471"
-      },
-      {
-        "line": [
-          "500 W WHITESTONE BLVD STE 100"
-        ],
-        "city": "CEDAR PARK",
-        "state": "TX",
-        "postalCode": "78613-2271"
       },
       {
         "line": [

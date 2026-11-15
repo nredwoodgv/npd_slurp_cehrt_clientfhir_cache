@@ -18,17 +18,41 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316663602"
+        "value": "1528785284"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528785284"
+        "value": "1316663602"
       }
     ],
     "address": [
       {
         "line": [
+          "4101 N WATER TOWER PL"
+        ],
+        "city": "MOUNT VERNON",
+        "state": "IL",
+        "postalCode": "62864-6296"
+      },
+      {
+        "line": [
+          "600 New Fairfield Rd."
+        ],
+        "city": "MOUNT VERNON",
+        "state": "IL",
+        "postalCode": "62864-9998"
+      },
+      {
+        "line": [
           "208 ZACHERY DR"
+        ],
+        "city": "MOUNT VERNON",
+        "state": "IL",
+        "postalCode": "62864-6712"
+      },
+      {
+        "line": [
+          "208 Zachery Drive"
         ],
         "city": "MOUNT VERNON",
         "state": "IL",
@@ -44,19 +68,27 @@
       },
       {
         "line": [
-          "4101 N WATER TOWER PL"
+          "1933 S. 42nd St."
         ],
         "city": "MOUNT VERNON",
         "state": "IL",
-        "postalCode": "62864-6296"
+        "postalCode": "62864-6251"
       },
       {
         "line": [
-          "1209 W ROBINSON ST"
+          "1001 S 34th"
         ],
-        "city": "WAYNE CITY",
+        "city": "MOUNT VERNON",
         "state": "IL",
-        "postalCode": "62895-9672"
+        "postalCode": "62864-6232"
+      },
+      {
+        "line": [
+          "#5 Doctors Park"
+        ],
+        "city": "MOUNT VERNON",
+        "state": "IL",
+        "postalCode": "62864-6251"
       },
       {
         "line": [
@@ -76,43 +108,11 @@
       },
       {
         "line": [
-          "#5 Doctors Park"
+          "1209 W ROBINSON ST"
         ],
-        "city": "MOUNT VERNON",
+        "city": "WAYNE CITY",
         "state": "IL",
-        "postalCode": "62864-6251"
-      },
-      {
-        "line": [
-          "1933 S. 42nd St."
-        ],
-        "city": "MOUNT VERNON",
-        "state": "IL",
-        "postalCode": "62864-6251"
-      },
-      {
-        "line": [
-          "600 New Fairfield Rd."
-        ],
-        "city": "MOUNT VERNON",
-        "state": "IL",
-        "postalCode": "62864-9998"
-      },
-      {
-        "line": [
-          "208 Zachery Drive"
-        ],
-        "city": "MOUNT VERNON",
-        "state": "IL",
-        "postalCode": "62864-6712"
-      },
-      {
-        "line": [
-          "1001 S 34th"
-        ],
-        "city": "MOUNT VERNON",
-        "state": "IL",
-        "postalCode": "62864-6232"
+        "postalCode": "62895-9672"
       }
     ],
     "extension": [

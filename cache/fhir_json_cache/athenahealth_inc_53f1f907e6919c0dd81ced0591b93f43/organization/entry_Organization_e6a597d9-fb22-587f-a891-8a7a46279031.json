@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932520251"
+        "value": "1194329631"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194329631"
+        "value": "1932520251"
       }
     ],
     "address": [
       {
         "line": [
-          "1000 10th Ave"
+          "109 MONTAGUE ST"
         ],
-        "city": "NEW YORK",
+        "city": "Brooklyn",
         "state": "NY",
-        "postalCode": "10019-1147"
+        "postalCode": "11201-3437"
       },
       {
         "line": [
@@ -40,11 +40,11 @@
       },
       {
         "line": [
-          "1000 10th Ave"
+          "109 Montague Street"
         ],
-        "city": "New York",
+        "city": "BROOKLYN",
         "state": "NY",
-        "postalCode": "10019-1147"
+        "postalCode": "11201-3437"
       },
       {
         "line": [
@@ -58,25 +58,25 @@
         "line": [
           "109 MONTAGUE ST"
         ],
-        "city": "Brooklyn",
-        "state": "NY",
-        "postalCode": "11201-3437"
-      },
-      {
-        "line": [
-          "109 Montague Street"
-        ],
         "city": "BROOKLYN",
         "state": "NY",
         "postalCode": "11201-3437"
       },
       {
         "line": [
-          "109 MONTAGUE ST"
+          "1000 10th Ave"
         ],
-        "city": "BROOKLYN",
+        "city": "NEW YORK",
         "state": "NY",
-        "postalCode": "11201-3437"
+        "postalCode": "10019-1147"
+      },
+      {
+        "line": [
+          "1000 10th Ave"
+        ],
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10019-1147"
       }
     ],
     "extension": [

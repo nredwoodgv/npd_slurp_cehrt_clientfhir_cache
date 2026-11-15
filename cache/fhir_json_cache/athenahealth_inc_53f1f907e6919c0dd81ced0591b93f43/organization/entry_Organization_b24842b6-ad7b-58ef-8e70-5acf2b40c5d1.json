@@ -14,31 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639108822"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528128063"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598703043"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326067315"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1669940078"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336175462"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366981805"
+        "value": "1528128063"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -47,25 +27,36 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1821196148"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598703043"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1366981805"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326067315"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336175462"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1639108822"
       }
     ],
     "address": [
       {
         "line": [
-          "301 VILLAGE CIR"
+          "1500 W ELK AVE STE 11A"
         ],
-        "city": "BRISTOL",
-        "state": "VA",
-        "postalCode": "24201-8302"
-      },
-      {
-        "line": [
-          "3 Professional Park Drive",
-          "Ste 21"
-        ],
-        "city": "JOHNSON CITY",
+        "city": "ELIZABETHTON",
         "state": "TN",
-        "postalCode": "37604-6529"
+        "postalCode": "37643-2654"
       },
       {
         "line": [
@@ -78,11 +69,54 @@
       },
       {
         "line": [
-          "1 MEDICAL PARK BLVD"
+          "3 Professional Park Drive",
+          "Ste 21"
+        ],
+        "city": "JOHNSON CITY",
+        "state": "TN",
+        "postalCode": "37604-6529"
+      },
+      {
+        "line": [
+          "350 BLOUNTVILLE HWY"
         ],
         "city": "BRISTOL",
         "state": "TN",
-        "postalCode": "37620-7430"
+        "postalCode": "37620-0213"
+      },
+      {
+        "line": [
+          "16000 JOHNSTON MEMORIAL DR",
+          "Suite 100"
+        ],
+        "city": "ABINGDON",
+        "state": "VA",
+        "postalCode": "24211-7664"
+      },
+      {
+        "line": [
+          "301 VILLAGE CIR"
+        ],
+        "city": "BRISTOL",
+        "state": "VA",
+        "postalCode": "24201-8302"
+      },
+      {
+        "line": [
+          "3 PROFESSIONAL PARK DR STE 21"
+        ],
+        "city": "JOHNSON CITY",
+        "state": "TN",
+        "postalCode": "37604-6529"
+      },
+      {
+        "line": [
+          "16000 JOHNSTON MEMORIAL DR",
+          "SUITE 100"
+        ],
+        "city": "ABINGDON",
+        "state": "VA",
+        "postalCode": "24211-7664"
       },
       {
         "line": [
@@ -102,20 +136,6 @@
         "postalCode": "24211-7664"
       },
       {
-        "line": [],
-        "city": "NORTON",
-        "state": "VA",
-        "postalCode": "24273-0001"
-      },
-      {
-        "line": [
-          "1500 W ELK AVE STE 11A"
-        ],
-        "city": "ELIZABETHTON",
-        "state": "TN",
-        "postalCode": "37643-2654"
-      },
-      {
         "line": [
           "260 Midway Medical Park",
           "Ste 100"
@@ -126,8 +146,35 @@
       },
       {
         "line": [
-          "16000 JOHNSTON MEMORIAL DR",
-          "Suite 100"
+          "350 Blountville Hwy"
+        ],
+        "city": "BRISTOL",
+        "state": "TN",
+        "postalCode": "37620-1676"
+      },
+      {
+        "line": [],
+        "city": "BRISTOL",
+        "state": "TN",
+        "postalCode": "37620-7497"
+      },
+      {
+        "line": [
+          "130 W RAVINE RD"
+        ],
+        "city": "KINGSPORT",
+        "state": "TN",
+        "postalCode": "37660-3837"
+      },
+      {
+        "line": [],
+        "city": "NORTON",
+        "state": "VA",
+        "postalCode": "24273-0001"
+      },
+      {
+        "line": [
+          "16000 JOHNSTON MEMORIAL DR"
         ],
         "city": "ABINGDON",
         "state": "VA",
@@ -143,44 +190,20 @@
       },
       {
         "line": [
-          "350 Blountville Hwy"
-        ],
-        "city": "BRISTOL",
-        "state": "TN",
-        "postalCode": "37620-1676"
-      },
-      {
-        "line": [
-          "16000 JOHNSTON MEMORIAL DR",
-          "SUITE 100"
-        ],
-        "city": "ABINGDON",
-        "state": "VA",
-        "postalCode": "24211-7664"
-      },
-      {
-        "line": [
-          "130 W RAVINE RD"
+          "444 Clinchfield St.",
+          "Ste.  303"
         ],
         "city": "KINGSPORT",
         "state": "TN",
-        "postalCode": "37660-3837"
+        "postalCode": "37660-3864"
       },
       {
         "line": [
-          "3 PROFESSIONAL PARK DR STE 21"
-        ],
-        "city": "JOHNSON CITY",
-        "state": "TN",
-        "postalCode": "37604-6529"
-      },
-      {
-        "line": [
-          "350 BLOUNTVILLE HWY"
+          "1 MEDICAL PARK BLVD"
         ],
         "city": "BRISTOL",
         "state": "TN",
-        "postalCode": "37620-0213"
+        "postalCode": "37620-7430"
       },
       {
         "line": [
@@ -190,29 +213,6 @@
         "city": "BRISTOL",
         "state": "TN",
         "postalCode": "37620-7430"
-      },
-      {
-        "line": [],
-        "city": "BRISTOL",
-        "state": "TN",
-        "postalCode": "37620-7497"
-      },
-      {
-        "line": [
-          "16000 JOHNSTON MEMORIAL DR"
-        ],
-        "city": "ABINGDON",
-        "state": "VA",
-        "postalCode": "24211-7664"
-      },
-      {
-        "line": [
-          "444 Clinchfield St.",
-          "Ste.  303"
-        ],
-        "city": "KINGSPORT",
-        "state": "TN",
-        "postalCode": "37660-3864"
       }
     ],
     "extension": [

@@ -14,14 +14,30 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154625606"
+        "value": "1740387042"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740387042"
+        "value": "1154625606"
       }
     ],
     "address": [
+      {
+        "line": [
+          "208 S KOSSOTH"
+        ],
+        "city": "MILLSTADT",
+        "state": "IL",
+        "postalCode": "62260-1564"
+      },
+      {
+        "line": [
+          "351 LOCKWOOD DR"
+        ],
+        "city": "WATERLOO",
+        "state": "IL",
+        "postalCode": "62298-2032"
+      },
       {
         "line": [
           "208 S KOSSTH"
@@ -42,17 +58,9 @@
         "line": [
           "351 LOCKWOOD DR"
         ],
-        "city": "WATERLOO",
+        "city": "RED BUD",
         "state": "IL",
-        "postalCode": "62298-2032"
-      },
-      {
-        "line": [
-          "208 S KOSSOTH"
-        ],
-        "city": "MILLSTADT",
-        "state": "IL",
-        "postalCode": "62260-1564"
+        "postalCode": "62278-2032"
       },
       {
         "line": [
@@ -61,14 +69,6 @@
         "city": "COLUMBIA",
         "state": "IL",
         "postalCode": "62236-3837"
-      },
-      {
-        "line": [
-          "351 LOCKWOOD DR"
-        ],
-        "city": "RED BUD",
-        "state": "IL",
-        "postalCode": "62278-2032"
       }
     ],
     "extension": [

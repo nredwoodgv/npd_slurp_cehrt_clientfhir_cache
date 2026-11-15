@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013031368"
+        "value": "1649228966"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285931089"
+        "value": "1013031368"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,10 +26,42 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649228966"
+        "value": "1285931089"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3300 Rivermont Ave"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24503-2030"
+      },
+      {
+        "line": [
+          "1220 W Gretna Rd"
+        ],
+        "city": "GRETNA",
+        "state": "VA",
+        "postalCode": "24557-4087"
+      },
+      {
+        "line": [
+          "125 Nationwide Drive"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24502-9998"
+      },
+      {
+        "line": [
+          "115 Ambriar Court"
+        ],
+        "city": "AMHERST",
+        "state": "VA",
+        "postalCode": "24521-3306"
+      },
       {
         "line": [
           "3300 Rivermont Ave."
@@ -40,11 +72,12 @@
       },
       {
         "line": [
-          "3300 Rivermont Ave"
+          "Longwood University",
+          "201 High Street"
         ],
-        "city": "LYNCHBURG",
+        "city": "FARMVILLE",
         "state": "VA",
-        "postalCode": "24503-2030"
+        "postalCode": "23909-2390"
       },
       {
         "line": [
@@ -64,44 +97,11 @@
       },
       {
         "line": [
-          "1220 W Gretna Rd"
-        ],
-        "city": "GRETNA",
-        "state": "VA",
-        "postalCode": "24557-4087"
-      },
-      {
-        "line": [
-          "Longwood University",
-          "201 High Street"
-        ],
-        "city": "FARMVILLE",
-        "state": "VA",
-        "postalCode": "23909-2390"
-      },
-      {
-        "line": [
-          "125 Nationwide Drive"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24502-9998"
-      },
-      {
-        "line": [
           "317 West Main Street"
         ],
         "city": "BEDFORD",
         "state": "VA",
         "postalCode": "24523-1902"
-      },
-      {
-        "line": [
-          "115 Ambriar Court"
-        ],
-        "city": "AMHERST",
-        "state": "VA",
-        "postalCode": "24521-3306"
       }
     ],
     "extension": [

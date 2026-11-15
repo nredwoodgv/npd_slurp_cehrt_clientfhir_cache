@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568171189"
+        "value": "1427370600"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427370600"
+        "value": "1568171189"
       }
     ],
     "address": [
@@ -40,35 +40,11 @@
       },
       {
         "line": [
-          "1203 Poplar Ave"
-        ],
-        "city": "MEMPHIS",
-        "state": "TN",
-        "postalCode": "38104-6426"
-      },
-      {
-        "line": [
           "600 N GIANT CITY RD"
         ],
         "city": "CARBONDALE",
         "state": "IL",
         "postalCode": "62902-6418"
-      },
-      {
-        "line": [
-          "1203 Poplar Ave"
-        ],
-        "city": "MEMPHIS",
-        "state": "TN",
-        "postalCode": "38104-7241"
-      },
-      {
-        "line": [
-          "1300 Wesley Dr."
-        ],
-        "city": "MEMPHIS",
-        "state": "TN",
-        "postalCode": "38116-6424"
       },
       {
         "line": [
@@ -80,11 +56,35 @@
       },
       {
         "line": [
+          "1300 Wesley Dr."
+        ],
+        "city": "MEMPHIS",
+        "state": "TN",
+        "postalCode": "38116-6424"
+      },
+      {
+        "line": [
+          "1203 Poplar Ave"
+        ],
+        "city": "MEMPHIS",
+        "state": "TN",
+        "postalCode": "38104-6426"
+      },
+      {
+        "line": [
           "5959 Park Avenue"
         ],
         "city": "MEMPHIS",
         "state": "TN",
         "postalCode": "38119-5200"
+      },
+      {
+        "line": [
+          "1203 Poplar Ave"
+        ],
+        "city": "MEMPHIS",
+        "state": "TN",
+        "postalCode": "38104-7241"
       }
     ],
     "extension": [

@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265071765"
+        "value": "1033701578"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,35 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730532003"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316279375"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952998825"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376884692"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962004093"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144782632"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508240482"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821176934"
+        "value": "1265071765"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,27 +34,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033701578"
+        "value": "1952998825"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1508240482"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316279375"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144782632"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376884692"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821176934"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730532003"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1661 Airport Road",
-          "SUITE F"
-        ],
-        "city": "HOT SPRINGS NATIONAL PARK",
-        "state": "AR",
-        "postalCode": "71913-8184"
-      },
-      {
-        "line": [
-          "755 Hwy 8 East"
-        ],
-        "city": "AMITY",
-        "state": "AR",
-        "postalCode": "71921-8562"
-      },
       {
         "line": [
           "1661 AIRPORT RD STE D"
@@ -86,6 +69,14 @@
         "city": "HOT SPRINGS NATIONAL PARK",
         "state": "AR",
         "postalCode": "71913-8184"
+      },
+      {
+        "line": [
+          "507 MOUNTAIN VIEW RD"
+        ],
+        "city": "GLENWOOD",
+        "state": "AR",
+        "postalCode": "71943-9147"
       },
       {
         "line": [
@@ -106,11 +97,20 @@
       },
       {
         "line": [
-          "507 MOUNTAIN VIEW RD"
+          "755 Hwy 8 East"
         ],
-        "city": "GLENWOOD",
+        "city": "AMITY",
         "state": "AR",
-        "postalCode": "71943-9147"
+        "postalCode": "71921-8562"
+      },
+      {
+        "line": [
+          "1661 Airport Road",
+          "SUITE F"
+        ],
+        "city": "HOT SPRINGS NATIONAL PARK",
+        "state": "AR",
+        "postalCode": "71913-8184"
       }
     ],
     "extension": [

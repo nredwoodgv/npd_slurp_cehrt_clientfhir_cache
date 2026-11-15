@@ -14,14 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235990011"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447137740"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1053172833"
       },
       {
@@ -30,7 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235990011"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1205698479"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447137740"
       }
     ],
     "address": [
@@ -44,21 +44,21 @@
       },
       {
         "line": [
-          "8300 Utica Ave",
-          "Ste 245"
-        ],
-        "city": "RANCHO CUCAMONGA",
-        "state": "CA",
-        "postalCode": "91730-3852"
-      },
-      {
-        "line": [
           "2555 E. Colorado Blvd",
           "Suite 101"
         ],
         "city": "PASADENA",
         "state": "CA",
         "postalCode": "91107-6622"
+      },
+      {
+        "line": [
+          "8300 Utica Ave",
+          "Ste 245"
+        ],
+        "city": "RANCHO CUCAMONGA",
+        "state": "CA",
+        "postalCode": "91730-3852"
       }
     ],
     "extension": [

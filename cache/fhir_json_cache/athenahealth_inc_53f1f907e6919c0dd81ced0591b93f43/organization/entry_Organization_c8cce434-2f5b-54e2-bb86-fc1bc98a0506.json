@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104367630"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1073054458"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1104496819"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104367630"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,11 +32,11 @@
     "address": [
       {
         "line": [
-          "1350 MARKET ST"
+          "2580 ELM RD BLDG A"
         ],
-        "city": "WARREN",
+        "city": "CORTLAND",
         "state": "OH",
-        "postalCode": "44483-6608"
+        "postalCode": "44410-9353"
       },
       {
         "line": [
@@ -72,11 +72,11 @@
       },
       {
         "line": [
-          "2580 ELM RD BLDG A"
+          "1350 MARKET ST"
         ],
-        "city": "CORTLAND",
+        "city": "WARREN",
         "state": "OH",
-        "postalCode": "44410-9353"
+        "postalCode": "44483-6608"
       }
     ],
     "extension": [

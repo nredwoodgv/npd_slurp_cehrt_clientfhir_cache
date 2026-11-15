@@ -18,7 +18,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1972192987"
+        "value": "1407518780"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1427668169"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326434440"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +34,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326434440"
+        "value": "1336738350"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1972192987"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -35,18 +47,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1831064609"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336738350"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407518780"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427668169"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -64,11 +64,29 @@
       },
       {
         "line": [
-          "1500 CHESTNUT ST # 2420"
+          "470 NOOR AVE",
+          "Suite B. #1057"
         ],
-        "city": "PHILADELPHIA",
-        "state": "PA",
-        "postalCode": "19102-2737"
+        "city": "SOUTH SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94080-5957"
+      },
+      {
+        "line": [
+          "6 LIBERTY SQUARE #2694"
+        ],
+        "city": "BOSTON",
+        "state": "MA",
+        "postalCode": "02109-5800"
+      },
+      {
+        "line": [
+          "188 VALLEY STREET",
+          "SUITE 201"
+        ],
+        "city": "PROVIDENCE",
+        "state": "RI",
+        "postalCode": "02909-2458"
       },
       {
         "line": [
@@ -80,12 +98,20 @@
       },
       {
         "line": [
-          "188 VALLEY STREET",
-          "SUITE 201"
+          "613 Washington Blvd",
+          "#1151"
         ],
-        "city": "PROVIDENCE",
-        "state": "RI",
-        "postalCode": "02909-2458"
+        "city": "JERSEY CITY",
+        "state": "NJ",
+        "postalCode": "07310-2900"
+      },
+      {
+        "line": [
+          "1500 CHESTNUT ST # 2420"
+        ],
+        "city": "PHILADELPHIA",
+        "state": "PA",
+        "postalCode": "19102-2737"
       },
       {
         "line": [
@@ -103,32 +129,6 @@
         "city": "WEST HARTFORD",
         "state": "CT",
         "postalCode": "06117-2335"
-      },
-      {
-        "line": [
-          "613 Washington Blvd",
-          "#1151"
-        ],
-        "city": "JERSEY CITY",
-        "state": "NJ",
-        "postalCode": "07310-2900"
-      },
-      {
-        "line": [
-          "470 NOOR AVE",
-          "Suite B. #1057"
-        ],
-        "city": "SOUTH SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94080-5957"
-      },
-      {
-        "line": [
-          "6 LIBERTY SQUARE #2694"
-        ],
-        "city": "BOSTON",
-        "state": "MA",
-        "postalCode": "02109-5800"
       },
       {
         "line": [

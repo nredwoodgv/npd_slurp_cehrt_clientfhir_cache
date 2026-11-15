@@ -18,27 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134992548"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821319286"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831962265"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1558240473"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992598114"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669365086"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,18 +30,30 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821319286"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669365086"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1134992548"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831962265"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992598114"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1851164271"
       }
     ],
     "address": [
-      {
-        "line": [
-          "80 GUEST ST"
-        ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2071"
-      },
       {
         "line": [
           "16851 Jefferson Hwy",
@@ -79,6 +71,14 @@
         "city": "New Orleans",
         "state": "LA",
         "postalCode": "70130-3245"
+      },
+      {
+        "line": [
+          "80 GUEST ST"
+        ],
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2071"
       }
     ],
     "extension": [

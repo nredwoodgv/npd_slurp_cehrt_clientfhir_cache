@@ -14,19 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750626834"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1538606181"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497701106"
+        "value": "1750626834"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1982141537"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1497701106"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -64,11 +64,11 @@
       },
       {
         "line": [
-          "2215 Burdett Avenue"
+          "2215 Burdett Avenue Suite 200"
         ],
         "city": "TROY",
         "state": "NY",
-        "postalCode": "12180-2446"
+        "postalCode": "12180-2466"
       },
       {
         "line": [
@@ -80,27 +80,11 @@
       },
       {
         "line": [
-          "319 S Manning Blvd Suite 304"
-        ],
-        "city": "ALBANY",
-        "state": "NY",
-        "postalCode": "12208-1744"
-      },
-      {
-        "line": [
-          "425 New Scotland Ave"
-        ],
-        "city": "ALBANY",
-        "state": "NY",
-        "postalCode": "12208-2726"
-      },
-      {
-        "line": [
-          "2215 Burdett Avenue Suite 200"
+          "2215 Burdett Avenue"
         ],
         "city": "TROY",
         "state": "NY",
-        "postalCode": "12180-2466"
+        "postalCode": "12180-2446"
       },
       {
         "line": [
@@ -112,11 +96,27 @@
       },
       {
         "line": [
+          "425 New Scotland Ave"
+        ],
+        "city": "ALBANY",
+        "state": "NY",
+        "postalCode": "12208-2726"
+      },
+      {
+        "line": [
           "855 Rt 146"
         ],
         "city": "CLIFTON PARK",
         "state": "NY",
         "postalCode": "12065-2807"
+      },
+      {
+        "line": [
+          "319 S Manning Blvd Suite 304"
+        ],
+        "city": "ALBANY",
+        "state": "NY",
+        "postalCode": "12208-1744"
       },
       {
         "line": [

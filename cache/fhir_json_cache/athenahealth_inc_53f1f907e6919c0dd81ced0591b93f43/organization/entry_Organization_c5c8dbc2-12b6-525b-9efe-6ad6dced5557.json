@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003688037"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205617370"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235811787"
+        "value": "1659152726"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,39 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013700228"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649051715"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922870955"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1558133587"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710768882"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164203238"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023801230"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811778988"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710753066"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -70,14 +30,62 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659152726"
+        "value": "1023801230"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235811787"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1710768882"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013700228"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1205617370"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1922870955"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1003688037"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1710753066"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730972944"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649051715"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811778988"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1164203238"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1777 Sentry Parkway W"
+        ],
+        "city": "Blue Bell",
+        "state": "PA",
+        "postalCode": "19422-2207"
+      },
       {
         "line": [
           "156 S Bethlehem Pike"
@@ -85,14 +93,6 @@
         "city": "Ambler",
         "state": "PA",
         "postalCode": "19002-5821"
-      },
-      {
-        "line": [
-          "80 GUEST ST"
-        ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2071"
       },
       {
         "line": [
@@ -104,11 +104,11 @@
       },
       {
         "line": [
-          "1777 Sentry Parkway W"
+          "80 GUEST ST"
         ],
-        "city": "Blue Bell",
-        "state": "PA",
-        "postalCode": "19422-2207"
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2071"
       }
     ],
     "extension": [

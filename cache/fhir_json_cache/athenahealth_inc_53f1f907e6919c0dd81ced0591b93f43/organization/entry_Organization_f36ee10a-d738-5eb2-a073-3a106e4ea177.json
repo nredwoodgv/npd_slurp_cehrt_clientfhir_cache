@@ -14,14 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1215999511"
       },
       {
@@ -30,11 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
+        "value": "1962602300"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,26 +30,30 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1881656247"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1124080320"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669801585"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730484031"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215348487"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053373951"
       }
     ],
     "address": [
-      {
-        "line": [
-          "710 GASLIGHT BLVD STE B"
-        ],
-        "city": "LUFKIN",
-        "state": "TX",
-        "postalCode": "75904-3187"
-      },
       {
         "line": [
           "302 MEDICAL PARK DR STE 104"
@@ -69,6 +61,14 @@
         "city": "LUFKIN",
         "state": "TX",
         "postalCode": "75904-3129"
+      },
+      {
+        "line": [
+          "710 GASLIGHT BLVD STE B"
+        ],
+        "city": "LUFKIN",
+        "state": "TX",
+        "postalCode": "75904-3187"
       }
     ],
     "extension": [

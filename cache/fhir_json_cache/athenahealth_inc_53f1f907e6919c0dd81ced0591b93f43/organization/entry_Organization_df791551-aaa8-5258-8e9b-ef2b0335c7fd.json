@@ -14,15 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548739170"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396201000"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548739170"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1316253875"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073175956"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -31,20 +35,40 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1588226328"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073175956"
       }
     ],
     "address": [
       {
         "line": [
-          "12 Dallaire Ave"
+          "121 Lincoln Street"
         ],
-        "city": "CHICOPEE",
+        "city": "WORCESTER",
         "state": "MA",
-        "postalCode": "01020-1237"
+        "postalCode": "01605-2429"
+      },
+      {
+        "line": [
+          "938 South Bradford Street"
+        ],
+        "city": "DOVER",
+        "state": "DE",
+        "postalCode": "19901-4139"
+      },
+      {
+        "line": [
+          "725 North St"
+        ],
+        "city": "PITTSFIELD",
+        "state": "MA",
+        "postalCode": "01201-4109"
+      },
+      {
+        "line": [
+          "167 ACADEMY ST STE B"
+        ],
+        "city": "PRESQUE ISLE",
+        "state": "ME",
+        "postalCode": "04769-3167"
       },
       {
         "line": [
@@ -57,46 +81,11 @@
       },
       {
         "line": [
-          "938 South Bradford Street"
+          "12 Dallaire Ave"
         ],
-        "city": "DOVER",
-        "state": "DE",
-        "postalCode": "19901-4139"
-      },
-      {
-        "line": [
-          "26B Enfield Rd",
-          "STE 1 & 2"
-        ],
-        "city": "LINCOLN",
-        "state": "ME",
-        "postalCode": "04457-1190"
-      },
-      {
-        "line": [
-          "42 Summer Street"
-        ],
-        "city": "PITTSFIELD",
+        "city": "CHICOPEE",
         "state": "MA",
-        "postalCode": "01201-4697"
-      },
-      {
-        "line": [
-          "4923 Ogletown Stanton Road",
-          "Suite 110"
-        ],
-        "city": "NEWARK",
-        "state": "DE",
-        "postalCode": "19713-2012"
-      },
-      {
-        "line": [
-          "4421 Roosevelt Blvd",
-          "Suite A"
-        ],
-        "city": "MIDDLETOWN",
-        "state": "OH",
-        "postalCode": "45044-9023"
+        "postalCode": "01020-1237"
       },
       {
         "line": [
@@ -105,15 +94,6 @@
         "city": "AUGUSTA",
         "state": "ME",
         "postalCode": "04330-4100"
-      },
-      {
-        "line": [
-          "409 Alfred St",
-          "Unit 4"
-        ],
-        "city": "BIDDEFORD",
-        "state": "ME",
-        "postalCode": "04005-3756"
       },
       {
         "line": [
@@ -126,19 +106,20 @@
       },
       {
         "line": [
-          "121 Lincoln Street"
+          "409 Alfred St",
+          "Unit 4"
         ],
-        "city": "WORCESTER",
-        "state": "MA",
-        "postalCode": "01605-2429"
+        "city": "BIDDEFORD",
+        "state": "ME",
+        "postalCode": "04005-3756"
       },
       {
         "line": [
-          "725 North St"
+          "42 Summer Street"
         ],
         "city": "PITTSFIELD",
         "state": "MA",
-        "postalCode": "01201-4109"
+        "postalCode": "01201-4697"
       },
       {
         "line": [
@@ -150,11 +131,30 @@
       },
       {
         "line": [
-          "167 ACADEMY ST STE B"
+          "4923 Ogletown Stanton Road",
+          "Suite 110"
         ],
-        "city": "PRESQUE ISLE",
+        "city": "NEWARK",
+        "state": "DE",
+        "postalCode": "19713-2012"
+      },
+      {
+        "line": [
+          "26B Enfield Rd",
+          "STE 1 & 2"
+        ],
+        "city": "LINCOLN",
         "state": "ME",
-        "postalCode": "04769-3167"
+        "postalCode": "04457-1190"
+      },
+      {
+        "line": [
+          "4421 Roosevelt Blvd",
+          "Suite A"
+        ],
+        "city": "MIDDLETOWN",
+        "state": "OH",
+        "postalCode": "45044-9023"
       }
     ],
     "extension": [

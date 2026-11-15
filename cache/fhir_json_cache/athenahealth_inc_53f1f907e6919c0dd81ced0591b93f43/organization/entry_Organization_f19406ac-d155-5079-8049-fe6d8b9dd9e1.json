@@ -14,39 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003688037"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235811787"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659152726"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023801230"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1922870955"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710768882"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649051715"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164203238"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831970904"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,7 +22,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558133587"
+        "value": "1659152726"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235811787"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1710768882"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013700228"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,11 +46,31 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013700228"
+        "value": "1003688037"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649051715"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1164203238"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1023801230"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1205617370"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1558133587"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831970904"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -80,12 +80,11 @@
     "address": [
       {
         "line": [
-          "1100 ASHWOOD DR",
-          "STE 1101"
+          "80 GUEST ST"
         ],
-        "city": "CANONSBURG",
-        "state": "PA",
-        "postalCode": "15317-4981"
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2071"
       },
       {
         "line": [
@@ -98,15 +97,6 @@
       },
       {
         "line": [
-          "144 EMERYVILLE DR",
-          "STE 120"
-        ],
-        "city": "CRANBERRY TOWNSHIP",
-        "state": "PA",
-        "postalCode": "16066-5015"
-      },
-      {
-        "line": [
           "5840 Ellsworth Ave",
           "STE 104"
         ],
@@ -116,11 +106,21 @@
       },
       {
         "line": [
-          "80 GUEST ST"
+          "1100 ASHWOOD DR",
+          "STE 1101"
         ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2071"
+        "city": "CANONSBURG",
+        "state": "PA",
+        "postalCode": "15317-4981"
+      },
+      {
+        "line": [
+          "144 EMERYVILLE DR",
+          "STE 120"
+        ],
+        "city": "CRANBERRY TOWNSHIP",
+        "state": "PA",
+        "postalCode": "16066-5015"
       }
     ],
     "extension": [

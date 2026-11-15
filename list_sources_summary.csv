@@ -19,7 +19,7 @@ https://api.commure.com/fhir/onc/base.json,Commure (d/b/a Athelas),1
 https://api.cybermedehr.com/endpoint-bundle,Cybermed Health Inc,1
 https://api.enablemyhealth.com/api/r4/Groups,EnableDoc LLC,1
 https://api.geniusdoc.com:4434/GDAPIData/EndpointBundle,"GeniusDoc, Inc.",1
-https://api.medconnecthealth.com/fhir/r4/endpoints,"MedConnect, Inc.",22
+https://api.medconnecthealth.com/fhir/r4/endpoints,"MedConnect, Inc.",29
 https://api.mhdi10xasayd.com/medhost-developer-composition/v1/fhir-base-service-url-bundle,MEDHOST,128
 https://api.moyae.com/service-url,"Moyae, Inc.",1
 https://api.novoclinical.com/.well-known/bundle,"NovoMedici, LLC",1
@@ -29,7 +29,7 @@ https://apidocs.onemedical.io/1LifeServiceBaseURLBundle.json,"1Life Healthcare, 
 https://apigateway.emdscloud.com:7443/infor/CustomerApi/fhir/g10,CompuGroup Medical US,1
 https://app-70202.on-aptible.com/endpoints,Healthie,1
 https://app.azaleahealth.com/fhir/R4/Endpoint,Azalea Health,25
-https://app.meldrx.com/api/Directories/fhir/endpoints,Darena Solutions LLC dba Darena Health,1580
+https://app.meldrx.com/api/Directories/fhir/endpoints,Darena Solutions LLC dba Darena Health,1581
 https://app.smartemr.com/fhir_sburl/,"VIPA Health Solutions, LLC",1
 https://applications.op.healthcare/api/v2/atlas-format/Endpoint?_revinclude=Endpoint:organization,Office Practicum,1
 https://apps.ehana.com/kapu/fhir-server/ValidURLs.json,eHana,1
@@ -61,6 +61,7 @@ https://dhpresentation.youruprise.com/fhir/r4/endpoints,VisionWeb,4
 https://docs.canvasmedical.com/assets/static/fhir-service-base-urls-production.json,"Canvas Medical, Inc.",76
 https://docs.fire.ly/projects/Firely-Server/en/latest/_static/g10/EndpointBundleFirely.json,Firely USA Inc.,2
 https://doxpodfhir-prod-cus-app01.azurewebsites.net/api,DOX EMR,15
+https://drchrono-fhirpresentation.everhealthsoftware.com/fhir/r4/endpoints,drchrono Inc.,115
 https://drsdoc.com/ValidURLs.json,"Keiser Computers, Inc.",1
 https://dynamicfhirpresentation.dynamicfhirsandbox.com/fhir/r4/endpoints,"Dynamic Health IT, Inc",11
 https://ehealthline.com/FHIRservice%20Base%20URL%20EHL.json,"E*HealthLine.com, Inc.",1
@@ -72,7 +73,7 @@ https://ensorahealth.com/onc/echo/fhir/r4/Endpoint,The Echo Group,1
 https://facilityportal.vohrawoundteam.com/vohra-service-urls.json,"Vohra Wound Physicians Management, LLC",1
 https://falcon.imperiumsoft.biz/docs/FhirBaseURL/falcon-service-base-urls.json,HCRCM LLC,1
 https://fhir-api.golunar.com,"Lunar Systems, Inc.",308
-https://fhir-apis.meditech.com/v1/brands,"Medical Information Technology, Inc. (MEDITECH)",469
+https://fhir-apis.meditech.com/v1/brands,"Medical Information Technology, Inc. (MEDITECH)",470
 https://fhir-app-portal.aidbox.app/service-base-urls,"Health Samurai, Inc.",2
 https://fhir-dev.cloudmd365.com/public-base-url-info,"Softbir, Inc.",1
 https://fhir-dev.edvak.com/fhir/.well-known/service-base-url.json,Edvak Technologies Inc,1
@@ -80,23 +81,23 @@ https://fhir-g10.capellaehr.com/fhir/r4/endpoints,"Acurus Solutions, Inc.",22
 https://fhir-server.sam.wrs.dev/r4/ServiceBase,WRS Health,1
 "https://fhir-service.medicscloud.com/r6/DA/get-clients-end-points
 https://fhir-service.medicscloud.com/r6/mc/get-clients-end-points",Advanced Data Systems Corporation,1
-https://fhir-servicebaseurl.fhirhlprod.greenwayhealth.com/servicebundle.json,"Greenway Health, LLC",1410
+https://fhir-servicebaseurl.fhirhlprod.greenwayhealth.com/servicebundle.json,"Greenway Health, LLC",1417
 https://fhir-usa.unify.chbase.com/.well-known/endpoint,"TruBridge, Inc.",479
 https://fhir.10e11.com/fhir/r4/endpoints,TenEleven Group,6
 https://fhir.allegiancemd.io/R4/urls/endpoints.json,"AllegianceMD Software, Inc.",1
 https://fhir.compulinkadvantage.com/endpoints,Compulink Healthcare Solutions,2
 https://fhir.cozeva.com/r4Endpoints.json,"Applied Research Works, Inc.",1
 https://fhir.digidms.com/fhir.json,"DigiDMS, Inc.",1
-https://fhir.eclinicalworks.com/ecwopendev/global/practiceList,"eClinicalWorks, LLC",18219
+https://fhir.eclinicalworks.com/ecwopendev/global/practiceList,"eClinicalWorks, LLC",18263
 https://fhir.elationemr.com/fhir/fhir-base-url,"Elation Health, Inc.",1
 https://fhir.ethizo.com/api/4.0.0/service_based_url,"DocToMe, Inc.",1
 https://fhir.footholdtechnology.com/Endpoint,"Foothold Technology, Inc.",19
 https://fhir.genensys.com/fhir/ServiceBaseURLs.json,Genensys LLC,1
-https://fhir.maximeyes.com/api/maximeyes.com/R4/PracticeBundle,First Insight Corporation,427
+https://fhir.maximeyes.com/api/maximeyes.com/R4/PracticeBundle,First Insight Corporation,433
 https://fhir.maximus.care/api/service_based_url,MaxRemind Inc,1
 https://fhir.mdland.net/ai/MDLandServiceBaseURLBundle.json,MDLAND,1
 https://fhir.mdnavigatorclinical.com/fhirurlpublication/api/endpoint,Benchmark Systems,62
-https://fhir.medent.com/fhir/resources/ServiceBaseURL.php,"medent - Community Computer Service, Inc.",54
+https://fhir.medent.com/fhir/resources/ServiceBaseURL.php,"medent - Community Computer Service, Inc.",56
 https://fhir.meditouchehr.com/api/fhir/r4/endpoint,NextGen Healthcare,1
 https://fhir.mhealthaz.com/servceurlsmedaz.json,"MedAZ.Net, LLC",1
 https://fhir.mkoss.com/FhirDocs/downloadJSON,Mendelson Kornblum Orthopedic & Spine Specialists,1
@@ -106,7 +107,6 @@ https://fhir.pcisgold.com/fhirdocs/practices,PCIS GOLD,5
 https://fhir.pointclickcare.com/R4endpoints.json,PointClickCare Technologies Inc.,4015
 https://fhir.practiceehr.com/servicebaseurl.json,Practice EHR LLC,1
 https://fhir.prd.cloud.tebra.com/fhir-organizations,"Tebra Technologies, Inc.",1
-https://fhir.procentive.com/fhir/r4/endpoints,Procentive,2
 https://fhir.prod.flatiron.io/fhir,Flatiron Health,1
 https://fhir.qsmartcare.com/,Magilen Enterprises Inc,1
 https://fhir.solidpractice.com/Endpoints-R4.json,"SolidPractice Technologies, LLC",1
@@ -117,14 +117,13 @@ https://fhirapi.asp.md:3030/aspmd/fhirserver/endpoints.asp,ASP.MD Inc.,1
 https://fhirapi.cursahealth.com/r4/service_based_url,CursaHealth LLC,1
 https://fhirapi.endosoft.com/apiendpoints.json,"EndoSoft, LLC",1
 https://fhirapi.medcaremso.com/api/R4/BaseUrls,Medcare MSO,2
-https://fhirapi.naiacorp.net/fhir/r4/endpoints,"CloudCraft, LLC",2
 https://fhirapis-qa2.patientfirst.com/service-base-urls,Patient First,1
 https://fhirbackup.emedpractice.com:8443/emedicalpracticebundle.json,eMedPractice LLC,1
 https://fhirendpoint.curemd.net/fhir/DEFAULT/Bundle/ServiceBaseURLs,"CureMD.com, Inc.",882
 https://fhirjuno-prod-web.dssinc.com/fhir/r4/endpoints,Juno Health,2
 https://fhirpresentation.pcsdataxchg.com/fhir/r4/endpoints,Prime Clinical Systems,3
 https://fhirpresentationdev.axxessweb.com/fhir/r4/endpoints,Axxess,1
-https://fhirpt.officeally.com/fhir/r4/endpoints,"Office Ally, LLC",14045
+https://fhirpt.officeally.com/fhir/r4/endpoints,"Office Ally, LLC",1746
 https://fhirservice.staging.psychplus.dev/fhir/r4/v3/service-based-url,Galaxy,1
 https://fhirservr4-apim.azure-api.net/smart/service-base,"Prime DataQ Health, LLC",1
 https://fusion.helixbeat.com/fhir/R4/,Helixbeat,1
@@ -152,15 +151,16 @@ https://oauth.astronautehr.com/SmartOnFHIR/ValidURLs.json,"Astronaut, LLC",1
 https://oauth.crystalpm.net/SmartOnFHIR/ValidURLs.json,"Abeo Solutions, Inc",1
 https://oauth.ipatientcare.net/api/FHIREndpoint,AssureCare LLC,66
 https://oauth.patientwebportal.com/Fhir/DownloadBundle,"MicroFour, Inc.",1
-https://oauth.practicesuite.com/SmartOnFHIR/ValidURLs.json,"PracticeSuite, Inc.",2
+https://oauth.practicesuite.com/SmartOnFHIR/ValidURLs.json,"PracticeSuite, Inc.",10
 https://oauth.smartmd.com/SmartOnFHIR/ValidURLs.json,"SMARTMD Technologies, Inc.",1
 https://oauth.webedoctor.com:9445/SmartOnFHIR/validurls.json,"WEBeDoctor, Inc.",1
 https://objectivemedicalsystems.com/wp-content/uploads/2025/09/fhir-endpoints-g-10-bundle-2.json,"Objective Medical Systems, LLC",1
 https://onc.fhir.clynyx.com/service-base-urls.json,Rigel Networks,1
+https://oncapi.medvantage.tech/service-base-url-list,CRITERION TECH PRIVATE LIMITED,1
 https://onetouchemr.com/ServiceBaseURLS.json,"OT EMR, Inc.",8
 https://open-api.clinicomp.com:8445/fhir/Organization?_include=Organization:endpoint,"CliniComp, Intl.",1
-https://open.epic.com/Endpoints/Brands,Epic Systems Corporation,776
-https://open.platform.veradigm.com/fhirendpoints/download/R4?endpointFilter=Patient,"Veradigm, LLC",1893
+https://open.epic.com/Endpoints/Brands,Epic Systems Corporation,778
+https://open.platform.veradigm.com/fhirendpoints/download/R4?endpointFilter=Patient,"Veradigm, LLC",1899
 https://patagoniahealth.com/hubfs/FHIRBaseURL.json,Patagonia Health,1
 https://patient360.anthem.com/P360Member/fhir,"CareEvolution, Inc.",58
 https://patientportal.streamlinemd.com/FHIRReg/Servicebaseurl.json,"StreamlineMD, LLC",1
@@ -187,7 +187,7 @@ https://retinex-apim.azure-api.net/smart/service-base,"Retinex, Inc.",1
 https://revolutionehr.dynamicfhir.com/fhir/r4/endpoints,"Health Innovation Technologies, Inc.",228
 https://royalsolutionsgroup.com/web/company/cert/FHIRBundleEndpoint.json,"Royal Health, Inc.",1
 https://sandbox.pai.healthcare/preview/fhir/servicebaseurls,"Practice Alternatives, Inc.",1
-https://service-base-urls.api.fhir.athena.io/athena-fhir-service-base-urls.json,"athenahealth, Inc.",23395
+https://service-base-urls.api.fhir.athena.io/athena-fhir-service-base-urls.json,"athenahealth, Inc.",23431
 https://services.ezemrx.com/ezEMRx/fhir/ezemrxBundleValid.json,ezEMRx Inc,1
 https://services.fhir.nextgen.com/FhirServiceBaseBundle-R4,NextGen Healthcare,1
 https://smartonfhir.myeyecarerecords.com/fhir/Organization?_include=Organization:endpoint&type=prov&_format=application/fhir+json,"Optivate Health, LLC",44
@@ -201,6 +201,7 @@ https://thrive-gw.cpsi-cloud.com/api/fhir/r4/.well-known/endpoint,"TruBridge, In
 https://trial.avonhealth.com/fhir/.well-known/service-base-url,Avon Health,1
 https://uat.geesemed.com/GeesemedMu3Prod/Data/FhirEndpoint/fhirR4endpoints.json,MDOfficeManager,2
 https://varian.dynamicfhir.com/fhir/r4/endpoints,Varian Medical Systems,1
+https://versasuite.com/VersaSuite_Drumond_Inferno_Endpoint.json,VersaSuite,1
 https://wc.praxisclouds.net/Erika/api/v1/.servicebase/bundle,Infor-Med Medical Information Systems Inc.,1
 https://www.agastha.com/FHIRServiceBaseURLBundle.json,"Agastha, Inc.",1
 https://www.braintreehealth.com/wp-content/uploads/2024/12/mu-fhir.json,Braintree Health,1
@@ -213,9 +214,9 @@ https://www.mdflow.com/www/pdf%20files/ValidURLs.json,"MDFlow EHR, LLC DBA: MDFl
 https://www.mdlogiccloud.com/api/fhir/endpoints,"MD Logic, Inc.",1
 https://www.medonehp.com/files/FHIR_Valid%20URLs.json,Memry Health,1
 https://www.medplum.com/onc/base.json,Medplum,1
-https://www.open-emr.org/files/openemr-service-base-urls.json,OpenEMR Foundation,5
+https://www.open-emr.org/files/openemr-service-base-urls.json,OpenEMR Foundation,6
 https://www.pcesystems.com/api_list.json,PCE Systems,1
-https://www.practicefusion.com/assets/static_files/ServiceBaseURLs.json,Practice Fusion,7106
+https://www.practicefusion.com/assets/static_files/ServiceBaseURLs.json,Practice Fusion,7122
 https://www.provider.care/FHIR/MDVitaFHIRUrls.json,"Health Care 2000, Inc.",6
 https://www.secureemrplus.com/fhirurlpublication/api/endpoint,Inmediata Health Group LLC,32
 https://www.systemedx.com/API/endpoint.json,Systemedx Inc,1

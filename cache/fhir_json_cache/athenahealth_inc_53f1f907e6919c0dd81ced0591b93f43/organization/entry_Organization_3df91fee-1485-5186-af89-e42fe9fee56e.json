@@ -14,15 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114225745"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073683553"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1912327941"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1174157986"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,10 +30,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174157986"
+        "value": "1073683553"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114225745"
       }
     ],
     "address": [
+      {
+        "line": [
+          "5655 S ORANGE AVE"
+        ],
+        "city": "ORLANDO",
+        "state": "FL",
+        "postalCode": "32809-4289"
+      },
       {
         "line": [
           "2445 Lane Park Road"
@@ -48,15 +56,15 @@
       },
       {
         "line": [
-          "2140 E County Rd 540A"
+          "2410 SW 27TH AVE"
         ],
-        "city": "LAKELAND",
+        "city": "OCALA",
         "state": "FL",
-        "postalCode": "33813-3740"
+        "postalCode": "34471-4308"
       },
       {
         "line": [
-          "5655 S ORANGE AVE"
+          "5655 S Orange Ave"
         ],
         "city": "ORLANDO",
         "state": "FL",
@@ -72,19 +80,11 @@
       },
       {
         "line": [
-          "2445 Lane Park Rd"
+          "2140 E County Rd 540A"
         ],
-        "city": "TAVARES",
+        "city": "LAKELAND",
         "state": "FL",
-        "postalCode": "32778-9648"
-      },
-      {
-        "line": [
-          "5655 S Orange Ave"
-        ],
-        "city": "ORLANDO",
-        "state": "FL",
-        "postalCode": "32809-4289"
+        "postalCode": "33813-3740"
       },
       {
         "line": [
@@ -96,11 +96,11 @@
       },
       {
         "line": [
-          "2410 SW 27TH AVE"
+          "2445 Lane Park Rd"
         ],
-        "city": "OCALA",
+        "city": "TAVARES",
         "state": "FL",
-        "postalCode": "34471-4308"
+        "postalCode": "32778-9648"
       }
     ],
     "extension": [

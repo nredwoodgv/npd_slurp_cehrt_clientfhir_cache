@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1356553002"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396958633"
       },
       {
@@ -22,14 +26,58 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1356553002"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1871713909"
       }
     ],
     "address": [
+      {
+        "line": [],
+        "city": "ROSWELL",
+        "state": "NM",
+        "postalCode": "88203-5436"
+      },
+      {
+        "line": [
+          "603 W Country Club Rd"
+        ],
+        "city": "ROSWELL",
+        "state": "NM",
+        "postalCode": "88201-5225"
+      },
+      {
+        "line": [
+          "405 W COUNTRY CLUB RD"
+        ],
+        "city": "ROSWELL",
+        "state": "NM",
+        "postalCode": "88201-5209"
+      },
+      {
+        "line": [],
+        "city": "HOBBS",
+        "state": "NM",
+        "postalCode": "88240-9100"
+      },
+      {
+        "line": [],
+        "city": "CARLSBAD",
+        "state": "NM",
+        "postalCode": "88220-3553"
+      },
+      {
+        "line": [
+          "350 W COUNTRY CLUB RD STE 205"
+        ],
+        "city": "ROSWELL",
+        "state": "NM",
+        "postalCode": "88201-5205"
+      },
+      {
+        "line": [],
+        "city": "RUIDOSO",
+        "state": "NM",
+        "postalCode": "88345-6002"
+      },
       {
         "line": [
           "405 W Country Club Rd"
@@ -45,24 +93,46 @@
         "postalCode": "88201-5209"
       },
       {
-        "line": [],
-        "city": "HOBBS",
-        "state": "NM",
-        "postalCode": "88240-9100"
-      },
-      {
         "line": [
-          "405 W COUNTRY CLUB RD"
+          "601 W Country Club Rd Ste 201"
         ],
         "city": "ROSWELL",
         "state": "NM",
-        "postalCode": "88201-5209"
+        "postalCode": "88201-5225"
       },
       {
         "line": [],
         "city": "ROSWELL",
         "state": "NM",
-        "postalCode": "88201-5225"
+        "postalCode": "88203-2628"
+      },
+      {
+        "line": [
+          "300 W COUNTRY CLUB RD STE 230"
+        ],
+        "city": "ROSWELL",
+        "state": "NM",
+        "postalCode": "88201-5240"
+      },
+      {
+        "line": [],
+        "city": "MESCALERO",
+        "state": "NM",
+        "postalCode": "88340-9998"
+      },
+      {
+        "line": [],
+        "city": "ROSWELL",
+        "state": "NM",
+        "postalCode": "88201-5804"
+      },
+      {
+        "line": [
+          "509 W. Mahone Dr. Ste B"
+        ],
+        "city": "ARTESIA",
+        "state": "NM",
+        "postalCode": "88210-2074"
       },
       {
         "line": [],
@@ -80,17 +150,11 @@
       },
       {
         "line": [
-          "300 W COUNTRY CLUB RD STE 230"
+          "350 W COUNTRY CLUB RD STE 201"
         ],
         "city": "ROSWELL",
         "state": "NM",
-        "postalCode": "88201-5240"
-      },
-      {
-        "line": [],
-        "city": "CARLSBAD",
-        "state": "NM",
-        "postalCode": "88220-3553"
+        "postalCode": "88201-5221"
       },
       {
         "line": [],
@@ -99,46 +163,12 @@
         "postalCode": "37027-0001"
       },
       {
-        "line": [],
-        "city": "ROSWELL",
-        "state": "NM",
-        "postalCode": "88203-2628"
-      },
-      {
-        "line": [
-          "350 W COUNTRY CLUB RD STE 201"
-        ],
-        "city": "ROSWELL",
-        "state": "NM",
-        "postalCode": "88201-5221"
-      },
-      {
         "line": [
           "1011 Main Street"
         ],
         "city": "SPRING HILL",
         "state": "TN",
         "postalCode": "37174-4531"
-      },
-      {
-        "line": [],
-        "city": "ROSWELL",
-        "state": "NM",
-        "postalCode": "88203-5436"
-      },
-      {
-        "line": [],
-        "city": "MESCALERO",
-        "state": "NM",
-        "postalCode": "88340-9998"
-      },
-      {
-        "line": [
-          "601 W Country Club Rd Ste 201"
-        ],
-        "city": "ROSWELL",
-        "state": "NM",
-        "postalCode": "88201-5225"
       },
       {
         "line": [
@@ -150,39 +180,9 @@
       },
       {
         "line": [],
-        "city": "RUIDOSO",
-        "state": "NM",
-        "postalCode": "88345-6002"
-      },
-      {
-        "line": [
-          "350 W COUNTRY CLUB RD STE 205"
-        ],
-        "city": "ROSWELL",
-        "state": "NM",
-        "postalCode": "88201-5205"
-      },
-      {
-        "line": [
-          "509 W. Mahone Dr. Ste B"
-        ],
-        "city": "ARTESIA",
-        "state": "NM",
-        "postalCode": "88210-2074"
-      },
-      {
-        "line": [
-          "603 W Country Club Rd"
-        ],
         "city": "ROSWELL",
         "state": "NM",
         "postalCode": "88201-5225"
-      },
-      {
-        "line": [],
-        "city": "ROSWELL",
-        "state": "NM",
-        "postalCode": "88201-5804"
       }
     ],
     "extension": [

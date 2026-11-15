@@ -14,7 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083014914"
+        "value": "1245769744"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457863565"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952340911"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376862151"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,23 +38,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538430533"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760599906"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376862151"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952340911"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245769744"
+        "value": "1083014914"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,7 +46,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457863565"
+        "value": "1538430533"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1760599906"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -60,8 +60,7 @@
     "address": [
       {
         "line": [
-          "801 Broadway NW",
-          "Suite 105"
+          "801 Broadway NW, Suite 105"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
@@ -69,7 +68,8 @@
       },
       {
         "line": [
-          "801 Broadway NW, Suite 105"
+          "801 Broadway NW",
+          "Suite 105"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",

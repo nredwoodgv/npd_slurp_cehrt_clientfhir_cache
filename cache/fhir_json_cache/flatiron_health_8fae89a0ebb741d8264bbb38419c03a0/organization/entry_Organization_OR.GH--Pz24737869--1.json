@@ -1286,11 +1286,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104312701"
+        "value": "1629835814"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629835814"
+        "value": "1104312701"
       }
     ],
     "active": true,
@@ -2998,15 +2998,7 @@
       },
       {
         "system": "phone",
-        "value": "(574)725-7025"
-      },
-      {
-        "system": "phone",
         "value": "(574)725-7026"
-      },
-      {
-        "system": "phone",
-        "value": "(936)213-7000"
       },
       {
         "system": "phone",
@@ -3015,6 +3007,14 @@
       {
         "system": "phone",
         "value": "(480)428-7678"
+      },
+      {
+        "system": "phone",
+        "value": "(936)213-7000"
+      },
+      {
+        "system": "phone",
+        "value": "(574)725-7025"
       }
     ],
     "address": [
@@ -10390,17 +10390,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1281 E Cottonwood Lane"
-        ],
-        "city": "Casa Grande",
-        "state": "AZ",
-        "postalCode": "85122",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "1020 Riverwood CT",
           "Suite 330"
         ],
@@ -10481,46 +10470,12 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "5340 Holy Cross Pkwy"
-        ],
-        "city": "Mishawaka",
-        "state": "IN",
-        "postalCode": "46545",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "2855 Miller Drive",
           "Suite 119"
         ],
         "city": "Plymouth",
         "state": "IN",
         "postalCode": "46563",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1020 Riverwood Ct",
-          "Suite 330"
-        ],
-        "city": "Conroe",
-        "state": "TX",
-        "postalCode": "77304",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "130 Medical Circle"
-        ],
-        "city": "Nashville",
-        "state": "AR",
-        "postalCode": "71852",
         "country": "USA"
       },
       {
@@ -10615,6 +10570,51 @@
         "city": "Surprise",
         "state": "AZ",
         "postalCode": "85374",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1281 E Cottonwood Lane"
+        ],
+        "city": "Casa Grande",
+        "state": "AZ",
+        "postalCode": "85122",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "130 Medical Circle"
+        ],
+        "city": "Nashville",
+        "state": "AR",
+        "postalCode": "71852",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1020 Riverwood Ct",
+          "Suite 330"
+        ],
+        "city": "Conroe",
+        "state": "TX",
+        "postalCode": "77304",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "5340 Holy Cross Pkwy"
+        ],
+        "city": "Mishawaka",
+        "state": "IN",
+        "postalCode": "46545",
         "country": "USA"
       }
     ],

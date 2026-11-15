@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659329852"
+        "value": "1477738896"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477738896"
+        "value": "1659329852"
       }
     ],
     "address": [
+      {
+        "line": [
+          "151 E REDSTONE AVE"
+        ],
+        "city": "Crestview",
+        "state": "FL",
+        "postalCode": "32539-5352"
+      },
       {
         "line": [
           "151 E REDSTONE AVE"
@@ -46,14 +54,6 @@
         "city": "CRESTVIEW",
         "state": "FL",
         "postalCode": "32536-6428"
-      },
-      {
-        "line": [
-          "151 E REDSTONE AVE"
-        ],
-        "city": "Crestview",
-        "state": "FL",
-        "postalCode": "32539-5352"
       }
     ],
     "extension": [

@@ -18,7 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639366685"
+        "value": "1487183612"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1477724995"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,50 +30,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487183612"
+        "value": "1639366685"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578139705"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477724995"
       }
     ],
     "address": [
-      {
-        "line": [
-          "417 N MARTIN LUTHER KING DR"
-        ],
-        "city": "SIMMESPORT",
-        "state": "LA",
-        "postalCode": "71369-2181"
-      },
-      {
-        "line": [
-          "6615 SAINT PHILLIP ST"
-        ],
-        "city": "MANSURA",
-        "state": "LA",
-        "postalCode": "71350-0900"
-      },
-      {
-        "line": [
-          "1007 SYCAMORE STREET"
-        ],
-        "city": "COTTONPORT",
-        "state": "LA",
-        "postalCode": "71327-3403"
-      },
-      {
-        "line": [
-          "457 West Wadill Street"
-        ],
-        "city": "MARKSVILLE",
-        "state": "LA",
-        "postalCode": "71351-2619"
-      },
       {
         "line": [
           "457 W WADDIL ST"
@@ -77,14 +45,6 @@
         "city": "MARKSVILLE",
         "state": "LA",
         "postalCode": "71351-2619"
-      },
-      {
-        "line": [
-          "1007 SYCAMORE ST"
-        ],
-        "city": "COTTONPORT",
-        "state": "LA",
-        "postalCode": "71327-3403"
       },
       {
         "line": [
@@ -102,6 +62,46 @@
         "city": "SIMMESPORT",
         "state": "LA",
         "postalCode": "71369-2181"
+      },
+      {
+        "line": [
+          "457 West Wadill Street"
+        ],
+        "city": "MARKSVILLE",
+        "state": "LA",
+        "postalCode": "71351-2619"
+      },
+      {
+        "line": [
+          "6615 SAINT PHILLIP ST"
+        ],
+        "city": "MANSURA",
+        "state": "LA",
+        "postalCode": "71350-0900"
+      },
+      {
+        "line": [
+          "1007 SYCAMORE ST"
+        ],
+        "city": "COTTONPORT",
+        "state": "LA",
+        "postalCode": "71327-3403"
+      },
+      {
+        "line": [
+          "417 N MARTIN LUTHER KING DR"
+        ],
+        "city": "SIMMESPORT",
+        "state": "LA",
+        "postalCode": "71369-2181"
+      },
+      {
+        "line": [
+          "1007 SYCAMORE STREET"
+        ],
+        "city": "COTTONPORT",
+        "state": "LA",
+        "postalCode": "71327-3403"
       }
     ],
     "extension": [

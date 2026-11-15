@@ -14,41 +14,41 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821919275"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1427146430"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326969783"
+        "value": "1821919275"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1518055524"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326969783"
       }
     ],
     "address": [
       {
         "line": [
-          "6501 S PROMONTORY DRIVE"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60649-1003"
-      },
-      {
-        "line": [
-          "6501 PROMONTORY DRIVE"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60649-1003"
-      },
-      {
-        "line": [
           "6501 S PROMONTORY DR"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60649-1003"
+      },
+      {
+        "line": [
+          "6501 S. Promontory Dr"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60649-1395"
+      },
+      {
+        "line": [
+          "6501 S PROMONTORY DRIVE"
         ],
         "city": "CHICAGO",
         "state": "IL",
@@ -64,11 +64,11 @@
       },
       {
         "line": [
-          "6501 S. Promontory Dr"
+          "6501 PROMONTORY DRIVE"
         ],
         "city": "CHICAGO",
         "state": "IL",
-        "postalCode": "60649-1395"
+        "postalCode": "60649-1003"
       }
     ],
     "extension": [

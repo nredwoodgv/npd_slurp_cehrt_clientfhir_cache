@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407235971"
+        "value": "1174744379"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,10 +22,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174744379"
+        "value": "1407235971"
       }
     ],
     "address": [
+      {
+        "line": [
+          "760 LAKELAND DR"
+        ],
+        "city": "JACKSON",
+        "state": "MS",
+        "postalCode": "39216-4610"
+      },
       {
         "line": [
           "1225 N STATE ST"
@@ -49,14 +57,6 @@
         "city": "FLOWOOD",
         "state": "MS",
         "postalCode": "39232-9532"
-      },
-      {
-        "line": [
-          "760 LAKELAND DR"
-        ],
-        "city": "JACKSON",
-        "state": "MS",
-        "postalCode": "39216-4610"
       },
       {
         "line": [

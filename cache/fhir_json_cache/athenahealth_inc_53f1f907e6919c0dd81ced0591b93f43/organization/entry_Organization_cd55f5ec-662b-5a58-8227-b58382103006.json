@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790143766"
+        "value": "1902264971"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,15 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659921740"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1770943631"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770941742"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,29 +30,29 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902264971"
+        "value": "1659921740"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1689034548"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1770941742"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1790143766"
       }
     ],
     "address": [
       {
         "line": [
-          "1315 Roberts St"
+          "1344 Haile St"
         ],
         "city": "CAMDEN",
         "state": "SC",
         "postalCode": "29020-3076"
-      },
-      {
-        "line": [
-          "1315 ROBERTS ST"
-        ],
-        "city": "CAMDEN",
-        "state": "SC",
-        "postalCode": "29020-3737"
       },
       {
         "line": [
@@ -72,14 +64,6 @@
       },
       {
         "line": [
-          "2689 Hwy 1 South"
-        ],
-        "city": "ELGIN",
-        "state": "SC",
-        "postalCode": "29045-9055"
-      },
-      {
-        "line": [
           "1315 Roberts St"
         ],
         "city": "CAMDEN",
@@ -88,11 +72,11 @@
       },
       {
         "line": [
-          "1344 Haile St"
+          "1315 ROBERTS ST"
         ],
         "city": "CAMDEN",
         "state": "SC",
-        "postalCode": "29020-3076"
+        "postalCode": "29020-3737"
       },
       {
         "line": [
@@ -104,6 +88,14 @@
       },
       {
         "line": [
+          "615 Laurens St"
+        ],
+        "city": "CAMDEN",
+        "state": "SC",
+        "postalCode": "29020-3523"
+      },
+      {
+        "line": [
           "1800 Roberts St"
         ],
         "city": "CAMDEN",
@@ -112,11 +104,19 @@
       },
       {
         "line": [
-          "615 Laurens St"
+          "1315 Roberts St"
         ],
         "city": "CAMDEN",
         "state": "SC",
-        "postalCode": "29020-3523"
+        "postalCode": "29020-3076"
+      },
+      {
+        "line": [
+          "2689 Hwy 1 South"
+        ],
+        "city": "ELGIN",
+        "state": "SC",
+        "postalCode": "29045-9055"
       }
     ],
     "extension": [

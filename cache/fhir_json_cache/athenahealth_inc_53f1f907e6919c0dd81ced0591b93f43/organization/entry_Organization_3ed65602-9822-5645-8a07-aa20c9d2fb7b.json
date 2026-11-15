@@ -14,35 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518354547"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821433129"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275049850"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396131389"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396152351"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154814390"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730426040"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477909570"
+        "value": "1013302017"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,11 +22,31 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013302017"
+        "value": "1275049850"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912413147"
+        "value": "1154814390"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1518354547"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396131389"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154302214"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821433129"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1477909570"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,17 +54,33 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154302214"
+        "value": "1912413147"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396152351"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730426040"
       }
     ],
     "address": [
       {
         "line": [
-          "1401 N 10th Ave Ste 100"
+          "1401 N 10th Ave"
         ],
         "city": "STAYTON",
         "state": "OR",
-        "postalCode": "97383-1487"
+        "postalCode": "97383-1399"
+      },
+      {
+        "line": [
+          "390 Church St"
+        ],
+        "city": "SUBLIMITY",
+        "state": "OR",
+        "postalCode": "97385-2099"
       },
       {
         "line": [
@@ -92,27 +100,19 @@
       },
       {
         "line": [
-          "1401 N 10th Ave"
-        ],
-        "city": "STAYTON",
-        "state": "OR",
-        "postalCode": "97383-1399"
-      },
-      {
-        "line": [
-          "390 Church St"
-        ],
-        "city": "SUBLIMITY",
-        "state": "OR",
-        "postalCode": "97385-2099"
-      },
-      {
-        "line": [
           "205 Main St"
         ],
         "city": "AUMSVILLE",
         "state": "OR",
         "postalCode": "97325-9018"
+      },
+      {
+        "line": [
+          "1401 N 10th Ave Ste 100"
+        ],
+        "city": "STAYTON",
+        "state": "OR",
+        "postalCode": "97383-1487"
       }
     ],
     "extension": [

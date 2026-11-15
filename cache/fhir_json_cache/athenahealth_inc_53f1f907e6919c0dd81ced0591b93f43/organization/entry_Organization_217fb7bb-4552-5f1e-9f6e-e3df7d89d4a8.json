@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174333975"
+        "value": "1346050150"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750195483"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,31 +26,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346050150"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750195483"
+        "value": "1174333975"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1201 HAYS ST"
-        ],
-        "city": "TALLAHASSEE",
-        "state": "FL",
-        "postalCode": "32301-2699"
-      },
-      {
-        "line": [
-          "3800 N CENTRAL AVE",
-          "STE 460"
-        ],
-        "city": "PHOENIX",
-        "state": "KS",
-        "postalCode": "85012-1995"
-      },
       {
         "line": [
           "100 CHARLES EWING BLVD",
@@ -64,6 +47,23 @@
         "city": "SUNNYVALE",
         "state": "CA",
         "postalCode": "94085-4052"
+      },
+      {
+        "line": [
+          "3800 N CENTRAL AVE",
+          "STE 460"
+        ],
+        "city": "PHOENIX",
+        "state": "KS",
+        "postalCode": "85012-1995"
+      },
+      {
+        "line": [
+          "1201 HAYS ST"
+        ],
+        "city": "TALLAHASSEE",
+        "state": "FL",
+        "postalCode": "32301-2699"
       }
     ],
     "extension": [

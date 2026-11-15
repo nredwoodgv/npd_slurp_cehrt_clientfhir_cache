@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437536521"
+        "value": "1619517521"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619517521"
+        "value": "1437536521"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,6 +26,14 @@
       }
     ],
     "address": [
+      {
+        "line": [
+          "131 N EL MOLINO AVE STE 180"
+        ],
+        "city": "PASADENA",
+        "state": "CA",
+        "postalCode": "91101-5601"
+      },
       {
         "line": [
           "937 E MAIN ST"
@@ -44,11 +52,20 @@
       },
       {
         "line": [
-          "1011 RANCHO CONEJO BLVD"
+          "862 AEROVISTA PL",
+          "STE 210"
         ],
-        "city": "NEWBURY PARK",
+        "city": "SAN LUIS OBISPO",
         "state": "CA",
-        "postalCode": "91320-1718"
+        "postalCode": "93401-8759"
+      },
+      {
+        "line": [
+          "400 CAMARILLO RANCH RD STE 101"
+        ],
+        "city": "CAMARILLO",
+        "state": "CA",
+        "postalCode": "93012-5901"
       },
       {
         "line": [
@@ -60,11 +77,11 @@
       },
       {
         "line": [
-          "131 N EL MOLINO AVE STE 180"
+          "2975 SYCAMORE DR"
         ],
-        "city": "PASADENA",
+        "city": "SIMI VALLEY",
         "state": "CA",
-        "postalCode": "91101-5601"
+        "postalCode": "93065-1201"
       },
       {
         "line": [
@@ -73,23 +90,6 @@
         "city": "NORTHRIDGE",
         "state": "CA",
         "postalCode": "91324-3920"
-      },
-      {
-        "line": [
-          "862 AEROVISTA PL",
-          "STE 210"
-        ],
-        "city": "SAN LUIS OBISPO",
-        "state": "CA",
-        "postalCode": "93401-8759"
-      },
-      {
-        "line": [
-          "2975 SYCAMORE DR"
-        ],
-        "city": "SIMI VALLEY",
-        "state": "CA",
-        "postalCode": "93065-1201"
       },
       {
         "line": [
@@ -102,11 +102,11 @@
       },
       {
         "line": [
-          "400 CAMARILLO RANCH RD STE 101"
+          "1011 RANCHO CONEJO BLVD"
         ],
-        "city": "CAMARILLO",
+        "city": "NEWBURY PARK",
         "state": "CA",
-        "postalCode": "93012-5901"
+        "postalCode": "91320-1718"
       }
     ],
     "extension": [

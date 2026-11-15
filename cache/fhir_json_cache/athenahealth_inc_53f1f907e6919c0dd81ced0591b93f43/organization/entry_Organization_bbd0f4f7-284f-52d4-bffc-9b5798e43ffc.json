@@ -14,15 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639506470"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1821041617"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1992994214"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1639506470"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1982352357"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,23 +38,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982352357"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952703373"
       }
     ],
     "address": [
-      {
-        "line": [
-          "200 PERIMETER PARK DR",
-          "SUITE C"
-        ],
-        "city": "MORRISVILLE",
-        "state": "NC",
-        "postalCode": "27560-9714"
-      },
       {
         "line": [
           "60  Franklin St"
@@ -67,6 +58,23 @@
         "city": "TUCSON",
         "state": "AZ",
         "postalCode": "85741-3564"
+      },
+      {
+        "line": [
+          "200 PERIMETER PARK DR",
+          "SUITE C"
+        ],
+        "city": "MORRISVILLE",
+        "state": "NC",
+        "postalCode": "27560-9714"
+      },
+      {
+        "line": [
+          "1560 Turf Lane"
+        ],
+        "city": "EAST LANSING",
+        "state": "MI",
+        "postalCode": "48823-6392"
       },
       {
         "line": [
@@ -88,11 +96,11 @@
       },
       {
         "line": [
-          "1560 Turf Lane"
+          "6100 Harris Parkway"
         ],
-        "city": "EAST LANSING",
-        "state": "MI",
-        "postalCode": "48823-6392"
+        "city": "FORT WORTH",
+        "state": "TX",
+        "postalCode": "76132-6109"
       },
       {
         "line": [
@@ -102,14 +110,6 @@
         "city": "ELIZABETH CITY",
         "state": "NC",
         "postalCode": "27909-3354"
-      },
-      {
-        "line": [
-          "6100 Harris Parkway"
-        ],
-        "city": "FORT WORTH",
-        "state": "TX",
-        "postalCode": "76132-6109"
       }
     ],
     "extension": [

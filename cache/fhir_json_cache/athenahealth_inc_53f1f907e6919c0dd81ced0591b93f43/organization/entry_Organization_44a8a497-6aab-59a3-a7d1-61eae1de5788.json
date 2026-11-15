@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396849329"
+        "value": "1053469486"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053469486"
+        "value": "1396849329"
       }
     ],
     "address": [
-      {
-        "line": [
-          "150 MEDICAL CENTER DRIVE"
-        ],
-        "city": "WEST POINT",
-        "state": "MS",
-        "postalCode": "39773-0428"
-      },
       {
         "line": [
           "1256 MILITARY STREET"
@@ -37,6 +29,14 @@
         "city": "HAMILTON",
         "state": "AL",
         "postalCode": "35570-5003"
+      },
+      {
+        "line": [
+          "150 MEDICAL CENTER DRIVE"
+        ],
+        "city": "WEST POINT",
+        "state": "MS",
+        "postalCode": "39773-0428"
       }
     ],
     "extension": [

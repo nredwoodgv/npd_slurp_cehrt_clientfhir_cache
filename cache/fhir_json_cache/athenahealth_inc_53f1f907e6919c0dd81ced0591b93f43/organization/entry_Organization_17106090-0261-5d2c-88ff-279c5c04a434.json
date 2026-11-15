@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912264862"
+        "value": "1558797118"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538420104"
+        "value": "1912264862"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,10 +26,18 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558797118"
+        "value": "1538420104"
       }
     ],
     "address": [
+      {
+        "line": [
+          "2150 Main St"
+        ],
+        "city": "CAMBRIA",
+        "state": "CA",
+        "postalCode": "93428-3022"
+      },
       {
         "line": [
           "1400 E CHURCH ST"
@@ -40,19 +48,19 @@
       },
       {
         "line": [
-          "322 Posada Ln Ste B"
-        ],
-        "city": "TEMPLETON",
-        "state": "CA",
-        "postalCode": "93465-4021"
-      },
-      {
-        "line": [
           "1304 Ella Street"
         ],
         "city": "SAN LUIS OBISPO",
         "state": "CA",
         "postalCode": "93401-4100"
+      },
+      {
+        "line": [
+          "1320 Las Tablas Rd Ste A"
+        ],
+        "city": "TEMPLETON",
+        "state": "CA",
+        "postalCode": "93465-9711"
       },
       {
         "line": [
@@ -73,19 +81,11 @@
       },
       {
         "line": [
-          "2150 Main St"
-        ],
-        "city": "CAMBRIA",
-        "state": "CA",
-        "postalCode": "93428-3022"
-      },
-      {
-        "line": [
-          "1320 Las Tablas Rd Ste A"
+          "322 Posada Ln Ste B"
         ],
         "city": "TEMPLETON",
         "state": "CA",
-        "postalCode": "93465-9711"
+        "postalCode": "93465-4021"
       }
     ],
     "extension": [

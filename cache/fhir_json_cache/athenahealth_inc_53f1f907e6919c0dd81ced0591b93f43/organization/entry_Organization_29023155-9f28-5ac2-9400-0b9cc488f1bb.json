@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932925062"
+        "value": "1609281641"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609281641"
+        "value": "1932925062"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,14 +30,6 @@
       }
     ],
     "address": [
-      {
-        "line": [
-          "68 Hospital Road Suite 201"
-        ],
-        "city": "SYLVA",
-        "state": "NC",
-        "postalCode": "28779-2722"
-      },
       {
         "line": [
           "68 Hospital Road"
@@ -54,6 +46,14 @@
         "city": "SYLVA",
         "state": "NC",
         "postalCode": "28779-5146"
+      },
+      {
+        "line": [
+          "68 Hospital Road Suite 201"
+        ],
+        "city": "SYLVA",
+        "state": "NC",
+        "postalCode": "28779-2722"
       }
     ],
     "extension": [

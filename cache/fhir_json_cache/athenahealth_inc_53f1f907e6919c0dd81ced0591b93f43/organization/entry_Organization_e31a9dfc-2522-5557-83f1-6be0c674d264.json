@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477571891"
+        "value": "1447329990"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447329990"
+        "value": "1477571891"
       }
     ],
     "address": [
       {
         "line": [
-          "6325 HUMPHREYS BLVD"
+          "7601 SOUTHCREST PKWY"
         ],
-        "city": "MEMPHIS",
-        "state": "TN",
-        "postalCode": "38120-2300"
+        "city": "SOUTHAVEN",
+        "state": "MS",
+        "postalCode": "38671-4739"
       },
       {
         "line": [
@@ -48,6 +48,14 @@
       },
       {
         "line": [
+          "6011 AIRLINE RD STE 102"
+        ],
+        "city": "ARLINGTON",
+        "state": "TN",
+        "postalCode": "38002-9916"
+      },
+      {
+        "line": [
           "1211 UNION AVE"
         ],
         "city": "MEMPHIS",
@@ -56,11 +64,11 @@
       },
       {
         "line": [
-          "6011 AIRLINE RD STE 102"
+          "6325 HUMPHREYS BLVD"
         ],
-        "city": "ARLINGTON",
+        "city": "MEMPHIS",
         "state": "TN",
-        "postalCode": "38002-9916"
+        "postalCode": "38120-2300"
       },
       {
         "line": [
@@ -72,19 +80,19 @@
       },
       {
         "line": [
+          "262 DANNY THOMAS PL"
+        ],
+        "city": "MEMPHIS",
+        "state": "TN",
+        "postalCode": "38105-3678"
+      },
+      {
+        "line": [
           "9950 CROOKED CREEK RD"
         ],
         "city": "COLLIERVILLE",
         "state": "TN",
         "postalCode": "38017-0881"
-      },
-      {
-        "line": [
-          "7601 SOUTHCREST PKWY"
-        ],
-        "city": "SOUTHAVEN",
-        "state": "MS",
-        "postalCode": "38671-4739"
       }
     ],
     "extension": [

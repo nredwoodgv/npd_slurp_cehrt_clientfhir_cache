@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407235971"
+        "value": "1548640642"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,18 +22,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548640642"
+        "value": "1407235971"
       }
     ],
     "address": [
-      {
-        "line": [
-          "6524 US Hwy 98 West"
-        ],
-        "city": "HATTIESBURG",
-        "state": "MS",
-        "postalCode": "39402-1588"
-      },
       {
         "line": [
           "5001 Hardy St."
@@ -44,7 +36,15 @@
       },
       {
         "line": [
-          "6524 US Hwy 98"
+          "5001 Hardy Street"
+        ],
+        "city": "HATTIESBURG",
+        "state": "MS",
+        "postalCode": "39402-1308"
+      },
+      {
+        "line": [
+          "6524 Hwy 98 West"
         ],
         "city": "HATTIESBURG",
         "state": "MS",
@@ -52,15 +52,31 @@
       },
       {
         "line": [
-          "5003 Hardy Street, Suite 350"
+          "6524 US Hwy 98 West"
         ],
         "city": "HATTIESBURG",
         "state": "MS",
-        "postalCode": "39402-1323"
+        "postalCode": "39402-1588"
+      },
+      {
+        "line": [
+          "1242 Hwy 29 N."
+        ],
+        "city": "ELLISVILLE",
+        "state": "MS",
+        "postalCode": "39437-8763"
       },
       {
         "line": [
           "6524 U S Hwy 98 West"
+        ],
+        "city": "HATTIESBURG",
+        "state": "MS",
+        "postalCode": "39402-8569"
+      },
+      {
+        "line": [
+          "6524 US Hwy 98"
         ],
         "city": "HATTIESBURG",
         "state": "MS",
@@ -76,27 +92,11 @@
       },
       {
         "line": [
-          "6524 Hwy 98 West"
+          "5003 Hardy Street, Suite 350"
         ],
         "city": "HATTIESBURG",
         "state": "MS",
-        "postalCode": "39402-8569"
-      },
-      {
-        "line": [
-          "5001 Hardy Street"
-        ],
-        "city": "HATTIESBURG",
-        "state": "MS",
-        "postalCode": "39402-1308"
-      },
-      {
-        "line": [
-          "1242 Hwy 29 N."
-        ],
-        "city": "ELLISVILLE",
-        "state": "MS",
-        "postalCode": "39437-8763"
+        "postalCode": "39402-1323"
       }
     ],
     "extension": [

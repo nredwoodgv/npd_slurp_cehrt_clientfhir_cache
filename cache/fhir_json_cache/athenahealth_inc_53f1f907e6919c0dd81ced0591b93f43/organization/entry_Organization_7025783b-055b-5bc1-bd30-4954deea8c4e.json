@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740682921"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1184994162"
       },
       {
@@ -26,29 +22,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699143800"
+        "value": "1740682921"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1063229458"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1699143800"
       }
     ],
     "address": [
       {
         "line": [
-          "2595 Depot Street"
+          "324 EQUINOX TERRACE"
         ],
         "city": "MANCHESTER CENTER",
         "state": "VT",
-        "postalCode": "05255-3401"
-      },
-      {
-        "line": [
-          "43 NEW SCOTLAND AVE"
-        ],
-        "city": "ALBANY",
-        "state": "NY",
-        "postalCode": "12208-3412"
+        "postalCode": "05255-9253"
       },
       {
         "line": [
@@ -60,30 +52,6 @@
       },
       {
         "line": [
-          "140 HOSPITAL DR"
-        ],
-        "city": "BENNINGTON",
-        "state": "VT",
-        "postalCode": "05201-5009"
-      },
-      {
-        "line": [
-          "324 EQUINOX TERRACE"
-        ],
-        "city": "MANCHESTER CENTER",
-        "state": "VT",
-        "postalCode": "05255-9253"
-      },
-      {
-        "line": [
-          "315 S MANNING BLVD"
-        ],
-        "city": "ALBANY",
-        "state": "NY",
-        "postalCode": "12208-1707"
-      },
-      {
-        "line": [
           "100 Hospital Drive"
         ],
         "city": "BENNINGTON",
@@ -92,11 +60,11 @@
       },
       {
         "line": [
-          "100 HOSPITAL DR"
+          "43 NEW SCOTLAND AVE"
         ],
-        "city": "BENNINGTON",
-        "state": "VT",
-        "postalCode": "05201-5004"
+        "city": "ALBANY",
+        "state": "NY",
+        "postalCode": "12208-3412"
       },
       {
         "line": [
@@ -108,11 +76,43 @@
       },
       {
         "line": [
+          "140 HOSPITAL DR"
+        ],
+        "city": "BENNINGTON",
+        "state": "VT",
+        "postalCode": "05201-5009"
+      },
+      {
+        "line": [
+          "2595 Depot Street"
+        ],
+        "city": "MANCHESTER CENTER",
+        "state": "VT",
+        "postalCode": "05255-3401"
+      },
+      {
+        "line": [
+          "100 HOSPITAL DR"
+        ],
+        "city": "BENNINGTON",
+        "state": "VT",
+        "postalCode": "05201-5004"
+      },
+      {
+        "line": [
           "141 S BRANCH ST"
         ],
         "city": "BENNINGTON",
         "state": "VT",
         "postalCode": "05201-2677"
+      },
+      {
+        "line": [
+          "315 S MANNING BLVD"
+        ],
+        "city": "ALBANY",
+        "state": "NY",
+        "postalCode": "12208-1707"
       },
       {
         "line": [

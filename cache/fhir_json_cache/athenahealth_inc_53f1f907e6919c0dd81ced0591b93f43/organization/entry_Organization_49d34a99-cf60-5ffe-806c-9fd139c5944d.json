@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710927405"
+        "value": "1861440810"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861440810"
+        "value": "1710927405"
       }
     ],
     "address": [
-      {
-        "line": [
-          "12884 Cleveland St W"
-        ],
-        "city": "NAHUNTA",
-        "state": "GA",
-        "postalCode": "31553-2834"
-      },
-      {
-        "line": [
-          "1625 Lime Street"
-        ],
-        "city": "FERNANDINA BEACH",
-        "state": "FL",
-        "postalCode": "32034-3017"
-      },
       {
         "line": [
           "330 Corporate way"
@@ -45,6 +29,31 @@
         "city": "FLEMING ISLAND",
         "state": "FL",
         "postalCode": "32003-4461"
+      },
+      {
+        "line": [
+          "2040 TOWN CENTER BLVD"
+        ],
+        "city": "FLEMING ISLAND",
+        "state": "FL",
+        "postalCode": "32003-6321"
+      },
+      {
+        "line": [
+          "8495 NORMANDY BLVD"
+        ],
+        "city": "JACKSONVILLE",
+        "state": "FL",
+        "postalCode": "32221-6701"
+      },
+      {
+        "line": [
+          "463380 State Road 200",
+          "Unit B"
+        ],
+        "city": "YULEE",
+        "state": "FL",
+        "postalCode": "32097-3240"
       },
       {
         "line": [
@@ -57,52 +66,12 @@
       },
       {
         "line": [
-          "3316 3RD ST S STE 200"
-        ],
-        "city": "JACKSONVILLE BEACH",
-        "state": "FL",
-        "postalCode": "32250-6091"
-      },
-      {
-        "line": [
-          "463386 STATE ROAD 200"
-        ],
-        "city": "YULEE",
-        "state": "FL",
-        "postalCode": "32097-3240"
-      },
-      {
-        "line": [
-          "8495 NORMANDY BLVD"
-        ],
-        "city": "JACKSONVILLE",
-        "state": "FL",
-        "postalCode": "32221-6701"
-      },
-      {
-        "line": [
           "2700 RIVERSIDE AVE",
           "Suite 1-B"
         ],
         "city": "JACKSONVILLE",
         "state": "FL",
         "postalCode": "32205-8275"
-      },
-      {
-        "line": [
-          "2040 TOWN CENTER BLVD"
-        ],
-        "city": "FLEMING ISLAND",
-        "state": "FL",
-        "postalCode": "32003-6321"
-      },
-      {
-        "line": [
-          "2650 Carswell Ave"
-        ],
-        "city": "WAYCROSS",
-        "state": "GA",
-        "postalCode": "31503-4081"
       },
       {
         "line": [
@@ -114,12 +83,43 @@
       },
       {
         "line": [
-          "463380 State Road 200",
-          "Unit B"
+          "3316 3RD ST S STE 200"
+        ],
+        "city": "JACKSONVILLE BEACH",
+        "state": "FL",
+        "postalCode": "32250-6091"
+      },
+      {
+        "line": [
+          "1625 Lime Street"
+        ],
+        "city": "FERNANDINA BEACH",
+        "state": "FL",
+        "postalCode": "32034-3017"
+      },
+      {
+        "line": [
+          "2650 Carswell Ave"
+        ],
+        "city": "WAYCROSS",
+        "state": "GA",
+        "postalCode": "31503-4081"
+      },
+      {
+        "line": [
+          "463386 STATE ROAD 200"
         ],
         "city": "YULEE",
         "state": "FL",
         "postalCode": "32097-3240"
+      },
+      {
+        "line": [
+          "12884 Cleveland St W"
+        ],
+        "city": "NAHUNTA",
+        "state": "GA",
+        "postalCode": "31553-2834"
       }
     ],
     "extension": [

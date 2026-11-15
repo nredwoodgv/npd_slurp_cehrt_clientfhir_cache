@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003226010"
+        "value": "1336135607"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336135607"
+        "value": "1003226010"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1145 S MORLEY ST"
-        ],
-        "city": "MOBERLY",
-        "state": "MO",
-        "postalCode": "65270-1948"
-      },
       {
         "line": [
           "106 Butler ST",
@@ -38,6 +30,14 @@
         "city": "MACON",
         "state": "MO",
         "postalCode": "63552-1629"
+      },
+      {
+        "line": [
+          "1145 S MORLEY ST"
+        ],
+        "city": "MOBERLY",
+        "state": "MO",
+        "postalCode": "65270-1948"
       },
       {
         "line": [

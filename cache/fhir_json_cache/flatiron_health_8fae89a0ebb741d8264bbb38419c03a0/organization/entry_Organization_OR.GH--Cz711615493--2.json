@@ -26,18 +26,30 @@
     "telecom": [
       {
         "system": "phone",
+        "value": "(404)851-6073"
+      },
+      {
+        "system": "phone",
         "value": "(404)851-6051"
       },
       {
         "system": "phone",
         "value": "(404)255-1930"
-      },
-      {
-        "system": "phone",
-        "value": "(404)851-6073"
       }
     ],
     "address": [
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "5670 Peachtree Dunwoody Road",
+          "Suite 1150"
+        ],
+        "city": "Atlanta",
+        "state": "GA",
+        "postalCode": "30342",
+        "country": "USA"
+      },
       {
         "use": "work",
         "type": "postal",
@@ -55,18 +67,6 @@
         "line": [
           "5670 Peachtree Dunwoody Road",
           "Suite 1000"
-        ],
-        "city": "Atlanta",
-        "state": "GA",
-        "postalCode": "30342",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "5670 Peachtree Dunwoody Road",
-          "Suite 1150"
         ],
         "city": "Atlanta",
         "state": "GA",

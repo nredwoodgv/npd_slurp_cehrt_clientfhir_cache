@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811912611"
+        "value": "1033943105"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033943105"
+        "value": "1811912611"
       }
     ],
     "address": [
-      {
-        "line": [
-          "5505 Peachtree Dunwoody Road",
-          "Suite 600"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30342-1717"
-      },
       {
         "line": [
           "11800 Amber Park Drive Parkway 400",
@@ -42,21 +33,12 @@
       },
       {
         "line": [
-          "11800 Amber Park Drive Parkway 400",
-          "Building One Suite 200"
+          "1901 Phoenix Blvd",
+          "Suite 200"
         ],
-        "city": "ALPHARETTA",
+        "city": "ATLANTA",
         "state": "GA",
-        "postalCode": "30005-3707"
-      },
-      {
-        "line": [
-          "3870 Pleasant Hill Road",
-          "Suite 1"
-        ],
-        "city": "DULUTH",
-        "state": "GA",
-        "postalCode": "30096-4807"
+        "postalCode": "30349-5062"
       },
       {
         "line": [
@@ -69,12 +51,12 @@
       },
       {
         "line": [
-          "2001 Peachtree Road NE",
-          "Ste 705"
+          "3870 Pleasant Hill Road",
+          "Suite 1"
         ],
-        "city": "ATLANTA",
+        "city": "DULUTH",
         "state": "GA",
-        "postalCode": "30309-1476"
+        "postalCode": "30096-4807"
       },
       {
         "line": [
@@ -86,12 +68,30 @@
       },
       {
         "line": [
-          "1901 Phoenix Blvd",
-          "Suite 200"
+          "5505 Peachtree Dunwoody Road",
+          "Suite 600"
         ],
         "city": "ATLANTA",
         "state": "GA",
-        "postalCode": "30349-5062"
+        "postalCode": "30342-1717"
+      },
+      {
+        "line": [
+          "2001 Peachtree Road NE",
+          "Ste 705"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30309-1476"
+      },
+      {
+        "line": [
+          "11800 Amber Park Drive Parkway 400",
+          "Building One Suite 200"
+        ],
+        "city": "ALPHARETTA",
+        "state": "GA",
+        "postalCode": "30005-3707"
       }
     ],
     "extension": [

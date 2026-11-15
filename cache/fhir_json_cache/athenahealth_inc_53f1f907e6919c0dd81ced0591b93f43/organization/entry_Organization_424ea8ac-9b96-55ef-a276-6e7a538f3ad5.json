@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821349317"
+        "value": "1629398219"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629398219"
+        "value": "1821349317"
       }
     ],
     "address": [
-      {
-        "line": [
-          "70 EAST ST"
-        ],
-        "city": "METHUEN",
-        "state": "MA",
-        "postalCode": "01844-4597"
-      },
-      {
-        "line": [
-          "70 EAST STREET"
-        ],
-        "city": "METHUEN",
-        "state": "MA",
-        "postalCode": "01844-4597"
-      },
       {
         "line": [
           "60 EAST ST"
@@ -48,7 +32,7 @@
       },
       {
         "line": [
-          "70 East Street"
+          "70 EAST ST"
         ],
         "city": "METHUEN",
         "state": "MA",
@@ -64,8 +48,8 @@
       },
       {
         "line": [
-          "60 EAST ST",
-          "STE 3300"
+          "70 EAST ST",
+          "CANCER CENTER"
         ],
         "city": "METHUEN",
         "state": "MA",
@@ -73,16 +57,24 @@
       },
       {
         "line": [
-          "60 EAST ST SUITE 2200"
+          "70 East Street"
         ],
         "city": "METHUEN",
         "state": "MA",
-        "postalCode": "01844-4500"
+        "postalCode": "01844-4597"
       },
       {
         "line": [
           "70 EAST ST",
           "STE G4"
+        ],
+        "city": "METHUEN",
+        "state": "MA",
+        "postalCode": "01844-4597"
+      },
+      {
+        "line": [
+          "70 EAST STREET"
         ],
         "city": "METHUEN",
         "state": "MA",
@@ -98,8 +90,16 @@
       },
       {
         "line": [
-          "70 EAST ST",
-          "CANCER CENTER"
+          "60 EAST ST SUITE 2200"
+        ],
+        "city": "METHUEN",
+        "state": "MA",
+        "postalCode": "01844-4500"
+      },
+      {
+        "line": [
+          "60 EAST ST",
+          "STE 3300"
         ],
         "city": "METHUEN",
         "state": "MA",

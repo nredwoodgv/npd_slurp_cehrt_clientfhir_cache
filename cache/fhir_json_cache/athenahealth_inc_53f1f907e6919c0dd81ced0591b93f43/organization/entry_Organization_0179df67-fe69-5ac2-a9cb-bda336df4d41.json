@@ -14,11 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316188147"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417133380"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316188147"
+        "value": "1215178421"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -27,36 +31,24 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1427299841"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215178421"
       }
     ],
     "address": [
       {
         "line": [
-          "One Wyoming Street"
+          "2350 Miami Valley Dr"
+        ],
+        "city": "DAYTON",
+        "state": "OH",
+        "postalCode": "45459-4778"
+      },
+      {
+        "line": [
+          "One Wyoming St., Ste 4130"
         ],
         "city": "DAYTON",
         "state": "OH",
         "postalCode": "45409-2722"
-      },
-      {
-        "line": [
-          "One Wyoming Street"
-        ],
-        "city": "DAYTON",
-        "state": "OH",
-        "postalCode": "45409-2939"
-      },
-      {
-        "line": [
-          "30 E. Apple St Suite 3200"
-        ],
-        "city": "DAYTON",
-        "state": "OH",
-        "postalCode": "45409-2939"
       },
       {
         "line": [
@@ -68,7 +60,7 @@
       },
       {
         "line": [
-          "One Wyoming St., Ste 4130"
+          "one wyoming street"
         ],
         "city": "DAYTON",
         "state": "OH",
@@ -84,31 +76,7 @@
       },
       {
         "line": [
-          "2350 Miami Valley Dr"
-        ],
-        "city": "DAYTON",
-        "state": "OH",
-        "postalCode": "45459-4778"
-      },
-      {
-        "line": [
-          "2400 Miami Valley Dr"
-        ],
-        "city": "DAYTON",
-        "state": "OH",
-        "postalCode": "45459-4778"
-      },
-      {
-        "line": [
           "ONE WYOMING ST"
-        ],
-        "city": "DAYTON",
-        "state": "OH",
-        "postalCode": "45409-2722"
-      },
-      {
-        "line": [
-          "ONE WYOMING STEET"
         ],
         "city": "DAYTON",
         "state": "OH",
@@ -125,7 +93,15 @@
       },
       {
         "line": [
-          "one wyoming street"
+          "One Wyoming Street"
+        ],
+        "city": "DAYTON",
+        "state": "OH",
+        "postalCode": "45409-2722"
+      },
+      {
+        "line": [
+          "ONE WYOMING STEET"
         ],
         "city": "DAYTON",
         "state": "OH",
@@ -139,6 +115,30 @@
         "city": "DAYTON",
         "state": "OH",
         "postalCode": "45409-2722"
+      },
+      {
+        "line": [
+          "2400 Miami Valley Dr"
+        ],
+        "city": "DAYTON",
+        "state": "OH",
+        "postalCode": "45459-4778"
+      },
+      {
+        "line": [
+          "30 E. Apple St Suite 3200"
+        ],
+        "city": "DAYTON",
+        "state": "OH",
+        "postalCode": "45409-2939"
+      },
+      {
+        "line": [
+          "One Wyoming Street"
+        ],
+        "city": "DAYTON",
+        "state": "OH",
+        "postalCode": "45409-2939"
       }
     ],
     "extension": [

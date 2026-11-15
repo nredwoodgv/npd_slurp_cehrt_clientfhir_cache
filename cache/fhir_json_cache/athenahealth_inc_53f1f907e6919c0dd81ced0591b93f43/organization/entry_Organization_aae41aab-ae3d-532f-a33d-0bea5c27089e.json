@@ -14,14 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588157424"
+        "value": "1700105079"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700105079"
+        "value": "1588157424"
       }
     ],
     "address": [
+      {
+        "line": [
+          "391 Taylor Blvd Ste 250"
+        ],
+        "city": "SAN JOSE",
+        "state": "CA",
+        "postalCode": "94523-2288"
+      },
       {
         "line": [
           "1360 N WINCHESTER BLVD STE 5"
@@ -37,14 +45,6 @@
         "city": "WALNUT CREEK",
         "state": "CA",
         "postalCode": "94598-2517"
-      },
-      {
-        "line": [
-          "391 Taylor Blvd Ste 250"
-        ],
-        "city": "SAN JOSE",
-        "state": "CA",
-        "postalCode": "94523-2288"
       }
     ],
     "extension": [

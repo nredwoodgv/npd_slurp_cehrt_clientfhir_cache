@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194778050"
+        "value": "1386639920"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386639920"
+        "value": "1194778050"
       }
     ],
     "address": [
-      {
-        "line": [
-          "201 14TH ST SW"
-        ],
-        "city": "LARGO",
-        "state": "FL",
-        "postalCode": "33770-3133"
-      },
-      {
-        "line": [
-          "6500 38TH AVE N"
-        ],
-        "city": "SAINT PETERSBURG",
-        "state": "FL",
-        "postalCode": "33710-1629"
-      },
       {
         "line": [
           "4600 4TH ST N"
@@ -45,14 +29,6 @@
         "city": "SAINT PETERSBURG",
         "state": "FL",
         "postalCode": "33703-3802"
-      },
-      {
-        "line": [
-          "1200 7TH AVE NORTH"
-        ],
-        "city": "SAINT PETERSBURG",
-        "state": "FL",
-        "postalCode": "33705-1300"
       },
       {
         "line": [
@@ -64,11 +40,27 @@
       },
       {
         "line": [
-          "701 6TH STREET SOUTH"
+          "1200 7TH AVE NORTH"
         ],
         "city": "SAINT PETERSBURG",
         "state": "FL",
-        "postalCode": "33701-4814"
+        "postalCode": "33705-1300"
+      },
+      {
+        "line": [
+          "13020 N TELECOM PKWY"
+        ],
+        "city": "TAMPA",
+        "state": "FL",
+        "postalCode": "33637-0925"
+      },
+      {
+        "line": [
+          "603 7TH ST S STE 450"
+        ],
+        "city": "SAINT PETERSBURG",
+        "state": "FL",
+        "postalCode": "33701-4741"
       },
       {
         "line": [
@@ -88,83 +80,11 @@
       },
       {
         "line": [
-          "701 6TH ST S"
-        ],
-        "city": "SAINT PETERSBURG",
-        "state": "FL",
-        "postalCode": "33701-4814"
-      },
-      {
-        "line": [
           "7171 NDALE MABRY HWY"
         ],
         "city": "TAMPA",
         "state": "FL",
         "postalCode": "33614-2630"
-      },
-      {
-        "line": [
-          "603 7TH ST S STE 480"
-        ],
-        "city": "SAINT PETERSBURG",
-        "state": "FL",
-        "postalCode": "33701-4734"
-      },
-      {
-        "line": [
-          "6000 49TH ST N"
-        ],
-        "city": "SAINT PETERSBURG",
-        "state": "FL",
-        "postalCode": "33709-2114"
-      },
-      {
-        "line": [
-          "4423 CENTRAL AVENUE"
-        ],
-        "city": "SAINT PETERSBURG",
-        "state": "FL",
-        "postalCode": "33713-8232"
-      },
-      {
-        "line": [
-          "2020 59TH ST WEST"
-        ],
-        "city": "BRADENTON",
-        "state": "FL",
-        "postalCode": "34209-4604"
-      },
-      {
-        "line": [
-          "1615 PASADENA AVE S STE  200"
-        ],
-        "city": "SAINT PETERSBURG",
-        "state": "FL",
-        "postalCode": "33707-4518"
-      },
-      {
-        "line": [
-          "4650 4TH TREET NORTH"
-        ],
-        "city": "SAINT PETERSBURG",
-        "state": "FL",
-        "postalCode": "33703-3802"
-      },
-      {
-        "line": [
-          "13020 N TELECOM PKWY"
-        ],
-        "city": "TAMPA",
-        "state": "FL",
-        "postalCode": "33637-0925"
-      },
-      {
-        "line": [
-          "801 6TH STREET SOUTH"
-        ],
-        "city": "SAINT PETERSBURG",
-        "state": "FL",
-        "postalCode": "33701-9998"
       },
       {
         "line": [
@@ -176,19 +96,67 @@
       },
       {
         "line": [
-          "119 OAKFIELD DR"
-        ],
-        "city": "BRANDON",
-        "state": "FL",
-        "postalCode": "33511-5779"
-      },
-      {
-        "line": [
-          "603 7TH ST S STE 450"
+          "701 6TH STREET SOUTH"
         ],
         "city": "SAINT PETERSBURG",
         "state": "FL",
-        "postalCode": "33701-4741"
+        "postalCode": "33701-4814"
+      },
+      {
+        "line": [
+          "4650 4TH TREET NORTH"
+        ],
+        "city": "SAINT PETERSBURG",
+        "state": "FL",
+        "postalCode": "33703-3802"
+      },
+      {
+        "line": [
+          "6500 38TH AVE N"
+        ],
+        "city": "SAINT PETERSBURG",
+        "state": "FL",
+        "postalCode": "33710-1629"
+      },
+      {
+        "line": [
+          "6000 49TH ST N"
+        ],
+        "city": "SAINT PETERSBURG",
+        "state": "FL",
+        "postalCode": "33709-2114"
+      },
+      {
+        "line": [
+          "701 6TH ST S"
+        ],
+        "city": "SAINT PETERSBURG",
+        "state": "FL",
+        "postalCode": "33701-4814"
+      },
+      {
+        "line": [
+          "801 6TH STREET SOUTH"
+        ],
+        "city": "SAINT PETERSBURG",
+        "state": "FL",
+        "postalCode": "33701-9998"
+      },
+      {
+        "line": [
+          "1615 PASADENA AVE S STE 150"
+        ],
+        "city": "SAINT PETERSBURG",
+        "state": "FL",
+        "postalCode": "33707-4518"
+      },
+      {
+        "line": [
+          "1615 PASADENA AVE S STE  200"
+        ],
+        "city": "SAINT PETERSBURG",
+        "state": "FL",
+        "postalCode": "33707-4518"
       },
       {
         "line": [
@@ -200,7 +168,23 @@
       },
       {
         "line": [
-          "201 14TH STREET SW"
+          "119 OAKFIELD DR"
+        ],
+        "city": "BRANDON",
+        "state": "FL",
+        "postalCode": "33511-5779"
+      },
+      {
+        "line": [
+          "603 7TH ST S STE 480"
+        ],
+        "city": "SAINT PETERSBURG",
+        "state": "FL",
+        "postalCode": "33701-4734"
+      },
+      {
+        "line": [
+          "201 14TH ST SW"
         ],
         "city": "LARGO",
         "state": "FL",
@@ -216,11 +200,11 @@
       },
       {
         "line": [
-          "1615 PASADENA AVE S STE 150"
+          "2020 59TH ST WEST"
         ],
-        "city": "SAINT PETERSBURG",
+        "city": "BRADENTON",
         "state": "FL",
-        "postalCode": "33707-4518"
+        "postalCode": "34209-4604"
       },
       {
         "line": [
@@ -237,6 +221,22 @@
         "city": "LARGO",
         "state": "FL",
         "postalCode": "33777-1251"
+      },
+      {
+        "line": [
+          "201 14TH STREET SW"
+        ],
+        "city": "LARGO",
+        "state": "FL",
+        "postalCode": "33770-3133"
+      },
+      {
+        "line": [
+          "4423 CENTRAL AVENUE"
+        ],
+        "city": "SAINT PETERSBURG",
+        "state": "FL",
+        "postalCode": "33713-8232"
       }
     ],
     "extension": [

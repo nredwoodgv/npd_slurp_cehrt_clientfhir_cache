@@ -14,15 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053469486"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396849329"
+        "value": "1285184416"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1164961330"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1093259764"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1184112013"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,26 +42,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184112013"
+        "value": "1396849329"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1093259764"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285184416"
+        "value": "1053469486"
       }
     ],
     "address": [
-      {
-        "line": [
-          "26894 East Main Street"
-        ],
-        "city": "WEST POINT",
-        "state": "MS",
-        "postalCode": "39773-7546"
-      },
       {
         "line": [
           "804 EAST MAIN ST"
@@ -65,6 +57,14 @@
         "city": "WEST POINT",
         "state": "MS",
         "postalCode": "39773-3137"
+      },
+      {
+        "line": [
+          "26894 East Main Street"
+        ],
+        "city": "WEST POINT",
+        "state": "MS",
+        "postalCode": "39773-7546"
       }
     ],
     "extension": [

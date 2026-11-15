@@ -14,37 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629398219"
+        "value": "1821349317"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821349317"
+        "value": "1629398219"
       }
     ],
     "address": [
       {
         "line": [
-          "3628 ACUSHENT AVE"
+          "499 PURCHASE STREET"
         ],
         "city": "NEW BEDFORD",
         "state": "MA",
-        "postalCode": "02745-4010"
-      },
-      {
-        "line": [
-          "17 MILL ROAD"
-        ],
-        "city": "NEW BEDFORD",
-        "state": "MA",
-        "postalCode": "02745-2823"
-      },
-      {
-        "line": [
-          "241 COUNTY STREET"
-        ],
-        "city": "NEW BEDFORD",
-        "state": "MA",
-        "postalCode": "02740-4719"
+        "postalCode": "02740-4907"
       },
       {
         "line": [
@@ -56,11 +40,27 @@
       },
       {
         "line": [
-          "26 GARFIELD STREET"
+          "241 COUNTY STREET"
         ],
-        "city": "ACUSHNET",
+        "city": "NEW BEDFORD",
         "state": "MA",
-        "postalCode": "02743-2248"
+        "postalCode": "02740-4719"
+      },
+      {
+        "line": [
+          "17 MILL ROAD"
+        ],
+        "city": "NEW BEDFORD",
+        "state": "MA",
+        "postalCode": "02745-2823"
+      },
+      {
+        "line": [
+          "3628 ACUSHENT AVE"
+        ],
+        "city": "NEW BEDFORD",
+        "state": "MA",
+        "postalCode": "02745-4010"
       },
       {
         "line": [
@@ -72,11 +72,11 @@
       },
       {
         "line": [
-          "499 PURCHASE STREET"
+          "26 GARFIELD STREET"
         ],
-        "city": "NEW BEDFORD",
+        "city": "ACUSHNET",
         "state": "MA",
-        "postalCode": "02740-4907"
+        "postalCode": "02743-2248"
       }
     ],
     "extension": [

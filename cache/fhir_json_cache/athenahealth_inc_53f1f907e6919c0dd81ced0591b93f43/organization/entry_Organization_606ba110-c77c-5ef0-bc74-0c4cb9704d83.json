@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194768721"
+        "value": "1023204062"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023204062"
+        "value": "1194768721"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,14 +30,6 @@
       }
     ],
     "address": [
-      {
-        "line": [
-          "672 Jones Rd"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72764-0677"
-      },
       {
         "line": [
           "301 S 24th St."
@@ -56,11 +48,11 @@
       },
       {
         "line": [
-          "1393 E Don Tyson Pkwy"
+          "672 Jones Rd"
         ],
         "city": "SPRINGDALE",
         "state": "AR",
-        "postalCode": "72764-7882"
+        "postalCode": "72764-0677"
       },
       {
         "line": [
@@ -69,6 +61,14 @@
         "city": "FAYETTEVILLE",
         "state": "AR",
         "postalCode": "72703-4834"
+      },
+      {
+        "line": [
+          "1393 E Don Tyson Pkwy"
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72764-7882"
       }
     ],
     "extension": [

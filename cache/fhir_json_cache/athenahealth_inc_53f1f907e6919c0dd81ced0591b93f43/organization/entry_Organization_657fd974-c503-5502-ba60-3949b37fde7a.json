@@ -14,31 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114235918"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881656247"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962602300"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1053373951"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
+        "value": "1124080320"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -47,25 +27,29 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1730484031"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114235918"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1881656247"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215999511"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962602300"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1686 Hwy 79 West"
-        ],
-        "city": "BUFFALO",
-        "state": "TX",
-        "postalCode": "75831-3490"
-      },
-      {
-        "line": [
-          "600 N. Park"
-        ],
-        "city": "BRENHAM",
-        "state": "TX",
-        "postalCode": "77833-2610"
-      },
       {
         "line": [
           "1721 Birmingham Drive"
@@ -73,46 +57,6 @@
         "city": "COLLEGE STATION",
         "state": "TX",
         "postalCode": "77845-4082"
-      },
-      {
-        "line": [
-          "1002 W Brown St"
-        ],
-        "city": "HEARNE",
-        "state": "TX",
-        "postalCode": "77859-3063"
-      },
-      {
-        "line": [
-          "607 W Lassater"
-        ],
-        "city": "CENTERVILLE",
-        "state": "TX",
-        "postalCode": "75833-1959"
-      },
-      {
-        "line": [
-          "1602 Rock Prairie Ste 4880"
-        ],
-        "city": "COLLEGE STATION",
-        "state": "TX",
-        "postalCode": "77845-5992"
-      },
-      {
-        "line": [
-          "3201 University Dr. Ste 135"
-        ],
-        "city": "BRYAN",
-        "state": "TX",
-        "postalCode": "77802-3481"
-      },
-      {
-        "line": [
-          "1602 Rock Prairie Rd Ste 2000"
-        ],
-        "city": "COLLEGE STATION",
-        "state": "TX",
-        "postalCode": "77845-5988"
       },
       {
         "line": [
@@ -124,11 +68,35 @@
       },
       {
         "line": [
-          "500 E Washington"
+          "600 N. Park"
         ],
-        "city": "NAVASOTA",
+        "city": "BRENHAM",
         "state": "TX",
-        "postalCode": "77868-3001"
+        "postalCode": "77833-2610"
+      },
+      {
+        "line": [
+          "1602 Rock Prairie Ste 4880"
+        ],
+        "city": "COLLEGE STATION",
+        "state": "TX",
+        "postalCode": "77845-5992"
+      },
+      {
+        "line": [
+          "607 W Lassater"
+        ],
+        "city": "CENTERVILLE",
+        "state": "TX",
+        "postalCode": "75833-1959"
+      },
+      {
+        "line": [
+          "3201 University Dr. Ste 135"
+        ],
+        "city": "BRYAN",
+        "state": "TX",
+        "postalCode": "77802-3481"
       },
       {
         "line": [
@@ -137,6 +105,38 @@
         "city": "COLLEGE STATION",
         "state": "TX",
         "postalCode": "77845-0001"
+      },
+      {
+        "line": [
+          "1002 W Brown St"
+        ],
+        "city": "HEARNE",
+        "state": "TX",
+        "postalCode": "77859-3063"
+      },
+      {
+        "line": [
+          "500 E Washington"
+        ],
+        "city": "NAVASOTA",
+        "state": "TX",
+        "postalCode": "77868-3001"
+      },
+      {
+        "line": [
+          "1602 Rock Prairie Rd Ste 2000"
+        ],
+        "city": "COLLEGE STATION",
+        "state": "TX",
+        "postalCode": "77845-5988"
+      },
+      {
+        "line": [
+          "1686 Hwy 79 West"
+        ],
+        "city": "BUFFALO",
+        "state": "TX",
+        "postalCode": "75831-3490"
       }
     ],
     "extension": [

@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568858686"
+        "value": "1942254347"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942254347"
+        "value": "1568858686"
       }
     ],
     "address": [
-      {
-        "line": [
-          "10 CAMPTOWN RD"
-        ],
-        "city": "IRVINGTON",
-        "state": "NJ",
-        "postalCode": "07111-1105"
-      },
       {
         "line": [
           "630 W SAINT GEORGES AVE"
@@ -37,6 +29,14 @@
         "city": "LINDEN",
         "state": "NJ",
         "postalCode": "07036-5646"
+      },
+      {
+        "line": [
+          "10 CAMPTOWN RD"
+        ],
+        "city": "IRVINGTON",
+        "state": "NJ",
+        "postalCode": "07111-1105"
       },
       {
         "line": [

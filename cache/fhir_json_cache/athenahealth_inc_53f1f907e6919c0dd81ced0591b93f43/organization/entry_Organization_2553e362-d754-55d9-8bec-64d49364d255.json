@@ -14,11 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265780621"
+        "value": "1215287362"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215287362"
+        "value": "1730437245"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1265780621"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -27,10 +31,6 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1487902995"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730437245"
       }
     ],
     "address": [
@@ -52,22 +52,6 @@
       },
       {
         "line": [
-          "3521 KILGALLEN CT"
-        ],
-        "city": "ORMOND BEACH",
-        "state": "FL",
-        "postalCode": "32174-2830"
-      },
-      {
-        "line": [
-          "10003 PALISADE LAKES DR"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77095-6648"
-      },
-      {
-        "line": [
           "3437 CATALAN ALY"
         ],
         "city": "DECATUR",
@@ -76,35 +60,11 @@
       },
       {
         "line": [
-          "1416 SAVOY TRL"
+          "3521 KILGALLEN CT"
         ],
-        "city": "LAWRENCEVILLE",
-        "state": "GA",
-        "postalCode": "30045-5414"
-      },
-      {
-        "line": [
-          "5284 FLOYD RD SW # 704"
-        ],
-        "city": "MABLETON",
-        "state": "GA",
-        "postalCode": "30126-6105"
-      },
-      {
-        "line": [
-          "1400 W WASHINGTON ST"
-        ],
-        "city": "MARQUETTE",
-        "state": "MI",
-        "postalCode": "49855-3116"
-      },
-      {
-        "line": [
-          "2176 WIGGINS WALK"
-        ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30316-2500"
+        "city": "ORMOND BEACH",
+        "state": "FL",
+        "postalCode": "32174-2830"
       },
       {
         "line": [
@@ -116,11 +76,35 @@
       },
       {
         "line": [
+          "1298 JANDRAS LN SE"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30316-3228"
+      },
+      {
+        "line": [
+          "1416 SAVOY TRL"
+        ],
+        "city": "LAWRENCEVILLE",
+        "state": "GA",
+        "postalCode": "30045-5414"
+      },
+      {
+        "line": [
           "54 GESEL LN"
         ],
         "city": "BUFFALO",
         "state": "NY",
         "postalCode": "14221-3892"
+      },
+      {
+        "line": [
+          "1400 W WASHINGTON ST"
+        ],
+        "city": "MARQUETTE",
+        "state": "MI",
+        "postalCode": "49855-3116"
       },
       {
         "line": [
@@ -132,6 +116,22 @@
       },
       {
         "line": [
+          "5284 FLOYD RD SW # 704"
+        ],
+        "city": "MABLETON",
+        "state": "GA",
+        "postalCode": "30126-6105"
+      },
+      {
+        "line": [
+          "2176 WIGGINS WALK"
+        ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30316-2500"
+      },
+      {
+        "line": [
           "4054 BRUSHY CREEK RD"
         ],
         "city": "SPARKS",
@@ -140,11 +140,11 @@
       },
       {
         "line": [
-          "1298 JANDRAS LN SE"
+          "10003 PALISADE LAKES DR"
         ],
-        "city": "ATLANTA",
-        "state": "GA",
-        "postalCode": "30316-3228"
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77095-6648"
       }
     ],
     "extension": [

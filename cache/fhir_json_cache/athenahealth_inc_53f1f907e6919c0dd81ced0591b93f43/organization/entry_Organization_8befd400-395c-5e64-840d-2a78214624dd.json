@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750740338"
+        "value": "1780929455"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144779315"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,45 +30,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326383092"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861737538"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144779315"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780929455"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326383092"
+        "value": "1750740338"
       }
     ],
     "address": [
       {
         "line": [
-          "900 17TH STREET"
-        ],
-        "city": "WOODWARD",
-        "state": "OK",
-        "postalCode": "73801-2408"
-      },
-      {
-        "line": [
-          "619 Speck St."
+          "619 SPECK"
         ],
         "city": "VICI",
         "state": "OK",
         "postalCode": "73859-5287"
-      },
-      {
-        "line": [
-          "2301 Bell Ave"
-        ],
-        "city": "ELK CITY",
-        "state": "OK",
-        "postalCode": "73644-2254"
       },
       {
         "line": [
@@ -76,27 +60,11 @@
       },
       {
         "line": [
-          "619 SPECK"
-        ],
-        "city": "VICI",
-        "state": "OK",
-        "postalCode": "73859-5287"
-      },
-      {
-        "line": [
-          "301 GARRETT STREET"
+          "2301 Bell Ave"
         ],
         "city": "ELK CITY",
         "state": "OK",
-        "postalCode": "73644-3113"
-      },
-      {
-        "line": [
-          "1611 MAIN ST STE 102"
-        ],
-        "city": "WOODWARD",
-        "state": "OK",
-        "postalCode": "73801-3064"
+        "postalCode": "73644-2254"
       },
       {
         "line": [
@@ -116,7 +84,31 @@
       },
       {
         "line": [
-          "301 N Garrett St"
+          "900 17TH STREET"
+        ],
+        "city": "WOODWARD",
+        "state": "OK",
+        "postalCode": "73801-2408"
+      },
+      {
+        "line": [
+          "429 E. Downs"
+        ],
+        "city": "WOODWARD",
+        "state": "OK",
+        "postalCode": "73801-6107"
+      },
+      {
+        "line": [
+          "301 GARRETT STREET"
+        ],
+        "city": "ELK CITY",
+        "state": "OK",
+        "postalCode": "73644-3113"
+      },
+      {
+        "line": [
+          "301 N GARRETT ST"
         ],
         "city": "ELK CITY",
         "state": "OK",
@@ -132,6 +124,14 @@
       },
       {
         "line": [
+          "301 N Garrett St"
+        ],
+        "city": "ELK CITY",
+        "state": "OK",
+        "postalCode": "73644-3113"
+      },
+      {
+        "line": [
           "2301 BELL AVENUE"
         ],
         "city": "ELK CITY",
@@ -140,27 +140,27 @@
       },
       {
         "line": [
-          "429 E. Downs"
-        ],
-        "city": "WOODWARD",
-        "state": "OK",
-        "postalCode": "73801-6107"
-      },
-      {
-        "line": [
-          "301 N GARRETT ST"
-        ],
-        "city": "ELK CITY",
-        "state": "OK",
-        "postalCode": "73644-3113"
-      },
-      {
-        "line": [
           "429 E DOWNS AVE"
         ],
         "city": "WOODWARD",
         "state": "OK",
         "postalCode": "73801-6107"
+      },
+      {
+        "line": [
+          "1611 MAIN ST STE 102"
+        ],
+        "city": "WOODWARD",
+        "state": "OK",
+        "postalCode": "73801-3064"
+      },
+      {
+        "line": [
+          "619 Speck St."
+        ],
+        "city": "VICI",
+        "state": "OK",
+        "postalCode": "73859-5287"
       }
     ],
     "extension": [

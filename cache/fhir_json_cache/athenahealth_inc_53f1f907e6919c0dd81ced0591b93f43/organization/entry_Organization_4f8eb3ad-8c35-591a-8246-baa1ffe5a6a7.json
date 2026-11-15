@@ -14,22 +14,39 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790103869"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1326072943"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588971477"
+        "value": "1790103869"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1336456227"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588971477"
       }
     ],
     "address": [
+      {
+        "line": [
+          "4910 Mueller Blvd",
+          "STE 200"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78723-3079"
+      },
+      {
+        "line": [
+          "1301 Barbara Jordan Blvd"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78723-3054"
+      },
       {
         "line": [
           "1301 Barbara Jordan Blvd Ste 402"
@@ -37,30 +54,6 @@
         "city": "Austin",
         "state": "TX",
         "postalCode": "78723-3078"
-      },
-      {
-        "line": [
-          "5339 North Interstate 35 Frontage Rd, Ste 100"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78723-2428"
-      },
-      {
-        "line": [
-          "1301 Barbara Jordan Blvd Ste 301"
-        ],
-        "city": "Austin",
-        "state": "TX",
-        "postalCode": "78723-3078"
-      },
-      {
-        "line": [
-          "1301 Barbara Jordan Blvd Ste 307"
-        ],
-        "city": "Austin",
-        "state": "TX",
-        "postalCode": "78723-3080"
       },
       {
         "line": [
@@ -89,29 +82,11 @@
       },
       {
         "line": [
-          "1301 Barbara Jordan Blvd",
-          "Ste 401"
+          "1301 Barbara Jordan Blvd Ste 301"
         ],
-        "city": "AUSTIN",
+        "city": "Austin",
         "state": "TX",
         "postalCode": "78723-3078"
-      },
-      {
-        "line": [
-          "1301 Barbara Jordan Blvd"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78723-3054"
-      },
-      {
-        "line": [
-          "4910 Mueller Blvd",
-          "STE 200"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78723-3079"
       },
       {
         "line": [
@@ -120,6 +95,31 @@
         "city": "Round Rock",
         "state": "TX",
         "postalCode": "78681-8020"
+      },
+      {
+        "line": [
+          "5339 North Interstate 35 Frontage Rd, Ste 100"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78723-2428"
+      },
+      {
+        "line": [
+          "1301 Barbara Jordan Blvd Ste 307"
+        ],
+        "city": "Austin",
+        "state": "TX",
+        "postalCode": "78723-3080"
+      },
+      {
+        "line": [
+          "1301 Barbara Jordan Blvd",
+          "Ste 401"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78723-3078"
       }
     ],
     "extension": [

@@ -54,6 +54,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700885076"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1891741468"
       },
       {
@@ -115,6 +119,10 @@
       {
         "system": "phone",
         "value": "(555)555-5555"
+      },
+      {
+        "system": "phone",
+        "value": "(936)569-9481"
       },
       {
         "system": "phone",
@@ -635,6 +643,17 @@
         ],
         "city": "Nacogdoches",
         "state": "Tx",
+        "postalCode": "75965",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "4920 NE Stallings Dr"
+        ],
+        "city": "Nacogdoches",
+        "state": "TX",
         "postalCode": "75965",
         "country": "USA"
       },

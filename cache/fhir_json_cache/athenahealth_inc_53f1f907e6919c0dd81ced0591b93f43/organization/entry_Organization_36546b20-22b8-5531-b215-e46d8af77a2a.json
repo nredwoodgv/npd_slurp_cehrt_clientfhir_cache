@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205137536"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194768721"
+        "value": "1871553073"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,17 +22,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871553073"
+        "value": "1205137536"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1194768721"
       }
     ],
     "address": [
       {
         "line": [
-          "609 W Maple Ave"
+          "3000 Medical Center Pkwy"
         ],
-        "city": "SPRINGDALE",
+        "city": "Bentonville",
         "state": "AR",
-        "postalCode": "72764-5335"
+        "postalCode": "72712-3217"
       },
       {
         "line": [
@@ -48,11 +48,11 @@
       },
       {
         "line": [
-          "3000 Medical Center Pkwy"
+          "609 W Maple Ave"
         ],
-        "city": "Bentonville",
+        "city": "SPRINGDALE",
         "state": "AR",
-        "postalCode": "72712-3217"
+        "postalCode": "72764-5335"
       }
     ],
     "extension": [

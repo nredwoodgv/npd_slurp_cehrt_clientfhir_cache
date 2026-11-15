@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497626485"
+        "value": "1457222440"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598702847"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +26,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457222440"
+        "value": "1922979921"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1477424463"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,26 +42,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477424463"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598702847"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922979921"
+        "value": "1497626485"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3439 Pine Ridge Road"
-        ],
-        "city": "NAPLES",
-        "state": "FL",
-        "postalCode": "34109-3884"
-      },
       {
         "line": [
           "566 Tavilla Circle",
@@ -62,6 +54,14 @@
         "city": "NAPLES",
         "state": "FL",
         "postalCode": "34110-3405"
+      },
+      {
+        "line": [
+          "3439 Pine Ridge Road"
+        ],
+        "city": "NAPLES",
+        "state": "FL",
+        "postalCode": "34109-3884"
       }
     ],
     "extension": [

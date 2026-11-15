@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295397032"
+        "value": "1861054744"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104386655"
+        "value": "1295397032"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861054744"
+        "value": "1104386655"
       }
     ],
     "address": [
@@ -62,6 +62,30 @@
       },
       {
         "line": [
+          "17 Catherine Street"
+        ],
+        "city": "SAINT ALBANS",
+        "state": "VT",
+        "postalCode": "05478-2205"
+      },
+      {
+        "line": [
+          "79 Coventry St"
+        ],
+        "city": "NEWPORT",
+        "state": "VT",
+        "postalCode": "05855-2206"
+      },
+      {
+        "line": [
+          "214 Main St"
+        ],
+        "city": "VERGENNES",
+        "state": "VT",
+        "postalCode": "05491-1157"
+      },
+      {
+        "line": [
           "54 Chickering Dr. Ste A"
         ],
         "city": "Brattleboro",
@@ -78,35 +102,11 @@
       },
       {
         "line": [
-          "214 Main St"
-        ],
-        "city": "VERGENNES",
-        "state": "VT",
-        "postalCode": "05491-1157"
-      },
-      {
-        "line": [
-          "17 Catherine Street"
-        ],
-        "city": "SAINT ALBANS",
-        "state": "VT",
-        "postalCode": "05478-2205"
-      },
-      {
-        "line": [
           "368 River Street"
         ],
         "city": "SPRINGFIELD",
         "state": "VT",
         "postalCode": "05156-2242"
-      },
-      {
-        "line": [
-          "79 Coventry St"
-        ],
-        "city": "NEWPORT",
-        "state": "VT",
-        "postalCode": "05855-2206"
       }
     ],
     "extension": [

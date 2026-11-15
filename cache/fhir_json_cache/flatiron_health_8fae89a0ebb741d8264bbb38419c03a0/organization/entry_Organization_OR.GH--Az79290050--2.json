@@ -54,6 +54,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "000000000"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1235741638"
       },
       {
@@ -262,10 +266,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "000000000"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629024914"
       },
       {
@@ -339,6 +339,10 @@
       {
         "system": "phone",
         "value": "(111)111-1111"
+      },
+      {
+        "system": "phone",
+        "value": "(777)867-5309"
       },
       {
         "system": "phone",
@@ -534,10 +538,6 @@
       },
       {
         "system": "phone",
-        "value": "(777)867-5309"
-      },
-      {
-        "system": "phone",
         "value": "(000)000-0000"
       },
       {
@@ -697,6 +697,17 @@
         "city": "Cleveland",
         "state": "TN",
         "postalCode": "37312-3732",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1313 Mockingbird Lane."
+        ],
+        "city": "Mockingbird Heights",
+        "state": "CA",
+        "postalCode": "90210",
         "country": "USA"
       },
       {
@@ -1379,17 +1390,6 @@
         "city": "Nashville",
         "state": "TN",
         "postalCode": "37203",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1313 Mockingbird Lane."
-        ],
-        "city": "Mockingbird Heights",
-        "state": "CA",
-        "postalCode": "90210",
         "country": "USA"
       },
       {

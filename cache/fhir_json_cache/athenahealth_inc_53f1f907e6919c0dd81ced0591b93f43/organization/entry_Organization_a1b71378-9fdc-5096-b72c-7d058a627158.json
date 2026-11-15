@@ -18,19 +18,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1922775956"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558886218"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1952229213"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1245600493"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1922775956"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1558886218"
       }
     ],
     "address": [
@@ -44,11 +44,11 @@
       },
       {
         "line": [
-          "1250 VALLEY VIEW DR"
+          "87 MERCHANT DR"
         ],
-        "city": "DELTA",
+        "city": "MONTROSE",
         "state": "CO",
-        "postalCode": "81416-3138"
+        "postalCode": "81401-3015"
       },
       {
         "line": [
@@ -60,19 +60,19 @@
       },
       {
         "line": [
-          "87 MERCHANT DR"
-        ],
-        "city": "MONTROSE",
-        "state": "CO",
-        "postalCode": "81401-3015"
-      },
-      {
-        "line": [
           "308 Main St"
         ],
         "city": "OLATHE",
         "state": "CO",
         "postalCode": "81425-4125"
+      },
+      {
+        "line": [
+          "1250 VALLEY VIEW DR"
+        ],
+        "city": "DELTA",
+        "state": "CO",
+        "postalCode": "81416-3138"
       }
     ],
     "extension": [

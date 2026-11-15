@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346873015"
+        "value": "1407324379"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639895055"
+        "value": "1346873015"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,7 +26,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407324379"
+        "value": "1639895055"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,21 +36,12 @@
     "address": [
       {
         "line": [
-          "6160 Summit Drive N",
-          "Suite 205"
+          "386 PARK AVE SOUTH",
+          "5TH FLOOR"
         ],
-        "city": "MINNEAPOLIS",
-        "state": "MN",
-        "postalCode": "55430-2118"
-      },
-      {
-        "line": [
-          "45 SCHOOL ST",
-          "STE 202"
-        ],
-        "city": "BOSTON",
-        "state": "MA",
-        "postalCode": "02108-3206"
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10016-8804"
       },
       {
         "line": [
@@ -72,88 +63,11 @@
       },
       {
         "line": [
-          "386 PARK AVE SOUTH",
-          "5TH FLOOR"
+          "600 North 2nd Street"
         ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10016-8804"
-      },
-      {
-        "line": [
-          "250 Browns Hill Court"
-        ],
-        "city": "MIDLOTHIAN",
-        "state": "VA",
-        "postalCode": "23114-9510"
-      },
-      {
-        "line": [
-          "2205 W 136th Avenue",
-          "Suite 106 PMB 85921"
-        ],
-        "city": "BROOMFIELD",
-        "state": "CO",
-        "postalCode": "80023-9306"
-      },
-      {
-        "line": [
-          "2863 NW CROSSING DR",
-          "STE 219"
-        ],
-        "city": "BEND",
-        "state": "OR",
-        "postalCode": "97703-7190"
-      },
-      {
-        "line": [
-          "386 Park Avenue South, 5th floor"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10016-8804"
-      },
-      {
-        "line": [
-          "4592 CAMINO DEL MIRASOL"
-        ],
-        "city": "SANTA BARBARA",
-        "state": "CA",
-        "postalCode": "93110-1003"
-      },
-      {
-        "line": [
-          "901 South Whitney Way"
-        ],
-        "city": "MADISON",
-        "state": "WI",
-        "postalCode": "53711-2553"
-      },
-      {
-        "line": [
-          "386 PARK AVENUE SOUTH, 5TH FLOOR",
-          "5th floor"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10016-8804"
-      },
-      {
-        "line": [
-          "4470 W Sunset Blvd"
-        ],
-        "city": "LOS ANGELES",
-        "state": "CA",
-        "postalCode": "90027-6302"
-      },
-      {
-        "line": [
-          "9255 Kingston Pike",
-          "PMB 11311"
-        ],
-        "city": "KNOXVILLE",
-        "state": "TN",
-        "postalCode": "37922-2318"
+        "city": "HARRISBURG",
+        "state": "PA",
+        "postalCode": "17101-1092"
       },
       {
         "line": [
@@ -162,23 +76,6 @@
         "city": "OLYMPIA",
         "state": "WA",
         "postalCode": "98512-0410"
-      },
-      {
-        "line": [
-          "2030 W Baseline Rd #182-1844"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85041-6574"
-      },
-      {
-        "line": [
-          "945 McKinney Street",
-          "#14629"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77002-6308"
       },
       {
         "line": [
@@ -199,30 +96,46 @@
       },
       {
         "line": [
-          "229 Brookwood Drive",
-          "Suite 14"
+          "2863 NW CROSSING DR",
+          "STE 219"
         ],
-        "city": "SOUTH LYON",
-        "state": "MI",
-        "postalCode": "48178-1858"
+        "city": "BEND",
+        "state": "OR",
+        "postalCode": "97703-7190"
       },
       {
         "line": [
-          "1658 Milwaukee Avenue",
-          "PMB 93871"
+          "2030 W Baseline Rd #182-1844"
         ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60647-6905"
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85041-6574"
       },
       {
         "line": [
-          "2 OFFICE PARK CT",
-          "STE 103"
+          "9255 Kingston Pike",
+          "PMB 11311"
         ],
-        "city": "COLUMBIA",
-        "state": "SC",
-        "postalCode": "29223-5948"
+        "city": "KNOXVILLE",
+        "state": "TN",
+        "postalCode": "37922-2318"
+      },
+      {
+        "line": [
+          "901 South Whitney Way"
+        ],
+        "city": "MADISON",
+        "state": "WI",
+        "postalCode": "53711-2553"
+      },
+      {
+        "line": [
+          "6160 Summit Drive N",
+          "Suite 205"
+        ],
+        "city": "MINNEAPOLIS",
+        "state": "MN",
+        "postalCode": "55430-2118"
       },
       {
         "line": [
@@ -235,11 +148,29 @@
       },
       {
         "line": [
-          "600 North 2nd Street"
+          "1658 Milwaukee Avenue",
+          "PMB 93871"
         ],
-        "city": "HARRISBURG",
-        "state": "PA",
-        "postalCode": "17101-1092"
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60647-6905"
+      },
+      {
+        "line": [
+          "945 McKinney Street",
+          "#14629"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77002-6308"
+      },
+      {
+        "line": [
+          "316 BERRHILL DR"
+        ],
+        "city": "WILLIAMSTOWN",
+        "state": "NJ",
+        "postalCode": "08094-3669"
       },
       {
         "line": [
@@ -248,6 +179,91 @@
         "city": "LUTHERVILLE",
         "state": "MD",
         "postalCode": "21093-5611"
+      },
+      {
+        "line": [
+          "386 Park Avenue South, 5th floor"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10016-8804"
+      },
+      {
+        "line": [
+          "386 PARK AVENUE SOUTH, 5TH FLOOR",
+          "5th floor"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10016-8804"
+      },
+      {
+        "line": [
+          "250 Browns Hill Court"
+        ],
+        "city": "MIDLOTHIAN",
+        "state": "VA",
+        "postalCode": "23114-9510"
+      },
+      {
+        "line": [
+          "4592 CAMINO DEL MIRASOL"
+        ],
+        "city": "SANTA BARBARA",
+        "state": "CA",
+        "postalCode": "93110-1003"
+      },
+      {
+        "line": [
+          "45 SCHOOL ST",
+          "STE 202"
+        ],
+        "city": "BOSTON",
+        "state": "MA",
+        "postalCode": "02108-3206"
+      },
+      {
+        "line": [
+          "2205 W 136th Avenue",
+          "Suite 106 PMB 85921"
+        ],
+        "city": "BROOMFIELD",
+        "state": "CO",
+        "postalCode": "80023-9306"
+      },
+      {
+        "line": [
+          "2 OFFICE PARK CT",
+          "STE 103"
+        ],
+        "city": "COLUMBIA",
+        "state": "SC",
+        "postalCode": "29223-5948"
+      },
+      {
+        "line": [
+          "4470 W Sunset Blvd"
+        ],
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "postalCode": "90027-6302"
+      },
+      {
+        "line": [
+          "9221 Crawfordsville Road"
+        ],
+        "city": "INDIANAPOLIS",
+        "state": "IN",
+        "postalCode": "46234-1521"
+      },
+      {
+        "line": [
+          "386 Park Avenue South",
+          "5th floor,"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10016-8804"
       },
       {
         "line": [
@@ -269,28 +285,12 @@
       },
       {
         "line": [
-          "316 BERRHILL DR"
+          "229 Brookwood Drive",
+          "Suite 14"
         ],
-        "city": "WILLIAMSTOWN",
-        "state": "NJ",
-        "postalCode": "08094-3669"
-      },
-      {
-        "line": [
-          "386 Park Avenue South",
-          "5th floor,"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10016-8804"
-      },
-      {
-        "line": [
-          "9221 Crawfordsville Road"
-        ],
-        "city": "INDIANAPOLIS",
-        "state": "IN",
-        "postalCode": "46234-1521"
+        "city": "SOUTH LYON",
+        "state": "MI",
+        "postalCode": "48178-1858"
       }
     ],
     "extension": [

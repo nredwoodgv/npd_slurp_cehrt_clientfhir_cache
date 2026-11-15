@@ -14,15 +14,27 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1750146999"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1407558349"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1619502622"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932109048"
+        "value": "1750146056"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881426146"
+        "value": "1124802061"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1043042393"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,23 +46,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861014284"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1245040278"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750146999"
+        "value": "1033990064"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164231171"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124802061"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861014284"
+        "value": "1932109048"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,15 +66,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881275915"
+        "value": "1881426146"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790517050"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1043042393"
+        "value": "1164231171"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -74,18 +78,30 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407558349"
+        "value": "1790517050"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750146056"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033990064"
+        "value": "1881275915"
       }
     ],
     "address": [
+      {
+        "line": [
+          "707 N IOWA ST"
+        ],
+        "city": "GUNNISON",
+        "state": "CO",
+        "postalCode": "81230-2229"
+      },
+      {
+        "line": [
+          "214 6TH ST STE 1"
+        ],
+        "city": "CRESTED BUTTE",
+        "state": "CO",
+        "postalCode": "81224-5519"
+      },
       {
         "line": [
           "130 E VIRGINIA AVE"
@@ -101,22 +117,6 @@
         "city": "CRESTED BUTTE",
         "state": "CO",
         "postalCode": "81224-1234"
-      },
-      {
-        "line": [
-          "214 6TH ST STE 1"
-        ],
-        "city": "CRESTED BUTTE",
-        "state": "CO",
-        "postalCode": "81224-5519"
-      },
-      {
-        "line": [
-          "707 N IOWA ST"
-        ],
-        "city": "GUNNISON",
-        "state": "CO",
-        "postalCode": "81230-2229"
       }
     ],
     "extension": [

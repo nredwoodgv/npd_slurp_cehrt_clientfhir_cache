@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598982837"
+        "value": "1932368537"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,23 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1104236249"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528283033"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932368537"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487873691"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1346620846"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1467493213"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,18 +34,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467493213"
+        "value": "1528283033"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1104236249"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487873691"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598982837"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1400 Genesys Parkway"
-        ],
-        "city": "GRAND BLANC",
-        "state": "MI",
-        "postalCode": "48439-8065"
-      },
       {
         "line": [
           "1400 Genesys Pkwy"
@@ -73,6 +65,14 @@
         "city": "GRAND BLANC",
         "state": "MI",
         "postalCode": "48439-2558"
+      },
+      {
+        "line": [
+          "1400 Genesys Parkway"
+        ],
+        "city": "GRAND BLANC",
+        "state": "MI",
+        "postalCode": "48439-8065"
       }
     ],
     "extension": [

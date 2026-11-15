@@ -18,23 +18,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992321558"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962028431"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568088029"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1467078063"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265810980"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,15 +26,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730705047"
+        "value": "1447876156"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538699426"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326553371"
+        "value": "1265810980"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -58,11 +38,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801568274"
+        "value": "1659998573"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447876156"
+        "value": "1568088029"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -70,7 +50,23 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1265784912"
+        "value": "1326553371"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992321558"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1801568274"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1538699426"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730705047"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -78,7 +74,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659998573"
+        "value": "1265784912"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962028431"
       }
     ],
     "address": [
@@ -89,22 +89,6 @@
         "city": "NEW YORK",
         "state": "NY",
         "postalCode": "10001-5411"
-      },
-      {
-        "line": [
-          "7777 FOREST LN STE B122"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75230-6806"
-      },
-      {
-        "line": [
-          "700 SE 3RD AVE"
-        ],
-        "city": "FORT LAUDERDALE",
-        "state": "FL",
-        "postalCode": "33316-1139"
       },
       {
         "line": [
@@ -121,6 +105,22 @@
         "city": "BEVERLY HILLS",
         "state": "CA",
         "postalCode": "90211-2920"
+      },
+      {
+        "line": [
+          "7777 FOREST LN STE B122"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75230-6806"
+      },
+      {
+        "line": [
+          "700 SE 3RD AVE"
+        ],
+        "city": "FORT LAUDERDALE",
+        "state": "FL",
+        "postalCode": "33316-1139"
       }
     ],
     "extension": [

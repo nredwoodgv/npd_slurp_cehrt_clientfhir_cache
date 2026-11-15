@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295753887"
+        "value": "1174848907"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1174848907"
+        "value": "1295753887"
       }
     ],
     "address": [
-      {
-        "line": [
-          "551 HILL COUNTRY DR"
-        ],
-        "city": "KERRVILLE",
-        "state": "TX",
-        "postalCode": "78028-5950"
-      },
-      {
-        "line": [
-          "349 REID RD"
-        ],
-        "city": "JUNCTION",
-        "state": "TX",
-        "postalCode": "76849-3049"
-      },
       {
         "line": [
           "1001 Water St.",
@@ -49,8 +33,16 @@
       },
       {
         "line": [
+          "551 HILL COUNTRY DR"
+        ],
+        "city": "KERRVILLE",
+        "state": "TX",
+        "postalCode": "78028-5950"
+      },
+      {
+        "line": [
           "1001 WATER ST",
-          "BLDG C"
+          "D-200"
         ],
         "city": "KERRVILLE",
         "state": "TX",
@@ -58,8 +50,16 @@
       },
       {
         "line": [
+          "349 REID RD"
+        ],
+        "city": "JUNCTION",
+        "state": "TX",
+        "postalCode": "76849-3049"
+      },
+      {
+        "line": [
           "1001 WATER ST",
-          "D-200"
+          "BLDG C"
         ],
         "city": "KERRVILLE",
         "state": "TX",

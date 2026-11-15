@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588157424"
+        "value": "1700105079"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700105079"
+        "value": "1588157424"
       }
     ],
     "address": [
-      {
-        "line": [
-          "744 Empire St. Suite 160"
-        ],
-        "city": "FAIRFIELD",
-        "state": "CA",
-        "postalCode": "94533-5562"
-      },
       {
         "line": [
           "5601 ARNOLD RD STE 102B"
@@ -40,11 +32,11 @@
       },
       {
         "line": [
-          "180 Grand Ave #225"
+          "800 N 1st St. 2nd Floor"
         ],
-        "city": "OAKLAND",
+        "city": "SAN JOSE",
         "state": "CA",
-        "postalCode": "94612-3769"
+        "postalCode": "95112-6312"
       },
       {
         "line": [
@@ -56,11 +48,19 @@
       },
       {
         "line": [
-          "800 N 1st St. 2nd Floor"
+          "180 Grand Ave #225"
         ],
-        "city": "SAN JOSE",
+        "city": "OAKLAND",
         "state": "CA",
-        "postalCode": "95112-6312"
+        "postalCode": "94612-3769"
+      },
+      {
+        "line": [
+          "744 Empire St. Suite 160"
+        ],
+        "city": "FAIRFIELD",
+        "state": "CA",
+        "postalCode": "94533-5562"
       }
     ],
     "extension": [

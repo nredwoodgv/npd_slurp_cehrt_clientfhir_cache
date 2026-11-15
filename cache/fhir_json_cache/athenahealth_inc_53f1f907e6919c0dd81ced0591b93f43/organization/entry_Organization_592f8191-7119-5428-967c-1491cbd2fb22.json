@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962933416"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154584373"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083014914"
+        "value": "1376862151"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245769744"
+        "value": "1962933416"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1083014914"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,15 +34,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376862151"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1538430533"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760599906"
+        "value": "1245769744"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154584373"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -55,6 +51,10 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1902002272"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1760599906"
       }
     ],
     "address": [
@@ -65,6 +65,14 @@
         "city": "SHERIDAN",
         "state": "MI",
         "postalCode": "48884-9235"
+      },
+      {
+        "line": [
+          "5900 Byron Center Ave SW"
+        ],
+        "city": "WYOMING",
+        "state": "MI",
+        "postalCode": "49519-9606"
       },
       {
         "line": [
@@ -81,14 +89,6 @@
         "city": "GRAND RAPIDS",
         "state": "MI",
         "postalCode": "49503-5247"
-      },
-      {
-        "line": [
-          "5900 Byron Center Ave SW"
-        ],
-        "city": "WYOMING",
-        "state": "MI",
-        "postalCode": "49519-9606"
       }
     ],
     "extension": [

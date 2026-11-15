@@ -3,7 +3,7 @@
     "resourceType": "Organization",
     "id": "3a24d5d3-bab9-5960-8a20-8fd2554c57f3",
     "meta": {
-      "lastUpdated": "2024-12-10T01:21:49.000Z"
+      "lastUpdated": "2026-11-13T17:14:46.695Z"
     },
     "identifier": [
       {
@@ -44,9 +44,6 @@
     "endpoint": [
       {
         "reference": "urn:uuid:91fa502b-4ca6-5d4f-a328-9c2cdfe857ed"
-      },
-      {
-        "reference": "urn:uuid:8193ed36-fd43-4351-9cbe-9e276c5d36d0"
       }
     ],
     "extension": [
@@ -57,12 +54,6 @@
             "url": "portalEndpoint",
             "valueReference": {
               "reference": "urn:uuid:91fa502b-4ca6-5d4f-a328-9c2cdfe857ed"
-            }
-          },
-          {
-            "url": "portalEndpoint",
-            "valueReference": {
-              "reference": "urn:uuid:8193ed36-fd43-4351-9cbe-9e276c5d36d0"
             }
           }
         ]

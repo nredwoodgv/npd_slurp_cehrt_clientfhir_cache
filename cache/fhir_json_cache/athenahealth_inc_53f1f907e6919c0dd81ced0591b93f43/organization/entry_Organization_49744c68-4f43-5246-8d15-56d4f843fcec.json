@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629398219"
+        "value": "1821349317"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821349317"
+        "value": "1629398219"
       }
     ],
     "address": [
-      {
-        "line": [
-          "480 JACKSON STREET"
-        ],
-        "city": "METHUEN",
-        "state": "MA",
-        "postalCode": "01844-4020"
-      },
-      {
-        "line": [
-          "126 MONUMENT STREET"
-        ],
-        "city": "HAVERHILL",
-        "state": "MA",
-        "postalCode": "01832-2527"
-      },
       {
         "line": [
           "10 INGALLS CT"
@@ -53,6 +37,22 @@
         "city": "LAWRENCE",
         "state": "MA",
         "postalCode": "01841-3849"
+      },
+      {
+        "line": [
+          "480 JACKSON STREET"
+        ],
+        "city": "METHUEN",
+        "state": "MA",
+        "postalCode": "01844-4020"
+      },
+      {
+        "line": [
+          "126 MONUMENT STREET"
+        ],
+        "city": "HAVERHILL",
+        "state": "MA",
+        "postalCode": "01832-2527"
       }
     ],
     "extension": [

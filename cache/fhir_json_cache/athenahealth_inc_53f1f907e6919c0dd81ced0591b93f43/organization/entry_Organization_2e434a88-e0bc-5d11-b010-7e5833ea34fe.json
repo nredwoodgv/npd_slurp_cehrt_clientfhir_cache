@@ -14,25 +14,25 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1255471827"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1831150119"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1558665752"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1255471827"
       }
     ],
     "address": [
       {
         "line": [
-          "56 Marie Langdon Dr"
+          "94 Marie Langdon Drive Ste 2"
         ],
         "city": "MANCHESTER",
         "state": "KY",
-        "postalCode": "40962-6329"
+        "postalCode": "40962-6345"
       },
       {
         "line": [
@@ -44,11 +44,19 @@
       },
       {
         "line": [
-          "94 Marie Langdon Dr Ste 1"
+          "56 Marie Langdon Dr"
         ],
         "city": "MANCHESTER",
         "state": "KY",
-        "postalCode": "40962-6345"
+        "postalCode": "40962-6329"
+      },
+      {
+        "line": [
+          "65 Glenndale Drive Ste 1"
+        ],
+        "city": "MANCHESTER",
+        "state": "KY",
+        "postalCode": "40962-6212"
       },
       {
         "line": [
@@ -60,19 +68,11 @@
       },
       {
         "line": [
-          "94 Marie Langdon Drive Ste 2"
+          "94 Marie Langdon Dr Ste 1"
         ],
         "city": "MANCHESTER",
         "state": "KY",
         "postalCode": "40962-6345"
-      },
-      {
-        "line": [
-          "65 Glenndale Drive Ste 1"
-        ],
-        "city": "MANCHESTER",
-        "state": "KY",
-        "postalCode": "40962-6212"
       }
     ],
     "extension": [

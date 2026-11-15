@@ -22,14 +22,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144250176"
+        "value": "1780225326"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780225326"
+        "value": "1144250176"
       }
     ],
     "address": [
+      {
+        "line": [
+          "5011 Arbutus Ave"
+        ],
+        "city": "BALTIMORE",
+        "state": "MD",
+        "postalCode": "21215-5723"
+      },
       {
         "line": [
           "621 Wildwood Parkway"
@@ -48,12 +56,11 @@
       },
       {
         "line": [
-          "900 Caton Ave",
-          "4th Floor"
+          "4502 Park Heights Ave"
         ],
-        "city": "BALTIMORE",
+        "city": "Baltimore",
         "state": "MD",
-        "postalCode": "21229-5201"
+        "postalCode": "21215-6330"
       },
       {
         "line": [
@@ -65,27 +72,20 @@
       },
       {
         "line": [
+          "900 Caton Ave",
+          "4th Floor"
+        ],
+        "city": "BALTIMORE",
+        "state": "MD",
+        "postalCode": "21229-5201"
+      },
+      {
+        "line": [
           "3701 Eldorado Ave"
         ],
         "city": "BALTIMORE",
         "state": "MD",
         "postalCode": "21207-7658"
-      },
-      {
-        "line": [
-          "4502 Park Heights Ave"
-        ],
-        "city": "Baltimore",
-        "state": "MD",
-        "postalCode": "21215-6330"
-      },
-      {
-        "line": [
-          "5011 Arbutus Ave"
-        ],
-        "city": "BALTIMORE",
-        "state": "MD",
-        "postalCode": "21215-5723"
       }
     ],
     "extension": [

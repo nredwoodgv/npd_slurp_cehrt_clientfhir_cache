@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871553073"
+        "value": "1023204062"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023204062"
+        "value": "1871553073"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,19 +32,11 @@
     "address": [
       {
         "line": [
-          "609 W MAPLE AVE"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72764-5335"
-      },
-      {
-        "line": [
-          "2900 Medical Center Pkwy"
+          "3000 MEDICAL CTR PKWY"
         ],
         "city": "BENTONVILLE",
         "state": "AR",
-        "postalCode": "72712-3204"
+        "postalCode": "72712-3217"
       },
       {
         "line": [
@@ -53,6 +45,14 @@
         "city": "SPRINGDALE",
         "state": "AR",
         "postalCode": "72764-5335"
+      },
+      {
+        "line": [
+          "2900 Medical Center Parkway"
+        ],
+        "city": "BENTONVILLE",
+        "state": "AR",
+        "postalCode": "72712-3204"
       },
       {
         "line": [
@@ -66,6 +66,22 @@
         "line": [
           "609 W Maple Ave"
         ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72764-7462"
+      },
+      {
+        "line": [
+          "609 W MAPLE AVE"
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72764-5335"
+      },
+      {
+        "line": [
+          "609 W Maple Ave"
+        ],
         "city": "Springdale",
         "state": "AR",
         "postalCode": "72764-5335"
@@ -74,33 +90,17 @@
         "line": [
           "2900 Medical Center Pkwy"
         ],
+        "city": "BENTONVILLE",
+        "state": "AR",
+        "postalCode": "72712-3204"
+      },
+      {
+        "line": [
+          "2900 Medical Center Pkwy"
+        ],
         "city": "Bentonville",
         "state": "AR",
         "postalCode": "72712-3204"
-      },
-      {
-        "line": [
-          "2900 Medical Center Parkway"
-        ],
-        "city": "BENTONVILLE",
-        "state": "AR",
-        "postalCode": "72712-3204"
-      },
-      {
-        "line": [
-          "609 W Maple Ave"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72764-7462"
-      },
-      {
-        "line": [
-          "3000 MEDICAL CTR PKWY"
-        ],
-        "city": "BENTONVILLE",
-        "state": "AR",
-        "postalCode": "72712-3217"
       }
     ],
     "extension": [
