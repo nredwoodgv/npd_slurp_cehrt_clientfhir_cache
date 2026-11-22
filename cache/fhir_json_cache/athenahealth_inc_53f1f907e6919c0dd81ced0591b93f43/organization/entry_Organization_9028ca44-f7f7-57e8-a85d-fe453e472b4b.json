@@ -14,19 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427035039"
+        "value": "1568536480"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568536480"
+        "value": "1427035039"
       }
     ],
     "address": [
       {
         "line": [
-          "850 S. 5th St"
+          "850 South 5th Steet"
         ],
-        "city": "ALLENTOWN",
+        "city": "Allentown",
         "state": "PA",
         "postalCode": "18103-3308"
       },
@@ -40,6 +40,15 @@
       },
       {
         "line": [
+          "Performing Arts, Rehabilitation Center",
+          "800 Eaton Ave"
+        ],
+        "city": "BETHLEHEM",
+        "state": "PA",
+        "postalCode": "18018-1895"
+      },
+      {
+        "line": [
           "175 West North Street"
         ],
         "city": "NAZARETH",
@@ -48,20 +57,11 @@
       },
       {
         "line": [
-          "850 South 5th Steet"
+          "850 S. 5th St"
         ],
-        "city": "Allentown",
+        "city": "ALLENTOWN",
         "state": "PA",
         "postalCode": "18103-3308"
-      },
-      {
-        "line": [
-          "Performing Arts, Rehabilitation Center",
-          "800 Eaton Ave"
-        ],
-        "city": "BETHLEHEM",
-        "state": "PA",
-        "postalCode": "18018-1895"
       },
       {
         "line": [

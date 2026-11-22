@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023088168"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1750680757"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912965088"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,11 +22,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457663197"
+        "value": "1700831500"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700831500"
+        "value": "1912965088"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1023088168"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457663197"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -48,11 +48,11 @@
     "address": [
       {
         "line": [
-          "16001 W 9 Mile Rd"
+          "11800 E. 12 Mile Rd."
         ],
-        "city": "SOUTHFIELD",
+        "city": "WARREN",
         "state": "MI",
-        "postalCode": "48075-4818"
+        "postalCode": "48093-3472"
       },
       {
         "line": [
@@ -64,19 +64,11 @@
       },
       {
         "line": [
-          "1101 University Dr."
+          "16001 W 9 Mile Rd"
         ],
-        "city": "ROCHESTER",
+        "city": "SOUTHFIELD",
         "state": "MI",
-        "postalCode": "48307-1863"
-      },
-      {
-        "line": [
-          "11800 E. 12 Mile Rd."
-        ],
-        "city": "WARREN",
-        "state": "MI",
-        "postalCode": "48093-3472"
+        "postalCode": "48075-4818"
       },
       {
         "line": [
@@ -85,6 +77,14 @@
         "city": "MADISON HEIGHTS",
         "state": "MI",
         "postalCode": "48071-3487"
+      },
+      {
+        "line": [
+          "1101 University Dr."
+        ],
+        "city": "ROCHESTER",
+        "state": "MI",
+        "postalCode": "48307-1863"
       }
     ],
     "extension": [

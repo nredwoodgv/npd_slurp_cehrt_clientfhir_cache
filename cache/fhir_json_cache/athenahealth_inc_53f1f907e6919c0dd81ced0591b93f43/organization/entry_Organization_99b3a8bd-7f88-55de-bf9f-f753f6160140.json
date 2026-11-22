@@ -18,11 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619214624"
+        "value": "1063630820"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063630820"
+        "value": "1619214624"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,27 +32,19 @@
     "address": [
       {
         "line": [
-          "1001 S 34th"
-        ],
-        "city": "MOUNT VERNON",
-        "state": "IL",
-        "postalCode": "62864-6232"
-      },
-      {
-        "line": [
-          "100 Mark Franklin St."
-        ],
-        "city": "BENTON",
-        "state": "IL",
-        "postalCode": "62812-2049"
-      },
-      {
-        "line": [
           "405 W Carpenter St."
         ],
         "city": "MC LEANSBORO",
         "state": "IL",
         "postalCode": "62859-1012"
+      },
+      {
+        "line": [
+          "601 N Columbia"
+        ],
+        "city": "WEST FRANKFORT",
+        "state": "IL",
+        "postalCode": "62896-1859"
       },
       {
         "line": [
@@ -64,22 +56,6 @@
       },
       {
         "line": [
-          "PO BOX 968"
-        ],
-        "city": "BENTON",
-        "state": "IL",
-        "postalCode": "62812-0968"
-      },
-      {
-        "line": [
-          "PO BOX 847"
-        ],
-        "city": "BENTON",
-        "state": "IL",
-        "postalCode": "62812-0847"
-      },
-      {
-        "line": [
           "792 N Main St."
         ],
         "city": "ANNA",
@@ -88,7 +64,15 @@
       },
       {
         "line": [
-          "1933 S. 42nd St."
+          "PO BOX 968"
+        ],
+        "city": "BENTON",
+        "state": "IL",
+        "postalCode": "62812-0968"
+      },
+      {
+        "line": [
+          "#5 Doctors Park"
         ],
         "city": "MOUNT VERNON",
         "state": "IL",
@@ -104,7 +88,15 @@
       },
       {
         "line": [
-          "#5 Doctors Park"
+          "600 New Fairfield Rd."
+        ],
+        "city": "MOUNT VERNON",
+        "state": "IL",
+        "postalCode": "62864-9998"
+      },
+      {
+        "line": [
+          "1933 S. 42nd St."
         ],
         "city": "MOUNT VERNON",
         "state": "IL",
@@ -112,19 +104,27 @@
       },
       {
         "line": [
-          "601 N Columbia"
+          "100 Mark Franklin St."
         ],
-        "city": "WEST FRANKFORT",
+        "city": "BENTON",
         "state": "IL",
-        "postalCode": "62896-1859"
+        "postalCode": "62812-2049"
       },
       {
         "line": [
-          "600 New Fairfield Rd."
+          "PO BOX 847"
+        ],
+        "city": "BENTON",
+        "state": "IL",
+        "postalCode": "62812-0847"
+      },
+      {
+        "line": [
+          "1001 S 34th"
         ],
         "city": "MOUNT VERNON",
         "state": "IL",
-        "postalCode": "62864-9998"
+        "postalCode": "62864-6232"
       }
     ],
     "extension": [

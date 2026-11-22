@@ -14,27 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669801585"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215999511"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1124080320"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053373951"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215348487"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649232984"
+        "value": "1730484031"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -42,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730484031"
+        "value": "1124080320"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,13 +30,41 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1669801585"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215348487"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962602300"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1215999511"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053373951"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649232984"
       }
     ],
     "address": [
       {
         "line": [
-          "600 N Park"
+          "1602 E Rock Prairie Ste 1100"
+        ],
+        "city": "COLLEGE STATION",
+        "state": "TX",
+        "postalCode": "77845-0001"
+      },
+      {
+        "line": [
+          "600 N. Park"
         ],
         "city": "BRENHAM",
         "state": "TX",
@@ -72,11 +80,67 @@
       },
       {
         "line": [
-          "1605 Rock Prairie Ste 100"
+          "1602 Rock Prairie Ste 4000"
         ],
         "city": "COLLEGE STATION",
         "state": "TX",
-        "postalCode": "77845-8358"
+        "postalCode": "77845-5991"
+      },
+      {
+        "line": [
+          "1602 Rock Prairie Ste 2400"
+        ],
+        "city": "COLLEGE STATION",
+        "state": "TX",
+        "postalCode": "77845-0001"
+      },
+      {
+        "line": [
+          "500 E Washington"
+        ],
+        "city": "NAVASOTA",
+        "state": "TX",
+        "postalCode": "77868-3001"
+      },
+      {
+        "line": [
+          "1602 E Rock Prairie Ste 460"
+        ],
+        "city": "COLLEGE STATION",
+        "state": "TX",
+        "postalCode": "77845-8309"
+      },
+      {
+        "line": [
+          "1602 Rock Prairie Dr Set 270"
+        ],
+        "city": "COLLEGE STATION",
+        "state": "TX",
+        "postalCode": "77845-8789"
+      },
+      {
+        "line": [
+          "1602 Rock Prairie Ste 4400"
+        ],
+        "city": "COLLEGE STATION",
+        "state": "TX",
+        "postalCode": "77845-5986"
+      },
+      {
+        "line": [
+          "1602 Rock Prairie Dr Ste 270"
+        ],
+        "city": "COLLEGE STATION",
+        "state": "TX",
+        "postalCode": "77845-8789"
+      },
+      {
+        "line": [
+          "1602 Rock Prairie Dr Ste 460"
+        ],
+        "city": "COLLEGE STATION",
+        "state": "TX",
+        "postalCode": "77845-8309"
       },
       {
         "line": [
@@ -104,11 +168,11 @@
       },
       {
         "line": [
-          "1721 Birmingham Drive"
+          "600 N Park"
         ],
-        "city": "COLLEGE STATION",
+        "city": "BRENHAM",
         "state": "TX",
-        "postalCode": "77845-4082"
+        "postalCode": "77833-2610"
       },
       {
         "line": [
@@ -120,67 +184,19 @@
       },
       {
         "line": [
-          "600 N. Park"
+          "1002 W Brown St"
         ],
-        "city": "BRENHAM",
+        "city": "HEARNE",
         "state": "TX",
-        "postalCode": "77833-2610"
+        "postalCode": "77859-3063"
       },
       {
         "line": [
-          "1602 Rock Prairie Dr Set 270"
+          "1605 Rock Prairie Ste 100"
         ],
         "city": "COLLEGE STATION",
         "state": "TX",
-        "postalCode": "77845-8789"
-      },
-      {
-        "line": [
-          "1602 E Rock Prairie Ste 1100"
-        ],
-        "city": "COLLEGE STATION",
-        "state": "TX",
-        "postalCode": "77845-0001"
-      },
-      {
-        "line": [
-          "1602 Rock Prairie Dr Ste 270"
-        ],
-        "city": "COLLEGE STATION",
-        "state": "TX",
-        "postalCode": "77845-8789"
-      },
-      {
-        "line": [
-          "1602 Rock Prairie Ste 4400"
-        ],
-        "city": "COLLEGE STATION",
-        "state": "TX",
-        "postalCode": "77845-5986"
-      },
-      {
-        "line": [
-          "1602 E Rock Prairie Ste 460"
-        ],
-        "city": "COLLEGE STATION",
-        "state": "TX",
-        "postalCode": "77845-8309"
-      },
-      {
-        "line": [
-          "500 E Washington"
-        ],
-        "city": "NAVASOTA",
-        "state": "TX",
-        "postalCode": "77868-3001"
-      },
-      {
-        "line": [
-          "1602 Rock Prairie Dr Ste 460"
-        ],
-        "city": "COLLEGE STATION",
-        "state": "TX",
-        "postalCode": "77845-8309"
+        "postalCode": "77845-8358"
       },
       {
         "line": [
@@ -192,27 +208,11 @@
       },
       {
         "line": [
-          "1602 Rock Prairie Ste 2400"
+          "1721 Birmingham Drive"
         ],
         "city": "COLLEGE STATION",
         "state": "TX",
-        "postalCode": "77845-0001"
-      },
-      {
-        "line": [
-          "1602 Rock Prairie Ste 4000"
-        ],
-        "city": "COLLEGE STATION",
-        "state": "TX",
-        "postalCode": "77845-5991"
-      },
-      {
-        "line": [
-          "1002 W Brown St"
-        ],
-        "city": "HEARNE",
-        "state": "TX",
-        "postalCode": "77859-3063"
+        "postalCode": "77845-4082"
       }
     ],
     "extension": [

@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629538491"
+        "value": "1588997233"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,11 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588997233"
+        "value": "1629538491"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962025148"
+        "value": "1730412388"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,25 +34,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730412388"
+        "value": "1962025148"
       }
     ],
     "address": [
       {
         "line": [
-          "4301 W William Cannon DR, Bldg. E, Suite 320"
+          "4616 W Howard Lane Suite 850"
         ],
         "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "78749-1474"
-      },
-      {
-        "line": [
-          "7900 FM 1826"
-        ],
-        "city": "Austin",
-        "state": "TX",
-        "postalCode": "78737-1407"
+        "postalCode": "78728-6300"
       },
       {
         "line": [
@@ -64,19 +56,19 @@
       },
       {
         "line": [
-          "505 Barton Springs Rd, Ste 400"
-        ],
-        "city": "Austin",
-        "state": "TX",
-        "postalCode": "78704-1216"
-      },
-      {
-        "line": [
           "1520 Rutherford Ln"
         ],
         "city": "Austin",
         "state": "TX",
         "postalCode": "78754-3827"
+      },
+      {
+        "line": [
+          "2716 Spirit of Texas Dr, Ste 160"
+        ],
+        "city": "Austin",
+        "state": "TX",
+        "postalCode": "78719-2353"
       },
       {
         "line": [
@@ -88,6 +80,22 @@
       },
       {
         "line": [
+          "4301 W William Cannon DR, Bldg. E, Suite 320"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78749-1474"
+      },
+      {
+        "line": [
+          "505 Barton Springs Rd, Ste 400"
+        ],
+        "city": "Austin",
+        "state": "TX",
+        "postalCode": "78704-1216"
+      },
+      {
+        "line": [
           "201 Seton Parkway"
         ],
         "city": "Round Rock",
@@ -96,19 +104,11 @@
       },
       {
         "line": [
-          "4616 W Howard Lane Suite 850"
+          "7900 FM 1826"
         ],
-        "city": "AUSTIN",
+        "city": "Austin",
         "state": "TX",
-        "postalCode": "78728-6300"
-      },
-      {
-        "line": [
-          "1512 Town Center Dr Suite 100"
-        ],
-        "city": "PFLUGERVILLE",
-        "state": "TX",
-        "postalCode": "78660-7679"
+        "postalCode": "78737-1407"
       },
       {
         "line": [
@@ -120,11 +120,11 @@
       },
       {
         "line": [
-          "2716 Spirit of Texas Dr, Ste 160"
+          "1512 Town Center Dr Suite 100"
         ],
-        "city": "Austin",
+        "city": "PFLUGERVILLE",
         "state": "TX",
-        "postalCode": "78719-2353"
+        "postalCode": "78660-7679"
       }
     ],
     "extension": [

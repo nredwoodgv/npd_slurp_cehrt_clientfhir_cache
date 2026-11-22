@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962025148"
+        "value": "1508489782"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,10 +26,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508489782"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1275290694"
       },
       {
@@ -38,17 +34,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336456227"
+        "value": "1962025148"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1588971477"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336456227"
       }
     ],
     "address": [
       {
         "line": [
-          "1601 Trinity Street Suite 6"
+          "1601 Trinity St",
+          "Suite 1.106"
         ],
         "city": "AUSTIN",
         "state": "TX",
@@ -65,8 +66,15 @@
       },
       {
         "line": [
-          "1601 Trinity St",
-          "Suite 1.106"
+          "1601 Trinity Street, Bldg A, Suite 9.901S"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78712-1766"
+      },
+      {
+        "line": [
+          "1601 Trinity Street Suite 6"
         ],
         "city": "AUSTIN",
         "state": "TX",
@@ -77,14 +85,6 @@
           "1601 Trinity Street, STOP A, Suite 9.901S"
         ],
         "city": "Austin",
-        "state": "TX",
-        "postalCode": "78712-1766"
-      },
-      {
-        "line": [
-          "1601 Trinity Street, Bldg A, Suite 9.901S"
-        ],
-        "city": "AUSTIN",
         "state": "TX",
         "postalCode": "78712-1766"
       }

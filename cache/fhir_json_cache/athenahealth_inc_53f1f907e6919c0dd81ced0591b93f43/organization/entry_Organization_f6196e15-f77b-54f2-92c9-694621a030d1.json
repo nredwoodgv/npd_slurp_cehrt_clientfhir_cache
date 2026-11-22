@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013031368"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932402484"
       },
       {
@@ -27,16 +23,20 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649228966"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013031368"
       }
     ],
     "address": [
       {
         "line": [
-          "1615 OAKWOOD STREET"
+          "2025 TATE SRINGS ROAD SUITE B1"
         ],
-        "city": "BEDFORD",
+        "city": "LYNCHBURG",
         "state": "VA",
-        "postalCode": "24523-1213"
+        "postalCode": "24501-1116"
       },
       {
         "line": [
@@ -56,19 +56,19 @@
       },
       {
         "line": [
-          "2025 TATE SRINGS ROAD SUITE B1"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24501-1116"
-      },
-      {
-        "line": [
           "1901 TATE SPRINGS ROAD"
         ],
         "city": "LYNCHBURG",
         "state": "VA",
         "postalCode": "24501-1109"
+      },
+      {
+        "line": [
+          "1615 OAKWOOD STREET"
+        ],
+        "city": "BEDFORD",
+        "state": "VA",
+        "postalCode": "24523-1213"
       },
       {
         "line": [

@@ -3,7 +3,7 @@
     "resourceType": "Organization",
     "id": "f6ed090b-36f1-500e-9b01-1a8daf3d1be0",
     "meta": {
-      "lastUpdated": "2023-01-04T17:00:00.000Z"
+      "lastUpdated": "2026-11-19T09:15:16.000Z"
     },
     "identifier": [
       {
@@ -42,6 +42,9 @@
       }
     ],
     "endpoint": [
+      {
+        "reference": "urn:uuid:9fb29d5e-54e5-5804-869c-b5df78d3466b"
+      },
       {
         "reference": "urn:uuid:738f0b6c-8988-4509-a9e2-dcdb9f8503cb"
       },

@@ -14,11 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861622268"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1790915395"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861622268"
+        "value": "1790711158"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,38 +34,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790711158"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1992722482"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2368 GROVE ST"
-        ],
-        "city": "VICKSBURG",
-        "state": "MS",
-        "postalCode": "39183-2857"
-      },
-      {
-        "line": [
-          "1880 Fairgrounds Rd"
-        ],
-        "city": "GREENVILLE",
-        "state": "MS",
-        "postalCode": "38703-7804"
-      },
-      {
-        "line": [
-          "350 CROSSGATES BLVD"
-        ],
-        "city": "BRANDON",
-        "state": "MS",
-        "postalCode": "39042-2601"
-      },
       {
         "line": [
           "COOL SPRINGS"
@@ -69,22 +45,6 @@
         "city": "FRANKLIN",
         "state": "TN",
         "postalCode": "37067-1704"
-      },
-      {
-        "line": [
-          "47 S FOURTH ST"
-        ],
-        "city": "ROLLING FORK",
-        "state": "MS",
-        "postalCode": "39159-5146"
-      },
-      {
-        "line": [
-          "1880 Fairgrounds Rd"
-        ],
-        "city": "Greenville",
-        "state": "MS",
-        "postalCode": "38703-7804"
       },
       {
         "line": [
@@ -96,11 +56,11 @@
       },
       {
         "line": [
-          "107 FRONT ST STE 1200"
+          "1880 Fairgrounds Rd"
         ],
-        "city": "VIDALIA",
-        "state": "LA",
-        "postalCode": "71373-2834"
+        "city": "Greenville",
+        "state": "MS",
+        "postalCode": "38703-7804"
       },
       {
         "line": [
@@ -109,6 +69,46 @@
         "city": "VICKSBURG",
         "state": "MS",
         "postalCode": "39183-8246"
+      },
+      {
+        "line": [
+          "47 S FOURTH ST"
+        ],
+        "city": "ROLLING FORK",
+        "state": "MS",
+        "postalCode": "39159-5146"
+      },
+      {
+        "line": [
+          "350 CROSSGATES BLVD"
+        ],
+        "city": "BRANDON",
+        "state": "MS",
+        "postalCode": "39042-2601"
+      },
+      {
+        "line": [
+          "1880 Fairgrounds Rd"
+        ],
+        "city": "GREENVILLE",
+        "state": "MS",
+        "postalCode": "38703-7804"
+      },
+      {
+        "line": [
+          "2368 GROVE ST"
+        ],
+        "city": "VICKSBURG",
+        "state": "MS",
+        "postalCode": "39183-2857"
+      },
+      {
+        "line": [
+          "107 FRONT ST STE 1200"
+        ],
+        "city": "VIDALIA",
+        "state": "LA",
+        "postalCode": "71373-2834"
       }
     ],
     "extension": [

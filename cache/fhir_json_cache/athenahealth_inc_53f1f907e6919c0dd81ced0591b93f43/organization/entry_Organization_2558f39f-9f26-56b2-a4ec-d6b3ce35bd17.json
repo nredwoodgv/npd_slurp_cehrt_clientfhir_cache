@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821055609"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1700088242"
       },
       {
@@ -26,10 +22,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1821055609"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1538362504"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3300 Gallows Rd"
+        ],
+        "city": "FALLS CHURCH",
+        "state": "VA",
+        "postalCode": "22042-3307"
+      },
       {
         "line": [
           "3600 Joseph Siewick Dr"
@@ -45,14 +53,6 @@
         "city": "LEESBURG",
         "state": "VA",
         "postalCode": "20176-5101"
-      },
-      {
-        "line": [
-          "3300 Gallows Rd"
-        ],
-        "city": "FALLS CHURCH",
-        "state": "VA",
-        "postalCode": "22042-3307"
       }
     ],
     "extension": [

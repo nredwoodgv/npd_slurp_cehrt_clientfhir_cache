@@ -18,6 +18,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1952252330"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649875816"
       },
       {
@@ -27,20 +31,16 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1467332312"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952252330"
       }
     ],
     "address": [
       {
         "line": [
-          "101 East Wood Street"
+          "950 N Glebe"
         ],
-        "city": "SPARTANBURG",
-        "state": "SC",
-        "postalCode": "29303-3040"
+        "city": "ARLINGTON",
+        "state": "VA",
+        "postalCode": "22203-1824"
       },
       {
         "line": [
@@ -52,12 +52,11 @@
       },
       {
         "line": [
-          "2755 South Highway 14",
-          "Entrance A"
+          "175 Patewood Drive"
         ],
-        "city": "GREER",
+        "city": "GREENVILLE",
         "state": "SC",
-        "postalCode": "29650-4926"
+        "postalCode": "29615-3570"
       },
       {
         "line": [
@@ -70,11 +69,36 @@
       },
       {
         "line": [
-          "950 N Glebe"
+          "250 Westmoreland Road"
         ],
-        "city": "ARLINGTON",
-        "state": "VA",
-        "postalCode": "22203-1824"
+        "city": "GREER",
+        "state": "SC",
+        "postalCode": "29651-9013"
+      },
+      {
+        "line": [
+          "1700 Skylyn Drive"
+        ],
+        "city": "Spartanburg",
+        "state": "SC",
+        "postalCode": "29307-1041"
+      },
+      {
+        "line": [
+          "2755 South Highway 14",
+          "Entrance A"
+        ],
+        "city": "GREER",
+        "state": "SC",
+        "postalCode": "29650-4926"
+      },
+      {
+        "line": [
+          "3 St. Francis Drive"
+        ],
+        "city": "GREENVILLE",
+        "state": "SC",
+        "postalCode": "29601-3971"
       },
       {
         "line": [
@@ -94,15 +118,6 @@
       },
       {
         "line": [
-          "105 Halton Village Circle",
-          "Suite B"
-        ],
-        "city": "GREENVILLE",
-        "state": "SC",
-        "postalCode": "29607-6832"
-      },
-      {
-        "line": [
           "214 Innovation Drive"
         ],
         "city": "GREENVILLE",
@@ -111,35 +126,11 @@
       },
       {
         "line": [
-          "3 St. Francis Drive"
+          "101 East Wood Street"
         ],
-        "city": "GREENVILLE",
+        "city": "SPARTANBURG",
         "state": "SC",
-        "postalCode": "29601-3971"
-      },
-      {
-        "line": [
-          "10 Enterprise Blvd STE 209"
-        ],
-        "city": "GREENVILLE",
-        "state": "SC",
-        "postalCode": "29615-3554"
-      },
-      {
-        "line": [
-          "1700 Skylyn Drive"
-        ],
-        "city": "Spartanburg",
-        "state": "SC",
-        "postalCode": "29307-1041"
-      },
-      {
-        "line": [
-          "250 Westmoreland Road"
-        ],
-        "city": "GREER",
-        "state": "SC",
-        "postalCode": "29651-9013"
+        "postalCode": "29303-3040"
       },
       {
         "line": [
@@ -151,11 +142,20 @@
       },
       {
         "line": [
-          "175 Patewood Drive"
+          "10 Enterprise Blvd STE 209"
         ],
         "city": "GREENVILLE",
         "state": "SC",
-        "postalCode": "29615-3570"
+        "postalCode": "29615-3554"
+      },
+      {
+        "line": [
+          "105 Halton Village Circle",
+          "Suite B"
+        ],
+        "city": "GREENVILLE",
+        "state": "SC",
+        "postalCode": "29607-6832"
       }
     ],
     "extension": [

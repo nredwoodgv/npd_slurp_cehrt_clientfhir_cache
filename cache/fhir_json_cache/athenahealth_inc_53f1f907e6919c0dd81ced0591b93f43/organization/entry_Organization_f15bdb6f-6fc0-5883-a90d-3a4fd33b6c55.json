@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649624255"
+        "value": "1225585383"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013468727"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,21 +30,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225585383"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013468727"
+        "value": "1649624255"
       }
     ],
     "address": [
       {
         "line": [
-          "1130 22ND STREET S"
+          "150 Gilbreath Dr"
         ],
-        "city": "BIRMINGHAM",
+        "city": "ONEONTA",
         "state": "AL",
-        "postalCode": "35205-2870"
+        "postalCode": "35121-2827"
       },
       {
         "line": [
@@ -69,19 +69,19 @@
       },
       {
         "line": [
-          "150 Gilbreath Dr"
-        ],
-        "city": "ONEONTA",
-        "state": "AL",
-        "postalCode": "35121-2827"
-      },
-      {
-        "line": [
           "1411 THOMPSON CIR"
         ],
         "city": "GARDENDALE",
         "state": "AL",
         "postalCode": "35071-2514"
+      },
+      {
+        "line": [
+          "1130 22ND STREET S"
+        ],
+        "city": "BIRMINGHAM",
+        "state": "AL",
+        "postalCode": "35205-2870"
       }
     ],
     "extension": [

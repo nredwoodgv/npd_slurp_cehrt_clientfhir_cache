@@ -14,51 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629843933"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225917164"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942194493"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770358095"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083480081"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841184306"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639944960"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518732833"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1295614147"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548035876"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689449910"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427823756"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,27 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306730866"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376305540"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306612817"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1922034503"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033984448"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427823749"
+        "value": "1639944960"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -94,15 +34,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336914662"
+        "value": "1679467138"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861371718"
+        "value": "1083480081"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053298711"
+        "value": "1942194493"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -110,19 +50,70 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679467138"
+        "value": "1427823756"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548035876"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306730866"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1770358095"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033984448"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306612817"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053298711"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1225917164"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629843933"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1336914662"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1518732833"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1427823749"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1841184306"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1689449910"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861371718"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376305540"
       }
     ],
     "address": [
-      {
-        "line": [
-          "7400 Carmel Executive Park Dr",
-          "Ste 155"
-        ],
-        "city": "Charlotte",
-        "state": "NC",
-        "postalCode": "28226-8242"
-      },
       {
         "line": [
           "7029 Albert Pick Rd",
@@ -134,21 +125,12 @@
       },
       {
         "line": [
-          "231 Meed Ct",
-          "Suite 201"
+          "2 Walden Ridge Dr",
+          "Ste 90"
         ],
-        "city": "Fayetteville",
+        "city": "Asheville",
         "state": "NC",
-        "postalCode": "28303-2076"
-      },
-      {
-        "line": [
-          "7010 NC Highway 751",
-          "Ste 102"
-        ],
-        "city": "DURHAM",
-        "state": "NC",
-        "postalCode": "27707-5734"
+        "postalCode": "28803-8597"
       },
       {
         "line": [
@@ -161,12 +143,11 @@
       },
       {
         "line": [
-          "304 New Leicester Hwy",
-          "Suite A"
+          "9208 Falls of Neuse Rd"
         ],
-        "city": "Asheville",
+        "city": "RALEIGH",
         "state": "NC",
-        "postalCode": "28806-2021"
+        "postalCode": "27615-2438"
       },
       {
         "line": [
@@ -187,11 +168,12 @@
       },
       {
         "line": [
-          "9208 Falls of Neuse Rd"
+          "231 Meed Ct",
+          "Suite 201"
         ],
-        "city": "RALEIGH",
+        "city": "Fayetteville",
         "state": "NC",
-        "postalCode": "27615-2438"
+        "postalCode": "28303-2076"
       },
       {
         "line": [
@@ -204,12 +186,30 @@
       },
       {
         "line": [
-          "2 Walden Ridge Dr",
-          "Ste 90"
+          "7010 NC Highway 751",
+          "Ste 102"
+        ],
+        "city": "DURHAM",
+        "state": "NC",
+        "postalCode": "27707-5734"
+      },
+      {
+        "line": [
+          "7400 Carmel Executive Park Dr",
+          "Ste 155"
+        ],
+        "city": "Charlotte",
+        "state": "NC",
+        "postalCode": "28226-8242"
+      },
+      {
+        "line": [
+          "304 New Leicester Hwy",
+          "Suite A"
         ],
         "city": "Asheville",
         "state": "NC",
-        "postalCode": "28803-8597"
+        "postalCode": "28806-2021"
       }
     ],
     "extension": [

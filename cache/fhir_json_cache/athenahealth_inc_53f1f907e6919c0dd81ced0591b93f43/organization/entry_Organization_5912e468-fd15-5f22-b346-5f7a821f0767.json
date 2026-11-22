@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417812710"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770288698"
+        "value": "1942437991"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,35 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1801853346"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134458789"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1184673790"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396440244"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992400824"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457758617"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942437991"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841785607"
+        "value": "1326656174"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,15 +30,47 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366496416"
+        "value": "1992400824"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326656174"
+        "value": "1184673790"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1770288698"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1457758617"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1417812710"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1396440244"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1841785607"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1134458789"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1578024196"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1801853346"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1366496416"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -88,28 +88,11 @@
       },
       {
         "line": [
-          "101 South 9th Street"
+          "304 N WATER ST"
         ],
-        "city": "LEBANON",
+        "city": "LANCASTER",
         "state": "PA",
-        "postalCode": "17042-5108"
-      },
-      {
-        "line": [
-          "1445 E LINCOLN HWY"
-        ],
-        "city": "COATESVILLE",
-        "state": "PA",
-        "postalCode": "19320-2449"
-      },
-      {
-        "line": [
-          "435 South Kinzer Ave",
-          "Suite 6"
-        ],
-        "city": "NEW HOLLAND",
-        "state": "PA",
-        "postalCode": "17557-8706"
+        "postalCode": "17603-3374"
       },
       {
         "line": [
@@ -122,11 +105,12 @@
       },
       {
         "line": [
-          "30 N Ann St"
+          "435 South Kinzer Ave",
+          "Suite 6"
         ],
-        "city": "LANCASTER",
+        "city": "NEW HOLLAND",
         "state": "PA",
-        "postalCode": "17602-3063"
+        "postalCode": "17557-8706"
       },
       {
         "line": [
@@ -138,19 +122,11 @@
       },
       {
         "line": [
-          "304 N WATER ST"
+          "1445 E LINCOLN HWY"
         ],
-        "city": "LANCASTER",
+        "city": "COATESVILLE",
         "state": "PA",
-        "postalCode": "17603-3374"
-      },
-      {
-        "line": [
-          "560 S READING RD"
-        ],
-        "city": "EPHRATA",
-        "state": "PA",
-        "postalCode": "17522-1834"
+        "postalCode": "19320-2449"
       },
       {
         "line": [
@@ -163,27 +139,35 @@
       },
       {
         "line": [
-          "454 NEW HOLLAND AVE"
-        ],
-        "city": "LANCASTER",
-        "state": "PA",
-        "postalCode": "17602-2289"
-      },
-      {
-        "line": [
-          "33 E FARNUM ST"
-        ],
-        "city": "LANCASTER",
-        "state": "PA",
-        "postalCode": "17602-3540"
-      },
-      {
-        "line": [
           "744 E LINCOLN HWY"
         ],
         "city": "COATESVILLE",
         "state": "PA",
         "postalCode": "19320-3590"
+      },
+      {
+        "line": [
+          "101 South 9th Street"
+        ],
+        "city": "LEBANON",
+        "state": "PA",
+        "postalCode": "17042-5108"
+      },
+      {
+        "line": [
+          "560 S READING RD"
+        ],
+        "city": "EPHRATA",
+        "state": "PA",
+        "postalCode": "17522-1834"
+      },
+      {
+        "line": [
+          "30 N Ann St"
+        ],
+        "city": "LANCASTER",
+        "state": "PA",
+        "postalCode": "17602-3063"
       },
       {
         "line": [
@@ -200,6 +184,22 @@
         "city": "NEW HOLLAND",
         "state": "PA",
         "postalCode": "17557-8706"
+      },
+      {
+        "line": [
+          "33 E FARNUM ST"
+        ],
+        "city": "LANCASTER",
+        "state": "PA",
+        "postalCode": "17602-3540"
+      },
+      {
+        "line": [
+          "454 NEW HOLLAND AVE"
+        ],
+        "city": "LANCASTER",
+        "state": "PA",
+        "postalCode": "17602-2289"
       }
     ],
     "extension": [

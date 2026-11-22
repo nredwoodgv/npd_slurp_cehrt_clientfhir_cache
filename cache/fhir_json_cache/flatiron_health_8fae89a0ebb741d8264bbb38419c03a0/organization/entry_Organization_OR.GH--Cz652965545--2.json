@@ -22,14 +22,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "3456789"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "12347890"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1234567"
       },
       {
@@ -46,15 +38,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "8787878787"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1234"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "202099999"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -86,10 +70,6 @@
       },
       {
         "system": "phone",
-        "value": "(123)345-6789"
-      },
-      {
-        "system": "phone",
         "value": "(123)123-1234"
       },
       {
@@ -99,10 +79,6 @@
       {
         "system": "phone",
         "value": "(222)234-5567"
-      },
-      {
-        "system": "phone",
-        "value": "(908)276-9049"
       },
       {
         "system": "phone",
@@ -172,17 +148,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "123 Sesame St."
-        ],
-        "city": "New York",
-        "state": "NY",
-        "postalCode": "10010",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "123 Main Street"
         ],
         "city": "Philadelphia",
@@ -207,17 +172,6 @@
         "line": [
           "12 los altos lane"
         ],
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "511 Springfield Avenue"
-        ],
-        "city": "Cranford",
-        "state": "NJ",
-        "postalCode": "07016",
         "country": "USA"
       },
       {

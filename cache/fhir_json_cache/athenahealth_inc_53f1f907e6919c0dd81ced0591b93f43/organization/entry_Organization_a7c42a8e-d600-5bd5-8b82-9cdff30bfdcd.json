@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1891034492"
+        "value": "1881902492"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1881902492"
+        "value": "1891034492"
       }
     ],
     "address": [
@@ -32,19 +32,11 @@
       },
       {
         "line": [
-          "One Brookline Place, Ste. 301"
+          "800 W CUMMINGS PARK STE 4050"
         ],
-        "city": "BROOKLINE",
+        "city": "WOBURN",
         "state": "MA",
-        "postalCode": "02445-7294"
-      },
-      {
-        "line": [
-          "91 Water Street"
-        ],
-        "city": "MILFORD",
-        "state": "MA",
-        "postalCode": "01757-3039"
+        "postalCode": "01801-6372"
       },
       {
         "line": [
@@ -64,11 +56,19 @@
       },
       {
         "line": [
-          "800 W CUMMINGS PARK STE 4050"
+          "91 Water Street"
         ],
-        "city": "WOBURN",
+        "city": "MILFORD",
         "state": "MA",
-        "postalCode": "01801-6372"
+        "postalCode": "01757-3039"
+      },
+      {
+        "line": [
+          "One Brookline Place, Ste. 301"
+        ],
+        "city": "BROOKLINE",
+        "state": "MA",
+        "postalCode": "02445-7294"
       }
     ],
     "extension": [

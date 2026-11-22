@@ -14,22 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1063614923"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1245266337"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1528390507"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063614923"
       }
     ],
     "address": [
       {
         "line": [
-          "9119 S. Exchange",
-          "340B00577200CF"
+          "9119 S Exchange Ave"
         ],
         "city": "CHICAGO",
         "state": "IL",
@@ -45,15 +44,8 @@
       },
       {
         "line": [
-          "9119 S Exchange Ave"
-        ],
-        "city": "CHICAGO",
-        "state": "IL",
-        "postalCode": "60617-4225"
-      },
-      {
-        "line": [
-          "9119 S. Exchange"
+          "9119 S. Exchange",
+          "340B00577200CF"
         ],
         "city": "CHICAGO",
         "state": "IL",
@@ -66,6 +58,14 @@
         "city": "CHICAGO",
         "state": "IL",
         "postalCode": "60608-1782"
+      },
+      {
+        "line": [
+          "9119 S. Exchange"
+        ],
+        "city": "CHICAGO",
+        "state": "IL",
+        "postalCode": "60617-4225"
       }
     ],
     "extension": [

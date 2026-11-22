@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780638478"
+        "value": "1396782363"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,18 +26,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1396782363"
+        "value": "1780638478"
       }
     ],
     "address": [
-      {
-        "line": [
-          "20613 N BROAD ST"
-        ],
-        "city": "CARLINVILLE",
-        "state": "IL",
-        "postalCode": "62626-3720"
-      },
       {
         "line": [
           "20613 N BROAD ST"
@@ -53,6 +45,14 @@
         "city": "VIRDEN",
         "state": "IL",
         "postalCode": "62690-9781"
+      },
+      {
+        "line": [
+          "20613 N BROAD ST"
+        ],
+        "city": "CARLINVILLE",
+        "state": "IL",
+        "postalCode": "62626-3720"
       }
     ],
     "extension": [

@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588997233"
+        "value": "1730412388"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275290694"
+        "value": "1588997233"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,19 +30,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730412388"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962025148"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790103869"
+        "value": "1275290694"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1326072943"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1790103869"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -64,15 +64,6 @@
       },
       {
         "line": [
-          "1313 Red River",
-          "Ste 220"
-        ],
-        "city": "AUSTIN",
-        "state": "TX",
-        "postalCode": "78701-1900"
-      },
-      {
-        "line": [
           "601 E 15th St"
         ],
         "city": "AUSTIN",
@@ -86,6 +77,15 @@
         "city": "AUSTIN",
         "state": "TX",
         "postalCode": "78701-1930"
+      },
+      {
+        "line": [
+          "1313 Red River",
+          "Ste 220"
+        ],
+        "city": "AUSTIN",
+        "state": "TX",
+        "postalCode": "78701-1900"
       }
     ],
     "extension": [

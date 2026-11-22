@@ -18,15 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497986764"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1699392589"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538432711"
+        "value": "1821370891"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,11 +34,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821370891"
+        "value": "1538432711"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1497986764"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "19D2031977"
+        "value": "19D2031976"
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
@@ -50,17 +50,17 @@
       },
       {
         "system": "urn:oid:2.16.840.1.113883.4.7",
-        "value": "19D2031976"
+        "value": "19D2031977"
       }
     ],
     "address": [
       {
         "line": [
-          "4680 OLD BROWNLEE RD"
+          "1524 DOCTORS DR"
         ],
         "city": "BOSSIER CITY",
         "state": "LA",
-        "postalCode": "71111-6504"
+        "postalCode": "71111-3322"
       },
       {
         "line": [
@@ -72,19 +72,11 @@
       },
       {
         "line": [
-          "1524 DOCTORS DR"
+          "2540 Beene Blvd"
         ],
         "city": "BOSSIER CITY",
         "state": "LA",
-        "postalCode": "71111-3322"
-      },
-      {
-        "line": [
-          "4770 Brandon Blvd"
-        ],
-        "city": "BOSSIER CITY",
-        "state": "LA",
-        "postalCode": "71111-4244"
+        "postalCode": "71111-5459"
       },
       {
         "line": [
@@ -96,11 +88,19 @@
       },
       {
         "line": [
-          "2540 Beene Blvd"
+          "4680 OLD BROWNLEE RD"
         ],
         "city": "BOSSIER CITY",
         "state": "LA",
-        "postalCode": "71111-5459"
+        "postalCode": "71111-6504"
+      },
+      {
+        "line": [
+          "4770 Brandon Blvd"
+        ],
+        "city": "BOSSIER CITY",
+        "state": "LA",
+        "postalCode": "71111-4244"
       }
     ],
     "extension": [

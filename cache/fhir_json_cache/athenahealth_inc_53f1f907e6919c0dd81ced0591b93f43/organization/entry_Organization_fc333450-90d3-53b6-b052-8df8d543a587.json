@@ -14,14 +14,38 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700240884"
+        "value": "1962429878"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962429878"
+        "value": "1700240884"
       }
     ],
     "address": [
+      {
+        "line": [
+          "2500 CANYON RD BLDG C UNIT 2"
+        ],
+        "city": "BULLHEAD CITY",
+        "state": "AZ",
+        "postalCode": "86442-8642"
+      },
+      {
+        "line": [
+          "2735 SILVER CREEK RD"
+        ],
+        "city": "BULLHEAD CITY",
+        "state": "AZ",
+        "postalCode": "86442-7924"
+      },
+      {
+        "line": [
+          "1225 HANCOCK RD STE 100F"
+        ],
+        "city": "BULLHEAD CITY",
+        "state": "AZ",
+        "postalCode": "86442-5948"
+      },
       {
         "line": [
           "2500 CANYON RD BLDG B"
@@ -40,41 +64,17 @@
       },
       {
         "line": [
-          "1225 HANCOCK RD STE 100F"
+          "4001 Cane Ridge Parkway"
         ],
-        "city": "BULLHEAD CITY",
-        "state": "AZ",
-        "postalCode": "86442-5948"
-      },
-      {
-        "line": [
-          "2500 CANYON RD BLDG C UNIT 2"
-        ],
-        "city": "BULLHEAD CITY",
-        "state": "AZ",
-        "postalCode": "86442-8642"
-      },
-      {
-        "line": [
-          "2735 SILVER CREEK RD"
-        ],
-        "city": "BULLHEAD CITY",
-        "state": "AZ",
-        "postalCode": "86442-7924"
+        "city": "ANTIOCH",
+        "state": "TN",
+        "postalCode": "37013-2971"
       },
       {
         "line": [],
         "city": "BULLHEAD CITY",
         "state": "AZ",
         "postalCode": "86442-8624"
-      },
-      {
-        "line": [
-          "4001 Cane Ridge Parkway"
-        ],
-        "city": "ANTIOCH",
-        "state": "TN",
-        "postalCode": "37013-2971"
       }
     ],
     "extension": [

@@ -14,31 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1235759879"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1972157139"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942861000"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1407148497"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700326246"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538643853"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780320465"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982654182"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,11 +26,31 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1942861000"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1538643853"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700326246"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1205886934"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1972977924"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235759879"
+        "value": "1982654182"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1407148497"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,11 +66,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205886934"
+        "value": "1770062242"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770062242"
+        "value": "1780320465"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -78,6 +78,15 @@
       }
     ],
     "address": [
+      {
+        "line": [
+          "11901 137th Ave",
+          "Suite A"
+        ],
+        "city": "GIG HARBOR",
+        "state": "WA",
+        "postalCode": "98329-6617"
+      },
       {
         "line": [
           "832 6TH ST",
@@ -89,7 +98,47 @@
       },
       {
         "line": [
-          "7607 NW Newberry Hill Rd"
+          "2720 CLARE AVE"
+        ],
+        "city": "BREMERTON",
+        "state": "WA",
+        "postalCode": "98310-3374"
+      },
+      {
+        "line": [
+          "19586 10th Ave NE"
+        ],
+        "city": "POULSBO",
+        "state": "WA",
+        "postalCode": "98370-7332"
+      },
+      {
+        "line": [
+          "19586 10TH AVE NE"
+        ],
+        "city": "POULSBO",
+        "state": "WA",
+        "postalCode": "98370-7332"
+      },
+      {
+        "line": [
+          "PO BOX 960"
+        ],
+        "city": "BREMERTON",
+        "state": "WA",
+        "postalCode": "98337-0212"
+      },
+      {
+        "line": [
+          "616 6th Street"
+        ],
+        "city": "BREMERTON",
+        "state": "WA",
+        "postalCode": "98337-1420"
+      },
+      {
+        "line": [
+          "7607 NW Newberry hill Rd"
         ],
         "city": "SILVERDALE",
         "state": "WA",
@@ -105,7 +154,7 @@
       },
       {
         "line": [
-          "7607 NW Newberry hill Rd"
+          "7607 NW Newberry Hill Rd"
         ],
         "city": "SILVERDALE",
         "state": "WA",
@@ -113,44 +162,11 @@
       },
       {
         "line": [
-          "19586 10TH AVE NE"
-        ],
-        "city": "POULSBO",
-        "state": "WA",
-        "postalCode": "98370-7332"
-      },
-      {
-        "line": [
-          "11901 137th Ave",
-          "Suite A"
-        ],
-        "city": "GIG HARBOR",
-        "state": "WA",
-        "postalCode": "98329-6617"
-      },
-      {
-        "line": [
-          "19586 10th Ave NE"
-        ],
-        "city": "POULSBO",
-        "state": "WA",
-        "postalCode": "98370-7332"
-      },
-      {
-        "line": [
-          "616 6th Street"
+          "1400 NE Mcwilliams Rd."
         ],
         "city": "BREMERTON",
         "state": "WA",
-        "postalCode": "98337-1420"
-      },
-      {
-        "line": [
-          "2720 CLARE AVE"
-        ],
-        "city": "BREMERTON",
-        "state": "WA",
-        "postalCode": "98310-3374"
+        "postalCode": "98311-3928"
       },
       {
         "line": [
@@ -162,22 +178,6 @@
       },
       {
         "line": [
-          "810 6th St"
-        ],
-        "city": "BREMERTON",
-        "state": "WA",
-        "postalCode": "98337-0212"
-      },
-      {
-        "line": [
-          "PO BOX 960"
-        ],
-        "city": "BREMERTON",
-        "state": "WA",
-        "postalCode": "98337-0212"
-      },
-      {
-        "line": [
           "162 Winslow WAY W"
         ],
         "city": "Bainbridge Island",
@@ -186,11 +186,11 @@
       },
       {
         "line": [
-          "1400 NE Mcwilliams Rd."
+          "810 6th St"
         ],
         "city": "BREMERTON",
         "state": "WA",
-        "postalCode": "98311-3928"
+        "postalCode": "98337-0212"
       }
     ],
     "extension": [

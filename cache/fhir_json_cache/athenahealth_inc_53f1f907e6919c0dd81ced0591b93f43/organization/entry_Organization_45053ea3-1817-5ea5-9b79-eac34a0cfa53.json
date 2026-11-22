@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417967365"
+        "value": "1063453991"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,18 +22,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1063453991"
+        "value": "1417967365"
       }
     ],
     "address": [
-      {
-        "line": [
-          "818 N CARRIAGE PARKWAY"
-        ],
-        "city": "WICHITA",
-        "state": "KS",
-        "postalCode": "67208-4500"
-      },
       {
         "line": [
           "2727 N Rock Road"
@@ -41,6 +33,14 @@
         "city": "WICHITA",
         "state": "KS",
         "postalCode": "67226-1142"
+      },
+      {
+        "line": [
+          "818 N CARRIAGE PARKWAY"
+        ],
+        "city": "WICHITA",
+        "state": "KS",
+        "postalCode": "67208-4500"
       }
     ],
     "extension": [

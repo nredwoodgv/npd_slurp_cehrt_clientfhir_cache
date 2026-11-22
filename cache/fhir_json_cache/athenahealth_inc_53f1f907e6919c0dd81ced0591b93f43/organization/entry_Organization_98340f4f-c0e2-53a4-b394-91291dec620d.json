@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1346620846"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1467493213"
       },
       {
@@ -22,23 +26,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1598982837"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1932368537"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1225349699"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1740219526"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1346620846"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598982837"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,11 +46,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194774752"
+        "value": "1225349699"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790433803"
+        "value": "1194774752"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,11 +58,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114060837"
+        "value": "1336842160"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1336842160"
+        "value": "1790433803"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114060837"
       }
     ],
     "address": [
@@ -88,7 +88,7 @@
       },
       {
         "line": [
-          "1 Genesys Parkway"
+          "One Genesys Parkway"
         ],
         "city": "Grand Blanc",
         "state": "MI",
@@ -96,7 +96,7 @@
       },
       {
         "line": [
-          "One Genesys Parkway"
+          "1 Genesys Parkway"
         ],
         "city": "Grand Blanc",
         "state": "MI",

@@ -14,23 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508911892"
+        "value": "1144770256"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144770256"
+        "value": "1508911892"
       }
     ],
     "address": [
-      {
-        "line": [
-          "2322 Butano Drive",
-          "Suite 201"
-        ],
-        "city": "SACRAMENTO",
-        "state": "CA",
-        "postalCode": "95825-0687"
-      },
       {
         "line": [
           "2925 SPAFFORD ST STE A"
@@ -47,6 +38,15 @@
         "city": "SACRAMENTO",
         "state": "CA",
         "postalCode": "95819-3800"
+      },
+      {
+        "line": [
+          "2322 Butano Drive",
+          "Suite 201"
+        ],
+        "city": "SACRAMENTO",
+        "state": "CA",
+        "postalCode": "95825-0687"
       },
       {
         "line": [

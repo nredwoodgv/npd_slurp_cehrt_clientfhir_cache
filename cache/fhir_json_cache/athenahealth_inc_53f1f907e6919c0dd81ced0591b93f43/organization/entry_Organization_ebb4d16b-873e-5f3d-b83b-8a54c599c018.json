@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497678437"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952298812"
+        "value": "1467347278"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,17 +22,21 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1467347278"
+        "value": "1952298812"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1497678437"
       }
     ],
     "address": [
       {
         "line": [
-          "1493 NEW WALKERTOWN RD"
+          "11201 Shaker Blvd"
         ],
-        "city": "WINSTON SALEM",
-        "state": "NC",
-        "postalCode": "27101-3319"
+        "city": "CLEVELAND",
+        "state": "OH",
+        "postalCode": "44104-3869"
       },
       {
         "line": [
@@ -56,20 +56,28 @@
       },
       {
         "line": [
-          "1900 PATTERSON ST",
-          "STE 105"
+          "11201 SHAKER BLVD",
+          "STE 106"
         ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37203-2165"
+        "city": "CLEVELAND",
+        "state": "OH",
+        "postalCode": "44104-3833"
       },
       {
         "line": [
-          "4220 HARDING RD"
+          "520 W Main St"
+        ],
+        "city": "SMITHVILLE",
+        "state": "TN",
+        "postalCode": "37166-1138"
+      },
+      {
+        "line": [
+          "2300 PATTERSON ST"
         ],
         "city": "NASHVILLE",
         "state": "TN",
-        "postalCode": "37205-2005"
+        "postalCode": "37203-1538"
       },
       {
         "line": [
@@ -82,6 +90,24 @@
       },
       {
         "line": [
+          "3540 Maitland Dr",
+          "Suite 102"
+        ],
+        "city": "RALEIGH",
+        "state": "NC",
+        "postalCode": "27610-1230"
+      },
+      {
+        "line": [
+          "1900 PATTERSON ST",
+          "STE 105"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37203-2165"
+      },
+      {
+        "line": [
           "6700 PEARL RD"
         ],
         "city": "CLEVELAND",
@@ -90,12 +116,11 @@
       },
       {
         "line": [
-          "3540 Maitland Dr",
-          "Suite 102"
+          "1493 NEW WALKERTOWN RD"
         ],
-        "city": "RALEIGH",
+        "city": "WINSTON SALEM",
         "state": "NC",
-        "postalCode": "27610-1230"
+        "postalCode": "27101-3319"
       },
       {
         "line": [
@@ -108,36 +133,11 @@
       },
       {
         "line": [
-          "2300 PATTERSON ST"
+          "4220 HARDING RD"
         ],
         "city": "NASHVILLE",
         "state": "TN",
-        "postalCode": "37203-1538"
-      },
-      {
-        "line": [
-          "520 W Main St"
-        ],
-        "city": "SMITHVILLE",
-        "state": "TN",
-        "postalCode": "37166-1138"
-      },
-      {
-        "line": [
-          "11201 Shaker Blvd"
-        ],
-        "city": "CLEVELAND",
-        "state": "OH",
-        "postalCode": "44104-3869"
-      },
-      {
-        "line": [
-          "11201 SHAKER BLVD",
-          "STE 106"
-        ],
-        "city": "CLEVELAND",
-        "state": "OH",
-        "postalCode": "44104-3833"
+        "postalCode": "37205-2005"
       }
     ],
     "extension": [

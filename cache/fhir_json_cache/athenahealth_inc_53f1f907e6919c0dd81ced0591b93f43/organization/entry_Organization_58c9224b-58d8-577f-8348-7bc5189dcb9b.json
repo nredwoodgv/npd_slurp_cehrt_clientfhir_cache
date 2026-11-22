@@ -18,21 +18,45 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457617235"
+        "value": "1548211311"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548211311"
+        "value": "1457617235"
       }
     ],
     "address": [
       {
         "line": [
-          "25428 State Route 104"
+          "7333 Smiths Mill Road"
+        ],
+        "city": "NEW ALBANY",
+        "state": "OH",
+        "postalCode": "43054-9291"
+      },
+      {
+        "line": [
+          "120 North Pickaway Street"
         ],
         "city": "CIRCLEVILLE",
         "state": "OH",
-        "postalCode": "43113-9667"
+        "postalCode": "43113-1730"
+      },
+      {
+        "line": [
+          "777 W. State Street"
+        ],
+        "city": "COLUMBUS",
+        "state": "OH",
+        "postalCode": "43222-1508"
+      },
+      {
+        "line": [
+          "4445 E. Broad Street"
+        ],
+        "city": "COLUMBUS",
+        "state": "OH",
+        "postalCode": "43213-1327"
       },
       {
         "line": [
@@ -44,51 +68,11 @@
       },
       {
         "line": [
-          "895 Old Diley Road"
-        ],
-        "city": "PICKERINGTON",
-        "state": "OH",
-        "postalCode": "43147-2009"
-      },
-      {
-        "line": [
-          "409 Industry Drive"
-        ],
-        "city": "COLUMBUS",
-        "state": "OH",
-        "postalCode": "43204-6234"
-      },
-      {
-        "line": [
-          "6024 Hoover Road Suite A"
-        ],
-        "city": "GROVE CITY",
-        "state": "OH",
-        "postalCode": "43123-8131"
-      },
-      {
-        "line": [
-          "7333 Smiths Mill Road"
-        ],
-        "city": "NEW ALBANY",
-        "state": "OH",
-        "postalCode": "43054-9291"
-      },
-      {
-        "line": [
           "4965 Southern Point Blvd"
         ],
         "city": "ORIENT",
         "state": "OH",
         "postalCode": "43146-9248"
-      },
-      {
-        "line": [
-          "7100 Graphics Way"
-        ],
-        "city": "LEWIS CENTER",
-        "state": "OH",
-        "postalCode": "43035-1122"
       },
       {
         "line": [
@@ -108,27 +92,43 @@
       },
       {
         "line": [
-          "4445 E. Broad Street"
-        ],
-        "city": "COLUMBUS",
-        "state": "OH",
-        "postalCode": "43213-1327"
-      },
-      {
-        "line": [
-          "120 North Pickaway Street"
+          "25428 State Route 104"
         ],
         "city": "CIRCLEVILLE",
         "state": "OH",
-        "postalCode": "43113-1730"
+        "postalCode": "43113-9667"
       },
       {
         "line": [
-          "777 W. State Street"
+          "895 Old Diley Road"
+        ],
+        "city": "PICKERINGTON",
+        "state": "OH",
+        "postalCode": "43147-2009"
+      },
+      {
+        "line": [
+          "409 Industry Drive"
         ],
         "city": "COLUMBUS",
         "state": "OH",
-        "postalCode": "43222-1508"
+        "postalCode": "43204-6234"
+      },
+      {
+        "line": [
+          "7100 Graphics Way"
+        ],
+        "city": "LEWIS CENTER",
+        "state": "OH",
+        "postalCode": "43035-1122"
+      },
+      {
+        "line": [
+          "6024 Hoover Road Suite A"
+        ],
+        "city": "GROVE CITY",
+        "state": "OH",
+        "postalCode": "43123-8131"
       }
     ],
     "extension": [

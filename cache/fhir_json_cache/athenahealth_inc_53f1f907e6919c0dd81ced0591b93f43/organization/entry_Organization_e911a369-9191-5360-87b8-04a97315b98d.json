@@ -14,21 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1164616652"
+        "value": "1992902860"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992902860"
+        "value": "1164616652"
       }
     ],
     "address": [
       {
         "line": [
-          "15525 POMERADO RD STE E6"
+          "2001 Santa Monica Blvd",
+          "Suite 760"
         ],
-        "city": "POWAY",
+        "city": "SANTA MONICA",
         "state": "CA",
-        "postalCode": "92064-2543"
+        "postalCode": "90404-2102"
       },
       {
         "line": [
@@ -40,12 +41,11 @@
       },
       {
         "line": [
-          "2001 Santa Monica Blvd",
-          "Suite 760"
+          "15525 POMERADO RD STE E6"
         ],
-        "city": "SANTA MONICA",
+        "city": "POWAY",
         "state": "CA",
-        "postalCode": "90404-2102"
+        "postalCode": "92064-2543"
       }
     ],
     "extension": [

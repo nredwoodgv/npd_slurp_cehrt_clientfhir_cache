@@ -14,29 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447329990"
+        "value": "1477571891"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1477571891"
+        "value": "1447329990"
       }
     ],
     "address": [
       {
         "line": [
-          "1500 West Poplar Ave"
-        ],
-        "city": "Collierville",
-        "state": "TN",
-        "postalCode": "38017-0601"
-      },
-      {
-        "line": [
-          "877 Jefferson Ave"
+          "5959 Park Ave"
         ],
         "city": "Memphis",
         "state": "TN",
-        "postalCode": "38103-2807"
+        "postalCode": "38119-5200"
       },
       {
         "line": [
@@ -48,11 +40,19 @@
       },
       {
         "line": [
-          "7601 Southcrest Pkwy"
+          "1500 West Poplar Ave"
         ],
-        "city": "Southaven",
+        "city": "Collierville",
+        "state": "TN",
+        "postalCode": "38017-0601"
+      },
+      {
+        "line": [
+          "499 Azalea Dr"
+        ],
+        "city": "Oxford",
         "state": "MS",
-        "postalCode": "38671-4743"
+        "postalCode": "38655-7901"
       },
       {
         "line": [
@@ -64,19 +64,20 @@
       },
       {
         "line": [
-          "6225 Humphreys Blvd"
+          "3960 New Covington Pike"
         ],
         "city": "Memphis",
         "state": "TN",
-        "postalCode": "38120-2373"
+        "postalCode": "38128-2504"
       },
       {
         "line": [
-          "51 N Dunlap St"
+          "1265 Union Ave",
+          "2nd Floor"
         ],
         "city": "Memphis",
         "state": "TN",
-        "postalCode": "38105-4625"
+        "postalCode": "38104-6638"
       },
       {
         "line": [
@@ -96,11 +97,11 @@
       },
       {
         "line": [
-          "1265 Union Ave"
+          "877 Jefferson Ave"
         ],
         "city": "Memphis",
         "state": "TN",
-        "postalCode": "38103-3415"
+        "postalCode": "38103-2807"
       },
       {
         "line": [
@@ -112,11 +113,51 @@
       },
       {
         "line": [
-          "499 Azalea Dr"
+          "6225 Humphreys Blvd"
         ],
-        "city": "Oxford",
+        "city": "Memphis",
+        "state": "TN",
+        "postalCode": "38120-2177"
+      },
+      {
+        "line": [
+          "848 Adams Ave"
+        ],
+        "city": "Memphis",
+        "state": "TN",
+        "postalCode": "38103-2816"
+      },
+      {
+        "line": [
+          "1325 EASTMORELAND AVE STE 310"
+        ],
+        "city": "MEMPHIS",
+        "state": "TN",
+        "postalCode": "38104-7534"
+      },
+      {
+        "line": [
+          "1265 Union Ave"
+        ],
+        "city": "Memphis",
+        "state": "TN",
+        "postalCode": "38103-3415"
+      },
+      {
+        "line": [
+          "6225 Humphreys Blvd"
+        ],
+        "city": "Memphis",
+        "state": "TN",
+        "postalCode": "38120-2373"
+      },
+      {
+        "line": [
+          "7601 Southcrest Pkwy"
+        ],
+        "city": "Southaven",
         "state": "MS",
-        "postalCode": "38655-7901"
+        "postalCode": "38671-4743"
       },
       {
         "line": [
@@ -129,55 +170,6 @@
       },
       {
         "line": [
-          "5959 Park Ave"
-        ],
-        "city": "Memphis",
-        "state": "TN",
-        "postalCode": "38119-5200"
-      },
-      {
-        "line": [
-          "1265 Union Ave",
-          "2nd Floor"
-        ],
-        "city": "Memphis",
-        "state": "TN",
-        "postalCode": "38104-6638"
-      },
-      {
-        "line": [
-          "6225 Humphreys Blvd"
-        ],
-        "city": "Memphis",
-        "state": "TN",
-        "postalCode": "38120-2177"
-      },
-      {
-        "line": [
-          "3960 New Covington Pike"
-        ],
-        "city": "Memphis",
-        "state": "TN",
-        "postalCode": "38128-2504"
-      },
-      {
-        "line": [
-          "1363 South Germantown Pkwy"
-        ],
-        "city": "Germantown",
-        "state": "TN",
-        "postalCode": "38138-2225"
-      },
-      {
-        "line": [
-          "848 Adams Ave"
-        ],
-        "city": "Memphis",
-        "state": "TN",
-        "postalCode": "38103-2816"
-      },
-      {
-        "line": [
           "6555 Quince Rd"
         ],
         "city": "Memphis",
@@ -186,19 +178,11 @@
       },
       {
         "line": [
-          "1325 EASTMORELAND AVE STE 310"
+          "100 N HUMPHREYS BLVD"
         ],
         "city": "MEMPHIS",
         "state": "TN",
-        "postalCode": "38104-7534"
-      },
-      {
-        "line": [
-          "1211 Union Ave"
-        ],
-        "city": "Memphis",
-        "state": "TN",
-        "postalCode": "38103-3415"
+        "postalCode": "38120-2146"
       },
       {
         "line": [
@@ -211,11 +195,27 @@
       },
       {
         "line": [
-          "100 N HUMPHREYS BLVD"
+          "1211 Union Ave"
         ],
-        "city": "MEMPHIS",
+        "city": "Memphis",
         "state": "TN",
-        "postalCode": "38120-2146"
+        "postalCode": "38103-3415"
+      },
+      {
+        "line": [
+          "51 N Dunlap St"
+        ],
+        "city": "Memphis",
+        "state": "TN",
+        "postalCode": "38105-4625"
+      },
+      {
+        "line": [
+          "1363 South Germantown Pkwy"
+        ],
+        "city": "Germantown",
+        "state": "TN",
+        "postalCode": "38138-2225"
       }
     ],
     "extension": [

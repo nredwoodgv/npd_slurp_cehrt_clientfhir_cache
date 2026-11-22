@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427823756"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033984448"
+        "value": "1053298711"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,19 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841184306"
+        "value": "1548035876"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942194493"
+        "value": "1306612817"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689449910"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1427823749"
+        "value": "1427823756"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,31 +38,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1679467138"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1295614147"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1629830807"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639944960"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376305540"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861371718"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548035876"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -78,11 +46,51 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053298711"
+        "value": "1689449910"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033984448"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1225917164"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1427823749"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629843933"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1942194493"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1295614147"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1770358095"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1841184306"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1679467138"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861371718"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1518732833"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -94,26 +102,27 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306612817"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1518732833"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1306730866"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629843933"
+        "value": "1376305540"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770358095"
+        "value": "1639944960"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3358 S 2nd St",
+          "Ste D"
+        ],
+        "city": "Cabot",
+        "state": "AR",
+        "postalCode": "72023-7876"
+      },
       {
         "line": [
           "1102 Poplar PL"
@@ -130,15 +139,6 @@
         "city": "FAYETTEVILLE",
         "state": "AR",
         "postalCode": "72703-6228"
-      },
-      {
-        "line": [
-          "3358 S 2nd St",
-          "Ste D"
-        ],
-        "city": "Cabot",
-        "state": "AR",
-        "postalCode": "72023-7876"
       }
     ],
     "extension": [

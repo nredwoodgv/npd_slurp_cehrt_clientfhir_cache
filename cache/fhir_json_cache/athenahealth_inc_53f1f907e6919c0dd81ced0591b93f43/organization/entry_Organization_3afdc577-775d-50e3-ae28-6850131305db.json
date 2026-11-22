@@ -18,14 +18,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1740715507"
+        "value": "1073059523"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073059523"
+        "value": "1740715507"
       }
     ],
     "address": [
+      {
+        "line": [
+          "1050 EAST SOUTH TEMPLE"
+        ],
+        "city": "SALT LAKE CITY",
+        "state": "UT",
+        "postalCode": "84102-1507"
+      },
       {
         "line": [
           "3580 WEST 9000 SOUTH"
@@ -33,14 +41,6 @@
         "city": "WEST JORDAN",
         "state": "UT",
         "postalCode": "84088-8812"
-      },
-      {
-        "line": [
-          "3460 SOUTH PIONEER PARKWAY"
-        ],
-        "city": "WEST VALLEY CITY",
-        "state": "UT",
-        "postalCode": "84120-2049"
       },
       {
         "line": [
@@ -52,11 +52,11 @@
       },
       {
         "line": [
-          "1050 EAST SOUTH TEMPLE"
+          "3460 SOUTH PIONEER PARKWAY"
         ],
-        "city": "SALT LAKE CITY",
+        "city": "WEST VALLEY CITY",
         "state": "UT",
-        "postalCode": "84102-1507"
+        "postalCode": "84120-2049"
       }
     ],
     "extension": [

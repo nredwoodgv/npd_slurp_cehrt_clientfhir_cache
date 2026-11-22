@@ -14,11 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811778988"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205617370"
+        "value": "1235811787"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,23 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023801230"
+        "value": "1205617370"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1922870955"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730972944"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659152726"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710768882"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -54,11 +38,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558133587"
+        "value": "1003688037"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1003688037"
+        "value": "1659152726"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1730972944"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1831970904"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -66,18 +58,35 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811778988"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1710768882"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1558133587"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649051715"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235811787"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831970904"
+        "value": "1023801230"
       }
     ],
     "address": [
+      {
+        "line": [
+          "920 West Chester Pike",
+          "Lower Floor"
+        ],
+        "city": "Havertown",
+        "state": "PA",
+        "postalCode": "19083-4415"
+      },
       {
         "line": [
           "7 Neshaminy Interplex",
@@ -86,6 +95,32 @@
         "city": "Trevose",
         "state": "PA",
         "postalCode": "19053-6976"
+      },
+      {
+        "line": [
+          "80 GUEST ST"
+        ],
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2071"
+      },
+      {
+        "line": [
+          "1489 Baltimore Pike",
+          "Bldg. 200, Stes 245, 250, 260"
+        ],
+        "city": "Springfield",
+        "state": "PA",
+        "postalCode": "19064-3958"
+      },
+      {
+        "line": [
+          "1420 Walnut Street",
+          "Ste 802"
+        ],
+        "city": "Philadelphia",
+        "state": "PA",
+        "postalCode": "19102-4008"
       },
       {
         "line": [
@@ -116,47 +151,12 @@
       },
       {
         "line": [
-          "1489 Baltimore Pike",
-          "Bldg. 200, Stes 245, 250, 260"
-        ],
-        "city": "Springfield",
-        "state": "PA",
-        "postalCode": "19064-3958"
-      },
-      {
-        "line": [
-          "1420 Walnut Street",
-          "Ste 802"
-        ],
-        "city": "Philadelphia",
-        "state": "PA",
-        "postalCode": "19102-4008"
-      },
-      {
-        "line": [
           "491 Allendale Rd",
           "Ste 320"
         ],
         "city": "King of Prussia",
         "state": "PA",
         "postalCode": "19406-1432"
-      },
-      {
-        "line": [
-          "920 West Chester Pike",
-          "Lower Floor"
-        ],
-        "city": "Havertown",
-        "state": "PA",
-        "postalCode": "19083-4415"
-      },
-      {
-        "line": [
-          "80 GUEST ST"
-        ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2071"
       },
       {
         "line": [

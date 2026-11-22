@@ -22,11 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861418220"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316315740"
+        "value": "1154792232"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,22 +30,17 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154792232"
+        "value": "1316315740"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861418220"
       }
     ],
     "address": [
       {
         "line": [
-          "4901 Grande Drive"
-        ],
-        "city": "PENSACOLA",
-        "state": "FL",
-        "postalCode": "32504-8986"
-      },
-      {
-        "line": [
-          "182 E REDSTONE AVE",
-          "STE A"
+          "180 E REDSTONE AVE STE A"
         ],
         "city": "CRESTVIEW",
         "state": "FL",
@@ -65,19 +56,20 @@
       },
       {
         "line": [
-          "855 Downtowner Blvd"
+          "1600 Jenks Ave",
+          "Ste 2"
         ],
-        "city": "MOBILE",
-        "state": "AL",
-        "postalCode": "36609-5403"
+        "city": "PANAMA CITY",
+        "state": "FL",
+        "postalCode": "32405-4740"
       },
       {
         "line": [
-          "180 E REDSTONE AVE STE A"
+          "4901 Grande Drive"
         ],
-        "city": "CRESTVIEW",
+        "city": "PENSACOLA",
         "state": "FL",
-        "postalCode": "32539-5348"
+        "postalCode": "32504-8986"
       },
       {
         "line": [
@@ -90,12 +82,20 @@
       },
       {
         "line": [
-          "1600 Jenks Ave",
-          "Ste 2"
+          "855 Downtowner Blvd"
         ],
-        "city": "PANAMA CITY",
+        "city": "MOBILE",
+        "state": "AL",
+        "postalCode": "36609-5403"
+      },
+      {
+        "line": [
+          "182 E REDSTONE AVE",
+          "STE A"
+        ],
+        "city": "CRESTVIEW",
         "state": "FL",
-        "postalCode": "32405-4740"
+        "postalCode": "32539-5348"
       }
     ],
     "extension": [

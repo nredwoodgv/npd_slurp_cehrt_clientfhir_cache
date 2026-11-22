@@ -22,49 +22,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144887324"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1992138820"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1043955719"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144887324"
       }
     ],
     "address": [
       {
         "line": [
-          "6100 Harbourside Centre Loop"
+          " 6296 Mechanicsville Turnpike"
         ],
-        "city": "MIDLOTHIAN",
+        "city": "MECHANICSVILLE",
         "state": "VA",
-        "postalCode": "23112-2140"
-      },
-      {
-        "line": [
-          "6100 HARBOURSIDE CENTRE LOOP"
-        ],
-        "city": "MIDLOTHIAN",
-        "state": "VA",
-        "postalCode": "23112-2140"
-      },
-      {
-        "line": [
-          "4600 Puddledock Rd"
-        ],
-        "city": "PRINCE GEORGE",
-        "state": "VA",
-        "postalCode": "23875-1235"
-      },
-      {
-        "line": [
-          "300 N Washington Hwy"
-        ],
-        "city": "ASHLAND",
-        "state": "VA",
-        "postalCode": "23005-1626"
+        "postalCode": "23111-2140"
       },
       {
         "line": [
@@ -76,6 +52,31 @@
       },
       {
         "line": [
+          "2304 Matthews Township Parkway",
+          "Suite 104"
+        ],
+        "city": "MATTHEWS",
+        "state": "NC",
+        "postalCode": "28105-2311"
+      },
+      {
+        "line": [
+          "300 N Washington Hwy"
+        ],
+        "city": "ASHLAND",
+        "state": "VA",
+        "postalCode": "23005-1626"
+      },
+      {
+        "line": [
+          "4600 Puddledock Rd"
+        ],
+        "city": "PRINCE GEORGE",
+        "state": "VA",
+        "postalCode": "23875-1235"
+      },
+      {
+        "line": [
           "1431 South boulevard"
         ],
         "city": "CHARLOTTE",
@@ -84,19 +85,43 @@
       },
       {
         "line": [
-          "12214 W. Broad Street"
+          "6100 Harbourside Centre Loop"
         ],
-        "city": "HENRICO",
+        "city": "MIDLOTHIAN",
         "state": "VA",
-        "postalCode": "23233-1062"
+        "postalCode": "23112-2140"
       },
       {
         "line": [
-          "10004 SouthPoint Pkwy"
+          "300 N WASHINGTON HWY"
+        ],
+        "city": "ASHLAND",
+        "state": "VA",
+        "postalCode": "23005-1626"
+      },
+      {
+        "line": [
+          "1431 South Boulevard"
+        ],
+        "city": "CHARLOTTE",
+        "state": "NC",
+        "postalCode": "28203-4211"
+      },
+      {
+        "line": [
+          "6100 HARBOURSIDE CENTRE LOOP"
+        ],
+        "city": "MIDLOTHIAN",
+        "state": "VA",
+        "postalCode": "23112-2140"
+      },
+      {
+        "line": [
+          "4901 Plank Road"
         ],
         "city": "FREDERICKSBURG",
         "state": "VA",
-        "postalCode": "22407-2700"
+        "postalCode": "22407-6626"
       },
       {
         "line": [
@@ -116,11 +141,11 @@
       },
       {
         "line": [
-          "6100 harbourside centre loop"
+          "10004 SouthPoint Pkwy"
         ],
-        "city": "Midlothian",
+        "city": "FREDERICKSBURG",
         "state": "VA",
-        "postalCode": "23112-2140"
+        "postalCode": "22407-2700"
       },
       {
         "line": [
@@ -132,52 +157,27 @@
       },
       {
         "line": [
-          "300 N WASHINGTON HWY"
-        ],
-        "city": "ASHLAND",
-        "state": "VA",
-        "postalCode": "23005-1626"
-      },
-      {
-        "line": [
-          " 6296 Mechanicsville Turnpike"
-        ],
-        "city": "MECHANICSVILLE",
-        "state": "VA",
-        "postalCode": "23111-2140"
-      },
-      {
-        "line": [
-          "1431 South Boulevard"
-        ],
-        "city": "CHARLOTTE",
-        "state": "NC",
-        "postalCode": "28203-4211"
-      },
-      {
-        "line": [
-          "4901 Plank Road"
-        ],
-        "city": "FREDERICKSBURG",
-        "state": "VA",
-        "postalCode": "22407-6626"
-      },
-      {
-        "line": [
-          "2304 Matthews Township Parkway",
-          "Suite 104"
-        ],
-        "city": "MATTHEWS",
-        "state": "NC",
-        "postalCode": "28105-2311"
-      },
-      {
-        "line": [
           "6296 Mechanicsville Turnpike"
         ],
         "city": "MECHANICSVILLE",
         "state": "VA",
         "postalCode": "23111-4577"
+      },
+      {
+        "line": [
+          "12214 W. Broad Street"
+        ],
+        "city": "HENRICO",
+        "state": "VA",
+        "postalCode": "23233-1062"
+      },
+      {
+        "line": [
+          "6100 harbourside centre loop"
+        ],
+        "city": "Midlothian",
+        "state": "VA",
+        "postalCode": "23112-2140"
       }
     ],
     "extension": [

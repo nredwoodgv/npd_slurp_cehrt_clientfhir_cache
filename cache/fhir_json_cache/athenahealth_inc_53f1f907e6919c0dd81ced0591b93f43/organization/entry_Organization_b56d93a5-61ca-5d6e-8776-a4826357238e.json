@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750814737"
+        "value": "1649501347"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649501347"
+        "value": "1750814737"
       }
     ],
     "address": [
@@ -32,19 +32,11 @@
       },
       {
         "line": [
-          "231 S Collins Rd"
-        ],
-        "city": "SUNNYVALE",
-        "state": "TX",
-        "postalCode": "75182-4624"
-      },
-      {
-        "line": [
-          "3500 W WHEATLAND RD"
+          "7777 Forest Lane"
         ],
         "city": "DALLAS",
         "state": "TX",
-        "postalCode": "75237-3460"
+        "postalCode": "75230-2501"
       },
       {
         "line": [
@@ -53,47 +45,6 @@
         "city": "MANSFIELD",
         "state": "TX",
         "postalCode": "76063-8744"
-      },
-      {
-        "line": [
-          "4343 N Josey Lane"
-        ],
-        "city": "CARROLLTON",
-        "state": "TX",
-        "postalCode": "75010-4603"
-      },
-      {
-        "line": [
-          "1190 Haskell Ave"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75204-8102"
-      },
-      {
-        "line": [
-          "3301 Matlock Rd"
-        ],
-        "city": "ARLINGTON",
-        "state": "TX",
-        "postalCode": "76015-2908"
-      },
-      {
-        "line": [
-          "12840 Hillcrest Rd",
-          "Ste E104"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75230-1528"
-      },
-      {
-        "line": [
-          "3601 N CALAIS ST"
-        ],
-        "city": "SHERMAN",
-        "state": "TX",
-        "postalCode": "75090-1785"
       },
       {
         "line": [
@@ -113,19 +64,43 @@
       },
       {
         "line": [
-          "231 S COLLINS RD"
-        ],
-        "city": "SUNNYVALE",
-        "state": "TX",
-        "postalCode": "75182-4624"
-      },
-      {
-        "line": [
           "3901 W 15TH ST"
         ],
         "city": "PLANO",
         "state": "TX",
         "postalCode": "75075-7738"
+      },
+      {
+        "line": [
+          "4343 N Josey Lane"
+        ],
+        "city": "CARROLLTON",
+        "state": "TX",
+        "postalCode": "75010-4603"
+      },
+      {
+        "line": [
+          "3301 Matlock Rd"
+        ],
+        "city": "ARLINGTON",
+        "state": "TX",
+        "postalCode": "76015-2908"
+      },
+      {
+        "line": [
+          "3500 W WHEATLAND RD"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75237-3460"
+      },
+      {
+        "line": [
+          "3601 N CALAIS ST"
+        ],
+        "city": "SHERMAN",
+        "state": "TX",
+        "postalCode": "75090-1785"
       },
       {
         "line": [
@@ -137,11 +112,11 @@
       },
       {
         "line": [
-          "7777 Forest Lane"
+          "231 S COLLINS RD"
         ],
-        "city": "DALLAS",
+        "city": "SUNNYVALE",
         "state": "TX",
-        "postalCode": "75230-2501"
+        "postalCode": "75182-4624"
       },
       {
         "line": [
@@ -151,6 +126,31 @@
         "city": "MCKINNEY",
         "state": "TX",
         "postalCode": "75069-3496"
+      },
+      {
+        "line": [
+          "1190 Haskell Ave"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75204-8102"
+      },
+      {
+        "line": [
+          "231 S Collins Rd"
+        ],
+        "city": "SUNNYVALE",
+        "state": "TX",
+        "postalCode": "75182-4624"
+      },
+      {
+        "line": [
+          "12840 Hillcrest Rd",
+          "Ste E104"
+        ],
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75230-1528"
       }
     ],
     "extension": [

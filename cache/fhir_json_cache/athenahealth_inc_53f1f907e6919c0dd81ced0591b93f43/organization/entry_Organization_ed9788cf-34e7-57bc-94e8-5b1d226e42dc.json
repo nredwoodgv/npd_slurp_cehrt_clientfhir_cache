@@ -14,58 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528556750"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1639111057"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1063917425"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528556750"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1010 Edison Ave NW"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49504-3918"
-      },
-      {
-        "line": [
-          "1450 E Fulton"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49503-3854"
-      },
-      {
-        "line": [
-          "1000 Edison Ave NW"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49504-3918"
-      },
-      {
-        "line": [
-          "153 Lakeside NE"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49546-3854"
-      },
-      {
-        "line": [
-          "200 Leonard St NE"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49506-1030"
-      },
       {
         "line": [
           "1551 Franklin Ave SE"
@@ -76,11 +36,35 @@
       },
       {
         "line": [
-          "1900-44th Street SE"
+          "3400 Wilson Ave SW"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49508-5008"
+        "postalCode": "49518-8203"
+      },
+      {
+        "line": [
+          "1010 Edison Ave NW"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49504-3918"
+      },
+      {
+        "line": [
+          "2499 Forest Hill SE"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49546-8257"
+      },
+      {
+        "line": [
+          "1000 Edison Ave NW"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49504-3918"
       },
       {
         "line": [
@@ -108,11 +92,27 @@
       },
       {
         "line": [
-          "3400 Wilson Ave SW"
+          "2589 44th St SE"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49518-8203"
+        "postalCode": "49512-3877"
+      },
+      {
+        "line": [
+          "1450 E Fulton"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49503-3854"
+      },
+      {
+        "line": [
+          "153 Lakeside NE"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49546-3854"
       },
       {
         "line": [
@@ -124,27 +124,11 @@
       },
       {
         "line": [
-          "2589 44th St SE"
+          "200 Leonard St NE"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49512-3877"
-      },
-      {
-        "line": [
-          "2499 Forest Hill SE"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49546-8257"
-      },
-      {
-        "line": [
-          "2000 32nd St"
-        ],
-        "city": "GRAND RAPIDS",
-        "state": "MI",
-        "postalCode": "49508-7910"
+        "postalCode": "49506-1030"
       },
       {
         "line": [
@@ -156,11 +140,19 @@
       },
       {
         "line": [
-          "200 Jefferson Street SE"
+          "1900-44th Street SE"
         ],
         "city": "GRAND RAPIDS",
         "state": "MI",
-        "postalCode": "49503-4502"
+        "postalCode": "49508-5008"
+      },
+      {
+        "line": [
+          "2000 32nd St"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49508-7910"
       },
       {
         "line": [
@@ -169,6 +161,14 @@
         "city": "GRAND RAPIDS",
         "state": "MI",
         "postalCode": "49546-5793"
+      },
+      {
+        "line": [
+          "200 Jefferson Street SE"
+        ],
+        "city": "GRAND RAPIDS",
+        "state": "MI",
+        "postalCode": "49503-4502"
       }
     ],
     "extension": [

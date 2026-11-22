@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154792232"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861418220"
       },
       {
@@ -26,22 +22,79 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912607300"
+        "value": "1114344280"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114344280"
+        "value": "1154792232"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912607300"
       }
     ],
     "address": [
       {
         "line": [
           "826 Washington Rd",
-          "Ste 131"
+          "Suite 210"
         ],
         "city": "WESTMINSTER",
         "state": "MD",
-        "postalCode": "21157-5750"
+        "postalCode": "21157-5780"
+      },
+      {
+        "line": [
+          "4175 N Hanson Ct",
+          "Suite 202"
+        ],
+        "city": "BOWIE",
+        "state": "MD",
+        "postalCode": "20716-3182"
+      },
+      {
+        "line": [
+          "6602 Church Hill Rd",
+          "Suite 550"
+        ],
+        "city": "CHESTERTOWN",
+        "state": "MD",
+        "postalCode": "21620-2323"
+      },
+      {
+        "line": [
+          "7920 McDonogh Rd.",
+          "Suite 201"
+        ],
+        "city": "OWINGS MILLS",
+        "state": "MD",
+        "postalCode": "21117-5350"
+      },
+      {
+        "line": [
+          "7671 Quarterfield Rd",
+          "Suite 301"
+        ],
+        "city": "GLEN BURNIE",
+        "state": "MD",
+        "postalCode": "21061-4525"
+      },
+      {
+        "line": [
+          "120 Sallitt Drive",
+          "Suite D"
+        ],
+        "city": "STEVENSVILLE",
+        "state": "MD",
+        "postalCode": "21666-2154"
+      },
+      {
+        "line": [
+          "598 Cynwood Dr #105"
+        ],
+        "city": "EASTON",
+        "state": "MD",
+        "postalCode": "21601-4302"
       },
       {
         "line": [
@@ -53,12 +106,21 @@
       },
       {
         "line": [
-          "8100 Sandpiper Circle",
-          "Suite 214"
+          "4660 Wilkens Ave",
+          "Suite 302"
         ],
-        "city": "NOTTINGHAM",
+        "city": "BALTIMORE",
         "state": "MD",
-        "postalCode": "21236-4999"
+        "postalCode": "21229-4848"
+      },
+      {
+        "line": [
+          "19851 Observation Dr",
+          "Suite 360"
+        ],
+        "city": "GERMANTOWN",
+        "state": "MD",
+        "postalCode": "20876-4070"
       },
       {
         "line": [
@@ -71,12 +133,30 @@
       },
       {
         "line": [
-          "810 Bestgate Rd",
-          "Suite 220"
+          "10905 Fort Washington Rd",
+          "Suite 405"
         ],
-        "city": "ANNAPOLIS",
+        "city": "FORT WASHINGTON",
         "state": "MD",
-        "postalCode": "21401-3033"
+        "postalCode": "20744-5807"
+      },
+      {
+        "line": [
+          "8100 Sandpiper Circle",
+          "Suite 214"
+        ],
+        "city": "NOTTINGHAM",
+        "state": "MD",
+        "postalCode": "21236-4999"
+      },
+      {
+        "line": [
+          "7671 Quarterfield Rd.",
+          "Suite 301"
+        ],
+        "city": "GLEN BURNIE",
+        "state": "MD",
+        "postalCode": "21061-4525"
       },
       {
         "line": [
@@ -98,31 +178,6 @@
       },
       {
         "line": [
-          "7671 Quarterfield Rd",
-          "Suite 301"
-        ],
-        "city": "GLEN BURNIE",
-        "state": "MD",
-        "postalCode": "21061-4525"
-      },
-      {
-        "line": [
-          "598 Cynwood Dr #105"
-        ],
-        "city": "EASTON",
-        "state": "MD",
-        "postalCode": "21601-4302"
-      },
-      {
-        "line": [
-          "8367 Cherry Lane"
-        ],
-        "city": "LAUREL",
-        "state": "MD",
-        "postalCode": "20707-4831"
-      },
-      {
-        "line": [
           "1673 S State Street"
         ],
         "city": "DOVER",
@@ -132,74 +187,19 @@
       {
         "line": [
           "826 Washington Rd",
-          "Suite 210"
+          "Ste 131"
         ],
         "city": "WESTMINSTER",
         "state": "MD",
-        "postalCode": "21157-5780"
+        "postalCode": "21157-5750"
       },
       {
         "line": [
-          "6602 Church Hill Rd",
-          "Suite 550"
+          "8367 Cherry Lane"
         ],
-        "city": "CHESTERTOWN",
+        "city": "LAUREL",
         "state": "MD",
-        "postalCode": "21620-2323"
-      },
-      {
-        "line": [
-          "120 Sallitt Drive",
-          "Suite D"
-        ],
-        "city": "STEVENSVILLE",
-        "state": "MD",
-        "postalCode": "21666-2154"
-      },
-      {
-        "line": [
-          "19851 Observation Dr",
-          "Suite 360"
-        ],
-        "city": "GERMANTOWN",
-        "state": "MD",
-        "postalCode": "20876-4070"
-      },
-      {
-        "line": [
-          "10905 Fort Washington Rd",
-          "Suite 405"
-        ],
-        "city": "FORT WASHINGTON",
-        "state": "MD",
-        "postalCode": "20744-5807"
-      },
-      {
-        "line": [
-          "7671 Quarterfield Rd.",
-          "Suite 301"
-        ],
-        "city": "GLEN BURNIE",
-        "state": "MD",
-        "postalCode": "21061-4525"
-      },
-      {
-        "line": [
-          "4175 N Hanson Ct",
-          "Suite 202"
-        ],
-        "city": "BOWIE",
-        "state": "MD",
-        "postalCode": "20716-3182"
-      },
-      {
-        "line": [
-          "4660 Wilkens Ave",
-          "Suite 302"
-        ],
-        "city": "BALTIMORE",
-        "state": "MD",
-        "postalCode": "21229-4848"
+        "postalCode": "20707-4831"
       },
       {
         "line": [
@@ -212,12 +212,12 @@
       },
       {
         "line": [
-          "7920 McDonogh Rd.",
-          "Suite 201"
+          "810 Bestgate Rd",
+          "Suite 220"
         ],
-        "city": "OWINGS MILLS",
+        "city": "ANNAPOLIS",
         "state": "MD",
-        "postalCode": "21117-5350"
+        "postalCode": "21401-3033"
       }
     ],
     "extension": [

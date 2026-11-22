@@ -155,6 +155,10 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1619675535"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "123456789"
       }
     ],
     "active": true,
@@ -403,6 +407,10 @@
       {
         "system": "phone",
         "value": "(213)977-1214"
+      },
+      {
+        "system": "phone",
+        "value": "(333)333-3333"
       }
     ],
     "address": [
@@ -1608,6 +1616,17 @@
         "city": "El Segundo",
         "state": "CA",
         "postalCode": "90245",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "363 S Main St, Suite 485"
+        ],
+        "city": "Orange",
+        "state": "Ca",
+        "postalCode": "92868",
         "country": "USA"
       }
     ],

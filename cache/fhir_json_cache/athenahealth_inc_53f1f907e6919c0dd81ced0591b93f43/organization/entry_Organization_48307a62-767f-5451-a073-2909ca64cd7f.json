@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831331503"
+        "value": "1699940270"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699940270"
+        "value": "1831331503"
       }
     ],
     "address": [
@@ -32,11 +32,11 @@
       },
       {
         "line": [
-          "800 BATTLEFIELD BLVD N"
+          "1805 W CITY DR STE B"
         ],
-        "city": "CHESAPEAKE",
-        "state": "VA",
-        "postalCode": "23320-4802"
+        "city": "ELIZABETH CITY",
+        "state": "NC",
+        "postalCode": "27909-9660"
       },
       {
         "line": [
@@ -48,20 +48,20 @@
       },
       {
         "line": [
+          "800 BATTLEFIELD BLVD N"
+        ],
+        "city": "CHESAPEAKE",
+        "state": "VA",
+        "postalCode": "23320-4802"
+      },
+      {
+        "line": [
           "5849 Harbour View Blvd",
           "STE 250"
         ],
         "city": "SUFFOLK",
         "state": "VA",
         "postalCode": "23435-3769"
-      },
-      {
-        "line": [
-          "1805 W CITY DR STE B"
-        ],
-        "city": "ELIZABETH CITY",
-        "state": "NC",
-        "postalCode": "27909-9660"
       }
     ],
     "extension": [

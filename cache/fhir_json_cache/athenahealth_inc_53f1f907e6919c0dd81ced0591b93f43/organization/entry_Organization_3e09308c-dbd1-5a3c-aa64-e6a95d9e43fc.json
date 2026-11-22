@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1194909556"
+        "value": "1689683666"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1689683666"
+        "value": "1194909556"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1730 Saint Julian Place"
-        ],
-        "city": "COLUMBIA",
-        "state": "SC",
-        "postalCode": "29204-2410"
-      },
-      {
-        "line": [
-          "2260 WRIGHTSBORO RD"
-        ],
-        "city": "AUGUSTA",
-        "state": "GA",
-        "postalCode": "30904-4764"
-      },
       {
         "line": [
           "2435 FOREST DR"
@@ -45,6 +29,14 @@
         "city": "COLUMBIA",
         "state": "SC",
         "postalCode": "29204-2026"
+      },
+      {
+        "line": [
+          "1730 Saint Julian Place"
+        ],
+        "city": "COLUMBIA",
+        "state": "SC",
+        "postalCode": "29204-2410"
       },
       {
         "line": [
@@ -61,6 +53,14 @@
         "city": "SUMMERVILLE",
         "state": "SC",
         "postalCode": "29483-6721"
+      },
+      {
+        "line": [
+          "2260 WRIGHTSBORO RD"
+        ],
+        "city": "AUGUSTA",
+        "state": "GA",
+        "postalCode": "30904-4764"
       }
     ],
     "extension": [

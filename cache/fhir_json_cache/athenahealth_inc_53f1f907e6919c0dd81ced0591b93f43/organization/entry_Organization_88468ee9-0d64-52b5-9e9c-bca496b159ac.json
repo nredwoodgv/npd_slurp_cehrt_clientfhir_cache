@@ -14,10 +14,6 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1942860176"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1679501746"
       },
       {
@@ -27,9 +23,85 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1346244688"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1942860176"
       }
     ],
     "address": [
+      {
+        "line": [
+          "18951 MEMORIAL NORTH"
+        ],
+        "city": "HUMBLE",
+        "state": "TX",
+        "postalCode": "77338-4217"
+      },
+      {
+        "line": [
+          "20203 Bridgeland Creek Pkwy, Ste 200"
+        ],
+        "city": "CYPRESS",
+        "state": "TX",
+        "postalCode": "77433-0812"
+      },
+      {
+        "line": [
+          "601 ROCKMEAD DR STE 100"
+        ],
+        "city": "KINGWOOD",
+        "state": "TX",
+        "postalCode": "77339-2107"
+      },
+      {
+        "line": [
+          "300 KINGWOOD MEDICAL DRIVE"
+        ],
+        "city": "KINGWOOD",
+        "state": "TX",
+        "postalCode": "77339-6400"
+      },
+      {
+        "line": [
+          "10425 HUFFMEISTER RD STE 320"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77065-3429"
+      },
+      {
+        "line": [
+          "1441 Woodstead Crt Ste 100"
+        ],
+        "city": "The Woodlands",
+        "state": "TX",
+        "postalCode": "77380-1410"
+      },
+      {
+        "line": [
+          "27800 Northwest Frwy"
+        ],
+        "city": "CYPRESS",
+        "state": "TX",
+        "postalCode": "77433-5302"
+      },
+      {
+        "line": [
+          "11800 FM 1960 RD W"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77065-3840"
+      },
+      {
+        "line": [
+          "4801 BISSONNET ST"
+        ],
+        "city": "BELLAIRE",
+        "state": "TX",
+        "postalCode": "77401-4028"
+      },
       {
         "line": [
           "22999 Hwy 59 North"
@@ -48,46 +120,6 @@
       },
       {
         "line": [
-          "300 KINGWOOD MEDICAL DRIVE"
-        ],
-        "city": "KINGWOOD",
-        "state": "TX",
-        "postalCode": "77339-6400"
-      },
-      {
-        "line": [
-          "4801 BISSONNET ST"
-        ],
-        "city": "BELLAIRE",
-        "state": "TX",
-        "postalCode": "77401-4028"
-      },
-      {
-        "line": [
-          "10425 HUFFMEISTER RD STE 320"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77065-3429"
-      },
-      {
-        "line": [
-          "24500 NORTHWEST FWY"
-        ],
-        "city": "CYPRESS",
-        "state": "TX",
-        "postalCode": "77429-2199"
-      },
-      {
-        "line": [
-          "601 ROCKMEAD DR STE 100"
-        ],
-        "city": "KINGWOOD",
-        "state": "TX",
-        "postalCode": "77339-2107"
-      },
-      {
-        "line": [
           "11520 Northpointe Blvd"
         ],
         "city": "TOMBALL",
@@ -96,36 +128,11 @@
       },
       {
         "line": [
-          "18951 MEMORIAL NORTH"
-        ],
-        "city": "HUMBLE",
-        "state": "TX",
-        "postalCode": "77338-4217"
-      },
-      {
-        "line": [
-          "27800 Northwest Frwy"
+          "24500 NORTHWEST FWY"
         ],
         "city": "CYPRESS",
         "state": "TX",
-        "postalCode": "77433-5302"
-      },
-      {
-        "line": [
-          "20203 BRIDGELAND CREEK PKWY",
-          "STE 200"
-        ],
-        "city": "CYPRESS",
-        "state": "TX",
-        "postalCode": "77433-0812"
-      },
-      {
-        "line": [
-          "1441 Woodstead Crt Ste 100"
-        ],
-        "city": "The Woodlands",
-        "state": "TX",
-        "postalCode": "77380-1410"
+        "postalCode": "77429-2199"
       },
       {
         "line": [
@@ -146,19 +153,12 @@
       },
       {
         "line": [
-          "20203 Bridgeland Creek Pkwy, Ste 200"
+          "20203 BRIDGELAND CREEK PKWY",
+          "STE 200"
         ],
         "city": "CYPRESS",
         "state": "TX",
         "postalCode": "77433-0812"
-      },
-      {
-        "line": [
-          "11800 FM 1960 RD W"
-        ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77065-3840"
       }
     ],
     "extension": [

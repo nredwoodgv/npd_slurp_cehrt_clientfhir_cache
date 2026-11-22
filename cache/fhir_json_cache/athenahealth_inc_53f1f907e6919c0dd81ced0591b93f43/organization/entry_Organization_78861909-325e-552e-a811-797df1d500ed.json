@@ -14,59 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1609669902"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982470662"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1497517676"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013700327"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144082322"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366329468"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1578325759"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1134995822"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033985726"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245117340"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447137542"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1659250520"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528945623"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992598205"
+        "value": "1952177644"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -74,7 +22,51 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1659250520"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1144082322"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1609669902"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447137542"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578325759"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033985726"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548036239"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1992598213"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1366329468"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1528945623"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1134995822"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1992598205"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -82,11 +74,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1952177644"
+        "value": "1245117340"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548036239"
+        "value": "1497517676"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1982470662"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013700327"
       }
     ],
     "address": [
@@ -101,12 +101,29 @@
       },
       {
         "line": [
-          "98-084 Kamehameha Hwy",
-          "Ste 304"
+          "850 W Hind Dr",
+          "Ste 210"
         ],
-        "city": "Aiea",
+        "city": "Honolulu",
         "state": "HI",
-        "postalCode": "96701-5124"
+        "postalCode": "96821-1845"
+      },
+      {
+        "line": [
+          "438 Hobron Ln",
+          "Ste 405"
+        ],
+        "city": "Honolulu",
+        "state": "HI",
+        "postalCode": "96815-1229"
+      },
+      {
+        "line": [
+          "80 GUEST ST"
+        ],
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2071"
       },
       {
         "line": [
@@ -119,29 +136,12 @@
       },
       {
         "line": [
-          "850 W Hind Dr",
-          "Ste 210"
+          "98-084 Kamehameha Hwy",
+          "Ste 304"
         ],
-        "city": "Honolulu",
+        "city": "Aiea",
         "state": "HI",
-        "postalCode": "96821-1845"
-      },
-      {
-        "line": [
-          "80 GUEST ST"
-        ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2071"
-      },
-      {
-        "line": [
-          "438 Hobron Ln",
-          "Ste 405"
-        ],
-        "city": "Honolulu",
-        "state": "HI",
-        "postalCode": "96815-1229"
+        "postalCode": "96701-5124"
       }
     ],
     "extension": [

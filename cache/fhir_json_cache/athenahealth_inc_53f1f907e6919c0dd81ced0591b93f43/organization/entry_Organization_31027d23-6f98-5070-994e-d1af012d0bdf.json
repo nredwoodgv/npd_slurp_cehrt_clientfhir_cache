@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1699909341"
+        "value": "1366408379"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366408379"
+        "value": "1699909341"
       }
     ],
     "address": [
-      {
-        "line": [
-          "901 45TH ST"
-        ],
-        "city": "WEST PALM BEACH",
-        "state": "FL",
-        "postalCode": "33407-2413"
-      },
       {
         "line": [
           "5352 LINTON BLVD"
@@ -37,22 +29,6 @@
         "city": "DELRAY BEACH",
         "state": "FL",
         "postalCode": "33484-6514"
-      },
-      {
-        "line": [
-          "6200 SW 73RD ST"
-        ],
-        "city": "MIAMI",
-        "state": "FL",
-        "postalCode": "33143-4679"
-      },
-      {
-        "line": [
-          "10101 W FOREST HILL BLVD"
-        ],
-        "city": "WELLINGTON",
-        "state": "FL",
-        "postalCode": "33414-6103"
       },
       {
         "line": [
@@ -64,35 +40,11 @@
       },
       {
         "line": [
-          "160 NW 170TH ST"
+          "1900 N PEARL ST STE 2400"
         ],
-        "city": "MIAMI",
-        "state": "FL",
-        "postalCode": "33169-5521"
-      },
-      {
-        "line": [
-          "2815 S SEACREST BLVD"
-        ],
-        "city": "BOYNTON BEACH",
-        "state": "FL",
-        "postalCode": "33435-7934"
-      },
-      {
-        "line": [
-          "8900 N KENDALL DR"
-        ],
-        "city": "MIAMI",
-        "state": "FL",
-        "postalCode": "33176-2118"
-      },
-      {
-        "line": [
-          "9555 SW 162 AVE"
-        ],
-        "city": "MIAMI",
-        "state": "FL",
-        "postalCode": "33143-3623"
+        "city": "DALLAS",
+        "state": "TX",
+        "postalCode": "75201-2470"
       },
       {
         "line": [
@@ -104,19 +56,27 @@
       },
       {
         "line": [
-          "3000 CORAL HILLS DR"
+          "2815 S SEACREST BLVD"
         ],
-        "city": "POMPANO BEACH",
+        "city": "BOYNTON BEACH",
         "state": "FL",
-        "postalCode": "33065-4108"
+        "postalCode": "33435-7934"
       },
       {
         "line": [
-          "975 BAPTIST WAY"
+          "160 NW 170TH ST"
         ],
-        "city": "HOMESTEAD",
+        "city": "MIAMI",
         "state": "FL",
-        "postalCode": "33033-7600"
+        "postalCode": "33169-5521"
+      },
+      {
+        "line": [
+          "10101 W FOREST HILL BLVD"
+        ],
+        "city": "WELLINGTON",
+        "state": "FL",
+        "postalCode": "33414-6103"
       },
       {
         "line": [
@@ -128,14 +88,6 @@
       },
       {
         "line": [
-          "1900 N PEARL ST STE 2400"
-        ],
-        "city": "DALLAS",
-        "state": "TX",
-        "postalCode": "75201-2470"
-      },
-      {
-        "line": [
           "2122 NW 62ND ST STE 103"
         ],
         "city": "FORT LAUDERDALE",
@@ -144,19 +96,11 @@
       },
       {
         "line": [
-          "2001 W 68 Street"
+          "3000 CORAL HILLS DR"
         ],
-        "city": "HIALEAH",
+        "city": "POMPANO BEACH",
         "state": "FL",
-        "postalCode": "33016-1801"
-      },
-      {
-        "line": [
-          "5352 Linton BLvd"
-        ],
-        "city": "DelRay Beach",
-        "state": "FL",
-        "postalCode": "33484-6514"
+        "postalCode": "33065-4108"
       },
       {
         "line": [
@@ -168,11 +112,67 @@
       },
       {
         "line": [
+          "6200 SW 73RD ST"
+        ],
+        "city": "MIAMI",
+        "state": "FL",
+        "postalCode": "33143-4679"
+      },
+      {
+        "line": [
+          "8900 N KENDALL DR"
+        ],
+        "city": "MIAMI",
+        "state": "FL",
+        "postalCode": "33176-2118"
+      },
+      {
+        "line": [
           "975 Baptist Way"
         ],
         "city": "HOMESTEAD",
         "state": "FL",
         "postalCode": "33033-7600"
+      },
+      {
+        "line": [
+          "975 BAPTIST WAY"
+        ],
+        "city": "HOMESTEAD",
+        "state": "FL",
+        "postalCode": "33033-7600"
+      },
+      {
+        "line": [
+          "9555 SW 162 AVE"
+        ],
+        "city": "MIAMI",
+        "state": "FL",
+        "postalCode": "33143-3623"
+      },
+      {
+        "line": [
+          "5352 Linton BLvd"
+        ],
+        "city": "DelRay Beach",
+        "state": "FL",
+        "postalCode": "33484-6514"
+      },
+      {
+        "line": [
+          "2001 W 68 Street"
+        ],
+        "city": "HIALEAH",
+        "state": "FL",
+        "postalCode": "33016-1801"
+      },
+      {
+        "line": [
+          "901 45TH ST"
+        ],
+        "city": "WEST PALM BEACH",
+        "state": "FL",
+        "postalCode": "33407-2413"
       }
     ],
     "extension": [

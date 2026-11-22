@@ -14,21 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326072943"
+        "value": "1790103869"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790103869"
+        "value": "1326072943"
       }
     ],
     "address": [
       {
         "line": [
-          "601 Leah Ave"
+          "9010 N Lake Creek Pkwy",
+          "Bldg 2 STE 203"
         ],
-        "city": "San Marcos",
+        "city": "AUSTIN",
         "state": "TX",
-        "postalCode": "78666-7849"
+        "postalCode": "78717-6217"
       },
       {
         "line": [
@@ -41,12 +42,11 @@
       },
       {
         "line": [
-          "9010 N Lake Creek Pkwy",
-          "Bldg 2 STE 203"
+          "601 Leah Ave"
         ],
-        "city": "AUSTIN",
+        "city": "San Marcos",
         "state": "TX",
-        "postalCode": "78717-6217"
+        "postalCode": "78666-7849"
       }
     ],
     "extension": [

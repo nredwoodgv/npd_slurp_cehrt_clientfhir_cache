@@ -286,10 +286,6 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1154461622"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1922079094"
       },
       {
@@ -399,6 +395,10 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1841213923"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1154461622"
       }
     ],
     "active": true,
@@ -482,11 +482,11 @@
       },
       {
         "system": "phone",
-        "value": "(631)758-7003"
+        "value": "(833)993-1986"
       },
       {
         "system": "phone",
-        "value": "(833)993-1986"
+        "value": "(631)758-7003"
       },
       {
         "system": "phone",
@@ -850,19 +850,11 @@
       },
       {
         "system": "phone",
-        "value": "(516)421-4278"
-      },
-      {
-        "system": "phone",
         "value": "(718)732-4071"
       },
       {
         "system": "phone",
-        "value": "(212)396-1174"
-      },
-      {
-        "system": "phone",
-        "value": "(347)899-8041"
+        "value": "(516)421-4278"
       },
       {
         "system": "phone",
@@ -1087,6 +1079,14 @@
       {
         "system": "phone",
         "value": "(914)831-4100"
+      },
+      {
+        "system": "phone",
+        "value": "(212)396-1174"
+      },
+      {
+        "system": "phone",
+        "value": "(347)899-8041"
       }
     ],
     "address": [
@@ -1345,17 +1345,6 @@
         "city": "New York",
         "state": "NY",
         "postalCode": "10028",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "40 Main Street"
-        ],
-        "city": "Westhampton Beach",
-        "state": "NY",
-        "postalCode": "11978-2673",
         "country": "USA"
       },
       {
@@ -3248,17 +3237,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1 Delaware Drive"
-        ],
-        "city": "New Hyde Park",
-        "state": "NY",
-        "postalCode": "11042-1116",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "9711 3rd Avenue"
         ],
         "city": "Brooklyn",
@@ -3316,66 +3294,44 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "500 West 181st Street"
+          "805 Northern Boulevard"
         ],
-        "city": "New York",
+        "city": "Great Neck",
         "state": "NY",
-        "postalCode": "10033-7327",
+        "postalCode": "11021-5342",
         "country": "USA"
       },
       {
         "use": "work",
         "type": "postal",
         "line": [
-          "10 Union Square East"
+          "1 Delaware Drive"
         ],
-        "city": "New York",
+        "city": "New Hyde Park",
         "state": "NY",
-        "postalCode": "10003",
+        "postalCode": "11042-1116",
         "country": "USA"
       },
       {
         "use": "work",
         "type": "postal",
         "line": [
-          "5316 Nesconset Hwy"
+          "1 Delaware Drive"
         ],
-        "city": "Port Jefferson Station",
+        "city": "New Hyde Park",
         "state": "NY",
-        "postalCode": "11776",
+        "postalCode": "11042-1116",
         "country": "USA"
       },
       {
         "use": "work",
         "type": "postal",
         "line": [
-          "4500 Parsons Boulevard"
+          "40 Main Street"
         ],
-        "city": "Flushing",
+        "city": "Westhampton Beach",
         "state": "NY",
-        "postalCode": "11355",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "1749 Grand Concourse"
-        ],
-        "city": "Bronx",
-        "state": "NY",
-        "postalCode": "10453",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "506 6th Street"
-        ],
-        "city": "Brooklyn",
-        "state": "NY",
-        "postalCode": "11215",
+        "postalCode": "11978-2673",
         "country": "USA"
       },
       {
@@ -4508,17 +4464,6 @@
         "city": "Greenvale",
         "state": "NY",
         "postalCode": "11548",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
-          "805 Northern Boulevard"
-        ],
-        "city": "Great Neck",
-        "state": "NY",
-        "postalCode": "11021-5342",
         "country": "USA"
       },
       {
@@ -5763,17 +5708,6 @@
         "use": "work",
         "type": "postal",
         "line": [
-          "1 Delaware Drive"
-        ],
-        "city": "New Hyde Park",
-        "state": "NY",
-        "postalCode": "11042-1116",
-        "country": "USA"
-      },
-      {
-        "use": "work",
-        "type": "postal",
-        "line": [
           "1061 North Broadway",
           "1st Floor"
         ],
@@ -6151,6 +6085,72 @@
         "city": "New York",
         "state": "NY",
         "postalCode": "10033",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "500 West 181st Street"
+        ],
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10033-7327",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "10 Union Square East"
+        ],
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10003",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "5316 Nesconset Hwy"
+        ],
+        "city": "Port Jefferson Station",
+        "state": "NY",
+        "postalCode": "11776",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "4500 Parsons Boulevard"
+        ],
+        "city": "Flushing",
+        "state": "NY",
+        "postalCode": "11355",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1749 Grand Concourse"
+        ],
+        "city": "Bronx",
+        "state": "NY",
+        "postalCode": "10453",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "506 6th Street"
+        ],
+        "city": "Brooklyn",
+        "state": "NY",
+        "postalCode": "11215",
         "country": "USA"
       }
     ],

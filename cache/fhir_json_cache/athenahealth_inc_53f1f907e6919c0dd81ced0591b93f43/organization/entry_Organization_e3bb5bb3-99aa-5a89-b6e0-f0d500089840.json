@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1871553073"
+        "value": "1811762701"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811762701"
+        "value": "1871553073"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,25 +36,11 @@
     "address": [
       {
         "line": [
-          "2900 Medical Center Pkwy Ste 140"
+          "3000 MEDICAL CENTER PKWY"
         ],
         "city": "BENTONVILLE",
         "state": "AR",
-        "postalCode": "72712-3212"
-      },
-      {
-        "line": [
-          "609 W Maple"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72764-5335"
-      },
-      {
-        "line": [],
-        "city": "BENTONVILLE",
-        "state": "AR",
-        "postalCode": "72713-9256"
+        "postalCode": "72712-3217"
       },
       {
         "line": [
@@ -66,19 +52,27 @@
       },
       {
         "line": [
-          "2900 MEDICAL CENTER PKWY STE 300"
+          "2900 MEDICAL CENTER PKWY STE 380"
         ],
         "city": "BENTONVILLE",
         "state": "AR",
-        "postalCode": "72712-3214"
+        "postalCode": "72712-3204"
       },
       {
         "line": [
-          "3000 MEDICAL CENTER PKWY"
+          "603 N PROGRESS AVE"
         ],
-        "city": "BENTONVILLE",
+        "city": "SILOAM SPRINGS",
         "state": "AR",
-        "postalCode": "72712-3217"
+        "postalCode": "72761-4352"
+      },
+      {
+        "line": [
+          "1011 Main Street"
+        ],
+        "city": "SPRING HILL",
+        "state": "TN",
+        "postalCode": "37174-4531"
       },
       {
         "line": [
@@ -92,9 +86,41 @@
         "line": [
           "4301 GREATHOUSE SPRINGS RD"
         ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72762-8701"
+      },
+      {
+        "line": [
+          "4301 GREATHOUSE SPRINGS RD"
+        ],
         "city": "JOHNSON",
         "state": "AR",
-        "postalCode": "72741-9998"
+        "postalCode": "72741-0000"
+      },
+      {
+        "line": [
+          "2900 MEDICAL CENTER PKWY STE 300"
+        ],
+        "city": "BENTONVILLE",
+        "state": "AR",
+        "postalCode": "72712-3214"
+      },
+      {
+        "line": [
+          "4301 GREATHOUSE RD"
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72762-8701"
+      },
+      {
+        "line": [
+          "609 W Maple Ave"
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72764-5335"
       },
       {
         "line": [
@@ -106,15 +132,29 @@
       },
       {
         "line": [
-          "609 W MAPLE AVE"
+          "601 SW REGIONAL AIRPORT BLVD"
         ],
-        "city": "SPRINGDALE",
+        "city": "BENTONVILLE",
         "state": "AR",
-        "postalCode": "72764-5335"
+        "postalCode": "72713-9256"
+      },
+      {
+        "line": [],
+        "city": "BENTONVILLE",
+        "state": "AR",
+        "postalCode": "72713-9256"
       },
       {
         "line": [
-          "4301 Greathouse Springs Rd."
+          "2900 Medical Center Pkwy Ste 140"
+        ],
+        "city": "BENTONVILLE",
+        "state": "AR",
+        "postalCode": "72712-3212"
+      },
+      {
+        "line": [
+          "4301 Greathouse Springs Rd Ste 100"
         ],
         "city": "SPRINGDALE",
         "state": "AR",
@@ -122,15 +162,15 @@
       },
       {
         "line": [
-          "609 W Maple Ave"
+          "5501 WILLOW CREEK DR STE. 202"
         ],
         "city": "SPRINGDALE",
         "state": "AR",
-        "postalCode": "72764-5397"
+        "postalCode": "72762-8708"
       },
       {
         "line": [
-          "609 W Maple Ave"
+          "609 W MAPLE AVE"
         ],
         "city": "SPRINGDALE",
         "state": "AR",
@@ -146,43 +186,143 @@
       },
       {
         "line": [
-          "3873 N. Parkview Dr."
-        ],
-        "city": "FAYETTEVILLE",
-        "state": "AR",
-        "postalCode": "72703-6286"
-      },
-      {
-        "line": [
-          "2900 Medical Center Pkwy"
-        ],
-        "city": "BENTONVILLE",
-        "state": "AR",
-        "postalCode": "72712-3204"
-      },
-      {
-        "line": [
-          "4313 S Pleasant Crossing Blvd"
-        ],
-        "city": "ROGERS",
-        "state": "AR",
-        "postalCode": "72758-1347"
-      },
-      {
-        "line": [
-          "601 SW REGIONAL AIRPORT BLVD"
-        ],
-        "city": "BENTONVILLE",
-        "state": "AR",
-        "postalCode": "72713-9256"
-      },
-      {
-        "line": [
           "4301 Greathouse Springs Rd."
         ],
         "city": "JOHNSON",
         "state": "AR",
         "postalCode": "72741-8701"
+      },
+      {
+        "line": [
+          "2158 Butterfield Coach Road, Suite 100"
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72764-9142"
+      },
+      {
+        "line": [],
+        "city": "GRAVETTE",
+        "state": "AR",
+        "postalCode": "72736-9121"
+      },
+      {
+        "line": [
+          "603 N Progress Ave"
+        ],
+        "city": "SILOAM SPRINGS",
+        "state": "AR",
+        "postalCode": "72761-4352"
+      },
+      {
+        "line": [
+          "603  N PROGRESS AVE"
+        ],
+        "city": "SILOAM SPRINGS",
+        "state": "AR",
+        "postalCode": "72761-4352"
+      },
+      {
+        "line": [
+          "3873 N. Parkview Dr"
+        ],
+        "city": "FAYETTEVILLE",
+        "state": "AR",
+        "postalCode": "72703-6296"
+      },
+      {
+        "line": [
+          "4301 Greathouse Springs Rd"
+        ],
+        "city": "JOHNSON",
+        "state": "AR",
+        "postalCode": "72741-8701"
+      },
+      {
+        "line": [
+          "1101 Jackson Street"
+        ],
+        "city": "GRAVETTE",
+        "state": "AR",
+        "postalCode": "72736-9121"
+      },
+      {
+        "line": [
+          "3399 Forest Drive Suite 2"
+        ],
+        "city": "FAYETTEVILLE",
+        "state": "AR",
+        "postalCode": "72704-6541"
+      },
+      {
+        "line": [
+          "212 W MONROE AVE STE A"
+        ],
+        "city": "LOWELL",
+        "state": "AR",
+        "postalCode": "72745-9451"
+      },
+      {
+        "line": [
+          "4301 Willow Creek Drive"
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72762-8711"
+      },
+      {
+        "line": [
+          "4077 Elm Springs RD STE 5"
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72762-3748"
+      },
+      {
+        "line": [
+          "601 W. Maple Suite 403"
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72764-5374"
+      },
+      {
+        "line": [
+          "609 W  Maple Ave"
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72764-5335"
+      },
+      {
+        "line": [
+          "2900 MEDICAL CENTER PKWY STE 310"
+        ],
+        "city": "BENTONVILLE",
+        "state": "AR",
+        "postalCode": "72712-3214"
+      },
+      {
+        "line": [],
+        "city": "BENTONVILLE",
+        "state": "AR",
+        "postalCode": "72712-3217"
+      },
+      {
+        "line": [
+          "609 W. Maple Ave"
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72764-5335"
+      },
+      {
+        "line": [
+          "4077 ELM SPRINGS RD STE 105"
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72762-3748"
       },
       {
         "line": [
@@ -194,7 +334,135 @@
       },
       {
         "line": [
+          "2900 MEDICAL CENTER PKWY STE 380"
+        ],
+        "city": "BENTONVILLE",
+        "state": "AR",
+        "postalCode": "72712-3214"
+      },
+      {
+        "line": [
+          "3873 N Parkview Dr"
+        ],
+        "city": "FAYETTEVILLE",
+        "state": "AR",
+        "postalCode": "72703-6286"
+      },
+      {
+        "line": [
+          "4313 S Pleasant Crossing Blvd"
+        ],
+        "city": "ROGERS",
+        "state": "AR",
+        "postalCode": "72758-1347"
+      },
+      {
+        "line": [
+          "4313 S PLEASANT CROSSING BLVD"
+        ],
+        "city": "ROGERS",
+        "state": "AR",
+        "postalCode": "72758-1347"
+      },
+      {
+        "line": [
+          "603 N. PROGRESS AVE"
+        ],
+        "city": "SILOAM SPRINGS",
+        "state": "AR",
+        "postalCode": "72761-4352"
+      },
+      {
+        "line": [
+          "3873 N. Parkview Dr"
+        ],
+        "city": "FAYETTEVILLE",
+        "state": "AR",
+        "postalCode": "72703-6286"
+      },
+      {
+        "line": [
+          "601 SW Regional Airport Blvd."
+        ],
+        "city": "BENTONVILLE",
+        "state": "AR",
+        "postalCode": "72712-9256"
+      },
+      {
+        "line": [
+          "3000 Medical Center Parkway"
+        ],
+        "city": "BENTONVILLE",
+        "state": "AR",
+        "postalCode": "72712-3217"
+      },
+      {
+        "line": [
+          "4301 Greathouse Springs Rd,"
+        ],
+        "city": "JOHNSON",
+        "state": "AR",
+        "postalCode": "72741-9998"
+      },
+      {
+        "line": [
           "4301 GREATHOUSE SPRINGS RD"
+        ],
+        "city": "JOHNSON",
+        "state": "AR",
+        "postalCode": "72741-9998"
+      },
+      {
+        "line": [
+          "6636 W. Sunset Ave."
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72762-0939"
+      },
+      {
+        "line": [
+          "4077 Elm Springs Rd Ste 105"
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72762-3748"
+      },
+      {
+        "line": [
+          "603 N Progress Ave."
+        ],
+        "city": "SILOAM SPRINGS",
+        "state": "AR",
+        "postalCode": "72761-4352"
+      },
+      {
+        "line": [
+          "609 W. Maple Ave."
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72764-5335"
+      },
+      {
+        "line": [
+          "601 W. Maple, Suite 401"
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72764-8999"
+      },
+      {
+        "line": [
+          "4077 Elm Springs Rd Ste 105"
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72762-2754"
+      },
+      {
+        "line": [
+          "4301 Greathouse Springs Rd."
         ],
         "city": "SPRINGDALE",
         "state": "AR",
@@ -210,79 +478,15 @@
       },
       {
         "line": [
-          "603 N PROGRESS AVE"
-        ],
-        "city": "SILOAM SPRINGS",
-        "state": "AR",
-        "postalCode": "72761-4352"
-      },
-      {
-        "line": [
-          "1101 Jackson Street"
-        ],
-        "city": "GRAVETTE",
-        "state": "AR",
-        "postalCode": "72736-9121"
-      },
-      {
-        "line": [
           "4301 Greathouse Springs Rd"
         ],
         "city": "JOHNSON",
         "state": "AR",
-        "postalCode": "72741-8701"
+        "postalCode": "72741-9998"
       },
       {
         "line": [
-          "6636 W. Sunset Ave."
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72762-0939"
-      },
-      {
-        "line": [
-          "2900 MEDICAL CENTER PKWY STE 240A"
-        ],
-        "city": "BENTONVILLE",
-        "state": "AR",
-        "postalCode": "72712-3214"
-      },
-      {
-        "line": [
-          "2900 MEDICAL CENTER PKWY STE 380"
-        ],
-        "city": "BENTONVILLE",
-        "state": "AR",
-        "postalCode": "72712-3204"
-      },
-      {
-        "line": [
-          "609 W  Maple Ave"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72764-5335"
-      },
-      {
-        "line": [
-          "3873 PARKVIEW DR"
-        ],
-        "city": "FAYETTEVILLE",
-        "state": "AR",
-        "postalCode": "72703-6286"
-      },
-      {
-        "line": [
-          "3873 N Parkview Dr"
-        ],
-        "city": "FAYETTEVILLE",
-        "state": "AR",
-        "postalCode": "72703-6286"
-      },
-      {
-        "line": [
-          "603  N PROGRESS AVE"
+          "603 N. Progress Ave."
         ],
         "city": "SILOAM SPRINGS",
         "state": "AR",
@@ -290,57 +494,20 @@
       },
       {
         "line": [
-          "601 SW Regional Airport Blvd."
-        ],
-        "city": "BENTONVILLE",
-        "state": "AR",
-        "postalCode": "72712-9256"
-      },
-      {
-        "line": [
-          "601 W. Maple Suite 403"
+          "2158 Butterfield Coach Road",
+          "Ste 100"
         ],
         "city": "SPRINGDALE",
         "state": "AR",
-        "postalCode": "72764-5374"
+        "postalCode": "72764-9142"
       },
       {
         "line": [
-          "4077 ELM SPRINGS RD STE 105"
+          "609 W Maple Ave."
         ],
         "city": "SPRINGDALE",
         "state": "AR",
-        "postalCode": "72762-3748"
-      },
-      {
-        "line": [
-          "2900 MEDICAL CENTER PKWY STE 380"
-        ],
-        "city": "BENTONVILLE",
-        "state": "AR",
-        "postalCode": "72712-3214"
-      },
-      {
-        "line": [
-          "601 W. Maple, Suite 401"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72764-8999"
-      },
-      {
-        "line": [
-          "601 W. Maple Suite 213"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72764-5397"
-      },
-      {
-        "line": [],
-        "city": "BENTONVILLE",
-        "state": "AR",
-        "postalCode": "72712-3217"
+        "postalCode": "72764-5335"
       },
       {
         "line": [
@@ -352,49 +519,51 @@
       },
       {
         "line": [
-          "4077 Elm Springs Rd Ste 105"
+          "601 W. Maple Suite 213"
         ],
         "city": "SPRINGDALE",
         "state": "AR",
-        "postalCode": "72762-2754"
+        "postalCode": "72764-5397"
       },
       {
         "line": [
-          "4301 Willow Creek Drive"
+          "609 W MAPLE AVE."
         ],
         "city": "SPRINGDALE",
         "state": "AR",
-        "postalCode": "72762-8711"
+        "postalCode": "72764-5335"
       },
       {
         "line": [
-          "603 N. Progress Ave."
+          "609 W Maple Ave"
         ],
-        "city": "SILOAM SPRINGS",
+        "city": "SPRINGDALE",
         "state": "AR",
-        "postalCode": "72761-4352"
-      },
-      {
-        "line": [],
-        "city": "ROGERS",
-        "state": "AR",
-        "postalCode": "72756-2200"
+        "postalCode": "72764-5397"
       },
       {
         "line": [
-          "603 N. PROGRESS AVE"
+          "2900 Medical Center Pkwy"
         ],
-        "city": "SILOAM SPRINGS",
+        "city": "BENTONVILLE",
         "state": "AR",
-        "postalCode": "72761-4352"
+        "postalCode": "72712-3204"
       },
       {
         "line": [
-          "4301 Greathouse Springs Rd,"
+          "609 W Maple Ave"
         ],
-        "city": "JOHNSON",
+        "city": "SPRINGDALE",
         "state": "AR",
-        "postalCode": "72741-9998"
+        "postalCode": "72762-5335"
+      },
+      {
+        "line": [
+          "331 Commercial St"
+        ],
+        "city": "CENTERTON",
+        "state": "AR",
+        "postalCode": "72719-9791"
       },
       {
         "line": [
@@ -414,100 +583,6 @@
       },
       {
         "line": [
-          "603 N Progress Ave"
-        ],
-        "city": "SILOAM SPRINGS",
-        "state": "AR",
-        "postalCode": "72761-4352"
-      },
-      {
-        "line": [
-          "609 W Maple Ave"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72764-5378"
-      },
-      {
-        "line": [
-          "331 Commercial St"
-        ],
-        "city": "CENTERTON",
-        "state": "AR",
-        "postalCode": "72719-9791"
-      },
-      {
-        "line": [
-          "4301 Willow Creek Dr"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72762-8711"
-      },
-      {
-        "line": [
-          "2158 Butterfield Coach Road, Suite 100"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72764-9142"
-      },
-      {
-        "line": [
-          "609 W Maple Ave."
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72764-5335"
-      },
-      {
-        "line": [
-          "4313 S PLEASANT CROSSING BLVD"
-        ],
-        "city": "ROGERS",
-        "state": "AR",
-        "postalCode": "72758-1347"
-      },
-      {
-        "line": [
-          "212 W MONROE AVE STE A"
-        ],
-        "city": "LOWELL",
-        "state": "AR",
-        "postalCode": "72745-9451"
-      },
-      {
-        "line": [
-          "5501 WILLOW CREEK DR STE. 202"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72762-8708"
-      },
-      {
-        "line": [
-          "3873 N. Parkview Dr"
-        ],
-        "city": "FAYETTEVILLE",
-        "state": "AR",
-        "postalCode": "72703-6296"
-      },
-      {
-        "line": [],
-        "city": "GRAVETTE",
-        "state": "AR",
-        "postalCode": "72736-9121"
-      },
-      {
-        "line": [
-          "2900 MEDICAL CENTER PKWY STE 310"
-        ],
-        "city": "BENTONVILLE",
-        "state": "AR",
-        "postalCode": "72712-3214"
-      },
-      {
-        "line": [
           "1102 NW LOWES AVE SUITE 2"
         ],
         "city": "BENTONVILLE",
@@ -515,67 +590,34 @@
         "postalCode": "72712-8093"
       },
       {
+        "line": [
+          "3873 N. Parkview Dr."
+        ],
+        "city": "FAYETTEVILLE",
+        "state": "AR",
+        "postalCode": "72703-6286"
+      },
+      {
+        "line": [
+          "609 W Maple"
+        ],
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72764-5335"
+      },
+      {
         "line": [],
-        "city": "FRANKLIN",
-        "state": "TN",
-        "postalCode": "37067-1704"
+        "city": "ROGERS",
+        "state": "AR",
+        "postalCode": "72756-2200"
       },
       {
         "line": [
-          "4301 GREATHOUSE RD"
+          "2900 MEDICAL CENTER PKWY STE 240A"
         ],
-        "city": "SPRINGDALE",
+        "city": "BENTONVILLE",
         "state": "AR",
-        "postalCode": "72762-8701"
-      },
-      {
-        "line": [
-          "4301 Greathouse Springs Rd Ste 100"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72762-8701"
-      },
-      {
-        "line": [
-          "609 W. Maple Ave."
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72764-5335"
-      },
-      {
-        "line": [
-          "2158 Butterfield Coach Road",
-          "Ste 100"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72764-9142"
-      },
-      {
-        "line": [
-          "609 W Maple Ave"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72762-5335"
-      },
-      {
-        "line": [
-          "4301 Greathouse Springs Rd"
-        ],
-        "city": "JOHNSON",
-        "state": "AR",
-        "postalCode": "72741-9998"
-      },
-      {
-        "line": [
-          "609 W. Maple Ave"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72764-5335"
+        "postalCode": "72712-3214"
       },
       {
         "line": [
@@ -587,71 +629,29 @@
       },
       {
         "line": [
-          "4301 GREATHOUSE SPRINGS RD"
+          "4301 Willow Creek Dr"
         ],
-        "city": "JOHNSON",
+        "city": "SPRINGDALE",
         "state": "AR",
-        "postalCode": "72741-0000"
+        "postalCode": "72762-8711"
       },
       {
         "line": [
-          "1011 Main Street"
+          "609 W Maple Ave"
         ],
-        "city": "SPRING HILL",
+        "city": "SPRINGDALE",
+        "state": "AR",
+        "postalCode": "72764-5378"
+      },
+      {
+        "line": [],
+        "city": "FRANKLIN",
         "state": "TN",
-        "postalCode": "37174-4531"
+        "postalCode": "37067-1704"
       },
       {
         "line": [
-          "3000 Medical Center Parkway"
-        ],
-        "city": "BENTONVILLE",
-        "state": "AR",
-        "postalCode": "72712-3217"
-      },
-      {
-        "line": [
-          "609 W MAPLE AVE."
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72764-5335"
-      },
-      {
-        "line": [
-          "4077 Elm Springs RD STE 5"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72762-3748"
-      },
-      {
-        "line": [
-          "4077 Elm Springs Rd Ste 105"
-        ],
-        "city": "SPRINGDALE",
-        "state": "AR",
-        "postalCode": "72762-3748"
-      },
-      {
-        "line": [
-          "3399 Forest Drive Suite 2"
-        ],
-        "city": "FAYETTEVILLE",
-        "state": "AR",
-        "postalCode": "72704-6541"
-      },
-      {
-        "line": [
-          "603 N Progress Ave."
-        ],
-        "city": "SILOAM SPRINGS",
-        "state": "AR",
-        "postalCode": "72761-4352"
-      },
-      {
-        "line": [
-          "3873 N. Parkview Dr"
+          "3873 PARKVIEW DR"
         ],
         "city": "FAYETTEVILLE",
         "state": "AR",

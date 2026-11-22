@@ -18,11 +18,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1992752224"
+        "value": "1780638478"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1780638478"
+        "value": "1992752224"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,10 +32,10 @@
     "address": [
       {
         "line": [
-          "1025 S 6th St",
-          "East Building, 2nd Floor"
+          "1025 S 6TH ST",
+          "EAST BUILDING, 3RD FLOOR"
         ],
-        "city": "Springfield",
+        "city": "SPRINGFIELD",
         "state": "IL",
         "postalCode": "62703-2403"
       },
@@ -49,8 +49,17 @@
       },
       {
         "line": [
+          "1025 S 6th St",
+          "East Building, 2nd Floor"
+        ],
+        "city": "Springfield",
+        "state": "IL",
+        "postalCode": "62703-2403"
+      },
+      {
+        "line": [
           "1025 S 6TH ST",
-          "EAST BUILDING, 3RD FLOOR"
+          "3rd Floor"
         ],
         "city": "SPRINGFIELD",
         "state": "IL",

@@ -14,11 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1447137740"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1053172833"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447137740"
+        "value": "1235990011"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -27,21 +31,9 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1417718297"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1235990011"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1736 Divisadero St"
-        ],
-        "city": "SAN FRANCISCO",
-        "state": "CA",
-        "postalCode": "94115-3012"
-      },
       {
         "line": [
           "7777 Fay Ave",
@@ -53,11 +45,12 @@
       },
       {
         "line": [
-          "80 Guest ST"
+          "100 Bush St",
+          "Ste 1428"
         ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2071"
+        "city": "SAN FRANCISCO",
+        "state": "CA",
+        "postalCode": "94104-3916"
       },
       {
         "line": [
@@ -66,15 +59,6 @@
         "city": "SAN FRANCISCO",
         "state": "CA",
         "postalCode": "94109-3009"
-      },
-      {
-        "line": [
-          "2011 Forest Ave",
-          "Ste 10"
-        ],
-        "city": "SAN JOSE",
-        "state": "CA",
-        "postalCode": "95128-4832"
       },
       {
         "line": [
@@ -87,12 +71,11 @@
       },
       {
         "line": [
-          "9777 Wilshire Blvd",
-          "Ste 820"
+          "1736 Divisadero St"
         ],
-        "city": "BEVERLY HILLS",
+        "city": "SAN FRANCISCO",
         "state": "CA",
-        "postalCode": "90212-1910"
+        "postalCode": "94115-3012"
       },
       {
         "line": [
@@ -105,12 +88,29 @@
       },
       {
         "line": [
-          "100 Bush St",
-          "Ste 1428"
+          "2011 Forest Ave",
+          "Ste 10"
         ],
-        "city": "SAN FRANCISCO",
+        "city": "SAN JOSE",
         "state": "CA",
-        "postalCode": "94104-3916"
+        "postalCode": "95128-4832"
+      },
+      {
+        "line": [
+          "9777 Wilshire Blvd",
+          "Ste 820"
+        ],
+        "city": "BEVERLY HILLS",
+        "state": "CA",
+        "postalCode": "90212-1910"
+      },
+      {
+        "line": [
+          "80 Guest ST"
+        ],
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2071"
       }
     ],
     "extension": [

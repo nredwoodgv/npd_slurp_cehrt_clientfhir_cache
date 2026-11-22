@@ -14,30 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912485830"
+        "value": "1861915670"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861915670"
+        "value": "1912485830"
       }
     ],
     "address": [
-      {
-        "line": [
-          "25 Hospital Center Blvd"
-        ],
-        "city": "HILTON HEAD ISLAND",
-        "state": "SC",
-        "postalCode": "29926-2738"
-      },
-      {
-        "line": [
-          "1000 Medical Center Dr"
-        ],
-        "city": "HARDEEVILLE",
-        "state": "SC",
-        "postalCode": "29927-3446"
-      },
       {
         "line": [
           "40 Okatie Center Blvd",
@@ -57,12 +41,19 @@
       },
       {
         "line": [
-          "40 Okatie Center BLVD S",
-          "Ste 125"
+          "1000 Medical Center Dr"
         ],
-        "city": "OKATIE",
+        "city": "HARDEEVILLE",
         "state": "SC",
-        "postalCode": "29909-7510"
+        "postalCode": "29927-3446"
+      },
+      {
+        "line": [
+          "25 Hospital Center Blvd"
+        ],
+        "city": "HILTON HEAD ISLAND",
+        "state": "SC",
+        "postalCode": "29926-2738"
       },
       {
         "line": [
@@ -72,6 +63,15 @@
         "city": "OKATIE",
         "state": "SC",
         "postalCode": "29909-7507"
+      },
+      {
+        "line": [
+          "40 Okatie Center BLVD S",
+          "Ste 125"
+        ],
+        "city": "OKATIE",
+        "state": "SC",
+        "postalCode": "29909-7510"
       }
     ],
     "extension": [

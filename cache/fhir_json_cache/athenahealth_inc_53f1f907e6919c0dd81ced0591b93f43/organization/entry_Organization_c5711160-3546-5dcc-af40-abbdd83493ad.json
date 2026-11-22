@@ -14,21 +14,22 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548567498"
+        "value": "1386911006"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386911006"
+        "value": "1548567498"
       }
     ],
     "address": [
       {
         "line": [
-          "14901 NATIONAL AVE"
+          "2490 Hospital Dr",
+          "300"
         ],
-        "city": "LOS GATOS",
+        "city": "MOUNTAIN VIEW",
         "state": "CA",
-        "postalCode": "95032-2637"
+        "postalCode": "94040-4124"
       },
       {
         "line": [
@@ -49,17 +50,16 @@
       },
       {
         "line": [
-          "2490 Hospital Dr",
-          "300"
+          "15251 National Ave",
+          "suite 203"
         ],
-        "city": "MOUNTAIN VIEW",
+        "city": "LOS GATOS",
         "state": "CA",
-        "postalCode": "94040-4124"
+        "postalCode": "95032-2637"
       },
       {
         "line": [
-          "15251 National Ave",
-          "suite 203"
+          "14901 NATIONAL AVE"
         ],
         "city": "LOS GATOS",
         "state": "CA",

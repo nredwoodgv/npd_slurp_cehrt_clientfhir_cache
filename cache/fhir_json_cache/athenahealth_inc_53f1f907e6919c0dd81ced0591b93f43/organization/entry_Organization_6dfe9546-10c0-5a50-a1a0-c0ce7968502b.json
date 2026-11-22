@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457183311"
+        "value": "1790942381"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1790942381"
+        "value": "1457183311"
       }
     ],
     "address": [
-      {
-        "line": [
-          "200 Interchange Dr, Richmond Hill"
-        ],
-        "city": "RICHMOND HILL",
-        "state": "GA",
-        "postalCode": "31324-7668"
-      },
       {
         "line": [
           "60 EXCHANGE ST STE B1",
@@ -38,6 +30,14 @@
         "city": "RICHMOND HILL",
         "state": "GA",
         "postalCode": "31324-7646"
+      },
+      {
+        "line": [
+          "200 Interchange Dr, Richmond Hill"
+        ],
+        "city": "RICHMOND HILL",
+        "state": "GA",
+        "postalCode": "31324-7668"
       }
     ],
     "extension": [

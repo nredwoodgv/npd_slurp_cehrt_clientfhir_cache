@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1710472162"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1861613598"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1750623732"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1710472162"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -32,27 +32,11 @@
     "address": [
       {
         "line": [
-          "100 WEST 16TH ST."
-        ],
-        "city": "EUREKA",
-        "state": "KS",
-        "postalCode": "67045-1047"
-      },
-      {
-        "line": [
           "629 S PLUMMER AVE"
         ],
         "city": "CHANUTE",
         "state": "KS",
         "postalCode": "66720-1928"
-      },
-      {
-        "line": [
-          "252 W 9TH ST"
-        ],
-        "city": "HOISINGTON",
-        "state": "KS",
-        "postalCode": "67544-1725"
       },
       {
         "line": [
@@ -64,11 +48,19 @@
       },
       {
         "line": [
-          "100 W 16TH ST"
+          "252 W 9TH ST"
+        ],
+        "city": "HOISINGTON",
+        "state": "KS",
+        "postalCode": "67544-1725"
+      },
+      {
+        "line": [
+          "100 WEST 16TH ST."
         ],
         "city": "EUREKA",
         "state": "KS",
-        "postalCode": "67045-1064"
+        "postalCode": "67045-1047"
       },
       {
         "line": [
@@ -77,6 +69,14 @@
         "city": "FREDONIA",
         "state": "KS",
         "postalCode": "66736-1751"
+      },
+      {
+        "line": [
+          "100 W 16TH ST"
+        ],
+        "city": "EUREKA",
+        "state": "KS",
+        "postalCode": "67045-1064"
       }
     ],
     "extension": [

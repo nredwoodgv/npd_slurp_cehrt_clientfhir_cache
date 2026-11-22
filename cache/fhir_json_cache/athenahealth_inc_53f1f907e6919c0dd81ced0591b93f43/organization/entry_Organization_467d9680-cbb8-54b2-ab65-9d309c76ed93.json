@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619494366"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730790551"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1306363007"
+        "value": "1902857352"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,19 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1619928165"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588180475"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144271586"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326099763"
+        "value": "1730790551"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -50,30 +30,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588180475"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1306363007"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962453308"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902857352"
+        "value": "1144271586"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619494366"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1619928165"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326099763"
       }
     ],
     "address": [
-      {
-        "line": [
-          "7720 US Hwy 98 West"
-        ],
-        "city": "Miramar Beach",
-        "state": "FL",
-        "postalCode": "32550-7230"
-      },
-      {
-        "line": [
-          "7800 US Hwy 98 W"
-        ],
-        "city": "DESTIN",
-        "state": "FL",
-        "postalCode": "32550-7228"
-      },
       {
         "line": [
           "7800 US Hwy 98 W"
@@ -84,7 +68,15 @@
       },
       {
         "line": [
-          "7800 US 98 West"
+          "7800 US Hwy 98W"
+        ],
+        "city": "Destin",
+        "state": "FL",
+        "postalCode": "32550-7228"
+      },
+      {
+        "line": [
+          "7800 US Hwy 98 West"
         ],
         "city": "Miramar Beach",
         "state": "FL",
@@ -94,7 +86,7 @@
         "line": [
           "7800 US Hwy 98 West"
         ],
-        "city": "Miramar Beach",
+        "city": "MIRAMAR BEACH",
         "state": "FL",
         "postalCode": "32550-7228"
       },
@@ -108,23 +100,15 @@
       },
       {
         "line": [
-          "7800 US HWY 98 W"
+          "7800 US Hwy 98 W"
         ],
-        "city": "MIRAMAR BEACH",
+        "city": "DESTIN",
         "state": "FL",
         "postalCode": "32550-7228"
       },
       {
         "line": [
-          "7600 US HWY 98 W"
-        ],
-        "city": "MIRAMAR BEACH",
-        "state": "FL",
-        "postalCode": "32550-7228"
-      },
-      {
-        "line": [
-          "7800 US Hwy 98 West"
+          "7800 us Hwy 98 W"
         ],
         "city": "MIRAMAR BEACH",
         "state": "FL",
@@ -148,30 +132,6 @@
       },
       {
         "line": [
-          "7720 US Hwy 98 West"
-        ],
-        "city": "Miramar Beach",
-        "state": "FL",
-        "postalCode": "32550-7281"
-      },
-      {
-        "line": [
-          "7800 US Hwy 98W"
-        ],
-        "city": "Destin",
-        "state": "FL",
-        "postalCode": "32550-7228"
-      },
-      {
-        "line": [
-          "7800 us Hwy 98 W"
-        ],
-        "city": "MIRAMAR BEACH",
-        "state": "FL",
-        "postalCode": "32550-7228"
-      },
-      {
-        "line": [
           "7800 US Hwy 98 W"
         ],
         "city": "Miramar Beach",
@@ -180,11 +140,51 @@
       },
       {
         "line": [
+          "7720 US Hwy 98 West"
+        ],
+        "city": "Miramar Beach",
+        "state": "FL",
+        "postalCode": "32550-7281"
+      },
+      {
+        "line": [
           "5151 N 9th Ave"
         ],
         "city": "PENSACOLA",
         "state": "FL",
         "postalCode": "32504-8721"
+      },
+      {
+        "line": [
+          "7800 US 98 West"
+        ],
+        "city": "Miramar Beach",
+        "state": "FL",
+        "postalCode": "32550-7228"
+      },
+      {
+        "line": [
+          "7800 US HWY 98 W"
+        ],
+        "city": "MIRAMAR BEACH",
+        "state": "FL",
+        "postalCode": "32550-7228"
+      },
+      {
+        "line": [
+          "7600 US HWY 98 W"
+        ],
+        "city": "MIRAMAR BEACH",
+        "state": "FL",
+        "postalCode": "32550-7228"
+      },
+      {
+        "line": [
+          "7720 US Hwy 98 West"
+        ],
+        "city": "Miramar Beach",
+        "state": "FL",
+        "postalCode": "32550-7230"
       }
     ],
     "extension": [

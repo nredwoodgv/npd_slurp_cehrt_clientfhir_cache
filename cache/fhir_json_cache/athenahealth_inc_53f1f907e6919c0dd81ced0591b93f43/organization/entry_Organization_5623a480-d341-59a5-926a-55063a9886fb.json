@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1851037162"
+        "value": "1821391442"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588433502"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -22,18 +26,56 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1821391442"
+        "value": "1851037162"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285511170"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588433502"
       }
     ],
     "address": [
+      {
+        "line": [
+          "6319 S Fairview"
+        ],
+        "city": "WESTMONT",
+        "state": "IL",
+        "postalCode": "60559-2889"
+      },
+      {
+        "line": [
+          "4615 UNIVERSITY DR"
+        ],
+        "city": "DURHAM",
+        "state": "NC",
+        "postalCode": "27707-3458"
+      },
+      {
+        "line": [
+          "885 GOLD HILL RD"
+        ],
+        "city": "FORT MILL",
+        "state": "SC",
+        "postalCode": "29708-7946"
+      },
+      {
+        "line": [
+          "233 S 13TH ST",
+          "STE 1100"
+        ],
+        "city": "LINCOLN",
+        "state": "NE",
+        "postalCode": "68508-2003"
+      },
+      {
+        "line": [
+          "4320 N BELT LINE RD",
+          "STE A214"
+        ],
+        "city": "IRVING",
+        "state": "TX",
+        "postalCode": "75038-3533"
+      },
       {
         "line": [
           "431 MASON PARK BLVD STE C"
@@ -44,11 +86,19 @@
       },
       {
         "line": [
-          "885 GOLD HILL RD"
+          "6015 FAYETTEVILLE RD"
         ],
-        "city": "FORT MILL",
-        "state": "SC",
-        "postalCode": "29708-7946"
+        "city": "DURHAM",
+        "state": "NC",
+        "postalCode": "27713-6254"
+      },
+      {
+        "line": [
+          "1233 N MAYFAIR RD"
+        ],
+        "city": "MILWAUKEE",
+        "state": "WI",
+        "postalCode": "53226-3255"
       },
       {
         "line": [
@@ -74,56 +124,6 @@
         "city": "MCKINNEY",
         "state": "TX",
         "postalCode": "75071-7438"
-      },
-      {
-        "line": [
-          "6319 S Fairview"
-        ],
-        "city": "WESTMONT",
-        "state": "IL",
-        "postalCode": "60559-2889"
-      },
-      {
-        "line": [
-          "6015 FAYETTEVILLE RD"
-        ],
-        "city": "DURHAM",
-        "state": "NC",
-        "postalCode": "27713-6254"
-      },
-      {
-        "line": [
-          "1233 N MAYFAIR RD"
-        ],
-        "city": "MILWAUKEE",
-        "state": "WI",
-        "postalCode": "53226-3255"
-      },
-      {
-        "line": [
-          "233 S 13TH ST",
-          "STE 1100"
-        ],
-        "city": "LINCOLN",
-        "state": "NE",
-        "postalCode": "68508-2003"
-      },
-      {
-        "line": [
-          "4320 N BELT LINE RD",
-          "STE A214"
-        ],
-        "city": "IRVING",
-        "state": "TX",
-        "postalCode": "75038-3533"
-      },
-      {
-        "line": [
-          "4615 UNIVERSITY DR"
-        ],
-        "city": "DURHAM",
-        "state": "NC",
-        "postalCode": "27707-3458"
       }
     ],
     "extension": [

@@ -21,15 +21,14 @@
       {
         "coding": [
           {
-            "system": "http://ihe.net/fhir/ihe.formatcode.fhir/CodeSystem/formatcode",
-            "code": "urn:hl7-org:sdwg:ccda-structuredBody:1.1"
+            "system": "http://terminology.hl7.org/CodeSystem/endpoint-payload-type",
+            "code": "any"
           }
         ]
       }
     ],
     "payloadMimeType": [
-      "application/fhir+json",
-      "application/json+fhir"
+      "application/fhir+json"
     ],
     "address": "https://ac-fhir.harrisambulatory.com/ac-2529/fhir/r4"
   },

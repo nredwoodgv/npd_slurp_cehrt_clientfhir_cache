@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1720254261"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1013061886"
       },
       {
@@ -23,21 +27,9 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1053473199"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1720254261"
       }
     ],
     "address": [
-      {
-        "line": [
-          "5215 LOUGHBORO RD NW"
-        ],
-        "city": "WASHINGTON",
-        "state": "DC",
-        "postalCode": "20016-2618"
-      },
       {
         "line": [
           "5530 WISCONSIN AVE",
@@ -57,21 +49,29 @@
       },
       {
         "line": [
-          "5301 WISCONSIN AVE NW",
-          "STE 520"
-        ],
-        "city": "WASHINGTON",
-        "state": "DC",
-        "postalCode": "20015-2015"
-      },
-      {
-        "line": [
           "5550 FRIENDSHIP BLVD",
           "STE 100"
         ],
         "city": "CHEVY CHASE",
         "state": "MD",
         "postalCode": "20815-7294"
+      },
+      {
+        "line": [
+          "5215 LOUGHBORO RD NW"
+        ],
+        "city": "WASHINGTON",
+        "state": "DC",
+        "postalCode": "20016-2618"
+      },
+      {
+        "line": [
+          "5301 WISCONSIN AVE NW",
+          "STE 520"
+        ],
+        "city": "WASHINGTON",
+        "state": "DC",
+        "postalCode": "20015-2015"
       }
     ],
     "extension": [

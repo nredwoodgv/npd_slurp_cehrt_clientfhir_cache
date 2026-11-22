@@ -14,22 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013042480"
+        "value": "1013313857"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013313857"
+        "value": "1013042480"
       }
     ],
     "address": [
-      {
-        "line": [
-          "6201 Centreville Rd."
-        ],
-        "city": "CENTREVILLE",
-        "state": "VA",
-        "postalCode": "20121-2626"
-      },
       {
         "line": [
           "106 Pilgrim Village Dr, Suite 400"
@@ -40,12 +32,11 @@
       },
       {
         "line": [
-          "2022 Fairburn Road",
-          " Suite D"
+          "6201 Centreville Rd."
         ],
-        "city": "DOUGLASVILLE",
-        "state": "GA",
-        "postalCode": "30135-1062"
+        "city": "CENTREVILLE",
+        "state": "VA",
+        "postalCode": "20121-2626"
       },
       {
         "line": [
@@ -55,6 +46,15 @@
         "city": "ABERDEEN",
         "state": "MD",
         "postalCode": "21001-1757"
+      },
+      {
+        "line": [
+          "2022 Fairburn Road",
+          " Suite D"
+        ],
+        "city": "DOUGLASVILLE",
+        "state": "GA",
+        "postalCode": "30135-1062"
       }
     ],
     "extension": [

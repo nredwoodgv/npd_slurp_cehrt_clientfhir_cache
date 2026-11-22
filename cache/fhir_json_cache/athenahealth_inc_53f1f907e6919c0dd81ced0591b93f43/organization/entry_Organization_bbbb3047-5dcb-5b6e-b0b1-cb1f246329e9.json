@@ -14,6 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114962461"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1366515496"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1174537500"
       },
       {
@@ -22,23 +30,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114133485"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730117805"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376644922"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629272968"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114962461"
+        "value": "1902979081"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -46,18 +38,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1902979081"
+        "value": "1376644922"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1366515496"
+        "value": "1730117805"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1255378139"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1629272968"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114133485"
       }
     ],
     "address": [
+      {
+        "line": [
+          "26850 Providence Pkwy, Suite 460"
+        ],
+        "city": "NOVI",
+        "state": "MI",
+        "postalCode": "48374-1265"
+      },
       {
         "line": [
           "47601 GRAND RIVER AVE"
@@ -65,14 +73,6 @@
         "city": "NOVI",
         "state": "MI",
         "postalCode": "48374-1233"
-      },
-      {
-        "line": [
-          "1225 S Latson, Suite 380"
-        ],
-        "city": "HOWELL",
-        "state": "MI",
-        "postalCode": "48843-7643"
       },
       {
         "line": [
@@ -92,11 +92,11 @@
       },
       {
         "line": [
-          "26850 Providence Pkwy, Suite 460"
+          "1225 S Latson, Suite 380"
         ],
-        "city": "NOVI",
+        "city": "HOWELL",
         "state": "MI",
-        "postalCode": "48374-1265"
+        "postalCode": "48843-7643"
       }
     ],
     "extension": [

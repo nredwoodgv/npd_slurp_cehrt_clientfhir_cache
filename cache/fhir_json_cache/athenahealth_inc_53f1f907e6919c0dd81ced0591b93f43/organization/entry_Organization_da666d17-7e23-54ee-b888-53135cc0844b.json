@@ -14,40 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811432321"
+        "value": "1205431368"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205431368"
+        "value": "1811432321"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1533 Pleasant Hill Rd"
-        ],
-        "city": "DULUTH",
-        "state": "GA",
-        "postalCode": "30096-1417"
-      },
-      {
-        "line": [
-          "403 Permian Way",
-          "Ste D"
-        ],
-        "city": "VILLA RICA",
-        "state": "GA",
-        "postalCode": "30180-1247"
-      },
-      {
-        "line": [
-          "403 Permian Way",
-          "Suite C & D"
-        ],
-        "city": "VILLA RICA",
-        "state": "GA",
-        "postalCode": "30180-3226"
-      },
       {
         "line": [
           "5505 Roswell Rd."
@@ -92,7 +66,34 @@
       },
       {
         "line": [
+          "403 Permian Way",
+          "Suite D"
+        ],
+        "city": "VILLA RICA",
+        "state": "GA",
+        "postalCode": "30180-3226"
+      },
+      {
+        "line": [
           "403 Permian Way"
+        ],
+        "city": "VILLA RICA",
+        "state": "GA",
+        "postalCode": "30180-3226"
+      },
+      {
+        "line": [
+          "403 Permian Way",
+          "Ste D"
+        ],
+        "city": "VILLA RICA",
+        "state": "GA",
+        "postalCode": "30180-1247"
+      },
+      {
+        "line": [
+          "403 Permian Way",
+          "Suite C & D"
         ],
         "city": "VILLA RICA",
         "state": "GA",
@@ -117,12 +118,11 @@
       },
       {
         "line": [
-          "403 Permian Way",
-          "Suite D"
+          "1533 Pleasant Hill Rd"
         ],
-        "city": "VILLA RICA",
+        "city": "DULUTH",
         "state": "GA",
-        "postalCode": "30180-3226"
+        "postalCode": "30096-1417"
       }
     ],
     "extension": [

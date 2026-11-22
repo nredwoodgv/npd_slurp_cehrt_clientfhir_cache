@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1386911006"
+        "value": "1548567498"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548567498"
+        "value": "1386911006"
       }
     ],
     "address": [
@@ -30,14 +30,6 @@
         "city": "WEST HILLS",
         "state": "CA",
         "postalCode": "91307-1470"
-      },
-      {
-        "line": [
-          "23621 PARK SORRENTO STE 100"
-        ],
-        "city": "CALABASAS",
-        "state": "CA",
-        "postalCode": "91302-1395"
       },
       {
         "line": [
@@ -55,6 +47,14 @@
         "city": "WEST HILLS",
         "state": "CA",
         "postalCode": "91307-1902"
+      },
+      {
+        "line": [
+          "23621 PARK SORRENTO STE 100"
+        ],
+        "city": "CALABASAS",
+        "state": "CA",
+        "postalCode": "91302-1395"
       }
     ],
     "extension": [

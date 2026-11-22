@@ -14,15 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1831620293"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1306319280"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912756164"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,7 +22,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457827693"
+        "value": "1831620293"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,23 +30,22 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538622436"
+        "value": "1457827693"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1962281923"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1538622436"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912756164"
       }
     ],
     "address": [
-      {
-        "line": [
-          "6137 Crawfordsville Rd Ste F",
-          "Box 386"
-        ],
-        "city": "INDIANAPOLIS",
-        "state": "IN",
-        "postalCode": "46224-3730"
-      },
       {
         "line": [
           "55 CHAPEL ST",
@@ -66,14 +57,6 @@
       },
       {
         "line": [
-          "10 LANGLEY RD STE 400"
-        ],
-        "city": "NEWTON CENTER",
-        "state": "MA",
-        "postalCode": "02459-1972"
-      },
-      {
-        "line": [
           "55 Chapel St, Suite 300"
         ],
         "city": "NEWTON",
@@ -82,37 +65,12 @@
       },
       {
         "line": [
-          "7330 Staples Mill Rd"
+          "3108 Glendale Boulevard",
+          "Suite 505"
         ],
-        "city": "HENRICO",
-        "state": "VA",
-        "postalCode": "23228-4122"
-      },
-      {
-        "line": [
-          "4938 Hampden Lane",
-          "Suite 296"
-        ],
-        "city": "BETHESDA",
-        "state": "MD",
-        "postalCode": "20814-2914"
-      },
-      {
-        "line": [
-          "123 Main St."
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10017-1020"
-      },
-      {
-        "line": [
-          "55 Chapel St.",
-          "Suite 300"
-        ],
-        "city": "NEWTON",
-        "state": "MA",
-        "postalCode": "02458-1060"
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "postalCode": "90039-1806"
       },
       {
         "line": [
@@ -125,12 +83,54 @@
       },
       {
         "line": [
-          "3108 Glendale Boulevard",
-          "Suite 505"
+          "7330 Staples Mill Rd"
         ],
-        "city": "LOS ANGELES",
-        "state": "CA",
-        "postalCode": "90039-1806"
+        "city": "HENRICO",
+        "state": "VA",
+        "postalCode": "23228-4122"
+      },
+      {
+        "line": [
+          "6137 Crawfordsville Rd Ste F",
+          "Box 386"
+        ],
+        "city": "INDIANAPOLIS",
+        "state": "IN",
+        "postalCode": "46224-3730"
+      },
+      {
+        "line": [
+          "55 Chapel St.",
+          "Suite 300"
+        ],
+        "city": "NEWTON",
+        "state": "MA",
+        "postalCode": "02458-1060"
+      },
+      {
+        "line": [
+          "123 Main St."
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10017-1020"
+      },
+      {
+        "line": [
+          "10 LANGLEY RD STE 400"
+        ],
+        "city": "NEWTON CENTER",
+        "state": "MA",
+        "postalCode": "02459-1972"
+      },
+      {
+        "line": [
+          "4938 Hampden Lane",
+          "Suite 296"
+        ],
+        "city": "BETHESDA",
+        "state": "MD",
+        "postalCode": "20814-2914"
       }
     ],
     "extension": [

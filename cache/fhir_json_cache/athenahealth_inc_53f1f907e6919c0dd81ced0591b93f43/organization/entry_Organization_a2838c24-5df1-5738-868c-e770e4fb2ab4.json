@@ -22,11 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245701812"
+        "value": "1639895055"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1639895055"
+        "value": "1245701812"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -36,17 +36,17 @@
     "address": [
       {
         "line": [
-          "386 PARK AVE SOUTH",
-          "5TH FLOOR"
+          "2205 W 136th Avenue",
+          "Suite 106 PMB 85921"
         ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10016-8804"
+        "city": "BROOMFIELD",
+        "state": "CO",
+        "postalCode": "80023-9306"
       },
       {
         "line": [
-          "386 Park Avenue South",
-          "5th floor"
+          "386 PARK AVE SOUTH",
+          "5TH FLOOR"
         ],
         "city": "NEW YORK",
         "state": "NY",
@@ -63,53 +63,19 @@
       },
       {
         "line": [
-          "600 North 2nd Street"
+          "9221 Crawfordsville Road"
         ],
-        "city": "HARRISBURG",
-        "state": "PA",
-        "postalCode": "17101-1092"
+        "city": "INDIANAPOLIS",
+        "state": "IN",
+        "postalCode": "46234-1521"
       },
       {
         "line": [
-          "1780 BARNES BLVD SW"
+          "316 BERRHILL DR"
         ],
-        "city": "OLYMPIA",
-        "state": "WA",
-        "postalCode": "98512-0410"
-      },
-      {
-        "line": [
-          "3958-D Brown Park Dr"
-        ],
-        "city": "HILLIARD",
-        "state": "OH",
-        "postalCode": "43026-1160"
-      },
-      {
-        "line": [
-          "386 PARK AVE SOUTH",
-          "5th floor"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10016-8804"
-      },
-      {
-        "line": [
-          "2863 NW CROSSING DR",
-          "STE 219"
-        ],
-        "city": "BEND",
-        "state": "OR",
-        "postalCode": "97703-7190"
-      },
-      {
-        "line": [
-          "2030 W Baseline Rd #182-1844"
-        ],
-        "city": "PHOENIX",
-        "state": "AZ",
-        "postalCode": "85041-6574"
+        "city": "WILLIAMSTOWN",
+        "state": "NJ",
+        "postalCode": "08094-3669"
       },
       {
         "line": [
@@ -122,20 +88,29 @@
       },
       {
         "line": [
-          "901 South Whitney Way"
+          "386 Park Avenue South, 5th floor"
         ],
-        "city": "MADISON",
-        "state": "WI",
-        "postalCode": "53711-2553"
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10016-8804"
       },
       {
         "line": [
-          "6160 Summit Drive N",
-          "Suite 205"
+          "386 Park Avenue South",
+          "5th floor"
         ],
-        "city": "MINNEAPOLIS",
-        "state": "MN",
-        "postalCode": "55430-2118"
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10016-8804"
+      },
+      {
+        "line": [
+          "9666 Olive Blvd",
+          "Suite 690"
+        ],
+        "city": "SAINT LOUIS",
+        "state": "MO",
+        "postalCode": "63132-3026"
       },
       {
         "line": [
@@ -157,40 +132,24 @@
       },
       {
         "line": [
-          "945 McKinney Street",
-          "#14629"
+          "1780 BARNES BLVD SW"
         ],
-        "city": "HOUSTON",
-        "state": "TX",
-        "postalCode": "77002-6308"
+        "city": "OLYMPIA",
+        "state": "WA",
+        "postalCode": "98512-0410"
       },
       {
         "line": [
-          "316 BERRHILL DR"
+          "900 Old Roswell Lakes Pkwy",
+          "Suite 310"
         ],
-        "city": "WILLIAMSTOWN",
-        "state": "NJ",
-        "postalCode": "08094-3669"
+        "city": "ROSWELL",
+        "state": "GA",
+        "postalCode": "30076-8663"
       },
       {
         "line": [
-          "1519 York Road"
-        ],
-        "city": "LUTHERVILLE",
-        "state": "MD",
-        "postalCode": "21093-5611"
-      },
-      {
-        "line": [
-          "386 Park Avenue South, 5th floor"
-        ],
-        "city": "NEW YORK",
-        "state": "NY",
-        "postalCode": "10016-8804"
-      },
-      {
-        "line": [
-          "386 PARK AVENUE SOUTH, 5TH FLOOR",
+          "386 PARK AVE SOUTH",
           "5th floor"
         ],
         "city": "NEW YORK",
@@ -207,6 +166,24 @@
       },
       {
         "line": [
+          "945 McKinney Street",
+          "#14629"
+        ],
+        "city": "HOUSTON",
+        "state": "TX",
+        "postalCode": "77002-6308"
+      },
+      {
+        "line": [
+          "229 Brookwood Drive",
+          "Suite 14"
+        ],
+        "city": "SOUTH LYON",
+        "state": "MI",
+        "postalCode": "48178-1858"
+      },
+      {
+        "line": [
           "4592 CAMINO DEL MIRASOL"
         ],
         "city": "SANTA BARBARA",
@@ -215,30 +192,11 @@
       },
       {
         "line": [
-          "45 SCHOOL ST",
-          "STE 202"
+          "901 South Whitney Way"
         ],
-        "city": "BOSTON",
-        "state": "MA",
-        "postalCode": "02108-3206"
-      },
-      {
-        "line": [
-          "2205 W 136th Avenue",
-          "Suite 106 PMB 85921"
-        ],
-        "city": "BROOMFIELD",
-        "state": "CO",
-        "postalCode": "80023-9306"
-      },
-      {
-        "line": [
-          "2 OFFICE PARK CT",
-          "STE 103"
-        ],
-        "city": "COLUMBIA",
-        "state": "SC",
-        "postalCode": "29223-5948"
+        "city": "MADISON",
+        "state": "WI",
+        "postalCode": "53711-2553"
       },
       {
         "line": [
@@ -247,14 +205,6 @@
         "city": "LOS ANGELES",
         "state": "CA",
         "postalCode": "90027-6302"
-      },
-      {
-        "line": [
-          "9221 Crawfordsville Road"
-        ],
-        "city": "INDIANAPOLIS",
-        "state": "IN",
-        "postalCode": "46234-1521"
       },
       {
         "line": [
@@ -267,30 +217,80 @@
       },
       {
         "line": [
-          "9666 Olive Blvd",
-          "Suite 690"
+          "2863 NW CROSSING DR",
+          "STE 219"
         ],
-        "city": "SAINT LOUIS",
-        "state": "MO",
-        "postalCode": "63132-3026"
+        "city": "BEND",
+        "state": "OR",
+        "postalCode": "97703-7190"
       },
       {
         "line": [
-          "900 Old Roswell Lakes Pkwy",
-          "Suite 310"
+          "6160 Summit Drive N",
+          "Suite 205"
         ],
-        "city": "ROSWELL",
-        "state": "GA",
-        "postalCode": "30076-8663"
+        "city": "MINNEAPOLIS",
+        "state": "MN",
+        "postalCode": "55430-2118"
       },
       {
         "line": [
-          "229 Brookwood Drive",
-          "Suite 14"
+          "3958-D Brown Park Dr"
         ],
-        "city": "SOUTH LYON",
-        "state": "MI",
-        "postalCode": "48178-1858"
+        "city": "HILLIARD",
+        "state": "OH",
+        "postalCode": "43026-1160"
+      },
+      {
+        "line": [
+          "386 PARK AVENUE SOUTH, 5TH FLOOR",
+          "5th floor"
+        ],
+        "city": "NEW YORK",
+        "state": "NY",
+        "postalCode": "10016-8804"
+      },
+      {
+        "line": [
+          "45 SCHOOL ST",
+          "STE 202"
+        ],
+        "city": "BOSTON",
+        "state": "MA",
+        "postalCode": "02108-3206"
+      },
+      {
+        "line": [
+          "600 North 2nd Street"
+        ],
+        "city": "HARRISBURG",
+        "state": "PA",
+        "postalCode": "17101-1092"
+      },
+      {
+        "line": [
+          "2030 W Baseline Rd #182-1844"
+        ],
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postalCode": "85041-6574"
+      },
+      {
+        "line": [
+          "2 OFFICE PARK CT",
+          "STE 103"
+        ],
+        "city": "COLUMBIA",
+        "state": "SC",
+        "postalCode": "29223-5948"
+      },
+      {
+        "line": [
+          "1519 York Road"
+        ],
+        "city": "LUTHERVILLE",
+        "state": "MD",
+        "postalCode": "21093-5611"
       }
     ],
     "extension": [

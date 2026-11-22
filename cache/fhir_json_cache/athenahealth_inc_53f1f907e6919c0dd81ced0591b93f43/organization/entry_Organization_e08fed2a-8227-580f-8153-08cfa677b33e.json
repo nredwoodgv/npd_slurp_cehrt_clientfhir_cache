@@ -18,25 +18,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1649228966"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285931089"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1013031368"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1649228966"
       }
     ],
     "address": [
       {
         "line": [
-          "30 Pulte Dr."
+          "1314 Riverland Rd. SE"
         ],
-        "city": "FREDERICKSBURG",
+        "city": "ROANOKE",
         "state": "VA",
-        "postalCode": "22406-9998"
+        "postalCode": "24014-3610"
       },
       {
         "line": [
@@ -48,11 +48,19 @@
       },
       {
         "line": [
-          "12318 Boydton Plank Road"
+          "1200 Sterrett Rd."
         ],
-        "city": "DINWIDDIE",
+        "city": "FAIRFIELD",
         "state": "VA",
-        "postalCode": "23841-2454"
+        "postalCode": "24435-9998"
+      },
+      {
+        "line": [
+          "30 Pulte Dr."
+        ],
+        "city": "FREDERICKSBURG",
+        "state": "VA",
+        "postalCode": "22406-9998"
       },
       {
         "line": [
@@ -64,27 +72,11 @@
       },
       {
         "line": [
-          "441 Piney Forest Road"
+          "34 MAGNOLIA SQ."
         ],
-        "city": "DANVILLE",
+        "city": "LEXINGTON",
         "state": "VA",
-        "postalCode": "24540-4154"
-      },
-      {
-        "line": [
-          "1200 Sterrett Rd."
-        ],
-        "city": "FAIRFIELD",
-        "state": "VA",
-        "postalCode": "24435-9998"
-      },
-      {
-        "line": [
-          "1314 Riverland Rd. SE"
-        ],
-        "city": "ROANOKE",
-        "state": "VA",
-        "postalCode": "24014-3610"
+        "postalCode": "24450-9998"
       },
       {
         "line": [
@@ -96,11 +88,19 @@
       },
       {
         "line": [
-          "34 MAGNOLIA SQ."
+          "441 Piney Forest Road"
         ],
-        "city": "LEXINGTON",
+        "city": "DANVILLE",
         "state": "VA",
-        "postalCode": "24450-9998"
+        "postalCode": "24540-4154"
+      },
+      {
+        "line": [
+          "12318 Boydton Plank Road"
+        ],
+        "city": "DINWIDDIE",
+        "state": "VA",
+        "postalCode": "23841-2454"
       }
     ],
     "extension": [

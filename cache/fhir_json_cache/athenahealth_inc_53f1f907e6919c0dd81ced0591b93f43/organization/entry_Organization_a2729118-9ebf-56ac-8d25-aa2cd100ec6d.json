@@ -14,23 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316253875"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396201000"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588226328"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548739170"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1861118846"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -38,10 +22,34 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1316253875"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285388546"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588226328"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1861118846"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548739170"
       }
     ],
     "address": [
+      {
+        "line": [
+          "214 Main St"
+        ],
+        "city": "VERGENNES",
+        "state": "VT",
+        "postalCode": "05491-1157"
+      },
       {
         "line": [
           "79 Coventry St"
@@ -52,11 +60,12 @@
       },
       {
         "line": [
-          "462 Hegeman Ave"
+          "4923 Ogletown Stanton Road",
+          "Suite 110"
         ],
-        "city": "COLCHESTER",
-        "state": "VT",
-        "postalCode": "05446-3187"
+        "city": "NEWARK",
+        "state": "DE",
+        "postalCode": "19713-2012"
       },
       {
         "line": [
@@ -69,21 +78,38 @@
       },
       {
         "line": [
-          "41 Acme Rd",
-          "Suite 3"
-        ],
-        "city": "BREWER",
-        "state": "ME",
-        "postalCode": "04412-1543"
-      },
-      {
-        "line": [
           "31 Lower Main Street",
           "Suite 3"
         ],
         "city": "MORRISVILLE",
         "state": "VT",
         "postalCode": "05661-6100"
+      },
+      {
+        "line": [
+          "462 Hegeman Ave"
+        ],
+        "city": "COLCHESTER",
+        "state": "VT",
+        "postalCode": "05446-3187"
+      },
+      {
+        "line": [
+          "655 Main Street",
+          "Suite 2"
+        ],
+        "city": "BENNINGTON",
+        "state": "VT",
+        "postalCode": "05201-2225"
+      },
+      {
+        "line": [
+          "147 Riverside Dr",
+          "Suite 1"
+        ],
+        "city": "AUGUSTA",
+        "state": "ME",
+        "postalCode": "04330-4100"
       },
       {
         "line": [
@@ -103,12 +129,12 @@
       },
       {
         "line": [
-          "655 Main Street",
-          "Suite 2"
+          "41 Acme Rd",
+          "Suite 3"
         ],
-        "city": "BENNINGTON",
-        "state": "VT",
-        "postalCode": "05201-2225"
+        "city": "BREWER",
+        "state": "ME",
+        "postalCode": "04412-1543"
       },
       {
         "line": [
@@ -120,38 +146,12 @@
       },
       {
         "line": [
-          "4923 Ogletown Stanton Road",
-          "Suite 110"
-        ],
-        "city": "NEWARK",
-        "state": "DE",
-        "postalCode": "19713-2012"
-      },
-      {
-        "line": [
-          "147 Riverside Dr",
-          "Suite 1"
-        ],
-        "city": "AUGUSTA",
-        "state": "ME",
-        "postalCode": "04330-4100"
-      },
-      {
-        "line": [
           "409 Alfred St",
           "Units 4 & 5"
         ],
         "city": "BIDDEFORD",
         "state": "ME",
         "postalCode": "04005-3756"
-      },
-      {
-        "line": [
-          "214 Main St"
-        ],
-        "city": "VERGENNES",
-        "state": "VT",
-        "postalCode": "05491-1157"
       }
     ],
     "extension": [

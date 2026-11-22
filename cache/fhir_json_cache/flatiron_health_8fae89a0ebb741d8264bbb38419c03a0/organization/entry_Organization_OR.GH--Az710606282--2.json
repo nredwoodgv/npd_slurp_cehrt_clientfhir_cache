@@ -130,6 +130,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1578530630"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073588711"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1922090554"
       },
       {
@@ -259,6 +267,18 @@
       {
         "system": "phone",
         "value": "(000)000-0000"
+      },
+      {
+        "system": "phone",
+        "value": "(517)997-8181"
+      },
+      {
+        "system": "phone",
+        "value": "(517)364-6000"
+      },
+      {
+        "system": "phone",
+        "value": "(517)663-2671"
       },
       {
         "system": "phone",
@@ -786,6 +806,50 @@
         "city": "MI",
         "state": "MI",
         "postalCode": "49000",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "3400 East Jolly Rd"
+        ],
+        "city": "Lansing",
+        "state": "MI",
+        "postalCode": "48910",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "2900 Collins Rd"
+        ],
+        "city": "Lansing",
+        "state": "MI",
+        "postalCode": "48910",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1215 E. Michigan Ave"
+        ],
+        "city": "Lansing",
+        "state": "MI",
+        "postalCode": "48912",
+        "country": "USA"
+      },
+      {
+        "use": "work",
+        "type": "postal",
+        "line": [
+          "1500 S. Main St"
+        ],
+        "city": "Eaton Rapids",
+        "state": "MI",
+        "postalCode": "48827",
         "country": "USA"
       },
       {

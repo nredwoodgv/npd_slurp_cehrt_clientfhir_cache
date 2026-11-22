@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811942451"
+        "value": "1730136474"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1730136474"
+        "value": "1811942451"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -28,29 +28,12 @@
     "address": [
       {
         "line": [
-          "2011 York Road"
+          "331 W SURF ST",
+          "STE 5800"
         ],
-        "city": "OAK BROOK",
+        "city": "CHICAGO",
         "state": "IL",
-        "postalCode": "60523-9999"
-      },
-      {
-        "line": [
-          "60 East Delaware, 15 Floor",
-          "Suite 1500"
-        ],
-        "city": "Chicago",
-        "state": "IL",
-        "postalCode": "60611-1542"
-      },
-      {
-        "line": [
-          "25 North Winfield Road",
-          "Suite 505"
-        ],
-        "city": "Winfield",
-        "state": "IL",
-        "postalCode": "60190-1295"
+        "postalCode": "60657-7227"
       },
       {
         "line": [
@@ -72,12 +55,11 @@
       },
       {
         "line": [
-          "1 Westbrook Corporate Center",
-          "Suite 240"
+          "2011 York Road"
         ],
-        "city": "WESTCHESTER",
+        "city": "OAK BROOK",
         "state": "IL",
-        "postalCode": "60154-5745"
+        "postalCode": "60523-9999"
       },
       {
         "line": [
@@ -90,12 +72,30 @@
       },
       {
         "line": [
-          "331 W SURF ST",
-          "STE 5800"
+          "1 Westbrook Corporate Center",
+          "Suite 240"
         ],
-        "city": "CHICAGO",
+        "city": "WESTCHESTER",
         "state": "IL",
-        "postalCode": "60657-7227"
+        "postalCode": "60154-5745"
+      },
+      {
+        "line": [
+          "25 North Winfield Road",
+          "Suite 505"
+        ],
+        "city": "Winfield",
+        "state": "IL",
+        "postalCode": "60190-1295"
+      },
+      {
+        "line": [
+          "60 East Delaware, 15 Floor",
+          "Suite 1500"
+        ],
+        "city": "Chicago",
+        "state": "IL",
+        "postalCode": "60611-1542"
       }
     ],
     "extension": [

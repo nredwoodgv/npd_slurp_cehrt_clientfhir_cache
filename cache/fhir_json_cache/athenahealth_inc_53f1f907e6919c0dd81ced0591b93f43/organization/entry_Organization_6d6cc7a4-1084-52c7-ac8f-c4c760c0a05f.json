@@ -18,41 +18,25 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1528785284"
+        "value": "1316663602"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1316663602"
+        "value": "1528785284"
       }
     ],
     "address": [
       {
         "line": [
-          "4101 N WATER TOWER PL"
+          "#5 Doctors Park"
         ],
         "city": "MOUNT VERNON",
         "state": "IL",
-        "postalCode": "62864-6296"
-      },
-      {
-        "line": [
-          "600 New Fairfield Rd."
-        ],
-        "city": "MOUNT VERNON",
-        "state": "IL",
-        "postalCode": "62864-9998"
+        "postalCode": "62864-6251"
       },
       {
         "line": [
           "208 ZACHERY DR"
-        ],
-        "city": "MOUNT VERNON",
-        "state": "IL",
-        "postalCode": "62864-6712"
-      },
-      {
-        "line": [
-          "208 Zachery Drive"
         ],
         "city": "MOUNT VERNON",
         "state": "IL",
@@ -68,6 +52,14 @@
       },
       {
         "line": [
+          "600 New Fairfield Rd."
+        ],
+        "city": "MOUNT VERNON",
+        "state": "IL",
+        "postalCode": "62864-9998"
+      },
+      {
+        "line": [
           "1933 S. 42nd St."
         ],
         "city": "MOUNT VERNON",
@@ -76,27 +68,27 @@
       },
       {
         "line": [
-          "1001 S 34th"
+          "208 Zachery Drive"
         ],
         "city": "MOUNT VERNON",
         "state": "IL",
-        "postalCode": "62864-6232"
+        "postalCode": "62864-6712"
       },
       {
         "line": [
-          "#5 Doctors Park"
+          "1209 W ROBINSON ST"
+        ],
+        "city": "WAYNE CITY",
+        "state": "IL",
+        "postalCode": "62895-9672"
+      },
+      {
+        "line": [
+          "4101 N WATER TOWER PL"
         ],
         "city": "MOUNT VERNON",
         "state": "IL",
-        "postalCode": "62864-6251"
-      },
-      {
-        "line": [
-          "902 S Mcleansboro St"
-        ],
-        "city": "BENTON",
-        "state": "IL",
-        "postalCode": "62812-3413"
+        "postalCode": "62864-6296"
       },
       {
         "line": [
@@ -108,11 +100,19 @@
       },
       {
         "line": [
-          "1209 W ROBINSON ST"
+          "1001 S 34th"
         ],
-        "city": "WAYNE CITY",
+        "city": "MOUNT VERNON",
         "state": "IL",
-        "postalCode": "62895-9672"
+        "postalCode": "62864-6232"
+      },
+      {
+        "line": [
+          "902 S Mcleansboro St"
+        ],
+        "city": "BENTON",
+        "state": "IL",
+        "postalCode": "62812-3413"
       }
     ],
     "extension": [

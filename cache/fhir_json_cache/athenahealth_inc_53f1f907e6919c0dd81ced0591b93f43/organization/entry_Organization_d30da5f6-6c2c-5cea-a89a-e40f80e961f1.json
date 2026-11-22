@@ -14,15 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1033294673"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1902043433"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396798302"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437194669"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -34,7 +34,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1033294673"
+        "value": "1437194669"
       }
     ],
     "address": [
@@ -48,20 +48,20 @@
       },
       {
         "line": [
+          "4230 Harding Road, Suite 330"
+        ],
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postalCode": "37205-2013"
+      },
+      {
+        "line": [
           "4230 Harding Road",
           "Suite 330"
         ],
         "city": "NASHVILLE",
         "state": "TN",
         "postalCode": "37205-2018"
-      },
-      {
-        "line": [
-          "4230 Harding Road, Suite 330"
-        ],
-        "city": "NASHVILLE",
-        "state": "TN",
-        "postalCode": "37205-2013"
       }
     ],
     "extension": [

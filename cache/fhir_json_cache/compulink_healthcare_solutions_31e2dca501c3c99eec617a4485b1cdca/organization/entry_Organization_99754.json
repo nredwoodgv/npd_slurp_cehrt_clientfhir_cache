@@ -3,22 +3,25 @@
     "resourceType": "Organization",
     "id": "99754",
     "active": true,
-    "name": "Compulink Healthcare Solutions",
+    "identifier": [
+      {
+        "system": "https://fhir.compulinkadvantage.com/dataset-id",
+        "value": "99754"
+      }
+    ],
+    "name": "Northgate Medical Group",
     "address": [
       {
         "line": [
-          "1100 Business Center Cir"
+          "4501 Northgate Parkway Building C"
         ],
-        "city": "Newbury Park",
-        "state": "California",
-        "postalCode": "91320",
+        "city": "Boise",
+        "state": "ID",
+        "postalCode": "83702",
         "country": "US"
       }
     ],
     "endpoint": [
-      {
-        "reference": "Endpoint/99754"
-      },
       {
         "reference": "Endpoint/99754"
       }

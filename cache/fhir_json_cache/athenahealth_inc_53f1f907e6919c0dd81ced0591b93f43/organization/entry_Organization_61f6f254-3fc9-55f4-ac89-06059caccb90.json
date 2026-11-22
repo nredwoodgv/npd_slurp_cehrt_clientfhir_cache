@@ -14,6 +14,10 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1285931089"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1013031368"
       },
       {
@@ -23,20 +27,16 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649228966"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1285931089"
       }
     ],
     "address": [
       {
         "line": [
-          "2410 ATHERHOLT ROAD"
+          "1901 TATE SPRINGS ROAD"
         ],
         "city": "LYNCHBURG",
         "state": "VA",
-        "postalCode": "24501-2148"
+        "postalCode": "24501-1109"
       },
       {
         "line": [
@@ -56,6 +56,22 @@
       },
       {
         "line": [
+          "2410 ATHERHOLT ROAD"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24501-2148"
+      },
+      {
+        "line": [
+          "125 NATIONWIDE DRIVE"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24502-9998"
+      },
+      {
+        "line": [
           "2401 ATHERHOLT ROAD"
         ],
         "city": "LYNCHBURG",
@@ -69,22 +85,6 @@
         "city": "GRETNA",
         "state": "VA",
         "postalCode": "24557-2773"
-      },
-      {
-        "line": [
-          "1901 TATE SPRINGS ROAD"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24501-1109"
-      },
-      {
-        "line": [
-          "125 NATIONWIDE DRIVE"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24502-9998"
       }
     ],
     "extension": [

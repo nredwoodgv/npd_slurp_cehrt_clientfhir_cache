@@ -14,7 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1588226328"
+        "value": "1598225021"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1548739170"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,26 +30,14 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1588226328"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1396201000"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1548739170"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1598225021"
       }
     ],
     "address": [
-      {
-        "line": [
-          "12 Dallaire Ave"
-        ],
-        "city": "CHICOPEE",
-        "state": "MA",
-        "postalCode": "01020-1237"
-      },
       {
         "line": [
           "40 Lambert Street",
@@ -57,29 +49,20 @@
       },
       {
         "line": [
-          "406 West Main St",
-          "Suite 100"
+          "4001 Prince William Parkway",
+          "Suite 300"
         ],
-        "city": "ABINGDON",
+        "city": "WOODBRIDGE",
         "state": "VA",
-        "postalCode": "24210-2608"
+        "postalCode": "22192-7667"
       },
       {
         "line": [
-          "5554 Redbud Highway"
+          "4003 Steelsburg Hwy"
         ],
-        "city": "HONAKER",
+        "city": "CEDAR BLUFF",
         "state": "VA",
-        "postalCode": "24260-7409"
-      },
-      {
-        "line": [
-          "6330 Five Mile Centre Park",
-          "Ste. 400"
-        ],
-        "city": "FREDERICKSBURG",
-        "state": "VA",
-        "postalCode": "22407-5516"
+        "postalCode": "24609-7019"
       },
       {
         "line": [
@@ -99,31 +82,6 @@
       },
       {
         "line": [
-          "2609 Sheffield Dr."
-        ],
-        "city": "BLACKSBURG",
-        "state": "VA",
-        "postalCode": "24060-8271"
-      },
-      {
-        "line": [
-          "1245 E MAIN ST"
-        ],
-        "city": "LEBANON",
-        "state": "VA",
-        "postalCode": "24266-5016"
-      },
-      {
-        "line": [
-          "4001 Prince William Parkway",
-          "Suite 300"
-        ],
-        "city": "WOODBRIDGE",
-        "state": "VA",
-        "postalCode": "22192-7667"
-      },
-      {
-        "line": [
           "350 South 4th Street"
         ],
         "city": "WYTHEVILLE",
@@ -140,6 +98,23 @@
       },
       {
         "line": [
+          "1245 E MAIN ST"
+        ],
+        "city": "LEBANON",
+        "state": "VA",
+        "postalCode": "24266-5016"
+      },
+      {
+        "line": [
+          "6330 Five Mile Centre Park",
+          "Ste. 400"
+        ],
+        "city": "FREDERICKSBURG",
+        "state": "VA",
+        "postalCode": "22407-5516"
+      },
+      {
+        "line": [
           "132 McClure Ave."
         ],
         "city": "CLINTWOOD",
@@ -148,11 +123,11 @@
       },
       {
         "line": [
-          "4003 Steelsburg Hwy"
+          "2609 Sheffield Dr."
         ],
-        "city": "CEDAR BLUFF",
+        "city": "BLACKSBURG",
         "state": "VA",
-        "postalCode": "24609-7019"
+        "postalCode": "24060-8271"
       },
       {
         "line": [
@@ -162,6 +137,31 @@
         "city": "BIG STONE GAP",
         "state": "VA",
         "postalCode": "24219-3074"
+      },
+      {
+        "line": [
+          "5554 Redbud Highway"
+        ],
+        "city": "HONAKER",
+        "state": "VA",
+        "postalCode": "24260-7409"
+      },
+      {
+        "line": [
+          "12 Dallaire Ave"
+        ],
+        "city": "CHICOPEE",
+        "state": "MA",
+        "postalCode": "01020-1237"
+      },
+      {
+        "line": [
+          "406 West Main St",
+          "Suite 100"
+        ],
+        "city": "ABINGDON",
+        "state": "VA",
+        "postalCode": "24210-2608"
       }
     ],
     "extension": [

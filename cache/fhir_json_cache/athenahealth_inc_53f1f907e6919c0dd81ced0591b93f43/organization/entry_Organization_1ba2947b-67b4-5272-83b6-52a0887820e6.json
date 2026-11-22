@@ -14,22 +14,30 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1932402484"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1285931089"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013031368"
+        "value": "1932402484"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1649228966"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013031368"
       }
     ],
     "address": [
+      {
+        "line": [
+          "3300 RIVERMONT AVENUE"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24503-2030"
+      },
       {
         "line": [
           "1901 TATE SPRINGS RD"
@@ -37,22 +45,6 @@
         "city": "LYNCHBURG",
         "state": "VA",
         "postalCode": "24501-1109"
-      },
-      {
-        "line": [
-          "1901 TATE SPRINGS ROAD"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24501-1109"
-      },
-      {
-        "line": [
-          "1039 MAYBERRY CROSSING DRIVE"
-        ],
-        "city": "MONETA",
-        "state": "VA",
-        "postalCode": "24121-6413"
       },
       {
         "line": [
@@ -72,14 +64,6 @@
       },
       {
         "line": [
-          "3300 RIVERMONT AVENUE"
-        ],
-        "city": "LYNCHBURG",
-        "state": "VA",
-        "postalCode": "24503-2030"
-      },
-      {
-        "line": [
           "2025 Tate Springs Rd"
         ],
         "city": "LYNCHBURG",
@@ -96,6 +80,22 @@
       },
       {
         "line": [
+          "1615 OAKWOOD STREET"
+        ],
+        "city": "BEDFORD",
+        "state": "VA",
+        "postalCode": "24523-1213"
+      },
+      {
+        "line": [
+          "1901 TATE SPRINGS ROAD"
+        ],
+        "city": "LYNCHBURG",
+        "state": "VA",
+        "postalCode": "24501-1109"
+      },
+      {
+        "line": [
           "414 Park Ave."
         ],
         "city": "DANVILLE",
@@ -104,11 +104,11 @@
       },
       {
         "line": [
-          "1615 OAKWOOD STREET"
+          "1039 MAYBERRY CROSSING DRIVE"
         ],
-        "city": "BEDFORD",
+        "city": "MONETA",
         "state": "VA",
-        "postalCode": "24523-1213"
+        "postalCode": "24121-6413"
       }
     ],
     "extension": [

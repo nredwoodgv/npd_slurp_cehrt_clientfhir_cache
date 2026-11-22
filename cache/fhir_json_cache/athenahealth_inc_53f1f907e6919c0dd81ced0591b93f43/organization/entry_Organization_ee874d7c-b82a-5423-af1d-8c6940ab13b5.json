@@ -14,21 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1669708467"
+        "value": "1215079678"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1215079678"
+        "value": "1669708467"
       }
     ],
     "address": [
       {
         "line": [
-          "2450 S TELSHOR BLVD"
+          "1110 W Florida St"
         ],
-        "city": "LAS CRUCES",
+        "city": "DEMING",
         "state": "NM",
-        "postalCode": "88011-5069"
+        "postalCode": "88030-4908"
       },
       {
         "line": [
@@ -37,14 +37,6 @@
         "city": "LAS CRUCES",
         "state": "NM",
         "postalCode": "88011-8255"
-      },
-      {
-        "line": [
-          "1110 W Florida St"
-        ],
-        "city": "DEMING",
-        "state": "NM",
-        "postalCode": "88030-4908"
       },
       {
         "line": [
@@ -61,6 +53,14 @@
         "city": "LAS CRUCES",
         "state": "NM",
         "postalCode": "88011-8267"
+      },
+      {
+        "line": [
+          "2450 S TELSHOR BLVD"
+        ],
+        "city": "LAS CRUCES",
+        "state": "NM",
+        "postalCode": "88011-5069"
       }
     ],
     "extension": [

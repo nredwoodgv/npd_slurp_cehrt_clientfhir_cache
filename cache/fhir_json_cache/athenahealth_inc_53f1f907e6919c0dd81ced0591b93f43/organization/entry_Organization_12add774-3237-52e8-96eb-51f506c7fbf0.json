@@ -14,47 +14,21 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1558344978"
+        "value": "1417987124"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417987124"
+        "value": "1558344978"
       }
     ],
     "address": [
       {
         "line": [
-          "4203 Belfort Rd",
-          "Roger Main Ste 302"
+          "1824 King Street"
         ],
         "city": "Jacksonville",
         "state": "FL",
-        "postalCode": "32216-1418"
-      },
-      {
-        "line": [
-          "2300 Park Ave",
-          "Ste 206 Room 121"
-        ],
-        "city": "ORANGE PARK",
-        "state": "FL",
-        "postalCode": "32073-5572"
-      },
-      {
-        "line": [
-          "4203 Belfort Rd Suite 315"
-        ],
-        "city": "JACKSONVILLE",
-        "state": "FL",
-        "postalCode": "32216-1418"
-      },
-      {
-        "line": [
-          "3 Shircliff Way, Suite 526"
-        ],
-        "city": "Jacksonville",
-        "state": "FL",
-        "postalCode": "32204-4777"
+        "postalCode": "32204-4735"
       },
       {
         "line": [
@@ -75,28 +49,12 @@
       },
       {
         "line": [
-          "1670 St. Vincent's Way",
-          "Education Room A/B"
+          "2300 Park Ave",
+          "Ste 206 Room 121"
         ],
-        "city": "MIDDLEBURG",
+        "city": "ORANGE PARK",
         "state": "FL",
-        "postalCode": "32068-8447"
-      },
-      {
-        "line": [
-          "551616 US HIGHWAY 1"
-        ],
-        "city": "HILLIARD",
-        "state": "FL",
-        "postalCode": "32046-8281"
-      },
-      {
-        "line": [
-          "3 Shircliff Way, Suite 527"
-        ],
-        "city": "Jacksonville",
-        "state": "FL",
-        "postalCode": "32204-4777"
+        "postalCode": "32073-5572"
       },
       {
         "line": [
@@ -108,11 +66,20 @@
       },
       {
         "line": [
-          "1824 King Street"
+          "1670 St. Vincent's Way",
+          "Education Room A/B"
+        ],
+        "city": "MIDDLEBURG",
+        "state": "FL",
+        "postalCode": "32068-8447"
+      },
+      {
+        "line": [
+          "3 Shircliff Way, Suite 526"
         ],
         "city": "Jacksonville",
         "state": "FL",
-        "postalCode": "32204-4735"
+        "postalCode": "32204-4777"
       },
       {
         "line": [
@@ -122,6 +89,39 @@
         "city": "Jacksonville",
         "state": "FL",
         "postalCode": "32216-3685"
+      },
+      {
+        "line": [
+          "551616 US HIGHWAY 1"
+        ],
+        "city": "HILLIARD",
+        "state": "FL",
+        "postalCode": "32046-8281"
+      },
+      {
+        "line": [
+          "4203 Belfort Rd Suite 315"
+        ],
+        "city": "JACKSONVILLE",
+        "state": "FL",
+        "postalCode": "32216-1418"
+      },
+      {
+        "line": [
+          "4203 Belfort Rd",
+          "Roger Main Ste 302"
+        ],
+        "city": "Jacksonville",
+        "state": "FL",
+        "postalCode": "32216-1418"
+      },
+      {
+        "line": [
+          "3 Shircliff Way, Suite 527"
+        ],
+        "city": "Jacksonville",
+        "state": "FL",
+        "postalCode": "32204-4777"
       }
     ],
     "extension": [

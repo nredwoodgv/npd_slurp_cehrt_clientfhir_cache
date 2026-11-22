@@ -22,7 +22,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912527193"
+        "value": "1538112230"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1023065356"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -30,14 +34,42 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1538112230"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1023065356"
+        "value": "1912527193"
       }
     ],
     "address": [
+      {
+        "line": [
+          "N/A"
+        ],
+        "city": "MENASHA",
+        "state": "WI",
+        "postalCode": "54952-1165"
+      },
+      {
+        "line": [
+          "1700 MIDWAY RD"
+        ],
+        "city": "MENASHA",
+        "state": "WI",
+        "postalCode": "54952-1230"
+      },
+      {
+        "line": [
+          "1506 S ONEDIA ST"
+        ],
+        "city": "APPLETON",
+        "state": "WI",
+        "postalCode": "54915-1305"
+      },
+      {
+        "line": [
+          "614 MEMORIAL DR"
+        ],
+        "city": "CHILTON",
+        "state": "WI",
+        "postalCode": "53014-1568"
+      },
       {
         "line": [
           "855 N Westhaven Dr"
@@ -48,11 +80,51 @@
       },
       {
         "line": [
-          "614 MEMORIAL DR"
+          "N/A"
         ],
-        "city": "CHILTON",
+        "city": "STEVENS POINT",
         "state": "WI",
-        "postalCode": "53014-1568"
+        "postalCode": "54481-3114"
+      },
+      {
+        "line": [
+          "1818 N Meade Street"
+        ],
+        "city": "APPLETON",
+        "state": "WI",
+        "postalCode": "54911-3454"
+      },
+      {
+        "line": [
+          "500 S Oakwood"
+        ],
+        "city": "OSHKOSH",
+        "state": "WI",
+        "postalCode": "54904-7944"
+      },
+      {
+        "line": [
+          "1506 S ONIEDA ST"
+        ],
+        "city": "APPLETON",
+        "state": "WI",
+        "postalCode": "54915-1305"
+      },
+      {
+        "line": [
+          "N/A"
+        ],
+        "city": "OSHKOSH",
+        "state": "WI",
+        "postalCode": "54904-7864"
+      },
+      {
+        "line": [
+          "222 West College Ave"
+        ],
+        "city": "APPLETON",
+        "state": "WI",
+        "postalCode": "54911-1111"
       },
       {
         "line": [
@@ -72,35 +144,11 @@
       },
       {
         "line": [
-          "500 S Oakwood"
+          "\".\""
         ],
-        "city": "OSHKOSH",
+        "city": "STEVENS POINT",
         "state": "WI",
-        "postalCode": "54904-7944"
-      },
-      {
-        "line": [
-          "1818 N Meade Street"
-        ],
-        "city": "APPLETON",
-        "state": "WI",
-        "postalCode": "54911-3454"
-      },
-      {
-        "line": [
-          "1700 MIDWAY RD"
-        ],
-        "city": "MENASHA",
-        "state": "WI",
-        "postalCode": "54952-1230"
-      },
-      {
-        "line": [
-          "500 S OAKWOOD RD"
-        ],
-        "city": "Oshkosh",
-        "state": "WI",
-        "postalCode": "54904-7247"
+        "postalCode": "54481-9677"
       },
       {
         "line": [
@@ -112,46 +160,6 @@
       },
       {
         "line": [
-          "222 West College Ave"
-        ],
-        "city": "APPLETON",
-        "state": "WI",
-        "postalCode": "54911-1111"
-      },
-      {
-        "line": [
-          "N/A"
-        ],
-        "city": "STEVENS POINT",
-        "state": "WI",
-        "postalCode": "54481-3114"
-      },
-      {
-        "line": [
-          "\".\""
-        ],
-        "city": "STEVENS POINT",
-        "state": "WI",
-        "postalCode": "54481-9677"
-      },
-      {
-        "line": [
-          "N/A"
-        ],
-        "city": "OSHKOSH",
-        "state": "WI",
-        "postalCode": "54904-7864"
-      },
-      {
-        "line": [
-          "N/A"
-        ],
-        "city": "MENASHA",
-        "state": "WI",
-        "postalCode": "54952-1165"
-      },
-      {
-        "line": [
           "618 MEMORIAL DR"
         ],
         "city": "CHILTON",
@@ -160,11 +168,11 @@
       },
       {
         "line": [
-          "1506 S ONIEDA ST"
+          "500 S OAKWOOD RD"
         ],
-        "city": "APPLETON",
+        "city": "Oshkosh",
         "state": "WI",
-        "postalCode": "54915-1305"
+        "postalCode": "54904-7247"
       },
       {
         "line": [
@@ -173,14 +181,6 @@
         "city": "OSHKOSH",
         "state": "WI",
         "postalCode": "54904-7864"
-      },
-      {
-        "line": [
-          "1506 S ONEDIA ST"
-        ],
-        "city": "APPLETON",
-        "state": "WI",
-        "postalCode": "54915-1305"
       }
     ],
     "extension": [

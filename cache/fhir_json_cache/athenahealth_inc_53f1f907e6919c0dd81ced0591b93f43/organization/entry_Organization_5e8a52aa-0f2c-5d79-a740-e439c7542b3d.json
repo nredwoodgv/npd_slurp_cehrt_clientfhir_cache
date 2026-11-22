@@ -14,43 +14,19 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245944008"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1811928732"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1114631967"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841903895"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053002907"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1407560261"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1487111639"
+        "value": "1457381774"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841904612"
+        "value": "1053878967"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1083328843"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1841757242"
+        "value": "1912610965"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -62,15 +38,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1326079245"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1013620160"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1245260645"
+        "value": "1982318739"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -78,7 +46,7 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912610965"
+        "value": "1841904612"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -86,7 +54,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1073745345"
+        "value": "1245944008"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1013620160"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -94,15 +66,31 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1982318739"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1881624161"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1457381774"
+        "value": "1841757242"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1811928732"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1053002907"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1487111639"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1073745345"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1083328843"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -110,7 +98,19 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1053878967"
+        "value": "1245260645"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1114631967"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1326079245"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1841903895"
       }
     ],
     "address": [
@@ -132,11 +132,20 @@
       },
       {
         "line": [
-          "15470 LAKE OF EGYPT RD"
+          "109 CALIFORNIA ST"
         ],
-        "city": "CREAL SPRINGS",
+        "city": "CARTERVILLE",
         "state": "IL",
-        "postalCode": "62922-3731"
+        "postalCode": "62918-1923"
+      },
+      {
+        "line": [
+          "1700 Wildcat Road",
+          "Ste A"
+        ],
+        "city": "MARION",
+        "state": "IL",
+        "postalCode": "62959-1435"
       },
       {
         "line": [
@@ -148,27 +157,11 @@
       },
       {
         "line": [
-          "2 S Hospital Dr"
-        ],
-        "city": "MURPHYSBORO",
-        "state": "IL",
-        "postalCode": "62966-3333"
-      },
-      {
-        "line": [
           "405 W Jackson St"
         ],
         "city": "CARBONDALE",
         "state": "IL",
         "postalCode": "62901-1462"
-      },
-      {
-        "line": [
-          "109 CALIFORNIA ST"
-        ],
-        "city": "CARTERVILLE",
-        "state": "IL",
-        "postalCode": "62918-1923"
       },
       {
         "line": [
@@ -180,6 +173,14 @@
       },
       {
         "line": [
+          "2 S Hospital Dr"
+        ],
+        "city": "MURPHYSBORO",
+        "state": "IL",
+        "postalCode": "62966-3333"
+      },
+      {
+        "line": [
           "1609 W MAIN ST"
         ],
         "city": "MARION",
@@ -188,12 +189,11 @@
       },
       {
         "line": [
-          "1700 Wildcat Road",
-          "Ste A"
+          "15470 LAKE OF EGYPT RD"
         ],
-        "city": "MARION",
+        "city": "CREAL SPRINGS",
         "state": "IL",
-        "postalCode": "62959-1435"
+        "postalCode": "62922-3731"
       }
     ],
     "extension": [

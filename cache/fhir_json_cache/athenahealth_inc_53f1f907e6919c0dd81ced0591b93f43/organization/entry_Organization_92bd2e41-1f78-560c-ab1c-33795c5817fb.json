@@ -14,11 +14,11 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1508253501"
+        "value": "1437542073"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1437542073"
+        "value": "1508253501"
       }
     ],
     "address": [
@@ -32,19 +32,11 @@
       },
       {
         "line": [
-          "750 W D Ave"
+          "112 North Main"
         ],
-        "city": "KINGMAN",
+        "city": "CUNNINGHAM",
         "state": "KS",
-        "postalCode": "67068-1266"
-      },
-      {
-        "line": [
-          "750 W. D Ave."
-        ],
-        "city": "KINGMAN",
-        "state": "KS",
-        "postalCode": "67068-1266"
+        "postalCode": "67035-8802"
       },
       {
         "line": [
@@ -65,19 +57,19 @@
       },
       {
         "line": [
-          "112 North Main"
+          "750 W D Ave"
         ],
-        "city": "CUNNINGHAM",
+        "city": "KINGMAN",
         "state": "KS",
-        "postalCode": "67035-8802"
+        "postalCode": "67068-1266"
       },
       {
         "line": [
-          "331 State Route 61"
+          "750 W. D Ave."
         ],
-        "city": "PRATT",
+        "city": "KINGMAN",
         "state": "KS",
-        "postalCode": "67124-0301"
+        "postalCode": "67068-1266"
       },
       {
         "line": [
@@ -86,6 +78,14 @@
         "city": "KINGMAN",
         "state": "KS",
         "postalCode": "67068-8168"
+      },
+      {
+        "line": [
+          "331 State Route 61"
+        ],
+        "city": "PRATT",
+        "state": "KS",
+        "postalCode": "67124-0301"
       }
     ],
     "extension": [

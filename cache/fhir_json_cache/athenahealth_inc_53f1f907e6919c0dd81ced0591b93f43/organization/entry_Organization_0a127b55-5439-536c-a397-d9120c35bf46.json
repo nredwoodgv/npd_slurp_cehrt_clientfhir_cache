@@ -14,7 +14,7 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1568018695"
+        "value": "1760928766"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,27 +26,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1760928766"
+        "value": "1568018695"
       }
     ],
     "address": [
-      {
-        "line": [
-          "14221 East 4th Avenue",
-          "Suite 2-126"
-        ],
-        "city": "AURORA",
-        "state": "CO",
-        "postalCode": "80011-8717"
-      },
-      {
-        "line": [
-          "11150 HURON ST, STE 209"
-        ],
-        "city": "Northglenn",
-        "state": "CO",
-        "postalCode": "80234-4378"
-      },
       {
         "line": [
           "2675 S ABILENE ST STE 100"
@@ -59,6 +42,23 @@
         "line": [
           "11150 HURON ST",
           "STE 209"
+        ],
+        "city": "Northglenn",
+        "state": "CO",
+        "postalCode": "80234-4378"
+      },
+      {
+        "line": [
+          "14221 East 4th Avenue",
+          "Suite 2-126"
+        ],
+        "city": "AURORA",
+        "state": "CO",
+        "postalCode": "80011-8717"
+      },
+      {
+        "line": [
+          "11150 HURON ST, STE 209"
         ],
         "city": "Northglenn",
         "state": "CO",

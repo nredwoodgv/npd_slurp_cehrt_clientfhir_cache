@@ -18,11 +18,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1962025148"
+        "value": "1629538491"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1629538491"
+        "value": "1275290694"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1962025148"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -31,20 +35,24 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1508489782"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1275290694"
       }
     ],
     "address": [
       {
         "line": [
-          "1004 W 32nd St"
+          "4112 Links Ln,  Ste 101"
         ],
-        "city": "Lampasas",
+        "city": "ROUND ROCK",
         "state": "TX",
-        "postalCode": "76550-1820"
+        "postalCode": "78664-3902"
+      },
+      {
+        "line": [
+          "9670 RR 12"
+        ],
+        "city": "Wimberley",
+        "state": "TX",
+        "postalCode": "78676-5238"
       },
       {
         "line": [
@@ -56,11 +64,11 @@
       },
       {
         "line": [
-          "4112 Links Ln,  Ste 101"
+          "6811 Austin Center Blvd Ste 410"
         ],
-        "city": "ROUND ROCK",
+        "city": "Austin",
         "state": "TX",
-        "postalCode": "78664-3902"
+        "postalCode": "78731-3157"
       },
       {
         "line": [
@@ -80,11 +88,11 @@
       },
       {
         "line": [
-          "6811 Austin Center Blvd Ste 410"
+          "1401 Medical Pkwy Bldg B, Ste 220"
         ],
-        "city": "Austin",
+        "city": "CEDAR PARK",
         "state": "TX",
-        "postalCode": "78731-3157"
+        "postalCode": "78613-5013"
       },
       {
         "line": [
@@ -105,14 +113,6 @@
       },
       {
         "line": [
-          "1401 Medical Pkwy Bldg B, Ste 220"
-        ],
-        "city": "CEDAR PARK",
-        "state": "TX",
-        "postalCode": "78613-5013"
-      },
-      {
-        "line": [
           "1301 W 38th St Ste 107"
         ],
         "city": "Austin",
@@ -121,11 +121,11 @@
       },
       {
         "line": [
-          "9670 RR 12"
+          "1004 W 32nd St"
         ],
-        "city": "Wimberley",
+        "city": "Lampasas",
         "state": "TX",
-        "postalCode": "78676-5238"
+        "postalCode": "76550-1820"
       }
     ],
     "extension": [

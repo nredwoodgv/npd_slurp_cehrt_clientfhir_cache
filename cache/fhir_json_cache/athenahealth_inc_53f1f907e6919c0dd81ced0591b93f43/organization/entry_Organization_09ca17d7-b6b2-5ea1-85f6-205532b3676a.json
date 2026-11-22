@@ -14,11 +14,15 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1205698479"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1053172833"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1417718297"
+        "value": "1447137740"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -26,22 +30,10 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205698479"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1447137740"
+        "value": "1417718297"
       }
     ],
     "address": [
-      {
-        "line": [
-          "80 Guest ST"
-        ],
-        "city": "BRIGHTON",
-        "state": "MA",
-        "postalCode": "02135-2071"
-      },
       {
         "line": [
           "2555 E. Colorado Blvd",
@@ -59,6 +51,14 @@
         "city": "RANCHO CUCAMONGA",
         "state": "CA",
         "postalCode": "91730-3852"
+      },
+      {
+        "line": [
+          "80 Guest ST"
+        ],
+        "city": "BRIGHTON",
+        "state": "MA",
+        "postalCode": "02135-2071"
       }
     ],
     "extension": [

@@ -22,11 +22,15 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1770828444"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1326383092"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1770828444"
+        "value": "1144779315"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -35,29 +39,9 @@
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1780929455"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1144779315"
       }
     ],
     "address": [
-      {
-        "line": [
-          "1818 KANSAS AVE"
-        ],
-        "city": "WOODWARD",
-        "state": "OK",
-        "postalCode": "73801-2912"
-      },
-      {
-        "line": [
-          "1810 KANSAS AVE"
-        ],
-        "city": "WOODWARD",
-        "state": "OK",
-        "postalCode": "73801-2912"
-      },
       {
         "line": [
           "900 17TH ST"
@@ -73,6 +57,22 @@
         "city": "WOODWARD",
         "state": "OK",
         "postalCode": "73801-2307"
+      },
+      {
+        "line": [
+          "1810 KANSAS AVE"
+        ],
+        "city": "WOODWARD",
+        "state": "OK",
+        "postalCode": "73801-2912"
+      },
+      {
+        "line": [
+          "1818 KANSAS AVE"
+        ],
+        "city": "WOODWARD",
+        "state": "OK",
+        "postalCode": "73801-2912"
       }
     ],
     "extension": [

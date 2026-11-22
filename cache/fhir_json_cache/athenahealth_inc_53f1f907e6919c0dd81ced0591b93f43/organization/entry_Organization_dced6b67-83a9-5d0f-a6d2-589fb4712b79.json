@@ -14,6 +14,18 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1912965088"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1376820605"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1700831500"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1114366333"
       },
       {
@@ -22,23 +34,11 @@
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1700831500"
+        "value": "1750680757"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
         "value": "1386716520"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1376820605"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1912965088"
-      },
-      {
-        "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1750680757"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
@@ -48,20 +48,20 @@
     "address": [
       {
         "line": [
+          "7815 E JEFFERSON 2A"
+        ],
+        "city": "DETROIT",
+        "state": "MI",
+        "postalCode": "48214-3704"
+      },
+      {
+        "line": [
           "7633 E JEFFERSON",
           "STE 170"
         ],
         "city": "DETROIT",
         "state": "MI",
         "postalCode": "48214-3731"
-      },
-      {
-        "line": [
-          "7815 E JEFFERSON 2A"
-        ],
-        "city": "DETROIT",
-        "state": "MI",
-        "postalCode": "48214-3704"
       }
     ],
     "extension": [

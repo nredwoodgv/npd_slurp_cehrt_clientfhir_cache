@@ -14,39 +14,14 @@
     "identifier": [
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205835485"
+        "value": "1205605342"
       },
       {
         "system": "http://hl7.org/fhir/sid/us-npi",
-        "value": "1205605342"
+        "value": "1205835485"
       }
     ],
     "address": [
-      {
-        "line": [
-          "3800 Lottsford Vista Rd"
-        ],
-        "city": "BOWIE",
-        "state": "MD",
-        "postalCode": "20721-4018"
-      },
-      {
-        "line": [
-          "9500 MEDICAL CENTER DR",
-          "STE 450"
-        ],
-        "city": "UPPER MARLBORO",
-        "state": "MD",
-        "postalCode": "20774-3725"
-      },
-      {
-        "line": [
-          "900 VAN BUREN ST"
-        ],
-        "city": "ANNAPOLIS",
-        "state": "MD",
-        "postalCode": "21043-2124"
-      },
       {
         "line": [
           "901 ARCOLA AVE"
@@ -54,22 +29,6 @@
         "city": "SILVER SPRING",
         "state": "MD",
         "postalCode": "20902-3401"
-      },
-      {
-        "line": [
-          "299 HURLEY AVE"
-        ],
-        "city": "ROCKVILLE",
-        "state": "MD",
-        "postalCode": "20850-3118"
-      },
-      {
-        "line": [
-          "9106 PINEVIEW LANE"
-        ],
-        "city": "CLINTON",
-        "state": "MD",
-        "postalCode": "20735-3229"
       },
       {
         "line": [
@@ -81,27 +40,12 @@
       },
       {
         "line": [
-          "3001 Hospital Dr."
+          "9500 MEDICAL CENTER DR",
+          "STE 450"
         ],
-        "city": "Cheverly",
+        "city": "UPPER MARLBORO",
         "state": "MD",
-        "postalCode": "20785-1189"
-      },
-      {
-        "line": [
-          "9211 Stuart Ln"
-        ],
-        "city": "CLINTON",
-        "state": "MD",
-        "postalCode": "20735-2712"
-      },
-      {
-        "line": [
-          "4011 RANDOLPH RD"
-        ],
-        "city": "SILVER SPRING",
-        "state": "MD",
-        "postalCode": "20902-1054"
+        "postalCode": "20774-3725"
       },
       {
         "line": [
@@ -121,11 +65,67 @@
       },
       {
         "line": [
+          "900 VAN BUREN ST"
+        ],
+        "city": "ANNAPOLIS",
+        "state": "MD",
+        "postalCode": "21043-2124"
+      },
+      {
+        "line": [
+          "3800 Lottsford Vista Rd"
+        ],
+        "city": "BOWIE",
+        "state": "MD",
+        "postalCode": "20721-4018"
+      },
+      {
+        "line": [
+          "3001 Hospital Dr."
+        ],
+        "city": "Cheverly",
+        "state": "MD",
+        "postalCode": "20785-1189"
+      },
+      {
+        "line": [
+          "9106 PINEVIEW LANE"
+        ],
+        "city": "CLINTON",
+        "state": "MD",
+        "postalCode": "20735-3229"
+      },
+      {
+        "line": [
           "5721 Grosvenor Lane"
         ],
         "city": "BETHESDA",
         "state": "MD",
         "postalCode": "20814-1833"
+      },
+      {
+        "line": [
+          "9211 Stuart Ln"
+        ],
+        "city": "CLINTON",
+        "state": "MD",
+        "postalCode": "20735-2712"
+      },
+      {
+        "line": [
+          "299 HURLEY AVE"
+        ],
+        "city": "ROCKVILLE",
+        "state": "MD",
+        "postalCode": "20850-3118"
+      },
+      {
+        "line": [
+          "4011 RANDOLPH RD"
+        ],
+        "city": "SILVER SPRING",
+        "state": "MD",
+        "postalCode": "20902-1054"
       },
       {
         "line": [
